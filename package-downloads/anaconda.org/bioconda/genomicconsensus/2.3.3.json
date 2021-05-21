@@ -8,12 +8,16 @@
 {
 "date":"2021-05-20",
 "total":2799
+},
+{
+"date":"2021-05-21",
+"total":2802
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":718
+"total":719
 },
 {
 "subdir":"noarch",
@@ -21,7 +25,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1648
+"total":1650
 }
 ],
 "package":"genomicconsensus",

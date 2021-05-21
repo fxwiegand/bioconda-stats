@@ -8,12 +8,16 @@
 {
 "date":"2021-05-20",
 "total":40115
+},
+{
+"date":"2021-05-21",
+"total":40118
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":30173
+"total":30174
 },
 {
 "subdir":"noarch",
@@ -21,7 +25,7 @@
 },
 {
 "subdir":"osx-64",
-"total":3818
+"total":3820
 }
 ],
 "package":"trimmomatic",

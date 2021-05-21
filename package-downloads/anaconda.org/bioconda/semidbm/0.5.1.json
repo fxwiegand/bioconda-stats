@@ -8,12 +8,16 @@
 {
 "date":"2021-05-20",
 "total":5788
+},
+{
+"date":"2021-05-21",
+"total":5793
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":3230
+"total":3233
 },
 {
 "subdir":"noarch",
@@ -21,7 +25,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1900
+"total":1902
 }
 ],
 "package":"semidbm",

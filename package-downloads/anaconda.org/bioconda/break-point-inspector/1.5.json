@@ -8,12 +8,16 @@
 {
 "date":"2021-05-20",
 "total":8637
+},
+{
+"date":"2021-05-21",
+"total":8644
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":3101
+"total":3106
 },
 {
 "subdir":"noarch",
@@ -21,7 +25,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1758
+"total":1760
 }
 ],
 "package":"break-point-inspector",

@@ -8,12 +8,16 @@
 {
 "date":"2021-05-20",
 "total":11910
+},
+{
+"date":"2021-05-21",
+"total":11917
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":6400
+"total":6405
 },
 {
 "subdir":"noarch",
@@ -21,7 +25,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1929
+"total":1931
 }
 ],
 "package":"bcbio-prioritize",

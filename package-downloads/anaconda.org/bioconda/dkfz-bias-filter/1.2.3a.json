@@ -8,12 +8,16 @@
 {
 "date":"2021-05-20",
 "total":9943
+},
+{
+"date":"2021-05-21",
+"total":9946
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":7466
+"total":7467
 },
 {
 "subdir":"noarch",
@@ -21,7 +25,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1973
+"total":1975
 }
 ],
 "package":"dkfz-bias-filter",
