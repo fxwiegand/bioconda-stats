@@ -12,12 +12,16 @@
 {
 "date":"2021-05-21",
 "total":10636
+},
+{
+"date":"2021-05-22",
+"total":10639
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":6909
+"total":6910
 },
 {
 "subdir":"noarch",
@@ -25,7 +29,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2536
+"total":2538
 }
 ],
 "package":"circos",

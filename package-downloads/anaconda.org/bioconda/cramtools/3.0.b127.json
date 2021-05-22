@@ -12,12 +12,16 @@
 {
 "date":"2021-05-21",
 "total":13467
+},
+{
+"date":"2021-05-22",
+"total":13470
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":6481
+"total":6482
 },
 {
 "subdir":"noarch",
@@ -25,7 +29,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1948
+"total":1950
 }
 ],
 "package":"cramtools",
