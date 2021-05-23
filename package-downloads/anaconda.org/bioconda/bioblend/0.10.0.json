@@ -16,12 +16,16 @@
 {
 "date":"2021-05-22",
 "total":9103
+},
+{
+"date":"2021-05-23",
+"total":9106
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":6804
+"total":6805
 },
 {
 "subdir":"noarch",
@@ -29,7 +33,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2127
+"total":2129
 }
 ],
 "package":"bioblend",

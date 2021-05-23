@@ -16,12 +16,16 @@
 {
 "date":"2021-05-22",
 "total":18170
+},
+{
+"date":"2021-05-23",
+"total":18175
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":11338
+"total":11341
 },
 {
 "subdir":"noarch",
@@ -29,7 +33,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2612
+"total":2614
 }
 ],
 "package":"bioconductor-do.db",

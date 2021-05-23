@@ -16,12 +16,16 @@
 {
 "date":"2021-05-22",
 "total":62414
+},
+{
+"date":"2021-05-23",
+"total":62418
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":50630
+"total":50631
 },
 {
 "subdir":"noarch",
@@ -29,7 +33,7 @@
 },
 {
 "subdir":"osx-64",
-"total":7197
+"total":7200
 }
 ],
 "package":"qiime",
