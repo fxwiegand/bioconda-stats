@@ -20,12 +20,16 @@
 {
 "date":"2021-05-23",
 "total":10446
+},
+{
+"date":"2021-05-24",
+"total":10449
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":7873
+"total":7874
 },
 {
 "subdir":"noarch",
@@ -33,7 +37,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1963
+"total":1965
 }
 ],
 "package":"tophat-recondition",

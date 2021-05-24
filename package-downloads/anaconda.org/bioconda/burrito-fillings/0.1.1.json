@@ -20,12 +20,16 @@
 {
 "date":"2021-05-23",
 "total":35483
+},
+{
+"date":"2021-05-24",
+"total":35486
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":28394
+"total":28395
 },
 {
 "subdir":"noarch",
@@ -33,7 +37,7 @@
 },
 {
 "subdir":"osx-64",
-"total":7016
+"total":7018
 }
 ],
 "package":"burrito-fillings",

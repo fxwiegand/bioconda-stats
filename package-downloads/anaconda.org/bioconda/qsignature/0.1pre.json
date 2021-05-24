@@ -20,12 +20,16 @@
 {
 "date":"2021-05-23",
 "total":12921
+},
+{
+"date":"2021-05-24",
+"total":12925
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":7796
+"total":7798
 },
 {
 "subdir":"noarch",
@@ -33,7 +37,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1986
+"total":1988
 }
 ],
 "package":"qsignature",

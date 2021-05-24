@@ -20,12 +20,16 @@
 {
 "date":"2021-05-23",
 "total":8037
+},
+{
+"date":"2021-05-24",
+"total":8041
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":5380
+"total":5382
 },
 {
 "subdir":"noarch",
@@ -33,7 +37,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1816
+"total":1818
 }
 ],
 "package":"singlecell-barcodes",

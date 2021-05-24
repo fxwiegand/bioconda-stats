@@ -20,12 +20,16 @@
 {
 "date":"2021-05-23",
 "total":9172
+},
+{
+"date":"2021-05-24",
+"total":9175
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":4115
+"total":4116
 },
 {
 "subdir":"noarch",
@@ -33,7 +37,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2328
+"total":2330
 }
 ],
 "package":"igv",
