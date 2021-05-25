@@ -24,12 +24,16 @@
 {
 "date":"2021-05-24",
 "total":3796
+},
+{
+"date":"2021-05-25",
+"total":3800
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":1492
+"total":1494
 },
 {
 "subdir":"noarch",
@@ -37,7 +41,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1955
+"total":1957
 }
 ],
 "package":"orthomcl",

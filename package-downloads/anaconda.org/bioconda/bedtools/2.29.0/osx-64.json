@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bedtools-2.29.0-h37cfd92_3.tar.bz2",
-"total":618
+"total":620
 },
 {
 "basename":"bedtools-2.29.0-ha290c19_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"bedtools-2.29.0-hbf07bdc_0.tar.bz2",
-"total":1436
+"total":1438
 }
 ],
 "downloads_per_date":[
@@ -38,6 +38,10 @@
 {
 "date":"2021-05-24",
 "total":2823
+},
+{
+"date":"2021-05-25",
+"total":2827
 }
 ],
 "package":"bedtools",
