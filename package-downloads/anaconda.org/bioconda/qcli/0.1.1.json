@@ -28,12 +28,16 @@
 {
 "date":"2021-05-25",
 "total":36768
+},
+{
+"date":"2021-05-26",
+"total":36771
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":28760
+"total":28761
 },
 {
 "subdir":"noarch",
@@ -41,7 +45,7 @@
 },
 {
 "subdir":"osx-64",
-"total":7064
+"total":7066
 }
 ],
 "package":"qcli",

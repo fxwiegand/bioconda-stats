@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"gromacs-2021.1-h3ddc34e_0.tar.bz2",
-"total":1780
+"total":1781
 },
 {
 "basename":"gromacs-2021.1-mpi_openmpi_h9969a6a_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"gromacs-2021.1-nompi_hcc3dda7_101.tar.bz2",
-"total":492
+"total":556
 }
 ],
 "downloads_per_date":[
@@ -42,6 +42,10 @@
 {
 "date":"2021-05-25",
 "total":2291
+},
+{
+"date":"2021-05-26",
+"total":2356
 }
 ],
 "package":"gromacs",

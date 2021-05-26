@@ -28,12 +28,16 @@
 {
 "date":"2021-05-25",
 "total":3456
+},
+{
+"date":"2021-05-26",
+"total":3459
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":1208
+"total":1209
 },
 {
 "subdir":"noarch",
@@ -41,7 +45,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1884
+"total":1886
 }
 ],
 "package":"bioconductor-snplocs.hsapiens.dbsnp144.grch38",

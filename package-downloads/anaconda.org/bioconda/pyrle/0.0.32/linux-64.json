@@ -3,11 +3,11 @@
 "downloads_per_basename":[
 {
 "basename":"pyrle-0.0.32-py36h4c5857e_0.tar.bz2",
-"total":311
+"total":312
 },
 {
 "basename":"pyrle-0.0.32-py36hc5360cc_1.tar.bz2",
-"total":57
+"total":72
 },
 {
 "basename":"pyrle-0.0.32-py37h73a75cf_1.tar.bz2",
@@ -27,7 +27,7 @@
 },
 {
 "basename":"pyrle-0.0.32-py39h38f01e4_1.tar.bz2",
-"total":70
+"total":71
 }
 ],
 "downloads_per_date":[
@@ -58,6 +58,10 @@
 {
 "date":"2021-05-25",
 "total":812
+},
+{
+"date":"2021-05-26",
+"total":829
 }
 ],
 "package":"pyrle",
