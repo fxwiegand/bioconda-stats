@@ -32,12 +32,16 @@
 {
 "date":"2021-05-26",
 "total":35638
+},
+{
+"date":"2021-05-27",
+"total":35641
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":27086
+"total":27087
 },
 {
 "subdir":"noarch",
@@ -45,7 +49,7 @@
 },
 {
 "subdir":"osx-64",
-"total":7117
+"total":7119
 }
 ],
 "package":"burrito",

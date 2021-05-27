@@ -32,12 +32,16 @@
 {
 "date":"2021-05-26",
 "total":4030
+},
+{
+"date":"2021-05-27",
+"total":4043
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":1675
+"total":1686
 },
 {
 "subdir":"noarch",
@@ -45,7 +49,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1610
+"total":1612
 }
 ],
 "package":"cnvkit",

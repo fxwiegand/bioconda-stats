@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-libxml-perl-0.08-0.tar.bz2",
-"total":14114
+"total":14116
 },
 {
 "basename":"perl-libxml-perl-0.08-pl526_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-libxml-perl-0.08-pl526_2.tar.bz2",
-"total":55941
+"total":55998
 }
 ],
 "downloads_per_date":[
@@ -46,6 +46,10 @@
 {
 "date":"2021-05-26",
 "total":70268
+},
+{
+"date":"2021-05-27",
+"total":70327
 }
 ],
 "package":"perl-libxml-perl",

@@ -32,12 +32,16 @@
 {
 "date":"2021-05-26",
 "total":7233
+},
+{
+"date":"2021-05-27",
+"total":7236
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":3118
+"total":3119
 },
 {
 "subdir":"noarch",
@@ -45,7 +49,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2158
+"total":2160
 }
 ],
 "package":"rdptools",

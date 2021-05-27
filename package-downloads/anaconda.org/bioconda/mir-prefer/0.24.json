@@ -32,12 +32,16 @@
 {
 "date":"2021-05-26",
 "total":5411
+},
+{
+"date":"2021-05-27",
+"total":5414
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":2955
+"total":2956
 },
 {
 "subdir":"noarch",
@@ -45,7 +49,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1985
+"total":1987
 }
 ],
 "package":"mir-prefer",
