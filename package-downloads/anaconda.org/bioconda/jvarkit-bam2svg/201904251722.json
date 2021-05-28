@@ -36,12 +36,16 @@
 {
 "date":"2021-05-27",
 "total":1755
+},
+{
+"date":"2021-05-28",
+"total":1758
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":148
+"total":149
 },
 {
 "subdir":"noarch",
@@ -49,7 +53,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1521
+"total":1523
 }
 ],
 "package":"jvarkit-bam2svg",

@@ -36,12 +36,16 @@
 {
 "date":"2021-05-27",
 "total":6483
+},
+{
+"date":"2021-05-28",
+"total":6497
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":4145
+"total":4157
 },
 {
 "subdir":"noarch",
@@ -49,7 +53,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1773
+"total":1775
 }
 ],
 "package":"mintmap",

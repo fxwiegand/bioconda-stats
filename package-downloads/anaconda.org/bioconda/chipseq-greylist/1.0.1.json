@@ -36,12 +36,16 @@
 {
 "date":"2021-05-27",
 "total":7058
+},
+{
+"date":"2021-05-28",
+"total":7061
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":2722
+"total":2723
 },
 {
 "subdir":"noarch",
@@ -49,7 +53,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1864
+"total":1866
 }
 ],
 "package":"chipseq-greylist",

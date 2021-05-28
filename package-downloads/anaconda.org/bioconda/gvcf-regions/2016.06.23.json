@@ -36,12 +36,16 @@
 {
 "date":"2021-05-27",
 "total":10876
+},
+{
+"date":"2021-05-28",
+"total":10886
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":6344
+"total":6352
 },
 {
 "subdir":"noarch",
@@ -49,7 +53,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2178
+"total":2180
 }
 ],
 "package":"gvcf-regions",

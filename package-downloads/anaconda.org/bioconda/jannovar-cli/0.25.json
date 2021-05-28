@@ -36,12 +36,16 @@
 {
 "date":"2021-05-27",
 "total":2606
+},
+{
+"date":"2021-05-28",
+"total":2609
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":390
+"total":391
 },
 {
 "subdir":"noarch",
@@ -49,7 +53,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1771
+"total":1773
 }
 ],
 "package":"jannovar-cli",

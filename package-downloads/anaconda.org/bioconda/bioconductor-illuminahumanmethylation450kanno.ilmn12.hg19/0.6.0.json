@@ -36,12 +36,16 @@
 {
 "date":"2021-05-27",
 "total":6822
+},
+{
+"date":"2021-05-28",
+"total":6827
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":2913
+"total":2916
 },
 {
 "subdir":"noarch",
@@ -49,7 +53,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2124
+"total":2126
 }
 ],
 "package":"bioconductor-illuminahumanmethylation450kanno.ilmn12.hg19",

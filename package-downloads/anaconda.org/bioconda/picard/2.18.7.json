@@ -36,12 +36,16 @@
 {
 "date":"2021-05-27",
 "total":6186
+},
+{
+"date":"2021-05-28",
+"total":6191
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":2261
+"total":2264
 },
 {
 "subdir":"noarch",
@@ -49,7 +53,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1930
+"total":1932
 }
 ],
 "package":"picard",

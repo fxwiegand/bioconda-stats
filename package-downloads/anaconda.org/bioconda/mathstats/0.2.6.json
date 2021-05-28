@@ -36,12 +36,16 @@
 {
 "date":"2021-05-27",
 "total":3499
+},
+{
+"date":"2021-05-28",
+"total":3502
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":1419
+"total":1420
 },
 {
 "subdir":"noarch",
@@ -49,7 +53,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1912
+"total":1914
 }
 ],
 "package":"mathstats",

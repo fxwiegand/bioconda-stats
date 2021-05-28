@@ -36,12 +36,16 @@
 {
 "date":"2021-05-27",
 "total":4458
+},
+{
+"date":"2021-05-28",
+"total":4461
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":2451
+"total":2452
 },
 {
 "subdir":"noarch",
@@ -49,7 +53,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1917
+"total":1919
 }
 ],
 "package":"extract_genome_region",

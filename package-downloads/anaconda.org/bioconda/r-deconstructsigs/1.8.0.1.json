@@ -36,12 +36,16 @@
 {
 "date":"2021-05-27",
 "total":4607
+},
+{
+"date":"2021-05-28",
+"total":4610
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":2396
+"total":2397
 },
 {
 "subdir":"noarch",
@@ -49,7 +53,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1820
+"total":1822
 }
 ],
 "package":"r-deconstructsigs",
