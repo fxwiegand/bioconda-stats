@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"pysam-0.11.2.2-htslib1.5_2.tar.bz2",
-"total":8092
+"total":8093
 },
 {
 "basename":"pysam-0.11.2.2-py27_0.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"pysam-0.11.2.2-py27_1.tar.bz2",
-"total":8283
+"total":8284
 },
 {
 "basename":"pysam-0.11.2.2-py35_0.tar.bz2",
@@ -27,7 +27,7 @@
 },
 {
 "basename":"pysam-0.11.2.2-py36_1.tar.bz2",
-"total":12671
+"total":12672
 }
 ],
 "downloads_per_date":[
@@ -70,6 +70,10 @@
 {
 "date":"2021-05-28",
 "total":37374
+},
+{
+"date":"2021-05-29",
+"total":37377
 }
 ],
 "package":"pysam",

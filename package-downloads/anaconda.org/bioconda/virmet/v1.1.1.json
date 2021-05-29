@@ -40,12 +40,16 @@
 {
 "date":"2021-05-28",
 "total":3522
+},
+{
+"date":"2021-05-29",
+"total":3525
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":1182
+"total":1183
 },
 {
 "subdir":"noarch",
@@ -53,7 +57,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1844
+"total":1846
 }
 ],
 "package":"virmet",

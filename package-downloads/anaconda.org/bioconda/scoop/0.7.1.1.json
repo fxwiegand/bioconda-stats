@@ -40,12 +40,16 @@
 {
 "date":"2021-05-28",
 "total":7246
+},
+{
+"date":"2021-05-29",
+"total":7249
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":3202
+"total":3203
 },
 {
 "subdir":"noarch",
@@ -53,7 +57,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2259
+"total":2261
 }
 ],
 "package":"scoop",

@@ -40,12 +40,16 @@
 {
 "date":"2021-05-28",
 "total":33671
+},
+{
+"date":"2021-05-29",
+"total":33674
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":26010
+"total":26011
 },
 {
 "subdir":"noarch",
@@ -53,7 +57,7 @@
 },
 {
 "subdir":"osx-64",
-"total":6712
+"total":6714
 }
 ],
 "package":"pynast",

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-json-xs-2.34-0.tar.bz2",
-"total":18854
+"total":18856
 },
 {
 "basename":"perl-json-xs-2.34-pl526_1.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"perl-json-xs-2.34-pl526h6bb024c_3.tar.bz2",
-"total":101800
+"total":101887
 }
 ],
 "downloads_per_date":[
@@ -58,6 +58,10 @@
 {
 "date":"2021-05-28",
 "total":137586
+},
+{
+"date":"2021-05-29",
+"total":137675
 }
 ],
 "package":"perl-json-xs",

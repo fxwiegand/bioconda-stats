@@ -40,12 +40,16 @@
 {
 "date":"2021-05-28",
 "total":39658
+},
+{
+"date":"2021-05-29",
+"total":39662
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":12543
+"total":12545
 },
 {
 "subdir":"noarch",
@@ -53,7 +57,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1829
+"total":1831
 }
 ],
 "package":"rseqc",
