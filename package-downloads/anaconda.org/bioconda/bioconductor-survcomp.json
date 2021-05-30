@@ -47,7 +47,7 @@
 },
 {
 "date":"2021-05-30",
-"total":10889
+"total":10896
 }
 ],
 "downloads_per_version":[
@@ -78,6 +78,10 @@
 {
 "total":512,
 "version":"1.40.0"
+},
+{
+"total":7,
+"version":"1.42.0"
 }
 ],
 "package":"bioconductor-survcomp"
