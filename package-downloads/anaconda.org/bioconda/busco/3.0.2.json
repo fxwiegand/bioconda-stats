@@ -44,12 +44,16 @@
 {
 "date":"2021-05-29",
 "total":12412
+},
+{
+"date":"2021-05-30",
+"total":12415
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":9199
+"total":9200
 },
 {
 "subdir":"noarch",
@@ -57,7 +61,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2149
+"total":2151
 }
 ],
 "package":"busco",
