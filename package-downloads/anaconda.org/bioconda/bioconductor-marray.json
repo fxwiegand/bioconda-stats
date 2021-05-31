@@ -51,7 +51,7 @@
 },
 {
 "date":"2021-05-31",
-"total":21422
+"total":21489
 }
 ],
 "downloads_per_version":[
@@ -88,8 +88,12 @@
 "version":"1.66.0"
 },
 {
-"total":531,
+"total":556,
 "version":"1.68.0"
+},
+{
+"total":42,
+"version":"1.70.0"
 }
 ],
 "package":"bioconductor-marray"

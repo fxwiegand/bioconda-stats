@@ -51,7 +51,7 @@
 },
 {
 "date":"2021-05-31",
-"total":12065
+"total":12075
 }
 ],
 "downloads_per_version":[
@@ -88,8 +88,12 @@
 "version":"1.26.0"
 },
 {
-"total":601,
+"total":603,
 "version":"1.28.0"
+},
+{
+"total":8,
+"version":"1.30.0"
 }
 ],
 "package":"bioconductor-mzid"

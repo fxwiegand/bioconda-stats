@@ -51,7 +51,7 @@
 },
 {
 "date":"2021-05-31",
-"total":123415
+"total":123459
 }
 ],
 "downloads_per_version":[
@@ -76,7 +76,7 @@
 "version":"1.38.0"
 },
 {
-"total":36156,
+"total":36160,
 "version":"1.40.0"
 },
 {
@@ -88,12 +88,16 @@
 "version":"1.44.0"
 },
 {
-"total":1913,
+"total":1914,
 "version":"1.46.0"
 },
 {
-"total":13230,
+"total":13256,
 "version":"1.48.0"
+},
+{
+"total":13,
+"version":"1.50.0"
 }
 ],
 "package":"bioconductor-shortread"

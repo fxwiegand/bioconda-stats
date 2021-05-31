@@ -51,7 +51,7 @@
 },
 {
 "date":"2021-05-31",
-"total":3495
+"total":3505
 }
 ],
 "downloads_per_version":[
@@ -70,6 +70,10 @@
 {
 "total":592,
 "version":"2.2.0"
+},
+{
+"total":10,
+"version":"2.4.0"
 }
 ],
 "package":"bioconductor-pcatools"

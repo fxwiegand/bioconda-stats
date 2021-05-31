@@ -51,7 +51,7 @@
 },
 {
 "date":"2021-05-31",
-"total":36349
+"total":36364
 }
 ],
 "downloads_per_version":[
@@ -88,7 +88,7 @@
 "version":"2.28.0"
 },
 {
-"total":3271,
+"total":3273,
 "version":"2.30.0"
 },
 {
@@ -96,8 +96,12 @@
 "version":"2.32.0"
 },
 {
-"total":1681,
+"total":1684,
 "version":"2.34.0"
+},
+{
+"total":10,
+"version":"2.36.0"
 }
 ],
 "package":"bioconductor-rgraphviz"

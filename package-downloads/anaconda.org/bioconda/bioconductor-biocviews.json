@@ -51,7 +51,7 @@
 },
 {
 "date":"2021-05-31",
-"total":12483
+"total":12501
 }
 ],
 "downloads_per_version":[
@@ -68,7 +68,7 @@
 "version":"1.48.3"
 },
 {
-"total":1986,
+"total":1997,
 "version":"1.50.9"
 },
 {
@@ -88,8 +88,12 @@
 "version":"1.58.0"
 },
 {
-"total":219,
+"total":220,
 "version":"1.58.1"
+},
+{
+"total":6,
+"version":"1.60.0"
 }
 ],
 "package":"bioconductor-biocviews"

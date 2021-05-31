@@ -51,7 +51,7 @@
 },
 {
 "date":"2021-05-31",
-"total":27203
+"total":27221
 }
 ],
 "downloads_per_version":[
@@ -100,8 +100,12 @@
 "version":"2.56.0"
 },
 {
-"total":1062,
+"total":1065,
 "version":"2.58.0"
+},
+{
+"total":15,
+"version":"2.60.0"
 }
 ],
 "package":"bioconductor-geoquery"
