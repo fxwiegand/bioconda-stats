@@ -48,12 +48,16 @@
 {
 "date":"2021-05-30",
 "total":14095
+},
+{
+"date":"2021-05-31",
+"total":14098
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":8272
+"total":8273
 },
 {
 "subdir":"noarch",
@@ -61,7 +65,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2319
+"total":2321
 }
 ],
 "package":"bcbio-variation",

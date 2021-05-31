@@ -48,12 +48,16 @@
 {
 "date":"2021-05-30",
 "total":4357
+},
+{
+"date":"2021-05-31",
+"total":4361
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":1749
+"total":1750
 },
 {
 "subdir":"noarch",
@@ -61,7 +65,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1888
+"total":1891
 }
 ],
 "package":"eggnog-mapper",

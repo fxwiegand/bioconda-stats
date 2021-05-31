@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-http-negotiate-6.01-0.tar.bz2",
-"total":24235
+"total":24241
 },
 {
 "basename":"perl-http-negotiate-6.01-pl526_1.tar.bz2",
@@ -11,11 +11,11 @@
 },
 {
 "basename":"perl-http-negotiate-6.01-pl526_2.tar.bz2",
-"total":12958
+"total":12960
 },
 {
 "basename":"perl-http-negotiate-6.01-pl526_3.tar.bz2",
-"total":105019
+"total":105076
 }
 ],
 "downloads_per_date":[
@@ -66,6 +66,10 @@
 {
 "date":"2021-05-30",
 "total":143919
+},
+{
+"date":"2021-05-31",
+"total":143984
 }
 ],
 "package":"perl-http-negotiate",
