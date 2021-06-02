@@ -52,12 +52,16 @@
 {
 "date":"2021-05-31",
 "total":25250
+},
+{
+"date":"2021-06-02",
+"total":25255
 }
 ],
 "downloads_per_subdir":[
 {
 "subdir":"linux-64",
-"total":15265
+"total":15266
 },
 {
 "subdir":"noarch",
@@ -65,7 +69,7 @@
 },
 {
 "subdir":"osx-64",
-"total":4203
+"total":4207
 }
 ],
 "package":"entrez-direct",

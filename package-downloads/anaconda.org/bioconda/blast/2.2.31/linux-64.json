@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"blast-2.2.31-1.tar.bz2",
-"total":21948
+"total":21962
 },
 {
 "basename":"blast-2.2.31-boost1.60_2.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"blast-2.2.31-pl526h3066fca_3.tar.bz2",
-"total":3532
+"total":3533
 },
 {
 "basename":"blast-2.2.31-pl526he19e7b1_4.tar.bz2",
@@ -19,7 +19,7 @@
 },
 {
 "basename":"blast-2.2.31-pl526he19e7b1_5.tar.bz2",
-"total":1531
+"total":1541
 }
 ],
 "downloads_per_date":[
@@ -74,6 +74,10 @@
 {
 "date":"2021-05-31",
 "total":38337
+},
+{
+"date":"2021-06-02",
+"total":38362
 }
 ],
 "package":"blast",

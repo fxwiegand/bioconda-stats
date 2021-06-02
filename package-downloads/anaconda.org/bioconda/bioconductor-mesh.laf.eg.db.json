@@ -8,6 +8,10 @@
 {
 "date":"2021-05-31",
 "total":350
+},
+{
+"date":"2021-06-02",
+"total":356
 }
 ],
 "downloads_per_version":[
@@ -20,8 +24,12 @@
 "version":"1.12.0"
 },
 {
-"total":155,
+"total":156,
 "version":"1.13.0"
+},
+{
+"total":5,
+"version":"1.15.0"
 }
 ],
 "package":"bioconductor-mesh.laf.eg.db"
