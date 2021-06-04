@@ -7,7 +7,7 @@
 },
 {
 "basename":"hisat2-2.1.0-py27h2d50403_2.tar.bz2",
-"total":4817
+"total":4818
 },
 {
 "basename":"hisat2-2.1.0-py27h6bb024c_3.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"hisat2-2.1.0-py27hc9558a2_4.tar.bz2",
-"total":2298
+"total":2304
 },
 {
 "basename":"hisat2-2.1.0-py27pl5.22.0_0.tar.bz2",
@@ -23,7 +23,7 @@
 },
 {
 "basename":"hisat2-2.1.0-py35h2d50403_1.tar.bz2",
-"total":666
+"total":667
 },
 {
 "basename":"hisat2-2.1.0-py35pl5.22.0_0.tar.bz2",
@@ -35,15 +35,15 @@
 },
 {
 "basename":"hisat2-2.1.0-py36hc9558a2_4.tar.bz2",
-"total":1879
+"total":1884
 },
 {
 "basename":"hisat2-2.1.0-py36pl5.22.0_0.tar.bz2",
-"total":6887
+"total":6889
 },
 {
 "basename":"hisat2-2.1.0-py37hc9558a2_4.tar.bz2",
-"total":7879
+"total":7886
 }
 ],
 "downloads_per_date":[
@@ -102,6 +102,10 @@
 {
 "date":"2021-06-02",
 "total":52138
+},
+{
+"date":"2021-06-04",
+"total":52160
 }
 ],
 "package":"hisat2",

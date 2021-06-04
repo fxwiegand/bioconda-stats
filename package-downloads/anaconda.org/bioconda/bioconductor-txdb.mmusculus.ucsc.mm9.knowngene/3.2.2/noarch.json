@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-txdb.mmusculus.ucsc.mm9.knowngene-3.2.2-r36_7.tar.bz2",
-"total":160
+"total":161
 },
 {
 "basename":"bioconductor-txdb.mmusculus.ucsc.mm9.knowngene-3.2.2-r40_8.tar.bz2",
@@ -23,7 +23,11 @@
 },
 {
 "basename":"bioconductor-txdb.mmusculus.ucsc.mm9.knowngene-3.2.2-r40hdfd78af_10.tar.bz2",
-"total":32
+"total":34
+},
+{
+"basename":"bioconductor-txdb.mmusculus.ucsc.mm9.knowngene-3.2.2-r41hdfd78af_11.tar.bz2",
+"total":11
 }
 ],
 "downloads_per_date":[
@@ -58,6 +62,10 @@
 {
 "date":"2021-06-02",
 "total":716
+},
+{
+"date":"2021-06-04",
+"total":730
 }
 ],
 "package":"bioconductor-txdb.mmusculus.ucsc.mm9.knowngene",

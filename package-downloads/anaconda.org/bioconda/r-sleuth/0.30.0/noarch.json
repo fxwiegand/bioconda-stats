@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-sleuth-0.30.0-r36_2.tar.bz2",
-"total":1603
+"total":1604
 },
 {
 "basename":"r-sleuth-0.30.0-r40_3.tar.bz2",
@@ -11,7 +11,11 @@
 },
 {
 "basename":"r-sleuth-0.30.0-r40hdfd78af_4.tar.bz2",
-"total":120
+"total":122
+},
+{
+"basename":"r-sleuth-0.30.0-r41hdfd78af_5.tar.bz2",
+"total":8
 }
 ],
 "downloads_per_date":[
@@ -70,6 +74,10 @@
 {
 "date":"2021-06-02",
 "total":2095
+},
+{
+"date":"2021-06-04",
+"total":2106
 }
 ],
 "package":"r-sleuth",
