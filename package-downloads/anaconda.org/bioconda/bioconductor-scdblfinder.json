@@ -47,7 +47,7 @@
 },
 {
 "date":"2021-06-05",
-"total":342
+"total":350
 }
 ],
 "downloads_per_version":[
@@ -62,6 +62,10 @@
 {
 "total":174,
 "version":"1.4.0"
+},
+{
+"total":8,
+"version":"1.6.0"
 }
 ],
 "package":"bioconductor-scdblfinder"
