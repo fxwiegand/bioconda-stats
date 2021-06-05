@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-ntlm-1.09-1.tar.bz2",
-"total":24299
+"total":24300
 },
 {
 "basename":"perl-ntlm-1.09-pl526_2.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"perl-ntlm-1.09-pl526_4.tar.bz2",
-"total":104886
+"total":104962
 }
 ],
 "downloads_per_date":[
@@ -78,6 +78,10 @@
 {
 "date":"2021-06-04",
 "total":143418
+},
+{
+"date":"2021-06-05",
+"total":143495
 }
 ],
 "package":"perl-ntlm",
