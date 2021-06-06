@@ -64,6 +64,10 @@
 {
 "date":"2021-06-05",
 "total":7631
+},
+{
+"date":"2021-06-06",
+"total":7633
 }
 ],
 "downloads_per_subdir":[
@@ -73,11 +77,11 @@
 },
 {
 "subdir":"noarch",
-"total":1127
+"total":1128
 },
 {
 "subdir":"osx-64",
-"total":2062
+"total":2063
 }
 ],
 "package":"retry_decorator",
