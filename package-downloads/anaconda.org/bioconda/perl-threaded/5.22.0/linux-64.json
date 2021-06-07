@@ -3,11 +3,11 @@
 "downloads_per_basename":[
 {
 "basename":"perl-threaded-5.22.0-10.tar.bz2",
-"total":56351
+"total":56352
 },
 {
 "basename":"perl-threaded-5.22.0-13.tar.bz2",
-"total":36657
+"total":36658
 },
 {
 "basename":"perl-threaded-5.22.0-8.tar.bz2",
@@ -23,7 +23,7 @@
 },
 {
 "basename":"perl-threaded-5.22.0-pl5.22.0_12.tar.bz2",
-"total":63438
+"total":63439
 }
 ],
 "downloads_per_date":[
@@ -94,6 +94,10 @@
 {
 "date":"2021-06-06",
 "total":159261
+},
+{
+"date":"2021-06-07",
+"total":159264
 }
 ],
 "package":"perl-threaded",

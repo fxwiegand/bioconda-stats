@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-leaktrace-0.16-pl5.22.0_0.tar.bz2",
-"total":5986
+"total":5988
 },
 {
 "basename":"perl-test-leaktrace-0.16-pl526_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-test-leaktrace-0.16-pl526h14c3975_2.tar.bz2",
-"total":42520
+"total":42528
 }
 ],
 "downloads_per_date":[
@@ -82,6 +82,10 @@
 {
 "date":"2021-06-06",
 "total":63022
+},
+{
+"date":"2021-06-07",
+"total":63032
 }
 ],
 "package":"perl-test-leaktrace",
