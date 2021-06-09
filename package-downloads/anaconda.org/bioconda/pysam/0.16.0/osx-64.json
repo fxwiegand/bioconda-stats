@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"pysam-0.16.0-py36hb30a274_1.tar.bz2",
-"total":34
+"total":35
 },
 {
 "basename":"pysam-0.16.0-py36hf51531f_0.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"pysam-0.16.0-py37hdbf7ba2_0.tar.bz2",
-"total":809
+"total":811
 }
 ],
 "downloads_per_date":[
@@ -94,6 +94,10 @@
 {
 "date":"2021-06-08",
 "total":1011
+},
+{
+"date":"2021-06-09",
+"total":1014
 }
 ],
 "package":"pysam",

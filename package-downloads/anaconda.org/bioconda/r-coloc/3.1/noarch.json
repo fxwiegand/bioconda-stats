@@ -3,11 +3,11 @@
 "downloads_per_basename":[
 {
 "basename":"r-coloc-3.1-r36h6115d3f_2.tar.bz2",
-"total":139
+"total":140
 },
 {
 "basename":"r-coloc-3.1-r40h3121a25_4.tar.bz2",
-"total":28
+"total":30
 },
 {
 "basename":"r-coloc-3.1-r40h6115d3f_3.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"r-coloc-3.1-r41h3121a25_5.tar.bz2",
-"total":18
+"total":20
 }
 ],
 "downloads_per_date":[
@@ -62,6 +62,10 @@
 {
 "date":"2021-06-08",
 "total":260
+},
+{
+"date":"2021-06-09",
+"total":265
 }
 ],
 "package":"r-coloc",
