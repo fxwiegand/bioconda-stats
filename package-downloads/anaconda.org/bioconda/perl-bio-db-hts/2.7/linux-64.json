@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-bio-db-hts-2.7-htslib1.4_0.tar.bz2",
-"total":1080
+"total":1082
 },
 {
 "basename":"perl-bio-db-hts-2.7-htslib1.5_0.tar.bz2",
@@ -11,11 +11,11 @@
 },
 {
 "basename":"perl-bio-db-hts-2.7-htslib1.6_0.tar.bz2",
-"total":1523
+"total":1524
 },
 {
 "basename":"perl-bio-db-hts-2.7-htslib1.7_1.tar.bz2",
-"total":2445
+"total":2446
 },
 {
 "basename":"perl-bio-db-hts-2.7-pl5.22.0_0.tar.bz2",
@@ -23,11 +23,11 @@
 },
 {
 "basename":"perl-bio-db-hts-2.7-pl526h2f8a211_3.tar.bz2",
-"total":5530
+"total":5531
 },
 {
 "basename":"perl-bio-db-hts-2.7-pl526h9b5635b_2.tar.bz2",
-"total":2332
+"total":2334
 }
 ],
 "downloads_per_date":[
@@ -110,6 +110,10 @@
 {
 "date":"2021-06-09",
 "total":15069
+},
+{
+"date":"2021-06-10",
+"total":15076
 }
 ],
 "package":"perl-bio-db-hts",

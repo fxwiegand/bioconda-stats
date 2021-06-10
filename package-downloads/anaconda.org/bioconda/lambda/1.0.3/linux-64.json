@@ -2,8 +2,12 @@
 "channel":"bioconda",
 "downloads_per_basename":[
 {
+"basename":"lambda-1.0.3-h33c0355_1.tar.bz2",
+"total":3
+},
+{
 "basename":"lambda-1.0.3-h73067bb_0.tar.bz2",
-"total":1971
+"total":1973
 }
 ],
 "downloads_per_date":[
@@ -86,6 +90,10 @@
 {
 "date":"2021-06-09",
 "total":1971
+},
+{
+"date":"2021-06-10",
+"total":1976
 }
 ],
 "package":"lambda",
