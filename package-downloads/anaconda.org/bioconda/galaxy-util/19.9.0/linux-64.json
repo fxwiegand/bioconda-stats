@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"galaxy-util-19.9.0-py27_0.tar.bz2",
-"total":1264
+"total":1265
 },
 {
 "basename":"galaxy-util-19.9.0-py36_0.tar.bz2",
@@ -19,7 +19,7 @@
 },
 {
 "basename":"galaxy-util-19.9.0-py37hc8dfbb8_1.tar.bz2",
-"total":13930
+"total":13966
 }
 ],
 "downloads_per_date":[
@@ -106,6 +106,10 @@
 {
 "date":"2021-06-10",
 "total":17520
+},
+{
+"date":"2021-06-11",
+"total":17557
 }
 ],
 "package":"galaxy-util",

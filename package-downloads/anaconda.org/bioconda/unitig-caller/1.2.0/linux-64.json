@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"unitig-caller-1.2.0-py36h1019a84_1.tar.bz2",
-"total":18
+"total":19
 },
 {
 "basename":"unitig-caller-1.2.0-py36h8234fc9_0.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"unitig-caller-1.2.0-py37ha22e084_0.tar.bz2",
-"total":18
+"total":20
 },
 {
 "basename":"unitig-caller-1.2.0-py37haa7609a_1.tar.bz2",
@@ -23,11 +23,11 @@
 },
 {
 "basename":"unitig-caller-1.2.0-py38hfcc51a0_0.tar.bz2",
-"total":46
+"total":47
 },
 {
 "basename":"unitig-caller-1.2.0-py39h86f0cff_1.tar.bz2",
-"total":174
+"total":176
 }
 ],
 "downloads_per_date":[
@@ -114,6 +114,10 @@
 {
 "date":"2021-06-10",
 "total":317
+},
+{
+"date":"2021-06-11",
+"total":323
 }
 ],
 "package":"unitig-caller",
