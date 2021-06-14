@@ -92,6 +92,10 @@
 {
 "date":"2021-06-12",
 "total":5444
+},
+{
+"date":"2021-06-14",
+"total":5448
 }
 ],
 "downloads_per_subdir":[
@@ -101,11 +105,11 @@
 },
 {
 "subdir":"noarch",
-"total":346
+"total":348
 },
 {
 "subdir":"osx-64",
-"total":2104
+"total":2106
 }
 ],
 "package":"bioconductor-bsgenome.celegans.ucsc.ce10",
