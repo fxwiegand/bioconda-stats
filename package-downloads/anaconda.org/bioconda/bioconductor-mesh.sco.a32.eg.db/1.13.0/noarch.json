@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-mesh.sco.a32.eg.db-1.13.0-r36_0.tar.bz2",
-"total":59
+"total":60
 },
 {
 "basename":"bioconductor-mesh.sco.a32.eg.db-1.13.0-r40_1.tar.bz2",
@@ -11,11 +11,11 @@
 },
 {
 "basename":"bioconductor-mesh.sco.a32.eg.db-1.13.0-r40_2.tar.bz2",
-"total":29
+"total":30
 },
 {
 "basename":"bioconductor-mesh.sco.a32.eg.db-1.13.0-r40hdfd78af_3.tar.bz2",
-"total":27
+"total":29
 }
 ],
 "downloads_per_date":[
@@ -66,6 +66,10 @@
 {
 "date":"2021-06-14",
 "total":155
+},
+{
+"date":"2021-06-15",
+"total":159
 }
 ],
 "package":"bioconductor-mesh.sco.a32.eg.db",

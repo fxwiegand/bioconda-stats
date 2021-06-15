@@ -2,8 +2,12 @@
 "channel":"bioconda",
 "downloads_per_basename":[
 {
+"basename":"blast-2.11.0-pl5262h3289130_1.tar.bz2",
+"total":183
+},
+{
 "basename":"blast-2.11.0-pl526he19e7b1_0.tar.bz2",
-"total":13296
+"total":13344
 }
 ],
 "downloads_per_date":[
@@ -102,6 +106,10 @@
 {
 "date":"2021-06-14",
 "total":13296
+},
+{
+"date":"2021-06-15",
+"total":13527
 }
 ],
 "package":"blast",

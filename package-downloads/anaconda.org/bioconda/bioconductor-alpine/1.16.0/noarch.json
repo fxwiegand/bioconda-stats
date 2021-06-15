@@ -3,11 +3,11 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-alpine-1.16.0-r40_0.tar.bz2",
-"total":39
+"total":41
 },
 {
 "basename":"bioconductor-alpine-1.16.0-r40hdfd78af_1.tar.bz2",
-"total":32
+"total":35
 }
 ],
 "downloads_per_date":[
@@ -58,6 +58,10 @@
 {
 "date":"2021-06-14",
 "total":71
+},
+{
+"date":"2021-06-15",
+"total":76
 }
 ],
 "package":"bioconductor-alpine",
