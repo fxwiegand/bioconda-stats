@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-mafdb.exac.r1.0.grch38-3.10.0-r36_0.tar.bz2",
-"total":60
+"total":61
 },
 {
 "basename":"bioconductor-mafdb.exac.r1.0.grch38-3.10.0-r40_1.tar.bz2",
@@ -15,11 +15,11 @@
 },
 {
 "basename":"bioconductor-mafdb.exac.r1.0.grch38-3.10.0-r40hdfd78af_3.tar.bz2",
-"total":18
+"total":19
 },
 {
 "basename":"bioconductor-mafdb.exac.r1.0.grch38-3.10.0-r41hdfd78af_4.tar.bz2",
-"total":23
+"total":25
 }
 ],
 "downloads_per_date":[
@@ -78,6 +78,10 @@
 {
 "date":"2021-06-16",
 "total":171
+},
+{
+"date":"2021-06-17",
+"total":175
 }
 ],
 "package":"bioconductor-mafdb.exac.r1.0.grch38",

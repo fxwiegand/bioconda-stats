@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-io-html-1.001-0.tar.bz2",
-"total":6287
+"total":6288
 },
 {
 "basename":"perl-io-html-1.001-pl5.22.0_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-io-html-1.001-pl526_2.tar.bz2",
-"total":120792
+"total":120916
 }
 ],
 "downloads_per_date":[
@@ -118,6 +118,10 @@
 {
 "date":"2021-06-16",
 "total":146449
+},
+{
+"date":"2021-06-17",
+"total":146574
 }
 ],
 "package":"perl-io-html",
