@@ -112,6 +112,10 @@
 {
 "date":"2021-06-18",
 "total":6324
+},
+{
+"date":"2021-06-19",
+"total":6326
 }
 ],
 "downloads_per_subdir":[
@@ -121,11 +125,11 @@
 },
 {
 "subdir":"noarch",
-"total":386
+"total":387
 },
 {
 "subdir":"osx-64",
-"total":2297
+"total":2298
 }
 ],
 "package":"bioconductor-bsgenome.ecoli.ncbi.20080805",
