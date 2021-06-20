@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"backports.unittest_mock-1.1.1-py27_0.tar.bz2",
-"total":967
+"total":968
 },
 {
 "basename":"backports.unittest_mock-1.1.1-py34_0.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"backports.unittest_mock-1.1.1-py36_0.tar.bz2",
-"total":536
+"total":537
 }
 ],
 "downloads_per_date":[
@@ -58,6 +58,10 @@
 {
 "date":"2021-06-19",
 "total":2542
+},
+{
+"date":"2021-06-20",
+"total":2544
 }
 ],
 "package":"backports.unittest_mock",
