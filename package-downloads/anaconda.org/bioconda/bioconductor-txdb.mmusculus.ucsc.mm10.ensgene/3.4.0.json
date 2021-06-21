@@ -120,6 +120,10 @@
 {
 "date":"2021-06-20",
 "total":3575
+},
+{
+"date":"2021-06-21",
+"total":3577
 }
 ],
 "downloads_per_subdir":[
@@ -129,11 +133,11 @@
 },
 {
 "subdir":"noarch",
-"total":506
+"total":507
 },
 {
 "subdir":"osx-64",
-"total":1896
+"total":1897
 }
 ],
 "package":"bioconductor-txdb.mmusculus.ucsc.mm10.ensgene",

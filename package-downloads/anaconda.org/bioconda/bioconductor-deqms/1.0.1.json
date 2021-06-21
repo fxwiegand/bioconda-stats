@@ -120,6 +120,10 @@
 {
 "date":"2021-06-20",
 "total":2159
+},
+{
+"date":"2021-06-21",
+"total":2161
 }
 ],
 "downloads_per_subdir":[
@@ -129,11 +133,11 @@
 },
 {
 "subdir":"noarch",
-"total":192
+"total":193
 },
 {
 "subdir":"osx-64",
-"total":1813
+"total":1814
 }
 ],
 "package":"bioconductor-deqms",
