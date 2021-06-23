@@ -128,6 +128,10 @@
 {
 "date":"2021-06-22",
 "total":6701
+},
+{
+"date":"2021-06-23",
+"total":6703
 }
 ],
 "downloads_per_subdir":[
@@ -137,11 +141,11 @@
 },
 {
 "subdir":"noarch",
-"total":411
+"total":412
 },
 {
 "subdir":"osx-64",
-"total":2500
+"total":2501
 }
 ],
 "package":"bioconductor-bsgenome.dmelanogaster.ucsc.dm3",
