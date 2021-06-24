@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-do.db-2.9-0.tar.bz2",
-"total":4659
+"total":4665
 },
 {
 "basename":"bioconductor-do.db-2.9-r3.3.1_0.tar.bz2",
@@ -27,7 +27,7 @@
 },
 {
 "basename":"bioconductor-do.db-2.9-r351_3.tar.bz2",
-"total":594
+"total":595
 }
 ],
 "downloads_per_date":[
@@ -162,6 +162,10 @@
 {
 "date":"2021-06-23",
 "total":11508
+},
+{
+"date":"2021-06-24",
+"total":11515
 }
 ],
 "package":"bioconductor-do.db",

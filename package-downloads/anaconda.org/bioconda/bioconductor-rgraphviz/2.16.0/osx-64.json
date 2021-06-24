@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rgraphviz-2.16.0-r3.3.1_1.tar.bz2",
-"total":162
+"total":163
 },
 {
 "basename":"bioconductor-rgraphviz-2.16.0-r3.3.2_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-rgraphviz-2.16.0-r3.4.1_1.tar.bz2",
-"total":1584
+"total":1586
 }
 ],
 "downloads_per_date":[
@@ -146,6 +146,10 @@
 {
 "date":"2021-06-23",
 "total":2017
+},
+{
+"date":"2021-06-24",
+"total":2020
 }
 ],
 "package":"bioconductor-rgraphviz",
