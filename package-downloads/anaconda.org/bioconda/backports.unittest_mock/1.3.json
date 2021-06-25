@@ -136,6 +136,10 @@
 {
 "date":"2021-06-24",
 "total":3982
+},
+{
+"date":"2021-06-25",
+"total":3984
 }
 ],
 "downloads_per_subdir":[
@@ -145,11 +149,11 @@
 },
 {
 "subdir":"noarch",
-"total":221
+"total":222
 },
 {
 "subdir":"osx-64",
-"total":1971
+"total":1972
 }
 ],
 "package":"backports.unittest_mock",

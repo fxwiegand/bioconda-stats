@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"samtools-1.9-h10a08f8_12.tar.bz2",
-"total":555808
+"total":556604
 },
 {
 "basename":"samtools-1.9-h43f6869_9.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"samtools-1.9-h46bd0b3_0.tar.bz2",
-"total":45012
+"total":45016
 },
 {
 "basename":"samtools-1.9-h57cc563_6.tar.bz2",
@@ -27,7 +27,7 @@
 },
 {
 "basename":"samtools-1.9-h8571acd_11.tar.bz2",
-"total":77653
+"total":77659
 },
 {
 "basename":"samtools-1.9-h8ee4bcc_1.tar.bz2",
@@ -190,6 +190,10 @@
 {
 "date":"2021-06-24",
 "total":1039298
+},
+{
+"date":"2021-06-25",
+"total":1040104
 }
 ],
 "package":"samtools",

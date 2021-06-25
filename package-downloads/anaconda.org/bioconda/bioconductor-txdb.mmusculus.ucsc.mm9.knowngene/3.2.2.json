@@ -136,6 +136,10 @@
 {
 "date":"2021-06-24",
 "total":5849
+},
+{
+"date":"2021-06-25",
+"total":5851
 }
 ],
 "downloads_per_subdir":[
@@ -145,11 +149,11 @@
 },
 {
 "subdir":"noarch",
-"total":777
+"total":778
 },
 {
 "subdir":"osx-64",
-"total":2056
+"total":2057
 }
 ],
 "package":"bioconductor-txdb.mmusculus.ucsc.mm9.knowngene",
