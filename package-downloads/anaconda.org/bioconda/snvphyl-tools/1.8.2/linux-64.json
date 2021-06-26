@@ -2,6 +2,10 @@
 "channel":"bioconda",
 "downloads_per_basename":[
 {
+"basename":"snvphyl-tools-1.8.2-pl5262h779adbc_5.tar.bz2",
+"total":5
+},
+{
 "basename":"snvphyl-tools-1.8.2-pl5262h9e2ec86_3.tar.bz2",
 "total":25
 },
@@ -19,7 +23,7 @@
 },
 {
 "basename":"snvphyl-tools-1.8.2-pl526hcdb4288_2.tar.bz2",
-"total":754
+"total":756
 }
 ],
 "downloads_per_date":[
@@ -162,6 +166,10 @@
 {
 "date":"2021-06-25",
 "total":1864
+},
+{
+"date":"2021-06-26",
+"total":1871
 }
 ],
 "package":"snvphyl-tools",
