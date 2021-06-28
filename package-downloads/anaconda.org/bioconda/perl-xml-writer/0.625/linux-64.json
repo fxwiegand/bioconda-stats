@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-xml-writer-0.625-0.tar.bz2",
-"total":12339
+"total":12340
 },
 {
 "basename":"perl-xml-writer-0.625-pl526_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-xml-writer-0.625-pl526_2.tar.bz2",
-"total":56684
+"total":56713
 }
 ],
 "downloads_per_date":[
@@ -162,6 +162,10 @@
 {
 "date":"2021-06-27",
 "total":69580
+},
+{
+"date":"2021-06-28",
+"total":69610
 }
 ],
 "package":"perl-xml-writer",
