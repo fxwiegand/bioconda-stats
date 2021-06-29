@@ -3,11 +3,11 @@
 "downloads_per_basename":[
 {
 "basename":"perl-io-string-1.08-0.tar.bz2",
-"total":3957
+"total":3958
 },
 {
 "basename":"perl-io-string-1.08-pl5.22.0_1.tar.bz2",
-"total":13115
+"total":13118
 },
 {
 "basename":"perl-io-string-1.08-pl526_2.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"perl-io-string-1.08-pl526_3.tar.bz2",
-"total":67183
+"total":67253
 }
 ],
 "downloads_per_date":[
@@ -170,6 +170,10 @@
 {
 "date":"2021-06-28",
 "total":84983
+},
+{
+"date":"2021-06-29",
+"total":85057
 }
 ],
 "package":"perl-io-string",

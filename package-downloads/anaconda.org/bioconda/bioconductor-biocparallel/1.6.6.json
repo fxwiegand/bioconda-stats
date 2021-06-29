@@ -152,6 +152,10 @@
 {
 "date":"2021-06-28",
 "total":36525
+},
+{
+"date":"2021-06-29",
+"total":36527
 }
 ],
 "downloads_per_subdir":[
@@ -161,7 +165,7 @@
 },
 {
 "subdir":"osx-64",
-"total":6560
+"total":6562
 }
 ],
 "package":"bioconductor-biocparallel",

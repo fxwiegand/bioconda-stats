@@ -152,6 +152,10 @@
 {
 "date":"2021-06-28",
 "total":15957
+},
+{
+"date":"2021-06-29",
+"total":15960
 }
 ],
 "downloads_per_subdir":[
@@ -161,11 +165,11 @@
 },
 {
 "subdir":"noarch",
-"total":3844
+"total":3846
 },
 {
 "subdir":"osx-64",
-"total":2999
+"total":3000
 }
 ],
 "package":"bioconductor-bsgenome.hsapiens.ucsc.hg19",
