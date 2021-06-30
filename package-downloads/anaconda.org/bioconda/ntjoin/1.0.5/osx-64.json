@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ntjoin-1.0.5-py36h0c56d2d_0.tar.bz2",
-"total":17
+"total":18
 },
 {
 "basename":"ntjoin-1.0.5-py36h0c56d2d_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"ntjoin-1.0.5-py37h5e6fd57_0.tar.bz2",
-"total":15
+"total":16
 },
 {
 "basename":"ntjoin-1.0.5-py37h5e6fd57_1.tar.bz2",
@@ -19,11 +19,11 @@
 },
 {
 "basename":"ntjoin-1.0.5-py38h4492e0f_0.tar.bz2",
-"total":138
+"total":140
 },
 {
 "basename":"ntjoin-1.0.5-py38h4492e0f_1.tar.bz2",
-"total":304
+"total":306
 }
 ],
 "downloads_per_date":[
@@ -182,6 +182,10 @@
 {
 "date":"2021-06-29",
 "total":502
+},
+{
+"date":"2021-06-30",
+"total":508
 }
 ],
 "package":"ntjoin",
