@@ -164,6 +164,10 @@
 {
 "date":"2021-07-01",
 "total":5405
+},
+{
+"date":"2021-07-02",
+"total":5407
 }
 ],
 "downloads_per_subdir":[
@@ -173,11 +177,11 @@
 },
 {
 "subdir":"noarch",
-"total":587
+"total":588
 },
 {
 "subdir":"osx-64",
-"total":1982
+"total":1983
 }
 ],
 "package":"bioconductor-txdb.rnorvegicus.ucsc.rn4.ensgene",
