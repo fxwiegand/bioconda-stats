@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-math-spline-0.02-0.tar.bz2",
-"total":12509
+"total":12510
 },
 {
 "basename":"perl-math-spline-0.02-pl526_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-math-spline-0.02-pl526_2.tar.bz2",
-"total":56504
+"total":56519
 }
 ],
 "downloads_per_date":[
@@ -182,6 +182,10 @@
 {
 "date":"2021-07-02",
 "total":69328
+},
+{
+"date":"2021-07-03",
+"total":69344
 }
 ],
 "package":"perl-math-spline",

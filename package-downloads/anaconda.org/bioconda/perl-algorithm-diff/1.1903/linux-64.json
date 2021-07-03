@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-algorithm-diff-1.1903-0.tar.bz2",
-"total":2529
+"total":2530
 },
 {
 "basename":"perl-algorithm-diff-1.1903-pl5.22.0_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-algorithm-diff-1.1903-pl526_2.tar.bz2",
-"total":55943
+"total":55950
 }
 ],
 "downloads_per_date":[
@@ -182,6 +182,10 @@
 {
 "date":"2021-07-02",
 "total":60803
+},
+{
+"date":"2021-07-03",
+"total":60811
 }
 ],
 "package":"perl-algorithm-diff",

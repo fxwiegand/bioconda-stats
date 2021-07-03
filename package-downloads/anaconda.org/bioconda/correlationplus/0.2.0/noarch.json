@@ -2,8 +2,12 @@
 "channel":"bioconda",
 "downloads_per_basename":[
 {
+"basename":"correlationplus-0.2.0-pyh5e36f6f_1.tar.bz2",
+"total":2
+},
+{
 "basename":"correlationplus-0.2.0-pyhdfd78af_0.tar.bz2",
-"total":23
+"total":24
 }
 ],
 "downloads_per_date":[
@@ -38,6 +42,10 @@
 {
 "date":"2021-07-02",
 "total":23
+},
+{
+"date":"2021-07-03",
+"total":26
 }
 ],
 "package":"correlationplus",

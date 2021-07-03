@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-set-scalar-1.29-0.tar.bz2",
-"total":12306
+"total":12307
 },
 {
 "basename":"perl-set-scalar-1.29-pl526_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-set-scalar-1.29-pl526_2.tar.bz2",
-"total":56223
+"total":56236
 }
 ],
 "downloads_per_date":[
@@ -182,6 +182,10 @@
 {
 "date":"2021-07-02",
 "total":69067
+},
+{
+"date":"2021-07-03",
+"total":69081
 }
 ],
 "package":"perl-set-scalar",

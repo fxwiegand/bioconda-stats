@@ -168,6 +168,10 @@
 {
 "date":"2021-07-02",
 "total":2800
+},
+{
+"date":"2021-07-03",
+"total":2802
 }
 ],
 "downloads_per_subdir":[
@@ -177,11 +181,11 @@
 },
 {
 "subdir":"noarch",
-"total":261
+"total":262
 },
 {
 "subdir":"osx-64",
-"total":1895
+"total":1896
 }
 ],
 "package":"bioconductor-panther.db",
