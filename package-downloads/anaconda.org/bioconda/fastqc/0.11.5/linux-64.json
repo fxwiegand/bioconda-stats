@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"fastqc-0.11.5-1.tar.bz2",
-"total":28882
+"total":28884
 },
 {
 "basename":"fastqc-0.11.5-pl5.22.0_2.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"fastqc-0.11.5-pl5.22.0_3.tar.bz2",
-"total":11056
+"total":11057
 }
 ],
 "downloads_per_date":[
@@ -138,6 +138,10 @@
 {
 "date":"2021-07-03",
 "total":50430
+},
+{
+"date":"2021-07-04",
+"total":50433
 }
 ],
 "package":"fastqc",
