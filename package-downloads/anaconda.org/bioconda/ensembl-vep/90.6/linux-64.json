@@ -3,11 +3,11 @@
 "downloads_per_basename":[
 {
 "basename":"ensembl-vep-90.6-htslib1.5_0.tar.bz2",
-"total":952
+"total":953
 },
 {
 "basename":"ensembl-vep-90.6-htslib1.6_0.tar.bz2",
-"total":2166
+"total":2171
 }
 ],
 "downloads_per_date":[
@@ -190,6 +190,10 @@
 {
 "date":"2021-07-05",
 "total":3118
+},
+{
+"date":"2021-07-07",
+"total":3124
 }
 ],
 "package":"ensembl-vep",

@@ -3,11 +3,11 @@
 "downloads_per_basename":[
 {
 "basename":"ensembl-vep-104.2-pl5262h4a94de4_0.tar.bz2",
-"total":21
+"total":22
 },
 {
 "basename":"ensembl-vep-104.2-pl5262h4a94de4_1.tar.bz2",
-"total":144
+"total":147
 }
 ],
 "downloads_per_date":[
@@ -182,6 +182,10 @@
 {
 "date":"2021-07-05",
 "total":165
+},
+{
+"date":"2021-07-07",
+"total":169
 }
 ],
 "package":"ensembl-vep",
