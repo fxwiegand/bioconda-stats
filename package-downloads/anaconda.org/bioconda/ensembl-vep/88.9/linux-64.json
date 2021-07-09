@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ensembl-vep-88.9-0.tar.bz2",
-"total":1424
+"total":1427
 },
 {
 "basename":"ensembl-vep-88.9-1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"ensembl-vep-88.9-pl5.22.0_2.tar.bz2",
-"total":2464
+"total":2466
 }
 ],
 "downloads_per_date":[
@@ -202,6 +202,10 @@
 {
 "date":"2021-07-08",
 "total":5022
+},
+{
+"date":"2021-07-09",
+"total":5027
 }
 ],
 "package":"ensembl-vep",
