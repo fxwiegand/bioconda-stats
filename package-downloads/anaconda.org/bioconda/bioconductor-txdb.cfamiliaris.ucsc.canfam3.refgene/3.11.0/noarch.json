@@ -3,11 +3,11 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-txdb.cfamiliaris.ucsc.canfam3.refgene-3.11.0-r40_0.tar.bz2",
-"total":51
+"total":52
 },
 {
 "basename":"bioconductor-txdb.cfamiliaris.ucsc.canfam3.refgene-3.11.0-r40_1.tar.bz2",
-"total":29
+"total":30
 },
 {
 "basename":"bioconductor-txdb.cfamiliaris.ucsc.canfam3.refgene-3.11.0-r40hdfd78af_2.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-txdb.cfamiliaris.ucsc.canfam3.refgene-3.11.0-r41hdfd78af_3.tar.bz2",
-"total":51
+"total":54
 }
 ],
 "downloads_per_date":[
@@ -162,6 +162,10 @@
 {
 "date":"2021-07-09",
 "total":150
+},
+{
+"date":"2021-07-11",
+"total":155
 }
 ],
 "package":"bioconductor-txdb.cfamiliaris.ucsc.canfam3.refgene",

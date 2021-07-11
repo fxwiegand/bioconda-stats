@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-http-date-6.02-0.tar.bz2",
-"total":850
+"total":851
 },
 {
 "basename":"perl-http-date-6.02-pl5.22.0_1.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"perl-http-date-6.02-pl526_3.tar.bz2",
-"total":10193
+"total":10203
 }
 ],
 "downloads_per_date":[
@@ -210,6 +210,10 @@
 {
 "date":"2021-07-09",
 "total":14063
+},
+{
+"date":"2021-07-11",
+"total":14074
 }
 ],
 "package":"perl-http-date",

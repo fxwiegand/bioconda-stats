@@ -192,6 +192,10 @@
 {
 "date":"2021-07-09",
 "total":3052
+},
+{
+"date":"2021-07-11",
+"total":3062
 }
 ],
 "downloads_per_subdir":[
@@ -201,11 +205,11 @@
 },
 {
 "subdir":"noarch",
-"total":494
+"total":502
 },
 {
 "subdir":"osx-64",
-"total":1899
+"total":1901
 }
 ],
 "package":"bioconductor-hgu95av2.db",

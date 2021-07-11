@@ -192,6 +192,10 @@
 {
 "date":"2021-07-09",
 "total":3875
+},
+{
+"date":"2021-07-11",
+"total":3880
 }
 ],
 "downloads_per_subdir":[
@@ -201,11 +205,11 @@
 },
 {
 "subdir":"noarch",
-"total":181
+"total":184
 },
 {
 "subdir":"osx-64",
-"total":1961
+"total":1963
 }
 ],
 "package":"spectra-cluster-cli",

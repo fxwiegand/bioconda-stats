@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"htseq-0.11.3-py27h86efe34_0.tar.bz2",
-"total":126
+"total":127
 },
 {
 "basename":"htseq-0.11.3-py36h86efe34_0.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"htseq-0.11.3-py37h86efe34_0.tar.bz2",
-"total":1101
+"total":1105
 }
 ],
 "downloads_per_date":[
@@ -206,6 +206,10 @@
 {
 "date":"2021-07-09",
 "total":1293
+},
+{
+"date":"2021-07-11",
+"total":1298
 }
 ],
 "package":"htseq",
