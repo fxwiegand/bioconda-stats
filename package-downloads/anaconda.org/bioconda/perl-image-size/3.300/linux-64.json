@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-image-size-3.300-0.tar.bz2",
-"total":12751
+"total":12752
 },
 {
 "basename":"perl-image-size-3.300-pl526_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-image-size-3.300-pl526_2.tar.bz2",
-"total":56916
+"total":57004
 }
 ],
 "downloads_per_date":[
@@ -210,6 +210,10 @@
 {
 "date":"2021-07-11",
 "total":70127
+},
+{
+"date":"2021-07-13",
+"total":70216
 }
 ],
 "package":"perl-image-size",

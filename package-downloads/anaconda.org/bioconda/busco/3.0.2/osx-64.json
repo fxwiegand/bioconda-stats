@@ -3,11 +3,11 @@
 "downloads_per_basename":[
 {
 "basename":"busco-3.0.2-py35_6.tar.bz2",
-"total":303
+"total":304
 },
 {
 "basename":"busco-3.0.2-py36_6.tar.bz2",
-"total":190
+"total":192
 },
 {
 "basename":"busco-3.0.2-py37_11.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"busco-3.0.2-py37_12.tar.bz2",
-"total":1609
+"total":1611
 }
 ],
 "downloads_per_date":[
@@ -214,6 +214,10 @@
 {
 "date":"2021-07-11",
 "total":2213
+},
+{
+"date":"2021-07-13",
+"total":2218
 }
 ],
 "package":"busco",

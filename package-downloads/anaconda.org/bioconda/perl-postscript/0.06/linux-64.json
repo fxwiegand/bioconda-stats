@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-postscript-0.06-0.tar.bz2",
-"total":12388
+"total":12389
 },
 {
 "basename":"perl-postscript-0.06-pl526_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-postscript-0.06-pl526_2.tar.bz2",
-"total":56729
+"total":56808
 }
 ],
 "downloads_per_date":[
@@ -210,6 +210,10 @@
 {
 "date":"2021-07-11",
 "total":69658
+},
+{
+"date":"2021-07-13",
+"total":69738
 }
 ],
 "package":"perl-postscript",

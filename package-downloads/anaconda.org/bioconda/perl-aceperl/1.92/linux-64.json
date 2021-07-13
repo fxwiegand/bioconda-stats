@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-aceperl-1.92-0.tar.bz2",
-"total":12423
+"total":12424
 },
 {
 "basename":"perl-aceperl-1.92-pl526_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-aceperl-1.92-pl526_2.tar.bz2",
-"total":56746
+"total":56837
 }
 ],
 "downloads_per_date":[
@@ -210,6 +210,10 @@
 {
 "date":"2021-07-11",
 "total":69757
+},
+{
+"date":"2021-07-13",
+"total":69849
 }
 ],
 "package":"perl-aceperl",
