@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-file-temp-0.2304-pl5.22.0_0.tar.bz2",
-"total":2342
+"total":2343
 },
 {
 "basename":"perl-file-temp-0.2304-pl526_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-file-temp-0.2304-pl526_2.tar.bz2",
-"total":157704
+"total":157999
 }
 ],
 "downloads_per_date":[
@@ -218,6 +218,10 @@
 {
 "date":"2021-07-14",
 "total":160344
+},
+{
+"date":"2021-07-15",
+"total":160640
 }
 ],
 "package":"perl-file-temp",

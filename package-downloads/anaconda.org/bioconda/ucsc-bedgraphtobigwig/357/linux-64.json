@@ -3,11 +3,11 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-bedgraphtobigwig-357-0.tar.bz2",
-"total":3158
+"total":3159
 },
 {
 "basename":"ucsc-bedgraphtobigwig-357-1.tar.bz2",
-"total":10636
+"total":10646
 },
 {
 "basename":"ucsc-bedgraphtobigwig-357-h35c10e6_3.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"ucsc-bedgraphtobigwig-357-h446ed27_4.tar.bz2",
-"total":14253
+"total":14282
 }
 ],
 "downloads_per_date":[
@@ -222,6 +222,10 @@
 {
 "date":"2021-07-14",
 "total":36034
+},
+{
+"date":"2021-07-15",
+"total":36074
 }
 ],
 "package":"ucsc-bedgraphtobigwig",
