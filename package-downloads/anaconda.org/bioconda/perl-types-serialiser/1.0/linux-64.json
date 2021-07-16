@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-types-serialiser-1.0-0.tar.bz2",
-"total":1084
+"total":1085
 },
 {
 "basename":"perl-types-serialiser-1.0-pl526_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-types-serialiser-1.0-pl526_2.tar.bz2",
-"total":131107
+"total":131216
 }
 ],
 "downloads_per_date":[
@@ -222,6 +222,10 @@
 {
 "date":"2021-07-15",
 "total":132302
+},
+{
+"date":"2021-07-16",
+"total":132412
 }
 ],
 "package":"perl-types-serialiser",
