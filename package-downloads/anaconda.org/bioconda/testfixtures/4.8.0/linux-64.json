@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"testfixtures-4.8.0-py27_0.tar.bz2",
-"total":526
+"total":527
 },
 {
 "basename":"testfixtures-4.8.0-py34_0.tar.bz2",
@@ -11,11 +11,11 @@
 },
 {
 "basename":"testfixtures-4.8.0-py35_0.tar.bz2",
-"total":548
+"total":549
 },
 {
 "basename":"testfixtures-4.8.0-py36_0.tar.bz2",
-"total":2449
+"total":2451
 }
 ],
 "downloads_per_date":[
@@ -230,6 +230,10 @@
 {
 "date":"2021-07-16",
 "total":3966
+},
+{
+"date":"2021-07-17",
+"total":3970
 }
 ],
 "package":"testfixtures",

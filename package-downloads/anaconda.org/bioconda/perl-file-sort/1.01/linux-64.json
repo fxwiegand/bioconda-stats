@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-file-sort-1.01-0.tar.bz2",
-"total":3117
+"total":3118
 },
 {
 "basename":"perl-file-sort-1.01-pl5.22.0_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-file-sort-1.01-pl526_2.tar.bz2",
-"total":55616
+"total":55634
 }
 ],
 "downloads_per_date":[
@@ -226,6 +226,10 @@
 {
 "date":"2021-07-16",
 "total":68057
+},
+{
+"date":"2021-07-17",
+"total":68076
 }
 ],
 "package":"perl-file-sort",

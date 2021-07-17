@@ -212,6 +212,10 @@
 {
 "date":"2021-07-16",
 "total":2665
+},
+{
+"date":"2021-07-17",
+"total":2674
 }
 ],
 "downloads_per_subdir":[
@@ -221,11 +225,11 @@
 },
 {
 "subdir":"noarch",
-"total":565
+"total":573
 },
 {
 "subdir":"osx-64",
-"total":1829
+"total":1830
 }
 ],
 "package":"bioconductor-phastcons100way.ucsc.hg19",

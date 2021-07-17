@@ -3,11 +3,11 @@
 "downloads_per_basename":[
 {
 "basename":"ganon-0.3.3-py36h2593fdd_1.tar.bz2",
-"total":34
+"total":35
 },
 {
 "basename":"ganon-0.3.3-py37hb9f9e6f_1.tar.bz2",
-"total":32
+"total":33
 },
 {
 "basename":"ganon-0.3.3-py38hb45e0f6_1.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"ganon-0.3.3-py39h355e614_0.tar.bz2",
-"total":523
+"total":526
 }
 ],
 "downloads_per_date":[
@@ -230,6 +230,10 @@
 {
 "date":"2021-07-16",
 "total":621
+},
+{
+"date":"2021-07-17",
+"total":626
 }
 ],
 "package":"ganon",

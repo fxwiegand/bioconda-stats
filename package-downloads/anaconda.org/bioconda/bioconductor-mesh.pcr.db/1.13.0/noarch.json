@@ -3,11 +3,11 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-mesh.pcr.db-1.13.0-r36_0.tar.bz2",
-"total":68
+"total":70
 },
 {
 "basename":"bioconductor-mesh.pcr.db-1.13.0-r40_1.tar.bz2",
-"total":71
+"total":72
 },
 {
 "basename":"bioconductor-mesh.pcr.db-1.13.0-r40_2.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-mesh.pcr.db-1.13.0-r40hdfd78af_3.tar.bz2",
-"total":91
+"total":94
 }
 ],
 "downloads_per_date":[
@@ -186,6 +186,10 @@
 {
 "date":"2021-07-16",
 "total":287
+},
+{
+"date":"2021-07-17",
+"total":293
 }
 ],
 "package":"bioconductor-mesh.pcr.db",
