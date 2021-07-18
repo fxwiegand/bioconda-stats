@@ -216,6 +216,10 @@
 {
 "date":"2021-07-17",
 "total":2228
+},
+{
+"date":"2021-07-18",
+"total":2230
 }
 ],
 "downloads_per_subdir":[
@@ -225,11 +229,11 @@
 },
 {
 "subdir":"noarch",
-"total":226
+"total":227
 },
 {
 "subdir":"osx-64",
-"total":1843
+"total":1844
 }
 ],
 "package":"bioconductor-deqms",
