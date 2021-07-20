@@ -224,11 +224,15 @@
 {
 "date":"2021-07-19",
 "total":40914
+},
+{
+"date":"2021-07-20",
+"total":40931
 }
 ],
 "downloads_per_version":[
 {
-"total":3171,
+"total":3172,
 "version":"1.25.0"
 },
 {
@@ -244,7 +248,7 @@
 "version":"1.39.5"
 },
 {
-"total":2965,
+"total":2966,
 "version":"1.40.5"
 },
 {
@@ -268,7 +272,7 @@
 "version":"1.42.3"
 },
 {
-"total":1696,
+"total":1697,
 "version":"1.43.0"
 },
 {
@@ -282,6 +286,10 @@
 {
 "total":1888,
 "version":"1.44.11"
+},
+{
+"total":14,
+"version":"1.45.3"
 }
 ],
 "package":"mothur"

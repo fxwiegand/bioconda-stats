@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"augustus-3.3.3-pl526h0faeac2_5.tar.bz2",
-"total":5125
+"total":5128
 },
 {
 "basename":"augustus-3.3.3-pl526hc56b729_3.tar.bz2",
@@ -19,11 +19,11 @@
 },
 {
 "basename":"augustus-3.3.3-pl526hce533f5_1.tar.bz2",
-"total":979
+"total":980
 },
 {
 "basename":"augustus-3.3.3-pl526hce533f5_2.tar.bz2",
-"total":2660
+"total":2664
 }
 ],
 "downloads_per_date":[
@@ -250,6 +250,10 @@
 {
 "date":"2021-07-19",
 "total":13593
+},
+{
+"date":"2021-07-20",
+"total":13601
 }
 ],
 "package":"augustus",
