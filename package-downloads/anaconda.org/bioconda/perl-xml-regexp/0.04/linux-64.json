@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-xml-regexp-0.04-0.tar.bz2",
-"total":12649
+"total":12650
 },
 {
 "basename":"perl-xml-regexp-0.04-pl526_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-xml-regexp-0.04-pl526_2.tar.bz2",
-"total":57205
+"total":57225
 }
 ],
 "downloads_per_date":[
@@ -242,6 +242,10 @@
 {
 "date":"2021-07-20",
 "total":70378
+},
+{
+"date":"2021-07-21",
+"total":70399
 }
 ],
 "package":"perl-xml-regexp",
