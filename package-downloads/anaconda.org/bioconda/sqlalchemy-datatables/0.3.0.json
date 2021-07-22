@@ -232,6 +232,10 @@
 {
 "date":"2021-07-21",
 "total":4051
+},
+{
+"date":"2021-07-22",
+"total":4053
 }
 ],
 "downloads_per_subdir":[
@@ -241,11 +245,11 @@
 },
 {
 "subdir":"noarch",
-"total":191
+"total":192
 },
 {
 "subdir":"osx-64",
-"total":2082
+"total":2083
 }
 ],
 "package":"sqlalchemy-datatables",

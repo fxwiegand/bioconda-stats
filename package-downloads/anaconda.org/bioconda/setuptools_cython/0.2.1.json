@@ -232,6 +232,10 @@
 {
 "date":"2021-07-21",
 "total":4408
+},
+{
+"date":"2021-07-22",
+"total":4410
 }
 ],
 "downloads_per_subdir":[
@@ -241,11 +245,11 @@
 },
 {
 "subdir":"noarch",
-"total":136
+"total":137
 },
 {
 "subdir":"osx-64",
-"total":1968
+"total":1969
 }
 ],
 "package":"setuptools_cython",
