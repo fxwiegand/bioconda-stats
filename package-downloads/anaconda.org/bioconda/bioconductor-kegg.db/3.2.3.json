@@ -236,6 +236,10 @@
 {
 "date":"2021-07-22",
 "total":5985
+},
+{
+"date":"2021-07-23",
+"total":5987
 }
 ],
 "downloads_per_subdir":[
@@ -245,11 +249,11 @@
 },
 {
 "subdir":"noarch",
-"total":924
+"total":925
 },
 {
 "subdir":"osx-64",
-"total":2117
+"total":2118
 }
 ],
 "package":"bioconductor-kegg.db",

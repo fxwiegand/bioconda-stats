@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"regex-2016.06.24-py27_1.tar.bz2",
-"total":4462
+"total":4463
 },
 {
 "basename":"regex-2016.06.24-py34_1.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"regex-2016.06.24-py36_1.tar.bz2",
-"total":6998
+"total":7012
 }
 ],
 "downloads_per_date":[
@@ -254,6 +254,10 @@
 {
 "date":"2021-07-22",
 "total":13112
+},
+{
+"date":"2021-07-23",
+"total":13127
 }
 ],
 "package":"regex",
