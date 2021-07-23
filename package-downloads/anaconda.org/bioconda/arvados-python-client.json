@@ -239,7 +239,7 @@
 },
 {
 "date":"2021-07-23",
-"total":66760
+"total":66762
 }
 ],
 "downloads_per_version":[
@@ -386,6 +386,10 @@
 {
 "total":72,
 "version":"2.2.0"
+},
+{
+"total":2,
+"version":"2.2.1"
 }
 ],
 "package":"arvados-python-client"
