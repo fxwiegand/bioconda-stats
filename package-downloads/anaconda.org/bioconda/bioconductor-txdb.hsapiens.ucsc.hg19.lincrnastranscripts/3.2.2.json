@@ -240,6 +240,10 @@
 {
 "date":"2021-07-23",
 "total":3951
+},
+{
+"date":"2021-07-24",
+"total":3953
 }
 ],
 "downloads_per_subdir":[
@@ -249,11 +253,11 @@
 },
 {
 "subdir":"noarch",
-"total":433
+"total":434
 },
 {
 "subdir":"osx-64",
-"total":1964
+"total":1965
 }
 ],
 "package":"bioconductor-txdb.hsapiens.ucsc.hg19.lincrnastranscripts",
