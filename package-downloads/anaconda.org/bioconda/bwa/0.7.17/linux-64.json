@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bwa-0.7.17-h5bf99c6_8.tar.bz2",
-"total":18482
+"total":18515
 },
 {
 "basename":"bwa-0.7.17-h84994c4_4.tar.bz2",
@@ -11,11 +11,11 @@
 },
 {
 "basename":"bwa-0.7.17-h84994c4_5.tar.bz2",
-"total":24181
+"total":24182
 },
 {
 "basename":"bwa-0.7.17-ha92aebf_3.tar.bz2",
-"total":38705
+"total":38707
 },
 {
 "basename":"bwa-0.7.17-hed695b0_6.tar.bz2",
@@ -23,7 +23,7 @@
 },
 {
 "basename":"bwa-0.7.17-hed695b0_7.tar.bz2",
-"total":89327
+"total":89332
 },
 {
 "basename":"bwa-0.7.17-pl5.22.0_0.tar.bz2",
@@ -35,7 +35,7 @@
 },
 {
 "basename":"bwa-0.7.17-pl5.22.0_2.tar.bz2",
-"total":50720
+"total":50721
 }
 ],
 "downloads_per_date":[
@@ -282,6 +282,10 @@
 {
 "date":"2021-07-24",
 "total":243159
+},
+{
+"date":"2021-07-25",
+"total":243201
 }
 ],
 "package":"bwa",

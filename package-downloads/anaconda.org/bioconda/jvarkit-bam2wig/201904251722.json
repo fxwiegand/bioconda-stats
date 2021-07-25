@@ -244,6 +244,10 @@
 {
 "date":"2021-07-24",
 "total":2010
+},
+{
+"date":"2021-07-25",
+"total":2013
 }
 ],
 "downloads_per_subdir":[
@@ -253,11 +257,11 @@
 },
 {
 "subdir":"noarch",
-"total":239
+"total":241
 },
 {
 "subdir":"osx-64",
-"total":1596
+"total":1597
 }
 ],
 "package":"jvarkit-bam2wig",
