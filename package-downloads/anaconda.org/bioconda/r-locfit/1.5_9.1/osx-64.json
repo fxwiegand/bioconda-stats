@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-locfit-1.5_9.1-r3.2.2_0.tar.bz2",
-"total":970
+"total":972
 },
 {
 "basename":"r-locfit-1.5_9.1-r3.3.1_0.tar.bz2",
@@ -15,11 +15,11 @@
 },
 {
 "basename":"r-locfit-1.5_9.1-r3.3.1_2.tar.bz2",
-"total":611
+"total":612
 },
 {
 "basename":"r-locfit-1.5_9.1-r3.3.2_2.tar.bz2",
-"total":2414
+"total":2416
 }
 ],
 "downloads_per_date":[
@@ -270,6 +270,10 @@
 {
 "date":"2021-07-25",
 "total":4284
+},
+{
+"date":"2021-07-26",
+"total":4289
 }
 ],
 "package":"r-locfit",
