@@ -256,6 +256,10 @@
 {
 "date":"2021-07-27",
 "total":3229
+},
+{
+"date":"2021-07-28",
+"total":3235
 }
 ],
 "downloads_per_subdir":[
@@ -265,11 +269,11 @@
 },
 {
 "subdir":"noarch",
-"total":620
+"total":625
 },
 {
 "subdir":"osx-64",
-"total":1926
+"total":1927
 }
 ],
 "package":"bioconductor-cmap",

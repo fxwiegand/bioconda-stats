@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"hatchet-0.4.2-py37h22450f8_0.tar.bz2",
-"total":25
+"total":26
 },
 {
 "basename":"hatchet-0.4.2-py38h8c62d01_0.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"hatchet-0.4.2-py39h7cff6ad_0.tar.bz2",
-"total":32
+"total":37
 }
 ],
 "downloads_per_date":[
@@ -78,6 +78,10 @@
 {
 "date":"2021-07-27",
 "total":96
+},
+{
+"date":"2021-07-28",
+"total":102
 }
 ],
 "package":"hatchet",

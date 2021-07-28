@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"snpsift-4.3.1p-py27_0.tar.bz2",
-"total":100
+"total":101
 },
 {
 "basename":"snpsift-4.3.1p-py35_0.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"snpsift-4.3.1p-py36_0.tar.bz2",
-"total":1872
+"total":1874
 }
 ],
 "downloads_per_date":[
@@ -270,6 +270,10 @@
 {
 "date":"2021-07-27",
 "total":2023
+},
+{
+"date":"2021-07-28",
+"total":2026
 }
 ],
 "package":"snpsift",

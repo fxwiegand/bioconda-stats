@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-mesh.tgo.me49.eg.db-1.13.0-r36_0.tar.bz2",
-"total":61
+"total":62
 },
 {
 "basename":"bioconductor-mesh.tgo.me49.eg.db-1.13.0-r40_1.tar.bz2",
@@ -11,11 +11,11 @@
 },
 {
 "basename":"bioconductor-mesh.tgo.me49.eg.db-1.13.0-r40_2.tar.bz2",
-"total":32
+"total":33
 },
 {
 "basename":"bioconductor-mesh.tgo.me49.eg.db-1.13.0-r40hdfd78af_3.tar.bz2",
-"total":80
+"total":82
 }
 ],
 "downloads_per_date":[
@@ -226,6 +226,10 @@
 {
 "date":"2021-07-27",
 "total":225
+},
+{
+"date":"2021-07-28",
+"total":229
 }
 ],
 "package":"bioconductor-mesh.tgo.me49.eg.db",
