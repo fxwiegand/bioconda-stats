@@ -2,8 +2,12 @@
 "channel":"bioconda",
 "downloads_per_basename":[
 {
+"basename":"nanopolish-0.13.2-h1d10490_5.tar.bz2",
+"total":10
+},
+{
 "basename":"nanopolish-0.13.2-h255d85c_0.tar.bz2",
-"total":230
+"total":231
 },
 {
 "basename":"nanopolish-0.13.2-h5979a4e_1.tar.bz2",
@@ -15,7 +19,7 @@
 },
 {
 "basename":"nanopolish-0.13.2-hcdc8842_4.tar.bz2",
-"total":263
+"total":265
 }
 ],
 "downloads_per_date":[
@@ -278,6 +282,10 @@
 {
 "date":"2021-07-28",
 "total":1355
+},
+{
+"date":"2021-07-29",
+"total":1368
 }
 ],
 "package":"nanopolish",
