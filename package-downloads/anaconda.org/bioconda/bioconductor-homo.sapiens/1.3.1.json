@@ -272,6 +272,10 @@
 {
 "date":"2021-07-31",
 "total":4015
+},
+{
+"date":"2021-08-01",
+"total":4018
 }
 ],
 "downloads_per_subdir":[
@@ -281,11 +285,11 @@
 },
 {
 "subdir":"noarch",
-"total":950
+"total":952
 },
 {
 "subdir":"osx-64",
-"total":1887
+"total":1888
 }
 ],
 "package":"bioconductor-homo.sapiens",

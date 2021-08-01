@@ -3,11 +3,11 @@
 "downloads_per_basename":[
 {
 "basename":"sickle-0.6.3-py27_0.tar.bz2",
-"total":139
+"total":140
 },
 {
 "basename":"sickle-0.6.3-py27_2.tar.bz2",
-"total":556
+"total":557
 },
 {
 "basename":"sickle-0.6.3-py35_0.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"sickle-0.6.3-py35_2.tar.bz2",
-"total":132
+"total":133
 },
 {
 "basename":"sickle-0.6.3-py36_0.tar.bz2",
@@ -23,7 +23,7 @@
 },
 {
 "basename":"sickle-0.6.3-py36_2.tar.bz2",
-"total":1894
+"total":1896
 }
 ],
 "downloads_per_date":[
@@ -298,6 +298,10 @@
 {
 "date":"2021-07-31",
 "total":2970
+},
+{
+"date":"2021-08-01",
+"total":2975
 }
 ],
 "package":"sickle",

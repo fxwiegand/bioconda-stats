@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"odgi-0.4.1-py36h61628e2_1.tar.bz2",
-"total":39
+"total":40
 },
 {
 "basename":"odgi-0.4.1-py36hd181a71_0.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"odgi-0.4.1-py37hfecc14a_1.tar.bz2",
-"total":45
+"total":46
 },
 {
 "basename":"odgi-0.4.1-py38h8162308_0.tar.bz2",
@@ -23,11 +23,11 @@
 },
 {
 "basename":"odgi-0.4.1-py38h8e3bb3f_1.tar.bz2",
-"total":40
+"total":41
 },
 {
 "basename":"odgi-0.4.1-py39h98c8e45_1.tar.bz2",
-"total":307
+"total":310
 }
 ],
 "downloads_per_date":[
@@ -302,6 +302,10 @@
 {
 "date":"2021-07-31",
 "total":721
+},
+{
+"date":"2021-08-01",
+"total":727
 }
 ],
 "package":"odgi",

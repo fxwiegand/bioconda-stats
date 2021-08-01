@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"nasp-1.0.2a1-py34_1.tar.bz2",
-"total":55
+"total":56
 },
 {
 "basename":"nasp-1.0.2a1-py35_1.tar.bz2",
@@ -19,7 +19,7 @@
 },
 {
 "basename":"nasp-1.0.2a1-py36_1.tar.bz2",
-"total":282
+"total":283
 },
 {
 "basename":"nasp-1.0.2a1-py36_2.tar.bz2",
@@ -27,7 +27,7 @@
 },
 {
 "basename":"nasp-1.0.2a1-py36_3.tar.bz2",
-"total":1665
+"total":1667
 }
 ],
 "downloads_per_date":[
@@ -302,6 +302,10 @@
 {
 "date":"2021-07-31",
 "total":2216
+},
+{
+"date":"2021-08-01",
+"total":2220
 }
 ],
 "package":"nasp",
