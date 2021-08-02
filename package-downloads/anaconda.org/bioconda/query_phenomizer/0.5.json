@@ -276,6 +276,10 @@
 {
 "date":"2021-08-01",
 "total":4081
+},
+{
+"date":"2021-08-02",
+"total":4083
 }
 ],
 "downloads_per_subdir":[
@@ -285,11 +289,11 @@
 },
 {
 "subdir":"noarch",
-"total":208
+"total":209
 },
 {
 "subdir":"osx-64",
-"total":2060
+"total":2061
 }
 ],
 "package":"query_phenomizer",

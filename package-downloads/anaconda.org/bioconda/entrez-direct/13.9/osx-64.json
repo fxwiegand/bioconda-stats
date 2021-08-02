@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"entrez-direct-13.9-pl5262h193322a_2.tar.bz2",
-"total":2858
+"total":2864
 },
 {
 "basename":"entrez-direct-13.9-pl526h375a9b1_0.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"entrez-direct-13.9-pl526h375a9b1_1.tar.bz2",
-"total":2131
+"total":2133
 }
 ],
 "downloads_per_date":[
@@ -290,6 +290,10 @@
 {
 "date":"2021-08-01",
 "total":7460
+},
+{
+"date":"2021-08-02",
+"total":7468
 }
 ],
 "package":"entrez-direct",

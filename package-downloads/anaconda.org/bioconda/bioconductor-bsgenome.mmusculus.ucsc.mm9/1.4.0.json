@@ -276,6 +276,10 @@
 {
 "date":"2021-08-01",
 "total":8302
+},
+{
+"date":"2021-08-02",
+"total":8304
 }
 ],
 "downloads_per_subdir":[
@@ -285,11 +289,11 @@
 },
 {
 "subdir":"noarch",
-"total":639
+"total":640
 },
 {
 "subdir":"osx-64",
-"total":2661
+"total":2662
 }
 ],
 "package":"bioconductor-bsgenome.mmusculus.ucsc.mm9",

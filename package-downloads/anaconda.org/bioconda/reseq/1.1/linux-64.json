@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"reseq-1.1-py36h2e991c5_1.tar.bz2",
-"total":38
+"total":39
 },
 {
 "basename":"reseq-1.1-py36h919e873_0.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"reseq-1.1-py37ha0f8042_1.tar.bz2",
-"total":39
+"total":40
 },
 {
 "basename":"reseq-1.1-py37hc00704e_0.tar.bz2",
@@ -19,7 +19,7 @@
 },
 {
 "basename":"reseq-1.1-py38h4e56093_1.tar.bz2",
-"total":43
+"total":44
 },
 {
 "basename":"reseq-1.1-py38h56fca86_0.tar.bz2",
@@ -27,7 +27,7 @@
 },
 {
 "basename":"reseq-1.1-py39hdced79b_1.tar.bz2",
-"total":301
+"total":304
 }
 ],
 "downloads_per_date":[
@@ -306,6 +306,10 @@
 {
 "date":"2021-08-01",
 "total":821
+},
+{
+"date":"2021-08-02",
+"total":827
 }
 ],
 "package":"reseq",

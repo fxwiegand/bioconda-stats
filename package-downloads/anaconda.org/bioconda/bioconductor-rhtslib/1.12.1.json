@@ -276,6 +276,10 @@
 {
 "date":"2021-08-01",
 "total":2998
+},
+{
+"date":"2021-08-02",
+"total":3000
 }
 ],
 "downloads_per_subdir":[
@@ -285,7 +289,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2004
+"total":2006
 }
 ],
 "package":"bioconductor-rhtslib",

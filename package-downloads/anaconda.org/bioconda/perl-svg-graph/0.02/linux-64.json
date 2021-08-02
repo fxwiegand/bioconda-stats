@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-svg-graph-0.02-0.tar.bz2",
-"total":12765
+"total":12766
 },
 {
 "basename":"perl-svg-graph-0.02-pl526_1.tar.bz2",
@@ -11,11 +11,11 @@
 },
 {
 "basename":"perl-svg-graph-0.02-pl526_2.tar.bz2",
-"total":10879
+"total":10880
 },
 {
 "basename":"perl-svg-graph-0.02-pl526_3.tar.bz2",
-"total":46907
+"total":46926
 }
 ],
 "downloads_per_date":[
@@ -294,6 +294,10 @@
 {
 "date":"2021-08-01",
 "total":70803
+},
+{
+"date":"2021-08-02",
+"total":70824
 }
 ],
 "package":"perl-svg-graph",
