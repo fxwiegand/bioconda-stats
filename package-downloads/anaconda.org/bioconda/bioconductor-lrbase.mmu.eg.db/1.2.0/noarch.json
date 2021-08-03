@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-lrbase.mmu.eg.db-1.2.0-r36_0.tar.bz2",
-"total":60
+"total":61
 },
 {
 "basename":"bioconductor-lrbase.mmu.eg.db-1.2.0-r40_1.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-lrbase.mmu.eg.db-1.2.0-r40hdfd78af_3.tar.bz2",
-"total":89
+"total":90
 }
 ],
 "downloads_per_date":[
@@ -266,6 +266,10 @@
 {
 "date":"2021-08-02",
 "total":237
+},
+{
+"date":"2021-08-03",
+"total":239
 }
 ],
 "package":"bioconductor-lrbase.mmu.eg.db",

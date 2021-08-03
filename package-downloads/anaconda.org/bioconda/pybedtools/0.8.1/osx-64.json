@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"pybedtools-0.8.1-py27h2dec4b4_0.tar.bz2",
-"total":340
+"total":341
 },
 {
 "basename":"pybedtools-0.8.1-py27h537e773_2.tar.bz2",
@@ -31,11 +31,11 @@
 },
 {
 "basename":"pybedtools-0.8.1-py37h2dec4b4_0.tar.bz2",
-"total":1236
+"total":1238
 },
 {
 "basename":"pybedtools-0.8.1-py37h5e6fd57_2.tar.bz2",
-"total":1124
+"total":1125
 },
 {
 "basename":"pybedtools-0.8.1-py37h5e6fd57_3.tar.bz2",
@@ -51,7 +51,7 @@
 },
 {
 "basename":"pybedtools-0.8.1-py38h4492e0f_3.tar.bz2",
-"total":370
+"total":372
 }
 ],
 "downloads_per_date":[
@@ -334,6 +334,10 @@
 {
 "date":"2021-08-02",
 "total":6984
+},
+{
+"date":"2021-08-03",
+"total":6990
 }
 ],
 "package":"pybedtools",

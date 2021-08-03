@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"galaxy-lib-17.1.2-py27_0.tar.bz2",
-"total":301
+"total":302
 },
 {
 "basename":"galaxy-lib-17.1.2-py34_0.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"galaxy-lib-17.1.2-py36_0.tar.bz2",
-"total":1694
+"total":1696
 }
 ],
 "downloads_per_date":[
@@ -298,6 +298,10 @@
 {
 "date":"2021-08-02",
 "total":2078
+},
+{
+"date":"2021-08-03",
+"total":2081
 }
 ],
 "package":"galaxy-lib",
