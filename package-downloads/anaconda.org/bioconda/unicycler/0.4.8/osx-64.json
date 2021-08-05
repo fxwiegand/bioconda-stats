@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"unicycler-0.4.8-py36ha733cc0_4.tar.bz2",
-"total":30
+"total":32
 },
 {
 "basename":"unicycler-0.4.8-py36hf10c12f_1.tar.bz2",
@@ -31,7 +31,7 @@
 },
 {
 "basename":"unicycler-0.4.8-py37hee36c69_4.tar.bz2",
-"total":96
+"total":98
 },
 {
 "basename":"unicycler-0.4.8-py37hfbae3c0_0.tar.bz2",
@@ -55,7 +55,7 @@
 },
 {
 "basename":"unicycler-0.4.8-py39hdeec44c_4.tar.bz2",
-"total":303
+"total":305
 }
 ],
 "downloads_per_date":[
@@ -346,6 +346,10 @@
 {
 "date":"2021-08-04",
 "total":2337
+},
+{
+"date":"2021-08-05",
+"total":2343
 }
 ],
 "package":"unicycler",

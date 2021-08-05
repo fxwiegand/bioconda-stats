@@ -3,11 +3,11 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-stan-2.18.0-r40h399db7b_1.tar.bz2",
-"total":32
+"total":34
 },
 {
 "basename":"bioconductor-stan-2.18.0-r40h5f743cb_0.tar.bz2",
-"total":49
+"total":51
 }
 ],
 "downloads_per_date":[
@@ -82,6 +82,10 @@
 {
 "date":"2021-08-04",
 "total":81
+},
+{
+"date":"2021-08-05",
+"total":85
 }
 ],
 "package":"bioconductor-stan",

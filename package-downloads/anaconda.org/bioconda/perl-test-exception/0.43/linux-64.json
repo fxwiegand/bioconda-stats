@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-exception-0.43-0.tar.bz2",
-"total":4345
+"total":4346
 },
 {
 "basename":"perl-test-exception-0.43-pl5.22.0_0.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"perl-test-exception-0.43-pl526_2.tar.bz2",
-"total":57598
+"total":57613
 }
 ],
 "downloads_per_date":[
@@ -306,6 +306,10 @@
 {
 "date":"2021-08-04",
 "total":62581
+},
+{
+"date":"2021-08-05",
+"total":62597
 }
 ],
 "package":"perl-test-exception",
