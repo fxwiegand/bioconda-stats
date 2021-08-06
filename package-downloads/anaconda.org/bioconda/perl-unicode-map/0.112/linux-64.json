@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-unicode-map-0.112-0.tar.bz2",
-"total":12512
+"total":12513
 },
 {
 "basename":"perl-unicode-map-0.112-pl526_1.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"perl-unicode-map-0.112-pl526h6bb024c_3.tar.bz2",
-"total":46583
+"total":46597
 }
 ],
 "downloads_per_date":[
@@ -310,6 +310,10 @@
 {
 "date":"2021-08-05",
 "total":73183
+},
+{
+"date":"2021-08-06",
+"total":73198
 }
 ],
 "package":"perl-unicode-map",
