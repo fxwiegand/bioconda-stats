@@ -300,6 +300,10 @@
 {
 "date":"2021-08-07",
 "total":999
+},
+{
+"date":"2021-08-08",
+"total":1001
 }
 ],
 "downloads_per_subdir":[
@@ -309,7 +313,7 @@
 },
 {
 "subdir":"osx-64",
-"total":888
+"total":890
 }
 ],
 "package":"bioconductor-dss",

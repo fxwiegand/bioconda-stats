@@ -300,6 +300,10 @@
 {
 "date":"2021-08-07",
 "total":4521
+},
+{
+"date":"2021-08-08",
+"total":4537
 }
 ],
 "downloads_per_subdir":[
@@ -309,11 +313,11 @@
 },
 {
 "subdir":"noarch",
-"total":1057
+"total":1072
 },
 {
 "subdir":"osx-64",
-"total":2034
+"total":2035
 }
 ],
 "package":"bioconductor-hgu133plus2.db",

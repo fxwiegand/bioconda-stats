@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-version-next-1.000-0.tar.bz2",
-"total":284
+"total":285
 },
 {
 "basename":"perl-version-next-1.000-pl526_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-version-next-1.000-pl526_2.tar.bz2",
-"total":1700
+"total":1703
 }
 ],
 "downloads_per_date":[
@@ -314,6 +314,10 @@
 {
 "date":"2021-08-07",
 "total":2021
+},
+{
+"date":"2021-08-08",
+"total":2025
 }
 ],
 "package":"perl-version-next",
