@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-math-random-0.72-0.tar.bz2",
-"total":12707
+"total":12710
 },
 {
 "basename":"perl-math-random-0.72-pl526_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-math-random-0.72-pl526h14c3975_2.tar.bz2",
-"total":45284
+"total":45297
 }
 ],
 "downloads_per_date":[
@@ -318,6 +318,10 @@
 {
 "date":"2021-08-08",
 "total":71632
+},
+{
+"date":"2021-08-09",
+"total":71648
 }
 ],
 "package":"perl-math-random",
