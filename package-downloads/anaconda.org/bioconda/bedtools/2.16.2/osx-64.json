@@ -3,11 +3,11 @@
 "downloads_per_basename":[
 {
 "basename":"bedtools-2.16.2-0.tar.bz2",
-"total":81
+"total":82
 },
 {
 "basename":"bedtools-2.16.2-1.tar.bz2",
-"total":1920
+"total":1922
 }
 ],
 "downloads_per_date":[
@@ -322,6 +322,10 @@
 {
 "date":"2021-08-10",
 "total":2001
+},
+{
+"date":"2021-08-11",
+"total":2004
 }
 ],
 "package":"bedtools",

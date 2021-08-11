@@ -3,11 +3,11 @@
 "downloads_per_basename":[
 {
 "basename":"augustus-3.2.2-0.tar.bz2",
-"total":7920
+"total":7923
 },
 {
 "basename":"augustus-3.2.2-boost1.60_1.tar.bz2",
-"total":707
+"total":708
 },
 {
 "basename":"augustus-3.2.2-boost1.60_2.tar.bz2",
@@ -19,7 +19,7 @@
 },
 {
 "basename":"augustus-3.2.2-boost1.61_3.tar.bz2",
-"total":2695
+"total":2698
 }
 ],
 "downloads_per_date":[
@@ -334,6 +334,10 @@
 {
 "date":"2021-08-10",
 "total":12983
+},
+{
+"date":"2021-08-11",
+"total":12990
 }
 ],
 "package":"augustus",

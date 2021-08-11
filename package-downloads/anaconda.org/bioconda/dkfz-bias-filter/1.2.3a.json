@@ -312,6 +312,10 @@
 {
 "date":"2021-08-10",
 "total":10240
+},
+{
+"date":"2021-08-11",
+"total":10244
 }
 ],
 "downloads_per_subdir":[
@@ -321,11 +325,11 @@
 },
 {
 "subdir":"noarch",
-"total":597
+"total":598
 },
 {
 "subdir":"osx-64",
-"total":2075
+"total":2078
 }
 ],
 "package":"dkfz-bias-filter",

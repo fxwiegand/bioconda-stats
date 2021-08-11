@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-data-dumper-2.161-pl5.22.0_0.tar.bz2",
-"total":254
+"total":255
 },
 {
 "basename":"perl-data-dumper-2.161-pl526_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-data-dumper-2.161-pl526_2.tar.bz2",
-"total":3710
+"total":3712
 }
 ],
 "downloads_per_date":[
@@ -326,6 +326,10 @@
 {
 "date":"2021-08-10",
 "total":4002
+},
+{
+"date":"2021-08-11",
+"total":4005
 }
 ],
 "package":"perl-data-dumper",

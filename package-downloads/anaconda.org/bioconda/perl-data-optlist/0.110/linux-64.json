@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-data-optlist-0.110-0.tar.bz2",
-"total":4061
+"total":4062
 },
 {
 "basename":"perl-data-optlist-0.110-pl526_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-data-optlist-0.110-pl526_2.tar.bz2",
-"total":64498
+"total":64552
 }
 ],
 "downloads_per_date":[
@@ -326,6 +326,10 @@
 {
 "date":"2021-08-10",
 "total":69002
+},
+{
+"date":"2021-08-11",
+"total":69057
 }
 ],
 "package":"perl-data-optlist",

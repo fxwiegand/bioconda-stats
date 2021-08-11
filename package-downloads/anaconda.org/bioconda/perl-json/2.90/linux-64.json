@@ -3,11 +3,11 @@
 "downloads_per_basename":[
 {
 "basename":"perl-json-2.90-0.tar.bz2",
-"total":2747
+"total":2748
 },
 {
 "basename":"perl-json-2.90-1.tar.bz2",
-"total":15039
+"total":15044
 },
 {
 "basename":"perl-json-2.90-pl526_2.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"perl-json-2.90-pl526_3.tar.bz2",
-"total":4473
+"total":4474
 }
 ],
 "downloads_per_date":[
@@ -322,6 +322,10 @@
 {
 "date":"2021-08-10",
 "total":22909
+},
+{
+"date":"2021-08-11",
+"total":22916
 }
 ],
 "package":"perl-json",

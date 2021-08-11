@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"concoct-0.4.0-gsl1.16_0.tar.bz2",
-"total":68
+"total":69
 },
 {
 "basename":"concoct-0.4.0-gsl2.2_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"concoct-0.4.0-py27h98a5164_2.tar.bz2",
-"total":45
+"total":46
 },
 {
 "basename":"concoct-0.4.0-py35h98a5164_2.tar.bz2",
@@ -19,7 +19,7 @@
 },
 {
 "basename":"concoct-0.4.0-py36h98a5164_2.tar.bz2",
-"total":1675
+"total":1677
 }
 ],
 "downloads_per_date":[
@@ -334,6 +334,10 @@
 {
 "date":"2021-08-10",
 "total":2129
+},
+{
+"date":"2021-08-11",
+"total":2133
 }
 ],
 "package":"concoct",

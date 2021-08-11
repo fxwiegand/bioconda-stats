@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"rgi-4.0.3-py27_0.tar.bz2",
-"total":40
+"total":41
 },
 {
 "basename":"rgi-4.0.3-py27ha92aebf_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"rgi-4.0.3-py27ha92aebf_2.tar.bz2",
-"total":35
+"total":36
 },
 {
 "basename":"rgi-4.0.3-py27ha92aebf_3.tar.bz2",
@@ -19,11 +19,11 @@
 },
 {
 "basename":"rgi-4.0.3-py35ha92aebf_3.tar.bz2",
-"total":199
+"total":200
 },
 {
 "basename":"rgi-4.0.3-py36ha92aebf_3.tar.bz2",
-"total":1695
+"total":1698
 }
 ],
 "downloads_per_date":[
@@ -338,6 +338,10 @@
 {
 "date":"2021-08-10",
 "total":2154
+},
+{
+"date":"2021-08-11",
+"total":2160
 }
 ],
 "package":"rgi",

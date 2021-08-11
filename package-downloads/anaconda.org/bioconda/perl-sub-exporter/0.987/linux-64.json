@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-sub-exporter-0.987-0.tar.bz2",
-"total":4036
+"total":4037
 },
 {
 "basename":"perl-sub-exporter-0.987-pl526_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-sub-exporter-0.987-pl526_2.tar.bz2",
-"total":63699
+"total":63745
 }
 ],
 "downloads_per_date":[
@@ -326,6 +326,10 @@
 {
 "date":"2021-08-10",
 "total":68032
+},
+{
+"date":"2021-08-11",
+"total":68079
 }
 ],
 "package":"perl-sub-exporter",

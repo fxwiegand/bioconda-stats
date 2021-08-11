@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"eta-0.9.7-py27_0.tar.bz2",
-"total":54
+"total":55
 },
 {
 "basename":"eta-0.9.7-py27_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"eta-0.9.7-py34_0.tar.bz2",
-"total":35
+"total":36
 },
 {
 "basename":"eta-0.9.7-py35_0.tar.bz2",
@@ -19,15 +19,15 @@
 },
 {
 "basename":"eta-0.9.7-py35_1.tar.bz2",
-"total":192
+"total":193
 },
 {
 "basename":"eta-0.9.7-py36_0.tar.bz2",
-"total":31
+"total":32
 },
 {
 "basename":"eta-0.9.7-py36_1.tar.bz2",
-"total":1599
+"total":1600
 }
 ],
 "downloads_per_date":[
@@ -342,6 +342,10 @@
 {
 "date":"2021-08-10",
 "total":2086
+},
+{
+"date":"2021-08-11",
+"total":2091
 }
 ],
 "package":"eta",

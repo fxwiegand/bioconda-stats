@@ -3,11 +3,11 @@
 "downloads_per_basename":[
 {
 "basename":"bcftools-1.5-0.tar.bz2",
-"total":2849
+"total":2850
 },
 {
 "basename":"bcftools-1.5-1.tar.bz2",
-"total":1820
+"total":1822
 },
 {
 "basename":"bcftools-1.5-2.tar.bz2",
@@ -19,7 +19,7 @@
 },
 {
 "basename":"bcftools-1.5-h1ff2904_4.tar.bz2",
-"total":10286
+"total":10475
 }
 ],
 "downloads_per_date":[
@@ -334,6 +334,10 @@
 {
 "date":"2021-08-10",
 "total":245064
+},
+{
+"date":"2021-08-11",
+"total":245256
 }
 ],
 "package":"bcftools",

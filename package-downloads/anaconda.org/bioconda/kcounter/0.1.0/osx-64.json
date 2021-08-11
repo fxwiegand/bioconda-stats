@@ -3,11 +3,11 @@
 "downloads_per_basename":[
 {
 "basename":"kcounter-0.1.0-py36h01d97ff_0.tar.bz2",
-"total":24
+"total":25
 },
 {
 "basename":"kcounter-0.1.0-py36ha714b87_2.tar.bz2",
-"total":8
+"total":9
 },
 {
 "basename":"kcounter-0.1.0-py36he651532_1.tar.bz2",
@@ -15,11 +15,11 @@
 },
 {
 "basename":"kcounter-0.1.0-py37h01d97ff_0.tar.bz2",
-"total":352
+"total":353
 },
 {
 "basename":"kcounter-0.1.0-py37h819e570_2.tar.bz2",
-"total":11
+"total":12
 },
 {
 "basename":"kcounter-0.1.0-py37hea0d0e9_1.tar.bz2",
@@ -27,7 +27,7 @@
 },
 {
 "basename":"kcounter-0.1.0-py38h68004ad_2.tar.bz2",
-"total":11
+"total":12
 },
 {
 "basename":"kcounter-0.1.0-py38h771b250_1.tar.bz2",
@@ -35,7 +35,7 @@
 },
 {
 "basename":"kcounter-0.1.0-py39ha492530_2.tar.bz2",
-"total":280
+"total":283
 }
 ],
 "downloads_per_date":[
@@ -350,6 +350,10 @@
 {
 "date":"2021-08-10",
 "total":1122
+},
+{
+"date":"2021-08-11",
+"total":1130
 }
 ],
 "package":"kcounter",

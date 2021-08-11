@@ -3,11 +3,11 @@
 "downloads_per_basename":[
 {
 "basename":"mygene-3.0.0-py27_0.tar.bz2",
-"total":58
+"total":59
 },
 {
 "basename":"mygene-3.0.0-py34_0.tar.bz2",
-"total":43
+"total":44
 },
 {
 "basename":"mygene-3.0.0-py35_0.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"mygene-3.0.0-py36_0.tar.bz2",
-"total":1959
+"total":1961
 }
 ],
 "downloads_per_date":[
@@ -330,6 +330,10 @@
 {
 "date":"2021-08-10",
 "total":2110
+},
+{
+"date":"2021-08-11",
+"total":2114
 }
 ],
 "package":"mygene",

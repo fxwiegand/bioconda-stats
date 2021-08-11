@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"detonate-1.11-boost1.60_0.tar.bz2",
-"total":63
+"total":64
 },
 {
 "basename":"detonate-1.11-boost1.64_1.tar.bz2",
@@ -11,11 +11,11 @@
 },
 {
 "basename":"detonate-1.11-boost1.64_2.tar.bz2",
-"total":143
+"total":144
 },
 {
 "basename":"detonate-1.11-h4b68e70_3.tar.bz2",
-"total":1852
+"total":1854
 }
 ],
 "downloads_per_date":[
@@ -330,6 +330,10 @@
 {
 "date":"2021-08-10",
 "total":2129
+},
+{
+"date":"2021-08-11",
+"total":2133
 }
 ],
 "package":"detonate",

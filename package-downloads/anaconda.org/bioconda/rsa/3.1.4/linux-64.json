@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"rsa-3.1.4-py27_0.tar.bz2",
-"total":12507
+"total":12508
 },
 {
 "basename":"rsa-3.1.4-py34_0.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"rsa-3.1.4-py36_0.tar.bz2",
-"total":45996
+"total":46024
 }
 ],
 "downloads_per_date":[
@@ -330,6 +330,10 @@
 {
 "date":"2021-08-10",
 "total":86930
+},
+{
+"date":"2021-08-11",
+"total":86959
 }
 ],
 "package":"rsa",

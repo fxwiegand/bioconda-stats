@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"sourmash-3.0.0-py27h01d97ff_0.tar.bz2",
-"total":22
+"total":23
 },
 {
 "basename":"sourmash-3.0.0-py36h01d97ff_0.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"sourmash-3.0.0-py37h01d97ff_0.tar.bz2",
-"total":1177
+"total":1179
 }
 ],
 "downloads_per_date":[
@@ -326,6 +326,10 @@
 {
 "date":"2021-08-10",
 "total":1220
+},
+{
+"date":"2021-08-11",
+"total":1223
 }
 ],
 "package":"sourmash",

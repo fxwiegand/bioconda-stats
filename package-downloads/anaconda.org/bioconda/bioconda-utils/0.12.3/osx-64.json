@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconda-utils-0.12.3-np114py35_0.tar.bz2",
-"total":210
+"total":211
 },
 {
 "basename":"bioconda-utils-0.12.3-np114py36_0.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconda-utils-0.12.3-py36_1.tar.bz2",
-"total":1681
+"total":1685
 }
 ],
 "downloads_per_date":[
@@ -330,6 +330,10 @@
 {
 "date":"2021-08-10",
 "total":2082
+},
+{
+"date":"2021-08-11",
+"total":2087
 }
 ],
 "package":"bioconda-utils",

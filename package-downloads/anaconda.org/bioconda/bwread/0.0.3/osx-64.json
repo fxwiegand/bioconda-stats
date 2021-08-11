@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bwread-0.0.3-py36h01d97ff_0.tar.bz2",
-"total":12
+"total":13
 },
 {
 "basename":"bwread-0.0.3-py36ha714b87_2.tar.bz2",
@@ -19,7 +19,7 @@
 },
 {
 "basename":"bwread-0.0.3-py37h819e570_2.tar.bz2",
-"total":9
+"total":10
 },
 {
 "basename":"bwread-0.0.3-py37hea0d0e9_1.tar.bz2",
@@ -27,7 +27,7 @@
 },
 {
 "basename":"bwread-0.0.3-py38h68004ad_2.tar.bz2",
-"total":8
+"total":9
 },
 {
 "basename":"bwread-0.0.3-py38h771b250_1.tar.bz2",
@@ -35,7 +35,7 @@
 },
 {
 "basename":"bwread-0.0.3-py39ha492530_2.tar.bz2",
-"total":246
+"total":248
 }
 ],
 "downloads_per_date":[
@@ -350,6 +350,10 @@
 {
 "date":"2021-08-10",
 "total":1052
+},
+{
+"date":"2021-08-11",
+"total":1057
 }
 ],
 "package":"bwread",

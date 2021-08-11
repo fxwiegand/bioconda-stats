@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-htssip-1.4.0-r341h6115d3f_0.tar.bz2",
-"total":53
+"total":54
 },
 {
 "basename":"r-htssip-1.4.0-r341h6115d3f_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-htssip-1.4.0-r351h6115d3f_0.tar.bz2",
-"total":170
+"total":171
 },
 {
 "basename":"r-htssip-1.4.0-r351h6115d3f_1.tar.bz2",
@@ -23,7 +23,7 @@
 },
 {
 "basename":"r-htssip-1.4.0-r351h6115d3f_3.tar.bz2",
-"total":1702
+"total":1705
 }
 ],
 "downloads_per_date":[
@@ -338,6 +338,10 @@
 {
 "date":"2021-08-10",
 "total":2194
+},
+{
+"date":"2021-08-11",
+"total":2199
 }
 ],
 "package":"r-htssip",

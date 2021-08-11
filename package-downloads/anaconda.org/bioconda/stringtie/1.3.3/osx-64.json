@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"stringtie-1.3.3-ha92aebf_4.tar.bz2",
-"total":145
+"total":146
 },
 {
 "basename":"stringtie-1.3.3-py27_2.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"stringtie-1.3.3-py27_3.tar.bz2",
-"total":66
+"total":67
 },
 {
 "basename":"stringtie-1.3.3-py35_2.tar.bz2",
@@ -19,15 +19,15 @@
 },
 {
 "basename":"stringtie-1.3.3-py35_3.tar.bz2",
-"total":44
+"total":45
 },
 {
 "basename":"stringtie-1.3.3-py36_2.tar.bz2",
-"total":70
+"total":71
 },
 {
 "basename":"stringtie-1.3.3-py36_3.tar.bz2",
-"total":1932
+"total":1935
 }
 ],
 "downloads_per_date":[
@@ -342,6 +342,10 @@
 {
 "date":"2021-08-10",
 "total":2365
+},
+{
+"date":"2021-08-11",
+"total":2372
 }
 ],
 "package":"stringtie",
