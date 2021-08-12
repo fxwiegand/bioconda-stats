@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-html-parser-3.72-0.tar.bz2",
-"total":6053
+"total":6054
 },
 {
 "basename":"perl-html-parser-3.72-pl5.22.0_1.tar.bz2",
@@ -19,11 +19,11 @@
 },
 {
 "basename":"perl-html-parser-3.72-pl526h2d50403_4.tar.bz2",
-"total":18273
+"total":18277
 },
 {
 "basename":"perl-html-parser-3.72-pl526h6bb024c_5.tar.bz2",
-"total":115915
+"total":116008
 }
 ],
 "downloads_per_date":[
@@ -342,6 +342,10 @@
 {
 "date":"2021-08-11",
 "total":161724
+},
+{
+"date":"2021-08-12",
+"total":161822
 }
 ],
 "package":"perl-html-parser",

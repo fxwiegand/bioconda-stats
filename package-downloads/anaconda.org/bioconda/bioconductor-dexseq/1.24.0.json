@@ -316,6 +316,10 @@
 {
 "date":"2021-08-11",
 "total":7335
+},
+{
+"date":"2021-08-12",
+"total":7337
 }
 ],
 "downloads_per_subdir":[
@@ -325,11 +329,11 @@
 },
 {
 "subdir":"noarch",
-"total":1128
+"total":1129
 },
 {
 "subdir":"osx-64",
-"total":1908
+"total":1909
 }
 ],
 "package":"bioconductor-dexseq",
