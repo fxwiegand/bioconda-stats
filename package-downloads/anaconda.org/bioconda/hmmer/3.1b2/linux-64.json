@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"hmmer-3.1b2-0.tar.bz2",
-"total":688
+"total":689
 },
 {
 "basename":"hmmer-3.1b2-1.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"hmmer-3.1b2-3.tar.bz2",
-"total":49518
+"total":49594
 }
 ],
 "downloads_per_date":[
@@ -338,6 +338,10 @@
 {
 "date":"2021-08-12",
 "total":54890
+},
+{
+"date":"2021-08-13",
+"total":54967
 }
 ],
 "package":"hmmer",

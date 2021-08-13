@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"gfold-1.1.4-0.tar.bz2",
-"total":810
+"total":811
 },
 {
 "basename":"gfold-1.1.4-gsl1.16_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"gfold-1.1.4-gsl2.2_2.tar.bz2",
-"total":2200
+"total":2203
 }
 ],
 "downloads_per_date":[
@@ -334,6 +334,10 @@
 {
 "date":"2021-08-12",
 "total":3996
+},
+{
+"date":"2021-08-13",
+"total":4000
 }
 ],
 "package":"gfold",

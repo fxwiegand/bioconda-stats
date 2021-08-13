@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-liftover-357-1.tar.bz2",
-"total":3977
+"total":3978
 },
 {
 "basename":"ucsc-liftover-357-h35c10e6_3.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"ucsc-liftover-357-h446ed27_4.tar.bz2",
-"total":200
+"total":204
 }
 ],
 "downloads_per_date":[
@@ -322,6 +322,10 @@
 {
 "date":"2021-08-12",
 "total":6199
+},
+{
+"date":"2021-08-13",
+"total":6204
 }
 ],
 "package":"ucsc-liftover",

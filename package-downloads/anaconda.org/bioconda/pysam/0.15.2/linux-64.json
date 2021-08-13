@@ -31,7 +31,7 @@
 },
 {
 "basename":"pysam-0.15.2-py35h0380709_0.tar.bz2",
-"total":27823
+"total":27824
 },
 {
 "basename":"pysam-0.15.2-py36h02877da_7.tar.bz2",
@@ -59,7 +59,7 @@
 },
 {
 "basename":"pysam-0.15.2-py36hb06f55c_2.tar.bz2",
-"total":11898
+"total":11899
 },
 {
 "basename":"pysam-0.15.2-py36hea69257_4.tar.bz2",
@@ -83,11 +83,11 @@
 },
 {
 "basename":"pysam-0.15.2-py37hb06f55c_2.tar.bz2",
-"total":7808
+"total":7809
 },
 {
 "basename":"pysam-0.15.2-py37he2ed391_7.tar.bz2",
-"total":323
+"total":324
 },
 {
 "basename":"pysam-0.15.2-py37hea69257_4.tar.bz2",
@@ -99,7 +99,7 @@
 },
 {
 "basename":"pysam-0.15.2-py38hbab3036_7.tar.bz2",
-"total":1187
+"total":1188
 }
 ],
 "downloads_per_date":[
@@ -422,6 +422,10 @@
 {
 "date":"2021-08-12",
 "total":126901
+},
+{
+"date":"2021-08-13",
+"total":126906
 }
 ],
 "package":"pysam",
