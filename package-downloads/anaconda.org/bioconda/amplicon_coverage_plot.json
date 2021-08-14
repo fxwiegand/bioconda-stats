@@ -231,7 +231,7 @@
 },
 {
 "date":"2021-08-14",
-"total":103
+"total":110
 }
 ],
 "downloads_per_version":[
@@ -240,8 +240,12 @@
 "version":"0.2.1"
 },
 {
-"total":24,
+"total":25,
 "version":"0.3.0"
+},
+{
+"total":6,
+"version":"0.3.1"
 }
 ],
 "package":"amplicon_coverage_plot"
