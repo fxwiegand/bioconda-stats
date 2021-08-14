@@ -3,11 +3,11 @@
 "downloads_per_basename":[
 {
 "basename":"perl-xml-parser-2.44-3.tar.bz2",
-"total":553
+"total":555
 },
 {
 "basename":"perl-xml-parser-2.44-4.tar.bz2",
-"total":3117
+"total":3118
 },
 {
 "basename":"perl-xml-parser-2.44-pl526_0.tar.bz2",
@@ -23,7 +23,7 @@
 },
 {
 "basename":"perl-xml-parser-2.44-pl526h776b7f1_7.tar.bz2",
-"total":4426
+"total":4429
 }
 ],
 "downloads_per_date":[
@@ -350,6 +350,10 @@
 {
 "date":"2021-08-13",
 "total":10248
+},
+{
+"date":"2021-08-14",
+"total":10254
 }
 ],
 "package":"perl-xml-parser",
