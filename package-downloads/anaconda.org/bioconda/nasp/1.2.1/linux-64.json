@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"nasp-1.2.1-py36hf8e0771_1.tar.bz2",
-"total":63
+"total":64
 },
 {
 "basename":"nasp-1.2.1-py37h732b199_1.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"nasp-1.2.1-py38hebad582_1.tar.bz2",
-"total":755
+"total":757
 }
 ],
 "downloads_per_date":[
@@ -346,6 +346,10 @@
 {
 "date":"2021-08-14",
 "total":1278
+},
+{
+"date":"2021-08-15",
+"total":1281
 }
 ],
 "package":"nasp",
