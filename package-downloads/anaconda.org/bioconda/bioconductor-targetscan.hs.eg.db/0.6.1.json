@@ -332,6 +332,10 @@
 {
 "date":"2021-08-15",
 "total":2744
+},
+{
+"date":"2021-08-16",
+"total":2746
 }
 ],
 "downloads_per_subdir":[
@@ -341,11 +345,11 @@
 },
 {
 "subdir":"noarch",
-"total":485
+"total":486
 },
 {
 "subdir":"osx-64",
-"total":1858
+"total":1859
 }
 ],
 "package":"bioconductor-targetscan.hs.eg.db",

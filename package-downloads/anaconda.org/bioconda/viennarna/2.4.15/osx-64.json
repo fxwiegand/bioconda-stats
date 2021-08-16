@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"viennarna-2.4.15-py27ha16d4b3_0.tar.bz2",
-"total":61
+"total":62
 },
 {
 "basename":"viennarna-2.4.15-py36hf10c12f_0.tar.bz2",
@@ -11,11 +11,11 @@
 },
 {
 "basename":"viennarna-2.4.15-py37h14ce6c4_0.tar.bz2",
-"total":155
+"total":156
 },
 {
 "basename":"viennarna-2.4.15-py38h026d7d4_0.tar.bz2",
-"total":754
+"total":756
 }
 ],
 "downloads_per_date":[
@@ -350,6 +350,10 @@
 {
 "date":"2021-08-15",
 "total":1016
+},
+{
+"date":"2021-08-16",
+"total":1020
 }
 ],
 "package":"viennarna",
