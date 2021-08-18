@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"freebayes-1.2.0-htslib1.7_0.tar.bz2",
-"total":583
+"total":584
 },
 {
 "basename":"freebayes-1.2.0-py27h56106d0_4.tar.bz2",
@@ -27,7 +27,7 @@
 },
 {
 "basename":"freebayes-1.2.0-py36h56106d0_4.tar.bz2",
-"total":1873
+"total":1874
 },
 {
 "basename":"freebayes-1.2.0-py36h82df9c4_2.tar.bz2",
@@ -330,6 +330,10 @@
 {
 "date":"2021-08-17",
 "total":12799
+},
+{
+"date":"2021-08-18",
+"total":12801
 }
 ],
 "package":"freebayes",

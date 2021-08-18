@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bx-python-0.8.11-py36h1897645_1.tar.bz2",
-"total":363
+"total":364
 },
 {
 "basename":"bx-python-0.8.11-py36h5e0341f_0.tar.bz2",
@@ -11,15 +11,15 @@
 },
 {
 "basename":"bx-python-0.8.11-py37h5558810_1.tar.bz2",
-"total":2680
+"total":2702
 },
 {
 "basename":"bx-python-0.8.11-py37h73d7ac5_0.tar.bz2",
-"total":404
+"total":406
 },
 {
 "basename":"bx-python-0.8.11-py38h024e602_1.tar.bz2",
-"total":1536
+"total":1544
 },
 {
 "basename":"bx-python-0.8.11-py38hb90e610_0.tar.bz2",
@@ -27,7 +27,7 @@
 },
 {
 "basename":"bx-python-0.8.11-py39h5d76eff_1.tar.bz2",
-"total":1461
+"total":1471
 }
 ],
 "downloads_per_date":[
@@ -370,6 +370,10 @@
 {
 "date":"2021-08-17",
 "total":6945
+},
+{
+"date":"2021-08-18",
+"total":6988
 }
 ],
 "package":"bx-python",
