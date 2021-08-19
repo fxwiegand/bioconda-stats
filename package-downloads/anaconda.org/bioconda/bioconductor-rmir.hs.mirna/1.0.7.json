@@ -344,6 +344,10 @@
 {
 "date":"2021-08-18",
 "total":3218
+},
+{
+"date":"2021-08-19",
+"total":3221
 }
 ],
 "downloads_per_subdir":[
@@ -353,11 +357,11 @@
 },
 {
 "subdir":"noarch",
-"total":560
+"total":562
 },
 {
 "subdir":"osx-64",
-"total":2012
+"total":2013
 }
 ],
 "package":"bioconductor-rmir.hs.mirna",

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"pysam-0.8.4-py27_0.tar.bz2",
-"total":9573
+"total":9576
 },
 {
 "basename":"pysam-0.8.4-py34_0.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"pysam-0.8.4-py35_0.tar.bz2",
-"total":2475
+"total":2476
 }
 ],
 "downloads_per_date":[
@@ -354,6 +354,10 @@
 {
 "date":"2021-08-18",
 "total":13021
+},
+{
+"date":"2021-08-19",
+"total":13025
 }
 ],
 "package":"pysam",

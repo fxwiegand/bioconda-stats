@@ -2,8 +2,12 @@
 "channel":"bioconda",
 "downloads_per_basename":[
 {
+"basename":"nextclade-1.2.3-h2eeb373_1.tar.bz2",
+"total":6
+},
+{
 "basename":"nextclade-1.2.3-h9ee0642_0.tar.bz2",
-"total":17
+"total":18
 }
 ],
 "downloads_per_date":[
@@ -14,6 +18,10 @@
 {
 "date":"2021-08-18",
 "total":17
+},
+{
+"date":"2021-08-19",
+"total":24
 }
 ],
 "package":"nextclade",
