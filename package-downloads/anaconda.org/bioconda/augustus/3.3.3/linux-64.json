@@ -2,8 +2,12 @@
 "channel":"bioconda",
 "downloads_per_basename":[
 {
+"basename":"augustus-3.3.3-pl5262h5a9fe7b_6.tar.bz2",
+"total":11
+},
+{
 "basename":"augustus-3.3.3-pl526h0faeac2_5.tar.bz2",
-"total":5443
+"total":5448
 },
 {
 "basename":"augustus-3.3.3-pl526hc56b729_3.tar.bz2",
@@ -377,7 +381,7 @@
 },
 {
 "date":"2021-08-20",
-"total":14067
+"total":14083
 }
 ],
 "package":"augustus",
