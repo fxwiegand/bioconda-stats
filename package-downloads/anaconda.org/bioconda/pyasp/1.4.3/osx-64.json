@@ -3,11 +3,11 @@
 "downloads_per_basename":[
 {
 "basename":"pyasp-1.4.3-py27_0.tar.bz2",
-"total":40
+"total":41
 },
 {
 "basename":"pyasp-1.4.3-py27_1.tar.bz2",
-"total":36
+"total":37
 },
 {
 "basename":"pyasp-1.4.3-py35_0.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"pyasp-1.4.3-py35_1.tar.bz2",
-"total":66
+"total":67
 },
 {
 "basename":"pyasp-1.4.3-py36_0.tar.bz2",
@@ -23,7 +23,7 @@
 },
 {
 "basename":"pyasp-1.4.3-py36_1.tar.bz2",
-"total":1967
+"total":1969
 }
 ],
 "downloads_per_date":[
@@ -374,6 +374,10 @@
 {
 "date":"2021-08-19",
 "total":2203
+},
+{
+"date":"2021-08-20",
+"total":2208
 }
 ],
 "package":"pyasp",

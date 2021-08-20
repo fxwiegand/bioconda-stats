@@ -348,6 +348,10 @@
 {
 "date":"2021-08-19",
 "total":4326
+},
+{
+"date":"2021-08-20",
+"total":4328
 }
 ],
 "downloads_per_subdir":[
@@ -357,11 +361,11 @@
 },
 {
 "subdir":"noarch",
-"total":563
+"total":564
 },
 {
 "subdir":"osx-64",
-"total":2083
+"total":2084
 }
 ],
 "package":"bioconductor-txdb.scerevisiae.ucsc.saccer3.sgdgene",

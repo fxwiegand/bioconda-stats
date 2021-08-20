@@ -3,11 +3,11 @@
 "downloads_per_basename":[
 {
 "basename":"perl-carp-1.38-pl5.22.0_0.tar.bz2",
-"total":1983
+"total":1984
 },
 {
 "basename":"perl-carp-1.38-pl526_1.tar.bz2",
-"total":3577
+"total":3578
 },
 {
 "basename":"perl-carp-1.38-pl526_2.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"perl-carp-1.38-pl526_3.tar.bz2",
-"total":11602
+"total":11617
 }
 ],
 "downloads_per_date":[
@@ -366,6 +366,10 @@
 {
 "date":"2021-08-19",
 "total":18025
+},
+{
+"date":"2021-08-20",
+"total":18042
 }
 ],
 "package":"perl-carp",

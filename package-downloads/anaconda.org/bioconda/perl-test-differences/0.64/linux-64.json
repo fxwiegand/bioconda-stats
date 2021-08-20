@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-differences-0.64-0.tar.bz2",
-"total":4263
+"total":4265
 },
 {
 "basename":"perl-test-differences-0.64-pl526_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-test-differences-0.64-pl526_2.tar.bz2",
-"total":15335
+"total":15336
 }
 ],
 "downloads_per_date":[
@@ -350,6 +350,10 @@
 {
 "date":"2021-08-19",
 "total":19881
+},
+{
+"date":"2021-08-20",
+"total":19884
 }
 ],
 "package":"perl-test-differences",
