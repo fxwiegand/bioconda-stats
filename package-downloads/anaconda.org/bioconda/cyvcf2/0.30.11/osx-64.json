@@ -15,7 +15,7 @@
 },
 {
 "basename":"cyvcf2-0.30.11-py36h7f406a0_2.tar.bz2",
-"total":9
+"total":10
 },
 {
 "basename":"cyvcf2-0.30.11-py36h9235bdc_1.tar.bz2",
@@ -31,7 +31,7 @@
 },
 {
 "basename":"cyvcf2-0.30.11-py37h2dfc938_1.tar.bz2",
-"total":11
+"total":12
 },
 {
 "basename":"cyvcf2-0.30.11-py37hba4200f_2.tar.bz2",
@@ -43,7 +43,7 @@
 },
 {
 "basename":"cyvcf2-0.30.11-py38h2a2b701_1.tar.bz2",
-"total":11
+"total":12
 },
 {
 "basename":"cyvcf2-0.30.11-py38h837d872_0.tar.bz2",
@@ -55,11 +55,11 @@
 },
 {
 "basename":"cyvcf2-0.30.11-py39h967de6e_2.tar.bz2",
-"total":11
+"total":12
 },
 {
 "basename":"cyvcf2-0.30.11-py39hdf7032d_0.tar.bz2",
-"total":62
+"total":64
 }
 ],
 "downloads_per_date":[
@@ -158,6 +158,10 @@
 {
 "date":"2021-08-20",
 "total":236
+},
+{
+"date":"2021-08-21",
+"total":242
 }
 ],
 "package":"cyvcf2",

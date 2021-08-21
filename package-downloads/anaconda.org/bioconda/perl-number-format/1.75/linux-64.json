@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-number-format-1.75-1.tar.bz2",
-"total":4538
+"total":4540
 },
 {
 "basename":"perl-number-format-1.75-pl5.22.0_0.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"perl-number-format-1.75-pl526_3.tar.bz2",
-"total":25947
+"total":25953
 }
 ],
 "downloads_per_date":[
@@ -370,6 +370,10 @@
 {
 "date":"2021-08-20",
 "total":31576
+},
+{
+"date":"2021-08-21",
+"total":31584
 }
 ],
 "package":"perl-number-format",
