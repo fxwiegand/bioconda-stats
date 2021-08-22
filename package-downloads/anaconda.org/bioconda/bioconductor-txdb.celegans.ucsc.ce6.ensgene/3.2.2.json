@@ -356,6 +356,10 @@
 {
 "date":"2021-08-21",
 "total":5656
+},
+{
+"date":"2021-08-22",
+"total":5658
 }
 ],
 "downloads_per_subdir":[
@@ -365,11 +369,11 @@
 },
 {
 "subdir":"noarch",
-"total":723
+"total":724
 },
 {
 "subdir":"osx-64",
-"total":2039
+"total":2040
 }
 ],
 "package":"bioconductor-txdb.celegans.ucsc.ce6.ensgene",

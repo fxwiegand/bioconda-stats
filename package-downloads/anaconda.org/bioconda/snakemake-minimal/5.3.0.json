@@ -356,6 +356,10 @@
 {
 "date":"2021-08-21",
 "total":12516
+},
+{
+"date":"2021-08-22",
+"total":12518
 }
 ],
 "downloads_per_subdir":[
@@ -365,11 +369,11 @@
 },
 {
 "subdir":"noarch",
-"total":4373
+"total":4374
 },
 {
 "subdir":"osx-64",
-"total":2600
+"total":2601
 }
 ],
 "package":"snakemake-minimal",

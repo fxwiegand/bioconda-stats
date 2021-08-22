@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-sub-install-0.928-0.tar.bz2",
-"total":4030
+"total":4031
 },
 {
 "basename":"perl-sub-install-0.928-pl526_1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-sub-install-0.928-pl526_2.tar.bz2",
-"total":64555
+"total":64566
 }
 ],
 "downloads_per_date":[
@@ -370,6 +370,10 @@
 {
 "date":"2021-08-21",
 "total":69007
+},
+{
+"date":"2021-08-22",
+"total":69019
 }
 ],
 "package":"perl-sub-install",
