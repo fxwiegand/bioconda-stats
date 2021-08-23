@@ -360,6 +360,10 @@
 {
 "date":"2021-08-22",
 "total":4379
+},
+{
+"date":"2021-08-23",
+"total":4381
 }
 ],
 "downloads_per_subdir":[
@@ -369,11 +373,11 @@
 },
 {
 "subdir":"noarch",
-"total":1616
+"total":1617
 },
 {
 "subdir":"osx-64",
-"total":1999
+"total":2000
 }
 ],
 "package":"bioconductor-ensdb.hsapiens.v75",

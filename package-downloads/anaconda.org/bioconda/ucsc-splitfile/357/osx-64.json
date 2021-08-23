@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-splitfile-357-0.tar.bz2",
-"total":276
+"total":277
 },
 {
 "basename":"ucsc-splitfile-357-1.tar.bz2",
@@ -11,7 +11,7 @@
 },
 {
 "basename":"ucsc-splitfile-357-h5eb252a_2.tar.bz2",
-"total":1711
+"total":1713
 }
 ],
 "downloads_per_date":[
@@ -374,6 +374,10 @@
 {
 "date":"2021-08-22",
 "total":2023
+},
+{
+"date":"2021-08-23",
+"total":2026
 }
 ],
 "package":"ucsc-splitfile",
