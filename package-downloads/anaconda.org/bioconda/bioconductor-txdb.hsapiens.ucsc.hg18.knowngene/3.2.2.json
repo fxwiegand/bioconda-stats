@@ -364,6 +364,10 @@
 {
 "date":"2021-08-23",
 "total":5851
+},
+{
+"date":"2021-08-24",
+"total":5859
 }
 ],
 "downloads_per_subdir":[
@@ -373,11 +377,11 @@
 },
 {
 "subdir":"noarch",
-"total":748
+"total":755
 },
 {
 "subdir":"osx-64",
-"total":2079
+"total":2080
 }
 ],
 "package":"bioconductor-txdb.hsapiens.ucsc.hg18.knowngene",

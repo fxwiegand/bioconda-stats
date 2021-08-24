@@ -3,11 +3,11 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-mesh.dsi.eg.db-1.13.0-r36_0.tar.bz2",
-"total":67
+"total":68
 },
 {
 "basename":"bioconductor-mesh.dsi.eg.db-1.13.0-r40_1.tar.bz2",
-"total":58
+"total":59
 },
 {
 "basename":"bioconductor-mesh.dsi.eg.db-1.13.0-r40_2.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-mesh.dsi.eg.db-1.13.0-r40hdfd78af_3.tar.bz2",
-"total":109
+"total":111
 }
 ],
 "downloads_per_date":[
@@ -334,6 +334,10 @@
 {
 "date":"2021-08-23",
 "total":271
+},
+{
+"date":"2021-08-24",
+"total":275
 }
 ],
 "package":"bioconductor-mesh.dsi.eg.db",

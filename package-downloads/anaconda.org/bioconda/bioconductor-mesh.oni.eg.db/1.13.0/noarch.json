@@ -3,11 +3,11 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-mesh.oni.eg.db-1.13.0-r36_0.tar.bz2",
-"total":77
+"total":78
 },
 {
 "basename":"bioconductor-mesh.oni.eg.db-1.13.0-r40_1.tar.bz2",
-"total":50
+"total":51
 },
 {
 "basename":"bioconductor-mesh.oni.eg.db-1.13.0-r40_2.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-mesh.oni.eg.db-1.13.0-r40hdfd78af_3.tar.bz2",
-"total":106
+"total":108
 }
 ],
 "downloads_per_date":[
@@ -334,6 +334,10 @@
 {
 "date":"2021-08-23",
 "total":271
+},
+{
+"date":"2021-08-24",
+"total":275
 }
 ],
 "package":"bioconductor-mesh.oni.eg.db",
