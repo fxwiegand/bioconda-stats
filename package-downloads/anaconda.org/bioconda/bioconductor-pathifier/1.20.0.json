@@ -368,6 +368,10 @@
 {
 "date":"2021-08-24",
 "total":2622
+},
+{
+"date":"2021-08-25",
+"total":2624
 }
 ],
 "downloads_per_subdir":[
@@ -377,11 +381,11 @@
 },
 {
 "subdir":"noarch",
-"total":232
+"total":233
 },
 {
 "subdir":"osx-64",
-"total":1917
+"total":1918
 }
 ],
 "package":"bioconductor-pathifier",

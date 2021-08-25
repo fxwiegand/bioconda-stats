@@ -3,11 +3,11 @@
 "downloads_per_basename":[
 {
 "basename":"vcftools-0.1.16-h9a82719_5.tar.bz2",
-"total":4005
+"total":4027
 },
 {
 "basename":"vcftools-0.1.16-he513fc3_4.tar.bz2",
-"total":8001
+"total":8007
 },
 {
 "basename":"vcftools-0.1.16-he860b03_3.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"vcftools-0.1.16-he941832_2.tar.bz2",
-"total":10681
+"total":10682
 }
 ],
 "downloads_per_date":[
@@ -386,6 +386,10 @@
 {
 "date":"2021-08-24",
 "total":47652
+},
+{
+"date":"2021-08-25",
+"total":47681
 }
 ],
 "package":"vcftools",

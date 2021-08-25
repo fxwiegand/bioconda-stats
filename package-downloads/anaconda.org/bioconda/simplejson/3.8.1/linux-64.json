@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"simplejson-3.8.1-py27_0.tar.bz2",
-"total":31876
+"total":31877
 },
 {
 "basename":"simplejson-3.8.1-py34_0.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"simplejson-3.8.1-py36_0.tar.bz2",
-"total":36706
+"total":36725
 }
 ],
 "downloads_per_date":[
@@ -386,6 +386,10 @@
 {
 "date":"2021-08-24",
 "total":78226
+},
+{
+"date":"2021-08-25",
+"total":78246
 }
 ],
 "package":"simplejson",
