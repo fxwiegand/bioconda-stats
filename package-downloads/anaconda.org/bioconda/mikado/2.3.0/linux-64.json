@@ -11,7 +11,7 @@
 },
 {
 "basename":"mikado-2.3.0-py39h70b41aa_0.tar.bz2",
-"total":39
+"total":40
 }
 ],
 "downloads_per_date":[
@@ -178,6 +178,10 @@
 {
 "date":"2021-08-25",
 "total":109
+},
+{
+"date":"2021-08-26",
+"total":110
 }
 ],
 "package":"mikado",
@@ -431,6 +435,15 @@
 {
 "basename":"mikado-2.3.0-py37h9c5868f_0.tar.bz2",
 "total":38
+}
+]
+},
+{
+"date":"2021-08-26",
+"downloads_per_basename":[
+{
+"basename":"mikado-2.3.0-py39h70b41aa_0.tar.bz2",
+"total":40
 }
 ]
 }

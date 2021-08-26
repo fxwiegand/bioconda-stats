@@ -55,7 +55,7 @@
 },
 {
 "basename":"plek-1.2-py27he1b5a44_1.tar.bz2",
-"total":147
+"total":148
 },
 {
 "basename":"plek-1.2-py35hfc679d8_0.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2021-08-25",
 "total":1937
+},
+{
+"date":"2021-08-26",
+"total":1938
 }
 ],
 "package":"plek",
@@ -1025,6 +1029,15 @@
 {
 "basename":"plek-1.2-py39h8f06ca0_4.tar.bz2",
 "total":52
+}
+]
+},
+{
+"date":"2021-08-26",
+"downloads_per_basename":[
+{
+"basename":"plek-1.2-py27he1b5a44_1.tar.bz2",
+"total":148
 }
 ]
 }

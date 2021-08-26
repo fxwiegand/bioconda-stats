@@ -51,7 +51,7 @@
 },
 {
 "basename":"python-hppy-0.9.8-py27h516909a_1.tar.bz2",
-"total":62
+"total":63
 },
 {
 "basename":"python-hppy-0.9.8-py36h516909a_1.tar.bz2",
@@ -146,6 +146,10 @@
 {
 "date":"2021-08-25",
 "total":483
+},
+{
+"date":"2021-08-26",
+"total":484
 }
 ],
 "package":"python-hppy",
@@ -545,6 +549,15 @@
 {
 "basename":"python-hppy-0.9.8-py37h516909a_1.tar.bz2",
 "total":59
+}
+]
+},
+{
+"date":"2021-08-26",
+"downloads_per_basename":[
+{
+"basename":"python-hppy-0.9.8-py27h516909a_1.tar.bz2",
+"total":63
 }
 ]
 }

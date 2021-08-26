@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"berokka-0.2-2.tar.bz2",
-"total":273
+"total":274
 },
 {
 "basename":"berokka-0.2-3.tar.bz2",
@@ -146,6 +146,10 @@
 {
 "date":"2021-08-25",
 "total":1000
+},
+{
+"date":"2021-08-26",
+"total":1001
 }
 ],
 "package":"berokka",
@@ -355,6 +359,15 @@
 {
 "basename":"berokka-0.2-3.tar.bz2",
 "total":353
+}
+]
+},
+{
+"date":"2021-08-26",
+"downloads_per_basename":[
+{
+"basename":"berokka-0.2-2.tar.bz2",
+"total":274
 }
 ]
 }

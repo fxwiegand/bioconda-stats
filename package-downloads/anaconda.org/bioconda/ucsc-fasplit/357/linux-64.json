@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-fasplit-357-1.tar.bz2",
-"total":900
+"total":901
 }
 ],
 "downloads_per_date":[
@@ -214,6 +214,10 @@
 {
 "date":"2021-08-25",
 "total":1336
+},
+{
+"date":"2021-08-26",
+"total":1337
 }
 ],
 "package":"ucsc-fasplit",
@@ -455,6 +459,15 @@
 {
 "basename":"ucsc-fasplit-357-1.tar.bz2",
 "total":900
+}
+]
+},
+{
+"date":"2021-08-26",
+"downloads_per_basename":[
+{
+"basename":"ucsc-fasplit-357-1.tar.bz2",
+"total":901
 }
 ]
 }

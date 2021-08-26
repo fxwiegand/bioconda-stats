@@ -11,7 +11,7 @@
 },
 {
 "basename":"fgbio-0.4.0-py27_0.tar.bz2",
-"total":488
+"total":489
 },
 {
 "basename":"fgbio-0.4.0-py36_1.tar.bz2",
@@ -142,6 +142,10 @@
 {
 "date":"2021-08-25",
 "total":3658
+},
+{
+"date":"2021-08-26",
+"total":3659
 }
 ],
 "package":"fgbio",
@@ -444,6 +448,15 @@
 {
 "basename":"fgbio-0.4.0-py27_1.tar.bz2",
 "total":1177
+}
+]
+},
+{
+"date":"2021-08-26",
+"downloads_per_basename":[
+{
+"basename":"fgbio-0.4.0-py27_0.tar.bz2",
+"total":489
 }
 ]
 }
