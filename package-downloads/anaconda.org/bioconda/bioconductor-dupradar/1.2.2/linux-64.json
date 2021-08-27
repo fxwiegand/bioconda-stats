@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-dupradar-1.2.2-r3.3.1_0.tar.bz2",
-"total":603
+"total":604
 },
 {
 "basename":"bioconductor-dupradar-1.2.2-r3.3.2_0.tar.bz2",
@@ -162,6 +162,10 @@
 {
 "date":"2021-08-26",
 "total":3252
+},
+{
+"date":"2021-08-27",
+"total":3253
 }
 ],
 "package":"bioconductor-dupradar",
@@ -433,6 +437,15 @@
 {
 "basename":"bioconductor-dupradar-1.2.2-r3.3.2_0.tar.bz2",
 "total":689
+}
+]
+},
+{
+"date":"2021-08-27",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-dupradar-1.2.2-r3.3.1_0.tar.bz2",
+"total":604
 }
 ]
 }
