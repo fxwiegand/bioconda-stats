@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-dss-2.38.0-r40hd029910_1.tar.bz2",
-"total":103
+"total":104
 },
 {
 "basename":"bioconductor-dss-2.38.0-r40h037d062_0.tar.bz2",
@@ -210,6 +210,10 @@
 {
 "date":"2021-08-27",
 "total":340
+},
+{
+"date":"2021-08-28",
+"total":341
 }
 ],
 "package":"bioconductor-dss",
@@ -432,6 +436,15 @@
 {
 "basename":"bioconductor-dss-2.38.0-r40hd029910_1.tar.bz2",
 "total":103
+}
+]
+},
+{
+"date":"2021-08-28",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-dss-2.38.0-r40hd029910_1.tar.bz2",
+"total":104
 }
 ]
 }

@@ -23,7 +23,7 @@
 },
 {
 "basename":"perl-archive-zip-1.55-3.tar.bz2",
-"total":8320
+"total":8321
 }
 ],
 "downloads_per_date":[
@@ -138,6 +138,10 @@
 {
 "date":"2021-08-27",
 "total":11280
+},
+{
+"date":"2021-08-28",
+"total":11281
 }
 ],
 "package":"perl-archive-zip",
@@ -418,6 +422,15 @@
 {
 "basename":"perl-archive-zip-1.55-1.tar.bz2",
 "total":441
+}
+]
+},
+{
+"date":"2021-08-28",
+"downloads_per_basename":[
+{
+"basename":"perl-archive-zip-1.55-3.tar.bz2",
+"total":8321
 }
 ]
 }

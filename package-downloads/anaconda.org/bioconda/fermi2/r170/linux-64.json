@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"fermi2-r170-h5bf99c6_1.tar.bz2",
-"total":246
+"total":254
 },
 {
 "basename":"fermi2-r170-hed695b0_0.tar.bz2",
@@ -274,6 +274,10 @@
 {
 "date":"2021-08-27",
 "total":863
+},
+{
+"date":"2021-08-28",
+"total":871
 }
 ],
 "package":"fermi2",
@@ -609,6 +613,15 @@
 {
 "basename":"fermi2-r170-h5bf99c6_1.tar.bz2",
 "total":246
+}
+]
+},
+{
+"date":"2021-08-28",
+"downloads_per_basename":[
+{
+"basename":"fermi2-r170-h5bf99c6_1.tar.bz2",
+"total":254
 }
 ]
 }
