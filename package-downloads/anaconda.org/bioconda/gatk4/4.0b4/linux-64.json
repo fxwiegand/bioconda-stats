@@ -7,7 +7,7 @@
 },
 {
 "basename":"gatk4-4.0b4-py27_0.tar.bz2",
-"total":776
+"total":777
 },
 {
 "basename":"gatk4-4.0b4-py35_0.tar.bz2",
@@ -154,6 +154,10 @@
 {
 "date":"2021-08-28",
 "total":2258
+},
+{
+"date":"2021-08-29",
+"total":2259
 }
 ],
 "package":"gatk4",
@@ -400,6 +404,15 @@
 {
 "basename":"gatk4-4.0b4-py27_0.tar.bz2",
 "total":776
+}
+]
+},
+{
+"date":"2021-08-29",
+"downloads_per_basename":[
+{
+"basename":"gatk4-4.0b4-py27_0.tar.bz2",
+"total":777
 }
 ]
 }

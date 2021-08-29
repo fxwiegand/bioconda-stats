@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-checkcoveragegaps-377-h0b8a92a_2.tar.bz2",
-"total":38
+"total":39
 },
 {
 "basename":"ucsc-checkcoveragegaps-377-h446ed27_1.tar.bz2",
@@ -146,6 +146,10 @@
 {
 "date":"2021-08-28",
 "total":258
+},
+{
+"date":"2021-08-29",
+"total":259
 }
 ],
 "package":"ucsc-checkcoveragegaps",
@@ -331,6 +335,15 @@
 {
 "basename":"ucsc-checkcoveragegaps-377-h0b8a92a_2.tar.bz2",
 "total":38
+}
+]
+},
+{
+"date":"2021-08-29",
+"downloads_per_basename":[
+{
+"basename":"ucsc-checkcoveragegaps-377-h0b8a92a_2.tar.bz2",
+"total":39
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-pslpairs-357-1.tar.bz2",
-"total":405
+"total":406
 },
 {
 "basename":"ucsc-pslpairs-357-0.tar.bz2",
@@ -130,6 +130,10 @@
 {
 "date":"2021-08-28",
 "total":894
+},
+{
+"date":"2021-08-29",
+"total":895
 }
 ],
 "package":"ucsc-pslpairs",
@@ -281,6 +285,15 @@
 {
 "basename":"ucsc-pslpairs-357-1.tar.bz2",
 "total":405
+}
+]
+},
+{
+"date":"2021-08-29",
+"downloads_per_basename":[
+{
+"basename":"ucsc-pslpairs-357-1.tar.bz2",
+"total":406
 }
 ]
 }

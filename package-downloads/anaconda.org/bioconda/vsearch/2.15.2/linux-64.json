@@ -7,7 +7,7 @@
 },
 {
 "basename":"vsearch-2.15.2-h2d02072_0.tar.bz2",
-"total":1442
+"total":1443
 }
 ],
 "downloads_per_date":[
@@ -306,6 +306,10 @@
 {
 "date":"2021-08-28",
 "total":1660
+},
+{
+"date":"2021-08-29",
+"total":1661
 }
 ],
 "package":"vsearch",
@@ -809,6 +813,15 @@
 {
 "basename":"vsearch-2.15.2-h95f258a_1.tar.bz2",
 "total":218
+}
+]
+},
+{
+"date":"2021-08-29",
+"downloads_per_basename":[
+{
+"basename":"vsearch-2.15.2-h2d02072_0.tar.bz2",
+"total":1443
 }
 ]
 }

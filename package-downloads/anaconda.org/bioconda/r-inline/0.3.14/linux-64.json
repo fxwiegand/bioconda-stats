@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-inline-0.3.14-r3.2.2_0.tar.bz2",
-"total":2964
+"total":2965
 },
 {
 "basename":"r-inline-0.3.14-r3.3.1_0.tar.bz2",
@@ -70,6 +70,10 @@
 {
 "date":"2021-08-28",
 "total":6000
+},
+{
+"date":"2021-08-29",
+"total":6001
 }
 ],
 "package":"r-inline",
@@ -172,6 +176,15 @@
 {
 "basename":"r-inline-0.3.14-r3.2.2_0.tar.bz2",
 "total":2964
+}
+]
+},
+{
+"date":"2021-08-29",
+"downloads_per_basename":[
+{
+"basename":"r-inline-0.3.14-r3.2.2_0.tar.bz2",
+"total":2965
 }
 ]
 }

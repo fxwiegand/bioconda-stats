@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-singlecellexperiment-1.0.0-r341_1.tar.bz2",
-"total":868
+"total":869
 }
 ],
 "downloads_per_date":[
@@ -146,6 +146,10 @@
 {
 "date":"2021-08-28",
 "total":1882
+},
+{
+"date":"2021-08-29",
+"total":1883
 }
 ],
 "package":"bioconductor-singlecellexperiment",
@@ -365,6 +369,15 @@
 {
 "basename":"bioconductor-singlecellexperiment-1.0.0-r351_1.tar.bz2",
 "total":242
+}
+]
+},
+{
+"date":"2021-08-29",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-singlecellexperiment-1.0.0-r341_1.tar.bz2",
+"total":869
 }
 ]
 }
