@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"htslib-1.13-h9093b5e_0.tar.bz2",
-"total":10798
+"total":10896
 }
 ],
 "downloads_per_date":[
@@ -206,6 +206,10 @@
 {
 "date":"2021-08-29",
 "total":10798
+},
+{
+"date":"2021-08-30",
+"total":10896
 }
 ],
 "package":"htslib",
@@ -657,6 +661,15 @@
 {
 "basename":"htslib-1.13-h9093b5e_0.tar.bz2",
 "total":10798
+}
+]
+},
+{
+"date":"2021-08-30",
+"downloads_per_basename":[
+{
+"basename":"htslib-1.13-h9093b5e_0.tar.bz2",
+"total":10896
 }
 ]
 }
