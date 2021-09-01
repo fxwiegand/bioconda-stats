@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-fabia-2.36.0-r40hd029910_1.tar.bz2",
-"total":50
+"total":51
 },
 {
 "basename":"bioconductor-fabia-2.36.0-r40h037d062_0.tar.bz2",
@@ -110,6 +110,10 @@
 {
 "date":"2021-08-31",
 "total":105
+},
+{
+"date":"2021-09-01",
+"total":106
 }
 ],
 "package":"bioconductor-fabia",
@@ -251,6 +255,15 @@
 {
 "basename":"bioconductor-fabia-2.36.0-r40h037d062_0.tar.bz2",
 "total":55
+}
+]
+},
+{
+"date":"2021-09-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-fabia-2.36.0-r40hd029910_1.tar.bz2",
+"total":51
 }
 ]
 }
