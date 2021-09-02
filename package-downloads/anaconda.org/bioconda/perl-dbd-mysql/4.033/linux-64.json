@@ -15,7 +15,7 @@
 },
 {
 "basename":"perl-dbd-mysql-4.033-2.tar.bz2",
-"total":9621
+"total":9625
 }
 ],
 "downloads_per_date":[
@@ -350,6 +350,10 @@
 {
 "date":"2021-09-01",
 "total":11151
+},
+{
+"date":"2021-09-02",
+"total":11155
 }
 ],
 "package":"perl-dbd-mysql",
@@ -800,6 +804,15 @@
 {
 "basename":"perl-dbd-mysql-4.033-2.tar.bz2",
 "total":9621
+}
+]
+},
+{
+"date":"2021-09-02",
+"downloads_per_basename":[
+{
+"basename":"perl-dbd-mysql-4.033-2.tar.bz2",
+"total":9625
 }
 ]
 }

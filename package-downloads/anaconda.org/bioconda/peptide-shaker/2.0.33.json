@@ -212,6 +212,10 @@
 {
 "date":"2021-09-01",
 "total":217
+},
+{
+"date":"2021-09-02",
+"total":219
 }
 ],
 "downloads_per_subdir":[
@@ -221,7 +225,7 @@
 },
 {
 "subdir":"osx-64",
-"total":129
+"total":131
 }
 ],
 "package":"peptide-shaker",
@@ -772,6 +776,15 @@
 {
 "subdir":"osx-64",
 "total":129
+}
+]
+},
+{
+"date":"2021-09-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":131
 }
 ]
 }

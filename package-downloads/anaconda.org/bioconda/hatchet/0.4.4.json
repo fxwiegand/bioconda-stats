@@ -132,6 +132,10 @@
 {
 "date":"2021-09-01",
 "total":183
+},
+{
+"date":"2021-09-02",
+"total":185
 }
 ],
 "downloads_per_subdir":[
@@ -141,7 +145,7 @@
 },
 {
 "subdir":"osx-64",
-"total":107
+"total":109
 }
 ],
 "package":"hatchet",
@@ -500,6 +504,15 @@
 {
 "subdir":"osx-64",
 "total":107
+}
+]
+},
+{
+"date":"2021-09-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":109
 }
 ]
 }

@@ -76,6 +76,10 @@
 {
 "date":"2021-09-01",
 "total":120
+},
+{
+"date":"2021-09-02",
+"total":122
 }
 ],
 "downloads_per_subdir":[
@@ -85,7 +89,7 @@
 },
 {
 "subdir":"osx-64",
-"total":68
+"total":70
 }
 ],
 "package":"pyseq-align",
@@ -302,6 +306,15 @@
 {
 "subdir":"osx-64",
 "total":68
+}
+]
+},
+{
+"date":"2021-09-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":70
 }
 ]
 }

@@ -27,7 +27,7 @@
 },
 {
 "basename":"sonicparanoid-1.0.14-py36hb3f55d8_1.tar.bz2",
-"total":93
+"total":94
 },
 {
 "basename":"sonicparanoid-1.0.14-py37hb3f55d8_1.tar.bz2",
@@ -154,6 +154,10 @@
 {
 "date":"2021-09-01",
 "total":1585
+},
+{
+"date":"2021-09-02",
+"total":1586
 }
 ],
 "package":"sonicparanoid",
@@ -542,6 +546,15 @@
 {
 "basename":"sonicparanoid-1.0.14-py37h9c5868f_4.tar.bz2",
 "total":43
+}
+]
+},
+{
+"date":"2021-09-02",
+"downloads_per_basename":[
+{
+"basename":"sonicparanoid-1.0.14-py36hb3f55d8_1.tar.bz2",
+"total":94
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-cancermutationanalysis-1.32.0-r40hd029910_1.tar.bz2",
-"total":45
+"total":46
 },
 {
 "basename":"bioconductor-cancermutationanalysis-1.32.0-r40h037d062_0.tar.bz2",
@@ -126,6 +126,10 @@
 {
 "date":"2021-09-01",
 "total":109
+},
+{
+"date":"2021-09-02",
+"total":110
 }
 ],
 "package":"bioconductor-cancermutationanalysis",
@@ -267,6 +271,15 @@
 {
 "basename":"bioconductor-cancermutationanalysis-1.32.0-r40h037d062_0.tar.bz2",
 "total":64
+}
+]
+},
+{
+"date":"2021-09-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cancermutationanalysis-1.32.0-r40hd029910_1.tar.bz2",
+"total":46
 }
 ]
 }

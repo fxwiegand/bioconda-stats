@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-bedsort-357-1.tar.bz2",
-"total":1502
+"total":1503
 }
 ],
 "downloads_per_date":[
@@ -290,6 +290,10 @@
 {
 "date":"2021-09-01",
 "total":2061
+},
+{
+"date":"2021-09-02",
+"total":2062
 }
 ],
 "package":"ucsc-bedsort",
@@ -575,6 +579,15 @@
 {
 "basename":"ucsc-bedsort-357-1.tar.bz2",
 "total":1502
+}
+]
+},
+{
+"date":"2021-09-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bedsort-357-1.tar.bz2",
+"total":1503
 }
 ]
 }

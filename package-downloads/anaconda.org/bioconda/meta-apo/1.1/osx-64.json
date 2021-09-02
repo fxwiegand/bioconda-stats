@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"meta-apo-1.1-hb280591_1.tar.bz2",
-"total":34
+"total":36
 },
 {
 "basename":"meta-apo-1.1-hb280591_0.tar.bz2",
@@ -114,6 +114,10 @@
 {
 "date":"2021-09-01",
 "total":72
+},
+{
+"date":"2021-09-02",
+"total":74
 }
 ],
 "package":"meta-apo",
@@ -353,6 +357,15 @@
 {
 "basename":"meta-apo-1.1-hb280591_1.tar.bz2",
 "total":34
+}
+]
+},
+{
+"date":"2021-09-02",
+"downloads_per_basename":[
+{
+"basename":"meta-apo-1.1-hb280591_1.tar.bz2",
+"total":36
 }
 ]
 }

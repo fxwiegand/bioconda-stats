@@ -120,6 +120,10 @@
 {
 "date":"2021-09-01",
 "total":89
+},
+{
+"date":"2021-09-02",
+"total":91
 }
 ],
 "downloads_per_subdir":[
@@ -129,7 +133,7 @@
 },
 {
 "subdir":"osx-64",
-"total":69
+"total":71
 }
 ],
 "package":"perl-atlas-modules",
@@ -437,6 +441,15 @@
 {
 "subdir":"osx-64",
 "total":69
+}
+]
+},
+{
+"date":"2021-09-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":71
 }
 ]
 }

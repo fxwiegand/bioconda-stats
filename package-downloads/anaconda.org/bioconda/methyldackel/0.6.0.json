@@ -168,6 +168,10 @@
 {
 "date":"2021-09-01",
 "total":139
+},
+{
+"date":"2021-09-02",
+"total":141
 }
 ],
 "downloads_per_subdir":[
@@ -177,7 +181,7 @@
 },
 {
 "subdir":"osx-64",
-"total":95
+"total":97
 }
 ],
 "package":"methyldackel",
@@ -621,6 +625,15 @@
 {
 "subdir":"osx-64",
 "total":95
+}
+]
+},
+{
+"date":"2021-09-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":97
 }
 ]
 }

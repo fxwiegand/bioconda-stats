@@ -236,6 +236,10 @@
 {
 "date":"2021-09-01",
 "total":512
+},
+{
+"date":"2021-09-02",
+"total":514
 }
 ],
 "downloads_per_subdir":[
@@ -245,7 +249,7 @@
 },
 {
 "subdir":"osx-64",
-"total":266
+"total":268
 }
 ],
 "package":"python-bioext",
@@ -885,6 +889,15 @@
 {
 "subdir":"osx-64",
 "total":266
+}
+]
+},
+{
+"date":"2021-09-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":268
 }
 ]
 }

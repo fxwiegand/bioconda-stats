@@ -96,6 +96,10 @@
 {
 "date":"2021-09-01",
 "total":82
+},
+{
+"date":"2021-09-02",
+"total":84
 }
 ],
 "downloads_per_subdir":[
@@ -105,7 +109,7 @@
 },
 {
 "subdir":"osx-64",
-"total":55
+"total":57
 }
 ],
 "package":"rasusa",
@@ -355,6 +359,15 @@
 {
 "subdir":"osx-64",
 "total":55
+}
+]
+},
+{
+"date":"2021-09-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":57
 }
 ]
 }

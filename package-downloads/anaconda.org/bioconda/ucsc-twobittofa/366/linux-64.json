@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-twobittofa-366-hdd26221_0.tar.bz2",
-"total":957
+"total":958
 },
 {
 "basename":"ucsc-twobittofa-366-h5eb252a_0.tar.bz2",
@@ -194,6 +194,10 @@
 {
 "date":"2021-09-01",
 "total":2157
+},
+{
+"date":"2021-09-02",
+"total":2158
 }
 ],
 "package":"ucsc-twobittofa",
@@ -403,6 +407,15 @@
 {
 "basename":"ucsc-twobittofa-366-h5eb252a_0.tar.bz2",
 "total":1200
+}
+]
+},
+{
+"date":"2021-09-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-twobittofa-366-hdd26221_0.tar.bz2",
+"total":958
 }
 ]
 }

@@ -60,6 +60,10 @@
 {
 "date":"2021-09-01",
 "total":45
+},
+{
+"date":"2021-09-02",
+"total":47
 }
 ],
 "downloads_per_subdir":[
@@ -69,7 +73,7 @@
 },
 {
 "subdir":"osx-64",
-"total":38
+"total":40
 }
 ],
 "package":"kmer-db",
@@ -214,6 +218,15 @@
 {
 "subdir":"osx-64",
 "total":38
+}
+]
+},
+{
+"date":"2021-09-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":40
 }
 ]
 }

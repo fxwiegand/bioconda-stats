@@ -19,7 +19,7 @@
 },
 {
 "basename":"perl-file-sharedir-1.102-3.tar.bz2",
-"total":7279
+"total":7280
 }
 ],
 "downloads_per_date":[
@@ -118,6 +118,10 @@
 {
 "date":"2021-09-01",
 "total":9599
+},
+{
+"date":"2021-09-02",
+"total":9600
 }
 ],
 "package":"perl-file-sharedir",
@@ -329,6 +333,15 @@
 {
 "basename":"perl-file-sharedir-1.102-pl526h470a237_4.tar.bz2",
 "total":200
+}
+]
+},
+{
+"date":"2021-09-02",
+"downloads_per_basename":[
+{
+"basename":"perl-file-sharedir-1.102-3.tar.bz2",
+"total":7280
 }
 ]
 }

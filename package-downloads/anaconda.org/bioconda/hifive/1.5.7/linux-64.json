@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"hifive-1.5.7-py27h99fba26_3.tar.bz2",
-"total":29
+"total":30
 },
 {
 "basename":"hifive-1.5.7-py27hfd4ddd4_1.tar.bz2",
@@ -146,6 +146,10 @@
 {
 "date":"2021-09-01",
 "total":381
+},
+{
+"date":"2021-09-02",
+"total":382
 }
 ],
 "package":"hifive",
@@ -357,6 +361,15 @@
 {
 "basename":"hifive-1.5.7-py27h99fba26_3.tar.bz2",
 "total":29
+}
+]
+},
+{
+"date":"2021-09-02",
+"downloads_per_basename":[
+{
+"basename":"hifive-1.5.7-py27h99fba26_3.tar.bz2",
+"total":30
 }
 ]
 }

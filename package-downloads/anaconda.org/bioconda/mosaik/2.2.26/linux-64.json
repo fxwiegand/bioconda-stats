@@ -7,7 +7,7 @@
 },
 {
 "basename":"mosaik-2.2.26-he941832_4.tar.bz2",
-"total":512
+"total":513
 },
 {
 "basename":"mosaik-2.2.26-1.tar.bz2",
@@ -150,6 +150,10 @@
 {
 "date":"2021-09-01",
 "total":3729
+},
+{
+"date":"2021-09-02",
+"total":3730
 }
 ],
 "package":"mosaik",
@@ -431,6 +435,15 @@
 {
 "basename":"mosaik-2.2.26-he941832_4.tar.bz2",
 "total":512
+}
+]
+},
+{
+"date":"2021-09-02",
+"downloads_per_basename":[
+{
+"basename":"mosaik-2.2.26-he941832_4.tar.bz2",
+"total":513
 }
 ]
 }

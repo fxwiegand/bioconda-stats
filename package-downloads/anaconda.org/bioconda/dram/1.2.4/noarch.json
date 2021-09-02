@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"dram-1.2.4-pyhdfd78af_1.tar.bz2",
-"total":10
+"total":12
 },
 {
 "basename":"dram-1.2.4-pyhdfd78af_0.tar.bz2",
@@ -42,6 +42,10 @@
 {
 "date":"2021-09-01",
 "total":38
+},
+{
+"date":"2021-09-02",
+"total":40
 }
 ],
 "package":"dram",
@@ -115,6 +119,15 @@
 {
 "basename":"dram-1.2.4-pyhdfd78af_1.tar.bz2",
 "total":10
+}
+]
+},
+{
+"date":"2021-09-02",
+"downloads_per_basename":[
+{
+"basename":"dram-1.2.4-pyhdfd78af_1.tar.bz2",
+"total":12
 }
 ]
 }
