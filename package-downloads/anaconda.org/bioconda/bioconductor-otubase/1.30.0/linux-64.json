@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-otubase-1.30.0-r341_0.tar.bz2",
-"total":159
+"total":160
 },
 {
 "basename":"bioconductor-otubase-1.30.0-r351_0.tar.bz2",
@@ -82,6 +82,10 @@
 {
 "date":"2021-09-02",
 "total":437
+},
+{
+"date":"2021-09-03",
+"total":438
 }
 ],
 "package":"bioconductor-otubase",
@@ -201,6 +205,15 @@
 {
 "basename":"bioconductor-otubase-1.30.0-r351_0.tar.bz2",
 "total":278
+}
+]
+},
+{
+"date":"2021-09-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-otubase-1.30.0-r341_0.tar.bz2",
+"total":160
 }
 ]
 }

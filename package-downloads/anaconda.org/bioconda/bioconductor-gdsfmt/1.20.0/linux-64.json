@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-gdsfmt-1.20.0-r351hf484d3e_0.tar.bz2",
-"total":204
+"total":205
 },
 {
 "basename":"bioconductor-gdsfmt-1.20.0-r36he1b5a44_1.tar.bz2",
@@ -118,6 +118,10 @@
 {
 "date":"2021-09-02",
 "total":429
+},
+{
+"date":"2021-09-03",
+"total":430
 }
 ],
 "package":"bioconductor-gdsfmt",
@@ -286,6 +290,15 @@
 {
 "basename":"bioconductor-gdsfmt-1.20.0-r36he1b5a44_1.tar.bz2",
 "total":225
+}
+]
+},
+{
+"date":"2021-09-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-gdsfmt-1.20.0-r351hf484d3e_0.tar.bz2",
+"total":205
 }
 ]
 }

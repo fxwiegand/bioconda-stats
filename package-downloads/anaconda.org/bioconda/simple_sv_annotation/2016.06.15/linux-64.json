@@ -7,7 +7,7 @@
 },
 {
 "basename":"simple_sv_annotation-2016.06.15-py34_0.tar.bz2",
-"total":368
+"total":369
 },
 {
 "basename":"simple_sv_annotation-2016.06.15-py27_1.tar.bz2",
@@ -94,6 +94,10 @@
 {
 "date":"2021-09-02",
 "total":3285
+},
+{
+"date":"2021-09-03",
+"total":3286
 }
 ],
 "package":"simple_sv_annotation",
@@ -284,6 +288,15 @@
 {
 "basename":"simple_sv_annotation-2016.06.15-py35_1.tar.bz2",
 "total":622
+}
+]
+},
+{
+"date":"2021-09-03",
+"downloads_per_basename":[
+{
+"basename":"simple_sv_annotation-2016.06.15-py34_0.tar.bz2",
+"total":369
 }
 ]
 }

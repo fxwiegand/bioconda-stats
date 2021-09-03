@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-ropls-1.2.14-r341_1.tar.bz2",
-"total":300
+"total":301
 },
 {
 "basename":"bioconductor-ropls-1.2.14-r3.3.1_0.tar.bz2",
@@ -130,6 +130,10 @@
 {
 "date":"2021-09-02",
 "total":2424
+},
+{
+"date":"2021-09-03",
+"total":2425
 }
 ],
 "package":"bioconductor-ropls",
@@ -414,6 +418,15 @@
 {
 "basename":"bioconductor-ropls-1.2.14-r3.2.2_0.tar.bz2",
 "total":579
+}
+]
+},
+{
+"date":"2021-09-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ropls-1.2.14-r341_1.tar.bz2",
+"total":301
 }
 ]
 }

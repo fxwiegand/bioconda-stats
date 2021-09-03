@@ -15,7 +15,7 @@
 },
 {
 "basename":"pepr-1.1.24-py36_1.tar.bz2",
-"total":191
+"total":192
 },
 {
 "basename":"pepr-1.1.24-py36_0.tar.bz2",
@@ -138,6 +138,10 @@
 {
 "date":"2021-09-02",
 "total":1182
+},
+{
+"date":"2021-09-03",
+"total":1183
 }
 ],
 "package":"pepr",
@@ -397,6 +401,15 @@
 {
 "basename":"pepr-1.1.24-py36_0.tar.bz2",
 "total":202
+}
+]
+},
+{
+"date":"2021-09-03",
+"downloads_per_basename":[
+{
+"basename":"pepr-1.1.24-py36_1.tar.bz2",
+"total":192
 }
 ]
 }

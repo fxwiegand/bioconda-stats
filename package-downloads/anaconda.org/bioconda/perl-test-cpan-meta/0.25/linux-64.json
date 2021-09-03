@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-test-cpan-meta-0.25-pl526_1.tar.bz2",
-"total":259
+"total":260
 },
 {
 "basename":"perl-test-cpan-meta-0.25-pl5.22.0_0.tar.bz2",
@@ -94,6 +94,10 @@
 {
 "date":"2021-09-02",
 "total":1505
+},
+{
+"date":"2021-09-03",
+"total":1506
 }
 ],
 "package":"perl-test-cpan-meta",
@@ -242,6 +246,15 @@
 {
 "basename":"perl-test-cpan-meta-0.25-0.tar.bz2",
 "total":648
+}
+]
+},
+{
+"date":"2021-09-03",
+"downloads_per_basename":[
+{
+"basename":"perl-test-cpan-meta-0.25-pl526_1.tar.bz2",
+"total":260
 }
 ]
 }

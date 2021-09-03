@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-vars-1.03-pl526_1.tar.bz2",
-"total":147
+"total":148
 },
 {
 "basename":"perl-vars-1.03-pl5.22.0_0.tar.bz2",
@@ -94,6 +94,10 @@
 {
 "date":"2021-09-02",
 "total":717
+},
+{
+"date":"2021-09-03",
+"total":718
 }
 ],
 "package":"perl-vars",
@@ -201,6 +205,15 @@
 {
 "basename":"perl-vars-1.03-pl5.22.0_0.tar.bz2",
 "total":570
+}
+]
+},
+{
+"date":"2021-09-03",
+"downloads_per_basename":[
+{
+"basename":"perl-vars-1.03-pl526_1.tar.bz2",
+"total":148
 }
 ]
 }

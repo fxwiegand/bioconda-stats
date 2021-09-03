@@ -7,7 +7,7 @@
 },
 {
 "basename":"stacks-2.3-he513fc3_4.tar.bz2",
-"total":53
+"total":54
 },
 {
 "basename":"stacks-2.3-he860b03_3.tar.bz2",
@@ -118,6 +118,10 @@
 {
 "date":"2021-09-02",
 "total":345
+},
+{
+"date":"2021-09-03",
+"total":346
 }
 ],
 "package":"stacks",
@@ -297,6 +301,15 @@
 {
 "basename":"stacks-2.3-he860b03_3.tar.bz2",
 "total":257
+}
+]
+},
+{
+"date":"2021-09-03",
+"downloads_per_basename":[
+{
+"basename":"stacks-2.3-he513fc3_4.tar.bz2",
+"total":54
 }
 ]
 }

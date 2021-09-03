@@ -7,7 +7,7 @@
 },
 {
 "basename":"peptide-shaker-1.13.3-py27_0.tar.bz2",
-"total":453
+"total":454
 },
 {
 "basename":"peptide-shaker-1.13.3-py27_1.tar.bz2",
@@ -150,6 +150,10 @@
 {
 "date":"2021-09-02",
 "total":3501
+},
+{
+"date":"2021-09-03",
+"total":3502
 }
 ],
 "package":"peptide-shaker",
@@ -544,6 +548,15 @@
 {
 "basename":"peptide-shaker-1.13.3-py34_0.tar.bz2",
 "total":524
+}
+]
+},
+{
+"date":"2021-09-03",
+"downloads_per_basename":[
+{
+"basename":"peptide-shaker-1.13.3-py27_0.tar.bz2",
+"total":454
 }
 ]
 }

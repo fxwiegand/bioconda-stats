@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-cpan-shell-5.5004-pl5.22.0_0.tar.bz2",
-"total":734
+"total":735
 },
 {
 "basename":"perl-cpan-shell-5.5004-pl526_1.tar.bz2",
@@ -234,6 +234,10 @@
 {
 "date":"2021-09-02",
 "total":1497
+},
+{
+"date":"2021-09-03",
+"total":1498
 }
 ],
 "package":"perl-cpan-shell",
@@ -467,6 +471,15 @@
 {
 "basename":"perl-cpan-shell-5.5004-pl526_1.tar.bz2",
 "total":763
+}
+]
+},
+{
+"date":"2021-09-03",
+"downloads_per_basename":[
+{
+"basename":"perl-cpan-shell-5.5004-pl5.22.0_0.tar.bz2",
+"total":735
 }
 ]
 }

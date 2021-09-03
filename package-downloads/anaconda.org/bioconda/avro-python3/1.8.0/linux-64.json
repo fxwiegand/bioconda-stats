@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"avro-python3-1.8.0-py34_0.tar.bz2",
-"total":585
+"total":586
 },
 {
 "basename":"avro-python3-1.8.0-py35_0.tar.bz2",
@@ -118,6 +118,10 @@
 {
 "date":"2021-09-02",
 "total":1358
+},
+{
+"date":"2021-09-03",
+"total":1359
 }
 ],
 "package":"avro-python3",
@@ -242,6 +246,15 @@
 {
 "basename":"avro-python3-1.8.0-py35_0.tar.bz2",
 "total":773
+}
+]
+},
+{
+"date":"2021-09-03",
+"downloads_per_basename":[
+{
+"basename":"avro-python3-1.8.0-py34_0.tar.bz2",
+"total":586
 }
 ]
 }

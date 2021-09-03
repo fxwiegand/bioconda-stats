@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-mclust-5.1-r3.3.1_0.tar.bz2",
-"total":831
+"total":832
 },
 {
 "basename":"r-mclust-5.1-r3.3.1_1.tar.bz2",
@@ -134,6 +134,10 @@
 {
 "date":"2021-09-02",
 "total":5501
+},
+{
+"date":"2021-09-03",
+"total":5502
 }
 ],
 "package":"r-mclust",
@@ -366,6 +370,15 @@
 {
 "basename":"r-mclust-5.1-r3.2.2_0.tar.bz2",
 "total":2966
+}
+]
+},
+{
+"date":"2021-09-03",
+"downloads_per_basename":[
+{
+"basename":"r-mclust-5.1-r3.3.1_0.tar.bz2",
+"total":832
 }
 ]
 }

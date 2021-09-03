@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-seq2pathway.data-1.12.0-r341_0.tar.bz2",
-"total":147
+"total":148
 },
 {
 "basename":"bioconductor-seq2pathway.data-1.12.0-r351_0.tar.bz2",
@@ -74,6 +74,10 @@
 {
 "date":"2021-09-02",
 "total":420
+},
+{
+"date":"2021-09-03",
+"total":421
 }
 ],
 "package":"bioconductor-seq2pathway.data",
@@ -136,6 +140,15 @@
 {
 "basename":"bioconductor-seq2pathway.data-1.12.0-r351_0.tar.bz2",
 "total":273
+}
+]
+},
+{
+"date":"2021-09-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-seq2pathway.data-1.12.0-r341_0.tar.bz2",
+"total":148
 }
 ]
 }

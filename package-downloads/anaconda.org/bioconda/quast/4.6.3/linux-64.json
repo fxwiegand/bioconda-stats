@@ -7,7 +7,7 @@
 },
 {
 "basename":"quast-4.6.3-py27_boost1.64_1.tar.bz2",
-"total":3255
+"total":3256
 }
 ],
 "downloads_per_date":[
@@ -302,6 +302,10 @@
 {
 "date":"2021-09-02",
 "total":3430
+},
+{
+"date":"2021-09-03",
+"total":3431
 }
 ],
 "package":"quast",
@@ -628,6 +632,15 @@
 {
 "basename":"quast-4.6.3-py27_boost1.64_1.tar.bz2",
 "total":3255
+}
+]
+},
+{
+"date":"2021-09-03",
+"downloads_per_basename":[
+{
+"basename":"quast-4.6.3-py27_boost1.64_1.tar.bz2",
+"total":3256
 }
 ]
 }

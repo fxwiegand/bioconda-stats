@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-biox-workflow-command-2.4.1-pl526_1.tar.bz2",
-"total":150
+"total":151
 },
 {
 "basename":"perl-biox-workflow-command-2.4.1-pl5.22.0_0.tar.bz2",
@@ -74,6 +74,10 @@
 {
 "date":"2021-09-02",
 "total":481
+},
+{
+"date":"2021-09-03",
+"total":482
 }
 ],
 "package":"perl-biox-workflow-command",
@@ -189,6 +193,15 @@
 {
 "basename":"perl-biox-workflow-command-2.4.1-pl5.22.0_0.tar.bz2",
 "total":331
+}
+]
+},
+{
+"date":"2021-09-03",
+"downloads_per_basename":[
+{
+"basename":"perl-biox-workflow-command-2.4.1-pl526_1.tar.bz2",
+"total":151
 }
 ]
 }

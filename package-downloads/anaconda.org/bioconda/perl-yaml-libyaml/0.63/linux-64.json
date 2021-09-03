@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-yaml-libyaml-0.63-0.tar.bz2",
-"total":1298
+"total":1299
 }
 ],
 "downloads_per_date":[
@@ -70,6 +70,10 @@
 {
 "date":"2021-09-02",
 "total":1988
+},
+{
+"date":"2021-09-03",
+"total":1989
 }
 ],
 "package":"perl-yaml-libyaml",
@@ -183,6 +187,15 @@
 {
 "basename":"perl-yaml-libyaml-0.63-pl5.22.0_1.tar.bz2",
 "total":549
+}
+]
+},
+{
+"date":"2021-09-03",
+"downloads_per_basename":[
+{
+"basename":"perl-yaml-libyaml-0.63-0.tar.bz2",
+"total":1299
 }
 ]
 }

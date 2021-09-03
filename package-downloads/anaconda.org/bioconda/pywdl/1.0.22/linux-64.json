@@ -11,7 +11,7 @@
 },
 {
 "basename":"pywdl-1.0.22-py27_0.tar.bz2",
-"total":402
+"total":403
 },
 {
 "basename":"pywdl-1.0.22-py34_0.tar.bz2",
@@ -90,6 +90,10 @@
 {
 "date":"2021-09-02",
 "total":1716
+},
+{
+"date":"2021-09-03",
+"total":1717
 }
 ],
 "package":"pywdl",
@@ -253,6 +257,15 @@
 {
 "basename":"pywdl-1.0.22-py34_0.tar.bz2",
 "total":538
+}
+]
+},
+{
+"date":"2021-09-03",
+"downloads_per_basename":[
+{
+"basename":"pywdl-1.0.22-py27_0.tar.bz2",
+"total":403
 }
 ]
 }

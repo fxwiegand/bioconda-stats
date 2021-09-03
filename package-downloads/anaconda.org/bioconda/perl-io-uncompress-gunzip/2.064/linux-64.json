@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-io-uncompress-gunzip-2.064-pl5.22.0_0.tar.bz2",
-"total":502
+"total":503
 },
 {
 "basename":"perl-io-uncompress-gunzip-2.064-pl526_1.tar.bz2",
@@ -246,6 +246,10 @@
 {
 "date":"2021-09-02",
 "total":2755
+},
+{
+"date":"2021-09-03",
+"total":2756
 }
 ],
 "package":"perl-io-uncompress-gunzip",
@@ -525,6 +529,15 @@
 {
 "basename":"perl-io-uncompress-gunzip-2.064-pl526_1.tar.bz2",
 "total":2253
+}
+]
+},
+{
+"date":"2021-09-03",
+"downloads_per_basename":[
+{
+"basename":"perl-io-uncompress-gunzip-2.064-pl5.22.0_0.tar.bz2",
+"total":503
 }
 ]
 }

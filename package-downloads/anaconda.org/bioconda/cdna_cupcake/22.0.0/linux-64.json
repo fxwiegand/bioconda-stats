@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"cdna_cupcake-22.0.0-py39hcbe4a3b_1.tar.bz2",
-"total":32
+"total":33
 },
 {
 "basename":"cdna_cupcake-22.0.0-py38h9af456f_1.tar.bz2",
@@ -234,6 +234,10 @@
 {
 "date":"2021-09-02",
 "total":205
+},
+{
+"date":"2021-09-03",
+"total":206
 }
 ],
 "package":"cdna_cupcake",
@@ -585,6 +589,15 @@
 {
 "basename":"cdna_cupcake-22.0.0-py39hcbe4a3b_1.tar.bz2",
 "total":32
+}
+]
+},
+{
+"date":"2021-09-03",
+"downloads_per_basename":[
+{
+"basename":"cdna_cupcake-22.0.0-py39hcbe4a3b_1.tar.bz2",
+"total":33
 }
 ]
 }

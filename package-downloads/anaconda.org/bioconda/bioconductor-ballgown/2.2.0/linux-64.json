@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-ballgown-2.2.0-0.tar.bz2",
-"total":964
+"total":967
 }
 ],
 "downloads_per_date":[
@@ -190,6 +190,10 @@
 {
 "date":"2021-09-02",
 "total":3036
+},
+{
+"date":"2021-09-03",
+"total":3039
 }
 ],
 "package":"bioconductor-ballgown",
@@ -483,6 +487,15 @@
 {
 "basename":"bioconductor-ballgown-2.2.0-r3.3.1_0.tar.bz2",
 "total":625
+}
+]
+},
+{
+"date":"2021-09-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ballgown-2.2.0-0.tar.bz2",
+"total":967
 }
 ]
 }

@@ -23,7 +23,7 @@
 },
 {
 "basename":"phylip-3.696-py36_3.tar.bz2",
-"total":805
+"total":806
 }
 ],
 "downloads_per_date":[
@@ -146,6 +146,10 @@
 {
 "date":"2021-09-02",
 "total":3845
+},
+{
+"date":"2021-09-03",
+"total":3846
 }
 ],
 "package":"phylip",
@@ -465,6 +469,15 @@
 {
 "basename":"phylip-3.696-py35_3.tar.bz2",
 "total":564
+}
+]
+},
+{
+"date":"2021-09-03",
+"downloads_per_basename":[
+{
+"basename":"phylip-3.696-py36_3.tar.bz2",
+"total":806
 }
 ]
 }

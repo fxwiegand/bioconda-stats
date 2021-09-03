@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-xcms-3.0.0-r341_1.tar.bz2",
-"total":767
+"total":768
 },
 {
 "basename":"bioconductor-xcms-3.0.0-r3.4.1_0.tar.bz2",
@@ -118,6 +118,10 @@
 {
 "date":"2021-09-02",
 "total":1699
+},
+{
+"date":"2021-09-03",
+"total":1700
 }
 ],
 "package":"bioconductor-xcms",
@@ -263,6 +267,15 @@
 {
 "basename":"bioconductor-xcms-3.0.0-r3.4.1_0.tar.bz2",
 "total":932
+}
+]
+},
+{
+"date":"2021-09-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-xcms-3.0.0-r341_1.tar.bz2",
+"total":768
 }
 ]
 }

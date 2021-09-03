@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"primer3-1.1.4-h779adbc_3.tar.bz2",
-"total":27
+"total":29
 },
 {
 "basename":"primer3-1.1.4-h516909a_2.tar.bz2",
@@ -114,6 +114,10 @@
 {
 "date":"2021-09-02",
 "total":1040
+},
+{
+"date":"2021-09-03",
+"total":1042
 }
 ],
 "package":"primer3",
@@ -278,6 +282,15 @@
 {
 "basename":"primer3-1.1.4-h779adbc_3.tar.bz2",
 "total":27
+}
+]
+},
+{
+"date":"2021-09-03",
+"downloads_per_basename":[
+{
+"basename":"primer3-1.1.4-h779adbc_3.tar.bz2",
+"total":29
 }
 ]
 }

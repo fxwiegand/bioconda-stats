@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-chipseq-1.24.0-r3.3.2_0.tar.bz2",
-"total":532
+"total":533
 },
 {
 "basename":"bioconductor-chipseq-1.24.0-r3.4.1_0.tar.bz2",
@@ -114,6 +114,10 @@
 {
 "date":"2021-09-02",
 "total":1220
+},
+{
+"date":"2021-09-03",
+"total":1221
 }
 ],
 "package":"bioconductor-chipseq",
@@ -264,6 +268,15 @@
 {
 "basename":"bioconductor-chipseq-1.24.0-r3.4.1_0.tar.bz2",
 "total":688
+}
+]
+},
+{
+"date":"2021-09-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-chipseq-1.24.0-r3.3.2_0.tar.bz2",
+"total":533
 }
 ]
 }
