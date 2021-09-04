@@ -23,7 +23,7 @@
 },
 {
 "basename":"gnu-wget-1.18-3.tar.bz2",
-"total":3981
+"total":3982
 }
 ],
 "downloads_per_date":[
@@ -250,6 +250,10 @@
 {
 "date":"2021-09-03",
 "total":7269
+},
+{
+"date":"2021-09-04",
+"total":7270
 }
 ],
 "package":"gnu-wget",
@@ -678,6 +682,15 @@
 {
 "basename":"gnu-wget-1.18-3.tar.bz2",
 "total":3981
+}
+]
+},
+{
+"date":"2021-09-04",
+"downloads_per_basename":[
+{
+"basename":"gnu-wget-1.18-3.tar.bz2",
+"total":3982
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-hdf5array-1.8.1-r351_0.tar.bz2",
-"total":1040
+"total":1041
 }
 ],
 "downloads_per_date":[
@@ -130,6 +130,10 @@
 {
 "date":"2021-09-03",
 "total":1699
+},
+{
+"date":"2021-09-04",
+"total":1700
 }
 ],
 "package":"bioconductor-hdf5array",
@@ -311,6 +315,15 @@
 {
 "basename":"bioconductor-hdf5array-1.8.1-r341_0.tar.bz2",
 "total":659
+}
+]
+},
+{
+"date":"2021-09-04",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hdf5array-1.8.1-r351_0.tar.bz2",
+"total":1041
 }
 ]
 }
