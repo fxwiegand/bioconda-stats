@@ -116,6 +116,10 @@
 {
 "date":"2021-09-04",
 "total":101
+},
+{
+"date":"2021-09-05",
+"total":103
 }
 ],
 "downloads_per_subdir":[
@@ -125,7 +129,7 @@
 },
 {
 "subdir":"osx-64",
-"total":76
+"total":78
 }
 ],
 "package":"gadma",
@@ -424,6 +428,15 @@
 {
 "subdir":"osx-64",
 "total":76
+}
+]
+},
+{
+"date":"2021-09-05",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":78
 }
 ]
 }

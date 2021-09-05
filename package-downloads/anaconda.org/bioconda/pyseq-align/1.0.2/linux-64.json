@@ -11,7 +11,7 @@
 },
 {
 "basename":"pyseq-align-1.0.2-py37h73a75cf_0.tar.bz2",
-"total":15
+"total":16
 },
 {
 "basename":"pyseq-align-1.0.2-py39h38f01e4_0.tar.bz2",
@@ -90,6 +90,10 @@
 {
 "date":"2021-09-04",
 "total":58
+},
+{
+"date":"2021-09-05",
+"total":59
 }
 ],
 "package":"pyseq-align",
@@ -264,6 +268,15 @@
 {
 "basename":"pyseq-align-1.0.2-py39h38f01e4_0.tar.bz2",
 "total":18
+}
+]
+},
+{
+"date":"2021-09-05",
+"downloads_per_basename":[
+{
+"basename":"pyseq-align-1.0.2-py37h73a75cf_0.tar.bz2",
+"total":16
 }
 ]
 }

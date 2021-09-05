@@ -7,7 +7,7 @@
 },
 {
 "basename":"sourmash-2.0.0a6-py27_0.tar.bz2",
-"total":170
+"total":171
 },
 {
 "basename":"sourmash-2.0.0a6-py35_0.tar.bz2",
@@ -114,6 +114,10 @@
 {
 "date":"2021-09-04",
 "total":605
+},
+{
+"date":"2021-09-05",
+"total":606
 }
 ],
 "package":"sourmash",
@@ -316,6 +320,15 @@
 {
 "basename":"sourmash-2.0.0a6-py35_0.tar.bz2",
 "total":270
+}
+]
+},
+{
+"date":"2021-09-05",
+"downloads_per_basename":[
+{
+"basename":"sourmash-2.0.0a6-py27_0.tar.bz2",
+"total":171
 }
 ]
 }

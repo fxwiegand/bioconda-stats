@@ -11,7 +11,7 @@
 },
 {
 "basename":"cogent-1.9-py27h516909a_1.tar.bz2",
-"total":843
+"total":845
 },
 {
 "basename":"cogent-1.9-py27h1341992_0.tar.bz2",
@@ -370,6 +370,10 @@
 {
 "date":"2021-09-04",
 "total":4072
+},
+{
+"date":"2021-09-05",
+"total":4074
 }
 ],
 "package":"cogent",
@@ -941,6 +945,15 @@
 {
 "basename":"cogent-1.9-py27h1341992_0.tar.bz2",
 "total":2584
+}
+]
+},
+{
+"date":"2021-09-05",
+"downloads_per_basename":[
+{
+"basename":"cogent-1.9-py27h516909a_1.tar.bz2",
+"total":845
 }
 ]
 }

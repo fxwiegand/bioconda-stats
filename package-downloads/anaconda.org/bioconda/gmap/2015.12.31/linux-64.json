@@ -11,7 +11,7 @@
 },
 {
 "basename":"gmap-2015.12.31-h2f06484_5.tar.bz2",
-"total":86
+"total":87
 },
 {
 "basename":"gmap-2015.12.31-pl5.22.0_1.tar.bz2",
@@ -154,6 +154,10 @@
 {
 "date":"2021-09-04",
 "total":1224
+},
+{
+"date":"2021-09-05",
+"total":1225
 }
 ],
 "package":"gmap",
@@ -497,6 +501,15 @@
 {
 "basename":"gmap-2015.12.31-pl5.22.0_0.tar.bz2",
 "total":488
+}
+]
+},
+{
+"date":"2021-09-05",
+"downloads_per_basename":[
+{
+"basename":"gmap-2015.12.31-h2f06484_5.tar.bz2",
+"total":87
 }
 ]
 }

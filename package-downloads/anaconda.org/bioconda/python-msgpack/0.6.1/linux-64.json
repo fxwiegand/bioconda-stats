@@ -27,7 +27,7 @@
 },
 {
 "basename":"python-msgpack-0.6.1-py38h8c62d01_4.tar.bz2",
-"total":102
+"total":103
 },
 {
 "basename":"python-msgpack-0.6.1-py37h22450f8_4.tar.bz2",
@@ -466,6 +466,10 @@
 {
 "date":"2021-09-04",
 "total":3031
+},
+{
+"date":"2021-09-05",
+"total":3032
 }
 ],
 "package":"python-msgpack",
@@ -1524,6 +1528,15 @@
 {
 "basename":"python-msgpack-0.6.1-py37hc9558a2_1.tar.bz2",
 "total":482
+}
+]
+},
+{
+"date":"2021-09-05",
+"downloads_per_basename":[
+{
+"basename":"python-msgpack-0.6.1-py38h8c62d01_4.tar.bz2",
+"total":103
 }
 ]
 }

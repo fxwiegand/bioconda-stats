@@ -7,7 +7,7 @@
 },
 {
 "basename":"pbgzip-2016.08.04-h2f06484_1.tar.bz2",
-"total":6054
+"total":6055
 },
 {
 "basename":"pbgzip-2016.08.04-he4cf2ce_0.tar.bz2",
@@ -394,6 +394,10 @@
 {
 "date":"2021-09-04",
 "total":58832
+},
+{
+"date":"2021-09-05",
+"total":58833
 }
 ],
 "package":"pbgzip",
@@ -989,6 +993,15 @@
 {
 "basename":"pbgzip-2016.08.04-h2f06484_1.tar.bz2",
 "total":6054
+}
+]
+},
+{
+"date":"2021-09-05",
+"downloads_per_basename":[
+{
+"basename":"pbgzip-2016.08.04-h2f06484_1.tar.bz2",
+"total":6055
 }
 ]
 }
