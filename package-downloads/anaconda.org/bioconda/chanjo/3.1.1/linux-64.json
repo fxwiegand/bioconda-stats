@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"chanjo-3.1.1-py34_0.tar.bz2",
-"total":403
+"total":404
 },
 {
 "basename":"chanjo-3.1.1-py35_0.tar.bz2",
@@ -90,6 +90,10 @@
 {
 "date":"2021-09-05",
 "total":1387
+},
+{
+"date":"2021-09-06",
+"total":1388
 }
 ],
 "package":"chanjo",
@@ -237,6 +241,15 @@
 {
 "basename":"chanjo-3.1.1-py27_0.tar.bz2",
 "total":540
+}
+]
+},
+{
+"date":"2021-09-06",
+"downloads_per_basename":[
+{
+"basename":"chanjo-3.1.1-py34_0.tar.bz2",
+"total":404
 }
 ]
 }
