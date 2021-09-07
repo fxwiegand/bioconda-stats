@@ -356,6 +356,10 @@
 {
 "date":"2021-09-06",
 "total":222
+},
+{
+"date":"2021-09-07",
+"total":224
 }
 ],
 "downloads_per_subdir":[
@@ -365,7 +369,7 @@
 },
 {
 "subdir":"osx-64",
-"total":195
+"total":197
 }
 ],
 "package":"bioconductor-srnadiff",
@@ -946,6 +950,15 @@
 {
 "subdir":"osx-64",
 "total":195
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":197
 }
 ]
 }

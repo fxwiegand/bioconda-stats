@@ -15,7 +15,7 @@
 },
 {
 "basename":"fasta3-36.3.8-h779adbc_6.tar.bz2",
-"total":991
+"total":996
 },
 {
 "basename":"fasta3-36.3.8-h516909a_5.tar.bz2",
@@ -450,6 +450,10 @@
 {
 "date":"2021-09-06",
 "total":7867
+},
+{
+"date":"2021-09-07",
+"total":7872
 }
 ],
 "package":"fasta3",
@@ -1339,6 +1343,15 @@
 {
 "basename":"fasta3-36.3.8-h470a237_4.tar.bz2",
 "total":2504
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"fasta3-36.3.8-h779adbc_6.tar.bz2",
+"total":996
 }
 ]
 }

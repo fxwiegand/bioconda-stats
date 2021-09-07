@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"artemis-18.1.0-hdfd78af_1.tar.bz2",
-"total":1244
+"total":1249
 },
 {
 "basename":"artemis-18.1.0-0.tar.bz2",
@@ -430,6 +430,10 @@
 {
 "date":"2021-09-06",
 "total":6055
+},
+{
+"date":"2021-09-07",
+"total":6060
 }
 ],
 "package":"artemis",
@@ -1027,6 +1031,15 @@
 {
 "basename":"artemis-18.1.0-hdfd78af_1.tar.bz2",
 "total":1244
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"artemis-18.1.0-hdfd78af_1.tar.bz2",
+"total":1249
 }
 ]
 }

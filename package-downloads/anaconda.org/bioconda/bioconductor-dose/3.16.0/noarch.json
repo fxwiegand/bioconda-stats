@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-dose-3.16.0-r40hdfd78af_1.tar.bz2",
-"total":1040
+"total":1043
 }
 ],
 "downloads_per_date":[
@@ -430,6 +430,10 @@
 {
 "date":"2021-09-06",
 "total":2019
+},
+{
+"date":"2021-09-07",
+"total":2022
 }
 ],
 "package":"bioconductor-dose",
@@ -1019,6 +1023,15 @@
 {
 "basename":"bioconductor-dose-3.16.0-r40hdfd78af_1.tar.bz2",
 "total":1040
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-dose-3.16.0-r40hdfd78af_1.tar.bz2",
+"total":1043
 }
 ]
 }

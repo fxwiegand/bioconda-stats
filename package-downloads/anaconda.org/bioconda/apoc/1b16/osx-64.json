@@ -15,7 +15,7 @@
 },
 {
 "basename":"apoc-1b16-hdf91801_4.tar.bz2",
-"total":330
+"total":332
 },
 {
 "basename":"apoc-1b16-ha44fe06_1.tar.bz2",
@@ -446,6 +446,10 @@
 {
 "date":"2021-09-06",
 "total":2179
+},
+{
+"date":"2021-09-07",
+"total":2181
 }
 ],
 "package":"apoc",
@@ -1050,6 +1054,15 @@
 {
 "basename":"apoc-1b16-hdf91801_4.tar.bz2",
 "total":330
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"apoc-1b16-hdf91801_4.tar.bz2",
+"total":332
 }
 ]
 }

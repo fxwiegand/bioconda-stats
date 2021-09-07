@@ -7,7 +7,7 @@
 },
 {
 "basename":"cesm-2.1.1-py37hec2a180_0.tar.bz2",
-"total":1771
+"total":1773
 }
 ],
 "downloads_per_date":[
@@ -430,6 +430,10 @@
 {
 "date":"2021-09-06",
 "total":1958
+},
+{
+"date":"2021-09-07",
+"total":1960
 }
 ],
 "package":"cesm",
@@ -994,6 +998,15 @@
 {
 "basename":"cesm-2.1.1-py37hec2a180_0.tar.bz2",
 "total":1771
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"cesm-2.1.1-py37hec2a180_0.tar.bz2",
+"total":1773
 }
 ]
 }

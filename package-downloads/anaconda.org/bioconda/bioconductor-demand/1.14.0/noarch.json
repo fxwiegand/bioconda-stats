@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-demand-1.14.0-r36_1.tar.bz2",
-"total":187
+"total":188
 }
 ],
 "downloads_per_date":[
@@ -382,6 +382,10 @@
 {
 "date":"2021-09-06",
 "total":311
+},
+{
+"date":"2021-09-07",
+"total":312
 }
 ],
 "package":"bioconductor-demand",
@@ -950,6 +954,15 @@
 {
 "basename":"bioconductor-demand-1.14.0-r36_1.tar.bz2",
 "total":187
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-demand-1.14.0-r36_1.tar.bz2",
+"total":188
 }
 ]
 }

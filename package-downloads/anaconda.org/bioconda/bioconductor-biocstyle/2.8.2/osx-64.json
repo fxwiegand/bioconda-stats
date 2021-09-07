@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-biocstyle-2.8.2-r351_0.tar.bz2",
-"total":2001
+"total":2003
 }
 ],
 "downloads_per_date":[
@@ -430,6 +430,10 @@
 {
 "date":"2021-09-06",
 "total":2050
+},
+{
+"date":"2021-09-07",
+"total":2052
 }
 ],
 "package":"bioconductor-biocstyle",
@@ -974,6 +978,15 @@
 {
 "basename":"bioconductor-biocstyle-2.8.2-r351_0.tar.bz2",
 "total":2001
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-biocstyle-2.8.2-r351_0.tar.bz2",
+"total":2003
 }
 ]
 }

@@ -27,7 +27,7 @@
 },
 {
 "basename":"bioconductor-jaspar2018-1.1.1-r41hdfd78af_8.tar.bz2",
-"total":154
+"total":155
 },
 {
 "basename":"bioconductor-jaspar2018-1.1.1-r351_1.tar.bz2",
@@ -426,6 +426,10 @@
 {
 "date":"2021-09-06",
 "total":1143
+},
+{
+"date":"2021-09-07",
+"total":1144
 }
 ],
 "package":"bioconductor-jaspar2018",
@@ -1270,6 +1274,15 @@
 {
 "basename":"bioconductor-jaspar2018-1.1.1-r41hdfd78af_8.tar.bz2",
 "total":154
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-jaspar2018-1.1.1-r41hdfd78af_8.tar.bz2",
+"total":155
 }
 ]
 }

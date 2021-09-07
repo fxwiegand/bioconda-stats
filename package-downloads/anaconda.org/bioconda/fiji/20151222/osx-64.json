@@ -11,7 +11,7 @@
 },
 {
 "basename":"fiji-20151222-2.tar.bz2",
-"total":2020
+"total":2022
 }
 ],
 "downloads_per_date":[
@@ -434,6 +434,10 @@
 {
 "date":"2021-09-06",
 "total":2336
+},
+{
+"date":"2021-09-07",
+"total":2338
 }
 ],
 "package":"fiji",
@@ -990,6 +994,15 @@
 {
 "basename":"fiji-20151222-2.tar.bz2",
 "total":2020
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"fiji-20151222-2.tar.bz2",
+"total":2022
 }
 ]
 }

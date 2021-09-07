@@ -27,7 +27,7 @@
 },
 {
 "basename":"cage-2016.05.13-py36_0.tar.bz2",
-"total":4121
+"total":4123
 },
 {
 "basename":"cage-2016.05.13-py27_0.tar.bz2",
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-06",
 "total":10968
+},
+{
+"date":"2021-09-07",
+"total":10970
 }
 ],
 "package":"cage",
@@ -1207,6 +1211,15 @@
 {
 "basename":"cage-2016.05.13-py36_0.tar.bz2",
 "total":4121
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"cage-2016.05.13-py36_0.tar.bz2",
+"total":4123
 }
 ]
 }

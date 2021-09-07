@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-io-compress-deflate-2.064-pl526_1.tar.bz2",
-"total":254
+"total":255
 },
 {
 "basename":"perl-io-compress-deflate-2.064-pl5.22.0_0.tar.bz2",
@@ -54,6 +54,10 @@
 {
 "date":"2021-09-06",
 "total":669
+},
+{
+"date":"2021-09-07",
+"total":670
 }
 ],
 "package":"perl-io-compress-deflate",
@@ -121,6 +125,15 @@
 {
 "basename":"perl-io-compress-deflate-2.064-pl526_1.tar.bz2",
 "total":254
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"perl-io-compress-deflate-2.064-pl526_1.tar.bz2",
+"total":255
 }
 ]
 }

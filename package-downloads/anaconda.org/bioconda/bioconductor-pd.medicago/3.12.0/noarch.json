@@ -27,7 +27,7 @@
 },
 {
 "basename":"bioconductor-pd.medicago-3.12.0-r41hdfd78af_8.tar.bz2",
-"total":118
+"total":119
 },
 {
 "basename":"bioconductor-pd.medicago-3.12.0-r351_1.tar.bz2",
@@ -406,6 +406,10 @@
 {
 "date":"2021-09-06",
 "total":613
+},
+{
+"date":"2021-09-07",
+"total":614
 }
 ],
 "package":"bioconductor-pd.medicago",
@@ -1146,6 +1150,15 @@
 {
 "basename":"bioconductor-pd.medicago-3.12.0-r41hdfd78af_8.tar.bz2",
 "total":118
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pd.medicago-3.12.0-r41hdfd78af_8.tar.bz2",
+"total":119
 }
 ]
 }

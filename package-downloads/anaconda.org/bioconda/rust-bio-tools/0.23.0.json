@@ -236,6 +236,10 @@
 {
 "date":"2021-09-06",
 "total":173
+},
+{
+"date":"2021-09-07",
+"total":175
 }
 ],
 "downloads_per_subdir":[
@@ -245,7 +249,7 @@
 },
 {
 "subdir":"osx-64",
-"total":131
+"total":133
 }
 ],
 "package":"rust-bio-tools",
@@ -833,6 +837,15 @@
 {
 "subdir":"osx-64",
 "total":131
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":133
 }
 ]
 }

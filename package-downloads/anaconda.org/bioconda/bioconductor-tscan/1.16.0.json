@@ -420,6 +420,10 @@
 {
 "date":"2021-09-06",
 "total":2679
+},
+{
+"date":"2021-09-07",
+"total":2681
 }
 ],
 "downloads_per_subdir":[
@@ -429,7 +433,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2020
+"total":2022
 }
 ],
 "package":"bioconductor-tscan",
@@ -1002,6 +1006,15 @@
 {
 "subdir":"osx-64",
 "total":2020
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2022
 }
 ]
 }

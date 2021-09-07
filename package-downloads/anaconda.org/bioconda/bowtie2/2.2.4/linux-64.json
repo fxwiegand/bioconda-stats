@@ -75,7 +75,7 @@
 },
 {
 "basename":"bowtie2-2.2.4-py39h7cff6ad_8.tar.bz2",
-"total":379
+"total":382
 },
 {
 "basename":"bowtie2-2.2.4-py34_0.tar.bz2",
@@ -542,6 +542,10 @@
 {
 "date":"2021-09-06",
 "total":9245
+},
+{
+"date":"2021-09-07",
+"total":9248
 }
 ],
 "package":"bowtie2",
@@ -2238,6 +2242,15 @@
 {
 "basename":"bowtie2-2.2.4-py39h7cff6ad_8.tar.bz2",
 "total":379
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"bowtie2-2.2.4-py39h7cff6ad_8.tar.bz2",
+"total":382
 }
 ]
 }

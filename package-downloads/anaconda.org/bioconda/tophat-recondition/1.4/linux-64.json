@@ -19,7 +19,7 @@
 },
 {
 "basename":"tophat-recondition-1.4-py36_1.tar.bz2",
-"total":1477
+"total":1478
 },
 {
 "basename":"tophat-recondition-1.4-py27_1.tar.bz2",
@@ -358,6 +358,10 @@
 {
 "date":"2021-09-06",
 "total":8009
+},
+{
+"date":"2021-09-07",
+"total":8010
 }
 ],
 "package":"tophat-recondition",
@@ -846,6 +850,15 @@
 {
 "basename":"tophat-recondition-1.4-py36_1.tar.bz2",
 "total":1477
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"tophat-recondition-1.4-py36_1.tar.bz2",
+"total":1478
 }
 ]
 }

@@ -372,6 +372,10 @@
 {
 "date":"2021-09-06",
 "total":248
+},
+{
+"date":"2021-09-07",
+"total":250
 }
 ],
 "downloads_per_subdir":[
@@ -381,7 +385,7 @@
 },
 {
 "subdir":"osx-64",
-"total":209
+"total":211
 }
 ],
 "package":"bioconductor-structstrings",
@@ -954,6 +958,15 @@
 {
 "subdir":"osx-64",
 "total":209
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":211
 }
 ]
 }

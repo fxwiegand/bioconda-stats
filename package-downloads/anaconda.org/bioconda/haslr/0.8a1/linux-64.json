@@ -27,7 +27,7 @@
 },
 {
 "basename":"haslr-0.8a1-py39h39abbe0_2.tar.bz2",
-"total":402
+"total":405
 },
 {
 "basename":"haslr-0.8a1-py38h1c8e9b9_1.tar.bz2",
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-06",
 "total":1985
+},
+{
+"date":"2021-09-07",
+"total":1988
 }
 ],
 "package":"haslr",
@@ -1323,6 +1327,15 @@
 {
 "basename":"haslr-0.8a1-py39h39abbe0_2.tar.bz2",
 "total":402
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"haslr-0.8a1-py39h39abbe0_2.tar.bz2",
+"total":405
 }
 ]
 }

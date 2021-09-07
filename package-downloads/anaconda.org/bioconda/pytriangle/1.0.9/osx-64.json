@@ -63,7 +63,7 @@
 },
 {
 "basename":"pytriangle-1.0.9-py39ha492530_5.tar.bz2",
-"total":341
+"total":343
 },
 {
 "basename":"pytriangle-1.0.9-py38h771b250_4.tar.bz2",
@@ -494,6 +494,10 @@
 {
 "date":"2021-09-06",
 "total":2345
+},
+{
+"date":"2021-09-07",
+"total":2347
 }
 ],
 "package":"pytriangle",
@@ -1230,6 +1234,15 @@
 {
 "basename":"pytriangle-1.0.9-py39ha492530_5.tar.bz2",
 "total":341
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"pytriangle-1.0.9-py39ha492530_5.tar.bz2",
+"total":343
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-biodb-1.2.2-r41hb280591_3.tar.bz2",
-"total":205
+"total":207
 },
 {
 "basename":"r-biodb-1.2.2-r40ha1b3eb9_1.tar.bz2",
@@ -438,6 +438,10 @@
 {
 "date":"2021-09-06",
 "total":2010
+},
+{
+"date":"2021-09-07",
+"total":2012
 }
 ],
 "package":"r-biodb",
@@ -994,6 +998,15 @@
 {
 "basename":"r-biodb-1.2.2-r41hb280591_3.tar.bz2",
 "total":205
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"r-biodb-1.2.2-r41hb280591_3.tar.bz2",
+"total":207
 }
 ]
 }

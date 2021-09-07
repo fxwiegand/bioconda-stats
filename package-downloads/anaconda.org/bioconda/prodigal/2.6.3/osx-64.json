@@ -7,7 +7,7 @@
 },
 {
 "basename":"prodigal-2.6.3-hb4d813b_3.tar.bz2",
-"total":1270
+"total":1277
 },
 {
 "basename":"prodigal-2.6.3-1.tar.bz2",
@@ -438,6 +438,10 @@
 {
 "date":"2021-09-06",
 "total":8956
+},
+{
+"date":"2021-09-07",
+"total":8963
 }
 ],
 "package":"prodigal",
@@ -1067,6 +1071,15 @@
 {
 "basename":"prodigal-2.6.3-1.tar.bz2",
 "total":2789
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"prodigal-2.6.3-hb4d813b_3.tar.bz2",
+"total":1277
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"influx_si-5.1.0-py_1.tar.bz2",
-"total":302
+"total":303
 }
 ],
 "downloads_per_date":[
@@ -390,6 +390,10 @@
 {
 "date":"2021-09-06",
 "total":401
+},
+{
+"date":"2021-09-07",
+"total":402
 }
 ],
 "package":"influx_si",
@@ -958,6 +962,15 @@
 {
 "basename":"influx_si-5.1.0-py_1.tar.bz2",
 "total":302
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"influx_si-5.1.0-py_1.tar.bz2",
+"total":303
 }
 ]
 }

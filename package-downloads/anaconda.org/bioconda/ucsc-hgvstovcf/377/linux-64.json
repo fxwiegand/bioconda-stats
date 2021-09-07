@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-hgvstovcf-377-h0b8a92a_2.tar.bz2",
-"total":22
+"total":23
 },
 {
 "basename":"ucsc-hgvstovcf-377-h446ed27_1.tar.bz2",
@@ -102,6 +102,10 @@
 {
 "date":"2021-09-06",
 "total":205
+},
+{
+"date":"2021-09-07",
+"total":206
 }
 ],
 "package":"ucsc-hgvstovcf",
@@ -211,6 +215,15 @@
 {
 "basename":"ucsc-hgvstovcf-377-h0b8a92a_2.tar.bz2",
 "total":22
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"ucsc-hgvstovcf-377-h0b8a92a_2.tar.bz2",
+"total":23
 }
 ]
 }

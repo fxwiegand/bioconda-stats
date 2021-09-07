@@ -23,7 +23,7 @@
 },
 {
 "basename":"picard-2.9.2-py36_1.tar.bz2",
-"total":3578
+"total":3579
 }
 ],
 "downloads_per_date":[
@@ -282,6 +282,10 @@
 {
 "date":"2021-09-06",
 "total":10051
+},
+{
+"date":"2021-09-07",
+"total":10052
 }
 ],
 "package":"picard",
@@ -724,6 +728,15 @@
 {
 "basename":"picard-2.9.2-py35_0.tar.bz2",
 "total":594
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"picard-2.9.2-py36_1.tar.bz2",
+"total":3579
 }
 ]
 }

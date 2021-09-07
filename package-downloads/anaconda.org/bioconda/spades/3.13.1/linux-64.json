@@ -11,7 +11,7 @@
 },
 {
 "basename":"spades-3.13.1-0.tar.bz2",
-"total":7276
+"total":7283
 }
 ],
 "downloads_per_date":[
@@ -434,6 +434,10 @@
 {
 "date":"2021-09-06",
 "total":11825
+},
+{
+"date":"2021-09-07",
+"total":11832
 }
 ],
 "package":"spades",
@@ -1191,6 +1195,15 @@
 {
 "basename":"spades-3.13.1-0.tar.bz2",
 "total":7276
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"spades-3.13.1-0.tar.bz2",
+"total":7283
 }
 ]
 }

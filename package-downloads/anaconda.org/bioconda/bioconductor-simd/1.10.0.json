@@ -376,6 +376,10 @@
 {
 "date":"2021-09-06",
 "total":223
+},
+{
+"date":"2021-09-07",
+"total":225
 }
 ],
 "downloads_per_subdir":[
@@ -385,7 +389,7 @@
 },
 {
 "subdir":"osx-64",
-"total":205
+"total":207
 }
 ],
 "package":"bioconductor-simd",
@@ -958,6 +962,15 @@
 {
 "subdir":"osx-64",
 "total":205
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":207
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-socket-2.027-pl526_1.tar.bz2",
-"total":130406
+"total":130535
 }
 ],
 "downloads_per_date":[
@@ -430,6 +430,10 @@
 {
 "date":"2021-09-06",
 "total":130804
+},
+{
+"date":"2021-09-07",
+"total":130933
 }
 ],
 "package":"perl-socket",
@@ -999,6 +1003,15 @@
 {
 "basename":"perl-socket-2.027-pl526_1.tar.bz2",
 "total":130406
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"perl-socket-2.027-pl526_1.tar.bz2",
+"total":130535
 }
 ]
 }

@@ -115,7 +115,7 @@
 },
 {
 "basename":"blockclust-1.1.0-py38r40hed8969a_6.tar.bz2",
-"total":853
+"total":855
 },
 {
 "basename":"blockclust-1.1.0-py37r351h6bb024c_4.tar.bz2",
@@ -542,6 +542,10 @@
 {
 "date":"2021-09-06",
 "total":6597
+},
+{
+"date":"2021-09-07",
+"total":6599
 }
 ],
 "package":"blockclust",
@@ -1994,6 +1998,15 @@
 {
 "basename":"blockclust-1.1.0-py38r40hed8969a_6.tar.bz2",
 "total":853
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"blockclust-1.1.0-py38r40hed8969a_6.tar.bz2",
+"total":855
 }
 ]
 }

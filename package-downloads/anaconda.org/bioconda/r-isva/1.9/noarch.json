@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-isva-1.9-r41h3342da4_4.tar.bz2",
-"total":149
+"total":152
 },
 {
 "basename":"r-isva-1.9-r36h6115d3f_1.tar.bz2",
@@ -418,6 +418,10 @@
 {
 "date":"2021-09-06",
 "total":752
+},
+{
+"date":"2021-09-07",
+"total":755
 }
 ],
 "package":"r-isva",
@@ -1119,6 +1123,15 @@
 {
 "basename":"r-isva-1.9-r36h6115d3f_1.tar.bz2",
 "total":201
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"r-isva-1.9-r41h3342da4_4.tar.bz2",
+"total":152
 }
 ]
 }

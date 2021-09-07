@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-test-eol-1.6-pl526_2.tar.bz2",
-"total":1751
+"total":1753
 }
 ],
 "downloads_per_date":[
@@ -434,6 +434,10 @@
 {
 "date":"2021-09-06",
 "total":2130
+},
+{
+"date":"2021-09-07",
+"total":2132
 }
 ],
 "package":"perl-test-eol",
@@ -998,6 +1002,15 @@
 {
 "basename":"perl-test-eol-1.6-pl526_2.tar.bz2",
 "total":1751
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"perl-test-eol-1.6-pl526_2.tar.bz2",
+"total":1753
 }
 ]
 }

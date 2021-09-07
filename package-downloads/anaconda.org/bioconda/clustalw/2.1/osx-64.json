@@ -19,7 +19,7 @@
 },
 {
 "basename":"clustalw-2.1-hb280591_6.tar.bz2",
-"total":739
+"total":746
 },
 {
 "basename":"clustalw-2.1-h2d50403_2.tar.bz2",
@@ -450,6 +450,10 @@
 {
 "date":"2021-09-06",
 "total":6574
+},
+{
+"date":"2021-09-07",
+"total":6581
 }
 ],
 "package":"clustalw",
@@ -1231,6 +1235,15 @@
 {
 "basename":"clustalw-2.1-h770b8ee_5.tar.bz2",
 "total":2718
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"clustalw-2.1-hb280591_6.tar.bz2",
+"total":746
 }
 ]
 }

@@ -420,6 +420,10 @@
 {
 "date":"2021-09-06",
 "total":1983
+},
+{
+"date":"2021-09-07",
+"total":1985
 }
 ],
 "downloads_per_subdir":[
@@ -429,7 +433,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1830
+"total":1832
 }
 ],
 "package":"bioconductor-tofsims",
@@ -990,6 +994,15 @@
 {
 "subdir":"osx-64",
 "total":1830
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1832
 }
 ]
 }

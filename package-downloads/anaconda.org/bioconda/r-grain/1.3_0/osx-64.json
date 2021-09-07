@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-grain-1.3_0-r41hdb58930_5.tar.bz2",
-"total":199
+"total":202
 },
 {
 "basename":"r-grain-1.3_0-r351h466af19_0.tar.bz2",
@@ -446,6 +446,10 @@
 {
 "date":"2021-09-06",
 "total":2019
+},
+{
+"date":"2021-09-07",
+"total":2022
 }
 ],
 "package":"r-grain",
@@ -1026,6 +1030,15 @@
 {
 "basename":"r-grain-1.3_0-r41hdb58930_5.tar.bz2",
 "total":199
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"r-grain-1.3_0-r41hdb58930_5.tar.bz2",
+"total":202
 }
 ]
 }

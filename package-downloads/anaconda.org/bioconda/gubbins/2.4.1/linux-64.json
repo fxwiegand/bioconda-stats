@@ -7,7 +7,7 @@
 },
 {
 "basename":"gubbins-2.4.1-py36h30a8e3e_2.tar.bz2",
-"total":40
+"total":41
 },
 {
 "basename":"gubbins-2.4.1-py39hd1f1204_2.tar.bz2",
@@ -374,6 +374,10 @@
 {
 "date":"2021-09-06",
 "total":1055
+},
+{
+"date":"2021-09-07",
+"total":1056
 }
 ],
 "package":"gubbins",
@@ -912,6 +916,15 @@
 {
 "basename":"gubbins-2.4.1-py37h190e900_2.tar.bz2",
 "total":176
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"gubbins-2.4.1-py36h30a8e3e_2.tar.bz2",
+"total":41
 }
 ]
 }

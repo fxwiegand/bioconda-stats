@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-hcg110.db-3.2.3-r41hdfd78af_7.tar.bz2",
-"total":116
+"total":117
 },
 {
 "basename":"bioconductor-hcg110.db-3.2.3-r351_0.tar.bz2",
@@ -410,6 +410,10 @@
 {
 "date":"2021-09-06",
 "total":506
+},
+{
+"date":"2021-09-07",
+"total":507
 }
 ],
 "package":"bioconductor-hcg110.db",
@@ -1118,6 +1122,15 @@
 {
 "basename":"bioconductor-hcg110.db-3.2.3-r41hdfd78af_7.tar.bz2",
 "total":116
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hcg110.db-3.2.3-r41hdfd78af_7.tar.bz2",
+"total":117
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"kmer-jellyfish-2.3.0-h7d875b9_2.tar.bz2",
-"total":1272
+"total":1280
 },
 {
 "basename":"kmer-jellyfish-2.3.0-hc9558a2_1.tar.bz2",
@@ -434,6 +434,10 @@
 {
 "date":"2021-09-06",
 "total":5067
+},
+{
+"date":"2021-09-07",
+"total":5075
 }
 ],
 "package":"kmer-jellyfish",
@@ -1167,6 +1171,15 @@
 {
 "basename":"kmer-jellyfish-2.3.0-h7d875b9_2.tar.bz2",
 "total":1272
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"kmer-jellyfish-2.3.0-h7d875b9_2.tar.bz2",
+"total":1280
 }
 ]
 }

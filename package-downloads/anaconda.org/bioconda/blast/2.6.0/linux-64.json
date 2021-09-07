@@ -15,7 +15,7 @@
 },
 {
 "basename":"blast-2.6.0-boost1.64_2.tar.bz2",
-"total":44437
+"total":44443
 }
 ],
 "downloads_per_date":[
@@ -438,6 +438,10 @@
 {
 "date":"2021-09-06",
 "total":83193
+},
+{
+"date":"2021-09-07",
+"total":83199
 }
 ],
 "package":"blast",
@@ -1399,6 +1403,15 @@
 {
 "basename":"blast-2.6.0-boost1.64_2.tar.bz2",
 "total":44437
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"blast-2.6.0-boost1.64_2.tar.bz2",
+"total":44443
 }
 ]
 }

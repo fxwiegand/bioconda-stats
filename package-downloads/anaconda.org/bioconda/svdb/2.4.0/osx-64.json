@@ -63,7 +63,7 @@
 },
 {
 "basename":"svdb-2.4.0-py39hb75ba9e_4.tar.bz2",
-"total":337
+"total":339
 },
 {
 "basename":"svdb-2.4.0-py38h41f2e2d_3.tar.bz2",
@@ -490,6 +490,10 @@
 {
 "date":"2021-09-06",
 "total":1188
+},
+{
+"date":"2021-09-07",
+"total":1190
 }
 ],
 "package":"svdb",
@@ -1154,6 +1158,15 @@
 {
 "basename":"svdb-2.4.0-py39hb75ba9e_4.tar.bz2",
 "total":337
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"svdb-2.4.0-py39hb75ba9e_4.tar.bz2",
+"total":339
 }
 ]
 }

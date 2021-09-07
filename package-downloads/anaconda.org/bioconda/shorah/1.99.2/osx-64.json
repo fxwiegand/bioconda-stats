@@ -31,7 +31,7 @@
 },
 {
 "basename":"shorah-1.99.2-py39h07ed5b9_2.tar.bz2",
-"total":338
+"total":340
 },
 {
 "basename":"shorah-1.99.2-py38h59c7d21_1.tar.bz2",
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-06",
 "total":976
+},
+{
+"date":"2021-09-07",
+"total":978
 }
 ],
 "package":"shorah",
@@ -1078,6 +1082,15 @@
 {
 "basename":"shorah-1.99.2-py39h07ed5b9_2.tar.bz2",
 "total":338
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"shorah-1.99.2-py39h07ed5b9_2.tar.bz2",
+"total":340
 }
 ]
 }

@@ -15,7 +15,7 @@
 },
 {
 "basename":"ftputil-3.2-py36_0.tar.bz2",
-"total":49111
+"total":49118
 }
 ],
 "downloads_per_date":[
@@ -434,6 +434,10 @@
 {
 "date":"2021-09-06",
 "total":96384
+},
+{
+"date":"2021-09-07",
+"total":96391
 }
 ],
 "package":"ftputil",
@@ -1159,6 +1163,15 @@
 {
 "basename":"ftputil-3.2-py27_0.tar.bz2",
 "total":1467
+}
+]
+},
+{
+"date":"2021-09-07",
+"downloads_per_basename":[
+{
+"basename":"ftputil-3.2-py36_0.tar.bz2",
+"total":49118
 }
 ]
 }
