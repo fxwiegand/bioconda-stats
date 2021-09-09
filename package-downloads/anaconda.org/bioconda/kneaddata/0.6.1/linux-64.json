@@ -7,7 +7,7 @@
 },
 {
 "basename":"kneaddata-0.6.1-py27_0.tar.bz2",
-"total":608
+"total":609
 },
 {
 "basename":"kneaddata-0.6.1-py36_0.tar.bz2",
@@ -178,6 +178,10 @@
 {
 "date":"2021-09-08",
 "total":1614
+},
+{
+"date":"2021-09-09",
+"total":1615
 }
 ],
 "package":"kneaddata",
@@ -397,6 +401,15 @@
 {
 "basename":"kneaddata-0.6.1-py36_0.tar.bz2",
 "total":611
+}
+]
+},
+{
+"date":"2021-09-09",
+"downloads_per_basename":[
+{
+"basename":"kneaddata-0.6.1-py27_0.tar.bz2",
+"total":609
 }
 ]
 }

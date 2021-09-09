@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"readseq-2.1.30-0.tar.bz2",
-"total":512
+"total":515
 }
 ],
 "downloads_per_date":[
@@ -198,6 +198,10 @@
 {
 "date":"2021-09-08",
 "total":512
+},
+{
+"date":"2021-09-09",
+"total":515
 }
 ],
 "package":"readseq",
@@ -442,6 +446,15 @@
 {
 "basename":"readseq-2.1.30-0.tar.bz2",
 "total":512
+}
+]
+},
+{
+"date":"2021-09-09",
+"downloads_per_basename":[
+{
+"basename":"readseq-2.1.30-0.tar.bz2",
+"total":515
 }
 ]
 }

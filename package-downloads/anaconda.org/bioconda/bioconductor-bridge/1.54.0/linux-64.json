@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-bridge-1.54.0-r40hd029910_1.tar.bz2",
-"total":32
+"total":33
 },
 {
 "basename":"bioconductor-bridge-1.54.0-r40h037d062_0.tar.bz2",
@@ -130,6 +130,10 @@
 {
 "date":"2021-09-08",
 "total":88
+},
+{
+"date":"2021-09-09",
+"total":89
 }
 ],
 "package":"bioconductor-bridge",
@@ -236,6 +240,15 @@
 {
 "basename":"bioconductor-bridge-1.54.0-r40h037d062_0.tar.bz2",
 "total":56
+}
+]
+},
+{
+"date":"2021-09-09",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bridge-1.54.0-r40hd029910_1.tar.bz2",
+"total":33
 }
 ]
 }
