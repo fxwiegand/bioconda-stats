@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-bedtopsl-357-1.tar.bz2",
-"total":301
+"total":302
 },
 {
 "basename":"ucsc-bedtopsl-357-0.tar.bz2",
@@ -130,6 +130,10 @@
 {
 "date":"2021-09-09",
 "total":853
+},
+{
+"date":"2021-09-10",
+"total":854
 }
 ],
 "package":"ucsc-bedtopsl",
@@ -258,6 +262,15 @@
 {
 "basename":"ucsc-bedtopsl-357-0.tar.bz2",
 "total":552
+}
+]
+},
+{
+"date":"2021-09-10",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bedtopsl-357-1.tar.bz2",
+"total":302
 }
 ]
 }

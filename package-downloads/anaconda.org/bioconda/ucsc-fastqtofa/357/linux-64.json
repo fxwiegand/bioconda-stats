@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-fastqtofa-357-1.tar.bz2",
-"total":343
+"total":344
 },
 {
 "basename":"ucsc-fastqtofa-357-0.tar.bz2",
@@ -138,6 +138,10 @@
 {
 "date":"2021-09-09",
 "total":905
+},
+{
+"date":"2021-09-10",
+"total":906
 }
 ],
 "package":"ucsc-fastqtofa",
@@ -302,6 +306,15 @@
 {
 "basename":"ucsc-fastqtofa-357-0.tar.bz2",
 "total":562
+}
+]
+},
+{
+"date":"2021-09-10",
+"downloads_per_basename":[
+{
+"basename":"ucsc-fastqtofa-357-1.tar.bz2",
+"total":344
 }
 ]
 }

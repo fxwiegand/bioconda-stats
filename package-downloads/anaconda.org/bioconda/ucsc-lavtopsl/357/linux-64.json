@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-lavtopsl-357-1.tar.bz2",
-"total":301
+"total":302
 },
 {
 "basename":"ucsc-lavtopsl-357-0.tar.bz2",
@@ -134,6 +134,10 @@
 {
 "date":"2021-09-09",
 "total":851
+},
+{
+"date":"2021-09-10",
+"total":852
 }
 ],
 "package":"ucsc-lavtopsl",
@@ -285,6 +289,15 @@
 {
 "basename":"ucsc-lavtopsl-357-0.tar.bz2",
 "total":550
+}
+]
+},
+{
+"date":"2021-09-10",
+"downloads_per_basename":[
+{
+"basename":"ucsc-lavtopsl-357-1.tar.bz2",
+"total":302
 }
 ]
 }

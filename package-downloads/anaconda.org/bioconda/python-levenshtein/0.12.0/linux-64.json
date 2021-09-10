@@ -7,7 +7,7 @@
 },
 {
 "basename":"python-levenshtein-0.12.0-0.tar.bz2",
-"total":821
+"total":825
 },
 {
 "basename":"python-levenshtein-0.12.0-py35_1.tar.bz2",
@@ -390,6 +390,10 @@
 {
 "date":"2021-09-09",
 "total":8294
+},
+{
+"date":"2021-09-10",
+"total":8298
 }
 ],
 "package":"python-levenshtein",
@@ -920,6 +924,15 @@
 {
 "basename":"python-levenshtein-0.12.0-py27_1.tar.bz2",
 "total":3430
+}
+]
+},
+{
+"date":"2021-09-10",
+"downloads_per_basename":[
+{
+"basename":"python-levenshtein-0.12.0-0.tar.bz2",
+"total":825
 }
 ]
 }

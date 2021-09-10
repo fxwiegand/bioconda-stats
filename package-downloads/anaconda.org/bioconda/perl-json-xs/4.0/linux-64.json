@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-json-xs-4.0-pl526h2d50403_0.tar.bz2",
-"total":500
+"total":501
 }
 ],
 "downloads_per_date":[
@@ -122,6 +122,10 @@
 {
 "date":"2021-09-09",
 "total":500
+},
+{
+"date":"2021-09-10",
+"total":501
 }
 ],
 "package":"perl-json-xs",
@@ -231,6 +235,15 @@
 {
 "basename":"perl-json-xs-4.0-pl526h2d50403_0.tar.bz2",
 "total":500
+}
+]
+},
+{
+"date":"2021-09-10",
+"downloads_per_basename":[
+{
+"basename":"perl-json-xs-4.0-pl526h2d50403_0.tar.bz2",
+"total":501
 }
 ]
 }

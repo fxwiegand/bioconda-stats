@@ -216,6 +216,10 @@
 {
 "date":"2021-09-09",
 "total":168
+},
+{
+"date":"2021-09-10",
+"total":170
 }
 ],
 "downloads_per_subdir":[
@@ -225,7 +229,7 @@
 },
 {
 "subdir":"osx-64",
-"total":128
+"total":130
 }
 ],
 "package":"pegasusio",
@@ -749,6 +753,15 @@
 {
 "subdir":"osx-64",
 "total":128
+}
+]
+},
+{
+"date":"2021-09-10",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":130
 }
 ]
 }

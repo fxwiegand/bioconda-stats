@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-avecols-357-1.tar.bz2",
-"total":280
+"total":281
 },
 {
 "basename":"ucsc-avecols-357-0.tar.bz2",
@@ -130,6 +130,10 @@
 {
 "date":"2021-09-09",
 "total":848
+},
+{
+"date":"2021-09-10",
+"total":849
 }
 ],
 "package":"ucsc-avecols",
@@ -272,6 +276,15 @@
 {
 "basename":"ucsc-avecols-357-0.tar.bz2",
 "total":568
+}
+]
+},
+{
+"date":"2021-09-10",
+"downloads_per_basename":[
+{
+"basename":"ucsc-avecols-357-1.tar.bz2",
+"total":281
 }
 ]
 }

@@ -43,7 +43,7 @@
 },
 {
 "basename":"ushuffle-1.2.2-py39h38f01e4_4.tar.bz2",
-"total":40
+"total":41
 },
 {
 "basename":"ushuffle-1.2.2-py35h470a237_1.tar.bz2",
@@ -222,6 +222,10 @@
 {
 "date":"2021-09-09",
 "total":2077
+},
+{
+"date":"2021-09-10",
+"total":2078
 }
 ],
 "package":"ushuffle",
@@ -728,6 +732,15 @@
 {
 "basename":"ushuffle-1.2.2-py35_0.tar.bz2",
 "total":495
+}
+]
+},
+{
+"date":"2021-09-10",
+"downloads_per_basename":[
+{
+"basename":"ushuffle-1.2.2-py39h38f01e4_4.tar.bz2",
+"total":41
 }
 ]
 }
