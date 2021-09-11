@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-txdb.scerevisiae.ucsc.saccer2.sgdgene-3.2.2-r351_5.tar.bz2",
-"total":1632
+"total":1633
 }
 ],
 "downloads_per_date":[
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-10",
 "total":2033
+},
+{
+"date":"2021-09-11",
+"total":2034
 }
 ],
 "package":"bioconductor-txdb.scerevisiae.ucsc.saccer2.sgdgene",
@@ -1017,6 +1021,15 @@
 "date":"2021-09-10",
 "downloads_per_basename":[
 {
+"basename":"bioconductor-txdb.scerevisiae.ucsc.saccer2.sgdgene-3.2.2-r351_5.tar.bz2",
+"total":1632
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
 "basename":"bioconductor-txdb.scerevisiae.ucsc.saccer2.sgdgene-3.2.2-r3.4.1_3.tar.bz2",
 "total":45
 },
@@ -1026,7 +1039,7 @@
 },
 {
 "basename":"bioconductor-txdb.scerevisiae.ucsc.saccer2.sgdgene-3.2.2-r351_5.tar.bz2",
-"total":1632
+"total":1633
 }
 ]
 }

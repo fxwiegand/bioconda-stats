@@ -436,6 +436,10 @@
 {
 "date":"2021-09-10",
 "total":5000
+},
+{
+"date":"2021-09-11",
+"total":5004
 }
 ],
 "downloads_per_subdir":[
@@ -445,7 +449,7 @@
 },
 {
 "subdir":"osx-64",
-"total":4022
+"total":4026
 }
 ],
 "package":"nextflow",
@@ -1015,6 +1019,15 @@
 {
 "subdir":"osx-64",
 "total":4022
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":4026
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-http-daemon-6.01-pl526_1.tar.bz2",
-"total":11710
+"total":11723
 }
 ],
 "downloads_per_date":[
@@ -446,6 +446,10 @@
 {
 "date":"2021-09-10",
 "total":14927
+},
+{
+"date":"2021-09-11",
+"total":14940
 }
 ],
 "package":"perl-http-daemon",
@@ -1048,6 +1052,15 @@
 {
 "basename":"perl-http-daemon-6.01-pl526_1.tar.bz2",
 "total":11710
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"perl-http-daemon-6.01-pl526_1.tar.bz2",
+"total":11723
 }
 ]
 }

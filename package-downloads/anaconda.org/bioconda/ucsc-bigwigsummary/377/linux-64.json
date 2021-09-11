@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-bigwigsummary-377-h0b8a92a_2.tar.bz2",
-"total":665
+"total":667
 },
 {
 "basename":"ucsc-bigwigsummary-377-h446ed27_1.tar.bz2",
@@ -442,6 +442,10 @@
 {
 "date":"2021-09-10",
 "total":8476
+},
+{
+"date":"2021-09-11",
+"total":8478
 }
 ],
 "package":"ucsc-bigwigsummary",
@@ -1011,6 +1015,15 @@
 {
 "basename":"ucsc-bigwigsummary-377-h0b8a92a_2.tar.bz2",
 "total":665
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bigwigsummary-377-h0b8a92a_2.tar.bz2",
+"total":667
 }
 ]
 }

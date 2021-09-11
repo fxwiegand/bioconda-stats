@@ -7,7 +7,7 @@
 },
 {
 "basename":"fraggenescan-1.31-h779adbc_3.tar.bz2",
-"total":1574
+"total":1575
 },
 {
 "basename":"fraggenescan-1.31-h14c3975_1.tar.bz2",
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-10",
 "total":7500
+},
+{
+"date":"2021-09-11",
+"total":7501
 }
 ],
 "package":"fraggenescan",
@@ -1239,6 +1243,15 @@
 {
 "basename":"fraggenescan-1.31-h516909a_2.tar.bz2",
 "total":2985
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"fraggenescan-1.31-h779adbc_3.tar.bz2",
+"total":1575
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"python-cluster-1.4.1.post1-pyh864c0ab_3.tar.bz2",
-"total":153
+"total":154
 },
 {
 "basename":"python-cluster-1.4.1.post1-py_0.tar.bz2",
@@ -414,6 +414,10 @@
 {
 "date":"2021-09-10",
 "total":537
+},
+{
+"date":"2021-09-11",
+"total":538
 }
 ],
 "package":"python-cluster",
@@ -1067,6 +1071,15 @@
 {
 "basename":"python-cluster-1.4.1.post1-py_0.tar.bz2",
 "total":161
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"python-cluster-1.4.1.post1-pyh864c0ab_3.tar.bz2",
+"total":154
 }
 ]
 }

@@ -19,7 +19,7 @@
 },
 {
 "basename":"gromacs-2020.5-hd895feb_5.tar.bz2",
-"total":383
+"total":385
 }
 ],
 "downloads_per_date":[
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-10",
 "total":564
+},
+{
+"date":"2021-09-11",
+"total":566
 }
 ],
 "package":"gromacs",
@@ -1035,6 +1039,15 @@
 {
 "basename":"gromacs-2020.5-hd895feb_5.tar.bz2",
 "total":383
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"gromacs-2020.5-hd895feb_5.tar.bz2",
+"total":385
 }
 ]
 }

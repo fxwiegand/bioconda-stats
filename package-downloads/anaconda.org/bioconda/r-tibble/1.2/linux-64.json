@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-tibble-1.2-r3.3.1_1.tar.bz2",
-"total":8400
+"total":8401
 },
 {
 "basename":"r-tibble-1.2-r3.3.2_1.tar.bz2",
@@ -358,6 +358,10 @@
 {
 "date":"2021-09-10",
 "total":26368
+},
+{
+"date":"2021-09-11",
+"total":26369
 }
 ],
 "package":"r-tibble",
@@ -773,6 +777,15 @@
 {
 "basename":"r-tibble-1.2-r3.3.2_1.tar.bz2",
 "total":15699
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"r-tibble-1.2-r3.3.1_1.tar.bz2",
+"total":8401
 }
 ]
 }

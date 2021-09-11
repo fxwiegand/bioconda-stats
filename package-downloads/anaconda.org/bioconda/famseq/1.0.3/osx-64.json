@@ -7,7 +7,7 @@
 },
 {
 "basename":"famseq-1.0.3-hb280591_3.tar.bz2",
-"total":341
+"total":343
 },
 {
 "basename":"famseq-1.0.3-ha1b3eb9_2.tar.bz2",
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-10",
 "total":2015
+},
+{
+"date":"2021-09-11",
+"total":2017
 }
 ],
 "package":"famseq",
@@ -1039,6 +1043,15 @@
 {
 "basename":"famseq-1.0.3-hb280591_3.tar.bz2",
 "total":341
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"famseq-1.0.3-hb280591_3.tar.bz2",
+"total":343
 }
 ]
 }

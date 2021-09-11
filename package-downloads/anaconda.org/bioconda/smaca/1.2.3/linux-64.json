@@ -27,7 +27,7 @@
 },
 {
 "basename":"smaca-1.2.3-py39h70b41aa_2.tar.bz2",
-"total":364
+"total":366
 },
 {
 "basename":"smaca-1.2.3-py38h1773678_1.tar.bz2",
@@ -474,6 +474,10 @@
 {
 "date":"2021-09-10",
 "total":22240
+},
+{
+"date":"2021-09-11",
+"total":22242
 }
 ],
 "package":"smaca",
@@ -1271,6 +1275,15 @@
 {
 "basename":"smaca-1.2.3-py39h70b41aa_2.tar.bz2",
 "total":364
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"smaca-1.2.3-py39h70b41aa_2.tar.bz2",
+"total":366
 }
 ]
 }

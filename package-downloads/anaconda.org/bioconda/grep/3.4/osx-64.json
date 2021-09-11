@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"grep-3.4-he984a05_1.tar.bz2",
-"total":548
+"total":553
 },
 {
 "basename":"grep-3.4-h01d97ff_0.tar.bz2",
@@ -446,6 +446,10 @@
 {
 "date":"2021-09-10",
 "total":1578
+},
+{
+"date":"2021-09-11",
+"total":1583
 }
 ],
 "package":"grep",
@@ -999,6 +1003,15 @@
 {
 "basename":"grep-3.4-he984a05_1.tar.bz2",
 "total":548
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"grep-3.4-he984a05_1.tar.bz2",
+"total":553
 }
 ]
 }

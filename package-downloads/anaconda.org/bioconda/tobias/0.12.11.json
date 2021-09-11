@@ -312,6 +312,10 @@
 {
 "date":"2021-09-10",
 "total":250
+},
+{
+"date":"2021-09-11",
+"total":252
 }
 ],
 "downloads_per_subdir":[
@@ -321,7 +325,7 @@
 },
 {
 "subdir":"osx-64",
-"total":185
+"total":187
 }
 ],
 "package":"tobias",
@@ -935,6 +939,15 @@
 {
 "subdir":"osx-64",
 "total":185
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":187
 }
 ]
 }

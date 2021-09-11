@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-net-ssleay-1.74-1.tar.bz2",
-"total":3301
+"total":3303
 }
 ],
 "downloads_per_date":[
@@ -446,6 +446,10 @@
 {
 "date":"2021-09-10",
 "total":5021
+},
+{
+"date":"2021-09-11",
+"total":5023
 }
 ],
 "package":"perl-net-ssleay",
@@ -999,6 +1003,15 @@
 {
 "basename":"perl-net-ssleay-1.74-1.tar.bz2",
 "total":3301
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"perl-net-ssleay-1.74-1.tar.bz2",
+"total":3303
 }
 ]
 }

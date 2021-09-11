@@ -7,7 +7,7 @@
 },
 {
 "basename":"fred2-2.0.3-py27_3.tar.bz2",
-"total":1999
+"total":2001
 }
 ],
 "downloads_per_date":[
@@ -446,6 +446,10 @@
 {
 "date":"2021-09-10",
 "total":2042
+},
+{
+"date":"2021-09-11",
+"total":2044
 }
 ],
 "package":"fred2",
@@ -1003,6 +1007,15 @@
 {
 "basename":"fred2-2.0.3-py27_3.tar.bz2",
 "total":1999
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"fred2-2.0.3-py27_3.tar.bz2",
+"total":2001
 }
 ]
 }

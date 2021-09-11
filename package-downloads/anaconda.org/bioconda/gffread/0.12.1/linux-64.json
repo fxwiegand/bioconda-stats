@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"gffread-0.12.1-h2e03b76_1.tar.bz2",
-"total":1939
+"total":1950
 },
 {
 "basename":"gffread-0.12.1-h8b12597_0.tar.bz2",
@@ -446,6 +446,10 @@
 {
 "date":"2021-09-10",
 "total":8855
+},
+{
+"date":"2021-09-11",
+"total":8866
 }
 ],
 "package":"gffread",
@@ -1220,6 +1224,15 @@
 {
 "basename":"gffread-0.12.1-h8b12597_0.tar.bz2",
 "total":6916
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"gffread-0.12.1-h2e03b76_1.tar.bz2",
+"total":1950
 }
 ]
 }

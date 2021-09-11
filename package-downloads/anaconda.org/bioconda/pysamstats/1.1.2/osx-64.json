@@ -107,7 +107,7 @@
 },
 {
 "basename":"pysamstats-1.1.2-py39h0bb3d0f_8.tar.bz2",
-"total":380
+"total":383
 },
 {
 "basename":"pysamstats-1.1.2-py38h5e8ddb4_7.tar.bz2",
@@ -554,6 +554,10 @@
 {
 "date":"2021-09-10",
 "total":3179
+},
+{
+"date":"2021-09-11",
+"total":3182
 }
 ],
 "package":"pysamstats",
@@ -1491,6 +1495,15 @@
 {
 "basename":"pysamstats-1.1.2-py39h0bb3d0f_8.tar.bz2",
 "total":380
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"pysamstats-1.1.2-py39h0bb3d0f_8.tar.bz2",
+"total":383
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"conus-1.0-hb4d813b_2.tar.bz2",
-"total":335
+"total":337
 },
 {
 "basename":"conus-1.0-h470a237_0.tar.bz2",
@@ -450,6 +450,10 @@
 {
 "date":"2021-09-10",
 "total":2035
+},
+{
+"date":"2021-09-11",
+"total":2037
 }
 ],
 "package":"conus",
@@ -1019,6 +1023,15 @@
 {
 "basename":"conus-1.0-hb4d813b_2.tar.bz2",
 "total":335
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"conus-1.0-hb4d813b_2.tar.bz2",
+"total":337
 }
 ]
 }

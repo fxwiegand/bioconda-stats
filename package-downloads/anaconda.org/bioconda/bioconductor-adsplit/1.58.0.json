@@ -436,6 +436,10 @@
 {
 "date":"2021-09-10",
 "total":1007
+},
+{
+"date":"2021-09-11",
+"total":1009
 }
 ],
 "downloads_per_subdir":[
@@ -445,7 +449,7 @@
 },
 {
 "subdir":"osx-64",
-"total":950
+"total":952
 }
 ],
 "package":"bioconductor-adsplit",
@@ -1011,6 +1015,15 @@
 {
 "subdir":"osx-64",
 "total":950
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":952
 }
 ]
 }

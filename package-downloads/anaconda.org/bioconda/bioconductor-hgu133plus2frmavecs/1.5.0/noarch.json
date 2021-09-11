@@ -31,7 +31,7 @@
 },
 {
 "basename":"bioconductor-hgu133plus2frmavecs-1.5.0-r41hdfd78af_8.tar.bz2",
-"total":129
+"total":130
 },
 {
 "basename":"bioconductor-hgu133plus2frmavecs-1.5.0-r351_0.tar.bz2",
@@ -438,6 +438,10 @@
 {
 "date":"2021-09-10",
 "total":742
+},
+{
+"date":"2021-09-11",
+"total":743
 }
 ],
 "package":"bioconductor-hgu133plus2frmavecs",
@@ -1227,6 +1231,15 @@
 {
 "basename":"bioconductor-hgu133plus2frmavecs-1.5.0-r351_0.tar.bz2",
 "total":137
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hgu133plus2frmavecs-1.5.0-r41hdfd78af_8.tar.bz2",
+"total":130
 }
 ]
 }

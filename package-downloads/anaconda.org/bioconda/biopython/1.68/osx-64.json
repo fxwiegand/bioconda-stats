@@ -15,7 +15,7 @@
 },
 {
 "basename":"biopython-1.68-py35_0.tar.bz2",
-"total":3562
+"total":3564
 },
 {
 "basename":"biopython-1.68-py27_0.tar.bz2",
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-10",
 "total":8639
+},
+{
+"date":"2021-09-11",
+"total":8641
 }
 ],
 "package":"biopython",
@@ -1200,6 +1204,15 @@
 {
 "basename":"biopython-1.68-py27_0.tar.bz2",
 "total":4646
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"biopython-1.68-py35_0.tar.bz2",
+"total":3564
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"strelka-2.9.10-h9ee0642_1.tar.bz2",
-"total":944
+"total":946
 },
 {
 "basename":"strelka-2.9.10-0.tar.bz2",
@@ -446,6 +446,10 @@
 {
 "date":"2021-09-10",
 "total":10179
+},
+{
+"date":"2021-09-11",
+"total":10181
 }
 ],
 "package":"strelka",
@@ -1112,6 +1116,15 @@
 {
 "basename":"strelka-2.9.10-0.tar.bz2",
 "total":9235
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"strelka-2.9.10-h9ee0642_1.tar.bz2",
+"total":946
 }
 ]
 }

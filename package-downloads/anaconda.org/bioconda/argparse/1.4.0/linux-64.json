@@ -11,7 +11,7 @@
 },
 {
 "basename":"argparse-1.4.0-py36_0.tar.bz2",
-"total":4317
+"total":4319
 },
 {
 "basename":"argparse-1.4.0-py27_0.tar.bz2",
@@ -446,6 +446,10 @@
 {
 "date":"2021-09-10",
 "total":13055
+},
+{
+"date":"2021-09-11",
+"total":13057
 }
 ],
 "package":"argparse",
@@ -1220,6 +1224,15 @@
 {
 "basename":"argparse-1.4.0-py27_0.tar.bz2",
 "total":6773
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"argparse-1.4.0-py36_0.tar.bz2",
+"total":4319
 }
 ]
 }

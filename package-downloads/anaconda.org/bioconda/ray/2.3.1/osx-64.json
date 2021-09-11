@@ -7,7 +7,7 @@
 },
 {
 "basename":"ray-2.3.1-h95d8a6f_3.tar.bz2",
-"total":378
+"total":380
 },
 {
 "basename":"ray-2.3.1-h656e2c8_2.tar.bz2",
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-10",
 "total":2543
+},
+{
+"date":"2021-09-11",
+"total":2545
 }
 ],
 "package":"ray",
@@ -1103,6 +1107,15 @@
 {
 "basename":"ray-2.3.1-h95d8a6f_3.tar.bz2",
 "total":378
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"ray-2.3.1-h95d8a6f_3.tar.bz2",
+"total":380
 }
 ]
 }

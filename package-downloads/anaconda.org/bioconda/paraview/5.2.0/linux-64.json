@@ -11,7 +11,7 @@
 },
 {
 "basename":"paraview-5.2.0-py27_2.tar.bz2",
-"total":2323
+"total":2325
 }
 ],
 "downloads_per_date":[
@@ -450,6 +450,10 @@
 {
 "date":"2021-09-10",
 "total":3721
+},
+{
+"date":"2021-09-11",
+"total":3723
 }
 ],
 "package":"paraview",
@@ -1071,6 +1075,15 @@
 {
 "basename":"paraview-5.2.0-py27_2.tar.bz2",
 "total":2323
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"paraview-5.2.0-py27_2.tar.bz2",
+"total":2325
 }
 ]
 }

@@ -71,7 +71,7 @@
 },
 {
 "basename":"blastalign-1.4-py36pl526_4.tar.bz2",
-"total":1831
+"total":1833
 }
 ],
 "downloads_per_date":[
@@ -510,6 +510,10 @@
 {
 "date":"2021-09-10",
 "total":8315
+},
+{
+"date":"2021-09-11",
+"total":8317
 }
 ],
 "package":"blastalign",
@@ -1647,6 +1651,15 @@
 {
 "basename":"blastalign-1.4-py36pl526_4.tar.bz2",
 "total":1831
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"blastalign-1.4-py36pl526_4.tar.bz2",
+"total":1833
 }
 ]
 }

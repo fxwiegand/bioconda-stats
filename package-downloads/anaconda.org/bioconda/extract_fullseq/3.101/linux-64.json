@@ -7,7 +7,7 @@
 },
 {
 "basename":"extract_fullseq-3.101-3.tar.bz2",
-"total":7960
+"total":7962
 },
 {
 "basename":"extract_fullseq-3.101-2.tar.bz2",
@@ -446,6 +446,10 @@
 {
 "date":"2021-09-10",
 "total":20857
+},
+{
+"date":"2021-09-11",
+"total":20859
 }
 ],
 "package":"extract_fullseq",
@@ -973,6 +977,15 @@
 {
 "basename":"extract_fullseq-3.101-3.tar.bz2",
 "total":7960
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"extract_fullseq-3.101-3.tar.bz2",
+"total":7962
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"mothur-1.25.0-ncurses5.9_0.tar.bz2",
-"total":2708
+"total":2710
 }
 ],
 "downloads_per_date":[
@@ -446,6 +446,10 @@
 {
 "date":"2021-09-10",
 "total":3304
+},
+{
+"date":"2021-09-11",
+"total":3306
 }
 ],
 "package":"mothur",
@@ -1072,6 +1076,15 @@
 {
 "basename":"mothur-1.25.0-ncurses5.9_0.tar.bz2",
 "total":2708
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"mothur-1.25.0-ncurses5.9_0.tar.bz2",
+"total":2710
 }
 ]
 }

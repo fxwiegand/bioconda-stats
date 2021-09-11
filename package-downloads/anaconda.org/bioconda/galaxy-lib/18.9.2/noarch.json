@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"galaxy-lib-18.9.2-py_0.tar.bz2",
-"total":6009
+"total":6010
 }
 ],
 "downloads_per_date":[
@@ -398,6 +398,10 @@
 {
 "date":"2021-09-10",
 "total":6009
+},
+{
+"date":"2021-09-11",
+"total":6010
 }
 ],
 "package":"galaxy-lib",
@@ -930,6 +934,15 @@
 {
 "basename":"galaxy-lib-18.9.2-py_0.tar.bz2",
 "total":6009
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"galaxy-lib-18.9.2-py_0.tar.bz2",
+"total":6010
 }
 ]
 }

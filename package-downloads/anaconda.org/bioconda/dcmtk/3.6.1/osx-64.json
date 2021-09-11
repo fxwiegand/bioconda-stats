@@ -19,7 +19,7 @@
 },
 {
 "basename":"dcmtk-3.6.1-hc6cd04f_6.tar.bz2",
-"total":2019
+"total":2021
 }
 ],
 "downloads_per_date":[
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-10",
 "total":2346
+},
+{
+"date":"2021-09-11",
+"total":2348
 }
 ],
 "package":"dcmtk",
@@ -1079,6 +1083,15 @@
 {
 "basename":"dcmtk-3.6.1-hc6cd04f_6.tar.bz2",
 "total":2019
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"dcmtk-3.6.1-hc6cd04f_6.tar.bz2",
+"total":2021
 }
 ]
 }

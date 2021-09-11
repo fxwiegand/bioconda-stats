@@ -7,7 +7,7 @@
 },
 {
 "basename":"pyomo-4.1.10527-py34_0.tar.bz2",
-"total":2496
+"total":2498
 },
 {
 "basename":"pyomo-4.1.10527-py27_1.tar.bz2",
@@ -450,6 +450,10 @@
 {
 "date":"2021-09-10",
 "total":9490
+},
+{
+"date":"2021-09-11",
+"total":9492
 }
 ],
 "package":"pyomo",
@@ -1140,6 +1144,15 @@
 {
 "basename":"pyomo-4.1.10527-py34_0.tar.bz2",
 "total":2496
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"pyomo-4.1.10527-py34_0.tar.bz2",
+"total":2498
 }
 ]
 }

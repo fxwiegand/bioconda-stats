@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-filesys-df-0.92-pl526h14c3975_3.tar.bz2",
-"total":3064
+"total":3065
 },
 {
 "basename":"perl-filesys-df-0.92-1.tar.bz2",
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-10",
 "total":8845
+},
+{
+"date":"2021-09-11",
+"total":8846
 }
 ],
 "package":"perl-filesys-df",
@@ -1229,6 +1233,15 @@
 {
 "basename":"perl-filesys-df-0.92-1.tar.bz2",
 "total":3402
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"perl-filesys-df-0.92-pl526h14c3975_3.tar.bz2",
+"total":3065
 }
 ]
 }

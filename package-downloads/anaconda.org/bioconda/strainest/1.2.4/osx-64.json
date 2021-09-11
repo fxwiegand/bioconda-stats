@@ -43,7 +43,7 @@
 },
 {
 "basename":"strainest-1.2.4-py37ha1cc60f_4.tar.bz2",
-"total":966
+"total":968
 }
 ],
 "downloads_per_date":[
@@ -482,6 +482,10 @@
 {
 "date":"2021-09-10",
 "total":2367
+},
+{
+"date":"2021-09-11",
+"total":2369
 }
 ],
 "package":"strainest",
@@ -1167,6 +1171,15 @@
 {
 "basename":"strainest-1.2.4-py37ha1cc60f_4.tar.bz2",
 "total":966
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"strainest-1.2.4-py37ha1cc60f_4.tar.bz2",
+"total":968
 }
 ]
 }

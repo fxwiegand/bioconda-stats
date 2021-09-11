@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-time-local-1.28-pl526_1.tar.bz2",
-"total":132529
+"total":132564
 }
 ],
 "downloads_per_date":[
@@ -446,6 +446,10 @@
 {
 "date":"2021-09-10",
 "total":132789
+},
+{
+"date":"2021-09-11",
+"total":132824
 }
 ],
 "package":"perl-time-local",
@@ -1028,6 +1032,15 @@
 {
 "basename":"perl-time-local-1.28-pl526_1.tar.bz2",
 "total":132529
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"perl-time-local-1.28-pl526_1.tar.bz2",
+"total":132564
 }
 ]
 }

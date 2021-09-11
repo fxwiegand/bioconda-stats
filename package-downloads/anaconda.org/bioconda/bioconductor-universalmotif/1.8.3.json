@@ -436,6 +436,10 @@
 {
 "date":"2021-09-10",
 "total":402
+},
+{
+"date":"2021-09-11",
+"total":404
 }
 ],
 "downloads_per_subdir":[
@@ -445,7 +449,7 @@
 },
 {
 "subdir":"osx-64",
-"total":344
+"total":346
 }
 ],
 "package":"bioconductor-universalmotif",
@@ -1031,6 +1035,15 @@
 {
 "subdir":"osx-64",
 "total":344
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":346
 }
 ]
 }

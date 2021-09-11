@@ -11,7 +11,7 @@
 },
 {
 "basename":"mysqlclient-1.3.7-py35_1.tar.bz2",
-"total":9923
+"total":9925
 }
 ],
 "downloads_per_date":[
@@ -450,6 +450,10 @@
 {
 "date":"2021-09-10",
 "total":14429
+},
+{
+"date":"2021-09-11",
+"total":14431
 }
 ],
 "package":"mysqlclient",
@@ -1055,6 +1059,15 @@
 {
 "basename":"mysqlclient-1.3.7-py35_1.tar.bz2",
 "total":9923
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"mysqlclient-1.3.7-py35_1.tar.bz2",
+"total":9925
 }
 ]
 }

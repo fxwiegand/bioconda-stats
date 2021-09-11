@@ -436,6 +436,10 @@
 {
 "date":"2021-09-10",
 "total":340
+},
+{
+"date":"2021-09-11",
+"total":342
 }
 ],
 "downloads_per_subdir":[
@@ -445,7 +449,7 @@
 },
 {
 "subdir":"osx-64",
-"total":313
+"total":315
 }
 ],
 "package":"rustyread",
@@ -1015,6 +1019,15 @@
 {
 "subdir":"osx-64",
 "total":313
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":315
 }
 ]
 }

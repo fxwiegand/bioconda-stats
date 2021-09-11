@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-time-piece-1.27-pl526_1.tar.bz2",
-"total":3762
+"total":3765
 }
 ],
 "downloads_per_date":[
@@ -390,6 +390,10 @@
 {
 "date":"2021-09-10",
 "total":5422
+},
+{
+"date":"2021-09-11",
+"total":5425
 }
 ],
 "package":"perl-time-piece",
@@ -917,6 +921,15 @@
 {
 "basename":"perl-time-piece-1.27-pl526_1.tar.bz2",
 "total":3762
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"perl-time-piece-1.27-pl526_1.tar.bz2",
+"total":3765
 }
 ]
 }

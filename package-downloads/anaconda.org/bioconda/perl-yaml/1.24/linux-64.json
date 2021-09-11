@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-yaml-1.24-0.tar.bz2",
-"total":7682
+"total":7683
 }
 ],
 "downloads_per_date":[
@@ -426,6 +426,10 @@
 {
 "date":"2021-09-10",
 "total":15102
+},
+{
+"date":"2021-09-11",
+"total":15103
 }
 ],
 "package":"perl-yaml",
@@ -978,6 +982,15 @@
 {
 "basename":"perl-yaml-1.24-pl522_1.tar.bz2",
 "total":7420
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"perl-yaml-1.24-0.tar.bz2",
+"total":7683
 }
 ]
 }

@@ -23,7 +23,7 @@
 },
 {
 "basename":"gnu-wget-1.18-h2573ce8_4.tar.bz2",
-"total":1575
+"total":1577
 }
 ],
 "downloads_per_date":[
@@ -462,6 +462,10 @@
 {
 "date":"2021-09-10",
 "total":2606
+},
+{
+"date":"2021-09-11",
+"total":2608
 }
 ],
 "package":"gnu-wget",
@@ -1111,6 +1115,15 @@
 {
 "basename":"gnu-wget-1.18-h2573ce8_4.tar.bz2",
 "total":1575
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"gnu-wget-1.18-h2573ce8_4.tar.bz2",
+"total":1577
 }
 ]
 }

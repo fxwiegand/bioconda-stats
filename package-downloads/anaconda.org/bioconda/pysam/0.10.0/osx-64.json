@@ -95,7 +95,7 @@
 },
 {
 "basename":"pysam-0.10.0-py36he4b9701_11.tar.bz2",
-"total":852
+"total":854
 },
 {
 "basename":"pysam-0.10.0-py36hdfb72b2_6.tar.bz2",
@@ -538,6 +538,10 @@
 {
 "date":"2021-09-10",
 "total":4253
+},
+{
+"date":"2021-09-11",
+"total":4255
 }
 ],
 "package":"pysam",
@@ -1428,6 +1432,15 @@
 {
 "basename":"pysam-0.10.0-py36he4b9701_11.tar.bz2",
 "total":852
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"pysam-0.10.0-py36he4b9701_11.tar.bz2",
+"total":854
 }
 ]
 }

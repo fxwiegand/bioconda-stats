@@ -11,7 +11,7 @@
 },
 {
 "basename":"awscli-1.8.3-py35_0.tar.bz2",
-"total":1871
+"total":1873
 }
 ],
 "downloads_per_date":[
@@ -450,6 +450,10 @@
 {
 "date":"2021-09-10",
 "total":2471
+},
+{
+"date":"2021-09-11",
+"total":2473
 }
 ],
 "package":"awscli",
@@ -1023,6 +1027,15 @@
 {
 "basename":"awscli-1.8.3-py35_0.tar.bz2",
 "total":1871
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"awscli-1.8.3-py35_0.tar.bz2",
+"total":1873
 }
 ]
 }

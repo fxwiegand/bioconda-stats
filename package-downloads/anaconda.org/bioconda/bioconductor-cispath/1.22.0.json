@@ -436,6 +436,10 @@
 {
 "date":"2021-09-10",
 "total":2094
+},
+{
+"date":"2021-09-11",
+"total":2096
 }
 ],
 "downloads_per_subdir":[
@@ -445,7 +449,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1933
+"total":1935
 }
 ],
 "package":"bioconductor-cispath",
@@ -1019,6 +1023,15 @@
 {
 "subdir":"osx-64",
 "total":1933
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1935
 }
 ]
 }

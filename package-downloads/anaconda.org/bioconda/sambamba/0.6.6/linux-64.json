@@ -11,7 +11,7 @@
 },
 {
 "basename":"sambamba-0.6.6-2.tar.bz2",
-"total":18207
+"total":18215
 }
 ],
 "downloads_per_date":[
@@ -450,6 +450,10 @@
 {
 "date":"2021-09-10",
 "total":40043
+},
+{
+"date":"2021-09-11",
+"total":40051
 }
 ],
 "package":"sambamba",
@@ -1084,6 +1088,15 @@
 {
 "basename":"sambamba-0.6.6-2.tar.bz2",
 "total":18207
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"sambamba-0.6.6-2.tar.bz2",
+"total":18215
 }
 ]
 }

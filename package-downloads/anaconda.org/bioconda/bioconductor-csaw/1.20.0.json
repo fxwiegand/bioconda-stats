@@ -436,6 +436,10 @@
 {
 "date":"2021-09-10",
 "total":2398
+},
+{
+"date":"2021-09-11",
+"total":2400
 }
 ],
 "downloads_per_subdir":[
@@ -445,7 +449,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1682
+"total":1684
 }
 ],
 "package":"bioconductor-csaw",
@@ -1079,6 +1083,15 @@
 {
 "subdir":"osx-64",
 "total":1682
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1684
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-rseis-3.5_2-r3.3.2_0.tar.bz2",
-"total":2007
+"total":2009
 }
 ],
 "downloads_per_date":[
@@ -450,6 +450,10 @@
 {
 "date":"2021-09-10",
 "total":2118
+},
+{
+"date":"2021-09-11",
+"total":2120
 }
 ],
 "package":"r-rseis",
@@ -1007,6 +1011,15 @@
 {
 "basename":"r-rseis-3.5_2-r3.3.2_0.tar.bz2",
 "total":2007
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"r-rseis-3.5_2-r3.3.2_0.tar.bz2",
+"total":2009
 }
 ]
 }

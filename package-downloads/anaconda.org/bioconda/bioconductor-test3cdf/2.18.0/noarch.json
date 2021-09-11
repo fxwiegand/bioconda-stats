@@ -27,7 +27,7 @@
 },
 {
 "basename":"bioconductor-test3cdf-2.18.0-r41hdfd78af_7.tar.bz2",
-"total":124
+"total":125
 }
 ],
 "downloads_per_date":[
@@ -418,6 +418,10 @@
 {
 "date":"2021-09-10",
 "total":511
+},
+{
+"date":"2021-09-11",
+"total":512
 }
 ],
 "package":"bioconductor-test3cdf",
@@ -1139,6 +1143,15 @@
 {
 "basename":"bioconductor-test3cdf-2.18.0-r41hdfd78af_7.tar.bz2",
 "total":124
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-test3cdf-2.18.0-r41hdfd78af_7.tar.bz2",
+"total":125
 }
 ]
 }

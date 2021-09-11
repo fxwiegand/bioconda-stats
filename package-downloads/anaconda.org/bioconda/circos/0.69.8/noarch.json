@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"circos-0.69.8-hdfd78af_1.tar.bz2",
-"total":7696
+"total":7726
 },
 {
 "basename":"circos-0.69.8-0.tar.bz2",
@@ -446,6 +446,10 @@
 {
 "date":"2021-09-10",
 "total":36024
+},
+{
+"date":"2021-09-11",
+"total":36054
 }
 ],
 "package":"circos",
@@ -1192,6 +1196,15 @@
 {
 "basename":"circos-0.69.8-0.tar.bz2",
 "total":28328
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"circos-0.69.8-hdfd78af_1.tar.bz2",
+"total":7726
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"libsvm-3.16-2.tar.bz2",
-"total":5065
+"total":5070
 }
 ],
 "downloads_per_date":[
@@ -450,6 +450,10 @@
 {
 "date":"2021-09-10",
 "total":6060
+},
+{
+"date":"2021-09-11",
+"total":6065
 }
 ],
 "package":"libsvm",
@@ -1067,6 +1071,15 @@
 {
 "basename":"libsvm-3.16-2.tar.bz2",
 "total":5065
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"libsvm-3.16-2.tar.bz2",
+"total":5070
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"bowtie-1.0.0-1.tar.bz2",
-"total":6486
+"total":6490
 }
 ],
 "downloads_per_date":[
@@ -446,6 +446,10 @@
 {
 "date":"2021-09-10",
 "total":6996
+},
+{
+"date":"2021-09-11",
+"total":7000
 }
 ],
 "package":"bowtie",
@@ -1010,6 +1014,15 @@
 {
 "basename":"bowtie-1.0.0-1.tar.bz2",
 "total":6486
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"bowtie-1.0.0-1.tar.bz2",
+"total":6490
 }
 ]
 }

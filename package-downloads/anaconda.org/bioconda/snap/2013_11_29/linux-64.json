@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"snap-2013_11_29-h779adbc_3.tar.bz2",
-"total":900
+"total":903
 },
 {
 "basename":"snap-2013_11_29-0.tar.bz2",
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-10",
 "total":6512
+},
+{
+"date":"2021-09-11",
+"total":6515
 }
 ],
 "package":"snap",
@@ -1134,6 +1138,15 @@
 {
 "basename":"snap-2013_11_29-h779adbc_3.tar.bz2",
 "total":900
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"snap-2013_11_29-h779adbc_3.tar.bz2",
+"total":903
 }
 ]
 }

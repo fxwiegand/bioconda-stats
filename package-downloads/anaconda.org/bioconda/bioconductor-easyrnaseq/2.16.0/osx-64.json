@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-easyrnaseq-2.16.0-r351_0.tar.bz2",
-"total":1977
+"total":1979
 }
 ],
 "downloads_per_date":[
@@ -446,6 +446,10 @@
 {
 "date":"2021-09-10",
 "total":2016
+},
+{
+"date":"2021-09-11",
+"total":2018
 }
 ],
 "package":"bioconductor-easyrnaseq",
@@ -999,6 +1003,15 @@
 {
 "basename":"bioconductor-easyrnaseq-2.16.0-r351_0.tar.bz2",
 "total":1977
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-easyrnaseq-2.16.0-r351_0.tar.bz2",
+"total":1979
 }
 ]
 }

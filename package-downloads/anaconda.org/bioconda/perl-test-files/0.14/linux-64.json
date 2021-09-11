@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-test-files-0.14-0.tar.bz2",
-"total":1964
+"total":1965
 }
 ],
 "downloads_per_date":[
@@ -366,6 +366,10 @@
 {
 "date":"2021-09-10",
 "total":3149
+},
+{
+"date":"2021-09-11",
+"total":3150
 }
 ],
 "package":"perl-test-files",
@@ -836,6 +840,15 @@
 {
 "basename":"perl-test-files-0.14-pl526_2.tar.bz2",
 "total":978
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"perl-test-files-0.14-0.tar.bz2",
+"total":1965
 }
 ]
 }

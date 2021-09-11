@@ -436,6 +436,10 @@
 {
 "date":"2021-09-10",
 "total":3633
+},
+{
+"date":"2021-09-11",
+"total":3635
 }
 ],
 "downloads_per_subdir":[
@@ -445,7 +449,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2284
+"total":2286
 }
 ],
 "package":"bioconductor-rhdf5",
@@ -1035,6 +1039,15 @@
 {
 "subdir":"osx-64",
 "total":2284
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2286
 }
 ]
 }

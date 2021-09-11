@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-genepredtobed-377-h0b8a92a_4.tar.bz2",
-"total":1502
+"total":1513
 },
 {
 "basename":"ucsc-genepredtobed-377-h35c10e6_2.tar.bz2",
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-10",
 "total":7340
+},
+{
+"date":"2021-09-11",
+"total":7351
 }
 ],
 "package":"ucsc-genepredtobed",
@@ -1131,6 +1135,15 @@
 {
 "basename":"ucsc-genepredtobed-377-h446ed27_3.tar.bz2",
 "total":3026
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-genepredtobed-377-h0b8a92a_4.tar.bz2",
+"total":1513
 }
 ]
 }

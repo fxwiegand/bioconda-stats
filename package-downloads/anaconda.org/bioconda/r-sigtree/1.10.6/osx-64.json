@@ -23,7 +23,7 @@
 },
 {
 "basename":"r-sigtree-1.10.6-r41h9e43be8_8.tar.bz2",
-"total":207
+"total":209
 },
 {
 "basename":"r-sigtree-1.10.6-r341hc070d10_2.tar.bz2",
@@ -478,6 +478,10 @@
 {
 "date":"2021-09-10",
 "total":2249
+},
+{
+"date":"2021-09-11",
+"total":2251
 }
 ],
 "package":"r-sigtree",
@@ -1151,6 +1155,15 @@
 {
 "basename":"r-sigtree-1.10.6-r41h9e43be8_8.tar.bz2",
 "total":207
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"r-sigtree-1.10.6-r41h9e43be8_8.tar.bz2",
+"total":209
 }
 ]
 }

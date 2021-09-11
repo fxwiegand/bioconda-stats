@@ -7,7 +7,7 @@
 },
 {
 "basename":"lapack-3.6.0-2.tar.bz2",
-"total":6027
+"total":6032
 }
 ],
 "downloads_per_date":[
@@ -446,6 +446,10 @@
 {
 "date":"2021-09-10",
 "total":6522
+},
+{
+"date":"2021-09-11",
+"total":6527
 }
 ],
 "package":"lapack",
@@ -1027,6 +1031,15 @@
 {
 "basename":"lapack-3.6.0-2.tar.bz2",
 "total":6027
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"lapack-3.6.0-2.tar.bz2",
+"total":6032
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"snpeff-4.5covid19-hdfd78af_2.tar.bz2",
-"total":481
+"total":482
 },
 {
 "basename":"snpeff-4.5covid19-1.tar.bz2",
@@ -434,6 +434,10 @@
 {
 "date":"2021-09-10",
 "total":6237
+},
+{
+"date":"2021-09-11",
+"total":6238
 }
 ],
 "package":"snpeff",
@@ -1080,6 +1084,15 @@
 {
 "basename":"snpeff-4.5covid19-1.tar.bz2",
 "total":5623
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"snpeff-4.5covid19-hdfd78af_2.tar.bz2",
+"total":482
 }
 ]
 }

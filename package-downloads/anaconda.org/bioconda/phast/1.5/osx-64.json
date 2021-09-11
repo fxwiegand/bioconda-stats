@@ -11,7 +11,7 @@
 },
 {
 "basename":"phast-1.5-hb4d813b_3.tar.bz2",
-"total":365
+"total":367
 },
 {
 "basename":"phast-1.5-h1de35cc_0.tar.bz2",
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-10",
 "total":2047
+},
+{
+"date":"2021-09-11",
+"total":2049
 }
 ],
 "package":"phast",
@@ -1051,6 +1055,15 @@
 {
 "basename":"phast-1.5-hb4d813b_3.tar.bz2",
 "total":365
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"phast-1.5-hb4d813b_3.tar.bz2",
+"total":367
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-ensdb.hsapiens.v75-2.99.0-r351_2.tar.bz2",
-"total":1687
+"total":1688
 }
 ],
 "downloads_per_date":[
@@ -450,6 +450,10 @@
 {
 "date":"2021-09-10",
 "total":2021
+},
+{
+"date":"2021-09-11",
+"total":2022
 }
 ],
 "package":"bioconductor-ensdb.hsapiens.v75",
@@ -1015,6 +1019,15 @@
 {
 "basename":"bioconductor-ensdb.hsapiens.v75-2.99.0-r351_2.tar.bz2",
 "total":1687
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ensdb.hsapiens.v75-2.99.0-r351_2.tar.bz2",
+"total":1688
 }
 ]
 }

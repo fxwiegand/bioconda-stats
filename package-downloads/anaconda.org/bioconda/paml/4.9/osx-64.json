@@ -19,7 +19,7 @@
 },
 {
 "basename":"paml-4.9-hb4d813b_6.tar.bz2",
-"total":1168
+"total":1179
 },
 {
 "basename":"paml-4.9-h01d97ff_5.tar.bz2",
@@ -466,6 +466,10 @@
 {
 "date":"2021-09-10",
 "total":7060
+},
+{
+"date":"2021-09-11",
+"total":7071
 }
 ],
 "package":"paml",
@@ -1156,6 +1160,15 @@
 {
 "basename":"paml-4.9-hb4d813b_6.tar.bz2",
 "total":1168
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"paml-4.9-hb4d813b_6.tar.bz2",
+"total":1179
 }
 ]
 }

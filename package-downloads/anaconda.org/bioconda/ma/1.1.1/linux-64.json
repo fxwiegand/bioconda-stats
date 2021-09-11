@@ -15,7 +15,7 @@
 },
 {
 "basename":"ma-1.1.1-py38h1c8e9b9_1.tar.bz2",
-"total":766
+"total":768
 },
 {
 "basename":"ma-1.1.1-py37he860b03_0.tar.bz2",
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-10",
 "total":2128
+},
+{
+"date":"2021-09-11",
+"total":2130
 }
 ],
 "package":"ma",
@@ -1127,6 +1131,15 @@
 {
 "basename":"ma-1.1.1-py38h1c8e9b9_1.tar.bz2",
 "total":766
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"ma-1.1.1-py38h1c8e9b9_1.tar.bz2",
+"total":768
 }
 ]
 }

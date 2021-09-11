@@ -380,6 +380,10 @@
 {
 "date":"2021-09-10",
 "total":232
+},
+{
+"date":"2021-09-11",
+"total":234
 }
 ],
 "downloads_per_subdir":[
@@ -389,7 +393,7 @@
 },
 {
 "subdir":"osx-64",
-"total":206
+"total":208
 }
 ],
 "package":"bioconductor-mirsponger",
@@ -971,6 +975,15 @@
 {
 "subdir":"osx-64",
 "total":206
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":208
 }
 ]
 }

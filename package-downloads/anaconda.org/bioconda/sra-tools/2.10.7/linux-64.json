@@ -7,7 +7,7 @@
 },
 {
 "basename":"sra-tools-2.10.7-pl526haddd2b5_2.tar.bz2",
-"total":1507
+"total":1509
 },
 {
 "basename":"sra-tools-2.10.7-pl526haddd2b5_1.tar.bz2",
@@ -450,6 +450,10 @@
 {
 "date":"2021-09-10",
 "total":4299
+},
+{
+"date":"2021-09-11",
+"total":4301
 }
 ],
 "package":"sra-tools",
@@ -1115,6 +1119,15 @@
 {
 "basename":"sra-tools-2.10.7-pl526haddd2b5_2.tar.bz2",
 "total":1507
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"sra-tools-2.10.7-pl526haddd2b5_2.tar.bz2",
+"total":1509
 }
 ]
 }

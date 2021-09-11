@@ -15,7 +15,7 @@
 },
 {
 "basename":"perl-uri-1.71-0.tar.bz2",
-"total":16836
+"total":16837
 }
 ],
 "downloads_per_date":[
@@ -394,6 +394,10 @@
 {
 "date":"2021-09-10",
 "total":37532
+},
+{
+"date":"2021-09-11",
+"total":37533
 }
 ],
 "package":"perl-uri",
@@ -889,6 +893,15 @@
 {
 "basename":"perl-uri-1.71-pl5.22.0_1.tar.bz2",
 "total":12546
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"perl-uri-1.71-0.tar.bz2",
+"total":16837
 }
 ]
 }

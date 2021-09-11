@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"mrbayes-3.2.7-h19cf415_2.tar.bz2",
-"total":356
+"total":362
 },
 {
 "basename":"mrbayes-3.2.7-hefd459d_1.tar.bz2",
@@ -434,6 +434,10 @@
 {
 "date":"2021-09-10",
 "total":1332
+},
+{
+"date":"2021-09-11",
+"total":1338
 }
 ],
 "package":"mrbayes",
@@ -1013,6 +1017,15 @@
 {
 "basename":"mrbayes-3.2.7-hefd459d_1.tar.bz2",
 "total":477
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"mrbayes-3.2.7-h19cf415_2.tar.bz2",
+"total":362
 }
 ]
 }

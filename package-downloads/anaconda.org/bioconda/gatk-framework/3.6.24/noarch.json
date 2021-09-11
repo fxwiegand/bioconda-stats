@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"gatk-framework-3.6.24-hdfd78af_6.tar.bz2",
-"total":161
+"total":162
 },
 {
 "basename":"gatk-framework-3.6.24-5.tar.bz2",
@@ -410,6 +410,10 @@
 {
 "date":"2021-09-10",
 "total":582
+},
+{
+"date":"2021-09-11",
+"total":583
 }
 ],
 "package":"gatk-framework",
@@ -982,6 +986,15 @@
 {
 "basename":"gatk-framework-3.6.24-5.tar.bz2",
 "total":421
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"gatk-framework-3.6.24-hdfd78af_6.tar.bz2",
+"total":162
 }
 ]
 }

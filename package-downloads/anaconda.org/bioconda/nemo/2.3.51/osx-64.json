@@ -7,7 +7,7 @@
 },
 {
 "basename":"nemo-2.3.51-hf37d80a_1.tar.bz2",
-"total":766
+"total":768
 },
 {
 "basename":"nemo-2.3.51-h869255c_0.tar.bz2",
@@ -450,6 +450,10 @@
 {
 "date":"2021-09-10",
 "total":1988
+},
+{
+"date":"2021-09-11",
+"total":1990
 }
 ],
 "package":"nemo",
@@ -1011,6 +1015,15 @@
 {
 "basename":"nemo-2.3.51-hf37d80a_1.tar.bz2",
 "total":766
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"nemo-2.3.51-hf37d80a_1.tar.bz2",
+"total":768
 }
 ]
 }

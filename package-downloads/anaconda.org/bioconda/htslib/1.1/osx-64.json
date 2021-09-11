@@ -7,7 +7,7 @@
 },
 {
 "basename":"htslib-1.1-hd944b18_2.tar.bz2",
-"total":349
+"total":351
 },
 {
 "basename":"htslib-1.1-hd2f6a96_0.tar.bz2",
@@ -450,6 +450,10 @@
 {
 "date":"2021-09-10",
 "total":1335
+},
+{
+"date":"2021-09-11",
+"total":1337
 }
 ],
 "package":"htslib",
@@ -1027,6 +1031,15 @@
 {
 "basename":"htslib-1.1-hd944b18_2.tar.bz2",
 "total":349
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"htslib-1.1-hd944b18_2.tar.bz2",
+"total":351
 }
 ]
 }

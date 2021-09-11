@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"picard-1.141-hdfd78af_6.tar.bz2",
-"total":159
+"total":160
 },
 {
 "basename":"picard-1.141-5.tar.bz2",
@@ -406,6 +406,10 @@
 {
 "date":"2021-09-10",
 "total":709
+},
+{
+"date":"2021-09-11",
+"total":710
 }
 ],
 "package":"picard",
@@ -1011,6 +1015,15 @@
 {
 "basename":"picard-1.141-5.tar.bz2",
 "total":550
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"picard-1.141-hdfd78af_6.tar.bz2",
+"total":160
 }
 ]
 }

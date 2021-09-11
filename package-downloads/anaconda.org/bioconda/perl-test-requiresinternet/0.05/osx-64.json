@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-requiresinternet-0.05-pl526_0.tar.bz2",
-"total":11509
+"total":11521
 }
 ],
 "downloads_per_date":[
@@ -442,6 +442,10 @@
 {
 "date":"2021-09-10",
 "total":11509
+},
+{
+"date":"2021-09-11",
+"total":11521
 }
 ],
 "package":"perl-test-requiresinternet",
@@ -992,6 +996,15 @@
 {
 "basename":"perl-test-requiresinternet-0.05-pl526_0.tar.bz2",
 "total":11509
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"perl-test-requiresinternet-0.05-pl526_0.tar.bz2",
+"total":11521
 }
 ]
 }

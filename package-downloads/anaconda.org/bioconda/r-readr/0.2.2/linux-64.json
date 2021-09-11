@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-readr-0.2.2-r3.3.1_0.tar.bz2",
-"total":1118
+"total":1119
 },
 {
 "basename":"r-readr-0.2.2-r3.3.2_0.tar.bz2",
@@ -218,6 +218,10 @@
 {
 "date":"2021-09-10",
 "total":6618
+},
+{
+"date":"2021-09-11",
+"total":6619
 }
 ],
 "package":"r-readr",
@@ -442,6 +446,15 @@
 {
 "basename":"r-readr-0.2.2-r3.3.2_0.tar.bz2",
 "total":2382
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"r-readr-0.2.2-r3.3.1_0.tar.bz2",
+"total":1119
 }
 ]
 }

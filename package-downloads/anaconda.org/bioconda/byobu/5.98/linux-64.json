@@ -11,7 +11,7 @@
 },
 {
 "basename":"byobu-5.98-ncurses5.9_1.tar.bz2",
-"total":2337
+"total":2339
 }
 ],
 "downloads_per_date":[
@@ -450,6 +450,10 @@
 {
 "date":"2021-09-10",
 "total":3456
+},
+{
+"date":"2021-09-11",
+"total":3458
 }
 ],
 "package":"byobu",
@@ -1067,6 +1071,15 @@
 {
 "basename":"byobu-5.98-ncurses5.9_1.tar.bz2",
 "total":2337
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"byobu-5.98-ncurses5.9_1.tar.bz2",
+"total":2339
 }
 ]
 }

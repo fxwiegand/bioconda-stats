@@ -11,7 +11,7 @@
 },
 {
 "basename":"gromacs-2020-hc9558a2_2.tar.bz2",
-"total":2493
+"total":2495
 }
 ],
 "downloads_per_date":[
@@ -450,6 +450,10 @@
 {
 "date":"2021-09-10",
 "total":2792
+},
+{
+"date":"2021-09-11",
+"total":2794
 }
 ],
 "package":"gromacs",
@@ -1063,6 +1067,15 @@
 {
 "basename":"gromacs-2020-hc9558a2_2.tar.bz2",
 "total":2493
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"gromacs-2020-hc9558a2_2.tar.bz2",
+"total":2495
 }
 ]
 }

@@ -436,6 +436,10 @@
 {
 "date":"2021-09-10",
 "total":2674
+},
+{
+"date":"2021-09-11",
+"total":2676
 }
 ],
 "downloads_per_subdir":[
@@ -445,7 +449,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2009
+"total":2011
 }
 ],
 "package":"bioconductor-bicare",
@@ -1023,6 +1027,15 @@
 {
 "subdir":"osx-64",
 "total":2009
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2011
 }
 ]
 }

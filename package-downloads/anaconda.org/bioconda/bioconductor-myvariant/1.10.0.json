@@ -436,6 +436,10 @@
 {
 "date":"2021-09-10",
 "total":2499
+},
+{
+"date":"2021-09-11",
+"total":2501
 }
 ],
 "downloads_per_subdir":[
@@ -445,7 +449,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2056
+"total":2058
 }
 ],
 "package":"bioconductor-myvariant",
@@ -1031,6 +1035,15 @@
 {
 "subdir":"osx-64",
 "total":2056
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2058
 }
 ]
 }

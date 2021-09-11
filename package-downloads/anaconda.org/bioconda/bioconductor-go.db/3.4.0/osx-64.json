@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-go.db-3.4.0-r3.4.1_0.tar.bz2",
-"total":2058
+"total":2060
 }
 ],
 "downloads_per_date":[
@@ -450,6 +450,10 @@
 {
 "date":"2021-09-10",
 "total":2503
+},
+{
+"date":"2021-09-11",
+"total":2505
 }
 ],
 "package":"bioconductor-go.db",
@@ -1067,6 +1071,15 @@
 {
 "basename":"bioconductor-go.db-3.4.0-r3.4.1_0.tar.bz2",
 "total":2058
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-go.db-3.4.0-r3.4.1_0.tar.bz2",
+"total":2060
 }
 ]
 }

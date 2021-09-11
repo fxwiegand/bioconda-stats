@@ -15,7 +15,7 @@
 },
 {
 "basename":"mlpy-3.5.0-py36hf1ae8f4_1.tar.bz2",
-"total":781
+"total":783
 },
 {
 "basename":"mlpy-3.5.0-py36h6bb024c_0.tar.bz2",
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-10",
 "total":2038
+},
+{
+"date":"2021-09-11",
+"total":2040
 }
 ],
 "package":"mlpy",
@@ -1143,6 +1147,15 @@
 {
 "basename":"mlpy-3.5.0-py36hf1ae8f4_1.tar.bz2",
 "total":781
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"mlpy-3.5.0-py36hf1ae8f4_1.tar.bz2",
+"total":783
 }
 ]
 }

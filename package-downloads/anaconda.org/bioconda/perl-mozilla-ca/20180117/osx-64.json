@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-mozilla-ca-20180117-pl526_1.tar.bz2",
-"total":9534
+"total":9546
 }
 ],
 "downloads_per_date":[
@@ -446,6 +446,10 @@
 {
 "date":"2021-09-10",
 "total":11683
+},
+{
+"date":"2021-09-11",
+"total":11695
 }
 ],
 "package":"perl-mozilla-ca",
@@ -1036,6 +1040,15 @@
 {
 "basename":"perl-mozilla-ca-20180117-pl526_1.tar.bz2",
 "total":9534
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"perl-mozilla-ca-20180117-pl526_1.tar.bz2",
+"total":9546
 }
 ]
 }

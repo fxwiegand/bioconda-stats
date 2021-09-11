@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-genepredcheck-357-1.tar.bz2",
-"total":1060
+"total":1061
 }
 ],
 "downloads_per_date":[
@@ -290,6 +290,10 @@
 {
 "date":"2021-09-10",
 "total":1508
+},
+{
+"date":"2021-09-11",
+"total":1509
 }
 ],
 "package":"ucsc-genepredcheck",
@@ -567,6 +571,15 @@
 {
 "basename":"ucsc-genepredcheck-357-1.tar.bz2",
 "total":1060
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-genepredcheck-357-1.tar.bz2",
+"total":1061
 }
 ]
 }

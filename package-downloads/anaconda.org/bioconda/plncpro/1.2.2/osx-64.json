@@ -31,7 +31,7 @@
 },
 {
 "basename":"plncpro-1.2.2-py39hcf0ab7e_2.tar.bz2",
-"total":342
+"total":344
 },
 {
 "basename":"plncpro-1.2.2-py38hb8ab313_1.tar.bz2",
@@ -474,6 +474,10 @@
 {
 "date":"2021-09-10",
 "total":1060
+},
+{
+"date":"2021-09-11",
+"total":1062
 }
 ],
 "package":"plncpro",
@@ -1083,6 +1087,15 @@
 {
 "basename":"plncpro-1.2.2-py39hcf0ab7e_2.tar.bz2",
 "total":342
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"plncpro-1.2.2-py39hcf0ab7e_2.tar.bz2",
+"total":344
 }
 ]
 }

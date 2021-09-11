@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-multtest-2.46.0-r40hd029910_1.tar.bz2",
-"total":981
+"total":982
 },
 {
 "basename":"bioconductor-multtest-2.46.0-r40h037d062_0.tar.bz2",
@@ -442,6 +442,10 @@
 {
 "date":"2021-09-10",
 "total":2027
+},
+{
+"date":"2021-09-11",
+"total":2028
 }
 ],
 "package":"bioconductor-multtest",
@@ -941,6 +945,15 @@
 {
 "basename":"bioconductor-multtest-2.46.0-r40hd029910_1.tar.bz2",
 "total":981
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-multtest-2.46.0-r40hd029910_1.tar.bz2",
+"total":982
 }
 ]
 }

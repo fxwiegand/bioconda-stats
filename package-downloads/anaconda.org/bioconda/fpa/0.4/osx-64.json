@@ -7,7 +7,7 @@
 },
 {
 "basename":"fpa-0.4-hc96d2fc_5.tar.bz2",
-"total":346
+"total":348
 },
 {
 "basename":"fpa-0.4-hc0dd922_4.tar.bz2",
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-10",
 "total":1992
+},
+{
+"date":"2021-09-11",
+"total":1994
 }
 ],
 "package":"fpa",
@@ -1031,6 +1035,15 @@
 {
 "basename":"fpa-0.4-hc96d2fc_5.tar.bz2",
 "total":346
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"fpa-0.4-hc96d2fc_5.tar.bz2",
+"total":348
 }
 ]
 }

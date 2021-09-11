@@ -23,7 +23,7 @@
 },
 {
 "basename":"homer-4.9.1-pl5.22.0_5.tar.bz2",
-"total":2183
+"total":2184
 },
 {
 "basename":"homer-4.9.1-pl526h2d50403_6.tar.bz2",
@@ -370,6 +370,10 @@
 {
 "date":"2021-09-10",
 "total":8531
+},
+{
+"date":"2021-09-11",
+"total":8532
 }
 ],
 "package":"homer",
@@ -1005,6 +1009,15 @@
 {
 "basename":"homer-4.9.1-pl526h2d50403_6.tar.bz2",
 "total":4061
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"homer-4.9.1-pl5.22.0_5.tar.bz2",
+"total":2184
 }
 ]
 }

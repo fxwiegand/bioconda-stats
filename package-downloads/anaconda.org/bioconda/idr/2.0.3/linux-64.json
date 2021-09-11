@@ -31,7 +31,7 @@
 },
 {
 "basename":"idr-2.0.3-py36h24bf2e0_5.tar.bz2",
-"total":982
+"total":983
 },
 {
 "basename":"idr-2.0.3-py36_4.tar.bz2",
@@ -234,6 +234,10 @@
 {
 "date":"2021-09-10",
 "total":7763
+},
+{
+"date":"2021-09-11",
+"total":7764
 }
 ],
 "package":"idr",
@@ -702,6 +706,15 @@
 {
 "basename":"idr-2.0.3-py35_4.tar.bz2",
 "total":1803
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"idr-2.0.3-py36h24bf2e0_5.tar.bz2",
+"total":983
 }
 ]
 }

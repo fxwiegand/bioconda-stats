@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-unicode-normalize-1.26-pl526h2d50403_0.tar.bz2",
-"total":1972
+"total":1974
 }
 ],
 "downloads_per_date":[
@@ -446,6 +446,10 @@
 {
 "date":"2021-09-10",
 "total":2019
+},
+{
+"date":"2021-09-11",
+"total":2021
 }
 ],
 "package":"perl-unicode-normalize",
@@ -1007,6 +1011,15 @@
 {
 "basename":"perl-unicode-normalize-1.26-pl526h2d50403_0.tar.bz2",
 "total":1972
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"perl-unicode-normalize-1.26-pl526h2d50403_0.tar.bz2",
+"total":1974
 }
 ]
 }

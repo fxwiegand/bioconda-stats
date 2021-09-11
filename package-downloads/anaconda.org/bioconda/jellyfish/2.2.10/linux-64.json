@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"jellyfish-2.2.10-h6bb024c_1.tar.bz2",
-"total":6828
+"total":6829
 },
 {
 "basename":"jellyfish-2.2.10-h2d50403_0.tar.bz2",
@@ -446,6 +446,10 @@
 {
 "date":"2021-09-10",
 "total":14892
+},
+{
+"date":"2021-09-11",
+"total":14893
 }
 ],
 "package":"jellyfish",
@@ -1123,6 +1127,15 @@
 {
 "basename":"jellyfish-2.2.10-h6bb024c_1.tar.bz2",
 "total":6828
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"jellyfish-2.2.10-h6bb024c_1.tar.bz2",
+"total":6829
 }
 ]
 }

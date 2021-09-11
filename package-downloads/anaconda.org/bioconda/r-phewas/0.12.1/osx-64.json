@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-phewas-0.12.1-r41hdf91801_3.tar.bz2",
-"total":211
+"total":213
 },
 {
 "basename":"r-phewas-0.12.1-r40h1ddc27c_1.tar.bz2",
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-10",
 "total":2018
+},
+{
+"date":"2021-09-11",
+"total":2020
 }
 ],
 "package":"r-phewas",
@@ -1035,6 +1039,15 @@
 {
 "basename":"r-phewas-0.12.1-r41hdf91801_3.tar.bz2",
 "total":211
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"r-phewas-0.12.1-r41hdf91801_3.tar.bz2",
+"total":213
 }
 ]
 }

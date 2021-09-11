@@ -15,7 +15,7 @@
 },
 {
 "basename":"perl-digest-hmac-1.03-pl526_3.tar.bz2",
-"total":9964
+"total":9981
 }
 ],
 "downloads_per_date":[
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-10",
 "total":15491
+},
+{
+"date":"2021-09-11",
+"total":15508
 }
 ],
 "package":"perl-digest-hmac",
@@ -1128,6 +1132,15 @@
 {
 "basename":"perl-digest-hmac-1.03-pl526_3.tar.bz2",
 "total":9964
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"perl-digest-hmac-1.03-pl526_3.tar.bz2",
+"total":9981
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"vsearch-2.6.0-0.tar.bz2",
-"total":8328
+"total":8329
 }
 ],
 "downloads_per_date":[
@@ -154,6 +154,10 @@
 {
 "date":"2021-09-10",
 "total":9391
+},
+{
+"date":"2021-09-11",
+"total":9392
 }
 ],
 "package":"vsearch",
@@ -341,6 +345,15 @@
 {
 "basename":"vsearch-2.6.0-0.tar.bz2",
 "total":8328
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"vsearch-2.6.0-0.tar.bz2",
+"total":8329
 }
 ]
 }

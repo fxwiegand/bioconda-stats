@@ -7,7 +7,7 @@
 },
 {
 "basename":"varscan-2.3.7-hdfd78af_4.tar.bz2",
-"total":129
+"total":130
 },
 {
 "basename":"varscan-2.3.7-2.tar.bz2",
@@ -402,6 +402,10 @@
 {
 "date":"2021-09-10",
 "total":407
+},
+{
+"date":"2021-09-11",
+"total":408
 }
 ],
 "package":"varscan",
@@ -1015,6 +1019,15 @@
 {
 "basename":"varscan-2.3.7-2.tar.bz2",
 "total":185
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"varscan-2.3.7-hdfd78af_4.tar.bz2",
+"total":130
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-archive-tar-2.32-pl526_0.tar.bz2",
-"total":132311
+"total":132668
 }
 ],
 "downloads_per_date":[
@@ -442,6 +442,10 @@
 {
 "date":"2021-09-10",
 "total":132311
+},
+{
+"date":"2021-09-11",
+"total":132668
 }
 ],
 "package":"perl-archive-tar",
@@ -992,6 +996,15 @@
 {
 "basename":"perl-archive-tar-2.32-pl526_0.tar.bz2",
 "total":132311
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"perl-archive-tar-2.32-pl526_0.tar.bz2",
+"total":132668
 }
 ]
 }

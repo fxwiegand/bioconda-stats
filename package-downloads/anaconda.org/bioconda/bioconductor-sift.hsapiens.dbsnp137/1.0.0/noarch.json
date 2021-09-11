@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-sift.hsapiens.dbsnp137-1.0.0-r41hdfd78af_7.tar.bz2",
-"total":125
+"total":126
 },
 {
 "basename":"bioconductor-sift.hsapiens.dbsnp137-1.0.0-r351_0.tar.bz2",
@@ -426,6 +426,10 @@
 {
 "date":"2021-09-10",
 "total":590
+},
+{
+"date":"2021-09-11",
+"total":591
 }
 ],
 "package":"bioconductor-sift.hsapiens.dbsnp137",
@@ -1123,6 +1127,15 @@
 {
 "basename":"bioconductor-sift.hsapiens.dbsnp137-1.0.0-r41hdfd78af_7.tar.bz2",
 "total":125
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-sift.hsapiens.dbsnp137-1.0.0-r41hdfd78af_7.tar.bz2",
+"total":126
 }
 ]
 }

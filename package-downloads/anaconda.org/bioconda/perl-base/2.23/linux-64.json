@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-base-2.23-pl526_1.tar.bz2",
-"total":143978
+"total":144029
 }
 ],
 "downloads_per_date":[
@@ -446,6 +446,10 @@
 {
 "date":"2021-09-10",
 "total":145840
+},
+{
+"date":"2021-09-11",
+"total":145891
 }
 ],
 "package":"perl-base",
@@ -1020,6 +1024,15 @@
 {
 "basename":"perl-base-2.23-pl526_1.tar.bz2",
 "total":143978
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"perl-base-2.23-pl526_1.tar.bz2",
+"total":144029
 }
 ]
 }

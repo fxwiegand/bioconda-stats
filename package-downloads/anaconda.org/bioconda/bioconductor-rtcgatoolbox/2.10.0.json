@@ -436,6 +436,10 @@
 {
 "date":"2021-09-10",
 "total":2525
+},
+{
+"date":"2021-09-11",
+"total":2527
 }
 ],
 "downloads_per_subdir":[
@@ -445,7 +449,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2022
+"total":2024
 }
 ],
 "package":"bioconductor-rtcgatoolbox",
@@ -1031,6 +1035,15 @@
 {
 "subdir":"osx-64",
 "total":2022
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2024
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"art-3.11.14-1.tar.bz2",
-"total":2014
+"total":2016
 }
 ],
 "downloads_per_date":[
@@ -446,6 +446,10 @@
 {
 "date":"2021-09-10",
 "total":2233
+},
+{
+"date":"2021-09-11",
+"total":2235
 }
 ],
 "package":"art",
@@ -1007,6 +1011,15 @@
 {
 "basename":"art-3.11.14-1.tar.bz2",
 "total":2014
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"art-3.11.14-1.tar.bz2",
+"total":2016
 }
 ]
 }

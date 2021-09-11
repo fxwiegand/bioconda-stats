@@ -11,7 +11,7 @@
 },
 {
 "basename":"disco-1.2-hfd59bb5_4.tar.bz2",
-"total":315
+"total":317
 },
 {
 "basename":"disco-1.2-1.tar.bz2",
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-10",
 "total":2022
+},
+{
+"date":"2021-09-11",
+"total":2024
 }
 ],
 "package":"disco",
@@ -1027,6 +1031,15 @@
 {
 "basename":"disco-1.2-hfd59bb5_4.tar.bz2",
 "total":315
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"disco-1.2-hfd59bb5_4.tar.bz2",
+"total":317
 }
 ]
 }

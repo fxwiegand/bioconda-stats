@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-bsgenome.mmusculus.ucsc.mm9-1.4.0-r41hdfd78af_12.tar.bz2",
-"total":156
+"total":157
 },
 {
 "basename":"bioconductor-bsgenome.mmusculus.ucsc.mm9-1.4.0-r351_5.tar.bz2",
@@ -418,6 +418,10 @@
 {
 "date":"2021-09-10",
 "total":735
+},
+{
+"date":"2021-09-11",
+"total":736
 }
 ],
 "package":"bioconductor-bsgenome.mmusculus.ucsc.mm9",
@@ -1171,6 +1175,15 @@
 {
 "basename":"bioconductor-bsgenome.mmusculus.ucsc.mm9-1.4.0-r41hdfd78af_12.tar.bz2",
 "total":156
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bsgenome.mmusculus.ucsc.mm9-1.4.0-r41hdfd78af_12.tar.bz2",
+"total":157
 }
 ]
 }

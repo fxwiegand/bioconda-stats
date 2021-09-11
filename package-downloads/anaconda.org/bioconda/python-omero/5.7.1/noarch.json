@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"python-omero-5.7.1-py_0.tar.bz2",
-"total":641
+"total":642
 }
 ],
 "downloads_per_date":[
@@ -414,6 +414,10 @@
 {
 "date":"2021-09-10",
 "total":641
+},
+{
+"date":"2021-09-11",
+"total":642
 }
 ],
 "package":"python-omero",
@@ -964,6 +968,15 @@
 {
 "basename":"python-omero-5.7.1-py_0.tar.bz2",
 "total":641
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"python-omero-5.7.1-py_0.tar.bz2",
+"total":642
 }
 ]
 }

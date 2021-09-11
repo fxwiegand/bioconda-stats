@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"aria2-1.23.0-0.tar.bz2",
-"total":4209
+"total":4213
 }
 ],
 "downloads_per_date":[
@@ -442,6 +442,10 @@
 {
 "date":"2021-09-10",
 "total":4209
+},
+{
+"date":"2021-09-11",
+"total":4213
 }
 ],
 "package":"aria2",
@@ -992,6 +996,15 @@
 {
 "basename":"aria2-1.23.0-0.tar.bz2",
 "total":4209
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"aria2-1.23.0-0.tar.bz2",
+"total":4213
 }
 ]
 }

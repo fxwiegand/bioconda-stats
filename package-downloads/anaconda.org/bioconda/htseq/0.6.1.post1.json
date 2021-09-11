@@ -436,6 +436,10 @@
 {
 "date":"2021-09-10",
 "total":1037
+},
+{
+"date":"2021-09-11",
+"total":1039
 }
 ],
 "downloads_per_subdir":[
@@ -445,7 +449,7 @@
 },
 {
 "subdir":"osx-64",
-"total":834
+"total":836
 }
 ],
 "package":"htseq",
@@ -1091,6 +1095,15 @@
 {
 "subdir":"osx-64",
 "total":834
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":836
 }
 ]
 }

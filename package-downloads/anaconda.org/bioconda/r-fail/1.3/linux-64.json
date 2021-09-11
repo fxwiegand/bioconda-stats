@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-fail-1.3-r3.2.2_0.tar.bz2",
-"total":930
+"total":931
 }
 ],
 "downloads_per_date":[
@@ -158,6 +158,10 @@
 {
 "date":"2021-09-10",
 "total":2470
+},
+{
+"date":"2021-09-11",
+"total":2471
 }
 ],
 "package":"r-fail",
@@ -343,6 +347,15 @@
 {
 "basename":"r-fail-1.3-r3.3.2_0.tar.bz2",
 "total":862
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"r-fail-1.3-r3.2.2_0.tar.bz2",
+"total":931
 }
 ]
 }

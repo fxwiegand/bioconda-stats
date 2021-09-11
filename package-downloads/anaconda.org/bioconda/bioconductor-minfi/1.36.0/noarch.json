@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-minfi-1.36.0-r40hdfd78af_1.tar.bz2",
-"total":307
+"total":308
 },
 {
 "basename":"bioconductor-minfi-1.36.0-r40_0.tar.bz2",
@@ -442,6 +442,10 @@
 {
 "date":"2021-09-10",
 "total":692
+},
+{
+"date":"2021-09-11",
+"total":693
 }
 ],
 "package":"bioconductor-minfi",
@@ -1019,6 +1023,15 @@
 {
 "basename":"bioconductor-minfi-1.36.0-r40_0.tar.bz2",
 "total":385
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-minfi-1.36.0-r40hdfd78af_1.tar.bz2",
+"total":308
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-uri-1.71-pl526_3.tar.bz2",
-"total":1910
+"total":1912
 },
 {
 "basename":"perl-uri-1.71-0.tar.bz2",
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-10",
 "total":5983
+},
+{
+"date":"2021-09-11",
+"total":5985
 }
 ],
 "package":"perl-uri",
@@ -1071,6 +1075,15 @@
 {
 "basename":"perl-uri-1.71-pl526_3.tar.bz2",
 "total":1910
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"perl-uri-1.71-pl526_3.tar.bz2",
+"total":1912
 }
 ]
 }

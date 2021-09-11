@@ -7,7 +7,7 @@
 },
 {
 "basename":"ruby-2.2.3-0.tar.bz2",
-"total":8216
+"total":8217
 }
 ],
 "downloads_per_date":[
@@ -386,6 +386,10 @@
 {
 "date":"2021-09-10",
 "total":9924
+},
+{
+"date":"2021-09-11",
+"total":9925
 }
 ],
 "package":"ruby",
@@ -802,6 +806,15 @@
 {
 "basename":"ruby-2.2.3-0.tar.bz2",
 "total":8216
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"ruby-2.2.3-0.tar.bz2",
+"total":8217
 }
 ]
 }

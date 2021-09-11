@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-output-1.031-pl526_0.tar.bz2",
-"total":1149
+"total":1150
 }
 ],
 "downloads_per_date":[
@@ -354,6 +354,10 @@
 {
 "date":"2021-09-10",
 "total":1149
+},
+{
+"date":"2021-09-11",
+"total":1150
 }
 ],
 "package":"perl-test-output",
@@ -697,6 +701,15 @@
 {
 "basename":"perl-test-output-1.031-pl526_0.tar.bz2",
 "total":1149
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"perl-test-output-1.031-pl526_0.tar.bz2",
+"total":1150
 }
 ]
 }

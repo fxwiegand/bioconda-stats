@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-mafdb.gnomadex.r2.1.grch38-3.10.0-r41hdfd78af_4.tar.bz2",
-"total":121
+"total":122
 }
 ],
 "downloads_per_date":[
@@ -418,6 +418,10 @@
 {
 "date":"2021-09-10",
 "total":314
+},
+{
+"date":"2021-09-11",
+"total":315
 }
 ],
 "package":"bioconductor-mafdb.gnomadex.r2.1.grch38",
@@ -1082,6 +1086,15 @@
 {
 "basename":"bioconductor-mafdb.gnomadex.r2.1.grch38-3.10.0-r41hdfd78af_4.tar.bz2",
 "total":121
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mafdb.gnomadex.r2.1.grch38-3.10.0-r41hdfd78af_4.tar.bz2",
+"total":122
 }
 ]
 }

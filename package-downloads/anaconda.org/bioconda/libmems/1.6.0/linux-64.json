@@ -7,7 +7,7 @@
 },
 {
 "basename":"libmems-1.6.0-hee3b9ab_3.tar.bz2",
-"total":854
+"total":856
 },
 {
 "basename":"libmems-1.6.0-h78a066a_2.tar.bz2",
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-10",
 "total":5555
+},
+{
+"date":"2021-09-11",
+"total":5557
 }
 ],
 "package":"libmems",
@@ -1204,6 +1208,15 @@
 {
 "basename":"libmems-1.6.0-h78a066a_2.tar.bz2",
 "total":1539
+}
+]
+},
+{
+"date":"2021-09-11",
+"downloads_per_basename":[
+{
+"basename":"libmems-1.6.0-hee3b9ab_3.tar.bz2",
+"total":856
 }
 ]
 }
