@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"variabel-1.0.0-hdfd78af_0.tar.bz2",
-"total":41
+"total":42
 }
 ],
 "downloads_per_date":[
@@ -122,6 +122,10 @@
 {
 "date":"2021-09-11",
 "total":41
+},
+{
+"date":"2021-09-12",
+"total":42
 }
 ],
 "package":"variabel",
@@ -384,6 +388,15 @@
 {
 "basename":"variabel-1.0.0-hdfd78af_0.tar.bz2",
 "total":41
+}
+]
+},
+{
+"date":"2021-09-12",
+"downloads_per_basename":[
+{
+"basename":"variabel-1.0.0-hdfd78af_0.tar.bz2",
+"total":42
 }
 ]
 }

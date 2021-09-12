@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-test-deep-1.120-1.tar.bz2",
-"total":5518
+"total":5519
 }
 ],
 "downloads_per_date":[
@@ -246,6 +246,10 @@
 {
 "date":"2021-09-11",
 "total":9885
+},
+{
+"date":"2021-09-12",
+"total":9886
 }
 ],
 "package":"perl-test-deep",
@@ -468,6 +472,15 @@
 {
 "basename":"perl-test-deep-1.120-1.tar.bz2",
 "total":5518
+}
+]
+},
+{
+"date":"2021-09-12",
+"downloads_per_basename":[
+{
+"basename":"perl-test-deep-1.120-1.tar.bz2",
+"total":5519
 }
 ]
 }

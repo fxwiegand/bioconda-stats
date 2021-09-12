@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-module-corelist-5.20180120-0.tar.bz2",
-"total":318
+"total":319
 },
 {
 "basename":"perl-module-corelist-5.20180120-pl526_1.tar.bz2",
@@ -94,6 +94,10 @@
 {
 "date":"2021-09-11",
 "total":1365
+},
+{
+"date":"2021-09-12",
+"total":1366
 }
 ],
 "package":"perl-module-corelist",
@@ -218,6 +222,15 @@
 {
 "basename":"perl-module-corelist-5.20180120-pl526_1.tar.bz2",
 "total":1047
+}
+]
+},
+{
+"date":"2021-09-12",
+"downloads_per_basename":[
+{
+"basename":"perl-module-corelist-5.20180120-0.tar.bz2",
+"total":319
 }
 ]
 }

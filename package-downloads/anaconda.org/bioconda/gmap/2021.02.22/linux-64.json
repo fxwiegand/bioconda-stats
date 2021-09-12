@@ -7,7 +7,7 @@
 },
 {
 "basename":"gmap-2021.02.22-pl5262h36cd882_1.tar.bz2",
-"total":160
+"total":161
 },
 {
 "basename":"gmap-2021.02.22-pl526h2f06484_0.tar.bz2",
@@ -330,6 +330,10 @@
 {
 "date":"2021-09-11",
 "total":1301
+},
+{
+"date":"2021-09-12",
+"total":1302
 }
 ],
 "package":"gmap",
@@ -704,6 +708,15 @@
 {
 "basename":"gmap-2021.02.22-pl526h2f06484_0.tar.bz2",
 "total":991
+}
+]
+},
+{
+"date":"2021-09-12",
+"downloads_per_basename":[
+{
+"basename":"gmap-2021.02.22-pl5262h36cd882_1.tar.bz2",
+"total":161
 }
 ]
 }

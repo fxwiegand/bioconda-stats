@@ -19,7 +19,7 @@
 },
 {
 "basename":"pygenometracks-2.0-py27_0.tar.bz2",
-"total":231
+"total":232
 },
 {
 "basename":"pygenometracks-2.0-py36_0.tar.bz2",
@@ -182,6 +182,10 @@
 {
 "date":"2021-09-11",
 "total":1419
+},
+{
+"date":"2021-09-12",
+"total":1420
 }
 ],
 "package":"pygenometracks",
@@ -474,6 +478,15 @@
 {
 "basename":"pygenometracks-2.0-py36_1.tar.bz2",
 "total":307
+}
+]
+},
+{
+"date":"2021-09-12",
+"downloads_per_basename":[
+{
+"basename":"pygenometracks-2.0-py27_0.tar.bz2",
+"total":232
 }
 ]
 }

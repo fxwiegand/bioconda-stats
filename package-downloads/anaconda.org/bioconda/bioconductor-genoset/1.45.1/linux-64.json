@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-genoset-1.45.1-r40hd029910_1.tar.bz2",
-"total":45
+"total":46
 },
 {
 "basename":"bioconductor-genoset-1.45.1-r40h037d062_0.tar.bz2",
@@ -122,6 +122,10 @@
 {
 "date":"2021-09-11",
 "total":101
+},
+{
+"date":"2021-09-12",
+"total":102
 }
 ],
 "package":"bioconductor-genoset",
@@ -268,6 +272,15 @@
 {
 "basename":"bioconductor-genoset-1.45.1-r40h037d062_0.tar.bz2",
 "total":56
+}
+]
+},
+{
+"date":"2021-09-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-genoset-1.45.1-r40hd029910_1.tar.bz2",
+"total":46
 }
 ]
 }
