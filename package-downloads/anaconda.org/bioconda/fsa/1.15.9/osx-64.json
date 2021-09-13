@@ -7,7 +7,7 @@
 },
 {
 "basename":"fsa-1.15.9-hfd59bb5_2.tar.bz2",
-"total":353
+"total":355
 },
 {
 "basename":"fsa-1.15.9-hd9629dc_0.tar.bz2",
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-12",
 "total":1804
+},
+{
+"date":"2021-09-13",
+"total":1806
 }
 ],
 "package":"fsa",
@@ -1040,6 +1044,15 @@
 {
 "basename":"fsa-1.15.9-hfd59bb5_2.tar.bz2",
 "total":353
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"fsa-1.15.9-hfd59bb5_2.tar.bz2",
+"total":355
 }
 ]
 }

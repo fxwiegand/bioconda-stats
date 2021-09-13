@@ -11,7 +11,7 @@
 },
 {
 "basename":"kraken-0.10.5beta-pl526_2.tar.bz2",
-"total":2011
+"total":2013
 }
 ],
 "downloads_per_date":[
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-12",
 "total":4477
+},
+{
+"date":"2021-09-13",
+"total":4479
 }
 ],
 "package":"kraken",
@@ -1076,6 +1080,15 @@
 {
 "basename":"kraken-0.10.5beta-pl526_2.tar.bz2",
 "total":2011
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"kraken-0.10.5beta-pl526_2.tar.bz2",
+"total":2013
 }
 ]
 }

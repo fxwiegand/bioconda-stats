@@ -7,7 +7,7 @@
 },
 {
 "basename":"matlock-20181227-hfce9115_1.tar.bz2",
-"total":756
+"total":758
 },
 {
 "basename":"matlock-20181227-hd02f7ee_0.tar.bz2",
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-12",
 "total":2017
+},
+{
+"date":"2021-09-13",
+"total":2019
 }
 ],
 "package":"matlock",
@@ -1040,6 +1044,15 @@
 {
 "basename":"matlock-20181227-hfce9115_1.tar.bz2",
 "total":756
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"matlock-20181227-hfce9115_1.tar.bz2",
+"total":758
 }
 ]
 }

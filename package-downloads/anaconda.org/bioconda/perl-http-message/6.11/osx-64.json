@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-http-message-6.11-pl526_1.tar.bz2",
-"total":1899
+"total":1902
 },
 {
 "basename":"perl-http-message-6.11-0.tar.bz2",
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-12",
 "total":5603
+},
+{
+"date":"2021-09-13",
+"total":5606
 }
 ],
 "package":"perl-http-message",
@@ -1064,6 +1068,15 @@
 {
 "basename":"perl-http-message-6.11-0.tar.bz2",
 "total":3704
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"perl-http-message-6.11-pl526_1.tar.bz2",
+"total":1902
 }
 ]
 }

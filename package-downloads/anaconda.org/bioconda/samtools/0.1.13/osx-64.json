@@ -11,7 +11,7 @@
 },
 {
 "basename":"samtools-0.1.13-hdd8ed8b_2.tar.bz2",
-"total":1793
+"total":1795
 }
 ],
 "downloads_per_date":[
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-12",
 "total":2077
+},
+{
+"date":"2021-09-13",
+"total":2079
 }
 ],
 "package":"samtools",
@@ -1068,6 +1072,15 @@
 {
 "basename":"samtools-0.1.13-hdd8ed8b_2.tar.bz2",
 "total":1793
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"samtools-0.1.13-hdd8ed8b_2.tar.bz2",
+"total":1795
 }
 ]
 }

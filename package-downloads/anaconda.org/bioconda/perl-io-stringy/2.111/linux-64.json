@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-io-stringy-2.111-pl526_1.tar.bz2",
-"total":59713
+"total":59725
 }
 ],
 "downloads_per_date":[
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-12",
 "total":72691
+},
+{
+"date":"2021-09-13",
+"total":72703
 }
 ],
 "package":"perl-io-stringy",
@@ -1141,6 +1145,15 @@
 {
 "basename":"perl-io-stringy-2.111-pl526_1.tar.bz2",
 "total":59713
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"perl-io-stringy-2.111-pl526_1.tar.bz2",
+"total":59725
 }
 ]
 }

@@ -444,6 +444,10 @@
 {
 "date":"2021-09-12",
 "total":2594
+},
+{
+"date":"2021-09-13",
+"total":2596
 }
 ],
 "downloads_per_subdir":[
@@ -453,7 +457,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1988
+"total":1990
 }
 ],
 "package":"bioconductor-recoup",
@@ -1040,6 +1044,15 @@
 {
 "subdir":"osx-64",
 "total":1988
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1990
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"nextflow-20.04.1-hecda079_1.tar.bz2",
-"total":2049
+"total":2051
 },
 {
 "basename":"nextflow-20.04.1-hecc5488_0.tar.bz2",
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-12",
 "total":4600
+},
+{
+"date":"2021-09-13",
+"total":4602
 }
 ],
 "package":"nextflow",
@@ -1185,6 +1189,15 @@
 {
 "basename":"nextflow-20.04.1-hecda079_1.tar.bz2",
 "total":2049
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"nextflow-20.04.1-hecda079_1.tar.bz2",
+"total":2051
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"quast-4.4-boost1.61_1.tar.bz2",
-"total":1924
+"total":1926
 }
 ],
 "downloads_per_date":[
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-12",
 "total":2304
+},
+{
+"date":"2021-09-13",
+"total":2306
 }
 ],
 "package":"quast",
@@ -1040,6 +1044,15 @@
 {
 "basename":"quast-4.4-boost1.61_1.tar.bz2",
 "total":1924
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"quast-4.4-boost1.61_1.tar.bz2",
+"total":1926
 }
 ]
 }

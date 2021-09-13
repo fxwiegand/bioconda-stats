@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-all-1.18.0-r3.4.1_1.tar.bz2",
-"total":1898
+"total":1900
 }
 ],
 "downloads_per_date":[
@@ -462,6 +462,10 @@
 {
 "date":"2021-09-12",
 "total":2214
+},
+{
+"date":"2021-09-13",
+"total":2216
 }
 ],
 "package":"bioconductor-all",
@@ -1080,6 +1084,15 @@
 {
 "basename":"bioconductor-all-1.18.0-r3.4.1_1.tar.bz2",
 "total":1898
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-all-1.18.0-r3.4.1_1.tar.bz2",
+"total":1900
 }
 ]
 }

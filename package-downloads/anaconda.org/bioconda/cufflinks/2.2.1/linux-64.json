@@ -35,7 +35,7 @@
 },
 {
 "basename":"cufflinks-2.2.1-py27_2.tar.bz2",
-"total":14594
+"total":14596
 },
 {
 "basename":"cufflinks-2.2.1-py36_2.tar.bz2",
@@ -486,6 +486,10 @@
 {
 "date":"2021-09-12",
 "total":58828
+},
+{
+"date":"2021-09-13",
+"total":58830
 }
 ],
 "package":"cufflinks",
@@ -1584,6 +1588,15 @@
 {
 "basename":"cufflinks-2.2.1-py36_2.tar.bz2",
 "total":26840
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"cufflinks-2.2.1-py27_2.tar.bz2",
+"total":14596
 }
 ]
 }

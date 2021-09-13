@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-bigbedtobed-357-1.tar.bz2",
-"total":4082
+"total":4083
 }
 ],
 "downloads_per_date":[
@@ -374,6 +374,10 @@
 {
 "date":"2021-09-12",
 "total":5409
+},
+{
+"date":"2021-09-13",
+"total":5410
 }
 ],
 "package":"ucsc-bigbedtobed",
@@ -745,6 +749,15 @@
 {
 "basename":"ucsc-bigbedtobed-357-1.tar.bz2",
 "total":4082
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bigbedtobed-357-1.tar.bz2",
+"total":4083
 }
 ]
 }

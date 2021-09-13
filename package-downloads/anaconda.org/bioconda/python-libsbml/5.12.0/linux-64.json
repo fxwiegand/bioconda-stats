@@ -35,7 +35,7 @@
 },
 {
 "basename":"python-libsbml-5.12.0-py36h05497bb_2.tar.bz2",
-"total":2020
+"total":2022
 }
 ],
 "downloads_per_date":[
@@ -482,6 +482,10 @@
 {
 "date":"2021-09-12",
 "total":6368
+},
+{
+"date":"2021-09-13",
+"total":6370
 }
 ],
 "package":"python-libsbml",
@@ -1272,6 +1276,15 @@
 {
 "basename":"python-libsbml-5.12.0-py36h05497bb_2.tar.bz2",
 "total":2020
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"python-libsbml-5.12.0-py36h05497bb_2.tar.bz2",
+"total":2022
 }
 ]
 }

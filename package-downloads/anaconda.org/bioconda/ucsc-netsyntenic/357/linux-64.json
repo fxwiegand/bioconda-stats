@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-netsyntenic-357-1.tar.bz2",
-"total":2010
+"total":2012
 }
 ],
 "downloads_per_date":[
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-12",
 "total":2814
+},
+{
+"date":"2021-09-13",
+"total":2816
 }
 ],
 "package":"ucsc-netsyntenic",
@@ -1036,6 +1040,15 @@
 {
 "basename":"ucsc-netsyntenic-357-1.tar.bz2",
 "total":2010
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"ucsc-netsyntenic-357-1.tar.bz2",
+"total":2012
 }
 ]
 }

@@ -444,6 +444,10 @@
 {
 "date":"2021-09-12",
 "total":950
+},
+{
+"date":"2021-09-13",
+"total":953
 }
 ],
 "downloads_per_subdir":[
@@ -453,7 +457,7 @@
 },
 {
 "subdir":"osx-64",
-"total":676
+"total":679
 }
 ],
 "package":"bioconductor-ebimage",
@@ -1076,6 +1080,15 @@
 {
 "subdir":"osx-64",
 "total":676
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":679
 }
 ]
 }

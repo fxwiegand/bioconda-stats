@@ -7,7 +7,7 @@
 },
 {
 "basename":"shortstack-3.8.5-hdfd78af_4.tar.bz2",
-"total":143
+"total":144
 },
 {
 "basename":"shortstack-3.8.5-2.tar.bz2",
@@ -446,6 +446,10 @@
 {
 "date":"2021-09-12",
 "total":421
+},
+{
+"date":"2021-09-13",
+"total":422
 }
 ],
 "package":"shortstack",
@@ -1072,6 +1076,15 @@
 {
 "basename":"shortstack-3.8.5-2.tar.bz2",
 "total":212
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"shortstack-3.8.5-hdfd78af_4.tar.bz2",
+"total":144
 }
 ]
 }

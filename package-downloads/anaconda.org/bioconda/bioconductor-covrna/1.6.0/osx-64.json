@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-covrna-1.6.0-r351_0.tar.bz2",
-"total":1898
+"total":1900
 }
 ],
 "downloads_per_date":[
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-12",
 "total":2021
+},
+{
+"date":"2021-09-13",
+"total":2023
 }
 ],
 "package":"bioconductor-covrna",
@@ -1020,6 +1024,15 @@
 {
 "basename":"bioconductor-covrna-1.6.0-r351_0.tar.bz2",
 "total":1898
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-covrna-1.6.0-r351_0.tar.bz2",
+"total":1900
 }
 ]
 }

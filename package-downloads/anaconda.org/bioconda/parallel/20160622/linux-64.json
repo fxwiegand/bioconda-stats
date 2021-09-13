@@ -11,7 +11,7 @@
 },
 {
 "basename":"parallel-20160622-1.tar.bz2",
-"total":28846
+"total":28850
 }
 ],
 "downloads_per_date":[
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-12",
 "total":35529
+},
+{
+"date":"2021-09-13",
+"total":35533
 }
 ],
 "package":"parallel",
@@ -1113,6 +1117,15 @@
 {
 "basename":"parallel-20160622-1.tar.bz2",
 "total":28846
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"parallel-20160622-1.tar.bz2",
+"total":28850
 }
 ]
 }

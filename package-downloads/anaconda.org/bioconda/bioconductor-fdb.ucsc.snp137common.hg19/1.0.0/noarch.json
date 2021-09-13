@@ -27,7 +27,7 @@
 },
 {
 "basename":"bioconductor-fdb.ucsc.snp137common.hg19-1.0.0-r41hdfd78af_7.tar.bz2",
-"total":124
+"total":125
 }
 ],
 "downloads_per_date":[
@@ -426,6 +426,10 @@
 {
 "date":"2021-09-12",
 "total":514
+},
+{
+"date":"2021-09-13",
+"total":515
 }
 ],
 "package":"bioconductor-fdb.ucsc.snp137common.hg19",
@@ -1116,6 +1120,15 @@
 {
 "basename":"bioconductor-fdb.ucsc.snp137common.hg19-1.0.0-r41hdfd78af_7.tar.bz2",
 "total":124
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-fdb.ucsc.snp137common.hg19-1.0.0-r41hdfd78af_7.tar.bz2",
+"total":125
 }
 ]
 }

@@ -23,7 +23,7 @@
 },
 {
 "basename":"perl-bio-db-hts-2.7-pl526h9b5635b_2.tar.bz2",
-"total":2535
+"total":2537
 },
 {
 "basename":"perl-bio-db-hts-2.7-pl526h2f8a211_3.tar.bz2",
@@ -474,6 +474,10 @@
 {
 "date":"2021-09-12",
 "total":15418
+},
+{
+"date":"2021-09-13",
+"total":15420
 }
 ],
 "package":"perl-bio-db-hts",
@@ -1373,6 +1377,15 @@
 {
 "basename":"perl-bio-db-hts-2.7-pl526h2f8a211_3.tar.bz2",
 "total":5571
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"perl-bio-db-hts-2.7-pl526h9b5635b_2.tar.bz2",
+"total":2537
 }
 ]
 }

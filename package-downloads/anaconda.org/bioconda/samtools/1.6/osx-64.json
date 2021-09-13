@@ -23,7 +23,7 @@
 },
 {
 "basename":"samtools-1.6-hfe4c6a4_7.tar.bz2",
-"total":399
+"total":401
 },
 {
 "basename":"samtools-1.6-h7f425ee_3.tar.bz2",
@@ -478,6 +478,10 @@
 {
 "date":"2021-09-12",
 "total":5866
+},
+{
+"date":"2021-09-13",
+"total":5868
 }
 ],
 "package":"samtools",
@@ -1229,6 +1233,15 @@
 {
 "basename":"samtools-1.6-hfe4c6a4_7.tar.bz2",
 "total":399
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"samtools-1.6-hfe4c6a4_7.tar.bz2",
+"total":401
 }
 ]
 }

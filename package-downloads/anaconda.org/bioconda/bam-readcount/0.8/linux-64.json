@@ -39,7 +39,7 @@
 },
 {
 "basename":"bam-readcount-0.8-py36pl5.22.0_2.tar.bz2",
-"total":978
+"total":979
 },
 {
 "basename":"bam-readcount-0.8-py36pl526h94a8ba4_4.tar.bz2",
@@ -474,6 +474,10 @@
 {
 "date":"2021-09-12",
 "total":39259
+},
+{
+"date":"2021-09-13",
+"total":39260
 }
 ],
 "package":"bam-readcount",
@@ -1546,6 +1550,15 @@
 {
 "basename":"bam-readcount-0.8-py37pl526h94a8ba4_4.tar.bz2",
 "total":31298
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"bam-readcount-0.8-py36pl5.22.0_2.tar.bz2",
+"total":979
 }
 ]
 }

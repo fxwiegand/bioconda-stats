@@ -444,6 +444,10 @@
 {
 "date":"2021-09-12",
 "total":761
+},
+{
+"date":"2021-09-13",
+"total":763
 }
 ],
 "downloads_per_subdir":[
@@ -453,7 +457,7 @@
 },
 {
 "subdir":"osx-64",
-"total":655
+"total":657
 }
 ],
 "package":"bioconductor-rnadecay",
@@ -1048,6 +1052,15 @@
 {
 "subdir":"osx-64",
 "total":655
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":657
 }
 ]
 }

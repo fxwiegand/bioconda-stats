@@ -444,6 +444,10 @@
 {
 "date":"2021-09-12",
 "total":730
+},
+{
+"date":"2021-09-13",
+"total":732
 }
 ],
 "downloads_per_subdir":[
@@ -453,7 +457,7 @@
 },
 {
 "subdir":"osx-64",
-"total":643
+"total":645
 }
 ],
 "package":"bioconductor-cliquems",
@@ -1036,6 +1040,15 @@
 {
 "subdir":"osx-64",
 "total":643
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":645
 }
 ]
 }

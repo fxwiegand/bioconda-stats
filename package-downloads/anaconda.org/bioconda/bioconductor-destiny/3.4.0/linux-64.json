@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-destiny-3.4.0-r40h399db7b_1.tar.bz2",
-"total":103
+"total":104
 },
 {
 "basename":"bioconductor-destiny-3.4.0-r40h5f743cb_0.tar.bz2",
@@ -250,6 +250,10 @@
 {
 "date":"2021-09-12",
 "total":208
+},
+{
+"date":"2021-09-13",
+"total":209
 }
 ],
 "package":"bioconductor-destiny",
@@ -513,6 +517,15 @@
 {
 "basename":"bioconductor-destiny-3.4.0-r40h399db7b_1.tar.bz2",
 "total":103
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-destiny-3.4.0-r40h399db7b_1.tar.bz2",
+"total":104
 }
 ]
 }

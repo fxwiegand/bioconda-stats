@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-gtftogenepred-357-1.tar.bz2",
-"total":6366
+"total":6367
 }
 ],
 "downloads_per_date":[
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-12",
 "total":9338
+},
+{
+"date":"2021-09-13",
+"total":9339
 }
 ],
 "package":"ucsc-gtftogenepred",
@@ -1078,6 +1082,15 @@
 {
 "basename":"ucsc-gtftogenepred-357-1.tar.bz2",
 "total":6366
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"ucsc-gtftogenepred-357-1.tar.bz2",
+"total":6367
 }
 ]
 }

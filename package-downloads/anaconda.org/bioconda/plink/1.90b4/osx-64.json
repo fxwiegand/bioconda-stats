@@ -19,7 +19,7 @@
 },
 {
 "basename":"plink-1.90b4-he941832_2.tar.bz2",
-"total":2014
+"total":2016
 }
 ],
 "downloads_per_date":[
@@ -466,6 +466,10 @@
 {
 "date":"2021-09-12",
 "total":3048
+},
+{
+"date":"2021-09-13",
+"total":3050
 }
 ],
 "package":"plink",
@@ -1088,6 +1092,15 @@
 {
 "basename":"plink-1.90b4-he941832_2.tar.bz2",
 "total":2014
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"plink-1.90b4-he941832_2.tar.bz2",
+"total":2016
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-stepnorm-1.52.0-r351_0.tar.bz2",
-"total":1980
+"total":1982
 }
 ],
 "downloads_per_date":[
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-12",
 "total":2016
+},
+{
+"date":"2021-09-13",
+"total":2018
 }
 ],
 "package":"bioconductor-stepnorm",
@@ -1012,6 +1016,15 @@
 {
 "basename":"bioconductor-stepnorm-1.52.0-r351_0.tar.bz2",
 "total":1980
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-stepnorm-1.52.0-r351_0.tar.bz2",
+"total":1982
 }
 ]
 }

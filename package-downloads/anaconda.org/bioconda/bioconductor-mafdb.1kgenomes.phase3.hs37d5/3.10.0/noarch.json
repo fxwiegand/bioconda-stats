@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-mafdb.1kgenomes.phase3.hs37d5-3.10.0-r41hdfd78af_4.tar.bz2",
-"total":125
+"total":126
 }
 ],
 "downloads_per_date":[
@@ -418,6 +418,10 @@
 {
 "date":"2021-09-12",
 "total":380
+},
+{
+"date":"2021-09-13",
+"total":381
 }
 ],
 "package":"bioconductor-mafdb.1kgenomes.phase3.hs37d5",
@@ -1068,6 +1072,15 @@
 {
 "basename":"bioconductor-mafdb.1kgenomes.phase3.hs37d5-3.10.0-r41hdfd78af_4.tar.bz2",
 "total":125
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mafdb.1kgenomes.phase3.hs37d5-3.10.0-r41hdfd78af_4.tar.bz2",
+"total":126
 }
 ]
 }

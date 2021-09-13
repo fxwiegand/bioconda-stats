@@ -7,7 +7,7 @@
 },
 {
 "basename":"zerone-1.0-hbbe82c9_2.tar.bz2",
-"total":754
+"total":756
 },
 {
 "basename":"zerone-1.0-ha92aebf_1.tar.bz2",
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-12",
 "total":2015
+},
+{
+"date":"2021-09-13",
+"total":2017
 }
 ],
 "package":"zerone",
@@ -1036,6 +1040,15 @@
 {
 "basename":"zerone-1.0-hbbe82c9_2.tar.bz2",
 "total":754
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"zerone-1.0-hbbe82c9_2.tar.bz2",
+"total":756
 }
 ]
 }

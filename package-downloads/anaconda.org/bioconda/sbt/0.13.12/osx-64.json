@@ -7,7 +7,7 @@
 },
 {
 "basename":"sbt-0.13.12-1.tar.bz2",
-"total":2067
+"total":2070
 }
 ],
 "downloads_per_date":[
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-12",
 "total":2348
+},
+{
+"date":"2021-09-13",
+"total":2351
 }
 ],
 "package":"sbt",
@@ -1016,6 +1020,15 @@
 {
 "basename":"sbt-0.13.12-1.tar.bz2",
 "total":2067
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"sbt-0.13.12-1.tar.bz2",
+"total":2070
 }
 ]
 }

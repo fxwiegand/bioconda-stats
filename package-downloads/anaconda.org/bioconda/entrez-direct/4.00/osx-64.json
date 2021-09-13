@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"entrez-direct-4.00-1.tar.bz2",
-"total":3927
+"total":3932
 }
 ],
 "downloads_per_date":[
@@ -450,6 +450,10 @@
 {
 "date":"2021-09-12",
 "total":3927
+},
+{
+"date":"2021-09-13",
+"total":3932
 }
 ],
 "package":"entrez-direct",
@@ -1000,6 +1004,15 @@
 {
 "basename":"entrez-direct-4.00-1.tar.bz2",
 "total":3927
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"entrez-direct-4.00-1.tar.bz2",
+"total":3932
 }
 ]
 }

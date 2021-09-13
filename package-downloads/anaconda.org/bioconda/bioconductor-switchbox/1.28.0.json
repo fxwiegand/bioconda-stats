@@ -400,6 +400,10 @@
 {
 "date":"2021-09-12",
 "total":260
+},
+{
+"date":"2021-09-13",
+"total":262
 }
 ],
 "downloads_per_subdir":[
@@ -409,7 +413,7 @@
 },
 {
 "subdir":"osx-64",
-"total":226
+"total":228
 }
 ],
 "package":"bioconductor-switchbox",
@@ -1004,6 +1008,15 @@
 {
 "subdir":"osx-64",
 "total":226
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":228
 }
 ]
 }

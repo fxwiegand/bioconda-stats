@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-bigwigtobedgraph-377-h0b8a92a_5.tar.bz2",
-"total":392
+"total":393
 },
 {
 "basename":"ucsc-bigwigtobedgraph-377-hf46d3de_3.tar.bz2",
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-12",
 "total":4122
+},
+{
+"date":"2021-09-13",
+"total":4123
 }
 ],
 "package":"ucsc-bigwigtobedgraph",
@@ -1138,6 +1142,15 @@
 {
 "basename":"ucsc-bigwigtobedgraph-377-h0b8a92a_5.tar.bz2",
 "total":392
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bigwigtobedgraph-377-h0b8a92a_5.tar.bz2",
+"total":393
 }
 ]
 }

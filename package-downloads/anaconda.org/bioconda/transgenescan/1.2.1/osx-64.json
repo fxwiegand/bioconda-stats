@@ -7,7 +7,7 @@
 },
 {
 "basename":"transgenescan-1.2.1-hb4d813b_2.tar.bz2",
-"total":350
+"total":352
 },
 {
 "basename":"transgenescan-1.2.1-h470a237_0.tar.bz2",
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-12",
 "total":2016
+},
+{
+"date":"2021-09-13",
+"total":2018
 }
 ],
 "package":"transgenescan",
@@ -1024,6 +1028,15 @@
 {
 "basename":"transgenescan-1.2.1-hb4d813b_2.tar.bz2",
 "total":350
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"transgenescan-1.2.1-hb4d813b_2.tar.bz2",
+"total":352
 }
 ]
 }

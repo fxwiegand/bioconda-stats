@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-io-interactive-1.021-pl526h470a237_2.tar.bz2",
-"total":1886
+"total":1888
 },
 {
 "basename":"perl-io-interactive-1.021-1.tar.bz2",
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-12",
 "total":3905
+},
+{
+"date":"2021-09-13",
+"total":3907
 }
 ],
 "package":"perl-io-interactive",
@@ -1032,6 +1036,15 @@
 {
 "basename":"perl-io-interactive-1.021-1.tar.bz2",
 "total":2019
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"perl-io-interactive-1.021-pl526h470a237_2.tar.bz2",
+"total":1888
 }
 ]
 }

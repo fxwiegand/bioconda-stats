@@ -27,7 +27,7 @@
 },
 {
 "basename":"bioconductor-txdb.hsapiens.ucsc.hg19.knowngene-3.2.2-r351_3.tar.bz2",
-"total":1671
+"total":1672
 }
 ],
 "downloads_per_date":[
@@ -474,6 +474,10 @@
 {
 "date":"2021-09-12",
 "total":2585
+},
+{
+"date":"2021-09-13",
+"total":2586
 }
 ],
 "package":"bioconductor-txdb.hsapiens.ucsc.hg19.knowngene",
@@ -1108,6 +1112,15 @@
 {
 "basename":"bioconductor-txdb.hsapiens.ucsc.hg19.knowngene-3.2.2-r351_3.tar.bz2",
 "total":1671
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-txdb.hsapiens.ucsc.hg19.knowngene-3.2.2-r351_3.tar.bz2",
+"total":1672
 }
 ]
 }

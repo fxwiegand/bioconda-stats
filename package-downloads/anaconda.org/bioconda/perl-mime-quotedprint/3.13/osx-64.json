@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-mime-quotedprint-3.13-pl526_1.tar.bz2",
-"total":1810
+"total":1812
 }
 ],
 "downloads_per_date":[
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-12",
 "total":2021
+},
+{
+"date":"2021-09-13",
+"total":2023
 }
 ],
 "package":"perl-mime-quotedprint",
@@ -1012,6 +1016,15 @@
 {
 "basename":"perl-mime-quotedprint-3.13-pl526_1.tar.bz2",
 "total":1810
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"perl-mime-quotedprint-3.13-pl526_1.tar.bz2",
+"total":1812
 }
 ]
 }

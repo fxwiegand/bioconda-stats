@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ncbi-amr-1.04-h04f5b5a_0.tar.bz2",
-"total":1701
+"total":1703
 }
 ],
 "downloads_per_date":[
@@ -450,6 +450,10 @@
 {
 "date":"2021-09-12",
 "total":1701
+},
+{
+"date":"2021-09-13",
+"total":1703
 }
 ],
 "package":"ncbi-amr",
@@ -1000,6 +1004,15 @@
 {
 "basename":"ncbi-amr-1.04-h04f5b5a_0.tar.bz2",
 "total":1701
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"ncbi-amr-1.04-h04f5b5a_0.tar.bz2",
+"total":1703
 }
 ]
 }

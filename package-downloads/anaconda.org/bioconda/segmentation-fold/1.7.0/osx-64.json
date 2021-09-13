@@ -11,7 +11,7 @@
 },
 {
 "basename":"segmentation-fold-1.7.0-py27h8440eff_2.tar.bz2",
-"total":809
+"total":811
 },
 {
 "basename":"segmentation-fold-1.7.0-py27h470a237_1.tar.bz2",
@@ -462,6 +462,10 @@
 {
 "date":"2021-09-12",
 "total":2058
+},
+{
+"date":"2021-09-13",
+"total":2060
 }
 ],
 "package":"segmentation-fold",
@@ -1044,6 +1048,15 @@
 {
 "basename":"segmentation-fold-1.7.0-py27h8440eff_2.tar.bz2",
 "total":809
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"segmentation-fold-1.7.0-py27h8440eff_2.tar.bz2",
+"total":811
 }
 ]
 }

@@ -15,7 +15,7 @@
 },
 {
 "basename":"bedtools-2.27.0-ha92aebf_2.tar.bz2",
-"total":1769
+"total":1771
 }
 ],
 "downloads_per_date":[
@@ -462,6 +462,10 @@
 {
 "date":"2021-09-12",
 "total":2338
+},
+{
+"date":"2021-09-13",
+"total":2340
 }
 ],
 "package":"bedtools",
@@ -1072,6 +1076,15 @@
 {
 "basename":"bedtools-2.27.0-ha92aebf_2.tar.bz2",
 "total":1769
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"bedtools-2.27.0-ha92aebf_2.tar.bz2",
+"total":1771
 }
 ]
 }

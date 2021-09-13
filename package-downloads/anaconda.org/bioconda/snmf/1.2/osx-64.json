@@ -7,7 +7,7 @@
 },
 {
 "basename":"snmf-1.2-pl526h0b31af3_2.tar.bz2",
-"total":850
+"total":852
 },
 {
 "basename":"snmf-1.2-1.tar.bz2",
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-12",
 "total":2143
+},
+{
+"date":"2021-09-13",
+"total":2145
 }
 ],
 "package":"snmf",
@@ -1048,6 +1052,15 @@
 {
 "basename":"snmf-1.2-1.tar.bz2",
 "total":971
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"snmf-1.2-pl526h0b31af3_2.tar.bz2",
+"total":852
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-flowpeaks-1.26.0-r351h0edd121_0.tar.bz2",
-"total":1977
+"total":1979
 }
 ],
 "downloads_per_date":[
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-12",
 "total":2021
+},
+{
+"date":"2021-09-13",
+"total":2023
 }
 ],
 "package":"bioconductor-flowpeaks",
@@ -1016,6 +1020,15 @@
 {
 "basename":"bioconductor-flowpeaks-1.26.0-r351h0edd121_0.tar.bz2",
 "total":1977
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-flowpeaks-1.26.0-r351h0edd121_0.tar.bz2",
+"total":1979
 }
 ]
 }

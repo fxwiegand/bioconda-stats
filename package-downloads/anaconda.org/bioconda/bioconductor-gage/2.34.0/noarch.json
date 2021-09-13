@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-gage-2.34.0-r36_1.tar.bz2",
-"total":250
+"total":251
 }
 ],
 "downloads_per_date":[
@@ -410,6 +410,10 @@
 {
 "date":"2021-09-12",
 "total":250
+},
+{
+"date":"2021-09-13",
+"total":251
 }
 ],
 "package":"bioconductor-gage",
@@ -960,6 +964,15 @@
 {
 "basename":"bioconductor-gage-2.34.0-r36_1.tar.bz2",
 "total":250
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-gage-2.34.0-r36_1.tar.bz2",
+"total":251
 }
 ]
 }

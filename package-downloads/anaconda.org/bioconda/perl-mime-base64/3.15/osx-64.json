@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-mime-base64-3.15-pl526_1.tar.bz2",
-"total":12944
+"total":12955
 }
 ],
 "downloads_per_date":[
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-12",
 "total":14085
+},
+{
+"date":"2021-09-13",
+"total":14096
 }
 ],
 "package":"perl-mime-base64",
@@ -1033,6 +1037,15 @@
 {
 "basename":"perl-mime-base64-3.15-pl526_1.tar.bz2",
 "total":12944
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"perl-mime-base64-3.15-pl526_1.tar.bz2",
+"total":12955
 }
 ]
 }

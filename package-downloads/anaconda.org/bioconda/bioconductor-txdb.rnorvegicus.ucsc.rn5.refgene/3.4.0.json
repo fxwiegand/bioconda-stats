@@ -444,6 +444,10 @@
 {
 "date":"2021-09-12",
 "total":3029
+},
+{
+"date":"2021-09-13",
+"total":3031
 }
 ],
 "downloads_per_subdir":[
@@ -453,7 +457,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2029
+"total":2031
 }
 ],
 "package":"bioconductor-txdb.rnorvegicus.ucsc.rn5.refgene",
@@ -1044,6 +1048,15 @@
 {
 "subdir":"osx-64",
 "total":2029
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2031
 }
 ]
 }

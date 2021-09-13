@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-test-pod-1.51-pl526_1.tar.bz2",
-"total":1878
+"total":1880
 }
 ],
 "downloads_per_date":[
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-12",
 "total":3714
+},
+{
+"date":"2021-09-13",
+"total":3716
 }
 ],
 "package":"perl-test-pod",
@@ -1040,6 +1044,15 @@
 {
 "basename":"perl-test-pod-1.51-pl526_1.tar.bz2",
 "total":1878
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"perl-test-pod-1.51-pl526_1.tar.bz2",
+"total":1880
 }
 ]
 }

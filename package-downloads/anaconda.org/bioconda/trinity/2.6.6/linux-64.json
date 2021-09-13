@@ -11,7 +11,7 @@
 },
 {
 "basename":"trinity-2.6.6-2.tar.bz2",
-"total":4621
+"total":4623
 }
 ],
 "downloads_per_date":[
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-12",
 "total":7107
+},
+{
+"date":"2021-09-13",
+"total":7109
 }
 ],
 "package":"trinity",
@@ -1116,6 +1120,15 @@
 {
 "basename":"trinity-2.6.6-2.tar.bz2",
 "total":4621
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"trinity-2.6.6-2.tar.bz2",
+"total":4623
 }
 ]
 }

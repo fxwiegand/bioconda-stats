@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-genominator-1.36.0-r351_1.tar.bz2",
-"total":260
+"total":261
 }
 ],
 "downloads_per_date":[
@@ -414,6 +414,10 @@
 {
 "date":"2021-09-12",
 "total":417
+},
+{
+"date":"2021-09-13",
+"total":418
 }
 ],
 "package":"bioconductor-genominator",
@@ -996,6 +1000,15 @@
 {
 "basename":"bioconductor-genominator-1.36.0-r351_1.tar.bz2",
 "total":260
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-genominator-1.36.0-r351_1.tar.bz2",
+"total":261
 }
 ]
 }

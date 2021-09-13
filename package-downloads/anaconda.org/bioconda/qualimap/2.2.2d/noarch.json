@@ -7,7 +7,7 @@
 },
 {
 "basename":"qualimap-2.2.2d-hdfd78af_2.tar.bz2",
-"total":2625
+"total":2627
 },
 {
 "basename":"qualimap-2.2.2d-1.tar.bz2",
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-12",
 "total":61510
+},
+{
+"date":"2021-09-13",
+"total":61512
 }
 ],
 "package":"qualimap",
@@ -1201,6 +1205,15 @@
 {
 "basename":"qualimap-2.2.2d-hdfd78af_2.tar.bz2",
 "total":2625
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"qualimap-2.2.2d-hdfd78af_2.tar.bz2",
+"total":2627
 }
 ]
 }

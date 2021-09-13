@@ -392,6 +392,10 @@
 {
 "date":"2021-09-12",
 "total":258
+},
+{
+"date":"2021-09-13",
+"total":260
 }
 ],
 "downloads_per_subdir":[
@@ -401,7 +405,7 @@
 },
 {
 "subdir":"osx-64",
-"total":223
+"total":225
 }
 ],
 "package":"bioconductor-scpipe",
@@ -1016,6 +1020,15 @@
 {
 "subdir":"osx-64",
 "total":223
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":225
 }
 ]
 }

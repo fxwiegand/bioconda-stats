@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-fastcluster-1.1.20-r3.2.2_0.tar.bz2",
-"total":619
+"total":620
 },
 {
 "basename":"r-fastcluster-1.1.20-r3.3.2_1.tar.bz2",
@@ -154,6 +154,10 @@
 {
 "date":"2021-09-12",
 "total":4146
+},
+{
+"date":"2021-09-13",
+"total":4147
 }
 ],
 "package":"r-fastcluster",
@@ -375,6 +379,15 @@
 {
 "basename":"r-fastcluster-1.1.20-r3.2.2_0.tar.bz2",
 "total":619
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"r-fastcluster-1.1.20-r3.2.2_0.tar.bz2",
+"total":620
 }
 ]
 }

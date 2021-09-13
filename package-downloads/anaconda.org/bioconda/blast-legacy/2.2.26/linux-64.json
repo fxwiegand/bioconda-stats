@@ -7,7 +7,7 @@
 },
 {
 "basename":"blast-legacy-2.2.26-h9ee0642_3.tar.bz2",
-"total":1265
+"total":1274
 },
 {
 "basename":"blast-legacy-2.2.26-1.tar.bz2",
@@ -462,6 +462,10 @@
 {
 "date":"2021-09-12",
 "total":16771
+},
+{
+"date":"2021-09-13",
+"total":16780
 }
 ],
 "package":"blast-legacy",
@@ -1369,6 +1373,15 @@
 {
 "basename":"blast-legacy-2.2.26-2.tar.bz2",
 "total":9309
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"blast-legacy-2.2.26-h9ee0642_3.tar.bz2",
+"total":1274
 }
 ]
 }

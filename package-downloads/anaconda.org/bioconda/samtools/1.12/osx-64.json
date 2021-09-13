@@ -7,7 +7,7 @@
 },
 {
 "basename":"samtools-1.12-hfcfc997_1.tar.bz2",
-"total":2242
+"total":2246
 }
 ],
 "downloads_per_date":[
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-12",
 "total":2481
+},
+{
+"date":"2021-09-13",
+"total":2485
 }
 ],
 "package":"samtools",
@@ -1057,6 +1061,15 @@
 {
 "basename":"samtools-1.12-hfcfc997_1.tar.bz2",
 "total":2242
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"samtools-1.12-hfcfc997_1.tar.bz2",
+"total":2246
 }
 ]
 }

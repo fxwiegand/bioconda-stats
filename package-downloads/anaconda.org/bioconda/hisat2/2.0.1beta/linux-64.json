@@ -11,7 +11,7 @@
 },
 {
 "basename":"hisat2-2.0.1beta-py35_0.tar.bz2",
-"total":2599
+"total":2601
 }
 ],
 "downloads_per_date":[
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-12",
 "total":4101
+},
+{
+"date":"2021-09-13",
+"total":4103
 }
 ],
 "package":"hisat2",
@@ -1076,6 +1080,15 @@
 {
 "basename":"hisat2-2.0.1beta-py35_0.tar.bz2",
 "total":2599
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"hisat2-2.0.1beta-py35_0.tar.bz2",
+"total":2601
 }
 ]
 }

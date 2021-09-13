@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-dbd-mysql-4.046-pl526h2d50403_0.tar.bz2",
-"total":2262
+"total":2265
 }
 ],
 "downloads_per_date":[
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-12",
 "total":2598
+},
+{
+"date":"2021-09-13",
+"total":2601
 }
 ],
 "package":"perl-dbd-mysql",
@@ -1112,6 +1116,15 @@
 {
 "basename":"perl-dbd-mysql-4.046-pl526h2d50403_0.tar.bz2",
 "total":2262
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"perl-dbd-mysql-4.046-pl526h2d50403_0.tar.bz2",
+"total":2265
 }
 ]
 }

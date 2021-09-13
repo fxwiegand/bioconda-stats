@@ -7,7 +7,7 @@
 },
 {
 "basename":"pb-falcon-2.2.4-py38h1bd3507_1.tar.bz2",
-"total":1036
+"total":1038
 },
 {
 "basename":"pb-falcon-2.2.4-py37hed50d52_0.tar.bz2",
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-12",
 "total":2569
+},
+{
+"date":"2021-09-13",
+"total":2571
 }
 ],
 "package":"pb-falcon",
@@ -1237,6 +1241,15 @@
 {
 "basename":"pb-falcon-2.2.4-py38h1bd3507_1.tar.bz2",
 "total":1036
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"pb-falcon-2.2.4-py38h1bd3507_1.tar.bz2",
+"total":1038
 }
 ]
 }

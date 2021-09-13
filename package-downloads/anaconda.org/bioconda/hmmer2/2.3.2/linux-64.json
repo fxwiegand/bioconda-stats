@@ -7,7 +7,7 @@
 },
 {
 "basename":"hmmer2-2.3.2-h779adbc_6.tar.bz2",
-"total":422
+"total":425
 },
 {
 "basename":"hmmer2-2.3.2-1.tar.bz2",
@@ -462,6 +462,10 @@
 {
 "date":"2021-09-12",
 "total":5120
+},
+{
+"date":"2021-09-13",
+"total":5123
 }
 ],
 "package":"hmmer2",
@@ -1204,6 +1208,15 @@
 {
 "basename":"hmmer2-2.3.2-h470a237_3.tar.bz2",
 "total":1930
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"hmmer2-2.3.2-h779adbc_6.tar.bz2",
+"total":425
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-edger-3.14.0-r3.3.1_1.tar.bz2",
-"total":1906
+"total":1908
 }
 ],
 "downloads_per_date":[
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-12",
 "total":3224
+},
+{
+"date":"2021-09-13",
+"total":3226
 }
 ],
 "package":"bioconductor-edger",
@@ -1137,6 +1141,15 @@
 {
 "basename":"bioconductor-edger-3.14.0-r3.3.1_1.tar.bz2",
 "total":1906
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-edger-3.14.0-r3.3.1_1.tar.bz2",
+"total":1908
 }
 ]
 }

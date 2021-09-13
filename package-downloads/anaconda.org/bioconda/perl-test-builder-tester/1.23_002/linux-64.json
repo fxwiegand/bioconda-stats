@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-builder-tester-1.23_002-pl526_1.tar.bz2",
-"total":1252
+"total":1253
 },
 {
 "basename":"perl-test-builder-tester-1.23_002-0.tar.bz2",
@@ -350,6 +350,10 @@
 {
 "date":"2021-09-12",
 "total":3284
+},
+{
+"date":"2021-09-13",
+"total":3285
 }
 ],
 "package":"perl-test-builder-tester",
@@ -725,6 +729,15 @@
 {
 "basename":"perl-test-builder-tester-1.23_002-0.tar.bz2",
 "total":2032
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"perl-test-builder-tester-1.23_002-pl526_1.tar.bz2",
+"total":1253
 }
 ]
 }

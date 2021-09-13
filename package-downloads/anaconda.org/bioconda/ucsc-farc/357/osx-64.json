@@ -11,7 +11,7 @@
 },
 {
 "basename":"ucsc-farc-357-h5eb252a_2.tar.bz2",
-"total":1960
+"total":1962
 }
 ],
 "downloads_per_date":[
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-12",
 "total":2035
+},
+{
+"date":"2021-09-13",
+"total":2037
 }
 ],
 "package":"ucsc-farc",
@@ -1024,6 +1028,15 @@
 {
 "basename":"ucsc-farc-357-h5eb252a_2.tar.bz2",
 "total":1960
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"ucsc-farc-357-h5eb252a_2.tar.bz2",
+"total":1962
 }
 ]
 }

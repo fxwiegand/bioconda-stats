@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-scp-1.0.0-r40hdfd78af_1.tar.bz2",
-"total":144
+"total":145
 }
 ],
 "downloads_per_date":[
@@ -406,6 +406,10 @@
 {
 "date":"2021-09-12",
 "total":201
+},
+{
+"date":"2021-09-13",
+"total":202
 }
 ],
 "package":"bioconductor-scp",
@@ -984,6 +988,15 @@
 {
 "basename":"bioconductor-scp-1.0.0-r40hdfd78af_1.tar.bz2",
 "total":144
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-scp-1.0.0-r40hdfd78af_1.tar.bz2",
+"total":145
 }
 ]
 }

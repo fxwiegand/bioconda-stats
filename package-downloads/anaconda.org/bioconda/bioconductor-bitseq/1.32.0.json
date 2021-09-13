@@ -444,6 +444,10 @@
 {
 "date":"2021-09-12",
 "total":1049
+},
+{
+"date":"2021-09-13",
+"total":1051
 }
 ],
 "downloads_per_subdir":[
@@ -453,7 +457,7 @@
 },
 {
 "subdir":"osx-64",
-"total":963
+"total":965
 }
 ],
 "package":"bioconductor-bitseq",
@@ -1036,6 +1040,15 @@
 {
 "subdir":"osx-64",
 "total":963
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":965
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-pcap-1.11.1-pl5.22.0_0.tar.bz2",
-"total":2137
+"total":2139
 },
 {
 "basename":"perl-pcap-1.11.1-2.tar.bz2",
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-12",
 "total":9276
+},
+{
+"date":"2021-09-13",
+"total":9278
 }
 ],
 "package":"perl-pcap",
@@ -1096,6 +1100,15 @@
 {
 "basename":"perl-pcap-1.11.1-pl5.22.0_0.tar.bz2",
 "total":2137
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"perl-pcap-1.11.1-pl5.22.0_0.tar.bz2",
+"total":2139
 }
 ]
 }

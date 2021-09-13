@@ -15,7 +15,7 @@
 },
 {
 "basename":"pynacl-0.3.0-py27_0.tar.bz2",
-"total":2236
+"total":2237
 }
 ],
 "downloads_per_date":[
@@ -178,6 +178,10 @@
 {
 "date":"2021-09-12",
 "total":4609
+},
+{
+"date":"2021-09-13",
+"total":4610
 }
 ],
 "package":"pynacl",
@@ -395,6 +399,15 @@
 {
 "basename":"pynacl-0.3.0-py36_0.tar.bz2",
 "total":1214
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"pynacl-0.3.0-py27_0.tar.bz2",
+"total":2237
 }
 ]
 }

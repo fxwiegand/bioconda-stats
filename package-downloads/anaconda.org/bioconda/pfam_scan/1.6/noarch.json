@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"pfam_scan-1.6-hdfd78af_4.tar.bz2",
-"total":241
+"total":243
 },
 {
 "basename":"pfam_scan-1.6-3.tar.bz2",
@@ -450,6 +450,10 @@
 {
 "date":"2021-09-12",
 "total":698
+},
+{
+"date":"2021-09-13",
+"total":700
 }
 ],
 "package":"pfam_scan",
@@ -1041,6 +1045,15 @@
 {
 "basename":"pfam_scan-1.6-hdfd78af_4.tar.bz2",
 "total":241
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"pfam_scan-1.6-hdfd78af_4.tar.bz2",
+"total":243
 }
 ]
 }

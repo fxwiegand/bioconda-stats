@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-mirnatap.db-0.99.10-r41hdfd78af_10.tar.bz2",
-"total":127
+"total":128
 },
 {
 "basename":"bioconductor-mirnatap.db-0.99.10-r351_3.tar.bz2",
@@ -434,6 +434,10 @@
 {
 "date":"2021-09-12",
 "total":578
+},
+{
+"date":"2021-09-13",
+"total":579
 }
 ],
 "package":"bioconductor-mirnatap.db",
@@ -1164,6 +1168,15 @@
 {
 "basename":"bioconductor-mirnatap.db-0.99.10-r41hdfd78af_10.tar.bz2",
 "total":127
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mirnatap.db-0.99.10-r41hdfd78af_10.tar.bz2",
+"total":128
 }
 ]
 }

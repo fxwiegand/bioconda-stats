@@ -444,6 +444,10 @@
 {
 "date":"2021-09-12",
 "total":2173
+},
+{
+"date":"2021-09-13",
+"total":2175
 }
 ],
 "downloads_per_subdir":[
@@ -453,7 +457,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1938
+"total":1940
 }
 ],
 "package":"bioconductor-interactionset",
@@ -1044,6 +1048,15 @@
 {
 "subdir":"osx-64",
 "total":1938
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1940
 }
 ]
 }

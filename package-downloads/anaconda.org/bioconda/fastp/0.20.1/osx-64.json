@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"fastp-0.20.1-hfd59bb5_1.tar.bz2",
-"total":524
+"total":526
 },
 {
 "basename":"fastp-0.20.1-hfbae3c0_0.tar.bz2",
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-12",
 "total":1918
+},
+{
+"date":"2021-09-13",
+"total":1920
 }
 ],
 "package":"fastp",
@@ -1145,6 +1149,15 @@
 {
 "basename":"fastp-0.20.1-hfd59bb5_1.tar.bz2",
 "total":524
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"fastp-0.20.1-hfd59bb5_1.tar.bz2",
+"total":526
 }
 ]
 }

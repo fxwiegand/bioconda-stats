@@ -7,7 +7,7 @@
 },
 {
 "basename":"apt-probeset-summarize-2.10.0-hc9558a2_1.tar.bz2",
-"total":830
+"total":832
 },
 {
 "basename":"apt-probeset-summarize-2.10.0-0.tar.bz2",
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-12",
 "total":2547
+},
+{
+"date":"2021-09-13",
+"total":2549
 }
 ],
 "package":"apt-probeset-summarize",
@@ -1104,6 +1108,15 @@
 {
 "basename":"apt-probeset-summarize-2.10.0-hc9558a2_1.tar.bz2",
 "total":830
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"apt-probeset-summarize-2.10.0-hc9558a2_1.tar.bz2",
+"total":832
 }
 ]
 }

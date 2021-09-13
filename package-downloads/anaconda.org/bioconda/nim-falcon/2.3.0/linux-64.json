@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"nim-falcon-2.3.0-h1341992_0.tar.bz2",
-"total":723
+"total":725
 }
 ],
 "downloads_per_date":[
@@ -450,6 +450,10 @@
 {
 "date":"2021-09-12",
 "total":723
+},
+{
+"date":"2021-09-13",
+"total":725
 }
 ],
 "package":"nim-falcon",
@@ -1000,6 +1004,15 @@
 {
 "basename":"nim-falcon-2.3.0-h1341992_0.tar.bz2",
 "total":723
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"nim-falcon-2.3.0-h1341992_0.tar.bz2",
+"total":725
 }
 ]
 }

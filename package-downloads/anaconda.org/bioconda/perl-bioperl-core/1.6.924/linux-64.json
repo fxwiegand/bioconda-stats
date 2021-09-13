@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-bioperl-core-1.6.924-1.tar.bz2",
-"total":6190
+"total":6191
 },
 {
 "basename":"perl-bioperl-core-1.6.924-pl5.22.0_2.tar.bz2",
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-12",
 "total":15793
+},
+{
+"date":"2021-09-13",
+"total":15794
 }
 ],
 "package":"perl-bioperl-core",
@@ -1142,6 +1146,15 @@
 {
 "basename":"perl-bioperl-core-1.6.924-pl5.22.0_2.tar.bz2",
 "total":8998
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"perl-bioperl-core-1.6.924-1.tar.bz2",
+"total":6191
 }
 ]
 }

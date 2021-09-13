@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-ebseq-1.14.0-r3.4.1_1.tar.bz2",
-"total":2010
+"total":2012
 }
 ],
 "downloads_per_date":[
@@ -462,6 +462,10 @@
 {
 "date":"2021-09-12",
 "total":2256
+},
+{
+"date":"2021-09-13",
+"total":2258
 }
 ],
 "package":"bioconductor-ebseq",
@@ -1072,6 +1076,15 @@
 {
 "basename":"bioconductor-ebseq-1.14.0-r3.4.1_1.tar.bz2",
 "total":2010
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ebseq-1.14.0-r3.4.1_1.tar.bz2",
+"total":2012
 }
 ]
 }

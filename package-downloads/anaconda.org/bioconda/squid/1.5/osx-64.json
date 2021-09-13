@@ -7,7 +7,7 @@
 },
 {
 "basename":"squid-1.5-h6fa9f75_0.tar.bz2",
-"total":2000
+"total":2002
 }
 ],
 "downloads_per_date":[
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-12",
 "total":2056
+},
+{
+"date":"2021-09-13",
+"total":2058
 }
 ],
 "package":"squid",
@@ -1028,6 +1032,15 @@
 {
 "basename":"squid-1.5-h6fa9f75_0.tar.bz2",
 "total":2000
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"squid-1.5-h6fa9f75_0.tar.bz2",
+"total":2002
 }
 ]
 }

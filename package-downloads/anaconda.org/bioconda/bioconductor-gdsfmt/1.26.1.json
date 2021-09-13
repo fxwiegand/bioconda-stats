@@ -444,6 +444,10 @@
 {
 "date":"2021-09-12",
 "total":510
+},
+{
+"date":"2021-09-13",
+"total":512
 }
 ],
 "downloads_per_subdir":[
@@ -453,7 +457,7 @@
 },
 {
 "subdir":"osx-64",
-"total":359
+"total":361
 }
 ],
 "package":"bioconductor-gdsfmt",
@@ -1088,6 +1092,15 @@
 {
 "subdir":"osx-64",
 "total":359
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":361
 }
 ]
 }

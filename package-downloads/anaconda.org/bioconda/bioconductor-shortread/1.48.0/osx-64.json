@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-shortread-1.48.0-r40h832b226_1.tar.bz2",
-"total":3360
+"total":3502
 }
 ],
 "downloads_per_date":[
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-12",
 "total":5913
+},
+{
+"date":"2021-09-13",
+"total":6055
 }
 ],
 "package":"bioconductor-shortread",
@@ -1149,6 +1153,15 @@
 {
 "basename":"bioconductor-shortread-1.48.0-r40h832b226_1.tar.bz2",
 "total":3360
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-shortread-1.48.0-r40h832b226_1.tar.bz2",
+"total":3502
 }
 ]
 }

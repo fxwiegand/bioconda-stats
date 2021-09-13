@@ -11,7 +11,7 @@
 },
 {
 "basename":"pgcgap-1.0.10-2.tar.bz2",
-"total":161
+"total":162
 }
 ],
 "downloads_per_date":[
@@ -418,6 +418,10 @@
 {
 "date":"2021-09-12",
 "total":307
+},
+{
+"date":"2021-09-13",
+"total":308
 }
 ],
 "package":"pgcgap",
@@ -1035,6 +1039,15 @@
 {
 "basename":"pgcgap-1.0.10-2.tar.bz2",
 "total":161
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"pgcgap-1.0.10-2.tar.bz2",
+"total":162
 }
 ]
 }

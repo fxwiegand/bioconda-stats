@@ -444,6 +444,10 @@
 {
 "date":"2021-09-12",
 "total":702
+},
+{
+"date":"2021-09-13",
+"total":704
 }
 ],
 "downloads_per_subdir":[
@@ -453,7 +457,7 @@
 },
 {
 "subdir":"osx-64",
-"total":638
+"total":640
 }
 ],
 "package":"bioconductor-bufferedmatrixmethods",
@@ -1036,6 +1040,15 @@
 {
 "subdir":"osx-64",
 "total":638
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":640
 }
 ]
 }

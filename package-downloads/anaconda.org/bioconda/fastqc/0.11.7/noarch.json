@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"fastqc-0.11.7-hdfd78af_7.tar.bz2",
-"total":718
+"total":720
 },
 {
 "basename":"fastqc-0.11.7-6.tar.bz2",
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-12",
 "total":3833
+},
+{
+"date":"2021-09-13",
+"total":3835
 }
 ],
 "package":"fastqc",
@@ -1061,6 +1065,15 @@
 {
 "basename":"fastqc-0.11.7-hdfd78af_7.tar.bz2",
 "total":718
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"fastqc-0.11.7-hdfd78af_7.tar.bz2",
+"total":720
 }
 ]
 }

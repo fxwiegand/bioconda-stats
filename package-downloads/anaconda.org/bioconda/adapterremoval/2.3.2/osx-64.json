@@ -7,7 +7,7 @@
 },
 {
 "basename":"adapterremoval-2.3.2-hf20b948_1.tar.bz2",
-"total":375
+"total":377
 }
 ],
 "downloads_per_date":[
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-12",
 "total":428
+},
+{
+"date":"2021-09-13",
+"total":430
 }
 ],
 "package":"adapterremoval",
@@ -1040,6 +1044,15 @@
 {
 "basename":"adapterremoval-2.3.2-hf20b948_1.tar.bz2",
 "total":375
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"adapterremoval-2.3.2-hf20b948_1.tar.bz2",
+"total":377
 }
 ]
 }

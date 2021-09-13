@@ -15,7 +15,7 @@
 },
 {
 "basename":"collectl-4.0.4-2.tar.bz2",
-"total":6778
+"total":6780
 }
 ],
 "downloads_per_date":[
@@ -462,6 +462,10 @@
 {
 "date":"2021-09-12",
 "total":13700
+},
+{
+"date":"2021-09-13",
+"total":13702
 }
 ],
 "package":"collectl",
@@ -1124,6 +1128,15 @@
 {
 "basename":"collectl-4.0.4-2.tar.bz2",
 "total":6778
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"collectl-4.0.4-2.tar.bz2",
+"total":6780
 }
 ]
 }

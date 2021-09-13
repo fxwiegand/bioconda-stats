@@ -444,6 +444,10 @@
 {
 "date":"2021-09-12",
 "total":746
+},
+{
+"date":"2021-09-13",
+"total":748
 }
 ],
 "downloads_per_subdir":[
@@ -453,7 +457,7 @@
 },
 {
 "subdir":"osx-64",
-"total":650
+"total":652
 }
 ],
 "package":"bioconductor-sojourner",
@@ -1056,6 +1060,15 @@
 {
 "subdir":"osx-64",
 "total":650
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":652
 }
 ]
 }

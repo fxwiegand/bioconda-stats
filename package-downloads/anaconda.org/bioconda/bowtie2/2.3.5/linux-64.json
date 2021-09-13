@@ -11,7 +11,7 @@
 },
 {
 "basename":"bowtie2-2.3.5-py36he860b03_0.tar.bz2",
-"total":19445
+"total":19446
 }
 ],
 "downloads_per_date":[
@@ -446,6 +446,10 @@
 {
 "date":"2021-09-12",
 "total":43113
+},
+{
+"date":"2021-09-13",
+"total":43114
 }
 ],
 "package":"bowtie2",
@@ -1149,6 +1153,15 @@
 {
 "basename":"bowtie2-2.3.5-py37he860b03_0.tar.bz2",
 "total":12033
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"bowtie2-2.3.5-py36he860b03_0.tar.bz2",
+"total":19446
 }
 ]
 }

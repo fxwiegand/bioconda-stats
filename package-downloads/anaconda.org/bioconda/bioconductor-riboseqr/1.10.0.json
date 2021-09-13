@@ -444,6 +444,10 @@
 {
 "date":"2021-09-12",
 "total":3144
+},
+{
+"date":"2021-09-13",
+"total":3146
 }
 ],
 "downloads_per_subdir":[
@@ -453,7 +457,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2055
+"total":2057
 }
 ],
 "package":"bioconductor-riboseqr",
@@ -1056,6 +1060,15 @@
 {
 "subdir":"osx-64",
 "total":2055
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2057
 }
 ]
 }

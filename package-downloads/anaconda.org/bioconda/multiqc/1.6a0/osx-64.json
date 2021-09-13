@@ -35,7 +35,7 @@
 },
 {
 "basename":"multiqc-1.6a0-py36h24bf2e0_2.tar.bz2",
-"total":1828
+"total":1830
 }
 ],
 "downloads_per_date":[
@@ -482,6 +482,10 @@
 {
 "date":"2021-09-12",
 "total":2438
+},
+{
+"date":"2021-09-13",
+"total":2440
 }
 ],
 "package":"multiqc",
@@ -1144,6 +1148,15 @@
 {
 "basename":"multiqc-1.6a0-py36h24bf2e0_2.tar.bz2",
 "total":1828
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"multiqc-1.6a0-py36h24bf2e0_2.tar.bz2",
+"total":1830
 }
 ]
 }

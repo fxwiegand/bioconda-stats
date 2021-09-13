@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rhtslib-1.12.1-r351ha92aebf_0.tar.bz2",
-"total":505
+"total":506
 },
 {
 "basename":"bioconductor-rhtslib-1.12.1-r341ha92aebf_0.tar.bz2",
@@ -166,6 +166,10 @@
 {
 "date":"2021-09-12",
 "total":1012
+},
+{
+"date":"2021-09-13",
+"total":1013
 }
 ],
 "package":"bioconductor-rhtslib",
@@ -352,6 +356,15 @@
 {
 "basename":"bioconductor-rhtslib-1.12.1-r341ha92aebf_0.tar.bz2",
 "total":507
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rhtslib-1.12.1-r351ha92aebf_0.tar.bz2",
+"total":506
 }
 ]
 }

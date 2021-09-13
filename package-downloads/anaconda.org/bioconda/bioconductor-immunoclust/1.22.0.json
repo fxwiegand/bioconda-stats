@@ -444,6 +444,10 @@
 {
 "date":"2021-09-12",
 "total":779
+},
+{
+"date":"2021-09-13",
+"total":781
 }
 ],
 "downloads_per_subdir":[
@@ -453,7 +457,7 @@
 },
 {
 "subdir":"osx-64",
-"total":605
+"total":607
 }
 ],
 "package":"bioconductor-immunoclust",
@@ -1052,6 +1056,15 @@
 {
 "subdir":"osx-64",
 "total":605
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":607
 }
 ]
 }

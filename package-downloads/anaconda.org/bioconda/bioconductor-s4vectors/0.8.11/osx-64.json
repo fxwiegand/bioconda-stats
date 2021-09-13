@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-s4vectors-0.8.11-r351_1.tar.bz2",
-"total":1765
+"total":1767
 },
 {
 "basename":"bioconductor-s4vectors-0.8.11-0.tar.bz2",
@@ -470,6 +470,10 @@
 {
 "date":"2021-09-12",
 "total":4409
+},
+{
+"date":"2021-09-13",
+"total":4411
 }
 ],
 "package":"bioconductor-s4vectors",
@@ -1220,6 +1224,15 @@
 {
 "basename":"bioconductor-s4vectors-0.8.11-0.tar.bz2",
 "total":2212
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-s4vectors-0.8.11-r351_1.tar.bz2",
+"total":1767
 }
 ]
 }

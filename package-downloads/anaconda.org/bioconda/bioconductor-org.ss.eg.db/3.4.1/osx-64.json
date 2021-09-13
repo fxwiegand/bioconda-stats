@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-org.ss.eg.db-3.4.1-r3.4.1_1.tar.bz2",
-"total":2001
+"total":2003
 }
 ],
 "downloads_per_date":[
@@ -462,6 +462,10 @@
 {
 "date":"2021-09-12",
 "total":2193
+},
+{
+"date":"2021-09-13",
+"total":2195
 }
 ],
 "package":"bioconductor-org.ss.eg.db",
@@ -1040,6 +1044,15 @@
 {
 "basename":"bioconductor-org.ss.eg.db-3.4.1-r3.4.1_1.tar.bz2",
 "total":2001
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-org.ss.eg.db-3.4.1-r3.4.1_1.tar.bz2",
+"total":2003
 }
 ]
 }

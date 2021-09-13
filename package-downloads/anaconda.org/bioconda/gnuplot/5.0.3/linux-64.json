@@ -27,7 +27,7 @@
 },
 {
 "basename":"gnuplot-5.0.3-4.tar.bz2",
-"total":10526
+"total":10529
 }
 ],
 "downloads_per_date":[
@@ -474,6 +474,10 @@
 {
 "date":"2021-09-12",
 "total":13882
+},
+{
+"date":"2021-09-13",
+"total":13885
 }
 ],
 "package":"gnuplot",
@@ -1227,6 +1231,15 @@
 {
 "basename":"gnuplot-5.0.3-4.tar.bz2",
 "total":10526
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"gnuplot-5.0.3-4.tar.bz2",
+"total":10529
 }
 ]
 }

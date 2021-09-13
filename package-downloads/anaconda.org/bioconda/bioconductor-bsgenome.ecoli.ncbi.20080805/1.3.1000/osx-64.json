@@ -31,7 +31,7 @@
 },
 {
 "basename":"bioconductor-bsgenome.ecoli.ncbi.20080805-1.3.1000-r351_4.tar.bz2",
-"total":1857
+"total":1858
 }
 ],
 "downloads_per_date":[
@@ -478,6 +478,10 @@
 {
 "date":"2021-09-12",
 "total":2414
+},
+{
+"date":"2021-09-13",
+"total":2415
 }
 ],
 "package":"bioconductor-bsgenome.ecoli.ncbi.20080805",
@@ -1136,6 +1140,15 @@
 {
 "basename":"bioconductor-bsgenome.ecoli.ncbi.20080805-1.3.1000-r351_4.tar.bz2",
 "total":1857
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bsgenome.ecoli.ncbi.20080805-1.3.1000-r351_4.tar.bz2",
+"total":1858
 }
 ]
 }

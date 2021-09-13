@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-test-requires-0.10-pl526_3.tar.bz2",
-"total":2020
+"total":2022
 }
 ],
 "downloads_per_date":[
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-12",
 "total":2502
+},
+{
+"date":"2021-09-13",
+"total":2504
 }
 ],
 "package":"perl-test-requires",
@@ -1036,6 +1040,15 @@
 {
 "basename":"perl-test-requires-0.10-pl526_3.tar.bz2",
 "total":2020
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"perl-test-requires-0.10-pl526_3.tar.bz2",
+"total":2022
 }
 ]
 }

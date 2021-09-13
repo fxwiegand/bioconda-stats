@@ -7,7 +7,7 @@
 },
 {
 "basename":"somaticseq-2.8.1-py36_0.tar.bz2",
-"total":2023
+"total":2025
 }
 ],
 "downloads_per_date":[
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-12",
 "total":2384
+},
+{
+"date":"2021-09-13",
+"total":2386
 }
 ],
 "package":"somaticseq",
@@ -1032,6 +1036,15 @@
 {
 "basename":"somaticseq-2.8.1-py36_0.tar.bz2",
 "total":2023
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"somaticseq-2.8.1-py36_0.tar.bz2",
+"total":2025
 }
 ]
 }

@@ -23,7 +23,7 @@
 },
 {
 "basename":"spades-3.11.0-py36_1.tar.bz2",
-"total":1804
+"total":1806
 }
 ],
 "downloads_per_date":[
@@ -470,6 +470,10 @@
 {
 "date":"2021-09-12",
 "total":2353
+},
+{
+"date":"2021-09-13",
+"total":2355
 }
 ],
 "package":"spades",
@@ -1144,6 +1148,15 @@
 {
 "basename":"spades-3.11.0-py36_1.tar.bz2",
 "total":1804
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"spades-3.11.0-py36_1.tar.bz2",
+"total":1806
 }
 ]
 }

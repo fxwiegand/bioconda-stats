@@ -444,6 +444,10 @@
 {
 "date":"2021-09-12",
 "total":5000
+},
+{
+"date":"2021-09-13",
+"total":5003
 }
 ],
 "downloads_per_subdir":[
@@ -453,7 +457,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2554
+"total":2557
 }
 ],
 "package":"ucsc-bigwigtobedgraph",
@@ -1076,6 +1080,15 @@
 {
 "subdir":"osx-64",
 "total":2554
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2557
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"ucsc-getrna-357-h5eb252a_2.tar.bz2",
-"total":1897
+"total":1899
 }
 ],
 "downloads_per_date":[
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-12",
 "total":2085
+},
+{
+"date":"2021-09-13",
+"total":2087
 }
 ],
 "package":"ucsc-getrna",
@@ -1028,6 +1032,15 @@
 {
 "basename":"ucsc-getrna-357-h5eb252a_2.tar.bz2",
 "total":1897
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"ucsc-getrna-357-h5eb252a_2.tar.bz2",
+"total":1899
 }
 ]
 }

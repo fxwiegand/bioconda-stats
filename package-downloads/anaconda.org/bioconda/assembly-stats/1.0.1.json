@@ -444,6 +444,10 @@
 {
 "date":"2021-09-12",
 "total":4403
+},
+{
+"date":"2021-09-13",
+"total":4405
 }
 ],
 "downloads_per_subdir":[
@@ -453,7 +457,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2211
+"total":2213
 }
 ],
 "package":"assembly-stats",
@@ -1205,6 +1209,15 @@
 {
 "subdir":"osx-64",
 "total":2211
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2213
 }
 ]
 }

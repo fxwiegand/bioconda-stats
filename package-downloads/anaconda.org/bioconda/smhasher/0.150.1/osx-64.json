@@ -75,7 +75,7 @@
 },
 {
 "basename":"smhasher-0.150.1-py39hcf0ab7e_5.tar.bz2",
-"total":349
+"total":351
 },
 {
 "basename":"smhasher-0.150.1-py38hb8ab313_4.tar.bz2",
@@ -530,6 +530,10 @@
 {
 "date":"2021-09-12",
 "total":2386
+},
+{
+"date":"2021-09-13",
+"total":2388
 }
 ],
 "package":"smhasher",
@@ -1288,6 +1292,15 @@
 {
 "basename":"smhasher-0.150.1-py39hcf0ab7e_5.tar.bz2",
 "total":349
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"smhasher-0.150.1-py39hcf0ab7e_5.tar.bz2",
+"total":351
 }
 ]
 }

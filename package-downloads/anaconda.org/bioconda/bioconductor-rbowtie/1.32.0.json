@@ -396,6 +396,10 @@
 {
 "date":"2021-09-12",
 "total":281
+},
+{
+"date":"2021-09-13",
+"total":283
 }
 ],
 "downloads_per_subdir":[
@@ -405,7 +409,7 @@
 },
 {
 "subdir":"osx-64",
-"total":231
+"total":233
 }
 ],
 "package":"bioconductor-rbowtie",
@@ -1024,6 +1028,15 @@
 {
 "subdir":"osx-64",
 "total":231
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":233
 }
 ]
 }

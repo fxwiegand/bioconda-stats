@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"star-2.6.1d-h527b516_1.tar.bz2",
-"total":365
+"total":367
 },
 {
 "basename":"star-2.6.1d-0.tar.bz2",
@@ -454,6 +454,10 @@
 {
 "date":"2021-09-12",
 "total":2015
+},
+{
+"date":"2021-09-13",
+"total":2017
 }
 ],
 "package":"star",
@@ -1016,6 +1020,15 @@
 {
 "basename":"star-2.6.1d-h527b516_1.tar.bz2",
 "total":365
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_basename":[
+{
+"basename":"star-2.6.1d-h527b516_1.tar.bz2",
+"total":367
 }
 ]
 }

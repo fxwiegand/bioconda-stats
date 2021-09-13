@@ -444,6 +444,10 @@
 {
 "date":"2021-09-12",
 "total":2173
+},
+{
+"date":"2021-09-13",
+"total":2175
 }
 ],
 "downloads_per_subdir":[
@@ -453,7 +457,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1593
+"total":1595
 }
 ],
 "package":"bioconductor-oligo",
@@ -1048,6 +1052,15 @@
 {
 "subdir":"osx-64",
 "total":1593
+}
+]
+},
+{
+"date":"2021-09-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1595
 }
 ]
 }
