@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-gmtime-377-h0b8a92a_2.tar.bz2",
-"total":18
+"total":19
 },
 {
 "basename":"ucsc-gmtime-377-h446ed27_1.tar.bz2",
@@ -98,6 +98,10 @@
 {
 "date":"2021-09-13",
 "total":160
+},
+{
+"date":"2021-09-14",
+"total":161
 }
 ],
 "package":"ucsc-gmtime",
@@ -205,6 +209,15 @@
 {
 "basename":"ucsc-gmtime-377-h446ed27_1.tar.bz2",
 "total":31
+}
+]
+},
+{
+"date":"2021-09-14",
+"downloads_per_basename":[
+{
+"basename":"ucsc-gmtime-377-h0b8a92a_2.tar.bz2",
+"total":19
 }
 ]
 }
