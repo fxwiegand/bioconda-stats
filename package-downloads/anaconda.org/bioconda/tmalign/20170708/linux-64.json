@@ -11,7 +11,7 @@
 },
 {
 "basename":"tmalign-20170708-he991be0_2.tar.bz2",
-"total":123
+"total":124
 },
 {
 "basename":"tmalign-20170708-h219a75b_0.tar.bz2",
@@ -194,6 +194,10 @@
 {
 "date":"2021-09-14",
 "total":483
+},
+{
+"date":"2021-09-15",
+"total":484
 }
 ],
 "package":"tmalign",
@@ -425,6 +429,15 @@
 {
 "basename":"tmalign-20170708-h219a75b_0.tar.bz2",
 "total":210
+}
+]
+},
+{
+"date":"2021-09-15",
+"downloads_per_basename":[
+{
+"basename":"tmalign-20170708-he991be0_2.tar.bz2",
+"total":124
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-hubcheck-377-h0b8a92a_2.tar.bz2",
-"total":23
+"total":24
 },
 {
 "basename":"ucsc-hubcheck-377-h446ed27_1.tar.bz2",
@@ -114,6 +114,10 @@
 {
 "date":"2021-09-14",
 "total":242
+},
+{
+"date":"2021-09-15",
+"total":243
 }
 ],
 "package":"ucsc-hubcheck",
@@ -262,6 +266,15 @@
 {
 "basename":"ucsc-hubcheck-377-h199ee4e_0.tar.bz2",
 "total":174
+}
+]
+},
+{
+"date":"2021-09-15",
+"downloads_per_basename":[
+{
+"basename":"ucsc-hubcheck-377-h0b8a92a_2.tar.bz2",
+"total":24
 }
 ]
 }

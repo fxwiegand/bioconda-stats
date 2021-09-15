@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ncbi-ngs-sdk-2.11.1-hff44eed_0.tar.bz2",
-"total":822
+"total":846
 }
 ],
 "downloads_per_date":[
@@ -118,6 +118,10 @@
 {
 "date":"2021-09-14",
 "total":822
+},
+{
+"date":"2021-09-15",
+"total":846
 }
 ],
 "package":"ncbi-ngs-sdk",
@@ -371,6 +375,15 @@
 {
 "basename":"ncbi-ngs-sdk-2.11.1-hff44eed_0.tar.bz2",
 "total":822
+}
+]
+},
+{
+"date":"2021-09-15",
+"downloads_per_basename":[
+{
+"basename":"ncbi-ngs-sdk-2.11.1-hff44eed_0.tar.bz2",
+"total":846
 }
 ]
 }

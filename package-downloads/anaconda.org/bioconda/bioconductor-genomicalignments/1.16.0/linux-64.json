@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-genomicalignments-1.16.0-r351h470a237_0.tar.bz2",
-"total":5428
+"total":5429
 },
 {
 "basename":"bioconductor-genomicalignments-1.16.0-r341h470a237_0.tar.bz2",
@@ -338,6 +338,10 @@
 {
 "date":"2021-09-14",
 "total":16119
+},
+{
+"date":"2021-09-15",
+"total":16120
 }
 ],
 "package":"bioconductor-genomicalignments",
@@ -795,6 +799,15 @@
 {
 "basename":"bioconductor-genomicalignments-1.16.0-r341h470a237_0.tar.bz2",
 "total":10691
+}
+]
+},
+{
+"date":"2021-09-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-genomicalignments-1.16.0-r351h470a237_0.tar.bz2",
+"total":5429
 }
 ]
 }
