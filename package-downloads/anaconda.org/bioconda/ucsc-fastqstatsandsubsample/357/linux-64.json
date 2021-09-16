@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-fastqstatsandsubsample-357-1.tar.bz2",
-"total":342
+"total":343
 },
 {
 "basename":"ucsc-fastqstatsandsubsample-357-0.tar.bz2",
@@ -94,6 +94,10 @@
 {
 "date":"2021-09-15",
 "total":752
+},
+{
+"date":"2021-09-16",
+"total":753
 }
 ],
 "package":"ucsc-fastqstatsandsubsample",
@@ -187,6 +191,15 @@
 {
 "basename":"ucsc-fastqstatsandsubsample-357-0.tar.bz2",
 "total":410
+}
+]
+},
+{
+"date":"2021-09-16",
+"downloads_per_basename":[
+{
+"basename":"ucsc-fastqstatsandsubsample-357-1.tar.bz2",
+"total":343
 }
 ]
 }

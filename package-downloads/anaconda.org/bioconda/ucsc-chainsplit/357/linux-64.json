@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-chainsplit-357-1.tar.bz2",
-"total":303
+"total":304
 },
 {
 "basename":"ucsc-chainsplit-357-0.tar.bz2",
@@ -158,6 +158,10 @@
 {
 "date":"2021-09-15",
 "total":884
+},
+{
+"date":"2021-09-16",
+"total":885
 }
 ],
 "package":"ucsc-chainsplit",
@@ -309,6 +313,15 @@
 {
 "basename":"ucsc-chainsplit-357-1.tar.bz2",
 "total":303
+}
+]
+},
+{
+"date":"2021-09-16",
+"downloads_per_basename":[
+{
+"basename":"ucsc-chainsplit-357-1.tar.bz2",
+"total":304
 }
 ]
 }

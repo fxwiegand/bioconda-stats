@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-qdnaseq.mm10-1.4.0-r3.3.2_0.tar.bz2",
-"total":541
+"total":542
 },
 {
 "basename":"bioconductor-qdnaseq.mm10-1.4.0-r3.4.1_0.tar.bz2",
@@ -154,6 +154,10 @@
 {
 "date":"2021-09-15",
 "total":2070
+},
+{
+"date":"2021-09-16",
+"total":2071
 }
 ],
 "package":"bioconductor-qdnaseq.mm10",
@@ -402,6 +406,15 @@
 {
 "basename":"bioconductor-qdnaseq.mm10-1.4.0-r3.4.1_0.tar.bz2",
 "total":626
+}
+]
+},
+{
+"date":"2021-09-16",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-qdnaseq.mm10-1.4.0-r3.3.2_0.tar.bz2",
+"total":542
 }
 ]
 }

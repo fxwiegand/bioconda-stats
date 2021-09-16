@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-bedcoverage-357-1.tar.bz2",
-"total":462
+"total":463
 }
 ],
 "downloads_per_date":[
@@ -146,6 +146,10 @@
 {
 "date":"2021-09-15",
 "total":884
+},
+{
+"date":"2021-09-16",
+"total":885
 }
 ],
 "package":"ucsc-bedcoverage",
@@ -305,6 +309,15 @@
 {
 "basename":"ucsc-bedcoverage-357-1.tar.bz2",
 "total":462
+}
+]
+},
+{
+"date":"2021-09-16",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bedcoverage-357-1.tar.bz2",
+"total":463
 }
 ]
 }
