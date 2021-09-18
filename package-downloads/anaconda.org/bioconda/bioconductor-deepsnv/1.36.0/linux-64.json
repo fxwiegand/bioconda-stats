@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-deepsnv-1.36.0-r40h399db7b_1.tar.bz2",
-"total":48
+"total":49
 },
 {
 "basename":"bioconductor-deepsnv-1.36.0-r40h5f743cb_0.tar.bz2",
@@ -130,6 +130,10 @@
 {
 "date":"2021-09-17",
 "total":115
+},
+{
+"date":"2021-09-18",
+"total":116
 }
 ],
 "package":"bioconductor-deepsnv",
@@ -245,6 +249,15 @@
 {
 "basename":"bioconductor-deepsnv-1.36.0-r40h5f743cb_0.tar.bz2",
 "total":67
+}
+]
+},
+{
+"date":"2021-09-18",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-deepsnv-1.36.0-r40h399db7b_1.tar.bz2",
+"total":49
 }
 ]
 }

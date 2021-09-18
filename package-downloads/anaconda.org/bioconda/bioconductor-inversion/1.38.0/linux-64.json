@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-inversion-1.38.0-r40hd029910_1.tar.bz2",
-"total":36
+"total":37
 },
 {
 "basename":"bioconductor-inversion-1.38.0-r40h037d062_0.tar.bz2",
@@ -118,6 +118,10 @@
 {
 "date":"2021-09-17",
 "total":88
+},
+{
+"date":"2021-09-18",
+"total":89
 }
 ],
 "package":"bioconductor-inversion",
@@ -193,6 +197,15 @@
 {
 "basename":"bioconductor-inversion-1.38.0-r40h037d062_0.tar.bz2",
 "total":52
+}
+]
+},
+{
+"date":"2021-09-18",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-inversion-1.38.0-r40hd029910_1.tar.bz2",
+"total":37
 }
 ]
 }
