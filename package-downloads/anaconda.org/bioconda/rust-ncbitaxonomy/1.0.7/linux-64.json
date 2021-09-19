@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"rust-ncbitaxonomy-1.0.7-hd83938f_1.tar.bz2",
-"total":48
+"total":52
 },
 {
 "basename":"rust-ncbitaxonomy-1.0.7-he6d99f7_0.tar.bz2",
@@ -142,6 +142,10 @@
 {
 "date":"2021-09-18",
 "total":285
+},
+{
+"date":"2021-09-19",
+"total":289
 }
 ],
 "package":"rust-ncbitaxonomy",
@@ -263,6 +267,15 @@
 {
 "basename":"rust-ncbitaxonomy-1.0.7-hd83938f_1.tar.bz2",
 "total":48
+}
+]
+},
+{
+"date":"2021-09-19",
+"downloads_per_basename":[
+{
+"basename":"rust-ncbitaxonomy-1.0.7-hd83938f_1.tar.bz2",
+"total":52
 }
 ]
 }

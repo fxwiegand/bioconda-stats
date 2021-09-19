@@ -11,7 +11,7 @@
 },
 {
 "basename":"avro-1.8.0-py27_0.tar.bz2",
-"total":2634
+"total":2635
 }
 ],
 "downloads_per_date":[
@@ -162,6 +162,10 @@
 {
 "date":"2021-09-18",
 "total":3914
+},
+{
+"date":"2021-09-19",
+"total":3915
 }
 ],
 "package":"avro",
@@ -315,6 +319,15 @@
 {
 "basename":"avro-1.8.0-py34_0.tar.bz2",
 "total":685
+}
+]
+},
+{
+"date":"2021-09-19",
+"downloads_per_basename":[
+{
+"basename":"avro-1.8.0-py27_0.tar.bz2",
+"total":2635
 }
 ]
 }
