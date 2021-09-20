@@ -11,7 +11,7 @@
 },
 {
 "basename":"toolshed-0.4.6-py36_0.tar.bz2",
-"total":2056
+"total":2057
 },
 {
 "basename":"toolshed-0.4.6-py27_0.tar.bz2",
@@ -410,6 +410,10 @@
 {
 "date":"2021-09-19",
 "total":9822
+},
+{
+"date":"2021-09-20",
+"total":9823
 }
 ],
 "package":"toolshed",
@@ -972,6 +976,15 @@
 {
 "basename":"toolshed-0.4.6-py27_0.tar.bz2",
 "total":6539
+}
+]
+},
+{
+"date":"2021-09-20",
+"downloads_per_basename":[
+{
+"basename":"toolshed-0.4.6-py36_0.tar.bz2",
+"total":2057
 }
 ]
 }

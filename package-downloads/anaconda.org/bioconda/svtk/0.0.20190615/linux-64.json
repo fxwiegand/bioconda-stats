@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"svtk-0.0.20190615-py39h38f01e4_2.tar.bz2",
-"total":19
+"total":20
 },
 {
 "basename":"svtk-0.0.20190615-py37h73a75cf_2.tar.bz2",
@@ -138,6 +138,10 @@
 {
 "date":"2021-09-19",
 "total":291
+},
+{
+"date":"2021-09-20",
+"total":292
 }
 ],
 "package":"svtk",
@@ -369,6 +373,15 @@
 {
 "basename":"svtk-0.0.20190615-py37h516909a_0.tar.bz2",
 "total":49
+}
+]
+},
+{
+"date":"2021-09-20",
+"downloads_per_basename":[
+{
+"basename":"svtk-0.0.20190615-py39h38f01e4_2.tar.bz2",
+"total":20
 }
 ]
 }

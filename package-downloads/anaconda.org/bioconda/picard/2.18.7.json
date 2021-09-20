@@ -472,6 +472,10 @@
 {
 "date":"2021-09-19",
 "total":6551
+},
+{
+"date":"2021-09-20",
+"total":6552
 }
 ],
 "downloads_per_subdir":[
@@ -481,7 +485,7 @@
 },
 {
 "subdir":"noarch",
-"total":2161
+"total":2162
 },
 {
 "subdir":"linux-64",
@@ -491,7 +495,7 @@
 "package":"picard",
 "recent_downloads":[
 {
-"date":"2021-07-19",
+"date":"2021-07-20",
 "downloads_per_subdir":[
 {
 "subdir":"osx-64",
@@ -1349,6 +1353,15 @@
 {
 "subdir":"noarch",
 "total":2161
+}
+]
+},
+{
+"date":"2021-09-20",
+"downloads_per_subdir":[
+{
+"subdir":"noarch",
+"total":2162
 }
 ]
 }

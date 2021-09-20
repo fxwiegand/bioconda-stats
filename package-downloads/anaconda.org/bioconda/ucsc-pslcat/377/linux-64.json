@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-pslcat-377-h446ed27_1.tar.bz2",
-"total":55
+"total":56
 },
 {
 "basename":"ucsc-pslcat-377-h199ee4e_0.tar.bz2",
@@ -162,6 +162,10 @@
 {
 "date":"2021-09-19",
 "total":240
+},
+{
+"date":"2021-09-20",
+"total":241
 }
 ],
 "package":"ucsc-pslcat",
@@ -329,6 +333,15 @@
 {
 "basename":"ucsc-pslcat-377-h0b8a92a_2.tar.bz2",
 "total":40
+}
+]
+},
+{
+"date":"2021-09-20",
+"downloads_per_basename":[
+{
+"basename":"ucsc-pslcat-377-h446ed27_1.tar.bz2",
+"total":56
 }
 ]
 }

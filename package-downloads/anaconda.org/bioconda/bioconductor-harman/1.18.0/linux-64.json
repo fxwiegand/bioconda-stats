@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-harman-1.18.0-r40h399db7b_1.tar.bz2",
-"total":42
+"total":43
 },
 {
 "basename":"bioconductor-harman-1.18.0-r40h5f743cb_0.tar.bz2",
@@ -130,6 +130,10 @@
 {
 "date":"2021-09-19",
 "total":112
+},
+{
+"date":"2021-09-20",
+"total":113
 }
 ],
 "package":"bioconductor-harman",
@@ -232,6 +236,15 @@
 {
 "basename":"bioconductor-harman-1.18.0-r40h5f743cb_0.tar.bz2",
 "total":70
+}
+]
+},
+{
+"date":"2021-09-20",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-harman-1.18.0-r40h399db7b_1.tar.bz2",
+"total":43
 }
 ]
 }

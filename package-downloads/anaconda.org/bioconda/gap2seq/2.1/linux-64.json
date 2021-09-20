@@ -19,7 +19,7 @@
 },
 {
 "basename":"gap2seq-2.1-boost1.64_zlib1.2.11_3.tar.bz2",
-"total":3717
+"total":3718
 }
 ],
 "downloads_per_date":[
@@ -138,6 +138,10 @@
 {
 "date":"2021-09-19",
 "total":9406
+},
+{
+"date":"2021-09-20",
+"total":9407
 }
 ],
 "package":"gap2seq",
@@ -317,6 +321,15 @@
 {
 "basename":"gap2seq-2.1-boost1.61_0.tar.bz2",
 "total":643
+}
+]
+},
+{
+"date":"2021-09-20",
+"downloads_per_basename":[
+{
+"basename":"gap2seq-2.1-boost1.64_zlib1.2.11_3.tar.bz2",
+"total":3718
 }
 ]
 }

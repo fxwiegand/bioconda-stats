@@ -19,7 +19,7 @@
 },
 {
 "basename":"abyss-1.9.0-boost1.61_4.tar.bz2",
-"total":706
+"total":707
 },
 {
 "basename":"abyss-1.9.0-boost1.60_2.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2021-09-19",
 "total":6379
+},
+{
+"date":"2021-09-20",
+"total":6380
 }
 ],
 "package":"abyss",
@@ -711,6 +715,15 @@
 {
 "basename":"abyss-1.9.0-boost1.61_2.tar.bz2",
 "total":874
+}
+]
+},
+{
+"date":"2021-09-20",
+"downloads_per_basename":[
+{
+"basename":"abyss-1.9.0-boost1.61_4.tar.bz2",
+"total":707
 }
 ]
 }
