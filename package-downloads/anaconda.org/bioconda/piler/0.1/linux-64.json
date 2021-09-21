@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"piler-0.1-0.tar.bz2",
-"total":1000
+"total":1001
 }
 ],
 "downloads_per_date":[
@@ -102,6 +102,10 @@
 {
 "date":"2021-09-20",
 "total":1000
+},
+{
+"date":"2021-09-21",
+"total":1001
 }
 ],
 "package":"piler",
@@ -166,6 +170,15 @@
 {
 "basename":"piler-0.1-0.tar.bz2",
 "total":1000
+}
+]
+},
+{
+"date":"2021-09-21",
+"downloads_per_basename":[
+{
+"basename":"piler-0.1-0.tar.bz2",
+"total":1001
 }
 ]
 }

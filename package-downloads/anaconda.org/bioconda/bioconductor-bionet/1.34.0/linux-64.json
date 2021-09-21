@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-bionet-1.34.0-r3.4.1_0.tar.bz2",
-"total":907
+"total":908
 }
 ],
 "downloads_per_date":[
@@ -142,6 +142,10 @@
 {
 "date":"2021-09-20",
 "total":2015
+},
+{
+"date":"2021-09-21",
+"total":2016
 }
 ],
 "package":"bioconductor-bionet",
@@ -305,6 +309,15 @@
 {
 "basename":"bioconductor-bionet-1.34.0-r3.4.1_0.tar.bz2",
 "total":907
+}
+]
+},
+{
+"date":"2021-09-21",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bionet-1.34.0-r3.4.1_0.tar.bz2",
+"total":908
 }
 ]
 }

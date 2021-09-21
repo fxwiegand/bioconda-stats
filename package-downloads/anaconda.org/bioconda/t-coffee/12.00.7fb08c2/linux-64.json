@@ -7,7 +7,7 @@
 },
 {
 "basename":"t-coffee-12.00.7fb08c2-hfc679d8_1.tar.bz2",
-"total":188
+"total":189
 },
 {
 "basename":"t-coffee-12.00.7fb08c2-h26a2512_0.tar.bz2",
@@ -206,6 +206,10 @@
 {
 "date":"2021-09-20",
 "total":661
+},
+{
+"date":"2021-09-21",
+"total":662
 }
 ],
 "package":"t-coffee",
@@ -422,6 +426,15 @@
 {
 "basename":"t-coffee-12.00.7fb08c2-h26a2512_0.tar.bz2",
 "total":318
+}
+]
+},
+{
+"date":"2021-09-21",
+"downloads_per_basename":[
+{
+"basename":"t-coffee-12.00.7fb08c2-hfc679d8_1.tar.bz2",
+"total":189
 }
 ]
 }

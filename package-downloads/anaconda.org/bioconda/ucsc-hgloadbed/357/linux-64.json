@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-hgloadbed-357-1.tar.bz2",
-"total":432
+"total":433
 }
 ],
 "downloads_per_date":[
@@ -150,6 +150,10 @@
 {
 "date":"2021-09-20",
 "total":859
+},
+{
+"date":"2021-09-21",
+"total":860
 }
 ],
 "package":"ucsc-hgloadbed",
@@ -288,6 +292,15 @@
 {
 "basename":"ucsc-hgloadbed-357-1.tar.bz2",
 "total":432
+}
+]
+},
+{
+"date":"2021-09-21",
+"downloads_per_basename":[
+{
+"basename":"ucsc-hgloadbed-357-1.tar.bz2",
+"total":433
 }
 ]
 }

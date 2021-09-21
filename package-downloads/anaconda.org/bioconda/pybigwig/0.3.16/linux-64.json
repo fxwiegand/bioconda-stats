@@ -7,7 +7,7 @@
 },
 {
 "basename":"pybigwig-0.3.16-py36h5295baf_0.tar.bz2",
-"total":2649
+"total":2655
 },
 {
 "basename":"pybigwig-0.3.16-py37h5295baf_0.tar.bz2",
@@ -314,6 +314,10 @@
 {
 "date":"2021-09-20",
 "total":8212
+},
+{
+"date":"2021-09-21",
+"total":8218
 }
 ],
 "package":"pybigwig",
@@ -643,6 +647,15 @@
 {
 "basename":"pybigwig-0.3.16-py37h5295baf_0.tar.bz2",
 "total":5043
+}
+]
+},
+{
+"date":"2021-09-21",
+"downloads_per_basename":[
+{
+"basename":"pybigwig-0.3.16-py36h5295baf_0.tar.bz2",
+"total":2655
 }
 ]
 }

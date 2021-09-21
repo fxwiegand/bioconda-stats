@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-facount-357-1.tar.bz2",
-"total":604
+"total":605
 }
 ],
 "downloads_per_date":[
@@ -198,6 +198,10 @@
 {
 "date":"2021-09-20",
 "total":1041
+},
+{
+"date":"2021-09-21",
+"total":1042
 }
 ],
 "package":"ucsc-facount",
@@ -363,6 +367,15 @@
 {
 "basename":"ucsc-facount-357-1.tar.bz2",
 "total":604
+}
+]
+},
+{
+"date":"2021-09-21",
+"downloads_per_basename":[
+{
+"basename":"ucsc-facount-357-1.tar.bz2",
+"total":605
 }
 ]
 }

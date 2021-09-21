@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"htseq-0.6.1.post1-py27hfd4ddd4_4.tar.bz2",
-"total":87
+"total":88
 },
 {
 "basename":"htseq-0.6.1.post1-py27h76bc9d7_5.tar.bz2",
@@ -274,6 +274,10 @@
 {
 "date":"2021-09-20",
 "total":205
+},
+{
+"date":"2021-09-21",
+"total":206
 }
 ],
 "package":"htseq",
@@ -523,6 +527,15 @@
 {
 "basename":"htseq-0.6.1.post1-py27h76bc9d7_5.tar.bz2",
 "total":118
+}
+]
+},
+{
+"date":"2021-09-21",
+"downloads_per_basename":[
+{
+"basename":"htseq-0.6.1.post1-py27hfd4ddd4_4.tar.bz2",
+"total":88
 }
 ]
 }

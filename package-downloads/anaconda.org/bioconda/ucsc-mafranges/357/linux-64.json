@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-mafranges-357-1.tar.bz2",
-"total":312
+"total":313
 },
 {
 "basename":"ucsc-mafranges-357-0.tar.bz2",
@@ -150,6 +150,10 @@
 {
 "date":"2021-09-20",
 "total":846
+},
+{
+"date":"2021-09-21",
+"total":847
 }
 ],
 "package":"ucsc-mafranges",
@@ -288,6 +292,15 @@
 {
 "basename":"ucsc-mafranges-357-1.tar.bz2",
 "total":312
+}
+]
+},
+{
+"date":"2021-09-21",
+"downloads_per_basename":[
+{
+"basename":"ucsc-mafranges-357-1.tar.bz2",
+"total":313
 }
 ]
 }

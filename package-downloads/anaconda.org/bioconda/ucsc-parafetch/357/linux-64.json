@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-parafetch-357-1.tar.bz2",
-"total":398
+"total":399
 },
 {
 "basename":"ucsc-parafetch-357-0.tar.bz2",
@@ -130,6 +130,10 @@
 {
 "date":"2021-09-20",
 "total":833
+},
+{
+"date":"2021-09-21",
+"total":834
 }
 ],
 "package":"ucsc-parafetch",
@@ -263,6 +267,15 @@
 {
 "basename":"ucsc-parafetch-357-1.tar.bz2",
 "total":398
+}
+]
+},
+{
+"date":"2021-09-21",
+"downloads_per_basename":[
+{
+"basename":"ucsc-parafetch-357-1.tar.bz2",
+"total":399
 }
 ]
 }

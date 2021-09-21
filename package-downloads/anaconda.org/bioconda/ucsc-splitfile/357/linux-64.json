@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-splitfile-357-1.tar.bz2",
-"total":445
+"total":446
 }
 ],
 "downloads_per_date":[
@@ -162,6 +162,10 @@
 {
 "date":"2021-09-20",
 "total":861
+},
+{
+"date":"2021-09-21",
+"total":862
 }
 ],
 "package":"ucsc-splitfile",
@@ -322,6 +326,15 @@
 {
 "basename":"ucsc-splitfile-357-1.tar.bz2",
 "total":445
+}
+]
+},
+{
+"date":"2021-09-21",
+"downloads_per_basename":[
+{
+"basename":"ucsc-splitfile-357-1.tar.bz2",
+"total":446
 }
 ]
 }

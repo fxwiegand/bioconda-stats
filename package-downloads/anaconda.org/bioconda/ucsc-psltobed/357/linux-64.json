@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-psltobed-357-1.tar.bz2",
-"total":462
+"total":463
 }
 ],
 "downloads_per_date":[
@@ -154,6 +154,10 @@
 {
 "date":"2021-09-20",
 "total":880
+},
+{
+"date":"2021-09-21",
+"total":881
 }
 ],
 "package":"ucsc-psltobed",
@@ -296,6 +300,15 @@
 {
 "basename":"ucsc-psltobed-357-1.tar.bz2",
 "total":462
+}
+]
+},
+{
+"date":"2021-09-21",
+"downloads_per_basename":[
+{
+"basename":"ucsc-psltobed-357-1.tar.bz2",
+"total":463
 }
 ]
 }

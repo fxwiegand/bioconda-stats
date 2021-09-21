@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-io-uncompress-bunzip2-2.064-pl5.22.0_0.tar.bz2",
-"total":581
+"total":582
 }
 ],
 "downloads_per_date":[
@@ -94,6 +94,10 @@
 {
 "date":"2021-09-20",
 "total":842
+},
+{
+"date":"2021-09-21",
+"total":843
 }
 ],
 "package":"perl-io-uncompress-bunzip2",
@@ -162,6 +166,15 @@
 {
 "basename":"perl-io-uncompress-bunzip2-2.064-pl526_1.tar.bz2",
 "total":261
+}
+]
+},
+{
+"date":"2021-09-21",
+"downloads_per_basename":[
+{
+"basename":"perl-io-uncompress-bunzip2-2.064-pl5.22.0_0.tar.bz2",
+"total":582
 }
 ]
 }

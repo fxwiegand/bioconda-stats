@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-subchar-357-1.tar.bz2",
-"total":309
+"total":310
 },
 {
 "basename":"ucsc-subchar-357-0.tar.bz2",
@@ -138,6 +138,10 @@
 {
 "date":"2021-09-20",
 "total":851
+},
+{
+"date":"2021-09-21",
+"total":852
 }
 ],
 "package":"ucsc-subchar",
@@ -267,6 +271,15 @@
 {
 "basename":"ucsc-subchar-357-1.tar.bz2",
 "total":309
+}
+]
+},
+{
+"date":"2021-09-21",
+"downloads_per_basename":[
+{
+"basename":"ucsc-subchar-357-1.tar.bz2",
+"total":310
 }
 ]
 }
