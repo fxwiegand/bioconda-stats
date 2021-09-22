@@ -23,7 +23,7 @@
 },
 {
 "basename":"perl-data-uuid-1.221-3.tar.bz2",
-"total":5023
+"total":5024
 }
 ],
 "downloads_per_date":[
@@ -126,6 +126,10 @@
 {
 "date":"2021-09-21",
 "total":8426
+},
+{
+"date":"2021-09-22",
+"total":8427
 }
 ],
 "package":"perl-data-uuid",
@@ -307,6 +311,15 @@
 {
 "basename":"perl-data-uuid-1.221-pl526h2d50403_5.tar.bz2",
 "total":1448
+}
+]
+},
+{
+"date":"2021-09-22",
+"downloads_per_basename":[
+{
+"basename":"perl-data-uuid-1.221-3.tar.bz2",
+"total":5024
 }
 ]
 }

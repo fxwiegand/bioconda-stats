@@ -11,7 +11,7 @@
 },
 {
 "basename":"htslib-1.8-1.tar.bz2",
-"total":10000
+"total":10001
 }
 ],
 "downloads_per_date":[
@@ -442,6 +442,10 @@
 {
 "date":"2021-09-21",
 "total":12484
+},
+{
+"date":"2021-09-22",
+"total":12485
 }
 ],
 "package":"htslib",
@@ -929,6 +933,15 @@
 {
 "basename":"htslib-1.8-1.tar.bz2",
 "total":10000
+}
+]
+},
+{
+"date":"2021-09-22",
+"downloads_per_basename":[
+{
+"basename":"htslib-1.8-1.tar.bz2",
+"total":10001
 }
 ]
 }

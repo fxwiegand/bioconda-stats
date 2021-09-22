@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-file-util-4.161950-pl5.22.0_0.tar.bz2",
-"total":221
+"total":222
 },
 {
 "basename":"perl-file-util-4.161950-pl526_3.tar.bz2",
@@ -226,6 +226,10 @@
 {
 "date":"2021-09-21",
 "total":1103
+},
+{
+"date":"2021-09-22",
+"total":1104
 }
 ],
 "package":"perl-file-util",
@@ -429,6 +433,15 @@
 {
 "basename":"perl-file-util-4.161950-pl526_3.tar.bz2",
 "total":299
+}
+]
+},
+{
+"date":"2021-09-22",
+"downloads_per_basename":[
+{
+"basename":"perl-file-util-4.161950-pl5.22.0_0.tar.bz2",
+"total":222
 }
 ]
 }

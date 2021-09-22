@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-bedtogenepred-357-1.tar.bz2",
-"total":1358
+"total":1359
 }
 ],
 "downloads_per_date":[
@@ -398,6 +398,10 @@
 {
 "date":"2021-09-21",
 "total":1900
+},
+{
+"date":"2021-09-22",
+"total":1901
 }
 ],
 "package":"ucsc-bedtogenepred",
@@ -796,6 +800,15 @@
 {
 "basename":"ucsc-bedtogenepred-357-1.tar.bz2",
 "total":1358
+}
+]
+},
+{
+"date":"2021-09-22",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bedtogenepred-357-1.tar.bz2",
+"total":1359
 }
 ]
 }

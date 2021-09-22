@@ -7,7 +7,7 @@
 },
 {
 "basename":"genomedata-1.4.1-py27_0.tar.bz2",
-"total":258
+"total":259
 },
 {
 "basename":"genomedata-1.4.1-py27h470a237_2.tar.bz2",
@@ -138,6 +138,10 @@
 {
 "date":"2021-09-21",
 "total":759
+},
+{
+"date":"2021-09-22",
+"total":760
 }
 ],
 "package":"genomedata",
@@ -265,6 +269,15 @@
 {
 "basename":"genomedata-1.4.1-py27h470a237_2.tar.bz2",
 "total":300
+}
+]
+},
+{
+"date":"2021-09-22",
+"downloads_per_basename":[
+{
+"basename":"genomedata-1.4.1-py27_0.tar.bz2",
+"total":259
 }
 ]
 }

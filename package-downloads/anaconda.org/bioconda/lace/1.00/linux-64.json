@@ -7,7 +7,7 @@
 },
 {
 "basename":"lace-1.00-h516909a_2.tar.bz2",
-"total":52
+"total":53
 },
 {
 "basename":"lace-1.00-h470a237_1.tar.bz2",
@@ -170,6 +170,10 @@
 {
 "date":"2021-09-21",
 "total":1763
+},
+{
+"date":"2021-09-22",
+"total":1764
 }
 ],
 "package":"lace",
@@ -376,6 +380,15 @@
 {
 "basename":"lace-1.00-py27_0.tar.bz2",
 "total":545
+}
+]
+},
+{
+"date":"2021-09-22",
+"downloads_per_basename":[
+{
+"basename":"lace-1.00-h516909a_2.tar.bz2",
+"total":53
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"red-2015.05.22-h7d875b9_2.tar.bz2",
-"total":44
+"total":45
 },
 {
 "basename":"red-2015.05.22-hc9558a2_1.tar.bz2",
@@ -198,6 +198,10 @@
 {
 "date":"2021-09-21",
 "total":419
+},
+{
+"date":"2021-09-22",
+"total":420
 }
 ],
 "package":"red",
@@ -353,6 +357,15 @@
 {
 "basename":"red-2015.05.22-h2d50403_0.tar.bz2",
 "total":304
+}
+]
+},
+{
+"date":"2021-09-22",
+"downloads_per_basename":[
+{
+"basename":"red-2015.05.22-h7d875b9_2.tar.bz2",
+"total":45
 }
 ]
 }
