@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"dcmtk-3.6.5-h6e3f024_1.tar.bz2",
-"total":67
+"total":68
 },
 {
 "basename":"dcmtk-3.6.5-h5fca97b_0.tar.bz2",
@@ -270,6 +270,10 @@
 {
 "date":"2021-09-22",
 "total":213
+},
+{
+"date":"2021-09-23",
+"total":214
 }
 ],
 "package":"dcmtk",
@@ -577,6 +581,15 @@
 {
 "basename":"dcmtk-3.6.5-h5fca97b_0.tar.bz2",
 "total":146
+}
+]
+},
+{
+"date":"2021-09-23",
+"downloads_per_basename":[
+{
+"basename":"dcmtk-3.6.5-h6e3f024_1.tar.bz2",
+"total":68
 }
 ]
 }

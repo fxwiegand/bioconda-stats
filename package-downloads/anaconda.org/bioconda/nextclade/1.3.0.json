@@ -88,6 +88,10 @@
 {
 "date":"2021-09-22",
 "total":224
+},
+{
+"date":"2021-09-23",
+"total":228
 }
 ],
 "downloads_per_subdir":[
@@ -97,7 +101,7 @@
 },
 {
 "subdir":"linux-64",
-"total":166
+"total":170
 }
 ],
 "package":"nextclade",
@@ -365,6 +369,15 @@
 {
 "subdir":"linux-64",
 "total":166
+}
+]
+},
+{
+"date":"2021-09-23",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":170
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"quake-0.3.5-py27hed98c23_4.tar.bz2",
-"total":40
+"total":41
 },
 {
 "basename":"quake-0.3.5-py27he1c1bb9_3.tar.bz2",
@@ -134,6 +134,10 @@
 {
 "date":"2021-09-22",
 "total":1574
+},
+{
+"date":"2021-09-23",
+"total":1575
 }
 ],
 "package":"quake",
@@ -306,6 +310,15 @@
 {
 "basename":"quake-0.3.5-boost1.64_0.tar.bz2",
 "total":552
+}
+]
+},
+{
+"date":"2021-09-23",
+"downloads_per_basename":[
+{
+"basename":"quake-0.3.5-py27hed98c23_4.tar.bz2",
+"total":41
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-test-nowarnings-1.04-pl526_3.tar.bz2",
-"total":984
+"total":986
 },
 {
 "basename":"perl-test-nowarnings-1.04-1.tar.bz2",
@@ -230,6 +230,10 @@
 {
 "date":"2021-09-22",
 "total":3286
+},
+{
+"date":"2021-09-23",
+"total":3288
 }
 ],
 "package":"perl-test-nowarnings",
@@ -376,6 +380,15 @@
 {
 "basename":"perl-test-nowarnings-1.04-pl526_3.tar.bz2",
 "total":984
+}
+]
+},
+{
+"date":"2021-09-23",
+"downloads_per_basename":[
+{
+"basename":"perl-test-nowarnings-1.04-pl526_3.tar.bz2",
+"total":986
 }
 ]
 }
