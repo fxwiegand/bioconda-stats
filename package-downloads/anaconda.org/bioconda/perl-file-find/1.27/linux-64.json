@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-file-find-1.27-pl526_1.tar.bz2",
-"total":421
+"total":423
 },
 {
 "basename":"perl-file-find-1.27-pl5.22.0_0.tar.bz2",
@@ -150,6 +150,10 @@
 {
 "date":"2021-09-23",
 "total":992
+},
+{
+"date":"2021-09-24",
+"total":994
 }
 ],
 "package":"perl-file-find",
@@ -266,6 +270,15 @@
 {
 "basename":"perl-file-find-1.27-pl5.22.0_0.tar.bz2",
 "total":571
+}
+]
+},
+{
+"date":"2021-09-24",
+"downloads_per_basename":[
+{
+"basename":"perl-file-find-1.27-pl526_1.tar.bz2",
+"total":423
 }
 ]
 }

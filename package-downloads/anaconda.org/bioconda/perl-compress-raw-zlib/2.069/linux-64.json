@@ -23,7 +23,7 @@
 },
 {
 "basename":"perl-compress-raw-zlib-2.069-3.tar.bz2",
-"total":22403
+"total":22405
 }
 ],
 "downloads_per_date":[
@@ -458,6 +458,10 @@
 {
 "date":"2021-09-23",
 "total":26817
+},
+{
+"date":"2021-09-24",
+"total":26819
 }
 ],
 "package":"perl-compress-raw-zlib",
@@ -968,6 +972,15 @@
 {
 "basename":"perl-compress-raw-zlib-2.069-3.tar.bz2",
 "total":22403
+}
+]
+},
+{
+"date":"2021-09-24",
+"downloads_per_basename":[
+{
+"basename":"perl-compress-raw-zlib-2.069-3.tar.bz2",
+"total":22405
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-protgenerics-1.12.0-r341_0.tar.bz2",
-"total":8261
+"total":8262
 }
 ],
 "downloads_per_date":[
@@ -162,6 +162,10 @@
 {
 "date":"2021-09-23",
 "total":9334
+},
+{
+"date":"2021-09-24",
+"total":9335
 }
 ],
 "package":"bioconductor-protgenerics",
@@ -274,6 +278,15 @@
 {
 "basename":"bioconductor-protgenerics-1.12.0-r351_0.tar.bz2",
 "total":1073
+}
+]
+},
+{
+"date":"2021-09-24",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-protgenerics-1.12.0-r341_0.tar.bz2",
+"total":8262
 }
 ]
 }

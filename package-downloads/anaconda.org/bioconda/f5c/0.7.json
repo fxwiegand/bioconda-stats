@@ -124,6 +124,10 @@
 {
 "date":"2021-09-23",
 "total":88
+},
+{
+"date":"2021-09-24",
+"total":90
 }
 ],
 "downloads_per_subdir":[
@@ -133,7 +137,7 @@
 },
 {
 "subdir":"osx-64",
-"total":63
+"total":65
 }
 ],
 "package":"f5c",
@@ -450,6 +454,15 @@
 {
 "subdir":"linux-64",
 "total":25
+}
+]
+},
+{
+"date":"2021-09-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":65
 }
 ]
 }

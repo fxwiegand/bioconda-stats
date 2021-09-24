@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-bsseq-1.26.0-r40h5f743cb_0.tar.bz2",
-"total":403
+"total":404
 }
 ],
 "downloads_per_date":[
@@ -294,6 +294,10 @@
 {
 "date":"2021-09-23",
 "total":622
+},
+{
+"date":"2021-09-24",
+"total":623
 }
 ],
 "package":"bioconductor-bsseq",
@@ -517,6 +521,15 @@
 {
 "basename":"bioconductor-bsseq-1.26.0-r40h399db7b_1.tar.bz2",
 "total":219
+}
+]
+},
+{
+"date":"2021-09-24",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bsseq-1.26.0-r40h5f743cb_0.tar.bz2",
+"total":404
 }
 ]
 }
