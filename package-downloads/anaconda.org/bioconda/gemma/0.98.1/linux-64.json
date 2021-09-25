@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"gemma-0.98.1-hb4ccc14_1.tar.bz2",
-"total":150
+"total":154
 },
 {
 "basename":"gemma-0.98.1-hb5738dd_0.tar.bz2",
@@ -162,6 +162,10 @@
 {
 "date":"2021-09-24",
 "total":510
+},
+{
+"date":"2021-09-25",
+"total":514
 }
 ],
 "package":"gemma",
@@ -313,6 +317,15 @@
 {
 "basename":"gemma-0.98.1-hb5738dd_0.tar.bz2",
 "total":360
+}
+]
+},
+{
+"date":"2021-09-25",
+"downloads_per_basename":[
+{
+"basename":"gemma-0.98.1-hb4ccc14_1.tar.bz2",
+"total":154
 }
 ]
 }

@@ -240,6 +240,10 @@
 {
 "date":"2021-09-24",
 "total":203
+},
+{
+"date":"2021-09-25",
+"total":205
 }
 ],
 "downloads_per_subdir":[
@@ -249,7 +253,7 @@
 },
 {
 "subdir":"osx-64",
-"total":123
+"total":125
 }
 ],
 "package":"snp-dists",
@@ -923,6 +927,15 @@
 {
 "subdir":"osx-64",
 "total":123
+}
+]
+},
+{
+"date":"2021-09-25",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":125
 }
 ]
 }

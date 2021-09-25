@@ -31,7 +31,7 @@
 },
 {
 "basename":"gatk-3.6-5.tar.bz2",
-"total":5857
+"total":5859
 }
 ],
 "downloads_per_date":[
@@ -362,6 +362,10 @@
 {
 "date":"2021-09-24",
 "total":13507
+},
+{
+"date":"2021-09-25",
+"total":13509
 }
 ],
 "package":"gatk",
@@ -795,6 +799,15 @@
 {
 "basename":"gatk-3.6-5.tar.bz2",
 "total":5857
+}
+]
+},
+{
+"date":"2021-09-25",
+"downloads_per_basename":[
+{
+"basename":"gatk-3.6-5.tar.bz2",
+"total":5859
 }
 ]
 }

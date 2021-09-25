@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"opsin-2.4.0-0.tar.bz2",
-"total":150
+"total":151
 }
 ],
 "downloads_per_date":[
@@ -118,6 +118,10 @@
 {
 "date":"2021-09-24",
 "total":150
+},
+{
+"date":"2021-09-25",
+"total":151
 }
 ],
 "package":"opsin",
@@ -200,6 +204,15 @@
 {
 "basename":"opsin-2.4.0-0.tar.bz2",
 "total":150
+}
+]
+},
+{
+"date":"2021-09-25",
+"downloads_per_basename":[
+{
+"basename":"opsin-2.4.0-0.tar.bz2",
+"total":151
 }
 ]
 }

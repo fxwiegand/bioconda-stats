@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-vsn-3.58.0-r40hd029910_1.tar.bz2",
-"total":659
+"total":664
 },
 {
 "basename":"bioconductor-vsn-3.58.0-r40h037d062_0.tar.bz2",
@@ -406,6 +406,10 @@
 {
 "date":"2021-09-24",
 "total":1359
+},
+{
+"date":"2021-09-25",
+"total":1364
 }
 ],
 "package":"bioconductor-vsn",
@@ -750,6 +754,15 @@
 {
 "basename":"bioconductor-vsn-3.58.0-r40hd029910_1.tar.bz2",
 "total":659
+}
+]
+},
+{
+"date":"2021-09-25",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-vsn-3.58.0-r40hd029910_1.tar.bz2",
+"total":664
 }
 ]
 }

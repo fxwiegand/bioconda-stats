@@ -7,7 +7,7 @@
 },
 {
 "basename":"toil-3.5.0a1-py27_0.tar.bz2",
-"total":615
+"total":616
 },
 {
 "basename":"toil-3.5.0a1-py27_2.tar.bz2",
@@ -154,6 +154,10 @@
 {
 "date":"2021-09-24",
 "total":2513
+},
+{
+"date":"2021-09-25",
+"total":2514
 }
 ],
 "package":"toil",
@@ -323,6 +327,15 @@
 {
 "basename":"toil-3.5.0a1-py27_1.tar.bz2",
 "total":604
+}
+]
+},
+{
+"date":"2021-09-25",
+"downloads_per_basename":[
+{
+"basename":"toil-3.5.0a1-py27_0.tar.bz2",
+"total":616
 }
 ]
 }
