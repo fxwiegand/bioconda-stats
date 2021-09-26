@@ -11,7 +11,7 @@
 },
 {
 "basename":"rna-seqc-2.3.5-h76d5d7d_1.tar.bz2",
-"total":5609
+"total":5611
 }
 ],
 "downloads_per_date":[
@@ -366,6 +366,10 @@
 {
 "date":"2021-09-25",
 "total":5909
+},
+{
+"date":"2021-09-26",
+"total":5911
 }
 ],
 "package":"rna-seqc",
@@ -697,6 +701,15 @@
 {
 "basename":"rna-seqc-2.3.5-he24ac62_2.tar.bz2",
 "total":101
+}
+]
+},
+{
+"date":"2021-09-26",
+"downloads_per_basename":[
+{
+"basename":"rna-seqc-2.3.5-h76d5d7d_1.tar.bz2",
+"total":5611
 }
 ]
 }
