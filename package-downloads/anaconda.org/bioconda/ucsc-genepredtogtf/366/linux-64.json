@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-genepredtogtf-366-hdd26221_0.tar.bz2",
-"total":590
+"total":591
 },
 {
 "basename":"ucsc-genepredtogtf-366-h5eb252a_0.tar.bz2",
@@ -206,6 +206,10 @@
 {
 "date":"2021-09-26",
 "total":1500
+},
+{
+"date":"2021-09-27",
+"total":1501
 }
 ],
 "package":"ucsc-genepredtogtf",
@@ -395,6 +399,15 @@
 {
 "basename":"ucsc-genepredtogtf-366-h5eb252a_0.tar.bz2",
 "total":752
+}
+]
+},
+{
+"date":"2021-09-27",
+"downloads_per_basename":[
+{
+"basename":"ucsc-genepredtogtf-366-hdd26221_0.tar.bz2",
+"total":591
 }
 ]
 }

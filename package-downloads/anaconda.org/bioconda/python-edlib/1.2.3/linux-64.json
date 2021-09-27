@@ -15,7 +15,7 @@
 },
 {
 "basename":"python-edlib-1.2.3-py36_0.tar.bz2",
-"total":268
+"total":269
 },
 {
 "basename":"python-edlib-1.2.3-py27_0.tar.bz2",
@@ -134,6 +134,10 @@
 {
 "date":"2021-09-26",
 "total":1952
+},
+{
+"date":"2021-09-27",
+"total":1953
 }
 ],
 "package":"python-edlib",
@@ -331,6 +335,15 @@
 {
 "basename":"python-edlib-1.2.3-py27_0.tar.bz2",
 "total":603
+}
+]
+},
+{
+"date":"2021-09-27",
+"downloads_per_basename":[
+{
+"basename":"python-edlib-1.2.3-py36_0.tar.bz2",
+"total":269
 }
 ]
 }
