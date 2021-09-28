@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconda-utils-0.11.4-np114py36_1.tar.bz2",
-"total":236
+"total":237
 },
 {
 "basename":"bioconda-utils-0.11.4-np114py36_0.tar.bz2",
@@ -138,6 +138,10 @@
 {
 "date":"2021-09-27",
 "total":1081
+},
+{
+"date":"2021-09-28",
+"total":1082
 }
 ],
 "package":"bioconda-utils",
@@ -308,6 +312,15 @@
 {
 "basename":"bioconda-utils-0.11.4-np114py35_0.tar.bz2",
 "total":348
+}
+]
+},
+{
+"date":"2021-09-28",
+"downloads_per_basename":[
+{
+"basename":"bioconda-utils-0.11.4-np114py36_1.tar.bz2",
+"total":237
 }
 ]
 }
