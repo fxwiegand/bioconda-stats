@@ -23,7 +23,7 @@
 },
 {
 "basename":"bx-python-0.8.2-py27hebb334c_2.tar.bz2",
-"total":2602
+"total":2603
 },
 {
 "basename":"bx-python-0.8.2-py36hebb334c_2.tar.bz2",
@@ -390,6 +390,10 @@
 {
 "date":"2021-09-28",
 "total":24386
+},
+{
+"date":"2021-09-29",
+"total":24387
 }
 ],
 "package":"bx-python",
@@ -837,6 +841,15 @@
 {
 "basename":"bx-python-0.8.2-py35h355e19c_0.tar.bz2",
 "total":481
+}
+]
+},
+{
+"date":"2021-09-29",
+"downloads_per_basename":[
+{
+"basename":"bx-python-0.8.2-py27hebb334c_2.tar.bz2",
+"total":2603
 }
 ]
 }

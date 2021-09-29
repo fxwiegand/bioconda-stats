@@ -31,7 +31,7 @@
 },
 {
 "basename":"medpy-0.4.0-py37he7aa291_2.tar.bz2",
-"total":81
+"total":82
 },
 {
 "basename":"medpy-0.4.0-py36h17a57d0_1.tar.bz2",
@@ -254,6 +254,10 @@
 {
 "date":"2021-09-28",
 "total":530
+},
+{
+"date":"2021-09-29",
+"total":531
 }
 ],
 "package":"medpy",
@@ -521,6 +525,15 @@
 {
 "basename":"medpy-0.4.0-py39hafbb4d9_3.tar.bz2",
 "total":32
+}
+]
+},
+{
+"date":"2021-09-29",
+"downloads_per_basename":[
+{
+"basename":"medpy-0.4.0-py37he7aa291_2.tar.bz2",
+"total":82
 }
 ]
 }

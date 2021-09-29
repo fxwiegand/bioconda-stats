@@ -19,7 +19,7 @@
 },
 {
 "basename":"r-rphast-1.6.9-r36hcdcec82_2.tar.bz2",
-"total":125
+"total":126
 },
 {
 "basename":"r-rphast-1.6.9-r351h96ca727_0.tar.bz2",
@@ -214,6 +214,10 @@
 {
 "date":"2021-09-28",
 "total":659
+},
+{
+"date":"2021-09-29",
+"total":660
 }
 ],
 "package":"r-rphast",
@@ -511,6 +515,15 @@
 {
 "basename":"r-rphast-1.6.9-r40hdf9a8c9_5.tar.bz2",
 "total":44
+}
+]
+},
+{
+"date":"2021-09-29",
+"downloads_per_basename":[
+{
+"basename":"r-rphast-1.6.9-r36hcdcec82_2.tar.bz2",
+"total":126
 }
 ]
 }

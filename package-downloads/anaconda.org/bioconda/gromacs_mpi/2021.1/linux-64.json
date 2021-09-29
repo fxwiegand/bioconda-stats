@@ -7,7 +7,7 @@
 },
 {
 "basename":"gromacs_mpi-2021.1-h9969a6a_0.tar.bz2",
-"total":65
+"total":66
 }
 ],
 "downloads_per_date":[
@@ -186,6 +186,10 @@
 {
 "date":"2021-09-28",
 "total":112
+},
+{
+"date":"2021-09-29",
+"total":113
 }
 ],
 "package":"gromacs_mpi",
@@ -359,6 +363,15 @@
 {
 "basename":"gromacs_mpi-2021.1-h9969a6a_0.tar.bz2",
 "total":65
+}
+]
+},
+{
+"date":"2021-09-29",
+"downloads_per_basename":[
+{
+"basename":"gromacs_mpi-2021.1-h9969a6a_0.tar.bz2",
+"total":66
 }
 ]
 }

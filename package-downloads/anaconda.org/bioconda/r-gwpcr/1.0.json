@@ -220,6 +220,10 @@
 {
 "date":"2021-09-28",
 "total":123
+},
+{
+"date":"2021-09-29",
+"total":125
 }
 ],
 "downloads_per_subdir":[
@@ -229,7 +233,7 @@
 },
 {
 "subdir":"osx-64",
-"total":112
+"total":114
 }
 ],
 "package":"r-gwpcr",
@@ -750,6 +754,15 @@
 {
 "subdir":"osx-64",
 "total":112
+}
+]
+},
+{
+"date":"2021-09-29",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":114
 }
 ]
 }
