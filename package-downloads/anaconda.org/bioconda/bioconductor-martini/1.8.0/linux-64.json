@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-martini-1.8.0-r40h5f743cb_0.tar.bz2",
-"total":60
+"total":61
 }
 ],
 "downloads_per_date":[
@@ -90,6 +90,10 @@
 {
 "date":"2021-09-29",
 "total":60
+},
+{
+"date":"2021-09-30",
+"total":61
 }
 ],
 "package":"bioconductor-martini",
@@ -145,6 +149,15 @@
 {
 "basename":"bioconductor-martini-1.8.0-r40h5f743cb_0.tar.bz2",
 "total":60
+}
+]
+},
+{
+"date":"2021-09-30",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-martini-1.8.0-r40h5f743cb_0.tar.bz2",
+"total":61
 }
 ]
 }
