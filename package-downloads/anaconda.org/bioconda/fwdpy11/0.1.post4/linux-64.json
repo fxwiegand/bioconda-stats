@@ -7,7 +7,7 @@
 },
 {
 "basename":"fwdpy11-0.1.post4-py34_gsl1.16_0.tar.bz2",
-"total":497
+"total":498
 },
 {
 "basename":"fwdpy11-0.1.post4-py35_gsl1.16_0.tar.bz2",
@@ -138,6 +138,10 @@
 {
 "date":"2021-09-30",
 "total":1478
+},
+{
+"date":"2021-10-01",
+"total":1479
 }
 ],
 "package":"fwdpy11",
@@ -255,6 +259,15 @@
 {
 "basename":"fwdpy11-0.1.post4-py35_gsl1.16_0.tar.bz2",
 "total":524
+}
+]
+},
+{
+"date":"2021-10-01",
+"downloads_per_basename":[
+{
+"basename":"fwdpy11-0.1.post4-py34_gsl1.16_0.tar.bz2",
+"total":498
 }
 ]
 }

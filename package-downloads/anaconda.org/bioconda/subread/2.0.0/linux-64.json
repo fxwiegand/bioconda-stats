@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"subread-2.0.0-hed695b0_0.tar.bz2",
-"total":9809
+"total":9811
 }
 ],
 "downloads_per_date":[
@@ -442,6 +442,10 @@
 {
 "date":"2021-09-30",
 "total":9809
+},
+{
+"date":"2021-10-01",
+"total":9811
 }
 ],
 "package":"subread",
@@ -812,6 +816,15 @@
 {
 "basename":"subread-2.0.0-hed695b0_0.tar.bz2",
 "total":9809
+}
+]
+},
+{
+"date":"2021-10-01",
+"downloads_per_basename":[
+{
+"basename":"subread-2.0.0-hed695b0_0.tar.bz2",
+"total":9811
 }
 ]
 }
