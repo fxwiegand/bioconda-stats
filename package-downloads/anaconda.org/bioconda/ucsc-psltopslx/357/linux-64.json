@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-psltopslx-357-1.tar.bz2",
-"total":345
+"total":346
 },
 {
 "basename":"ucsc-psltopslx-357-0.tar.bz2",
@@ -166,6 +166,10 @@
 {
 "date":"2021-10-01",
 "total":894
+},
+{
+"date":"2021-10-02",
+"total":895
 }
 ],
 "package":"ucsc-psltopslx",
@@ -300,6 +304,15 @@
 {
 "basename":"ucsc-psltopslx-357-0.tar.bz2",
 "total":549
+}
+]
+},
+{
+"date":"2021-10-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-psltopslx-357-1.tar.bz2",
+"total":346
 }
 ]
 }

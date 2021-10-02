@@ -2,12 +2,12 @@
 "channel":"bioconda",
 "downloads_per_basename":[
 {
-"basename":"entrez-direct-15.6-h193322a_0.tar.bz2",
-"total":2927
+"basename":"entrez-direct-15.6-h193322a_1.tar.bz2",
+"total":99
 },
 {
-"basename":"entrez-direct-15.6-h193322a_1.tar.bz2",
-"total":3411
+"basename":"entrez-direct-15.6-h193322a_0.tar.bz2",
+"total":2927
 }
 ],
 "downloads_per_date":[
@@ -106,6 +106,10 @@
 {
 "date":"2021-10-01",
 "total":6338
+},
+{
+"date":"2021-10-02",
+"total":3026
 }
 ],
 "package":"entrez-direct",

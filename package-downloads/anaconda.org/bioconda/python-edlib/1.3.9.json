@@ -164,6 +164,10 @@
 {
 "date":"2021-10-01",
 "total":1060
+},
+{
+"date":"2021-10-02",
+"total":1075
 }
 ],
 "downloads_per_subdir":[
@@ -173,7 +177,7 @@
 },
 {
 "subdir":"linux-64",
-"total":908
+"total":923
 }
 ],
 "package":"python-edlib",
@@ -704,6 +708,15 @@
 {
 "subdir":"linux-64",
 "total":908
+}
+]
+},
+{
+"date":"2021-10-02",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":923
 }
 ]
 }

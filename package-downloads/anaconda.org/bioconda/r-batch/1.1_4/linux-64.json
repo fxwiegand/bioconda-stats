@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-batch-1.1_4-r3.3.2_1.tar.bz2",
-"total":1408
+"total":1409
 },
 {
 "basename":"r-batch-1.1_4-r3.2.2_0.tar.bz2",
@@ -110,6 +110,10 @@
 {
 "date":"2021-10-01",
 "total":4533
+},
+{
+"date":"2021-10-02",
+"total":4534
 }
 ],
 "package":"r-batch",
@@ -235,6 +239,15 @@
 {
 "basename":"r-batch-1.1_4-r3.2.2_0.tar.bz2",
 "total":1479
+}
+]
+},
+{
+"date":"2021-10-02",
+"downloads_per_basename":[
+{
+"basename":"r-batch-1.1_4-r3.3.2_1.tar.bz2",
+"total":1409
 }
 ]
 }

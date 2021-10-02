@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-bsgenome-1.38.0-0.tar.bz2",
-"total":5752
+"total":5754
 }
 ],
 "downloads_per_date":[
@@ -422,6 +422,10 @@
 {
 "date":"2021-10-01",
 "total":5752
+},
+{
+"date":"2021-10-02",
+"total":5754
 }
 ],
 "package":"bioconductor-bsgenome",
@@ -738,6 +742,15 @@
 {
 "basename":"bioconductor-bsgenome-1.38.0-0.tar.bz2",
 "total":5752
+}
+]
+},
+{
+"date":"2021-10-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bsgenome-1.38.0-0.tar.bz2",
+"total":5754
 }
 ]
 }

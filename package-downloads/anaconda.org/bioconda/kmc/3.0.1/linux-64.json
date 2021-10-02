@@ -11,7 +11,7 @@
 },
 {
 "basename":"kmc-3.0.1-noasmlib_2.tar.bz2",
-"total":634
+"total":635
 }
 ],
 "downloads_per_date":[
@@ -242,6 +242,10 @@
 {
 "date":"2021-10-01",
 "total":1435
+},
+{
+"date":"2021-10-02",
+"total":1436
 }
 ],
 "package":"kmc",
@@ -470,6 +474,15 @@
 {
 "basename":"kmc-3.0.1-noasmlib_2.tar.bz2",
 "total":634
+}
+]
+},
+{
+"date":"2021-10-02",
+"downloads_per_basename":[
+{
+"basename":"kmc-3.0.1-noasmlib_2.tar.bz2",
+"total":635
 }
 ]
 }

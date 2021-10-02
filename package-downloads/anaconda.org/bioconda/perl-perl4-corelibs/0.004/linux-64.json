@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-perl4-corelibs-0.004-pl526_1.tar.bz2",
-"total":315
+"total":316
 },
 {
 "basename":"perl-perl4-corelibs-0.004-pl5.22.0_0.tar.bz2",
@@ -234,6 +234,10 @@
 {
 "date":"2021-10-01",
 "total":634
+},
+{
+"date":"2021-10-02",
+"total":635
 }
 ],
 "package":"perl-perl4-corelibs",
@@ -391,6 +395,15 @@
 {
 "basename":"perl-perl4-corelibs-0.004-pl5.22.0_0.tar.bz2",
 "total":319
+}
+]
+},
+{
+"date":"2021-10-02",
+"downloads_per_basename":[
+{
+"basename":"perl-perl4-corelibs-0.004-pl526_1.tar.bz2",
+"total":316
 }
 ]
 }

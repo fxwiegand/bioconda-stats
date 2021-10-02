@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-gff3togenepred-377-h0b8a92a_2.tar.bz2",
-"total":945
+"total":962
 },
 {
 "basename":"ucsc-gff3togenepred-377-h446ed27_1.tar.bz2",
@@ -486,6 +486,10 @@
 {
 "date":"2021-10-01",
 "total":3678
+},
+{
+"date":"2021-10-02",
+"total":3695
 }
 ],
 "package":"ucsc-gff3togenepred",
@@ -981,6 +985,15 @@
 {
 "basename":"ucsc-gff3togenepred-377-h446ed27_1.tar.bz2",
 "total":2086
+}
+]
+},
+{
+"date":"2021-10-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-gff3togenepred-377-h0b8a92a_2.tar.bz2",
+"total":962
 }
 ]
 }

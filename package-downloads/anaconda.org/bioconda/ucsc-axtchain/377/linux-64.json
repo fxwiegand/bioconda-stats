@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-axtchain-377-h0b8a92a_2.tar.bz2",
-"total":212
+"total":213
 },
 {
 "basename":"ucsc-axtchain-377-h199ee4e_0.tar.bz2",
@@ -358,6 +358,10 @@
 {
 "date":"2021-10-01",
 "total":624
+},
+{
+"date":"2021-10-02",
+"total":625
 }
 ],
 "package":"ucsc-axtchain",
@@ -678,6 +682,15 @@
 {
 "basename":"ucsc-axtchain-377-h199ee4e_0.tar.bz2",
 "total":216
+}
+]
+},
+{
+"date":"2021-10-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-axtchain-377-h0b8a92a_2.tar.bz2",
+"total":213
 }
 ]
 }

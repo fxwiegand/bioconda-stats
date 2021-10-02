@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-camera-1.46.0-r40h037d062_0.tar.bz2",
-"total":135
+"total":136
 },
 {
 "basename":"bioconductor-camera-1.46.0-r40hd029910_1.tar.bz2",
@@ -194,6 +194,10 @@
 {
 "date":"2021-10-01",
 "total":278
+},
+{
+"date":"2021-10-02",
+"total":279
 }
 ],
 "package":"bioconductor-camera",
@@ -350,6 +354,15 @@
 {
 "basename":"bioconductor-camera-1.46.0-r40hd029910_1.tar.bz2",
 "total":143
+}
+]
+},
+{
+"date":"2021-10-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-camera-1.46.0-r40h037d062_0.tar.bz2",
+"total":136
 }
 ]
 }

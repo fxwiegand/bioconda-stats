@@ -31,7 +31,7 @@
 },
 {
 "basename":"khmer-2.0-py36h470a237_2.tar.bz2",
-"total":807
+"total":809
 },
 {
 "basename":"khmer-2.0-py35_1.tar.bz2",
@@ -350,6 +350,10 @@
 {
 "date":"2021-10-01",
 "total":5812
+},
+{
+"date":"2021-10-02",
+"total":5814
 }
 ],
 "package":"khmer",
@@ -771,6 +775,15 @@
 {
 "basename":"khmer-2.0-py36h470a237_2.tar.bz2",
 "total":807
+}
+]
+},
+{
+"date":"2021-10-02",
+"downloads_per_basename":[
+{
+"basename":"khmer-2.0-py36h470a237_2.tar.bz2",
+"total":809
 }
 ]
 }

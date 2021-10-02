@@ -7,7 +7,7 @@
 },
 {
 "basename":"glpk-4.57-0.tar.bz2",
-"total":8679
+"total":8680
 }
 ],
 "downloads_per_date":[
@@ -506,6 +506,10 @@
 {
 "date":"2021-10-01",
 "total":9582
+},
+{
+"date":"2021-10-02",
+"total":9583
 }
 ],
 "package":"glpk",
@@ -1030,6 +1034,15 @@
 {
 "basename":"glpk-4.57-0.tar.bz2",
 "total":8679
+}
+]
+},
+{
+"date":"2021-10-02",
+"downloads_per_basename":[
+{
+"basename":"glpk-4.57-0.tar.bz2",
+"total":8680
 }
 ]
 }
