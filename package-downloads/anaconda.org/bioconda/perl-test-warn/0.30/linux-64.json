@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-test-warn-0.30-pl526_1.tar.bz2",
-"total":281
+"total":282
 },
 {
 "basename":"perl-test-warn-0.30-pl526_3.tar.bz2",
@@ -318,6 +318,10 @@
 {
 "date":"2021-10-02",
 "total":8989
+},
+{
+"date":"2021-10-03",
+"total":8990
 }
 ],
 "package":"perl-test-warn",
@@ -611,6 +615,15 @@
 {
 "basename":"perl-test-warn-0.30-0.tar.bz2",
 "total":4676
+}
+]
+},
+{
+"date":"2021-10-03",
+"downloads_per_basename":[
+{
+"basename":"perl-test-warn-0.30-pl526_1.tar.bz2",
+"total":282
 }
 ]
 }

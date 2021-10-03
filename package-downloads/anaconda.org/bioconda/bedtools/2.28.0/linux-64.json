@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bedtools-2.28.0-hdf88d34_0.tar.bz2",
-"total":63624
+"total":63625
 }
 ],
 "downloads_per_date":[
@@ -506,6 +506,10 @@
 {
 "date":"2021-10-02",
 "total":63624
+},
+{
+"date":"2021-10-03",
+"total":63625
 }
 ],
 "package":"bedtools",
@@ -975,6 +979,15 @@
 {
 "basename":"bedtools-2.28.0-hdf88d34_0.tar.bz2",
 "total":63624
+}
+]
+},
+{
+"date":"2021-10-03",
+"downloads_per_basename":[
+{
+"basename":"bedtools-2.28.0-hdf88d34_0.tar.bz2",
+"total":63625
 }
 ]
 }

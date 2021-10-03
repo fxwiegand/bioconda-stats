@@ -7,7 +7,7 @@
 },
 {
 "basename":"blat-35-2.tar.bz2",
-"total":2504
+"total":2506
 },
 {
 "basename":"blat-35-1.tar.bz2",
@@ -506,6 +506,10 @@
 {
 "date":"2021-10-02",
 "total":8112
+},
+{
+"date":"2021-10-03",
+"total":8114
 }
 ],
 "package":"blat",
@@ -985,6 +989,15 @@
 {
 "basename":"blat-35-1.tar.bz2",
 "total":4988
+}
+]
+},
+{
+"date":"2021-10-03",
+"downloads_per_basename":[
+{
+"basename":"blat-35-2.tar.bz2",
+"total":2506
 }
 ]
 }

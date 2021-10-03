@@ -7,7 +7,7 @@
 },
 {
 "basename":"lightning-0.2.dev0-py35_0.tar.bz2",
-"total":733
+"total":734
 },
 {
 "basename":"lightning-0.2.dev0-py36_0.tar.bz2",
@@ -202,6 +202,10 @@
 {
 "date":"2021-10-02",
 "total":3351
+},
+{
+"date":"2021-10-03",
+"total":3352
 }
 ],
 "package":"lightning",
@@ -399,6 +403,15 @@
 {
 "basename":"lightning-0.2.dev0-py27_0.tar.bz2",
 "total":1221
+}
+]
+},
+{
+"date":"2021-10-03",
+"downloads_per_basename":[
+{
+"basename":"lightning-0.2.dev0-py35_0.tar.bz2",
+"total":734
 }
 ]
 }

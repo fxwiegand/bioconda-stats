@@ -11,7 +11,7 @@
 },
 {
 "basename":"pybigwig-0.3.11-np112py27_0.tar.bz2",
-"total":255
+"total":256
 },
 {
 "basename":"pybigwig-0.3.11-np112py35_1.tar.bz2",
@@ -162,6 +162,10 @@
 {
 "date":"2021-10-02",
 "total":5827
+},
+{
+"date":"2021-10-03",
+"total":5828
 }
 ],
 "package":"pybigwig",
@@ -440,6 +444,15 @@
 {
 "basename":"pybigwig-0.3.11-py27he7a497f_2.tar.bz2",
 "total":1658
+}
+]
+},
+{
+"date":"2021-10-03",
+"downloads_per_basename":[
+{
+"basename":"pybigwig-0.3.11-np112py27_0.tar.bz2",
+"total":256
 }
 ]
 }

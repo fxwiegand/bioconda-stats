@@ -240,6 +240,10 @@
 {
 "date":"2021-10-02",
 "total":140
+},
+{
+"date":"2021-10-03",
+"total":142
 }
 ],
 "downloads_per_subdir":[
@@ -249,7 +253,7 @@
 },
 {
 "subdir":"osx-64",
-"total":123
+"total":125
 }
 ],
 "package":"tidehunter",
@@ -826,6 +830,15 @@
 {
 "subdir":"osx-64",
 "total":123
+}
+]
+},
+{
+"date":"2021-10-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":125
 }
 ]
 }

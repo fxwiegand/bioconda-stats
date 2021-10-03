@@ -15,7 +15,7 @@
 },
 {
 "basename":"yara-1.0.2-2.tar.bz2",
-"total":471
+"total":472
 }
 ],
 "downloads_per_date":[
@@ -358,6 +358,10 @@
 {
 "date":"2021-10-02",
 "total":1312
+},
+{
+"date":"2021-10-03",
+"total":1313
 }
 ],
 "package":"yara",
@@ -693,6 +697,15 @@
 {
 "basename":"yara-1.0.2-h9ee0642_3.tar.bz2",
 "total":222
+}
+]
+},
+{
+"date":"2021-10-03",
+"downloads_per_basename":[
+{
+"basename":"yara-1.0.2-2.tar.bz2",
+"total":472
 }
 ]
 }

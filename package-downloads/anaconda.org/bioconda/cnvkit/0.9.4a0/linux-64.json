@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"cnvkit-0.9.4a0-py35_0.tar.bz2",
-"total":256
+"total":257
 },
 {
 "basename":"cnvkit-0.9.4a0-py36_0.tar.bz2",
@@ -154,6 +154,10 @@
 {
 "date":"2021-10-02",
 "total":2281
+},
+{
+"date":"2021-10-03",
+"total":2282
 }
 ],
 "package":"cnvkit",
@@ -272,6 +276,15 @@
 {
 "basename":"cnvkit-0.9.4a0-py27_0.tar.bz2",
 "total":1105
+}
+]
+},
+{
+"date":"2021-10-03",
+"downloads_per_basename":[
+{
+"basename":"cnvkit-0.9.4a0-py35_0.tar.bz2",
+"total":257
 }
 ]
 }

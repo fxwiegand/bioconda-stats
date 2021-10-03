@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-ic10-1.4.2-r36h6115d3f_2.tar.bz2",
-"total":101
+"total":102
 },
 {
 "basename":"r-ic10-1.4.2-r351h6115d3f_1.tar.bz2",
@@ -170,6 +170,10 @@
 {
 "date":"2021-10-02",
 "total":711
+},
+{
+"date":"2021-10-03",
+"total":712
 }
 ],
 "package":"r-ic10",
@@ -387,6 +391,15 @@
 {
 "basename":"r-ic10-1.4.2-r341h6115d3f_0.tar.bz2",
 "total":288
+}
+]
+},
+{
+"date":"2021-10-03",
+"downloads_per_basename":[
+{
+"basename":"r-ic10-1.4.2-r36h6115d3f_2.tar.bz2",
+"total":102
 }
 ]
 }

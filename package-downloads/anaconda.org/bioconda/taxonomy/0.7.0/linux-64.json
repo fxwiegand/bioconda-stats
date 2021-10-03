@@ -7,7 +7,7 @@
 },
 {
 "basename":"taxonomy-0.7.0-py36h4c5857e_0.tar.bz2",
-"total":51
+"total":52
 },
 {
 "basename":"taxonomy-0.7.0-py38h4a8c8d9_1.tar.bz2",
@@ -374,6 +374,10 @@
 {
 "date":"2021-10-02",
 "total":724
+},
+{
+"date":"2021-10-03",
+"total":725
 }
 ],
 "package":"taxonomy",
@@ -809,6 +813,15 @@
 {
 "basename":"taxonomy-0.7.0-py37hf01694f_0.tar.bz2",
 "total":180
+}
+]
+},
+{
+"date":"2021-10-03",
+"downloads_per_basename":[
+{
+"basename":"taxonomy-0.7.0-py36h4c5857e_0.tar.bz2",
+"total":52
 }
 ]
 }

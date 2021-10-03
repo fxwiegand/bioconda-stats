@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-db-file-1.835-pl5.22.0_1.tar.bz2",
-"total":430
+"total":431
 },
 {
 "basename":"perl-db-file-1.835-pl5.18.2_0.tar.bz2",
@@ -454,6 +454,10 @@
 {
 "date":"2021-10-02",
 "total":27621
+},
+{
+"date":"2021-10-03",
+"total":27622
 }
 ],
 "package":"perl-db-file",
@@ -888,6 +892,15 @@
 {
 "basename":"perl-db-file-1.835-5.tar.bz2",
 "total":14939
+}
+]
+},
+{
+"date":"2021-10-03",
+"downloads_per_basename":[
+{
+"basename":"perl-db-file-1.835-pl5.22.0_1.tar.bz2",
+"total":431
 }
 ]
 }

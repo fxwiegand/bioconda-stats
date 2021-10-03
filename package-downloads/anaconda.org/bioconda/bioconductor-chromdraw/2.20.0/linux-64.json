@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-chromdraw-2.20.0-r40h399db7b_1.tar.bz2",
-"total":39
+"total":40
 },
 {
 "basename":"bioconductor-chromdraw-2.20.0-r40h5f743cb_0.tar.bz2",
@@ -138,6 +138,10 @@
 {
 "date":"2021-10-02",
 "total":103
+},
+{
+"date":"2021-10-03",
+"total":104
 }
 ],
 "package":"bioconductor-chromdraw",
@@ -271,6 +275,15 @@
 {
 "basename":"bioconductor-chromdraw-2.20.0-r40h5f743cb_0.tar.bz2",
 "total":64
+}
+]
+},
+{
+"date":"2021-10-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-chromdraw-2.20.0-r40h399db7b_1.tar.bz2",
+"total":40
 }
 ]
 }

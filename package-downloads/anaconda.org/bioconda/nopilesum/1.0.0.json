@@ -152,6 +152,10 @@
 {
 "date":"2021-10-02",
 "total":120
+},
+{
+"date":"2021-10-03",
+"total":121
 }
 ],
 "downloads_per_subdir":[
@@ -161,7 +165,7 @@
 },
 {
 "subdir":"osx-64",
-"total":88
+"total":89
 }
 ],
 "package":"nopilesum",
@@ -532,6 +536,15 @@
 {
 "subdir":"osx-64",
 "total":88
+}
+]
+},
+{
+"date":"2021-10-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":89
 }
 ]
 }

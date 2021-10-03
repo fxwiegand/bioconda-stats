@@ -7,7 +7,7 @@
 },
 {
 "basename":"bowtie-1.1.2-py34_1.tar.bz2",
-"total":471
+"total":472
 },
 {
 "basename":"bowtie-1.1.2-py35_0.tar.bz2",
@@ -430,6 +430,10 @@
 {
 "date":"2021-10-02",
 "total":12113
+},
+{
+"date":"2021-10-03",
+"total":12114
 }
 ],
 "package":"bowtie",
@@ -969,6 +973,15 @@
 {
 "basename":"bowtie-1.1.2-py27_2.tar.bz2",
 "total":5348
+}
+]
+},
+{
+"date":"2021-10-03",
+"downloads_per_basename":[
+{
+"basename":"bowtie-1.1.2-py34_1.tar.bz2",
+"total":472
 }
 ]
 }

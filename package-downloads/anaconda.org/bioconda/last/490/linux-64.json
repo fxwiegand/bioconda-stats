@@ -35,7 +35,7 @@
 },
 {
 "basename":"last-490-py27_2.tar.bz2",
-"total":412
+"total":413
 },
 {
 "basename":"last-490-py35_1.tar.bz2",
@@ -258,6 +258,10 @@
 {
 "date":"2021-10-02",
 "total":3354
+},
+{
+"date":"2021-10-03",
+"total":3355
 }
 ],
 "package":"last",
@@ -709,6 +713,15 @@
 {
 "basename":"last-490-hf484d3e_4.tar.bz2",
 "total":132
+}
+]
+},
+{
+"date":"2021-10-03",
+"downloads_per_basename":[
+{
+"basename":"last-490-py27_2.tar.bz2",
+"total":413
 }
 ]
 }

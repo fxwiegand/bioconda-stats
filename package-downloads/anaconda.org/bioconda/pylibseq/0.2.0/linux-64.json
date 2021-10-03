@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"pylibseq-0.2.0-py35h2d50403_2.tar.bz2",
-"total":143
+"total":144
 },
 {
 "basename":"pylibseq-0.2.0-py36h2d50403_2.tar.bz2",
@@ -162,6 +162,10 @@
 {
 "date":"2021-10-02",
 "total":1641
+},
+{
+"date":"2021-10-03",
+"total":1642
 }
 ],
 "package":"pylibseq",
@@ -381,6 +385,15 @@
 {
 "basename":"pylibseq-0.2.0-py35_0.tar.bz2",
 "total":553
+}
+]
+},
+{
+"date":"2021-10-03",
+"downloads_per_basename":[
+{
+"basename":"pylibseq-0.2.0-py35h2d50403_2.tar.bz2",
+"total":144
 }
 ]
 }

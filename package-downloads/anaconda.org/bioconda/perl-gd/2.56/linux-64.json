@@ -27,7 +27,7 @@
 },
 {
 "basename":"perl-gd-2.56-5.tar.bz2",
-"total":4036
+"total":4037
 },
 {
 "basename":"perl-gd-2.56-pl5.22.0_6.tar.bz2",
@@ -518,6 +518,10 @@
 {
 "date":"2021-10-02",
 "total":23120
+},
+{
+"date":"2021-10-03",
+"total":23121
 }
 ],
 "package":"perl-gd",
@@ -1199,6 +1203,15 @@
 {
 "basename":"perl-gd-2.56-5.tar.bz2",
 "total":4036
+}
+]
+},
+{
+"date":"2021-10-03",
+"downloads_per_basename":[
+{
+"basename":"perl-gd-2.56-5.tar.bz2",
+"total":4037
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-rmfadups-357-0.tar.bz2",
-"total":417
+"total":418
 },
 {
 "basename":"ucsc-rmfadups-357-1.tar.bz2",
@@ -154,6 +154,10 @@
 {
 "date":"2021-10-02",
 "total":844
+},
+{
+"date":"2021-10-03",
+"total":845
 }
 ],
 "package":"ucsc-rmfadups",
@@ -279,6 +283,15 @@
 {
 "basename":"ucsc-rmfadups-357-1.tar.bz2",
 "total":427
+}
+]
+},
+{
+"date":"2021-10-03",
+"downloads_per_basename":[
+{
+"basename":"ucsc-rmfadups-357-0.tar.bz2",
+"total":418
 }
 ]
 }

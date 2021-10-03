@@ -11,7 +11,7 @@
 },
 {
 "basename":"extract_genome_region-0.0.3-py27_1.tar.bz2",
-"total":238
+"total":239
 },
 {
 "basename":"extract_genome_region-0.0.3-py27_0.tar.bz2",
@@ -146,6 +146,10 @@
 {
 "date":"2021-10-02",
 "total":2500
+},
+{
+"date":"2021-10-03",
+"total":2501
 }
 ],
 "package":"extract_genome_region",
@@ -318,8 +322,12 @@
 ]
 },
 {
-"date":"2021-10-02",
+"date":"2021-10-03",
 "downloads_per_basename":[
+{
+"basename":"extract_genome_region-0.0.3-py27_1.tar.bz2",
+"total":239
+},
 {
 "basename":"extract_genome_region-0.0.3-py35_0.tar.bz2",
 "total":475

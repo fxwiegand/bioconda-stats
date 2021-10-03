@@ -48,6 +48,10 @@
 {
 "date":"2021-10-02",
 "total":82
+},
+{
+"date":"2021-10-03",
+"total":83
 }
 ],
 "downloads_per_subdir":[
@@ -57,7 +61,7 @@
 },
 {
 "subdir":"linux-64",
-"total":49
+"total":50
 }
 ],
 "package":"rust-bio-tools",
@@ -198,6 +202,15 @@
 {
 "subdir":"linux-64",
 "total":49
+}
+]
+},
+{
+"date":"2021-10-03",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":50
 }
 ]
 }

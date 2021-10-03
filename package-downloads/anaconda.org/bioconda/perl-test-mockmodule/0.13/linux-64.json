@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-test-mockmodule-0.13-pl526_1.tar.bz2",
-"total":183
+"total":184
 },
 {
 "basename":"perl-test-mockmodule-0.13-pl5.22.0_0.tar.bz2",
@@ -102,6 +102,10 @@
 {
 "date":"2021-10-02",
 "total":608
+},
+{
+"date":"2021-10-03",
+"total":609
 }
 ],
 "package":"perl-test-mockmodule",
@@ -199,6 +203,15 @@
 {
 "basename":"perl-test-mockmodule-0.13-pl526_1.tar.bz2",
 "total":183
+}
+]
+},
+{
+"date":"2021-10-03",
+"downloads_per_basename":[
+{
+"basename":"perl-test-mockmodule-0.13-pl526_1.tar.bz2",
+"total":184
 }
 ]
 }

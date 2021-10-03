@@ -40,6 +40,10 @@
 {
 "date":"2021-10-02",
 "total":350
+},
+{
+"date":"2021-10-03",
+"total":357
 }
 ],
 "downloads_per_subdir":[
@@ -49,7 +53,7 @@
 },
 {
 "subdir":"linux-64",
-"total":282
+"total":289
 }
 ],
 "package":"bbmap",
@@ -181,6 +185,15 @@
 {
 "subdir":"linux-64",
 "total":282
+}
+]
+},
+{
+"date":"2021-10-03",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":289
 }
 ]
 }
