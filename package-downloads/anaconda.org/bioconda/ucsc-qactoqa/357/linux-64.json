@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-qactoqa-357-1.tar.bz2",
-"total":344
+"total":345
 },
 {
 "basename":"ucsc-qactoqa-357-0.tar.bz2",
@@ -166,6 +166,10 @@
 {
 "date":"2021-10-04",
 "total":875
+},
+{
+"date":"2021-10-05",
+"total":876
 }
 ],
 "package":"ucsc-qactoqa",
@@ -286,6 +290,15 @@
 {
 "basename":"ucsc-qactoqa-357-0.tar.bz2",
 "total":531
+}
+]
+},
+{
+"date":"2021-10-05",
+"downloads_per_basename":[
+{
+"basename":"ucsc-qactoqa-357-1.tar.bz2",
+"total":345
 }
 ]
 }

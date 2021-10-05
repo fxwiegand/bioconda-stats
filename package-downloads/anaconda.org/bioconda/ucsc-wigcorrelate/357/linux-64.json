@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-wigcorrelate-357-1.tar.bz2",
-"total":521
+"total":522
 }
 ],
 "downloads_per_date":[
@@ -234,6 +234,10 @@
 {
 "date":"2021-10-04",
 "total":1007
+},
+{
+"date":"2021-10-05",
+"total":1008
 }
 ],
 "package":"ucsc-wigcorrelate",
@@ -408,6 +412,15 @@
 {
 "basename":"ucsc-wigcorrelate-357-1.tar.bz2",
 "total":521
+}
+]
+},
+{
+"date":"2021-10-05",
+"downloads_per_basename":[
+{
+"basename":"ucsc-wigcorrelate-357-1.tar.bz2",
+"total":522
 }
 ]
 }

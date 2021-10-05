@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-oligomatch-357-1.tar.bz2",
-"total":529
+"total":530
 },
 {
 "basename":"ucsc-oligomatch-357-0.tar.bz2",
@@ -158,6 +158,10 @@
 {
 "date":"2021-10-04",
 "total":1429
+},
+{
+"date":"2021-10-05",
+"total":1430
 }
 ],
 "package":"ucsc-oligomatch",
@@ -278,6 +282,15 @@
 {
 "basename":"ucsc-oligomatch-357-0.tar.bz2",
 "total":900
+}
+]
+},
+{
+"date":"2021-10-05",
+"downloads_per_basename":[
+{
+"basename":"ucsc-oligomatch-357-1.tar.bz2",
+"total":530
 }
 ]
 }
