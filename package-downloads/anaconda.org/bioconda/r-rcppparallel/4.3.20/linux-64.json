@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-rcppparallel-4.3.20-r3.3.2_1.tar.bz2",
-"total":775
+"total":776
 },
 {
 "basename":"r-rcppparallel-4.3.20-r3.3.1_1.tar.bz2",
@@ -270,6 +270,10 @@
 {
 "date":"2021-10-05",
 "total":8012
+},
+{
+"date":"2021-10-06",
+"total":8013
 }
 ],
 "package":"r-rcppparallel",
@@ -478,6 +482,15 @@
 {
 "basename":"r-rcppparallel-4.3.20-r3.3.1_1.tar.bz2",
 "total":6723
+}
+]
+},
+{
+"date":"2021-10-06",
+"downloads_per_basename":[
+{
+"basename":"r-rcppparallel-4.3.20-r3.3.2_1.tar.bz2",
+"total":776
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"requests-cache-0.4.10-py36_0.tar.bz2",
-"total":2090
+"total":2091
 },
 {
 "basename":"requests-cache-0.4.10-py35_0.tar.bz2",
@@ -330,6 +330,10 @@
 {
 "date":"2021-10-05",
 "total":8183
+},
+{
+"date":"2021-10-06",
+"total":8184
 }
 ],
 "package":"requests-cache",
@@ -635,6 +639,15 @@
 {
 "basename":"requests-cache-0.4.10-py35_0.tar.bz2",
 "total":3720
+}
+]
+},
+{
+"date":"2021-10-06",
+"downloads_per_basename":[
+{
+"basename":"requests-cache-0.4.10-py36_0.tar.bz2",
+"total":2091
 }
 ]
 }

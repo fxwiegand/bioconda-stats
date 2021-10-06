@@ -7,7 +7,7 @@
 },
 {
 "basename":"snp-pipeline-1.0.1-py36_0.tar.bz2",
-"total":575
+"total":576
 },
 {
 "basename":"snp-pipeline-1.0.1-py35_0.tar.bz2",
@@ -138,6 +138,10 @@
 {
 "date":"2021-10-05",
 "total":1625
+},
+{
+"date":"2021-10-06",
+"total":1626
 }
 ],
 "package":"snp-pipeline",
@@ -221,6 +225,15 @@
 {
 "basename":"snp-pipeline-1.0.1-py35_0.tar.bz2",
 "total":583
+}
+]
+},
+{
+"date":"2021-10-06",
+"downloads_per_basename":[
+{
+"basename":"snp-pipeline-1.0.1-py36_0.tar.bz2",
+"total":576
 }
 ]
 }

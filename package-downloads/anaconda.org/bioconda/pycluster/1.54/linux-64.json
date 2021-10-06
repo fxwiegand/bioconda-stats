@@ -19,7 +19,7 @@
 },
 {
 "basename":"pycluster-1.54-py37h77a2a36_5.tar.bz2",
-"total":26
+"total":28
 },
 {
 "basename":"pycluster-1.54-py27hae1dfa2_3.tar.bz2",
@@ -298,6 +298,10 @@
 {
 "date":"2021-10-05",
 "total":2710
+},
+{
+"date":"2021-10-06",
+"total":2712
 }
 ],
 "package":"pycluster",
@@ -825,6 +829,15 @@
 {
 "basename":"pycluster-1.54-py36h7eb728f_1.tar.bz2",
 "total":331
+}
+]
+},
+{
+"date":"2021-10-06",
+"downloads_per_basename":[
+{
+"basename":"pycluster-1.54-py37h77a2a36_5.tar.bz2",
+"total":28
 }
 ]
 }
