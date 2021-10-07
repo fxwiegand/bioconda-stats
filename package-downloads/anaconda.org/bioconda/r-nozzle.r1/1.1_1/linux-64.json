@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-nozzle.r1-1.1_1-r3.3.1_0.tar.bz2",
-"total":400
+"total":401
 },
 {
 "basename":"r-nozzle.r1-1.1_1-r3.3.2_0.tar.bz2",
@@ -118,6 +118,10 @@
 {
 "date":"2021-10-06",
 "total":2832
+},
+{
+"date":"2021-10-07",
+"total":2833
 }
 ],
 "package":"r-nozzle.r1",
@@ -254,6 +258,15 @@
 {
 "basename":"r-nozzle.r1-1.1_1-r3.3.2_0.tar.bz2",
 "total":788
+}
+]
+},
+{
+"date":"2021-10-07",
+"downloads_per_basename":[
+{
+"basename":"r-nozzle.r1-1.1_1-r3.3.1_0.tar.bz2",
+"total":401
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-dexus-1.30.0-r40h399db7b_1.tar.bz2",
-"total":52
+"total":53
 },
 {
 "basename":"bioconductor-dexus-1.30.0-r40h5f743cb_0.tar.bz2",
@@ -166,6 +166,10 @@
 {
 "date":"2021-10-06",
 "total":118
+},
+{
+"date":"2021-10-07",
+"total":119
 }
 ],
 "package":"bioconductor-dexus",
@@ -282,6 +286,15 @@
 {
 "basename":"bioconductor-dexus-1.30.0-r40h5f743cb_0.tar.bz2",
 "total":66
+}
+]
+},
+{
+"date":"2021-10-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-dexus-1.30.0-r40h399db7b_1.tar.bz2",
+"total":53
 }
 ]
 }

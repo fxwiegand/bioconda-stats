@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"spades-3.10.1-1.tar.bz2",
-"total":194
+"total":195
 },
 {
 "basename":"spades-3.10.1-py34_0.tar.bz2",
@@ -278,6 +278,10 @@
 {
 "date":"2021-10-06",
 "total":4598
+},
+{
+"date":"2021-10-07",
+"total":4599
 }
 ],
 "package":"spades",
@@ -490,6 +494,15 @@
 {
 "basename":"spades-3.10.1-py27_0.tar.bz2",
 "total":2491
+}
+]
+},
+{
+"date":"2021-10-07",
+"downloads_per_basename":[
+{
+"basename":"spades-3.10.1-1.tar.bz2",
+"total":195
 }
 ]
 }

@@ -27,7 +27,7 @@
 },
 {
 "basename":"virmet-v1.1-py27_0.tar.bz2",
-"total":415
+"total":416
 },
 {
 "basename":"virmet-v1.1-py27_1.tar.bz2",
@@ -202,6 +202,10 @@
 {
 "date":"2021-10-06",
 "total":3256
+},
+{
+"date":"2021-10-07",
+"total":3257
 }
 ],
 "package":"virmet",
@@ -445,6 +449,15 @@
 {
 "basename":"virmet-v1.1-py27_1.tar.bz2",
 "total":535
+}
+]
+},
+{
+"date":"2021-10-07",
+"downloads_per_basename":[
+{
+"basename":"virmet-v1.1-py27_0.tar.bz2",
+"total":416
 }
 ]
 }
