@@ -11,7 +11,7 @@
 },
 {
 "basename":"blasr-5.3.2-1.tar.bz2",
-"total":462
+"total":463
 },
 {
 "basename":"blasr-5.3.2-h82bacf8_5.tar.bz2",
@@ -238,6 +238,10 @@
 {
 "date":"2021-10-09",
 "total":4095
+},
+{
+"date":"2021-10-10",
+"total":4096
 }
 ],
 "package":"blasr",
@@ -411,6 +415,15 @@
 {
 "basename":"blasr-5.3.2-hac9d22c_4.tar.bz2",
 "total":1103
+}
+]
+},
+{
+"date":"2021-10-10",
+"downloads_per_basename":[
+{
+"basename":"blasr-5.3.2-1.tar.bz2",
+"total":463
 }
 ]
 }

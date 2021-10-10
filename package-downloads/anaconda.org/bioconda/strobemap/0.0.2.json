@@ -44,6 +44,10 @@
 {
 "date":"2021-10-09",
 "total":48
+},
+{
+"date":"2021-10-10",
+"total":50
 }
 ],
 "downloads_per_subdir":[
@@ -53,7 +57,7 @@
 },
 {
 "subdir":"osx-64",
-"total":32
+"total":34
 }
 ],
 "package":"strobemap",
@@ -174,6 +178,15 @@
 {
 "subdir":"osx-64",
 "total":32
+}
+]
+},
+{
+"date":"2021-10-10",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":34
 }
 ]
 }
