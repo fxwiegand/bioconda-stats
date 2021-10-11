@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"motifscan-1.3.0-py36hc5360cc_1.tar.bz2",
-"total":20
+"total":21
 },
 {
 "basename":"motifscan-1.3.0-py38h4a8c8d9_1.tar.bz2",
@@ -194,6 +194,10 @@
 {
 "date":"2021-10-10",
 "total":181
+},
+{
+"date":"2021-10-11",
+"total":182
 }
 ],
 "package":"motifscan",
@@ -384,6 +388,15 @@
 {
 "basename":"motifscan-1.3.0-py39h38f01e4_1.tar.bz2",
 "total":26
+}
+]
+},
+{
+"date":"2021-10-11",
+"downloads_per_basename":[
+{
+"basename":"motifscan-1.3.0-py36hc5360cc_1.tar.bz2",
+"total":21
 }
 ]
 }

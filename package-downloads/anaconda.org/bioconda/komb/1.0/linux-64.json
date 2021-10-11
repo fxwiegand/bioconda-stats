@@ -39,7 +39,7 @@
 },
 {
 "basename":"komb-1.0-py39h39abbe0_3.tar.bz2",
-"total":36
+"total":37
 },
 {
 "basename":"komb-1.0-py38h1c8e9b9_0.tar.bz2",
@@ -222,6 +222,10 @@
 {
 "date":"2021-10-10",
 "total":346
+},
+{
+"date":"2021-10-11",
+"total":347
 }
 ],
 "package":"komb",
@@ -523,6 +527,15 @@
 {
 "basename":"komb-1.0-py36h5202f60_0.tar.bz2",
 "total":35
+}
+]
+},
+{
+"date":"2021-10-11",
+"downloads_per_basename":[
+{
+"basename":"komb-1.0-py39h39abbe0_3.tar.bz2",
+"total":37
 }
 ]
 }

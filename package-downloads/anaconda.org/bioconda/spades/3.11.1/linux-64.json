@@ -11,7 +11,7 @@
 },
 {
 "basename":"spades-3.11.1-hb7ba0dd_4.tar.bz2",
-"total":689
+"total":691
 },
 {
 "basename":"spades-3.11.1-py35_zlib1.2.8_0.tar.bz2",
@@ -506,6 +506,10 @@
 {
 "date":"2021-10-10",
 "total":14314
+},
+{
+"date":"2021-10-11",
+"total":14316
 }
 ],
 "package":"spades",
@@ -1100,6 +1104,15 @@
 {
 "basename":"spades-3.11.1-hb7ba0dd_4.tar.bz2",
 "total":689
+}
+]
+},
+{
+"date":"2021-10-11",
+"downloads_per_basename":[
+{
+"basename":"spades-3.11.1-hb7ba0dd_4.tar.bz2",
+"total":691
 }
 ]
 }
