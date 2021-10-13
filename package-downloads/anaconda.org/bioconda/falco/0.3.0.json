@@ -132,6 +132,10 @@
 {
 "date":"2021-10-12",
 "total":98
+},
+{
+"date":"2021-10-13",
+"total":100
 }
 ],
 "downloads_per_subdir":[
@@ -141,7 +145,7 @@
 },
 {
 "subdir":"osx-64",
-"total":69
+"total":71
 }
 ],
 "package":"falco",
@@ -474,6 +478,15 @@
 {
 "subdir":"osx-64",
 "total":69
+}
+]
+},
+{
+"date":"2021-10-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":71
 }
 ]
 }

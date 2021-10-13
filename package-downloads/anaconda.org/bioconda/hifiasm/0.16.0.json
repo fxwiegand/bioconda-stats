@@ -204,6 +204,10 @@
 {
 "date":"2021-10-12",
 "total":150
+},
+{
+"date":"2021-10-13",
+"total":152
 }
 ],
 "downloads_per_subdir":[
@@ -213,7 +217,7 @@
 },
 {
 "subdir":"osx-64",
-"total":107
+"total":109
 }
 ],
 "package":"hifiasm",
@@ -737,6 +741,15 @@
 {
 "subdir":"osx-64",
 "total":107
+}
+]
+},
+{
+"date":"2021-10-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":109
 }
 ]
 }

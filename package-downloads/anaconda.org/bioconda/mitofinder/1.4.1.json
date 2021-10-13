@@ -44,6 +44,10 @@
 {
 "date":"2021-10-12",
 "total":40
+},
+{
+"date":"2021-10-13",
+"total":42
 }
 ],
 "downloads_per_subdir":[
@@ -53,7 +57,7 @@
 },
 {
 "subdir":"osx-64",
-"total":28
+"total":30
 }
 ],
 "package":"mitofinder",
@@ -170,6 +174,15 @@
 {
 "subdir":"osx-64",
 "total":28
+}
+]
+},
+{
+"date":"2021-10-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":30
 }
 ]
 }

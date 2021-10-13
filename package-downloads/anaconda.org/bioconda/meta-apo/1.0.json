@@ -228,6 +228,10 @@
 {
 "date":"2021-10-12",
 "total":128
+},
+{
+"date":"2021-10-13",
+"total":130
 }
 ],
 "downloads_per_subdir":[
@@ -237,7 +241,7 @@
 },
 {
 "subdir":"osx-64",
-"total":107
+"total":109
 }
 ],
 "package":"meta-apo",
@@ -766,6 +770,15 @@
 {
 "subdir":"osx-64",
 "total":107
+}
+]
+},
+{
+"date":"2021-10-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":109
 }
 ]
 }
