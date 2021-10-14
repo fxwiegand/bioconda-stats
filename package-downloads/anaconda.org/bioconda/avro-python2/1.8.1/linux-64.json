@@ -15,7 +15,7 @@
 },
 {
 "basename":"avro-python2-1.8.1-py27_0.tar.bz2",
-"total":4868
+"total":4869
 }
 ],
 "downloads_per_date":[
@@ -250,6 +250,10 @@
 {
 "date":"2021-10-13",
 "total":6646
+},
+{
+"date":"2021-10-14",
+"total":6647
 }
 ],
 "package":"avro-python2",
@@ -420,6 +424,15 @@
 {
 "basename":"avro-python2-1.8.1-py34_0.tar.bz2",
 "total":559
+}
+]
+},
+{
+"date":"2021-10-14",
+"downloads_per_basename":[
+{
+"basename":"avro-python2-1.8.1-py27_0.tar.bz2",
+"total":4869
 }
 ]
 }

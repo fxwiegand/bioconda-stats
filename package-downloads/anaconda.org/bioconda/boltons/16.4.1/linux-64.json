@@ -11,7 +11,7 @@
 },
 {
 "basename":"boltons-16.4.1-py27_0.tar.bz2",
-"total":1156
+"total":1157
 },
 {
 "basename":"boltons-16.4.1-py36_0.tar.bz2",
@@ -330,6 +330,10 @@
 {
 "date":"2021-10-13",
 "total":5118
+},
+{
+"date":"2021-10-14",
+"total":5119
 }
 ],
 "package":"boltons",
@@ -583,6 +587,15 @@
 {
 "basename":"boltons-16.4.1-py36_0.tar.bz2",
 "total":2122
+}
+]
+},
+{
+"date":"2021-10-14",
+"downloads_per_basename":[
+{
+"basename":"boltons-16.4.1-py27_0.tar.bz2",
+"total":1157
 }
 ]
 }

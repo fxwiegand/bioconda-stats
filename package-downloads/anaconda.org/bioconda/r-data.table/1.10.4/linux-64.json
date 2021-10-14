@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-data.table-1.10.4-r3.3.2_0.tar.bz2",
-"total":7436
+"total":7437
 },
 {
 "basename":"r-data.table-1.10.4-r3.4.1_0.tar.bz2",
@@ -346,6 +346,10 @@
 {
 "date":"2021-10-13",
 "total":20537
+},
+{
+"date":"2021-10-14",
+"total":20538
 }
 ],
 "package":"r-data.table",
@@ -588,6 +592,15 @@
 {
 "basename":"r-data.table-1.10.4-r3.3.2_0.tar.bz2",
 "total":7436
+}
+]
+},
+{
+"date":"2021-10-14",
+"downloads_per_basename":[
+{
+"basename":"r-data.table-1.10.4-r3.3.2_0.tar.bz2",
+"total":7437
 }
 ]
 }
