@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-fasomerecords-377-h0b8a92a_2.tar.bz2",
-"total":91
+"total":92
 },
 {
 "basename":"ucsc-fasomerecords-377-h446ed27_1.tar.bz2",
@@ -330,6 +330,10 @@
 {
 "date":"2021-10-14",
 "total":415
+},
+{
+"date":"2021-10-15",
+"total":416
 }
 ],
 "package":"ucsc-fasomerecords",
@@ -548,6 +552,15 @@
 {
 "basename":"ucsc-fasomerecords-377-h446ed27_1.tar.bz2",
 "total":115
+}
+]
+},
+{
+"date":"2021-10-15",
+"downloads_per_basename":[
+{
+"basename":"ucsc-fasomerecords-377-h0b8a92a_2.tar.bz2",
+"total":92
 }
 ]
 }

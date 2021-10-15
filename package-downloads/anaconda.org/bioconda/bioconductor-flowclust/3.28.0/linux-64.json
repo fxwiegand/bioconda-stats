@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-flowclust-3.28.0-r40h037d062_0.tar.bz2",
-"total":103
+"total":104
 }
 ],
 "downloads_per_date":[
@@ -218,6 +218,10 @@
 {
 "date":"2021-10-14",
 "total":280
+},
+{
+"date":"2021-10-15",
+"total":281
 }
 ],
 "package":"bioconductor-flowclust",
@@ -354,6 +358,15 @@
 {
 "basename":"bioconductor-flowclust-3.28.0-r40hd029910_2.tar.bz2",
 "total":91
+}
+]
+},
+{
+"date":"2021-10-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-flowclust-3.28.0-r40h037d062_0.tar.bz2",
+"total":104
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"fwdpy11-0.15.2-py38h7833054_0.tar.bz2",
-"total":21
+"total":22
 },
 {
 "basename":"fwdpy11-0.15.2-py39h9187f99_0.tar.bz2",
@@ -178,6 +178,10 @@
 {
 "date":"2021-10-14",
 "total":74
+},
+{
+"date":"2021-10-15",
+"total":75
 }
 ],
 "package":"fwdpy11",
@@ -359,6 +363,15 @@
 {
 "basename":"fwdpy11-0.15.2-py39h9187f99_0.tar.bz2",
 "total":32
+}
+]
+},
+{
+"date":"2021-10-15",
+"downloads_per_basename":[
+{
+"basename":"fwdpy11-0.15.2-py38h7833054_0.tar.bz2",
+"total":22
 }
 ]
 }

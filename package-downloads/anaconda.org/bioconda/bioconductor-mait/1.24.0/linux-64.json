@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-mait-1.24.0-r40h399db7b_1.tar.bz2",
-"total":31
+"total":32
 },
 {
 "basename":"bioconductor-mait-1.24.0-r40h5f743cb_0.tar.bz2",
@@ -102,6 +102,10 @@
 {
 "date":"2021-10-14",
 "total":85
+},
+{
+"date":"2021-10-15",
+"total":86
 }
 ],
 "package":"bioconductor-mait",
@@ -147,6 +151,15 @@
 {
 "basename":"bioconductor-mait-1.24.0-r40h5f743cb_0.tar.bz2",
 "total":54
+}
+]
+},
+{
+"date":"2021-10-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mait-1.24.0-r40h399db7b_1.tar.bz2",
+"total":32
 }
 ]
 }

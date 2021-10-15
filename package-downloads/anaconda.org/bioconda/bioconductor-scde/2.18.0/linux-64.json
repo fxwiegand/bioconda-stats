@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-scde-2.18.0-r40h399db7b_1.tar.bz2",
-"total":66
+"total":67
 },
 {
 "basename":"bioconductor-scde-2.18.0-r40h5f743cb_0.tar.bz2",
@@ -206,6 +206,10 @@
 {
 "date":"2021-10-14",
 "total":144
+},
+{
+"date":"2021-10-15",
+"total":145
 }
 ],
 "package":"bioconductor-scde",
@@ -308,6 +312,15 @@
 {
 "basename":"bioconductor-scde-2.18.0-r40h5f743cb_0.tar.bz2",
 "total":78
+}
+]
+},
+{
+"date":"2021-10-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-scde-2.18.0-r40h399db7b_1.tar.bz2",
+"total":67
 }
 ]
 }

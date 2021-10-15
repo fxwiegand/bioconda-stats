@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-cummerbund-2.22.0-r351_0.tar.bz2",
-"total":255
+"total":256
 },
 {
 "basename":"bioconductor-cummerbund-2.22.0-r341_0.tar.bz2",
@@ -154,6 +154,10 @@
 {
 "date":"2021-10-14",
 "total":6658
+},
+{
+"date":"2021-10-15",
+"total":6659
 }
 ],
 "package":"bioconductor-cummerbund",
@@ -265,6 +269,15 @@
 {
 "basename":"bioconductor-cummerbund-2.22.0-r341_0.tar.bz2",
 "total":6403
+}
+]
+},
+{
+"date":"2021-10-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cummerbund-2.22.0-r351_0.tar.bz2",
+"total":256
 }
 ]
 }

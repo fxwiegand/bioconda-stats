@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-fithic-1.16.0-r40h399db7b_1.tar.bz2",
-"total":50
+"total":51
 },
 {
 "basename":"bioconductor-fithic-1.16.0-r40h5f743cb_0.tar.bz2",
@@ -122,6 +122,10 @@
 {
 "date":"2021-10-14",
 "total":122
+},
+{
+"date":"2021-10-15",
+"total":123
 }
 ],
 "package":"bioconductor-fithic",
@@ -175,6 +179,15 @@
 {
 "basename":"bioconductor-fithic-1.16.0-r40h5f743cb_0.tar.bz2",
 "total":72
+}
+]
+},
+{
+"date":"2021-10-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-fithic-1.16.0-r40h399db7b_1.tar.bz2",
+"total":51
 }
 ]
 }

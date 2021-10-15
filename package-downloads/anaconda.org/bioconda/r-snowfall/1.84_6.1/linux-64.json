@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-snowfall-1.84_6.1-r3.2.2_0.tar.bz2",
-"total":3822
+"total":3823
 }
 ],
 "downloads_per_date":[
@@ -266,6 +266,10 @@
 {
 "date":"2021-10-14",
 "total":5600
+},
+{
+"date":"2021-10-15",
+"total":5601
 }
 ],
 "package":"r-snowfall",
@@ -422,6 +426,15 @@
 {
 "basename":"r-snowfall-1.84_6.1-r3.2.2_0.tar.bz2",
 "total":3822
+}
+]
+},
+{
+"date":"2021-10-15",
+"downloads_per_basename":[
+{
+"basename":"r-snowfall-1.84_6.1-r3.2.2_0.tar.bz2",
+"total":3823
 }
 ]
 }

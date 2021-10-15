@@ -11,7 +11,7 @@
 },
 {
 "basename":"cyvcf2-0.30.9-py38h52febdd_0.tar.bz2",
-"total":30
+"total":31
 },
 {
 "basename":"cyvcf2-0.30.9-py37hef46e3d_0.tar.bz2",
@@ -158,6 +158,10 @@
 {
 "date":"2021-10-14",
 "total":201
+},
+{
+"date":"2021-10-15",
+"total":202
 }
 ],
 "package":"cyvcf2",
@@ -342,6 +346,15 @@
 {
 "basename":"cyvcf2-0.30.9-py39hf71e4cd_0.tar.bz2",
 "total":26
+}
+]
+},
+{
+"date":"2021-10-15",
+"downloads_per_basename":[
+{
+"basename":"cyvcf2-0.30.9-py38h52febdd_0.tar.bz2",
+"total":31
 }
 ]
 }

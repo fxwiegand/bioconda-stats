@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-sc3-1.18.0-r40h399db7b_1.tar.bz2",
-"total":68
+"total":69
 },
 {
 "basename":"bioconductor-sc3-1.18.0-r40h5f743cb_0.tar.bz2",
@@ -194,6 +194,10 @@
 {
 "date":"2021-10-14",
 "total":142
+},
+{
+"date":"2021-10-15",
+"total":143
 }
 ],
 "package":"bioconductor-sc3",
@@ -292,6 +296,15 @@
 {
 "basename":"bioconductor-sc3-1.18.0-r40h5f743cb_0.tar.bz2",
 "total":74
+}
+]
+},
+{
+"date":"2021-10-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-sc3-1.18.0-r40h399db7b_1.tar.bz2",
+"total":69
 }
 ]
 }
