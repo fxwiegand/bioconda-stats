@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"arvados-python-client-0.1.20161123074954-py27_0.tar.bz2",
-"total":1603
+"total":1605
 }
 ],
 "downloads_per_date":[
@@ -114,6 +114,10 @@
 {
 "date":"2021-10-15",
 "total":1603
+},
+{
+"date":"2021-10-16",
+"total":1605
 }
 ],
 "package":"arvados-python-client",
@@ -151,6 +155,15 @@
 {
 "basename":"arvados-python-client-0.1.20161123074954-py27_0.tar.bz2",
 "total":1603
+}
+]
+},
+{
+"date":"2021-10-16",
+"downloads_per_basename":[
+{
+"basename":"arvados-python-client-0.1.20161123074954-py27_0.tar.bz2",
+"total":1605
 }
 ]
 }
