@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-biomart-2.36.1-r351_0.tar.bz2",
-"total":3751
+"total":3754
 },
 {
 "basename":"bioconductor-biomart-2.36.1-r341_0.tar.bz2",
@@ -378,6 +378,10 @@
 {
 "date":"2021-10-16",
 "total":13692
+},
+{
+"date":"2021-10-17",
+"total":13695
 }
 ],
 "package":"bioconductor-biomart",
@@ -695,6 +699,15 @@
 {
 "basename":"bioconductor-biomart-2.36.1-r341_0.tar.bz2",
 "total":9941
+}
+]
+},
+{
+"date":"2021-10-17",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-biomart-2.36.1-r351_0.tar.bz2",
+"total":3754
 }
 ]
 }

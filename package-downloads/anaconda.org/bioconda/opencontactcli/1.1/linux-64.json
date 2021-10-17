@@ -7,7 +7,7 @@
 },
 {
 "basename":"opencontactcli-1.1-py37h4984db7_5.tar.bz2",
-"total":20
+"total":21
 },
 {
 "basename":"opencontactcli-1.1-py39h8df8d98_5.tar.bz2",
@@ -194,6 +194,10 @@
 {
 "date":"2021-10-16",
 "total":776
+},
+{
+"date":"2021-10-17",
+"total":777
 }
 ],
 "package":"opencontactcli",
@@ -560,6 +564,15 @@
 {
 "basename":"opencontactcli-1.1-ha0a0a0d_0.tar.bz2",
 "total":106
+}
+]
+},
+{
+"date":"2021-10-17",
+"downloads_per_basename":[
+{
+"basename":"opencontactcli-1.1-py37h4984db7_5.tar.bz2",
+"total":21
 }
 ]
 }

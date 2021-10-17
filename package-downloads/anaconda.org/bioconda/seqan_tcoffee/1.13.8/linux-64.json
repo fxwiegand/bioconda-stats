@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"seqan_tcoffee-1.13.8-h33c0355_1.tar.bz2",
-"total":40
+"total":41
 },
 {
 "basename":"seqan_tcoffee-1.13.8-hb7ba0dd_0.tar.bz2",
@@ -170,6 +170,10 @@
 {
 "date":"2021-10-16",
 "total":110
+},
+{
+"date":"2021-10-17",
+"total":111
 }
 ],
 "package":"seqan_tcoffee",
@@ -309,6 +313,15 @@
 {
 "basename":"seqan_tcoffee-1.13.8-hb7ba0dd_0.tar.bz2",
 "total":70
+}
+]
+},
+{
+"date":"2021-10-17",
+"downloads_per_basename":[
+{
+"basename":"seqan_tcoffee-1.13.8-h33c0355_1.tar.bz2",
+"total":41
 }
 ]
 }

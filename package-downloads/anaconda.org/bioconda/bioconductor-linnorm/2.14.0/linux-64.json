@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-linnorm-2.14.0-r40h399db7b_1.tar.bz2",
-"total":53
+"total":54
 },
 {
 "basename":"bioconductor-linnorm-2.14.0-r40h5f743cb_0.tar.bz2",
@@ -142,6 +142,10 @@
 {
 "date":"2021-10-16",
 "total":132
+},
+{
+"date":"2021-10-17",
+"total":133
 }
 ],
 "package":"bioconductor-linnorm",
@@ -222,6 +226,15 @@
 {
 "basename":"bioconductor-linnorm-2.14.0-r40h5f743cb_0.tar.bz2",
 "total":79
+}
+]
+},
+{
+"date":"2021-10-17",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-linnorm-2.14.0-r40h399db7b_1.tar.bz2",
+"total":54
 }
 ]
 }

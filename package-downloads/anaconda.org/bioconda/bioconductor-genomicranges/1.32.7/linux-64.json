@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-genomicranges-1.32.7-r351h470a237_0.tar.bz2",
-"total":8428
+"total":8431
 },
 {
 "basename":"bioconductor-genomicranges-1.32.7-r341h470a237_0.tar.bz2",
@@ -538,6 +538,10 @@
 {
 "date":"2021-10-16",
 "total":22639
+},
+{
+"date":"2021-10-17",
+"total":22642
 }
 ],
 "package":"bioconductor-genomicranges",
@@ -1028,6 +1032,15 @@
 {
 "basename":"bioconductor-genomicranges-1.32.7-r341h470a237_0.tar.bz2",
 "total":14211
+}
+]
+},
+{
+"date":"2021-10-17",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-genomicranges-1.32.7-r351h470a237_0.tar.bz2",
+"total":8431
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"drep-2.2.3-py36_1.tar.bz2",
-"total":296
+"total":297
 },
 {
 "basename":"drep-2.2.3-py35_0.tar.bz2",
@@ -210,6 +210,10 @@
 {
 "date":"2021-10-16",
 "total":1085
+},
+{
+"date":"2021-10-17",
+"total":1086
 }
 ],
 "package":"drep",
@@ -370,6 +374,15 @@
 {
 "basename":"drep-2.2.3-py35_0.tar.bz2",
 "total":304
+}
+]
+},
+{
+"date":"2021-10-17",
+"downloads_per_basename":[
+{
+"basename":"drep-2.2.3-py36_1.tar.bz2",
+"total":297
 }
 ]
 }

@@ -19,7 +19,7 @@
 },
 {
 "basename":"bitstring-3.1.5-py36_0.tar.bz2",
-"total":712
+"total":713
 },
 {
 "basename":"bitstring-3.1.5-py27_1.tar.bz2",
@@ -206,6 +206,10 @@
 {
 "date":"2021-10-16",
 "total":7003
+},
+{
+"date":"2021-10-17",
+"total":7004
 }
 ],
 "package":"bitstring",
@@ -399,6 +403,15 @@
 {
 "basename":"bitstring-3.1.5-py36_1.tar.bz2",
 "total":3750
+}
+]
+},
+{
+"date":"2021-10-17",
+"downloads_per_basename":[
+{
+"basename":"bitstring-3.1.5-py36_0.tar.bz2",
+"total":713
 }
 ]
 }

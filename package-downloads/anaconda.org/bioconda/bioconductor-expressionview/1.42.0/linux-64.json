@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-expressionview-1.42.0-r40h399db7b_1.tar.bz2",
-"total":41
+"total":42
 },
 {
 "basename":"bioconductor-expressionview-1.42.0-r40h5f743cb_0.tar.bz2",
@@ -146,6 +146,10 @@
 {
 "date":"2021-10-16",
 "total":95
+},
+{
+"date":"2021-10-17",
+"total":96
 }
 ],
 "package":"bioconductor-expressionview",
@@ -253,6 +257,15 @@
 {
 "basename":"bioconductor-expressionview-1.42.0-r40h5f743cb_0.tar.bz2",
 "total":54
+}
+]
+},
+{
+"date":"2021-10-17",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-expressionview-1.42.0-r40h399db7b_1.tar.bz2",
+"total":42
 }
 ]
 }
