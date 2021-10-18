@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-fatotab-377-h0b8a92a_2.tar.bz2",
-"total":59
+"total":60
 },
 {
 "basename":"ucsc-fatotab-377-h199ee4e_0.tar.bz2",
@@ -226,6 +226,10 @@
 {
 "date":"2021-10-17",
 "total":261
+},
+{
+"date":"2021-10-18",
+"total":262
 }
 ],
 "package":"ucsc-fatotab",
@@ -399,6 +403,15 @@
 {
 "basename":"ucsc-fatotab-377-h199ee4e_0.tar.bz2",
 "total":144
+}
+]
+},
+{
+"date":"2021-10-18",
+"downloads_per_basename":[
+{
+"basename":"ucsc-fatotab-377-h0b8a92a_2.tar.bz2",
+"total":60
 }
 ]
 }
