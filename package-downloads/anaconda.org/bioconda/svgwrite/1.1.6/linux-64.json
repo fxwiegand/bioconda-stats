@@ -7,7 +7,7 @@
 },
 {
 "basename":"svgwrite-1.1.6-py27_0.tar.bz2",
-"total":942
+"total":943
 },
 {
 "basename":"svgwrite-1.1.6-py35_0.tar.bz2",
@@ -202,6 +202,10 @@
 {
 "date":"2021-10-18",
 "total":4289
+},
+{
+"date":"2021-10-19",
+"total":4290
 }
 ],
 "package":"svgwrite",
@@ -346,6 +350,15 @@
 {
 "basename":"svgwrite-1.1.6-py36_0.tar.bz2",
 "total":1884
+}
+]
+},
+{
+"date":"2021-10-19",
+"downloads_per_basename":[
+{
+"basename":"svgwrite-1.1.6-py27_0.tar.bz2",
+"total":943
 }
 ]
 }

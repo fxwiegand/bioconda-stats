@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-indirect-0.38-pl526_1.tar.bz2",
-"total":177
+"total":178
 },
 {
 "basename":"perl-indirect-0.38-pl5.22.0_0.tar.bz2",
@@ -146,6 +146,10 @@
 {
 "date":"2021-10-18",
 "total":709
+},
+{
+"date":"2021-10-19",
+"total":710
 }
 ],
 "package":"perl-indirect",
@@ -235,6 +239,15 @@
 {
 "basename":"perl-indirect-0.38-pl5.22.0_0.tar.bz2",
 "total":532
+}
+]
+},
+{
+"date":"2021-10-19",
+"downloads_per_basename":[
+{
+"basename":"perl-indirect-0.38-pl526_1.tar.bz2",
+"total":178
 }
 ]
 }

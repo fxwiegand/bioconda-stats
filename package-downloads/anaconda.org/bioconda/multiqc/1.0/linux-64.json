@@ -27,7 +27,7 @@
 },
 {
 "basename":"multiqc-1.0-py36_4.tar.bz2",
-"total":2312
+"total":2313
 }
 ],
 "downloads_per_date":[
@@ -226,6 +226,10 @@
 {
 "date":"2021-10-18",
 "total":6718
+},
+{
+"date":"2021-10-19",
+"total":6719
 }
 ],
 "package":"multiqc",
@@ -395,6 +399,15 @@
 {
 "basename":"multiqc-1.0-py36_4.tar.bz2",
 "total":2312
+}
+]
+},
+{
+"date":"2021-10-19",
+"downloads_per_basename":[
+{
+"basename":"multiqc-1.0-py36_4.tar.bz2",
+"total":2313
 }
 ]
 }

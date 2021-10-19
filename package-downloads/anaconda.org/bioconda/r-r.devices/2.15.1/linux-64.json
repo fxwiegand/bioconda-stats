@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-r.devices-2.15.1-r3.3.1_0.tar.bz2",
-"total":462
+"total":463
 },
 {
 "basename":"r-r.devices-2.15.1-r3.3.2_0.tar.bz2",
@@ -102,6 +102,10 @@
 {
 "date":"2021-10-18",
 "total":1299
+},
+{
+"date":"2021-10-19",
+"total":1300
 }
 ],
 "package":"r-r.devices",
@@ -173,6 +177,15 @@
 {
 "basename":"r-r.devices-2.15.1-r3.3.2_0.tar.bz2",
 "total":837
+}
+]
+},
+{
+"date":"2021-10-19",
+"downloads_per_basename":[
+{
+"basename":"r-r.devices-2.15.1-r3.3.1_0.tar.bz2",
+"total":463
 }
 ]
 }

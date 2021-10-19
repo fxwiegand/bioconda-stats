@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-bamtopsl-377-h0b8a92a_3.tar.bz2",
-"total":86
+"total":88
 },
 {
 "basename":"ucsc-bamtopsl-377-h199ee4e_0.tar.bz2",
@@ -230,6 +230,10 @@
 {
 "date":"2021-10-18",
 "total":460
+},
+{
+"date":"2021-10-19",
+"total":462
 }
 ],
 "package":"ucsc-bamtopsl",
@@ -446,6 +450,15 @@
 {
 "basename":"ucsc-bamtopsl-377-h199ee4e_0.tar.bz2",
 "total":158
+}
+]
+},
+{
+"date":"2021-10-19",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bamtopsl-377-h0b8a92a_3.tar.bz2",
+"total":88
 }
 ]
 }
