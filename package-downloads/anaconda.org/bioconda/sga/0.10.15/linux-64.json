@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"sga-0.10.15-ha89c123_6.tar.bz2",
-"total":122
+"total":123
 },
 {
 "basename":"sga-0.10.15-1.tar.bz2",
@@ -458,6 +458,10 @@
 {
 "date":"2021-10-20",
 "total":2010
+},
+{
+"date":"2021-10-21",
+"total":2011
 }
 ],
 "package":"sga",
@@ -882,6 +886,15 @@
 {
 "basename":"sga-0.10.15-ha89c123_6.tar.bz2",
 "total":122
+}
+]
+},
+{
+"date":"2021-10-21",
+"downloads_per_basename":[
+{
+"basename":"sga-0.10.15-ha89c123_6.tar.bz2",
+"total":123
 }
 ]
 }

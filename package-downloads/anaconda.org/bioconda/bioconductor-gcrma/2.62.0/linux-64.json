@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-gcrma-2.62.0-r40hd029910_1.tar.bz2",
-"total":64
+"total":65
 },
 {
 "basename":"bioconductor-gcrma-2.62.0-r40h037d062_0.tar.bz2",
@@ -158,6 +158,10 @@
 {
 "date":"2021-10-20",
 "total":169
+},
+{
+"date":"2021-10-21",
+"total":170
 }
 ],
 "package":"bioconductor-gcrma",
@@ -265,6 +269,15 @@
 {
 "basename":"bioconductor-gcrma-2.62.0-r40h037d062_0.tar.bz2",
 "total":105
+}
+]
+},
+{
+"date":"2021-10-21",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-gcrma-2.62.0-r40hd029910_1.tar.bz2",
+"total":65
 }
 ]
 }

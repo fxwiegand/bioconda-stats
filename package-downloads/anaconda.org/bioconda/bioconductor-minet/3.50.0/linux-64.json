@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-minet-3.50.0-r41h399db7b_0.tar.bz2",
-"total":64
+"total":65
 }
 ],
 "downloads_per_date":[
@@ -178,6 +178,10 @@
 {
 "date":"2021-10-20",
 "total":64
+},
+{
+"date":"2021-10-21",
+"total":65
 }
 ],
 "package":"bioconductor-minet",
@@ -314,6 +318,15 @@
 {
 "basename":"bioconductor-minet-3.50.0-r41h399db7b_0.tar.bz2",
 "total":64
+}
+]
+},
+{
+"date":"2021-10-21",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-minet-3.50.0-r41h399db7b_0.tar.bz2",
+"total":65
 }
 ]
 }

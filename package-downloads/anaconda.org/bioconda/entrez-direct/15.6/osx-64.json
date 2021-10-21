@@ -7,7 +7,7 @@
 },
 {
 "basename":"entrez-direct-15.6-h193322a_1.tar.bz2",
-"total":6147
+"total":6480
 }
 ],
 "downloads_per_date":[
@@ -182,6 +182,10 @@
 {
 "date":"2021-10-20",
 "total":9075
+},
+{
+"date":"2021-10-21",
+"total":9408
 }
 ],
 "package":"entrez-direct",
@@ -488,6 +492,15 @@
 {
 "basename":"entrez-direct-15.6-h193322a_1.tar.bz2",
 "total":6147
+}
+]
+},
+{
+"date":"2021-10-21",
+"downloads_per_basename":[
+{
+"basename":"entrez-direct-15.6-h193322a_1.tar.bz2",
+"total":6480
 }
 ]
 }

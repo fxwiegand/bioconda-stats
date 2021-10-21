@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"gecco-0.8.4-pyhdfd78af_0.tar.bz2",
-"total":40
+"total":42
 }
 ],
 "downloads_per_date":[
@@ -70,6 +70,10 @@
 {
 "date":"2021-10-20",
 "total":40
+},
+{
+"date":"2021-10-21",
+"total":42
 }
 ],
 "package":"gecco",
@@ -179,6 +183,15 @@
 {
 "basename":"gecco-0.8.4-pyhdfd78af_0.tar.bz2",
 "total":40
+}
+]
+},
+{
+"date":"2021-10-21",
+"downloads_per_basename":[
+{
+"basename":"gecco-0.8.4-pyhdfd78af_0.tar.bz2",
+"total":42
 }
 ]
 }

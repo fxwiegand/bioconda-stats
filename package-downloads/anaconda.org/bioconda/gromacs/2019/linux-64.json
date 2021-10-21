@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"gromacs-2019-h6bb024c_0.tar.bz2",
-"total":202
+"total":203
 }
 ],
 "downloads_per_date":[
@@ -130,6 +130,10 @@
 {
 "date":"2021-10-20",
 "total":202
+},
+{
+"date":"2021-10-21",
+"total":203
 }
 ],
 "package":"gromacs",
@@ -176,6 +180,15 @@
 {
 "basename":"gromacs-2019-h6bb024c_0.tar.bz2",
 "total":202
+}
+]
+},
+{
+"date":"2021-10-21",
+"downloads_per_basename":[
+{
+"basename":"gromacs-2019-h6bb024c_0.tar.bz2",
+"total":203
 }
 ]
 }
