@@ -7,7 +7,7 @@
 },
 {
 "basename":"bcalm-2.2.3-h2e03b76_2.tar.bz2",
-"total":322
+"total":365
 },
 {
 "basename":"bcalm-2.2.3-h8b12597_1.tar.bz2",
@@ -482,6 +482,10 @@
 {
 "date":"2021-10-21",
 "total":2109
+},
+{
+"date":"2021-10-22",
+"total":2152
 }
 ],
 "package":"bcalm",
@@ -856,6 +860,15 @@
 {
 "basename":"bcalm-2.2.3-h8b12597_1.tar.bz2",
 "total":1563
+}
+]
+},
+{
+"date":"2021-10-22",
+"downloads_per_basename":[
+{
+"basename":"bcalm-2.2.3-h2e03b76_2.tar.bz2",
+"total":365
 }
 ]
 }

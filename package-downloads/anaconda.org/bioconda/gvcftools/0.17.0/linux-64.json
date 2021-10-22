@@ -7,7 +7,7 @@
 },
 {
 "basename":"gvcftools-0.17.0-he941832_3.tar.bz2",
-"total":1526
+"total":1528
 },
 {
 "basename":"gvcftools-0.17.0-pl5.22.0_1.tar.bz2",
@@ -366,6 +366,10 @@
 {
 "date":"2021-10-21",
 "total":4296
+},
+{
+"date":"2021-10-22",
+"total":4298
 }
 ],
 "package":"gvcftools",
@@ -600,6 +604,15 @@
 {
 "basename":"gvcftools-0.17.0-pl5.22.0_1.tar.bz2",
 "total":1630
+}
+]
+},
+{
+"date":"2021-10-22",
+"downloads_per_basename":[
+{
+"basename":"gvcftools-0.17.0-he941832_3.tar.bz2",
+"total":1528
 }
 ]
 }

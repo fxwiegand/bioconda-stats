@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-dose-3.6.1-r351_0.tar.bz2",
-"total":764
+"total":766
 },
 {
 "basename":"bioconductor-dose-3.6.1-r341_0.tar.bz2",
@@ -274,6 +274,10 @@
 {
 "date":"2021-10-21",
 "total":2108
+},
+{
+"date":"2021-10-22",
+"total":2110
 }
 ],
 "package":"bioconductor-dose",
@@ -425,6 +429,15 @@
 {
 "basename":"bioconductor-dose-3.6.1-r341_0.tar.bz2",
 "total":1344
+}
+]
+},
+{
+"date":"2021-10-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-dose-3.6.1-r351_0.tar.bz2",
+"total":766
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-qvalue-2.12.0-r351_0.tar.bz2",
-"total":1098
+"total":1100
 },
 {
 "basename":"bioconductor-qvalue-2.12.0-r341_0.tar.bz2",
@@ -374,6 +374,10 @@
 {
 "date":"2021-10-21",
 "total":3023
+},
+{
+"date":"2021-10-22",
+"total":3025
 }
 ],
 "package":"bioconductor-qvalue",
@@ -650,6 +654,15 @@
 {
 "basename":"bioconductor-qvalue-2.12.0-r341_0.tar.bz2",
 "total":1925
+}
+]
+},
+{
+"date":"2021-10-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-qvalue-2.12.0-r351_0.tar.bz2",
+"total":1100
 }
 ]
 }

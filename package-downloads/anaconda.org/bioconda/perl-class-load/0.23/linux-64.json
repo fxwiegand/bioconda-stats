@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-class-load-0.23-pl526h2d50403_1.tar.bz2",
-"total":182
+"total":183
 },
 {
 "basename":"perl-class-load-0.23-pl5.22.0_0.tar.bz2",
@@ -142,6 +142,10 @@
 {
 "date":"2021-10-21",
 "total":1110
+},
+{
+"date":"2021-10-22",
+"total":1111
 }
 ],
 "package":"perl-class-load",
@@ -231,6 +235,15 @@
 {
 "basename":"perl-class-load-0.23-pl5.22.0_0.tar.bz2",
 "total":928
+}
+]
+},
+{
+"date":"2021-10-22",
+"downloads_per_basename":[
+{
+"basename":"perl-class-load-0.23-pl526h2d50403_1.tar.bz2",
+"total":183
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-term-progressbar-2.21-pl526_1.tar.bz2",
-"total":157
+"total":158
 },
 {
 "basename":"perl-term-progressbar-2.21-pl5.22.0_0.tar.bz2",
@@ -138,6 +138,10 @@
 {
 "date":"2021-10-21",
 "total":840
+},
+{
+"date":"2021-10-22",
+"total":841
 }
 ],
 "package":"perl-term-progressbar",
@@ -227,6 +231,15 @@
 {
 "basename":"perl-term-progressbar-2.21-pl5.22.0_0.tar.bz2",
 "total":683
+}
+]
+},
+{
+"date":"2021-10-22",
+"downloads_per_basename":[
+{
+"basename":"perl-term-progressbar-2.21-pl526_1.tar.bz2",
+"total":158
 }
 ]
 }

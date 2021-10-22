@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-kebabs-1.24.0-r40h399db7b_1.tar.bz2",
-"total":59
+"total":60
 },
 {
 "basename":"bioconductor-kebabs-1.24.0-r40h5f743cb_0.tar.bz2",
@@ -158,6 +158,10 @@
 {
 "date":"2021-10-21",
 "total":146
+},
+{
+"date":"2021-10-22",
+"total":147
 }
 ],
 "package":"bioconductor-kebabs",
@@ -246,6 +250,15 @@
 {
 "basename":"bioconductor-kebabs-1.24.0-r40h5f743cb_0.tar.bz2",
 "total":87
+}
+]
+},
+{
+"date":"2021-10-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-kebabs-1.24.0-r40h399db7b_1.tar.bz2",
+"total":60
 }
 ]
 }
