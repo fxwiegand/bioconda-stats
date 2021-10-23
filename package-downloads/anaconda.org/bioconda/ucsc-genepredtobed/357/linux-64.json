@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-genepredtobed-357-1.tar.bz2",
-"total":2673
+"total":2674
 }
 ],
 "downloads_per_date":[
@@ -598,6 +598,10 @@
 {
 "date":"2021-10-22",
 "total":3867
+},
+{
+"date":"2021-10-23",
+"total":3868
 }
 ],
 "package":"ucsc-genepredtobed",
@@ -1128,6 +1132,15 @@
 {
 "basename":"ucsc-genepredtobed-357-1.tar.bz2",
 "total":2673
+}
+]
+},
+{
+"date":"2021-10-23",
+"downloads_per_basename":[
+{
+"basename":"ucsc-genepredtobed-357-1.tar.bz2",
+"total":2674
 }
 ]
 }

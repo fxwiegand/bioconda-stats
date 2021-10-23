@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-hggcpercent-377-h0b8a92a_2.tar.bz2",
-"total":357
+"total":358
 },
 {
 "basename":"ucsc-hggcpercent-377-h446ed27_1.tar.bz2",
@@ -586,6 +586,10 @@
 {
 "date":"2021-10-22",
 "total":1336
+},
+{
+"date":"2021-10-23",
+"total":1337
 }
 ],
 "package":"ucsc-hggcpercent",
@@ -1076,6 +1080,15 @@
 {
 "basename":"ucsc-hggcpercent-377-h446ed27_1.tar.bz2",
 "total":645
+}
+]
+},
+{
+"date":"2021-10-23",
+"downloads_per_basename":[
+{
+"basename":"ucsc-hggcpercent-377-h0b8a92a_2.tar.bz2",
+"total":358
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-moose-2.1804-pl526_2.tar.bz2",
-"total":321
+"total":322
 },
 {
 "basename":"perl-moose-2.1804-0.tar.bz2",
@@ -354,6 +354,10 @@
 {
 "date":"2021-10-22",
 "total":2877
+},
+{
+"date":"2021-10-23",
+"total":2878
 }
 ],
 "package":"perl-moose",
@@ -606,6 +610,15 @@
 {
 "basename":"perl-moose-2.1804-1.tar.bz2",
 "total":1699
+}
+]
+},
+{
+"date":"2021-10-23",
+"downloads_per_basename":[
+{
+"basename":"perl-moose-2.1804-pl526_2.tar.bz2",
+"total":322
 }
 ]
 }

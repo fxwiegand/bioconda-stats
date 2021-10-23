@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-base64-1.1-r3.2.2_0.tar.bz2",
-"total":889
+"total":890
 }
 ],
 "downloads_per_date":[
@@ -110,6 +110,10 @@
 {
 "date":"2021-10-22",
 "total":2028
+},
+{
+"date":"2021-10-23",
+"total":2029
 }
 ],
 "package":"r-base64",
@@ -232,6 +236,15 @@
 {
 "basename":"r-base64-1.1-r3.2.2_0.tar.bz2",
 "total":889
+}
+]
+},
+{
+"date":"2021-10-23",
+"downloads_per_basename":[
+{
+"basename":"r-base64-1.1-r3.2.2_0.tar.bz2",
+"total":890
 }
 ]
 }

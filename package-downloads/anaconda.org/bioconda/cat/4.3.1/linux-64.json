@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"cat-4.3.1-1.tar.bz2",
-"total":181
+"total":182
 }
 ],
 "downloads_per_date":[
@@ -114,6 +114,10 @@
 {
 "date":"2021-10-22",
 "total":181
+},
+{
+"date":"2021-10-23",
+"total":182
 }
 ],
 "package":"cat",
@@ -160,6 +164,15 @@
 {
 "basename":"cat-4.3.1-1.tar.bz2",
 "total":181
+}
+]
+},
+{
+"date":"2021-10-23",
+"downloads_per_basename":[
+{
+"basename":"cat-4.3.1-1.tar.bz2",
+"total":182
 }
 ]
 }

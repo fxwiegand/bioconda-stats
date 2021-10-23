@@ -144,6 +144,10 @@
 {
 "date":"2021-10-22",
 "total":99
+},
+{
+"date":"2021-10-23",
+"total":101
 }
 ],
 "downloads_per_subdir":[
@@ -153,7 +157,7 @@
 },
 {
 "subdir":"osx-64",
-"total":79
+"total":81
 }
 ],
 "package":"scallop2",
@@ -507,6 +511,15 @@
 {
 "subdir":"osx-64",
 "total":79
+}
+]
+},
+{
+"date":"2021-10-23",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":81
 }
 ]
 }

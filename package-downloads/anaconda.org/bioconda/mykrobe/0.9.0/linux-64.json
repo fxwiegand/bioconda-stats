@@ -35,7 +35,7 @@
 },
 {
 "basename":"mykrobe-0.9.0-py39h98c8e45_3.tar.bz2",
-"total":69
+"total":70
 },
 {
 "basename":"mykrobe-0.9.0-py36hd181a71_2.tar.bz2",
@@ -406,6 +406,10 @@
 {
 "date":"2021-10-22",
 "total":832
+},
+{
+"date":"2021-10-23",
+"total":833
 }
 ],
 "package":"mykrobe",
@@ -869,6 +873,15 @@
 {
 "basename":"mykrobe-0.9.0-py37h13b99d1_2.tar.bz2",
 "total":162
+}
+]
+},
+{
+"date":"2021-10-23",
+"downloads_per_basename":[
+{
+"basename":"mykrobe-0.9.0-py39h98c8e45_3.tar.bz2",
+"total":70
 }
 ]
 }
