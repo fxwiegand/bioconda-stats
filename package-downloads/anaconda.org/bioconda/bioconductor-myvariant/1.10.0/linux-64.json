@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-myvariant-1.10.0-r341_0.tar.bz2",
-"total":168
+"total":169
 },
 {
 "basename":"bioconductor-myvariant-1.10.0-r351_0.tar.bz2",
@@ -122,6 +122,10 @@
 {
 "date":"2021-10-23",
 "total":453
+},
+{
+"date":"2021-10-24",
+"total":454
 }
 ],
 "package":"bioconductor-myvariant",
@@ -215,6 +219,15 @@
 {
 "basename":"bioconductor-myvariant-1.10.0-r351_0.tar.bz2",
 "total":285
+}
+]
+},
+{
+"date":"2021-10-24",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-myvariant-1.10.0-r341_0.tar.bz2",
+"total":169
 }
 ]
 }

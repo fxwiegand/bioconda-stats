@@ -35,7 +35,7 @@
 },
 {
 "basename":"centrifuge-1.0.3-py36pl5.22.0_2.tar.bz2",
-"total":595
+"total":596
 },
 {
 "basename":"centrifuge-1.0.3-py36pl5.22.0_1.tar.bz2",
@@ -414,6 +414,10 @@
 {
 "date":"2021-10-23",
 "total":6525
+},
+{
+"date":"2021-10-24",
+"total":6526
 }
 ],
 "package":"centrifuge",
@@ -953,6 +957,15 @@
 {
 "basename":"centrifuge-1.0.3-py35pl5.22.0_1.tar.bz2",
 "total":859
+}
+]
+},
+{
+"date":"2021-10-24",
+"downloads_per_basename":[
+{
+"basename":"centrifuge-1.0.3-py36pl5.22.0_2.tar.bz2",
+"total":596
 }
 ]
 }

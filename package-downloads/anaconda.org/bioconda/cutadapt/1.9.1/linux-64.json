@@ -7,7 +7,7 @@
 },
 {
 "basename":"cutadapt-1.9.1-py35_0.tar.bz2",
-"total":1844
+"total":1845
 },
 {
 "basename":"cutadapt-1.9.1-py27_0.tar.bz2",
@@ -230,6 +230,10 @@
 {
 "date":"2021-10-23",
 "total":7524
+},
+{
+"date":"2021-10-24",
+"total":7525
 }
 ],
 "package":"cutadapt",
@@ -414,6 +418,15 @@
 {
 "basename":"cutadapt-1.9.1-py27_0.tar.bz2",
 "total":5191
+}
+]
+},
+{
+"date":"2021-10-24",
+"downloads_per_basename":[
+{
+"basename":"cutadapt-1.9.1-py35_0.tar.bz2",
+"total":1845
 }
 ]
 }
