@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-perlio-gzip-0.19-0.tar.bz2",
-"total":2804
+"total":2806
 },
 {
 "basename":"perl-perlio-gzip-0.19-pl5.22.0_1.tar.bz2",
@@ -546,6 +546,10 @@
 {
 "date":"2021-10-24",
 "total":16670
+},
+{
+"date":"2021-10-25",
+"total":16672
 }
 ],
 "package":"perl-perlio-gzip",
@@ -1030,6 +1034,15 @@
 {
 "basename":"perl-perlio-gzip-0.19-pl5.22.0_2.tar.bz2",
 "total":5897
+}
+]
+},
+{
+"date":"2021-10-25",
+"downloads_per_basename":[
+{
+"basename":"perl-perlio-gzip-0.19-0.tar.bz2",
+"total":2806
 }
 ]
 }

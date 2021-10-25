@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-list-moreutils-0.15-pl526_1.tar.bz2",
-"total":415
+"total":416
 },
 {
 "basename":"perl-list-moreutils-0.15-pl5.22.0_0.tar.bz2",
@@ -342,6 +342,10 @@
 {
 "date":"2021-10-24",
 "total":2000
+},
+{
+"date":"2021-10-25",
+"total":2001
 }
 ],
 "package":"perl-list-moreutils",
@@ -583,6 +587,15 @@
 {
 "basename":"perl-list-moreutils-0.15-pl5.22.0_0.tar.bz2",
 "total":1585
+}
+]
+},
+{
+"date":"2021-10-25",
+"downloads_per_basename":[
+{
+"basename":"perl-list-moreutils-0.15-pl526_1.tar.bz2",
+"total":416
 }
 ]
 }

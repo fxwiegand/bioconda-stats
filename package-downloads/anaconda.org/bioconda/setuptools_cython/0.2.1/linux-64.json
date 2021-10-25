@@ -11,7 +11,7 @@
 },
 {
 "basename":"setuptools_cython-0.2.1-py27_1.tar.bz2",
-"total":204
+"total":205
 },
 {
 "basename":"setuptools_cython-0.2.1-py34_0.tar.bz2",
@@ -162,6 +162,10 @@
 {
 "date":"2021-10-24",
 "total":2360
+},
+{
+"date":"2021-10-25",
+"total":2361
 }
 ],
 "package":"setuptools_cython",
@@ -354,6 +358,15 @@
 {
 "basename":"setuptools_cython-0.2.1-py27_0.tar.bz2",
 "total":708
+}
+]
+},
+{
+"date":"2021-10-25",
+"downloads_per_basename":[
+{
+"basename":"setuptools_cython-0.2.1-py27_1.tar.bz2",
+"total":205
 }
 ]
 }

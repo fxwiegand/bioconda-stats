@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-pathview-1.9.0-0.tar.bz2",
-"total":1012
+"total":1013
 }
 ],
 "downloads_per_date":[
@@ -166,6 +166,10 @@
 {
 "date":"2021-10-24",
 "total":2017
+},
+{
+"date":"2021-10-25",
+"total":2018
 }
 ],
 "package":"bioconductor-pathview",
@@ -278,6 +282,15 @@
 {
 "basename":"bioconductor-pathview-1.9.0-0.tar.bz2",
 "total":1012
+}
+]
+},
+{
+"date":"2021-10-25",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pathview-1.9.0-0.tar.bz2",
+"total":1013
 }
 ]
 }

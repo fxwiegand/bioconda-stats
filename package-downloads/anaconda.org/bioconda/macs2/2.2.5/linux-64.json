@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"macs2-2.2.5-py36h516909a_0.tar.bz2",
-"total":151
+"total":152
 },
 {
 "basename":"macs2-2.2.5-py37h516909a_0.tar.bz2",
@@ -198,6 +198,10 @@
 {
 "date":"2021-10-24",
 "total":452
+},
+{
+"date":"2021-10-25",
+"total":453
 }
 ],
 "package":"macs2",
@@ -322,6 +326,15 @@
 {
 "basename":"macs2-2.2.5-py37h516909a_0.tar.bz2",
 "total":301
+}
+]
+},
+{
+"date":"2021-10-25",
+"downloads_per_basename":[
+{
+"basename":"macs2-2.2.5-py36h516909a_0.tar.bz2",
+"total":152
 }
 ]
 }
