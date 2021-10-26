@@ -27,7 +27,7 @@
 },
 {
 "basename":"rpy2-2.7.8-py35r3.3.2_1.tar.bz2",
-"total":1053
+"total":1054
 },
 {
 "basename":"rpy2-2.7.8-py27r3.3.1_1.tar.bz2",
@@ -562,6 +562,10 @@
 {
 "date":"2021-10-25",
 "total":17268
+},
+{
+"date":"2021-10-26",
+"total":17269
 }
 ],
 "package":"rpy2",
@@ -1349,6 +1353,15 @@
 {
 "basename":"rpy2-2.7.8-py27r3.2.2_1.tar.bz2",
 "total":2146
+}
+]
+},
+{
+"date":"2021-10-26",
+"downloads_per_basename":[
+{
+"basename":"rpy2-2.7.8-py35r3.3.2_1.tar.bz2",
+"total":1054
 }
 ]
 }

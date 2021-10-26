@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"csb-1.2.5-py36_0.tar.bz2",
-"total":480
+"total":481
 },
 {
 "basename":"csb-1.2.5-py35_0.tar.bz2",
@@ -270,6 +270,10 @@
 {
 "date":"2021-10-25",
 "total":1535
+},
+{
+"date":"2021-10-26",
+"total":1536
 }
 ],
 "package":"csb",
@@ -521,6 +525,15 @@
 {
 "basename":"csb-1.2.5-py36_0.tar.bz2",
 "total":480
+}
+]
+},
+{
+"date":"2021-10-26",
+"downloads_per_basename":[
+{
+"basename":"csb-1.2.5-py36_0.tar.bz2",
+"total":481
 }
 ]
 }

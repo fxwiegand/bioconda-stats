@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"falco-0.3.0-he0be6f4_0.tar.bz2",
-"total":99
+"total":102
 }
 ],
 "downloads_per_date":[
@@ -190,6 +190,10 @@
 {
 "date":"2021-10-25",
 "total":99
+},
+{
+"date":"2021-10-26",
+"total":102
 }
 ],
 "package":"falco",
@@ -587,6 +591,15 @@
 {
 "basename":"falco-0.3.0-he0be6f4_0.tar.bz2",
 "total":99
+}
+]
+},
+{
+"date":"2021-10-26",
+"downloads_per_basename":[
+{
+"basename":"falco-0.3.0-he0be6f4_0.tar.bz2",
+"total":102
 }
 ]
 }

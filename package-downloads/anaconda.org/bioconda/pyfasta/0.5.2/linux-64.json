@@ -11,7 +11,7 @@
 },
 {
 "basename":"pyfasta-0.5.2-py27_0.tar.bz2",
-"total":2665
+"total":2666
 },
 {
 "basename":"pyfasta-0.5.2-py36_0.tar.bz2",
@@ -326,6 +326,10 @@
 {
 "date":"2021-10-25",
 "total":7067
+},
+{
+"date":"2021-10-26",
+"total":7068
 }
 ],
 "package":"pyfasta",
@@ -598,6 +602,15 @@
 {
 "basename":"pyfasta-0.5.2-py36_0.tar.bz2",
 "total":2895
+}
+]
+},
+{
+"date":"2021-10-26",
+"downloads_per_basename":[
+{
+"basename":"pyfasta-0.5.2-py27_0.tar.bz2",
+"total":2666
 }
 ]
 }

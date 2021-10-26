@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-maffetch-377-h0b8a92a_2.tar.bz2",
-"total":63
+"total":64
 },
 {
 "basename":"ucsc-maffetch-377-h199ee4e_0.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2021-10-25",
 "total":283
+},
+{
+"date":"2021-10-26",
+"total":284
 }
 ],
 "package":"ucsc-maffetch",
@@ -491,6 +495,15 @@
 {
 "basename":"ucsc-maffetch-377-h199ee4e_0.tar.bz2",
 "total":158
+}
+]
+},
+{
+"date":"2021-10-26",
+"downloads_per_basename":[
+{
+"basename":"ucsc-maffetch-377-h0b8a92a_2.tar.bz2",
+"total":64
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"phylobayes-mpi-1.8c-h19e7193_1.tar.bz2",
-"total":108
+"total":110
 },
 {
 "basename":"phylobayes-mpi-1.8c-h78e549b_0.tar.bz2",
@@ -382,6 +382,10 @@
 {
 "date":"2021-10-25",
 "total":224
+},
+{
+"date":"2021-10-26",
+"total":226
 }
 ],
 "package":"phylobayes-mpi",
@@ -717,6 +721,15 @@
 {
 "basename":"phylobayes-mpi-1.8c-h78e549b_0.tar.bz2",
 "total":116
+}
+]
+},
+{
+"date":"2021-10-26",
+"downloads_per_basename":[
+{
+"basename":"phylobayes-mpi-1.8c-h19e7193_1.tar.bz2",
+"total":110
 }
 ]
 }

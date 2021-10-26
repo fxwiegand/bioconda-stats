@@ -11,7 +11,7 @@
 },
 {
 "basename":"motus-2.1.0-py36_2.tar.bz2",
-"total":141
+"total":142
 },
 {
 "basename":"motus-2.1.0-py36_1.tar.bz2",
@@ -182,6 +182,10 @@
 {
 "date":"2021-10-25",
 "total":541
+},
+{
+"date":"2021-10-26",
+"total":542
 }
 ],
 "package":"motus",
@@ -361,6 +365,15 @@
 {
 "basename":"motus-2.1.0-py36_1.tar.bz2",
 "total":145
+}
+]
+},
+{
+"date":"2021-10-26",
+"downloads_per_basename":[
+{
+"basename":"motus-2.1.0-py36_2.tar.bz2",
+"total":142
 }
 ]
 }

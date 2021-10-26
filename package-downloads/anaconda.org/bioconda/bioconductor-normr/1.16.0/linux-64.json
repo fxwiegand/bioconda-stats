@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-normr-1.16.0-r40h399db7b_1.tar.bz2",
-"total":48
+"total":49
 },
 {
 "basename":"bioconductor-normr-1.16.0-r40h5f743cb_0.tar.bz2",
@@ -166,6 +166,10 @@
 {
 "date":"2021-10-25",
 "total":127
+},
+{
+"date":"2021-10-26",
+"total":128
 }
 ],
 "package":"bioconductor-normr",
@@ -277,6 +281,15 @@
 {
 "basename":"bioconductor-normr-1.16.0-r40h5f743cb_0.tar.bz2",
 "total":79
+}
+]
+},
+{
+"date":"2021-10-26",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-normr-1.16.0-r40h399db7b_1.tar.bz2",
+"total":49
 }
 ]
 }

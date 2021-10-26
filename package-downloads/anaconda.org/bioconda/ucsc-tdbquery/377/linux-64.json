@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-tdbquery-377-h0b8a92a_2.tar.bz2",
-"total":91
+"total":92
 },
 {
 "basename":"ucsc-tdbquery-377-h199ee4e_0.tar.bz2",
@@ -342,6 +342,10 @@
 {
 "date":"2021-10-25",
 "total":339
+},
+{
+"date":"2021-10-26",
+"total":340
 }
 ],
 "package":"ucsc-tdbquery",
@@ -621,6 +625,15 @@
 {
 "basename":"ucsc-tdbquery-377-h199ee4e_0.tar.bz2",
 "total":166
+}
+]
+},
+{
+"date":"2021-10-26",
+"downloads_per_basename":[
+{
+"basename":"ucsc-tdbquery-377-h0b8a92a_2.tar.bz2",
+"total":92
 }
 ]
 }

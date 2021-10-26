@@ -15,7 +15,7 @@
 },
 {
 "basename":"rust-bio-tools-0.20.3-h4eb7995_3.tar.bz2",
-"total":79
+"total":80
 },
 {
 "basename":"rust-bio-tools-0.20.3-h4af157f_4.tar.bz2",
@@ -194,6 +194,10 @@
 {
 "date":"2021-10-25",
 "total":330
+},
+{
+"date":"2021-10-26",
+"total":331
 }
 ],
 "package":"rust-bio-tools",
@@ -436,6 +440,15 @@
 {
 "basename":"rust-bio-tools-0.20.3-h4af157f_4.tar.bz2",
 "total":82
+}
+]
+},
+{
+"date":"2021-10-26",
+"downloads_per_basename":[
+{
+"basename":"rust-bio-tools-0.20.3-h4eb7995_3.tar.bz2",
+"total":80
 }
 ]
 }
