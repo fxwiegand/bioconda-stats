@@ -15,7 +15,7 @@
 },
 {
 "basename":"biokit-0.4.1-py27_2.tar.bz2",
-"total":609
+"total":610
 },
 {
 "basename":"biokit-0.4.1-py36_4.tar.bz2",
@@ -250,6 +250,10 @@
 {
 "date":"2021-10-26",
 "total":4060
+},
+{
+"date":"2021-10-27",
+"total":4061
 }
 ],
 "package":"biokit",
@@ -568,6 +572,15 @@
 {
 "basename":"biokit-0.4.1-py36_4.tar.bz2",
 "total":651
+}
+]
+},
+{
+"date":"2021-10-27",
+"downloads_per_basename":[
+{
+"basename":"biokit-0.4.1-py27_2.tar.bz2",
+"total":610
 }
 ]
 }

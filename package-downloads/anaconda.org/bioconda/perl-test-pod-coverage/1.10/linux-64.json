@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-pod-coverage-1.10-pl526_2.tar.bz2",
-"total":249
+"total":251
 },
 {
 "basename":"perl-test-pod-coverage-1.10-pl526_1.tar.bz2",
@@ -210,6 +210,10 @@
 {
 "date":"2021-10-26",
 "total":1041
+},
+{
+"date":"2021-10-27",
+"total":1043
 }
 ],
 "package":"perl-test-pod-coverage",
@@ -402,6 +406,15 @@
 {
 "basename":"perl-test-pod-coverage-1.10-pl5.22.0_0.tar.bz2",
 "total":495
+}
+]
+},
+{
+"date":"2021-10-27",
+"downloads_per_basename":[
+{
+"basename":"perl-test-pod-coverage-1.10-pl526_2.tar.bz2",
+"total":251
 }
 ]
 }

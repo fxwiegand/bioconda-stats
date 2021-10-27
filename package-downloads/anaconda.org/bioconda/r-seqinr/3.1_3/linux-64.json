@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-seqinr-3.1_3-r3.3.1_0.tar.bz2",
-"total":885
+"total":886
 },
 {
 "basename":"r-seqinr-3.1_3-r3.3.2_0.tar.bz2",
@@ -326,6 +326,10 @@
 {
 "date":"2021-10-26",
 "total":4145
+},
+{
+"date":"2021-10-27",
+"total":4146
 }
 ],
 "package":"r-seqinr",
@@ -606,6 +610,15 @@
 {
 "basename":"r-seqinr-3.1_3-r3.3.2_0.tar.bz2",
 "total":1001
+}
+]
+},
+{
+"date":"2021-10-27",
+"downloads_per_basename":[
+{
+"basename":"r-seqinr-3.1_3-r3.3.1_0.tar.bz2",
+"total":886
 }
 ]
 }

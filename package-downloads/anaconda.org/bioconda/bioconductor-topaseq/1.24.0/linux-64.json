@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-topaseq-1.24.0-r40h399db7b_1.tar.bz2",
-"total":42
+"total":43
 },
 {
 "basename":"bioconductor-topaseq-1.24.0-r40h5f743cb_0.tar.bz2",
@@ -174,6 +174,10 @@
 {
 "date":"2021-10-26",
 "total":95
+},
+{
+"date":"2021-10-27",
+"total":96
 }
 ],
 "package":"bioconductor-topaseq",
@@ -303,6 +307,15 @@
 {
 "basename":"bioconductor-topaseq-1.24.0-r40h5f743cb_0.tar.bz2",
 "total":53
+}
+]
+},
+{
+"date":"2021-10-27",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-topaseq-1.24.0-r40h399db7b_1.tar.bz2",
+"total":43
 }
 ]
 }

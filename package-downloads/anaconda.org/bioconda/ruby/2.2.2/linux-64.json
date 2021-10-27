@@ -15,7 +15,7 @@
 },
 {
 "basename":"ruby-2.2.2-py35_2.tar.bz2",
-"total":553
+"total":554
 },
 {
 "basename":"ruby-2.2.2-py34_1.tar.bz2",
@@ -202,6 +202,10 @@
 {
 "date":"2021-10-26",
 "total":6937
+},
+{
+"date":"2021-10-27",
+"total":6938
 }
 ],
 "package":"ruby",
@@ -510,6 +514,15 @@
 {
 "basename":"ruby-2.2.2-py27_1.tar.bz2",
 "total":1494
+}
+]
+},
+{
+"date":"2021-10-27",
+"downloads_per_basename":[
+{
+"basename":"ruby-2.2.2-py35_2.tar.bz2",
+"total":554
 }
 ]
 }

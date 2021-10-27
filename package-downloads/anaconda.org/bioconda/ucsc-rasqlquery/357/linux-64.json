@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-rasqlquery-357-1.tar.bz2",
-"total":344
+"total":345
 },
 {
 "basename":"ucsc-rasqlquery-357-0.tar.bz2",
@@ -230,6 +230,10 @@
 {
 "date":"2021-10-26",
 "total":920
+},
+{
+"date":"2021-10-27",
+"total":921
 }
 ],
 "package":"ucsc-rasqlquery",
@@ -395,6 +399,15 @@
 {
 "basename":"ucsc-rasqlquery-357-0.tar.bz2",
 "total":576
+}
+]
+},
+{
+"date":"2021-10-27",
+"downloads_per_basename":[
+{
+"basename":"ucsc-rasqlquery-357-1.tar.bz2",
+"total":345
 }
 ]
 }
