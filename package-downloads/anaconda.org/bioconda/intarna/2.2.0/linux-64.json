@@ -7,7 +7,7 @@
 },
 {
 "basename":"intarna-2.2.0-pl526h3727419_3.tar.bz2",
-"total":517
+"total":518
 },
 {
 "basename":"intarna-2.2.0-vrna2.4.4_boost1.64_2.tar.bz2",
@@ -146,6 +146,10 @@
 {
 "date":"2021-10-27",
 "total":1714
+},
+{
+"date":"2021-10-28",
+"total":1715
 }
 ],
 "package":"intarna",
@@ -249,6 +253,15 @@
 {
 "basename":"intarna-2.2.0-vrna2.4.4_boost1.64_2.tar.bz2",
 "total":933
+}
+]
+},
+{
+"date":"2021-10-28",
+"downloads_per_basename":[
+{
+"basename":"intarna-2.2.0-pl526h3727419_3.tar.bz2",
+"total":518
 }
 ]
 }

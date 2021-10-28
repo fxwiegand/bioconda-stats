@@ -7,7 +7,7 @@
 },
 {
 "basename":"cutadapt-3.3-py39h38f01e4_1.tar.bz2",
-"total":140
+"total":141
 },
 {
 "basename":"cutadapt-3.3-py36h4c5857e_0.tar.bz2",
@@ -434,6 +434,10 @@
 {
 "date":"2021-10-27",
 "total":1716
+},
+{
+"date":"2021-10-28",
+"total":1717
 }
 ],
 "package":"cutadapt",
@@ -819,6 +823,15 @@
 {
 "basename":"cutadapt-3.3-py38h0213d0e_0.tar.bz2",
 "total":575
+}
+]
+},
+{
+"date":"2021-10-28",
+"downloads_per_basename":[
+{
+"basename":"cutadapt-3.3-py39h38f01e4_1.tar.bz2",
+"total":141
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-spp-1.14-r_3.3.1_boost1.61_0.tar.bz2",
-"total":679
+"total":680
 },
 {
 "basename":"r-spp-1.14-r_3.3.2_boost1.61_0.tar.bz2",
@@ -134,6 +134,10 @@
 {
 "date":"2021-10-27",
 "total":1947
+},
+{
+"date":"2021-10-28",
+"total":1948
 }
 ],
 "package":"r-spp",
@@ -233,6 +237,15 @@
 {
 "basename":"r-spp-1.14-r_3.3.2_boost1.61_0.tar.bz2",
 "total":848
+}
+]
+},
+{
+"date":"2021-10-28",
+"downloads_per_basename":[
+{
+"basename":"r-spp-1.14-r_3.3.1_boost1.61_0.tar.bz2",
+"total":680
 }
 ]
 }
