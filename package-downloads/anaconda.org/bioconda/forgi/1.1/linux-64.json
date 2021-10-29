@@ -7,7 +7,7 @@
 },
 {
 "basename":"forgi-1.1-py35_0.tar.bz2",
-"total":361
+"total":362
 },
 {
 "basename":"forgi-1.1-py36_0.tar.bz2",
@@ -222,6 +222,10 @@
 {
 "date":"2021-10-28",
 "total":1013
+},
+{
+"date":"2021-10-29",
+"total":1014
 }
 ],
 "package":"forgi",
@@ -405,6 +409,15 @@
 {
 "basename":"forgi-1.1-py36_0.tar.bz2",
 "total":384
+}
+]
+},
+{
+"date":"2021-10-29",
+"downloads_per_basename":[
+{
+"basename":"forgi-1.1-py35_0.tar.bz2",
+"total":362
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-splancs-2.01_38-r3.2.2_0.tar.bz2",
-"total":599
+"total":601
 },
 {
 "basename":"r-splancs-2.01_38-r3.3.2_0.tar.bz2",
@@ -126,6 +126,10 @@
 {
 "date":"2021-10-28",
 "total":1868
+},
+{
+"date":"2021-10-29",
+"total":1870
 }
 ],
 "package":"r-splancs",
@@ -225,6 +229,15 @@
 {
 "basename":"r-splancs-2.01_38-r3.3.2_0.tar.bz2",
 "total":685
+}
+]
+},
+{
+"date":"2021-10-29",
+"downloads_per_basename":[
+{
+"basename":"r-splancs-2.01_38-r3.2.2_0.tar.bz2",
+"total":601
 }
 ]
 }

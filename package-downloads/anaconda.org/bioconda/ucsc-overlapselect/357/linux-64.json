@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-overlapselect-357-1.tar.bz2",
-"total":336
+"total":337
 },
 {
 "basename":"ucsc-overlapselect-357-0.tar.bz2",
@@ -186,6 +186,10 @@
 {
 "date":"2021-10-28",
 "total":795
+},
+{
+"date":"2021-10-29",
+"total":796
 }
 ],
 "package":"ucsc-overlapselect",
@@ -324,6 +328,15 @@
 {
 "basename":"ucsc-overlapselect-357-0.tar.bz2",
 "total":459
+}
+]
+},
+{
+"date":"2021-10-29",
+"downloads_per_basename":[
+{
+"basename":"ucsc-overlapselect-357-1.tar.bz2",
+"total":337
 }
 ]
 }

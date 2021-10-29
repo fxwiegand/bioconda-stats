@@ -23,7 +23,7 @@
 },
 {
 "basename":"cosi2-2.02-py36_0.tar.bz2",
-"total":633
+"total":634
 },
 {
 "basename":"cosi2-2.02-py35_0.tar.bz2",
@@ -202,6 +202,10 @@
 {
 "date":"2021-10-28",
 "total":3156
+},
+{
+"date":"2021-10-29",
+"total":3157
 }
 ],
 "package":"cosi2",
@@ -444,6 +448,15 @@
 {
 "basename":"cosi2-2.02-py35_0.tar.bz2",
 "total":740
+}
+]
+},
+{
+"date":"2021-10-29",
+"downloads_per_basename":[
+{
+"basename":"cosi2-2.02-py36_0.tar.bz2",
+"total":634
 }
 ]
 }

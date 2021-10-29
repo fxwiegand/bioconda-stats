@@ -23,7 +23,7 @@
 },
 {
 "basename":"gemini-0.20.1-py27hacb5245_1.tar.bz2",
-"total":2607
+"total":2608
 },
 {
 "basename":"gemini-0.20.1-py27_0.tar.bz2",
@@ -322,6 +322,10 @@
 {
 "date":"2021-10-28",
 "total":6832
+},
+{
+"date":"2021-10-29",
+"total":6833
 }
 ],
 "package":"gemini",
@@ -646,6 +650,15 @@
 {
 "basename":"gemini-0.20.1-py27h7787144_6.tar.bz2",
 "total":77
+}
+]
+},
+{
+"date":"2021-10-29",
+"downloads_per_basename":[
+{
+"basename":"gemini-0.20.1-py27hacb5245_1.tar.bz2",
+"total":2608
 }
 ]
 }

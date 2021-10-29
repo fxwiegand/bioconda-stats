@@ -39,7 +39,7 @@
 },
 {
 "basename":"pymvpa-2.6.5-py36h4edd4cd_3.tar.bz2",
-"total":66
+"total":67
 },
 {
 "basename":"pymvpa-2.6.5-py37h20eb745_3.tar.bz2",
@@ -338,6 +338,10 @@
 {
 "date":"2021-10-28",
 "total":1443
+},
+{
+"date":"2021-10-29",
+"total":1444
 }
 ],
 "package":"pymvpa",
@@ -965,6 +969,15 @@
 {
 "basename":"pymvpa-2.6.5-py39h0b350fa_4.tar.bz2",
 "total":52
+}
+]
+},
+{
+"date":"2021-10-29",
+"downloads_per_basename":[
+{
+"basename":"pymvpa-2.6.5-py36h4edd4cd_3.tar.bz2",
+"total":67
 }
 ]
 }

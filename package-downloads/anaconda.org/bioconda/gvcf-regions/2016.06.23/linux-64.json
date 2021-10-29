@@ -15,7 +15,7 @@
 },
 {
 "basename":"gvcf-regions-2016.06.23-py27_0.tar.bz2",
-"total":5156
+"total":5163
 }
 ],
 "downloads_per_date":[
@@ -422,6 +422,10 @@
 {
 "date":"2021-10-28",
 "total":6462
+},
+{
+"date":"2021-10-29",
+"total":6469
 }
 ],
 "package":"gvcf-regions",
@@ -732,6 +736,15 @@
 {
 "basename":"gvcf-regions-2016.06.23-py35_0.tar.bz2",
 "total":420
+}
+]
+},
+{
+"date":"2021-10-29",
+"downloads_per_basename":[
+{
+"basename":"gvcf-regions-2016.06.23-py27_0.tar.bz2",
+"total":5163
 }
 ]
 }

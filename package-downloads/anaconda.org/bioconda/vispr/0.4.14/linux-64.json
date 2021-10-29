@@ -11,7 +11,7 @@
 },
 {
 "basename":"vispr-0.4.14-py34_0.tar.bz2",
-"total":527
+"total":528
 },
 {
 "basename":"vispr-0.4.14-py35_0.tar.bz2",
@@ -190,6 +190,10 @@
 {
 "date":"2021-10-28",
 "total":3203
+},
+{
+"date":"2021-10-29",
+"total":3204
 }
 ],
 "package":"vispr",
@@ -406,6 +410,15 @@
 {
 "basename":"vispr-0.4.14-py35_1.tar.bz2",
 "total":410
+}
+]
+},
+{
+"date":"2021-10-29",
+"downloads_per_basename":[
+{
+"basename":"vispr-0.4.14-py34_0.tar.bz2",
+"total":528
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-image-exiftool-10.40-pl526_2.tar.bz2",
-"total":188
+"total":189
 },
 {
 "basename":"perl-image-exiftool-10.40-pl5.22.0_0.tar.bz2",
@@ -158,6 +158,10 @@
 {
 "date":"2021-10-28",
 "total":818
+},
+{
+"date":"2021-10-29",
+"total":819
 }
 ],
 "package":"perl-image-exiftool",
@@ -255,6 +259,15 @@
 {
 "basename":"perl-image-exiftool-10.40-pl5.22.0_0.tar.bz2",
 "total":630
+}
+]
+},
+{
+"date":"2021-10-29",
+"downloads_per_basename":[
+{
+"basename":"perl-image-exiftool-10.40-pl526_2.tar.bz2",
+"total":189
 }
 ]
 }

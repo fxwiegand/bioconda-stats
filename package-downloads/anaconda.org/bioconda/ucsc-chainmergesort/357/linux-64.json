@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-chainmergesort-357-1.tar.bz2",
-"total":419
+"total":420
 },
 {
 "basename":"ucsc-chainmergesort-357-0.tar.bz2",
@@ -202,6 +202,10 @@
 {
 "date":"2021-10-28",
 "total":1002
+},
+{
+"date":"2021-10-29",
+"total":1003
 }
 ],
 "package":"ucsc-chainmergesort",
@@ -340,6 +344,15 @@
 {
 "basename":"ucsc-chainmergesort-357-0.tar.bz2",
 "total":583
+}
+]
+},
+{
+"date":"2021-10-29",
+"downloads_per_basename":[
+{
+"basename":"ucsc-chainmergesort-357-1.tar.bz2",
+"total":420
 }
 ]
 }
