@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-aod-1.3-r3.3.2_0.tar.bz2",
-"total":602
+"total":603
 },
 {
 "basename":"r-aod-1.3-r3.3.1_0.tar.bz2",
@@ -122,6 +122,10 @@
 {
 "date":"2021-10-29",
 "total":1222
+},
+{
+"date":"2021-10-30",
+"total":1223
 }
 ],
 "package":"r-aod",
@@ -214,6 +218,15 @@
 {
 "basename":"r-aod-1.3-r3.3.1_0.tar.bz2",
 "total":620
+}
+]
+},
+{
+"date":"2021-10-30",
+"downloads_per_basename":[
+{
+"basename":"r-aod-1.3-r3.3.2_0.tar.bz2",
+"total":603
 }
 ]
 }

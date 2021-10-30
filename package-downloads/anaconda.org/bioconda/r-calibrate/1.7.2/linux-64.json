@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-calibrate-1.7.2-r3.2.2_0.tar.bz2",
-"total":700
+"total":701
 },
 {
 "basename":"r-calibrate-1.7.2-r3.3.2_0.tar.bz2",
@@ -158,6 +158,10 @@
 {
 "date":"2021-10-29",
 "total":1935
+},
+{
+"date":"2021-10-30",
+"total":1936
 }
 ],
 "package":"r-calibrate",
@@ -253,6 +257,15 @@
 {
 "basename":"r-calibrate-1.7.2-r3.3.2_0.tar.bz2",
 "total":801
+}
+]
+},
+{
+"date":"2021-10-30",
+"downloads_per_basename":[
+{
+"basename":"r-calibrate-1.7.2-r3.2.2_0.tar.bz2",
+"total":701
 }
 ]
 }

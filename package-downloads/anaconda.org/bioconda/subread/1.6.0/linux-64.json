@@ -7,7 +7,7 @@
 },
 {
 "basename":"subread-1.6.0-1.tar.bz2",
-"total":1841
+"total":1842
 },
 {
 "basename":"subread-1.6.0-2.tar.bz2",
@@ -302,6 +302,10 @@
 {
 "date":"2021-10-29",
 "total":6570
+},
+{
+"date":"2021-10-30",
+"total":6571
 }
 ],
 "package":"subread",
@@ -526,6 +530,15 @@
 {
 "basename":"subread-1.6.0-2.tar.bz2",
 "total":3028
+}
+]
+},
+{
+"date":"2021-10-30",
+"downloads_per_basename":[
+{
+"basename":"subread-1.6.0-1.tar.bz2",
+"total":1842
 }
 ]
 }

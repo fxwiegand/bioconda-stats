@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-flowai-1.2.9-r3.4.1_0.tar.bz2",
-"total":585
+"total":586
 },
 {
 "basename":"bioconductor-flowai-1.2.9-0.tar.bz2",
@@ -214,6 +214,10 @@
 {
 "date":"2021-10-29",
 "total":2684
+},
+{
+"date":"2021-10-30",
+"total":2685
 }
 ],
 "package":"bioconductor-flowai",
@@ -395,6 +399,15 @@
 {
 "basename":"bioconductor-flowai-1.2.9-0.tar.bz2",
 "total":933
+}
+]
+},
+{
+"date":"2021-10-30",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-flowai-1.2.9-r3.4.1_0.tar.bz2",
+"total":586
 }
 ]
 }
