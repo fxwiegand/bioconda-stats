@@ -11,7 +11,7 @@
 },
 {
 "basename":"barrnap-0.7-pl==5.22.0_0.tar.bz2",
-"total":688
+"total":689
 },
 {
 "basename":"barrnap-0.7-3.tar.bz2",
@@ -326,6 +326,10 @@
 {
 "date":"2021-10-30",
 "total":4491
+},
+{
+"date":"2021-10-31",
+"total":4492
 }
 ],
 "package":"barrnap",
@@ -592,6 +596,15 @@
 {
 "basename":"barrnap-0.7-3.tar.bz2",
 "total":1194
+}
+]
+},
+{
+"date":"2021-10-31",
+"downloads_per_basename":[
+{
+"basename":"barrnap-0.7-pl==5.22.0_0.tar.bz2",
+"total":689
 }
 ]
 }

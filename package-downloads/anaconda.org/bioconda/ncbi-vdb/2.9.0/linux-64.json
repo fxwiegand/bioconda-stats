@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ncbi-vdb-2.9.0-0.tar.bz2",
-"total":510
+"total":511
 }
 ],
 "downloads_per_date":[
@@ -146,6 +146,10 @@
 {
 "date":"2021-10-30",
 "total":510
+},
+{
+"date":"2021-10-31",
+"total":511
 }
 ],
 "package":"ncbi-vdb",
@@ -219,6 +223,15 @@
 {
 "basename":"ncbi-vdb-2.9.0-0.tar.bz2",
 "total":510
+}
+]
+},
+{
+"date":"2021-10-31",
+"downloads_per_basename":[
+{
+"basename":"ncbi-vdb-2.9.0-0.tar.bz2",
+"total":511
 }
 ]
 }

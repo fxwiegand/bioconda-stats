@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"samtools-0.1.15-0.tar.bz2",
-"total":596
+"total":597
 }
 ],
 "downloads_per_date":[
@@ -154,6 +154,10 @@
 {
 "date":"2021-10-30",
 "total":596
+},
+{
+"date":"2021-10-31",
+"total":597
 }
 ],
 "package":"samtools",
@@ -227,6 +231,15 @@
 {
 "basename":"samtools-0.1.15-0.tar.bz2",
 "total":596
+}
+]
+},
+{
+"date":"2021-10-31",
+"downloads_per_basename":[
+{
+"basename":"samtools-0.1.15-0.tar.bz2",
+"total":597
 }
 ]
 }

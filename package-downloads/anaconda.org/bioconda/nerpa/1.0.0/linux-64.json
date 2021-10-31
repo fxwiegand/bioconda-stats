@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"nerpa-1.0.0-py37h22450f8_1.tar.bz2",
-"total":28
+"total":29
 },
 {
 "basename":"nerpa-1.0.0-py36hae55d0a_1.tar.bz2",
@@ -98,6 +98,10 @@
 {
 "date":"2021-10-30",
 "total":150
+},
+{
+"date":"2021-10-31",
+"total":151
 }
 ],
 "package":"nerpa",
@@ -393,6 +397,15 @@
 {
 "basename":"nerpa-1.0.0-py39h7cff6ad_1.tar.bz2",
 "total":32
+}
+]
+},
+{
+"date":"2021-10-31",
+"downloads_per_basename":[
+{
+"basename":"nerpa-1.0.0-py37h22450f8_1.tar.bz2",
+"total":29
 }
 ]
 }
