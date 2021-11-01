@@ -15,7 +15,7 @@
 },
 {
 "basename":"viennarna-2.4.11-py35hd28b015_0.tar.bz2",
-"total":232
+"total":233
 },
 {
 "basename":"viennarna-2.4.11-py37hdbcaa40_2.tar.bz2",
@@ -434,6 +434,10 @@
 {
 "date":"2021-10-31",
 "total":5909
+},
+{
+"date":"2021-11-01",
+"total":5910
 }
 ],
 "package":"viennarna",
@@ -974,6 +978,15 @@
 {
 "basename":"viennarna-2.4.11-py27hdbcaa40_2.tar.bz2",
 "total":1660
+}
+]
+},
+{
+"date":"2021-11-01",
+"downloads_per_basename":[
+{
+"basename":"viennarna-2.4.11-py35hd28b015_0.tar.bz2",
+"total":233
 }
 ]
 }

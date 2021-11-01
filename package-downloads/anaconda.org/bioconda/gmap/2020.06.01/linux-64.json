@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"gmap-2020.06.01-pl526h2f06484_0.tar.bz2",
-"total":270
+"total":271
 },
 {
 "basename":"gmap-2020.06.01-pl526h2f06484_1.tar.bz2",
@@ -222,6 +222,10 @@
 {
 "date":"2021-10-31",
 "total":730
+},
+{
+"date":"2021-11-01",
+"total":731
 }
 ],
 "package":"gmap",
@@ -324,6 +328,15 @@
 {
 "basename":"gmap-2020.06.01-pl526h2f06484_1.tar.bz2",
 "total":460
+}
+]
+},
+{
+"date":"2021-11-01",
+"downloads_per_basename":[
+{
+"basename":"gmap-2020.06.01-pl526h2f06484_0.tar.bz2",
+"total":271
 }
 ]
 }

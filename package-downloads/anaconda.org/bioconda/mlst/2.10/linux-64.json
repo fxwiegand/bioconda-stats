@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"mlst-2.10-pl5.22.0_0.tar.bz2",
-"total":269
+"total":270
 },
 {
 "basename":"mlst-2.10-pl5.22.0_1.tar.bz2",
@@ -178,6 +178,10 @@
 {
 "date":"2021-10-31",
 "total":1196
+},
+{
+"date":"2021-11-01",
+"total":1197
 }
 ],
 "package":"mlst",
@@ -275,6 +279,15 @@
 {
 "basename":"mlst-2.10-pl5.22.0_1.tar.bz2",
 "total":927
+}
+]
+},
+{
+"date":"2021-11-01",
+"downloads_per_basename":[
+{
+"basename":"mlst-2.10-pl5.22.0_0.tar.bz2",
+"total":270
 }
 ]
 }

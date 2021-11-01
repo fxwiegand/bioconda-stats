@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-beat-1.18.0-r351_0.tar.bz2",
-"total":235
+"total":236
 },
 {
 "basename":"bioconductor-beat-1.18.0-r341_0.tar.bz2",
@@ -178,6 +178,10 @@
 {
 "date":"2021-10-31",
 "total":602
+},
+{
+"date":"2021-11-01",
+"total":603
 }
 ],
 "package":"bioconductor-beat",
@@ -292,6 +296,15 @@
 {
 "basename":"bioconductor-beat-1.18.0-r341_0.tar.bz2",
 "total":367
+}
+]
+},
+{
+"date":"2021-11-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-beat-1.18.0-r351_0.tar.bz2",
+"total":236
 }
 ]
 }

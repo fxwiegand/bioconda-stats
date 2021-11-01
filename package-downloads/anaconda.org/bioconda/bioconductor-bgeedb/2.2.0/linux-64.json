@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-bgeedb-2.2.0-0.tar.bz2",
-"total":537
+"total":538
 },
 {
 "basename":"bioconductor-bgeedb-2.2.0-r3.3.2_0.tar.bz2",
@@ -162,6 +162,10 @@
 {
 "date":"2021-10-31",
 "total":1692
+},
+{
+"date":"2021-11-01",
+"total":1693
 }
 ],
 "package":"bioconductor-bgeedb",
@@ -288,6 +292,15 @@
 {
 "basename":"bioconductor-bgeedb-2.2.0-r3.3.2_0.tar.bz2",
 "total":636
+}
+]
+},
+{
+"date":"2021-11-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bgeedb-2.2.0-0.tar.bz2",
+"total":538
 }
 ]
 }

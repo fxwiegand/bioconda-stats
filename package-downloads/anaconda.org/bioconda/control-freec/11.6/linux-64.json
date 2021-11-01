@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"control-freec-11.6-h1b792b2_1.tar.bz2",
-"total":77
+"total":78
 },
 {
 "basename":"control-freec-11.6-he1b5a44_0.tar.bz2",
@@ -478,6 +478,10 @@
 {
 "date":"2021-10-31",
 "total":581
+},
+{
+"date":"2021-11-01",
+"total":582
 }
 ],
 "package":"control-freec",
@@ -890,6 +894,15 @@
 {
 "basename":"control-freec-11.6-he1b5a44_0.tar.bz2",
 "total":504
+}
+]
+},
+{
+"date":"2021-11-01",
+"downloads_per_basename":[
+{
+"basename":"control-freec-11.6-h1b792b2_1.tar.bz2",
+"total":78
 }
 ]
 }

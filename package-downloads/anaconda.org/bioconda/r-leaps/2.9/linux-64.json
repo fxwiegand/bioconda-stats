@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-leaps-2.9-r3.3.1_0.tar.bz2",
-"total":2945
+"total":2946
 },
 {
 "basename":"r-leaps-2.9-r3.2.2_0.tar.bz2",
@@ -126,6 +126,10 @@
 {
 "date":"2021-10-31",
 "total":6971
+},
+{
+"date":"2021-11-01",
+"total":6972
 }
 ],
 "package":"r-leaps",
@@ -229,6 +233,15 @@
 {
 "basename":"r-leaps-2.9-r3.2.2_0.tar.bz2",
 "total":2953
+}
+]
+},
+{
+"date":"2021-11-01",
+"downloads_per_basename":[
+{
+"basename":"r-leaps-2.9-r3.3.1_0.tar.bz2",
+"total":2946
 }
 ]
 }

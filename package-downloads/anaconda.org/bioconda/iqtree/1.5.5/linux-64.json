@@ -7,7 +7,7 @@
 },
 {
 "basename":"iqtree-1.5.5-1.tar.bz2",
-"total":856
+"total":857
 },
 {
 "basename":"iqtree-1.5.5-he941832_2.tar.bz2",
@@ -318,6 +318,10 @@
 {
 "date":"2021-10-31",
 "total":3668
+},
+{
+"date":"2021-11-01",
+"total":3669
 }
 ],
 "package":"iqtree",
@@ -556,6 +560,15 @@
 {
 "basename":"iqtree-1.5.5-he941832_2.tar.bz2",
 "total":2000
+}
+]
+},
+{
+"date":"2021-11-01",
+"downloads_per_basename":[
+{
+"basename":"iqtree-1.5.5-1.tar.bz2",
+"total":857
 }
 ]
 }
