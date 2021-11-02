@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-json-parse-0.49-pl526_1.tar.bz2",
-"total":172
+"total":173
 },
 {
 "basename":"perl-json-parse-0.49-pl5.22.0_0.tar.bz2",
@@ -122,6 +122,10 @@
 {
 "date":"2021-11-01",
 "total":755
+},
+{
+"date":"2021-11-02",
+"total":756
 }
 ],
 "package":"perl-json-parse",
@@ -214,6 +218,15 @@
 {
 "basename":"perl-json-parse-0.49-pl5.22.0_0.tar.bz2",
 "total":583
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"perl-json-parse-0.49-pl526_1.tar.bz2",
+"total":173
 }
 ]
 }

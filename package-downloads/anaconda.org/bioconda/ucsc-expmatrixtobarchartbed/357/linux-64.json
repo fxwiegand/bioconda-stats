@@ -11,7 +11,7 @@
 },
 {
 "basename":"ucsc-expmatrixtobarchartbed-357-py36_1.tar.bz2",
-"total":301
+"total":302
 },
 {
 "basename":"ucsc-expmatrixtobarchartbed-357-py35_0.tar.bz2",
@@ -178,6 +178,10 @@
 {
 "date":"2021-11-01",
 "total":1690
+},
+{
+"date":"2021-11-02",
+"total":1691
 }
 ],
 "package":"ucsc-expmatrixtobarchartbed",
@@ -404,6 +408,15 @@
 {
 "basename":"ucsc-expmatrixtobarchartbed-357-py27_0.tar.bz2",
 "total":383
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-expmatrixtobarchartbed-357-py36_1.tar.bz2",
+"total":302
 }
 ]
 }

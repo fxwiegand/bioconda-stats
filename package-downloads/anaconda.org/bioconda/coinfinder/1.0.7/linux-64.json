@@ -7,7 +7,7 @@
 },
 {
 "basename":"coinfinder-1.0.7-py36hc27cf86_0.tar.bz2",
-"total":68
+"total":70
 },
 {
 "basename":"coinfinder-1.0.7-py38h69d548c_0.tar.bz2",
@@ -250,6 +250,10 @@
 {
 "date":"2021-11-01",
 "total":201
+},
+{
+"date":"2021-11-02",
+"total":203
 }
 ],
 "package":"coinfinder",
@@ -452,6 +456,15 @@
 {
 "basename":"coinfinder-1.0.7-py38h69d548c_0.tar.bz2",
 "total":78
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"coinfinder-1.0.7-py36hc27cf86_0.tar.bz2",
+"total":70
 }
 ]
 }

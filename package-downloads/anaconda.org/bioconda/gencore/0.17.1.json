@@ -76,6 +76,10 @@
 {
 "date":"2021-11-01",
 "total":80
+},
+{
+"date":"2021-11-02",
+"total":82
 }
 ],
 "downloads_per_subdir":[
@@ -85,7 +89,7 @@
 },
 {
 "subdir":"osx-64",
-"total":49
+"total":51
 }
 ],
 "package":"gencore",
@@ -306,6 +310,15 @@
 {
 "subdir":"osx-64",
 "total":49
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":51
 }
 ]
 }

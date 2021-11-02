@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rgreat-1.12.1-r341_0.tar.bz2",
-"total":179
+"total":180
 },
 {
 "basename":"bioconductor-rgreat-1.12.1-r351_0.tar.bz2",
@@ -142,6 +142,10 @@
 {
 "date":"2021-11-01",
 "total":487
+},
+{
+"date":"2021-11-02",
+"total":488
 }
 ],
 "package":"bioconductor-rgreat",
@@ -235,6 +239,15 @@
 {
 "basename":"bioconductor-rgreat-1.12.1-r351_0.tar.bz2",
 "total":308
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rgreat-1.12.1-r341_0.tar.bz2",
+"total":180
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"gbmunge-2018.07.06-h516909a_2.tar.bz2",
-"total":40
+"total":41
 },
 {
 "basename":"gbmunge-2018.07.06-h14c3975_0.tar.bz2",
@@ -158,6 +158,10 @@
 {
 "date":"2021-11-01",
 "total":334
+},
+{
+"date":"2021-11-02",
+"total":335
 }
 ],
 "package":"gbmunge",
@@ -291,6 +295,15 @@
 {
 "basename":"gbmunge-2018.07.06-h14c3975_1.tar.bz2",
 "total":141
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"gbmunge-2018.07.06-h516909a_2.tar.bz2",
+"total":41
 }
 ]
 }

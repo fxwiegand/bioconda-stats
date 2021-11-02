@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-sgtr-1.1.4-r40he1b5a44_0.tar.bz2",
-"total":25
+"total":26
 },
 {
 "basename":"r-sgtr-1.1.4-r40h1b792b2_1.tar.bz2",
@@ -150,6 +150,10 @@
 {
 "date":"2021-11-01",
 "total":75
+},
+{
+"date":"2021-11-02",
+"total":76
 }
 ],
 "package":"r-sgtr",
@@ -294,6 +298,15 @@
 {
 "basename":"r-sgtr-1.1.4-r40h1b792b2_1.tar.bz2",
 "total":30
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"r-sgtr-1.1.4-r40he1b5a44_0.tar.bz2",
+"total":26
 }
 ]
 }

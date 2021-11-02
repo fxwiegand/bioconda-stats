@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-unicode-stringprep-1.105-0.tar.bz2",
-"total":538
+"total":539
 },
 {
 "basename":"perl-unicode-stringprep-1.105-1.tar.bz2",
@@ -170,6 +170,10 @@
 {
 "date":"2021-11-01",
 "total":1329
+},
+{
+"date":"2021-11-02",
+"total":1330
 }
 ],
 "package":"perl-unicode-stringprep",
@@ -300,6 +304,15 @@
 {
 "basename":"perl-unicode-stringprep-1.105-1.tar.bz2",
 "total":618
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"perl-unicode-stringprep-1.105-0.tar.bz2",
+"total":539
 }
 ]
 }

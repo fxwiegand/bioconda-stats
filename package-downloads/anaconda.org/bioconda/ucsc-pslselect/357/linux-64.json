@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-pslselect-357-0.tar.bz2",
-"total":434
+"total":435
 },
 {
 "basename":"ucsc-pslselect-357-1.tar.bz2",
@@ -198,6 +198,10 @@
 {
 "date":"2021-11-01",
 "total":884
+},
+{
+"date":"2021-11-02",
+"total":885
 }
 ],
 "package":"ucsc-pslselect",
@@ -331,6 +335,15 @@
 {
 "basename":"ucsc-pslselect-357-1.tar.bz2",
 "total":450
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-pslselect-357-0.tar.bz2",
+"total":435
 }
 ]
 }

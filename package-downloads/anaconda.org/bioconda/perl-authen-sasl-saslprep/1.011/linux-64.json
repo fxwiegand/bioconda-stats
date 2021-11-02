@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-authen-sasl-saslprep-1.011-0.tar.bz2",
-"total":531
+"total":532
 },
 {
 "basename":"perl-authen-sasl-saslprep-1.011-1.tar.bz2",
@@ -114,6 +114,10 @@
 {
 "date":"2021-11-01",
 "total":1243
+},
+{
+"date":"2021-11-02",
+"total":1244
 }
 ],
 "package":"perl-authen-sasl-saslprep",
@@ -209,6 +213,15 @@
 {
 "basename":"perl-authen-sasl-saslprep-1.011-1.tar.bz2",
 "total":562
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"perl-authen-sasl-saslprep-1.011-0.tar.bz2",
+"total":532
 }
 ]
 }

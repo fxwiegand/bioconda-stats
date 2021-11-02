@@ -7,7 +7,7 @@
 },
 {
 "basename":"xdg-1.0.5-py35_0.tar.bz2",
-"total":755
+"total":756
 },
 {
 "basename":"xdg-1.0.5-py36_0.tar.bz2",
@@ -206,6 +206,10 @@
 {
 "date":"2021-11-01",
 "total":2844
+},
+{
+"date":"2021-11-02",
+"total":2845
 }
 ],
 "package":"xdg",
@@ -360,6 +364,15 @@
 {
 "basename":"xdg-1.0.5-py36_0.tar.bz2",
 "total":1462
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"xdg-1.0.5-py35_0.tar.bz2",
+"total":756
 }
 ]
 }

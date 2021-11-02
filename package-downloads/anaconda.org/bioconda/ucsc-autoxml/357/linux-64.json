@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-autoxml-357-0.tar.bz2",
-"total":611
+"total":612
 }
 ],
 "downloads_per_date":[
@@ -222,6 +222,10 @@
 {
 "date":"2021-11-01",
 "total":909
+},
+{
+"date":"2021-11-02",
+"total":910
 }
 ],
 "package":"ucsc-autoxml",
@@ -377,6 +381,15 @@
 {
 "basename":"ucsc-autoxml-357-1.tar.bz2",
 "total":298
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-autoxml-357-0.tar.bz2",
+"total":612
 }
 ]
 }

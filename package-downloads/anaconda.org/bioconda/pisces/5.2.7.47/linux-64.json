@@ -7,7 +7,7 @@
 },
 {
 "basename":"pisces-5.2.7.47-1.tar.bz2",
-"total":175
+"total":176
 },
 {
 "basename":"pisces-5.2.7.47-0.tar.bz2",
@@ -170,6 +170,10 @@
 {
 "date":"2021-11-01",
 "total":667
+},
+{
+"date":"2021-11-02",
+"total":668
 }
 ],
 "package":"pisces",
@@ -300,6 +304,15 @@
 {
 "basename":"pisces-5.2.7.47-2.tar.bz2",
 "total":168
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"pisces-5.2.7.47-1.tar.bz2",
+"total":176
 }
 ]
 }

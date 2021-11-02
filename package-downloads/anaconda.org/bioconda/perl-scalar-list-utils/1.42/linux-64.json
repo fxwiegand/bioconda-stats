@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-scalar-list-utils-1.42-2.tar.bz2",
-"total":502
+"total":503
 },
 {
 "basename":"perl-scalar-list-utils-1.42-3.tar.bz2",
@@ -150,6 +150,10 @@
 {
 "date":"2021-11-01",
 "total":2668
+},
+{
+"date":"2021-11-02",
+"total":2669
 }
 ],
 "package":"perl-scalar-list-utils",
@@ -316,6 +320,15 @@
 {
 "basename":"perl-scalar-list-utils-1.42-3.tar.bz2",
 "total":1238
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"perl-scalar-list-utils-1.42-2.tar.bz2",
+"total":503
 }
 ]
 }

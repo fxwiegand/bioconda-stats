@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"garnet-0.4.3-py36_0.tar.bz2",
-"total":450
+"total":452
 },
 {
 "basename":"garnet-0.4.3-py35_0.tar.bz2",
@@ -102,6 +102,10 @@
 {
 "date":"2021-11-01",
 "total":1002
+},
+{
+"date":"2021-11-02",
+"total":1004
 }
 ],
 "package":"garnet",
@@ -181,6 +185,15 @@
 {
 "basename":"garnet-0.4.3-py35_0.tar.bz2",
 "total":552
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"garnet-0.4.3-py36_0.tar.bz2",
+"total":452
 }
 ]
 }

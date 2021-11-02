@@ -7,7 +7,7 @@
 },
 {
 "basename":"snakemake-3.8.2-py35_0.tar.bz2",
-"total":2927
+"total":2928
 }
 ],
 "downloads_per_date":[
@@ -194,6 +194,10 @@
 {
 "date":"2021-11-01",
 "total":3387
+},
+{
+"date":"2021-11-02",
+"total":3388
 }
 ],
 "package":"snakemake",
@@ -322,6 +326,15 @@
 {
 "basename":"snakemake-3.8.2-py34_0.tar.bz2",
 "total":460
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"snakemake-3.8.2-py35_0.tar.bz2",
+"total":2928
 }
 ]
 }

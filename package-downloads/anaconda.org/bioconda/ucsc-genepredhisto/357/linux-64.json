@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-genepredhisto-357-0.tar.bz2",
-"total":578
+"total":579
 }
 ],
 "downloads_per_date":[
@@ -218,6 +218,10 @@
 {
 "date":"2021-11-01",
 "total":879
+},
+{
+"date":"2021-11-02",
+"total":880
 }
 ],
 "package":"ucsc-genepredhisto",
@@ -369,6 +373,15 @@
 {
 "basename":"ucsc-genepredhisto-357-1.tar.bz2",
 "total":301
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-genepredhisto-357-0.tar.bz2",
+"total":579
 }
 ]
 }

@@ -15,7 +15,7 @@
 },
 {
 "basename":"biopython-1.66-np112py36_0.tar.bz2",
-"total":844
+"total":845
 },
 {
 "basename":"biopython-1.66-np110py27_0.tar.bz2",
@@ -426,6 +426,10 @@
 {
 "date":"2021-11-01",
 "total":5767
+},
+{
+"date":"2021-11-02",
+"total":5768
 }
 ],
 "package":"biopython",
@@ -726,6 +730,15 @@
 {
 "basename":"biopython-1.66-np112py27_0.tar.bz2",
 "total":2378
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"biopython-1.66-np112py36_0.tar.bz2",
+"total":845
 }
 ]
 }

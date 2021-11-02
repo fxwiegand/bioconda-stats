@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"cgatcore-0.5.12-py37_1.tar.bz2",
-"total":119
+"total":120
 },
 {
 "basename":"cgatcore-0.5.12-py36_1.tar.bz2",
@@ -218,6 +218,10 @@
 {
 "date":"2021-11-01",
 "total":324
+},
+{
+"date":"2021-11-02",
+"total":325
 }
 ],
 "package":"cgatcore",
@@ -391,6 +395,15 @@
 {
 "basename":"cgatcore-0.5.12-py36_1.tar.bz2",
 "total":205
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"cgatcore-0.5.12-py37_1.tar.bz2",
+"total":120
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-splitfilebycolumn-357-0.tar.bz2",
-"total":443
+"total":444
 },
 {
 "basename":"ucsc-splitfilebycolumn-357-1.tar.bz2",
@@ -210,6 +210,10 @@
 {
 "date":"2021-11-01",
 "total":888
+},
+{
+"date":"2021-11-02",
+"total":889
 }
 ],
 "package":"ucsc-splitfilebycolumn",
@@ -352,6 +356,15 @@
 {
 "basename":"ucsc-splitfilebycolumn-357-1.tar.bz2",
 "total":445
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-splitfilebycolumn-357-0.tar.bz2",
+"total":444
 }
 ]
 }

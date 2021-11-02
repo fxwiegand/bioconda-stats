@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-regioner-1.12.0-r341_0.tar.bz2",
-"total":391
+"total":393
 },
 {
 "basename":"bioconductor-regioner-1.12.0-r351_0.tar.bz2",
@@ -170,6 +170,10 @@
 {
 "date":"2021-11-01",
 "total":1033
+},
+{
+"date":"2021-11-02",
+"total":1035
 }
 ],
 "package":"bioconductor-regioner",
@@ -271,6 +275,15 @@
 {
 "basename":"bioconductor-regioner-1.12.0-r351_0.tar.bz2",
 "total":642
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-regioner-1.12.0-r341_0.tar.bz2",
+"total":393
 }
 ]
 }

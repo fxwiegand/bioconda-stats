@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"minvar-2.2-py35_0.tar.bz2",
-"total":153
+"total":154
 },
 {
 "basename":"minvar-2.2-py36_0.tar.bz2",
@@ -126,6 +126,10 @@
 {
 "date":"2021-11-01",
 "total":498
+},
+{
+"date":"2021-11-02",
+"total":499
 }
 ],
 "package":"minvar",
@@ -205,6 +209,15 @@
 {
 "basename":"minvar-2.2-py36_0.tar.bz2",
 "total":345
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"minvar-2.2-py35_0.tar.bz2",
+"total":154
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-bhc-1.32.0-r341hfc679d8_0.tar.bz2",
-"total":199
+"total":200
 },
 {
 "basename":"bioconductor-bhc-1.32.0-r351hfc679d8_0.tar.bz2",
@@ -154,6 +154,10 @@
 {
 "date":"2021-11-01",
 "total":521
+},
+{
+"date":"2021-11-02",
+"total":522
 }
 ],
 "package":"bioconductor-bhc",
@@ -233,6 +237,15 @@
 {
 "basename":"bioconductor-bhc-1.32.0-r351hfc679d8_0.tar.bz2",
 "total":322
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bhc-1.32.0-r341hfc679d8_0.tar.bz2",
+"total":200
 }
 ]
 }

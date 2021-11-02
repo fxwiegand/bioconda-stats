@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-mrnatogene-357-1.tar.bz2",
-"total":329
+"total":330
 },
 {
 "basename":"ucsc-mrnatogene-357-0.tar.bz2",
@@ -122,6 +122,10 @@
 {
 "date":"2021-11-01",
 "total":788
+},
+{
+"date":"2021-11-02",
+"total":789
 }
 ],
 "package":"ucsc-mrnatogene",
@@ -201,6 +205,15 @@
 {
 "basename":"ucsc-mrnatogene-357-0.tar.bz2",
 "total":459
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-mrnatogene-357-1.tar.bz2",
+"total":330
 }
 ]
 }

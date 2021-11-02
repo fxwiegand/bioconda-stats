@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-survey-3.31_5-r3.3.1_0.tar.bz2",
-"total":578
+"total":579
 },
 {
 "basename":"r-survey-3.31_5-r3.3.2_0.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2021-11-01",
 "total":1654
+},
+{
+"date":"2021-11-02",
+"total":1655
 }
 ],
 "package":"r-survey",
@@ -404,6 +408,15 @@
 {
 "basename":"r-survey-3.31_5-r3.3.2_0.tar.bz2",
 "total":1076
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"r-survey-3.31_5-r3.3.1_0.tar.bz2",
+"total":579
 }
 ]
 }

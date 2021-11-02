@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-io-socket-inet6-2.72-0.tar.bz2",
-"total":688
+"total":689
 }
 ],
 "downloads_per_date":[
@@ -166,6 +166,10 @@
 {
 "date":"2021-11-01",
 "total":994
+},
+{
+"date":"2021-11-02",
+"total":995
 }
 ],
 "package":"perl-io-socket-inet6",
@@ -286,6 +290,15 @@
 {
 "basename":"perl-io-socket-inet6-2.72-pl526_2.tar.bz2",
 "total":306
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"perl-io-socket-inet6-2.72-0.tar.bz2",
+"total":689
 }
 ]
 }

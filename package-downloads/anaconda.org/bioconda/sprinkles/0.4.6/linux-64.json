@@ -11,7 +11,7 @@
 },
 {
 "basename":"sprinkles-0.4.6-py27_0.tar.bz2",
-"total":400
+"total":401
 },
 {
 "basename":"sprinkles-0.4.6-py36_1.tar.bz2",
@@ -222,6 +222,10 @@
 {
 "date":"2021-11-01",
 "total":3414
+},
+{
+"date":"2021-11-02",
+"total":3415
 }
 ],
 "package":"sprinkles",
@@ -481,6 +485,15 @@
 {
 "basename":"sprinkles-0.4.6-py27_1.tar.bz2",
 "total":633
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"sprinkles-0.4.6-py27_0.tar.bz2",
+"total":401
 }
 ]
 }

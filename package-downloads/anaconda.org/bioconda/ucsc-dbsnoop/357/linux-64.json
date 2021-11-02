@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-dbsnoop-357-1.tar.bz2",
-"total":294
+"total":295
 },
 {
 "basename":"ucsc-dbsnoop-357-0.tar.bz2",
@@ -218,6 +218,10 @@
 {
 "date":"2021-11-01",
 "total":875
+},
+{
+"date":"2021-11-02",
+"total":876
 }
 ],
 "package":"ucsc-dbsnoop",
@@ -369,6 +373,15 @@
 {
 "basename":"ucsc-dbsnoop-357-1.tar.bz2",
 "total":294
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-dbsnoop-357-1.tar.bz2",
+"total":295
 }
 ]
 }

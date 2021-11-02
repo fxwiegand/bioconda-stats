@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-types-standard-1.002001-pl5.22.0_0.tar.bz2",
-"total":631
+"total":632
 },
 {
 "basename":"perl-types-standard-1.002001-pl526_1.tar.bz2",
@@ -182,6 +182,10 @@
 {
 "date":"2021-11-01",
 "total":1496
+},
+{
+"date":"2021-11-02",
+"total":1497
 }
 ],
 "package":"perl-types-standard",
@@ -306,6 +310,15 @@
 {
 "basename":"perl-types-standard-1.002001-pl526_1.tar.bz2",
 "total":865
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"perl-types-standard-1.002001-pl5.22.0_0.tar.bz2",
+"total":632
 }
 ]
 }

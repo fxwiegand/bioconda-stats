@@ -11,7 +11,7 @@
 },
 {
 "basename":"lofreq-2.1.4-py37h3a01142_3.tar.bz2",
-"total":74
+"total":75
 },
 {
 "basename":"lofreq-2.1.4-py37ha77fa96_2.tar.bz2",
@@ -182,6 +182,10 @@
 {
 "date":"2021-11-01",
 "total":252
+},
+{
+"date":"2021-11-02",
+"total":253
 }
 ],
 "package":"lofreq",
@@ -349,6 +353,15 @@
 {
 "basename":"lofreq-2.1.4-py36ha518a1e_3.tar.bz2",
 "total":51
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"lofreq-2.1.4-py37h3a01142_3.tar.bz2",
+"total":75
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"schema-salad-2.6.20171201034858-py35_0.tar.bz2",
-"total":150
+"total":151
 },
 {
 "basename":"schema-salad-2.6.20171201034858-py36_0.tar.bz2",
@@ -130,6 +130,10 @@
 {
 "date":"2021-11-01",
 "total":1043
+},
+{
+"date":"2021-11-02",
+"total":1044
 }
 ],
 "package":"schema-salad",
@@ -255,6 +259,15 @@
 {
 "basename":"schema-salad-2.6.20171201034858-py27_0.tar.bz2",
 "total":673
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"schema-salad-2.6.20171201034858-py35_0.tar.bz2",
+"total":151
 }
 ]
 }

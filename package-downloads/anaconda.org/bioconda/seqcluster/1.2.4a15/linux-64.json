@@ -7,7 +7,7 @@
 },
 {
 "basename":"seqcluster-1.2.4a15-py27_0.tar.bz2",
-"total":125
+"total":126
 },
 {
 "basename":"seqcluster-1.2.4a15-py36_0.tar.bz2",
@@ -162,6 +162,10 @@
 {
 "date":"2021-11-01",
 "total":1789
+},
+{
+"date":"2021-11-02",
+"total":1790
 }
 ],
 "package":"seqcluster",
@@ -346,6 +350,15 @@
 {
 "basename":"seqcluster-1.2.4a15-py27_1.tar.bz2",
 "total":548
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"seqcluster-1.2.4a15-py27_0.tar.bz2",
+"total":126
 }
 ]
 }

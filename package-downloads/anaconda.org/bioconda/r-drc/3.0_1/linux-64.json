@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-drc-3.0_1-r3.3.2_0.tar.bz2",
-"total":620
+"total":621
 },
 {
 "basename":"r-drc-3.0_1-r3.4.1_0.tar.bz2",
@@ -138,6 +138,10 @@
 {
 "date":"2021-11-01",
 "total":1817
+},
+{
+"date":"2021-11-02",
+"total":1818
 }
 ],
 "package":"r-drc",
@@ -254,6 +258,15 @@
 {
 "basename":"r-drc-3.0_1-r3.4.1_0.tar.bz2",
 "total":780
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"r-drc-3.0_1-r3.3.2_0.tar.bz2",
+"total":621
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"graphicsmagick-1.3.26-0.tar.bz2",
-"total":870
+"total":872
 },
 {
 "basename":"graphicsmagick-1.3.26-hf0fcf2e_2.tar.bz2",
@@ -270,6 +270,10 @@
 {
 "date":"2021-11-01",
 "total":2192
+},
+{
+"date":"2021-11-02",
+"total":2194
 }
 ],
 "package":"graphicsmagick",
@@ -440,6 +444,15 @@
 {
 "basename":"graphicsmagick-1.3.26-hf0fcf2e_2.tar.bz2",
 "total":1123
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"graphicsmagick-1.3.26-0.tar.bz2",
+"total":872
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-positionaltblcheck-357-0.tar.bz2",
-"total":422
+"total":423
 },
 {
 "basename":"ucsc-positionaltblcheck-357-1.tar.bz2",
@@ -234,6 +234,10 @@
 {
 "date":"2021-11-01",
 "total":894
+},
+{
+"date":"2021-11-02",
+"total":895
 }
 ],
 "package":"ucsc-positionaltblcheck",
@@ -385,6 +389,15 @@
 {
 "basename":"ucsc-positionaltblcheck-357-1.tar.bz2",
 "total":472
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-positionaltblcheck-357-0.tar.bz2",
+"total":423
 }
 ]
 }

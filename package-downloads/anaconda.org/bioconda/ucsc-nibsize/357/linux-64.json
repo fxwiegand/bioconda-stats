@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-nibsize-357-1.tar.bz2",
-"total":285
+"total":286
 },
 {
 "basename":"ucsc-nibsize-357-0.tar.bz2",
@@ -190,6 +190,10 @@
 {
 "date":"2021-11-01",
 "total":856
+},
+{
+"date":"2021-11-02",
+"total":857
 }
 ],
 "package":"ucsc-nibsize",
@@ -332,6 +336,15 @@
 {
 "basename":"ucsc-nibsize-357-1.tar.bz2",
 "total":285
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-nibsize-357-1.tar.bz2",
+"total":286
 }
 ]
 }

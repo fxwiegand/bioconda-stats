@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rmir-1.36.0-r341_0.tar.bz2",
-"total":188
+"total":189
 },
 {
 "basename":"bioconductor-rmir-1.36.0-r351_0.tar.bz2",
@@ -182,6 +182,10 @@
 {
 "date":"2021-11-01",
 "total":489
+},
+{
+"date":"2021-11-02",
+"total":490
 }
 ],
 "package":"bioconductor-rmir",
@@ -288,6 +292,15 @@
 {
 "basename":"bioconductor-rmir-1.36.0-r351_0.tar.bz2",
 "total":301
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rmir-1.36.0-r341_0.tar.bz2",
+"total":189
 }
 ]
 }

@@ -15,7 +15,7 @@
 },
 {
 "basename":"biscuit-0.3.16.20200420-hc60af38_0.tar.bz2",
-"total":117
+"total":118
 },
 {
 "basename":"biscuit-0.3.16.20200420-h81a5ba2_4.tar.bz2",
@@ -270,6 +270,10 @@
 {
 "date":"2021-11-01",
 "total":500
+},
+{
+"date":"2021-11-02",
+"total":501
 }
 ],
 "package":"biscuit",
@@ -514,6 +518,15 @@
 {
 "basename":"biscuit-0.3.16.20200420-h81a5ba2_4.tar.bz2",
 "total":171
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"biscuit-0.3.16.20200420-hc60af38_0.tar.bz2",
+"total":118
 }
 ]
 }

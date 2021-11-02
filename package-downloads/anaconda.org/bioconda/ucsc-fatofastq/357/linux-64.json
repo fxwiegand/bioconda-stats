@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-fatofastq-357-0.tar.bz2",
-"total":576
+"total":577
 }
 ],
 "downloads_per_date":[
@@ -190,6 +190,10 @@
 {
 "date":"2021-11-01",
 "total":890
+},
+{
+"date":"2021-11-02",
+"total":891
 }
 ],
 "package":"ucsc-fatofastq",
@@ -332,6 +336,15 @@
 {
 "basename":"ucsc-fatofastq-357-1.tar.bz2",
 "total":314
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-fatofastq-357-0.tar.bz2",
+"total":577
 }
 ]
 }

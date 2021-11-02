@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"cmip-2.6.8-h8c3ec31_0.tar.bz2",
-"total":31
+"total":32
 }
 ],
 "downloads_per_date":[
@@ -126,6 +126,10 @@
 {
 "date":"2021-11-01",
 "total":31
+},
+{
+"date":"2021-11-02",
+"total":32
 }
 ],
 "package":"cmip",
@@ -190,6 +194,15 @@
 {
 "basename":"cmip-2.6.8-h8c3ec31_0.tar.bz2",
 "total":31
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"cmip-2.6.8-h8c3ec31_0.tar.bz2",
+"total":32
 }
 ]
 }

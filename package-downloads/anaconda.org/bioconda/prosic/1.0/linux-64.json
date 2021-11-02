@@ -11,7 +11,7 @@
 },
 {
 "basename":"prosic-1.0-gsl1.16_gmp5.1_0.tar.bz2",
-"total":649
+"total":650
 }
 ],
 "downloads_per_date":[
@@ -154,6 +154,10 @@
 {
 "date":"2021-11-01",
 "total":1645
+},
+{
+"date":"2021-11-02",
+"total":1646
 }
 ],
 "package":"prosic",
@@ -288,6 +292,15 @@
 {
 "basename":"prosic-1.0-py35_gsl1.16_gmp5.1_1.tar.bz2",
 "total":480
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"prosic-1.0-gsl1.16_gmp5.1_0.tar.bz2",
+"total":650
 }
 ]
 }

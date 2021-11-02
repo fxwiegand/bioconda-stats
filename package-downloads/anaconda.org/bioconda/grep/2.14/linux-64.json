@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"grep-2.14-0.tar.bz2",
-"total":514
+"total":515
 },
 {
 "basename":"grep-2.14-h470a237_2.tar.bz2",
@@ -530,6 +530,10 @@
 {
 "date":"2021-11-01",
 "total":17511
+},
+{
+"date":"2021-11-02",
+"total":17512
 }
 ],
 "package":"grep",
@@ -943,6 +947,15 @@
 {
 "basename":"grep-2.14-h14c3975_3.tar.bz2",
 "total":7838
+}
+]
+},
+{
+"date":"2021-11-02",
+"downloads_per_basename":[
+{
+"basename":"grep-2.14-0.tar.bz2",
+"total":515
 }
 ]
 }
