@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-multtest-2.36.0-r341h470a237_0.tar.bz2",
-"total":1242
+"total":1243
 },
 {
 "basename":"bioconductor-multtest-2.36.0-r351h470a237_0.tar.bz2",
@@ -326,6 +326,10 @@
 {
 "date":"2021-11-02",
 "total":2554
+},
+{
+"date":"2021-11-03",
+"total":2555
 }
 ],
 "package":"bioconductor-multtest",
@@ -616,6 +620,15 @@
 {
 "basename":"bioconductor-multtest-2.36.0-r351h470a237_0.tar.bz2",
 "total":1312
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-multtest-2.36.0-r341h470a237_0.tar.bz2",
+"total":1243
 }
 ]
 }

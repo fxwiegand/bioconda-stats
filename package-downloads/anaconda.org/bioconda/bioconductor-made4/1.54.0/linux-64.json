@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-made4-1.54.0-r341_0.tar.bz2",
-"total":178
+"total":179
 },
 {
 "basename":"bioconductor-made4-1.54.0-r351_0.tar.bz2",
@@ -122,6 +122,10 @@
 {
 "date":"2021-11-02",
 "total":483
+},
+{
+"date":"2021-11-03",
+"total":484
 }
 ],
 "package":"bioconductor-made4",
@@ -214,6 +218,15 @@
 {
 "basename":"bioconductor-made4-1.54.0-r351_0.tar.bz2",
 "total":305
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-made4-1.54.0-r341_0.tar.bz2",
+"total":179
 }
 ]
 }

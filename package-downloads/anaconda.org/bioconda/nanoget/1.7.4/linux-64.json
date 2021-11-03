@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"nanoget-1.7.4-py35_0.tar.bz2",
-"total":224
+"total":225
 },
 {
 "basename":"nanoget-1.7.4-py36_0.tar.bz2",
@@ -130,6 +130,10 @@
 {
 "date":"2021-11-02",
 "total":738
+},
+{
+"date":"2021-11-03",
+"total":739
 }
 ],
 "package":"nanoget",
@@ -219,6 +223,15 @@
 {
 "basename":"nanoget-1.7.4-py36_0.tar.bz2",
 "total":514
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"nanoget-1.7.4-py35_0.tar.bz2",
+"total":225
 }
 ]
 }

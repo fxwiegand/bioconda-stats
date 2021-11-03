@@ -11,7 +11,7 @@
 },
 {
 "basename":"pvacseq-4.0.10-py36_2.tar.bz2",
-"total":238
+"total":239
 },
 {
 "basename":"pvacseq-4.0.10-py36_0.tar.bz2",
@@ -202,6 +202,10 @@
 {
 "date":"2021-11-02",
 "total":946
+},
+{
+"date":"2021-11-03",
+"total":947
 }
 ],
 "package":"pvacseq",
@@ -409,6 +413,15 @@
 {
 "basename":"pvacseq-4.0.10-py36_0.tar.bz2",
 "total":303
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"pvacseq-4.0.10-py36_2.tar.bz2",
+"total":239
 }
 ]
 }

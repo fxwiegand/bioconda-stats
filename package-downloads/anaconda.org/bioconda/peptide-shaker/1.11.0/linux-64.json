@@ -27,7 +27,7 @@
 },
 {
 "basename":"peptide-shaker-1.11.0-py36_1.tar.bz2",
-"total":578
+"total":579
 }
 ],
 "downloads_per_date":[
@@ -210,6 +210,10 @@
 {
 "date":"2021-11-02",
 "total":3512
+},
+{
+"date":"2021-11-03",
+"total":3513
 }
 ],
 "package":"peptide-shaker",
@@ -483,6 +487,15 @@
 {
 "basename":"peptide-shaker-1.11.0-py36_1.tar.bz2",
 "total":578
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"peptide-shaker-1.11.0-py36_1.tar.bz2",
+"total":579
 }
 ]
 }

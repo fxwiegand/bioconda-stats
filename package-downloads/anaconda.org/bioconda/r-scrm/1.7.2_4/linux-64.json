@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-scrm-1.7.2_4-r351h29659fb_1.tar.bz2",
-"total":128
+"total":129
 },
 {
 "basename":"r-scrm-1.7.2_4-r341h9d2a408_0.tar.bz2",
@@ -146,6 +146,10 @@
 {
 "date":"2021-11-02",
 "total":525
+},
+{
+"date":"2021-11-03",
+"total":526
 }
 ],
 "package":"r-scrm",
@@ -263,6 +267,15 @@
 {
 "basename":"r-scrm-1.7.2_4-r351h9d2a408_0.tar.bz2",
 "total":258
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"r-scrm-1.7.2_4-r351h29659fb_1.tar.bz2",
+"total":129
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"ucsc-localtime-377-h199ee4e_0.tar.bz2",
-"total":121
+"total":122
 }
 ],
 "downloads_per_date":[
@@ -106,6 +106,10 @@
 {
 "date":"2021-11-02",
 "total":187
+},
+{
+"date":"2021-11-03",
+"total":188
 }
 ],
 "package":"ucsc-localtime",
@@ -203,6 +207,15 @@
 {
 "basename":"ucsc-localtime-377-h0b8a92a_2.tar.bz2",
 "total":30
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"ucsc-localtime-377-h199ee4e_0.tar.bz2",
+"total":122
 }
 ]
 }

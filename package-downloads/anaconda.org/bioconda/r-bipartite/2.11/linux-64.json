@@ -15,7 +15,7 @@
 },
 {
 "basename":"r-bipartite-2.11-r351h9d2a408_0.tar.bz2",
-"total":179
+"total":180
 },
 {
 "basename":"r-bipartite-2.11-r341h9d2a408_1.tar.bz2",
@@ -154,6 +154,10 @@
 {
 "date":"2021-11-02",
 "total":958
+},
+{
+"date":"2021-11-03",
+"total":959
 }
 ],
 "package":"r-bipartite",
@@ -322,6 +326,15 @@
 {
 "basename":"r-bipartite-2.11-r341h9d2a408_1.tar.bz2",
 "total":281
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"r-bipartite-2.11-r351h9d2a408_0.tar.bz2",
+"total":180
 }
 ]
 }

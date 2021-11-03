@@ -35,7 +35,7 @@
 },
 {
 "basename":"nmrglue-0.8-py37hf01694f_0.tar.bz2",
-"total":55
+"total":56
 }
 ],
 "downloads_per_date":[
@@ -298,6 +298,10 @@
 {
 "date":"2021-11-02",
 "total":365
+},
+{
+"date":"2021-11-03",
+"total":366
 }
 ],
 "package":"nmrglue",
@@ -683,6 +687,15 @@
 {
 "basename":"nmrglue-0.8-py27h3dcb392_0.tar.bz2",
 "total":43
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"nmrglue-0.8-py37hf01694f_0.tar.bz2",
+"total":56
 }
 ]
 }

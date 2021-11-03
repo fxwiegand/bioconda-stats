@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-reder-1.28.0-r341_0.tar.bz2",
-"total":272
+"total":273
 },
 {
 "basename":"bioconductor-reder-1.28.0-r351_0.tar.bz2",
@@ -198,6 +198,10 @@
 {
 "date":"2021-11-02",
 "total":567
+},
+{
+"date":"2021-11-03",
+"total":568
 }
 ],
 "package":"bioconductor-reder",
@@ -326,6 +330,15 @@
 {
 "basename":"bioconductor-reder-1.28.0-r351_0.tar.bz2",
 "total":295
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-reder-1.28.0-r341_0.tar.bz2",
+"total":273
 }
 ]
 }

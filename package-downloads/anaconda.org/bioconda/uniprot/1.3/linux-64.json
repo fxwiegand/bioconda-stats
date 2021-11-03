@@ -15,7 +15,7 @@
 },
 {
 "basename":"uniprot-1.3-py35_0.tar.bz2",
-"total":509
+"total":510
 }
 ],
 "downloads_per_date":[
@@ -154,6 +154,10 @@
 {
 "date":"2021-11-02",
 "total":1718
+},
+{
+"date":"2021-11-03",
+"total":1719
 }
 ],
 "package":"uniprot",
@@ -305,6 +309,15 @@
 {
 "basename":"uniprot-1.3-py36_0.tar.bz2",
 "total":431
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"uniprot-1.3-py35_0.tar.bz2",
+"total":510
 }
 ]
 }

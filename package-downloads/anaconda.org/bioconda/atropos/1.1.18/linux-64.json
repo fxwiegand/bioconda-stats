@@ -11,7 +11,7 @@
 },
 {
 "basename":"atropos-1.1.18-py36_0.tar.bz2",
-"total":1472
+"total":1473
 },
 {
 "basename":"atropos-1.1.18-py36_1.tar.bz2",
@@ -278,6 +278,10 @@
 {
 "date":"2021-11-02",
 "total":5001
+},
+{
+"date":"2021-11-03",
+"total":5002
 }
 ],
 "package":"atropos",
@@ -468,6 +472,15 @@
 {
 "basename":"atropos-1.1.18-py35_1.tar.bz2",
 "total":374
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"atropos-1.1.18-py36_0.tar.bz2",
+"total":1473
 }
 ]
 }

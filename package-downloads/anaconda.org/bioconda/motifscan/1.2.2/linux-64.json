@@ -15,7 +15,7 @@
 },
 {
 "basename":"motifscan-1.2.2-py37hf01694f_1.tar.bz2",
-"total":48
+"total":49
 },
 {
 "basename":"motifscan-1.2.2-py36h4c5857e_1.tar.bz2",
@@ -162,6 +162,10 @@
 {
 "date":"2021-11-02",
 "total":251
+},
+{
+"date":"2021-11-03",
+"total":252
 }
 ],
 "package":"motifscan",
@@ -362,6 +366,15 @@
 {
 "basename":"motifscan-1.2.2-py38h0213d0e_1.tar.bz2",
 "total":44
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"motifscan-1.2.2-py37hf01694f_1.tar.bz2",
+"total":49
 }
 ]
 }

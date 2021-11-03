@@ -11,7 +11,7 @@
 },
 {
 "basename":"python-cluster-1.4.1-py35_0.tar.bz2",
-"total":254
+"total":255
 }
 ],
 "downloads_per_date":[
@@ -138,6 +138,10 @@
 {
 "date":"2021-11-02",
 "total":522
+},
+{
+"date":"2021-11-03",
+"total":523
 }
 ],
 "package":"python-cluster",
@@ -246,6 +250,15 @@
 {
 "basename":"python-cluster-1.4.1-py27_0.tar.bz2",
 "total":132
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"python-cluster-1.4.1-py35_0.tar.bz2",
+"total":255
 }
 ]
 }

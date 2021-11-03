@@ -11,7 +11,7 @@
 },
 {
 "basename":"maxbin2-2.2.1-r3.3.1_1.tar.bz2",
-"total":650
+"total":651
 },
 {
 "basename":"maxbin2-2.2.1-r3.3.2_1.tar.bz2",
@@ -282,6 +282,10 @@
 {
 "date":"2021-11-02",
 "total":2368
+},
+{
+"date":"2021-11-03",
+"total":2369
 }
 ],
 "package":"maxbin2",
@@ -514,6 +518,15 @@
 {
 "basename":"maxbin2-2.2.1-r3.3.2_1.tar.bz2",
 "total":653
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"maxbin2-2.2.1-r3.3.1_1.tar.bz2",
+"total":651
 }
 ]
 }

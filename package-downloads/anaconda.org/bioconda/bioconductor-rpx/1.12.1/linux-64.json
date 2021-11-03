@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-rpx-1.12.1-r3.3.2_0.tar.bz2",
-"total":563
+"total":564
 }
 ],
 "downloads_per_date":[
@@ -142,6 +142,10 @@
 {
 "date":"2021-11-02",
 "total":1013
+},
+{
+"date":"2021-11-03",
+"total":1014
 }
 ],
 "package":"bioconductor-rpx",
@@ -239,6 +243,15 @@
 {
 "basename":"bioconductor-rpx-1.12.1-r3.4.1_0.tar.bz2",
 "total":450
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rpx-1.12.1-r3.3.2_0.tar.bz2",
+"total":564
 }
 ]
 }

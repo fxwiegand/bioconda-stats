@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-snphood-1.10.0-r341_0.tar.bz2",
-"total":201
+"total":202
 },
 {
 "basename":"bioconductor-snphood-1.10.0-r351_0.tar.bz2",
@@ -170,6 +170,10 @@
 {
 "date":"2021-11-02",
 "total":540
+},
+{
+"date":"2021-11-03",
+"total":541
 }
 ],
 "package":"bioconductor-snphood",
@@ -276,6 +280,15 @@
 {
 "basename":"bioconductor-snphood-1.10.0-r351_0.tar.bz2",
 "total":339
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-snphood-1.10.0-r341_0.tar.bz2",
+"total":202
 }
 ]
 }

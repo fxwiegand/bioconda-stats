@@ -15,7 +15,7 @@
 },
 {
 "basename":"r-tcga2stat-1.2-r3.4.1_0.tar.bz2",
-"total":229
+"total":230
 },
 {
 "basename":"r-tcga2stat-1.2-r351h6115d3f_2.tar.bz2",
@@ -190,6 +190,10 @@
 {
 "date":"2021-11-02",
 "total":1016
+},
+{
+"date":"2021-11-03",
+"total":1017
 }
 ],
 "package":"r-tcga2stat",
@@ -423,6 +427,15 @@
 {
 "basename":"r-tcga2stat-1.2-r341h6115d3f_2.tar.bz2",
 "total":161
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"r-tcga2stat-1.2-r3.4.1_0.tar.bz2",
+"total":230
 }
 ]
 }

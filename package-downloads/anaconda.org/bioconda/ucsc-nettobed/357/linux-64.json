@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-nettobed-357-0.tar.bz2",
-"total":560
+"total":561
 }
 ],
 "downloads_per_date":[
@@ -198,6 +198,10 @@
 {
 "date":"2021-11-02",
 "total":889
+},
+{
+"date":"2021-11-03",
+"total":890
 }
 ],
 "package":"ucsc-nettobed",
@@ -340,6 +344,15 @@
 {
 "basename":"ucsc-nettobed-357-1.tar.bz2",
 "total":329
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"ucsc-nettobed-357-0.tar.bz2",
+"total":561
 }
 ]
 }

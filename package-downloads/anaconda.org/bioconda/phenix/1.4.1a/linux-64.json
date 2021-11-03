@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"phenix-1.4.1a-py27h3dcb392_1.tar.bz2",
-"total":55
+"total":56
 },
 {
 "basename":"phenix-1.4.1a-py27h24bf2e0_0.tar.bz2",
@@ -158,6 +158,10 @@
 {
 "date":"2021-11-02",
 "total":377
+},
+{
+"date":"2021-11-03",
+"total":378
 }
 ],
 "package":"phenix",
@@ -277,6 +281,15 @@
 {
 "basename":"phenix-1.4.1a-py27h24bf2e0_0.tar.bz2",
 "total":322
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"phenix-1.4.1a-py27h3dcb392_1.tar.bz2",
+"total":56
 }
 ]
 }

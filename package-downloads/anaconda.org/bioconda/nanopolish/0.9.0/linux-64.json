@@ -15,7 +15,7 @@
 },
 {
 "basename":"nanopolish-0.9.0-py27_ncurses5.9_2.tar.bz2",
-"total":256
+"total":257
 },
 {
 "basename":"nanopolish-0.9.0-py35_ncurses5.9_2.tar.bz2",
@@ -238,6 +238,10 @@
 {
 "date":"2021-11-02",
 "total":1856
+},
+{
+"date":"2021-11-03",
+"total":1857
 }
 ],
 "package":"nanopolish",
@@ -540,6 +544,15 @@
 {
 "basename":"nanopolish-0.9.0-py36_ncurses5.9_2.tar.bz2",
 "total":418
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"nanopolish-0.9.0-py27_ncurses5.9_2.tar.bz2",
+"total":257
 }
 ]
 }

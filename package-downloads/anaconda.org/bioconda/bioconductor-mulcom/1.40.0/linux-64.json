@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-mulcom-1.40.0-r40h399db7b_1.tar.bz2",
-"total":38
+"total":39
 },
 {
 "basename":"bioconductor-mulcom-1.40.0-r40h5f743cb_0.tar.bz2",
@@ -146,6 +146,10 @@
 {
 "date":"2021-11-02",
 "total":96
+},
+{
+"date":"2021-11-03",
+"total":97
 }
 ],
 "package":"bioconductor-mulcom",
@@ -234,6 +238,15 @@
 {
 "basename":"bioconductor-mulcom-1.40.0-r40h5f743cb_0.tar.bz2",
 "total":58
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mulcom-1.40.0-r40h399db7b_1.tar.bz2",
+"total":39
 }
 ]
 }

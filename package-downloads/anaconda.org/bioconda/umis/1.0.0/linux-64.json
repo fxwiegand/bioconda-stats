@@ -7,7 +7,7 @@
 },
 {
 "basename":"umis-1.0.0-py35h470a237_1.tar.bz2",
-"total":119
+"total":120
 },
 {
 "basename":"umis-1.0.0-py35h470a237_2.tar.bz2",
@@ -210,6 +210,10 @@
 {
 "date":"2021-11-02",
 "total":1844
+},
+{
+"date":"2021-11-03",
+"total":1845
 }
 ],
 "package":"umis",
@@ -492,6 +496,15 @@
 {
 "basename":"umis-1.0.0-py36h470a237_2.tar.bz2",
 "total":142
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"umis-1.0.0-py35h470a237_1.tar.bz2",
+"total":120
 }
 ]
 }

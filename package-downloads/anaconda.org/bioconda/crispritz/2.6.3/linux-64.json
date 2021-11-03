@@ -11,7 +11,7 @@
 },
 {
 "basename":"crispritz-2.6.3-py38h6148b52_0.tar.bz2",
-"total":38
+"total":39
 },
 {
 "basename":"crispritz-2.6.3-py39hbb42402_0.tar.bz2",
@@ -230,6 +230,10 @@
 {
 "date":"2021-11-02",
 "total":248
+},
+{
+"date":"2021-11-03",
+"total":249
 }
 ],
 "package":"crispritz",
@@ -867,6 +871,15 @@
 {
 "basename":"crispritz-2.6.3-py39hbb42402_0.tar.bz2",
 "total":150
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"crispritz-2.6.3-py38h6148b52_0.tar.bz2",
+"total":39
 }
 ]
 }

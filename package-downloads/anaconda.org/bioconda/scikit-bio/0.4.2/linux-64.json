@@ -11,7 +11,7 @@
 },
 {
 "basename":"scikit-bio-0.4.2-np110py27_0.tar.bz2",
-"total":575
+"total":576
 },
 {
 "basename":"scikit-bio-0.4.2-np110py35_0.tar.bz2",
@@ -294,6 +294,10 @@
 {
 "date":"2021-11-02",
 "total":3892
+},
+{
+"date":"2021-11-03",
+"total":3893
 }
 ],
 "package":"scikit-bio",
@@ -541,6 +545,15 @@
 {
 "basename":"scikit-bio-0.4.2-np112py36_0.tar.bz2",
 "total":999
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"scikit-bio-0.4.2-np110py27_0.tar.bz2",
+"total":576
 }
 ]
 }

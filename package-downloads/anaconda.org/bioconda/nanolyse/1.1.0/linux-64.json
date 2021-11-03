@@ -7,7 +7,7 @@
 },
 {
 "basename":"nanolyse-1.1.0-py35_1.tar.bz2",
-"total":144
+"total":145
 },
 {
 "basename":"nanolyse-1.1.0-py36_0.tar.bz2",
@@ -130,6 +130,10 @@
 {
 "date":"2021-11-02",
 "total":767
+},
+{
+"date":"2021-11-03",
+"total":768
 }
 ],
 "package":"nanolyse",
@@ -266,6 +270,15 @@
 {
 "basename":"nanolyse-1.1.0-py36_1.tar.bz2",
 "total":335
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"nanolyse-1.1.0-py35_1.tar.bz2",
+"total":145
 }
 ]
 }

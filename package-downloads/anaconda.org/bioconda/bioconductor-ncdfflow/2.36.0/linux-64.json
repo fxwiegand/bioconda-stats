@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-ncdfflow-2.36.0-r40h399db7b_2.tar.bz2",
-"total":128
+"total":129
 },
 {
 "basename":"bioconductor-ncdfflow-2.36.0-r40h5f743cb_0.tar.bz2",
@@ -338,6 +338,10 @@
 {
 "date":"2021-11-02",
 "total":357
+},
+{
+"date":"2021-11-03",
+"total":358
 }
 ],
 "package":"bioconductor-ncdfflow",
@@ -611,6 +615,15 @@
 {
 "basename":"bioconductor-ncdfflow-2.36.0-r40h5f743cb_0.tar.bz2",
 "total":131
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ncdfflow-2.36.0-r40h399db7b_2.tar.bz2",
+"total":129
 }
 ]
 }

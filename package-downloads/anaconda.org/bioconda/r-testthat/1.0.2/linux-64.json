@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-testthat-1.0.2-r3.2.2_0.tar.bz2",
-"total":1564
+"total":1566
 },
 {
 "basename":"r-testthat-1.0.2-r3.3.2_1.tar.bz2",
@@ -602,6 +602,10 @@
 {
 "date":"2021-11-02",
 "total":5135
+},
+{
+"date":"2021-11-03",
+"total":5137
 }
 ],
 "package":"r-testthat",
@@ -1125,6 +1129,15 @@
 {
 "basename":"r-testthat-1.0.2-r3.3.1_0.tar.bz2",
 "total":575
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"r-testthat-1.0.2-r3.2.2_0.tar.bz2",
+"total":1566
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-sgseq-1.14.0-r341_0.tar.bz2",
-"total":183
+"total":184
 },
 {
 "basename":"bioconductor-sgseq-1.14.0-r351_0.tar.bz2",
@@ -154,6 +154,10 @@
 {
 "date":"2021-11-02",
 "total":485
+},
+{
+"date":"2021-11-03",
+"total":486
 }
 ],
 "package":"bioconductor-sgseq",
@@ -246,6 +250,15 @@
 {
 "basename":"bioconductor-sgseq-1.14.0-r351_0.tar.bz2",
 "total":302
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-sgseq-1.14.0-r341_0.tar.bz2",
+"total":184
 }
 ]
 }

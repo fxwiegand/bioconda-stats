@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-memory-cycle-1.06-pl526_1.tar.bz2",
-"total":176
+"total":177
 },
 {
 "basename":"perl-test-memory-cycle-1.06-pl526_0.tar.bz2",
@@ -162,6 +162,10 @@
 {
 "date":"2021-11-02",
 "total":460
+},
+{
+"date":"2021-11-03",
+"total":461
 }
 ],
 "package":"perl-test-memory-cycle",
@@ -261,6 +265,15 @@
 {
 "basename":"perl-test-memory-cycle-1.06-pl526_0.tar.bz2",
 "total":284
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"perl-test-memory-cycle-1.06-pl526_1.tar.bz2",
+"total":177
 }
 ]
 }

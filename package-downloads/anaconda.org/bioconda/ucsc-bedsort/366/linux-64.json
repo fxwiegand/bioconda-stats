@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-bedsort-366-hdd26221_0.tar.bz2",
-"total":433
+"total":434
 },
 {
 "basename":"ucsc-bedsort-366-h5eb252a_0.tar.bz2",
@@ -186,6 +186,10 @@
 {
 "date":"2021-11-02",
 "total":1383
+},
+{
+"date":"2021-11-03",
+"total":1384
 }
 ],
 "package":"ucsc-bedsort",
@@ -292,6 +296,15 @@
 {
 "basename":"ucsc-bedsort-366-h5eb252a_0.tar.bz2",
 "total":950
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bedsort-366-hdd26221_0.tar.bz2",
+"total":434
 }
 ]
 }

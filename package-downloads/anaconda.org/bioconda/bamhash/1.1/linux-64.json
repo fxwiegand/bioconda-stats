@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bamhash-1.1-h85256d1_5.tar.bz2",
-"total":38
+"total":39
 },
 {
 "basename":"bamhash-1.1-h58f0bba_4.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2021-11-02",
 "total":2015
+},
+{
+"date":"2021-11-03",
+"total":2016
 }
 ],
 "package":"bamhash",
@@ -520,6 +524,15 @@
 {
 "basename":"bamhash-1.1-0.tar.bz2",
 "total":1024
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"bamhash-1.1-h85256d1_5.tar.bz2",
+"total":39
 }
 ]
 }

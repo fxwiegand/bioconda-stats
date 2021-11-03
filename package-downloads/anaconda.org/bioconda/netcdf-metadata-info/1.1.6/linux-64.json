@@ -11,7 +11,7 @@
 },
 {
 "basename":"netcdf-metadata-info-1.1.6-0.tar.bz2",
-"total":200
+"total":201
 },
 {
 "basename":"netcdf-metadata-info-1.1.6-1.tar.bz2",
@@ -150,6 +150,10 @@
 {
 "date":"2021-11-02",
 "total":563
+},
+{
+"date":"2021-11-03",
+"total":564
 }
 ],
 "package":"netcdf-metadata-info",
@@ -281,6 +285,15 @@
 {
 "basename":"netcdf-metadata-info-1.1.6-h779adbc_3.tar.bz2",
 "total":25
+}
+]
+},
+{
+"date":"2021-11-03",
+"downloads_per_basename":[
+{
+"basename":"netcdf-metadata-info-1.1.6-0.tar.bz2",
+"total":201
 }
 ]
 }
