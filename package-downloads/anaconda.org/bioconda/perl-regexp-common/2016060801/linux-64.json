@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-regexp-common-2016060801-0.tar.bz2",
-"total":3523
+"total":3524
 }
 ],
 "downloads_per_date":[
@@ -230,6 +230,10 @@
 {
 "date":"2021-11-03",
 "total":3907
+},
+{
+"date":"2021-11-04",
+"total":3908
 }
 ],
 "package":"perl-regexp-common",
@@ -412,6 +416,15 @@
 {
 "basename":"perl-regexp-common-2016060801-pl526_1.tar.bz2",
 "total":384
+}
+]
+},
+{
+"date":"2021-11-04",
+"downloads_per_basename":[
+{
+"basename":"perl-regexp-common-2016060801-0.tar.bz2",
+"total":3524
 }
 ]
 }

@@ -8,6 +8,10 @@
 {
 "date":"2021-11-03",
 "total":21
+},
+{
+"date":"2021-11-04",
+"total":25
 }
 ],
 "downloads_per_subdir":[
@@ -17,7 +21,7 @@
 },
 {
 "subdir":"osx-64",
-"total":12
+"total":16
 }
 ],
 "package":"bioconductor-metahdep",
@@ -45,6 +49,15 @@
 {
 "subdir":"osx-64",
 "total":12
+}
+]
+},
+{
+"date":"2021-11-04",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":16
 }
 ]
 }

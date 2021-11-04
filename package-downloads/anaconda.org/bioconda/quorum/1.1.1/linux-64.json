@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"quorum-1.1.1-h7d875b9_4.tar.bz2",
-"total":64
+"total":65
 },
 {
 "basename":"quorum-1.1.1-hc9558a2_3.tar.bz2",
@@ -334,6 +334,10 @@
 {
 "date":"2021-11-03",
 "total":1257
+},
+{
+"date":"2021-11-04",
+"total":1258
 }
 ],
 "package":"quorum",
@@ -654,6 +658,15 @@
 {
 "basename":"quorum-1.1.1-0.tar.bz2",
 "total":527
+}
+]
+},
+{
+"date":"2021-11-04",
+"downloads_per_basename":[
+{
+"basename":"quorum-1.1.1-h7d875b9_4.tar.bz2",
+"total":65
 }
 ]
 }
