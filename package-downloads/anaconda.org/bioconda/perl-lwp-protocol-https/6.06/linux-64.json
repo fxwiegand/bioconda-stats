@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-lwp-protocol-https-6.06-pl526_3.tar.bz2",
-"total":660
+"total":663
 },
 {
 "basename":"perl-lwp-protocol-https-6.06-pl5.22.0_0.tar.bz2",
@@ -642,6 +642,10 @@
 {
 "date":"2021-11-05",
 "total":21780
+},
+{
+"date":"2021-11-06",
+"total":21783
 }
 ],
 "package":"perl-lwp-protocol-https",
@@ -1144,6 +1148,15 @@
 {
 "basename":"perl-lwp-protocol-https-6.06-2.tar.bz2",
 "total":19842
+}
+]
+},
+{
+"date":"2021-11-06",
+"downloads_per_basename":[
+{
+"basename":"perl-lwp-protocol-https-6.06-pl526_3.tar.bz2",
+"total":663
 }
 ]
 }

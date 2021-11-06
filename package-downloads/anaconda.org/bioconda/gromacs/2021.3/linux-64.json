@@ -7,7 +7,7 @@
 },
 {
 "basename":"gromacs-2021.3-nompi_hcc3dda7_0.tar.bz2",
-"total":1587
+"total":1650
 }
 ],
 "downloads_per_date":[
@@ -194,6 +194,10 @@
 {
 "date":"2021-11-05",
 "total":1628
+},
+{
+"date":"2021-11-06",
+"total":1691
 }
 ],
 "package":"gromacs",
@@ -677,6 +681,15 @@
 {
 "basename":"gromacs-2021.3-nompi_hcc3dda7_0.tar.bz2",
 "total":1587
+}
+]
+},
+{
+"date":"2021-11-06",
+"downloads_per_basename":[
+{
+"basename":"gromacs-2021.3-nompi_hcc3dda7_0.tar.bz2",
+"total":1650
 }
 ]
 }

@@ -16,6 +16,10 @@
 {
 "date":"2021-11-05",
 "total":23
+},
+{
+"date":"2021-11-06",
+"total":25
 }
 ],
 "downloads_per_subdir":[
@@ -25,7 +29,7 @@
 },
 {
 "subdir":"osx-64",
-"total":12
+"total":14
 }
 ],
 "package":"bioconductor-gcsconnection",
@@ -71,6 +75,15 @@
 {
 "subdir":"osx-64",
 "total":12
+}
+]
+},
+{
+"date":"2021-11-06",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":14
 }
 ]
 }

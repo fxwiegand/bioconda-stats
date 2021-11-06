@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-blat-357-1.tar.bz2",
-"total":527
+"total":528
 }
 ],
 "downloads_per_date":[
@@ -226,6 +226,10 @@
 {
 "date":"2021-11-05",
 "total":958
+},
+{
+"date":"2021-11-06",
+"total":959
 }
 ],
 "package":"ucsc-blat",
@@ -359,6 +363,15 @@
 {
 "basename":"ucsc-blat-357-0.tar.bz2",
 "total":431
+}
+]
+},
+{
+"date":"2021-11-06",
+"downloads_per_basename":[
+{
+"basename":"ucsc-blat-357-1.tar.bz2",
+"total":528
 }
 ]
 }
