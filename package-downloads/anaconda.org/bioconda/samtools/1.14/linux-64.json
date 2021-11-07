@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"samtools-1.14-hb421002_0.tar.bz2",
-"total":5786
+"total":6123
 }
 ],
 "downloads_per_date":[
@@ -54,6 +54,10 @@
 {
 "date":"2021-11-06",
 "total":5786
+},
+{
+"date":"2021-11-07",
+"total":6123
 }
 ],
 "package":"samtools",
@@ -163,6 +167,15 @@
 {
 "basename":"samtools-1.14-hb421002_0.tar.bz2",
 "total":5786
+}
+]
+},
+{
+"date":"2021-11-07",
+"downloads_per_basename":[
+{
+"basename":"samtools-1.14-hb421002_0.tar.bz2",
+"total":6123
 }
 ]
 }

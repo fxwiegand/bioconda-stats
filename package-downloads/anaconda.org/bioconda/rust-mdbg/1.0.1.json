@@ -120,6 +120,10 @@
 {
 "date":"2021-11-06",
 "total":122
+},
+{
+"date":"2021-11-07",
+"total":124
 }
 ],
 "downloads_per_subdir":[
@@ -129,7 +133,7 @@
 },
 {
 "subdir":"osx-64",
-"total":79
+"total":81
 }
 ],
 "package":"rust-mdbg",
@@ -489,6 +493,15 @@
 {
 "subdir":"osx-64",
 "total":79
+}
+]
+},
+{
+"date":"2021-11-07",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":81
 }
 ]
 }
