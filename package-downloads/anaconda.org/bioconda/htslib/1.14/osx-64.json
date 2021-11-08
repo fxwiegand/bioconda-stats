@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"htslib-1.14-hc38c3fb_0.tar.bz2",
-"total":3383
+"total":3693
 }
 ],
 "downloads_per_date":[
@@ -70,6 +70,10 @@
 {
 "date":"2021-11-07",
 "total":3383
+},
+{
+"date":"2021-11-08",
+"total":3693
 }
 ],
 "package":"htslib",
@@ -215,6 +219,15 @@
 {
 "basename":"htslib-1.14-hc38c3fb_0.tar.bz2",
 "total":3383
+}
+]
+},
+{
+"date":"2021-11-08",
+"downloads_per_basename":[
+{
+"basename":"htslib-1.14-hc38c3fb_0.tar.bz2",
+"total":3693
 }
 ]
 }

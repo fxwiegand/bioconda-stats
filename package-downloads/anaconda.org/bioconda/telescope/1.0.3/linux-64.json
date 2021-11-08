@@ -19,7 +19,7 @@
 },
 {
 "basename":"telescope-1.0.3-py39hceff724_2.tar.bz2",
-"total":83
+"total":84
 },
 {
 "basename":"telescope-1.0.3-py37hca225eb_1.tar.bz2",
@@ -502,6 +502,10 @@
 {
 "date":"2021-11-07",
 "total":1074
+},
+{
+"date":"2021-11-08",
+"total":1075
 }
 ],
 "package":"telescope",
@@ -1115,6 +1119,15 @@
 {
 "basename":"telescope-1.0.3-py37h14c3975_0.tar.bz2",
 "total":337
+}
+]
+},
+{
+"date":"2021-11-08",
+"downloads_per_basename":[
+{
+"basename":"telescope-1.0.3-py39hceff724_2.tar.bz2",
+"total":84
 }
 ]
 }

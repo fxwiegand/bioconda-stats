@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-pslcdnafilter-366-hdd26221_0.tar.bz2",
-"total":369
+"total":370
 },
 {
 "basename":"ucsc-pslcdnafilter-366-h5eb252a_0.tar.bz2",
@@ -254,6 +254,10 @@
 {
 "date":"2021-11-07",
 "total":1027
+},
+{
+"date":"2021-11-08",
+"total":1028
 }
 ],
 "package":"ucsc-pslcdnafilter",
@@ -445,6 +449,15 @@
 {
 "basename":"ucsc-pslcdnafilter-366-hdd26221_0.tar.bz2",
 "total":369
+}
+]
+},
+{
+"date":"2021-11-08",
+"downloads_per_basename":[
+{
+"basename":"ucsc-pslcdnafilter-366-hdd26221_0.tar.bz2",
+"total":370
 }
 ]
 }

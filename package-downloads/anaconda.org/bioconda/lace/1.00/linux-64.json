@@ -15,7 +15,7 @@
 },
 {
 "basename":"lace-1.00-py35_0.tar.bz2",
-"total":428
+"total":429
 },
 {
 "basename":"lace-1.00-py36_0.tar.bz2",
@@ -262,6 +262,10 @@
 {
 "date":"2021-11-07",
 "total":1806
+},
+{
+"date":"2021-11-08",
+"total":1807
 }
 ],
 "package":"lace",
@@ -530,6 +534,15 @@
 {
 "basename":"lace-1.00-h470a237_1.tar.bz2",
 "total":286
+}
+]
+},
+{
+"date":"2021-11-08",
+"downloads_per_basename":[
+{
+"basename":"lace-1.00-py35_0.tar.bz2",
+"total":429
 }
 ]
 }
