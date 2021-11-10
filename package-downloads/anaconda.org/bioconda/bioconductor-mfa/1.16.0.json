@@ -32,6 +32,10 @@
 {
 "date":"2021-11-09",
 "total":44
+},
+{
+"date":"2021-11-10",
+"total":46
 }
 ],
 "downloads_per_subdir":[
@@ -41,7 +45,7 @@
 },
 {
 "subdir":"osx-64",
-"total":27
+"total":29
 }
 ],
 "package":"bioconductor-mfa",
@@ -139,6 +143,15 @@
 {
 "subdir":"osx-64",
 "total":27
+}
+]
+},
+{
+"date":"2021-11-10",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":29
 }
 ]
 }

@@ -32,6 +32,10 @@
 {
 "date":"2021-11-09",
 "total":48
+},
+{
+"date":"2021-11-10",
+"total":50
 }
 ],
 "downloads_per_subdir":[
@@ -41,7 +45,7 @@
 },
 {
 "subdir":"osx-64",
-"total":29
+"total":31
 }
 ],
 "package":"bioconductor-santa",
@@ -135,6 +139,15 @@
 {
 "subdir":"osx-64",
 "total":29
+}
+]
+},
+{
+"date":"2021-11-10",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":31
 }
 ]
 }

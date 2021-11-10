@@ -28,6 +28,10 @@
 {
 "date":"2021-11-09",
 "total":35
+},
+{
+"date":"2021-11-10",
+"total":37
 }
 ],
 "downloads_per_subdir":[
@@ -37,7 +41,7 @@
 },
 {
 "subdir":"osx-64",
-"total":21
+"total":23
 }
 ],
 "package":"bioconductor-biodbhmdb",
@@ -122,6 +126,15 @@
 {
 "subdir":"osx-64",
 "total":21
+}
+]
+},
+{
+"date":"2021-11-10",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":23
 }
 ]
 }
