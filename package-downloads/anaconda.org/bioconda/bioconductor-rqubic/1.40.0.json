@@ -36,6 +36,10 @@
 {
 "date":"2021-11-10",
 "total":43
+},
+{
+"date":"2021-11-11",
+"total":45
 }
 ],
 "downloads_per_subdir":[
@@ -45,7 +49,7 @@
 },
 {
 "subdir":"osx-64",
-"total":29
+"total":31
 }
 ],
 "package":"bioconductor-rqubic",
@@ -152,6 +156,15 @@
 {
 "subdir":"osx-64",
 "total":29
+}
+]
+},
+{
+"date":"2021-11-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":31
 }
 ]
 }

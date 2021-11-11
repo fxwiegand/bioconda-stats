@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-symbol-util-0.0203-pl526_1.tar.bz2",
-"total":279
+"total":280
 },
 {
 "basename":"perl-symbol-util-0.0203-pl5.22.0_0.tar.bz2",
@@ -162,6 +162,10 @@
 {
 "date":"2021-11-10",
 "total":751
+},
+{
+"date":"2021-11-11",
+"total":752
 }
 ],
 "package":"perl-symbol-util",
@@ -256,6 +260,15 @@
 {
 "basename":"perl-symbol-util-0.0203-pl5.22.0_0.tar.bz2",
 "total":472
+}
+]
+},
+{
+"date":"2021-11-11",
+"downloads_per_basename":[
+{
+"basename":"perl-symbol-util-0.0203-pl526_1.tar.bz2",
+"total":280
 }
 ]
 }

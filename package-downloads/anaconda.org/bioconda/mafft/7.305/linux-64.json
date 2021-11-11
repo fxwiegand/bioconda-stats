@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"mafft-7.305-1.tar.bz2",
-"total":1161
+"total":1163
 },
 {
 "basename":"mafft-7.305-0.tar.bz2",
@@ -382,6 +382,10 @@
 {
 "date":"2021-11-10",
 "total":5022
+},
+{
+"date":"2021-11-11",
+"total":5024
 }
 ],
 "package":"mafft",
@@ -631,6 +635,15 @@
 {
 "basename":"mafft-7.305-1.tar.bz2",
 "total":1161
+}
+]
+},
+{
+"date":"2021-11-11",
+"downloads_per_basename":[
+{
+"basename":"mafft-7.305-1.tar.bz2",
+"total":1163
 }
 ]
 }

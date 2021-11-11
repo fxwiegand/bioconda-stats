@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"pandaseq-2.8.1-h36cd882_4.tar.bz2",
-"total":45
+"total":47
 },
 {
 "basename":"pandaseq-2.8.1-h2f06484_3.tar.bz2",
@@ -186,6 +186,10 @@
 {
 "date":"2021-11-10",
 "total":883
+},
+{
+"date":"2021-11-11",
+"total":885
 }
 ],
 "package":"pandaseq",
@@ -336,6 +340,15 @@
 {
 "basename":"pandaseq-2.8.1-h2f06484_3.tar.bz2",
 "total":62
+}
+]
+},
+{
+"date":"2021-11-11",
+"downloads_per_basename":[
+{
+"basename":"pandaseq-2.8.1-h36cd882_4.tar.bz2",
+"total":47
 }
 ]
 }

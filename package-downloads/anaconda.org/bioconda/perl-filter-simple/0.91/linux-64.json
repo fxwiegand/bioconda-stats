@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-filter-simple-0.91-pl526_1.tar.bz2",
-"total":171
+"total":172
 },
 {
 "basename":"perl-filter-simple-0.91-pl5.22.0_0.tar.bz2",
@@ -142,6 +142,10 @@
 {
 "date":"2021-11-10",
 "total":756
+},
+{
+"date":"2021-11-11",
+"total":757
 }
 ],
 "package":"perl-filter-simple",
@@ -226,6 +230,15 @@
 {
 "basename":"perl-filter-simple-0.91-pl5.22.0_0.tar.bz2",
 "total":585
+}
+]
+},
+{
+"date":"2021-11-11",
+"downloads_per_basename":[
+{
+"basename":"perl-filter-simple-0.91-pl526_1.tar.bz2",
+"total":172
 }
 ]
 }

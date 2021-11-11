@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"biscuit-1.0.1.20211018-h0c44752_1.tar.bz2",
-"total":15
+"total":17
 },
 {
 "basename":"biscuit-1.0.1.20211018-h0c44752_0.tar.bz2",
@@ -98,6 +98,10 @@
 {
 "date":"2021-11-10",
 "total":62
+},
+{
+"date":"2021-11-11",
+"total":64
 }
 ],
 "package":"biscuit",
@@ -288,6 +292,15 @@
 {
 "basename":"biscuit-1.0.1.20211018-h0c44752_1.tar.bz2",
 "total":15
+}
+]
+},
+{
+"date":"2021-11-11",
+"downloads_per_basename":[
+{
+"basename":"biscuit-1.0.1.20211018-h0c44752_1.tar.bz2",
+"total":17
 }
 ]
 }

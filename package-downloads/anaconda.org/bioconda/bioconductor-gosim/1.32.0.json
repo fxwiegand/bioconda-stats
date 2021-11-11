@@ -24,6 +24,10 @@
 {
 "date":"2021-11-10",
 "total":33
+},
+{
+"date":"2021-11-11",
+"total":35
 }
 ],
 "downloads_per_subdir":[
@@ -33,7 +37,7 @@
 },
 {
 "subdir":"osx-64",
-"total":23
+"total":25
 }
 ],
 "package":"bioconductor-gosim",
@@ -97,6 +101,15 @@
 {
 "subdir":"osx-64",
 "total":23
+}
+]
+},
+{
+"date":"2021-11-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":25
 }
 ]
 }

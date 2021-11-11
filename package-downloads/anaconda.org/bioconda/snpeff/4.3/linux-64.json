@@ -15,7 +15,7 @@
 },
 {
 "basename":"snpeff-4.3-3.tar.bz2",
-"total":3391
+"total":3392
 }
 ],
 "downloads_per_date":[
@@ -258,6 +258,10 @@
 {
 "date":"2021-11-10",
 "total":6121
+},
+{
+"date":"2021-11-11",
+"total":6122
 }
 ],
 "package":"snpeff",
@@ -488,6 +492,15 @@
 {
 "basename":"snpeff-4.3-0.tar.bz2",
 "total":530
+}
+]
+},
+{
+"date":"2021-11-11",
+"downloads_per_basename":[
+{
+"basename":"snpeff-4.3-3.tar.bz2",
+"total":3392
 }
 ]
 }

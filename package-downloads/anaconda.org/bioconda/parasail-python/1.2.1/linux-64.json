@@ -11,7 +11,7 @@
 },
 {
 "basename":"parasail-python-1.2.1-py36hd181a71_0.tar.bz2",
-"total":259
+"total":260
 },
 {
 "basename":"parasail-python-1.2.1-py38h8162308_0.tar.bz2",
@@ -182,6 +182,10 @@
 {
 "date":"2021-11-10",
 "total":881
+},
+{
+"date":"2021-11-11",
+"total":882
 }
 ],
 "package":"parasail-python",
@@ -352,6 +356,15 @@
 {
 "basename":"parasail-python-1.2.1-py38h8162308_0.tar.bz2",
 "total":393
+}
+]
+},
+{
+"date":"2021-11-11",
+"downloads_per_basename":[
+{
+"basename":"parasail-python-1.2.1-py36hd181a71_0.tar.bz2",
+"total":260
 }
 ]
 }

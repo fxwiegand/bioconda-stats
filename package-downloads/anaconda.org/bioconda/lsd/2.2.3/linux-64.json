@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"lsd-2.2.3-1.tar.bz2",
-"total":272
+"total":273
 },
 {
 "basename":"lsd-2.2.3-0.tar.bz2",
@@ -218,6 +218,10 @@
 {
 "date":"2021-11-10",
 "total":921
+},
+{
+"date":"2021-11-11",
+"total":922
 }
 ],
 "package":"lsd",
@@ -365,6 +369,15 @@
 {
 "basename":"lsd-2.2.3-0.tar.bz2",
 "total":649
+}
+]
+},
+{
+"date":"2021-11-11",
+"downloads_per_basename":[
+{
+"basename":"lsd-2.2.3-1.tar.bz2",
+"total":273
 }
 ]
 }
