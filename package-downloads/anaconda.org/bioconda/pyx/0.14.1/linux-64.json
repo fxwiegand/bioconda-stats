@@ -11,7 +11,7 @@
 },
 {
 "basename":"pyx-0.14.1-py36_1.tar.bz2",
-"total":171
+"total":172
 },
 {
 "basename":"pyx-0.14.1-py37_1.tar.bz2",
@@ -242,6 +242,10 @@
 {
 "date":"2021-11-11",
 "total":685
+},
+{
+"date":"2021-11-12",
+"total":686
 }
 ],
 "package":"pyx",
@@ -446,6 +450,15 @@
 {
 "basename":"pyx-0.14.1-py37_1.tar.bz2",
 "total":232
+}
+]
+},
+{
+"date":"2021-11-12",
+"downloads_per_basename":[
+{
+"basename":"pyx-0.14.1-py36_1.tar.bz2",
+"total":172
 }
 ]
 }

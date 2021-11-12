@@ -40,6 +40,10 @@
 {
 "date":"2021-11-11",
 "total":44
+},
+{
+"date":"2021-11-12",
+"total":46
 }
 ],
 "downloads_per_subdir":[
@@ -49,7 +53,7 @@
 },
 {
 "subdir":"osx-64",
-"total":26
+"total":28
 }
 ],
 "package":"bioconductor-rots",
@@ -161,6 +165,15 @@
 {
 "subdir":"osx-64",
 "total":26
+}
+]
+},
+{
+"date":"2021-11-12",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":28
 }
 ]
 }

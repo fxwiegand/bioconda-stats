@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-deds-1.60.0-r36h516909a_0.tar.bz2",
-"total":123
+"total":124
 }
 ],
 "downloads_per_date":[
@@ -194,6 +194,10 @@
 {
 "date":"2021-11-11",
 "total":123
+},
+{
+"date":"2021-11-12",
+"total":124
 }
 ],
 "package":"bioconductor-deds",
@@ -303,6 +307,15 @@
 {
 "basename":"bioconductor-deds-1.60.0-r36h516909a_0.tar.bz2",
 "total":123
+}
+]
+},
+{
+"date":"2021-11-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-deds-1.60.0-r36h516909a_0.tar.bz2",
+"total":124
 }
 ]
 }

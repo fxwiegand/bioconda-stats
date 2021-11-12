@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-tie-hash-indexed-0.05-pl526_1.tar.bz2",
-"total":344
+"total":345
 },
 {
 "basename":"perl-tie-hash-indexed-0.05-pl5.22.0_0.tar.bz2",
@@ -206,6 +206,10 @@
 {
 "date":"2021-11-11",
 "total":825
+},
+{
+"date":"2021-11-12",
+"total":826
 }
 ],
 "package":"perl-tie-hash-indexed",
@@ -348,6 +352,15 @@
 {
 "basename":"perl-tie-hash-indexed-0.05-pl526_1.tar.bz2",
 "total":344
+}
+]
+},
+{
+"date":"2021-11-12",
+"downloads_per_basename":[
+{
+"basename":"perl-tie-hash-indexed-0.05-pl526_1.tar.bz2",
+"total":345
 }
 ]
 }

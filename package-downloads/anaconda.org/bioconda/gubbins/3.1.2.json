@@ -120,6 +120,10 @@
 {
 "date":"2021-11-11",
 "total":120
+},
+{
+"date":"2021-11-12",
+"total":121
 }
 ],
 "downloads_per_subdir":[
@@ -129,7 +133,7 @@
 },
 {
 "subdir":"osx-64",
-"total":80
+"total":81
 }
 ],
 "package":"gubbins",
@@ -445,6 +449,15 @@
 {
 "subdir":"osx-64",
 "total":80
+}
+]
+},
+{
+"date":"2021-11-12",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":81
 }
 ]
 }

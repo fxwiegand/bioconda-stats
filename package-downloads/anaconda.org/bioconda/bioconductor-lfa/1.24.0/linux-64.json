@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-lfa-1.24.0-r41hd029910_0.tar.bz2",
-"total":20
+"total":22
 }
 ],
 "downloads_per_date":[
@@ -42,6 +42,10 @@
 {
 "date":"2021-11-11",
 "total":20
+},
+{
+"date":"2021-11-12",
+"total":22
 }
 ],
 "package":"bioconductor-lfa",
@@ -106,6 +110,15 @@
 {
 "basename":"bioconductor-lfa-1.24.0-r41hd029910_0.tar.bz2",
 "total":20
+}
+]
+},
+{
+"date":"2021-11-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-lfa-1.24.0-r41hd029910_0.tar.bz2",
+"total":22
 }
 ]
 }

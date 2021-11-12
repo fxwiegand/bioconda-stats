@@ -7,7 +7,7 @@
 },
 {
 "basename":"mappy-2.10-py35_1.tar.bz2",
-"total":358
+"total":359
 },
 {
 "basename":"mappy-2.10-py36_1.tar.bz2",
@@ -194,6 +194,10 @@
 {
 "date":"2021-11-11",
 "total":1205
+},
+{
+"date":"2021-11-12",
+"total":1206
 }
 ],
 "package":"mappy",
@@ -293,6 +297,15 @@
 {
 "basename":"mappy-2.10-py36_1.tar.bz2",
 "total":497
+}
+]
+},
+{
+"date":"2021-11-12",
+"downloads_per_basename":[
+{
+"basename":"mappy-2.10-py35_1.tar.bz2",
+"total":359
 }
 ]
 }
