@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-interactionset-1.18.0-r40h399db7b_1.tar.bz2",
-"total":85
+"total":86
 },
 {
 "basename":"bioconductor-interactionset-1.18.0-r40h5f743cb_0.tar.bz2",
@@ -234,6 +234,10 @@
 {
 "date":"2021-11-12",
 "total":210
+},
+{
+"date":"2021-11-13",
+"total":211
 }
 ],
 "package":"bioconductor-interactionset",
@@ -358,6 +362,15 @@
 {
 "basename":"bioconductor-interactionset-1.18.0-r40h5f743cb_0.tar.bz2",
 "total":125
+}
+]
+},
+{
+"date":"2021-11-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-interactionset-1.18.0-r40h399db7b_1.tar.bz2",
+"total":86
 }
 ]
 }

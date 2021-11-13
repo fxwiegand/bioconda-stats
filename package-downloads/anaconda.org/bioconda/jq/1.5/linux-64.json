@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"jq-1.5-0.tar.bz2",
-"total":6515
+"total":6528
 }
 ],
 "downloads_per_date":[
@@ -626,6 +626,10 @@
 {
 "date":"2021-11-12",
 "total":6515
+},
+{
+"date":"2021-11-13",
+"total":6528
 }
 ],
 "package":"jq",
@@ -1077,6 +1081,15 @@
 {
 "basename":"jq-1.5-0.tar.bz2",
 "total":6515
+}
+]
+},
+{
+"date":"2021-11-13",
+"downloads_per_basename":[
+{
+"basename":"jq-1.5-0.tar.bz2",
+"total":6528
 }
 ]
 }

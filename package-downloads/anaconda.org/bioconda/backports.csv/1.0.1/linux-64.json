@@ -11,7 +11,7 @@
 },
 {
 "basename":"backports.csv-1.0.1-py36_0.tar.bz2",
-"total":930
+"total":931
 },
 {
 "basename":"backports.csv-1.0.1-py27_0.tar.bz2",
@@ -354,6 +354,10 @@
 {
 "date":"2021-11-12",
 "total":3524
+},
+{
+"date":"2021-11-13",
+"total":3525
 }
 ],
 "package":"backports.csv",
@@ -656,6 +660,15 @@
 {
 "basename":"backports.csv-1.0.1-py27_0.tar.bz2",
 "total":1206
+}
+]
+},
+{
+"date":"2021-11-13",
+"downloads_per_basename":[
+{
+"basename":"backports.csv-1.0.1-py36_0.tar.bz2",
+"total":931
 }
 ]
 }

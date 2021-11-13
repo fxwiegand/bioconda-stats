@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-flowspy-1.4.0-r40h399db7b_2.tar.bz2",
-"total":68
+"total":69
 },
 {
 "basename":"bioconductor-flowspy-1.4.0-r40h5f743cb_0.tar.bz2",
@@ -254,6 +254,10 @@
 {
 "date":"2021-11-12",
 "total":221
+},
+{
+"date":"2021-11-13",
+"total":222
 }
 ],
 "package":"bioconductor-flowspy",
@@ -517,6 +521,15 @@
 {
 "basename":"bioconductor-flowspy-1.4.0-r40h5f743cb_0.tar.bz2",
 "total":85
+}
+]
+},
+{
+"date":"2021-11-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-flowspy-1.4.0-r40h399db7b_2.tar.bz2",
+"total":69
 }
 ]
 }

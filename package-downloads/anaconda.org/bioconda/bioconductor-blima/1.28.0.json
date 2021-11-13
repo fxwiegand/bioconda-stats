@@ -44,6 +44,10 @@
 {
 "date":"2021-11-12",
 "total":37
+},
+{
+"date":"2021-11-13",
+"total":38
 }
 ],
 "downloads_per_subdir":[
@@ -53,7 +57,7 @@
 },
 {
 "subdir":"osx-64",
-"total":29
+"total":30
 }
 ],
 "package":"bioconductor-blima",
@@ -161,6 +165,15 @@
 {
 "subdir":"osx-64",
 "total":29
+}
+]
+},
+{
+"date":"2021-11-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":30
 }
 ]
 }

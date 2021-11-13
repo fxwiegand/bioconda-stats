@@ -44,6 +44,10 @@
 {
 "date":"2021-11-12",
 "total":59
+},
+{
+"date":"2021-11-13",
+"total":61
 }
 ],
 "downloads_per_subdir":[
@@ -53,7 +57,7 @@
 },
 {
 "subdir":"osx-64",
-"total":37
+"total":39
 }
 ],
 "package":"bioconductor-gcatest",
@@ -182,6 +186,15 @@
 {
 "subdir":"osx-64",
 "total":37
+}
+]
+},
+{
+"date":"2021-11-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":39
 }
 ]
 }
