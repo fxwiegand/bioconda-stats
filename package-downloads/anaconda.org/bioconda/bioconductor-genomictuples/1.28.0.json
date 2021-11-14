@@ -40,6 +40,10 @@
 {
 "date":"2021-11-13",
 "total":47
+},
+{
+"date":"2021-11-14",
+"total":49
 }
 ],
 "downloads_per_subdir":[
@@ -49,7 +53,7 @@
 },
 {
 "subdir":"osx-64",
-"total":32
+"total":34
 }
 ],
 "package":"bioconductor-genomictuples",
@@ -161,6 +165,15 @@
 {
 "subdir":"osx-64",
 "total":32
+}
+]
+},
+{
+"date":"2021-11-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":34
 }
 ]
 }

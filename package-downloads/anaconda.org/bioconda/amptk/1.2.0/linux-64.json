@@ -7,7 +7,7 @@
 },
 {
 "basename":"amptk-1.2.0-py35r3.4.1_0.tar.bz2",
-"total":548
+"total":549
 },
 {
 "basename":"amptk-1.2.0-py36r3.4.1_0.tar.bz2",
@@ -246,6 +246,10 @@
 {
 "date":"2021-11-13",
 "total":1510
+},
+{
+"date":"2021-11-14",
+"total":1511
 }
 ],
 "package":"amptk",
@@ -407,6 +411,15 @@
 {
 "basename":"amptk-1.2.0-py36r3.4.1_0.tar.bz2",
 "total":583
+}
+]
+},
+{
+"date":"2021-11-14",
+"downloads_per_basename":[
+{
+"basename":"amptk-1.2.0-py35r3.4.1_0.tar.bz2",
+"total":549
 }
 ]
 }

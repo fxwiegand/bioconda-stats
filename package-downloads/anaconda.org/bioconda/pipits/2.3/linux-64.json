@@ -35,7 +35,7 @@
 },
 {
 "basename":"pipits-2.3-py36_1.tar.bz2",
-"total":143
+"total":144
 },
 {
 "basename":"pipits-2.3-py36_4.tar.bz2",
@@ -278,6 +278,10 @@
 {
 "date":"2021-11-13",
 "total":1250
+},
+{
+"date":"2021-11-14",
+"total":1251
 }
 ],
 "package":"pipits",
@@ -649,6 +653,15 @@
 {
 "basename":"pipits-2.3-py36_4.tar.bz2",
 "total":157
+}
+]
+},
+{
+"date":"2021-11-14",
+"downloads_per_basename":[
+{
+"basename":"pipits-2.3-py36_1.tar.bz2",
+"total":144
 }
 ]
 }

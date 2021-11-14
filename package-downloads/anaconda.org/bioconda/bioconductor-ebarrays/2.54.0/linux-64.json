@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-ebarrays-2.54.0-r40hd029910_1.tar.bz2",
-"total":63
+"total":64
 },
 {
 "basename":"bioconductor-ebarrays-2.54.0-r40h037d062_0.tar.bz2",
@@ -194,6 +194,10 @@
 {
 "date":"2021-11-13",
 "total":138
+},
+{
+"date":"2021-11-14",
+"total":139
 }
 ],
 "package":"bioconductor-ebarrays",
@@ -318,6 +322,15 @@
 {
 "basename":"bioconductor-ebarrays-2.54.0-r40h037d062_0.tar.bz2",
 "total":75
+}
+]
+},
+{
+"date":"2021-11-14",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ebarrays-2.54.0-r40hd029910_1.tar.bz2",
+"total":64
 }
 ]
 }

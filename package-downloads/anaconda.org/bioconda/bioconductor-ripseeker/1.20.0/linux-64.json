@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-ripseeker-1.20.0-r341_0.tar.bz2",
-"total":183
+"total":184
 },
 {
 "basename":"bioconductor-ripseeker-1.20.0-r351_0.tar.bz2",
@@ -158,6 +158,10 @@
 {
 "date":"2021-11-13",
 "total":501
+},
+{
+"date":"2021-11-14",
+"total":502
 }
 ],
 "package":"bioconductor-ripseeker",
@@ -246,6 +250,15 @@
 {
 "basename":"bioconductor-ripseeker-1.20.0-r351_0.tar.bz2",
 "total":318
+}
+]
+},
+{
+"date":"2021-11-14",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ripseeker-1.20.0-r341_0.tar.bz2",
+"total":184
 }
 ]
 }

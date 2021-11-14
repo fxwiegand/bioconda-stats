@@ -7,7 +7,7 @@
 },
 {
 "basename":"fastq-pair-1.0-he1b5a44_1.tar.bz2",
-"total":180
+"total":181
 },
 {
 "basename":"fastq-pair-1.0-hf484d3e_0.tar.bz2",
@@ -434,6 +434,10 @@
 {
 "date":"2021-11-13",
 "total":570
+},
+{
+"date":"2021-11-14",
+"total":571
 }
 ],
 "package":"fastq-pair",
@@ -741,6 +745,15 @@
 {
 "basename":"fastq-pair-1.0-he1b5a44_1.tar.bz2",
 "total":180
+}
+]
+},
+{
+"date":"2021-11-14",
+"downloads_per_basename":[
+{
+"basename":"fastq-pair-1.0-he1b5a44_1.tar.bz2",
+"total":181
 }
 ]
 }

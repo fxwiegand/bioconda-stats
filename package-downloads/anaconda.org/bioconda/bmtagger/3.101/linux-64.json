@@ -7,7 +7,7 @@
 },
 {
 "basename":"bmtagger-3.101-h470a237_4.tar.bz2",
-"total":8243
+"total":8245
 },
 {
 "basename":"bmtagger-3.101-3.tar.bz2",
@@ -678,6 +678,10 @@
 {
 "date":"2021-11-13",
 "total":21275
+},
+{
+"date":"2021-11-14",
+"total":21277
 }
 ],
 "package":"bmtagger",
@@ -1193,6 +1197,15 @@
 {
 "basename":"bmtagger-3.101-3.tar.bz2",
 "total":12346
+}
+]
+},
+{
+"date":"2021-11-14",
+"downloads_per_basename":[
+{
+"basename":"bmtagger-3.101-h470a237_4.tar.bz2",
+"total":8245
 }
 ]
 }

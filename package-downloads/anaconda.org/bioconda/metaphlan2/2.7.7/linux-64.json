@@ -15,7 +15,7 @@
 },
 {
 "basename":"metaphlan2-2.7.7-py27_1.tar.bz2",
-"total":8313
+"total":8314
 }
 ],
 "downloads_per_date":[
@@ -466,6 +466,10 @@
 {
 "date":"2021-11-13",
 "total":17282
+},
+{
+"date":"2021-11-14",
+"total":17283
 }
 ],
 "package":"metaphlan2",
@@ -787,6 +791,15 @@
 {
 "basename":"metaphlan2-2.7.7-py27_2.tar.bz2",
 "total":1898
+}
+]
+},
+{
+"date":"2021-11-14",
+"downloads_per_basename":[
+{
+"basename":"metaphlan2-2.7.7-py27_1.tar.bz2",
+"total":8314
 }
 ]
 }

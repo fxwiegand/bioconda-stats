@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-gam-1.14-r3.3.1_0.tar.bz2",
-"total":448
+"total":449
 },
 {
 "basename":"r-gam-1.14-r3.4.1_0.tar.bz2",
@@ -142,6 +142,10 @@
 {
 "date":"2021-11-13",
 "total":1519
+},
+{
+"date":"2021-11-14",
+"total":1520
 }
 ],
 "package":"r-gam",
@@ -259,6 +263,15 @@
 {
 "basename":"r-gam-1.14-r3.3.2_0.tar.bz2",
 "total":609
+}
+]
+},
+{
+"date":"2021-11-14",
+"downloads_per_basename":[
+{
+"basename":"r-gam-1.14-r3.3.1_0.tar.bz2",
+"total":449
 }
 ]
 }

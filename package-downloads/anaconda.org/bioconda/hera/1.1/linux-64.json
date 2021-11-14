@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"hera-1.1-hed7fd2a_5.tar.bz2",
-"total":32
+"total":33
 },
 {
 "basename":"hera-1.1-h0bfff45_4.tar.bz2",
@@ -274,6 +274,10 @@
 {
 "date":"2021-11-13",
 "total":2611
+},
+{
+"date":"2021-11-14",
+"total":2612
 }
 ],
 "package":"hera",
@@ -625,6 +629,15 @@
 {
 "basename":"hera-1.1-py36_0.tar.bz2",
 "total":476
+}
+]
+},
+{
+"date":"2021-11-14",
+"downloads_per_basename":[
+{
+"basename":"hera-1.1-hed7fd2a_5.tar.bz2",
+"total":33
 }
 ]
 }

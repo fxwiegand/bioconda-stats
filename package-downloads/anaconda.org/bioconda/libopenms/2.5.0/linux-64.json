@@ -19,7 +19,7 @@
 },
 {
 "basename":"libopenms-2.5.0-h463af6b_4.tar.bz2",
-"total":2293
+"total":2294
 },
 {
 "basename":"libopenms-2.5.0-h4afb90d_6.tar.bz2",
@@ -346,6 +346,10 @@
 {
 "date":"2021-11-13",
 "total":10340
+},
+{
+"date":"2021-11-14",
+"total":10341
 }
 ],
 "package":"libopenms",
@@ -740,6 +744,15 @@
 {
 "basename":"libopenms-2.5.0-h4afb90d_6.tar.bz2",
 "total":4770
+}
+]
+},
+{
+"date":"2021-11-14",
+"downloads_per_basename":[
+{
+"basename":"libopenms-2.5.0-h463af6b_4.tar.bz2",
+"total":2294
 }
 ]
 }

@@ -36,6 +36,10 @@
 {
 "date":"2021-11-13",
 "total":42
+},
+{
+"date":"2021-11-14",
+"total":43
 }
 ],
 "downloads_per_subdir":[
@@ -45,7 +49,7 @@
 },
 {
 "subdir":"osx-64",
-"total":27
+"total":28
 }
 ],
 "package":"bioconductor-casper",
@@ -144,6 +148,15 @@
 {
 "subdir":"osx-64",
 "total":27
+}
+]
+},
+{
+"date":"2021-11-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":28
 }
 ]
 }
