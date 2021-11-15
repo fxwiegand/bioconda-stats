@@ -44,6 +44,10 @@
 {
 "date":"2021-11-14",
 "total":52
+},
+{
+"date":"2021-11-15",
+"total":54
 }
 ],
 "downloads_per_subdir":[
@@ -53,7 +57,7 @@
 },
 {
 "subdir":"osx-64",
-"total":34
+"total":36
 }
 ],
 "package":"bioconductor-demixt",
@@ -178,6 +182,15 @@
 {
 "subdir":"osx-64",
 "total":34
+}
+]
+},
+{
+"date":"2021-11-15",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":36
 }
 ]
 }

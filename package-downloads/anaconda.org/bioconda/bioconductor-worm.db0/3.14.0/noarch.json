@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-worm.db0-3.14.0-r41hdfd78af_0.tar.bz2",
-"total":12
+"total":14
 }
 ],
 "downloads_per_date":[
@@ -34,6 +34,10 @@
 {
 "date":"2021-11-14",
 "total":12
+},
+{
+"date":"2021-11-15",
+"total":14
 }
 ],
 "package":"bioconductor-worm.db0",
@@ -89,6 +93,15 @@
 {
 "basename":"bioconductor-worm.db0-3.14.0-r41hdfd78af_0.tar.bz2",
 "total":12
+}
+]
+},
+{
+"date":"2021-11-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-worm.db0-3.14.0-r41hdfd78af_0.tar.bz2",
+"total":14
 }
 ]
 }

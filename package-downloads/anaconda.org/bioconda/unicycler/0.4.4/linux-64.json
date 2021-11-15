@@ -31,7 +31,7 @@
 },
 {
 "basename":"unicycler-0.4.4-py39h98c8e45_4.tar.bz2",
-"total":187
+"total":188
 },
 {
 "basename":"unicycler-0.4.4-py37hdbcaa40_1.tar.bz2",
@@ -622,6 +622,10 @@
 {
 "date":"2021-11-14",
 "total":2091
+},
+{
+"date":"2021-11-15",
+"total":2092
 }
 ],
 "package":"unicycler",
@@ -1410,6 +1414,15 @@
 {
 "basename":"unicycler-0.4.4-py35_0.tar.bz2",
 "total":1110
+}
+]
+},
+{
+"date":"2021-11-15",
+"downloads_per_basename":[
+{
+"basename":"unicycler-0.4.4-py39h98c8e45_4.tar.bz2",
+"total":188
 }
 ]
 }

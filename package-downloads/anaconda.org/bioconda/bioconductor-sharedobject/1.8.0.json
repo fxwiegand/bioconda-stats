@@ -52,6 +52,10 @@
 {
 "date":"2021-11-14",
 "total":56
+},
+{
+"date":"2021-11-15",
+"total":58
 }
 ],
 "downloads_per_subdir":[
@@ -61,7 +65,7 @@
 },
 {
 "subdir":"osx-64",
-"total":35
+"total":37
 }
 ],
 "package":"bioconductor-sharedobject",
@@ -204,6 +208,15 @@
 {
 "subdir":"osx-64",
 "total":35
+}
+]
+},
+{
+"date":"2021-11-15",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":37
 }
 ]
 }
