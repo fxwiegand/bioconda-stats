@@ -19,7 +19,7 @@
 },
 {
 "basename":"trinity-date.2011_11_26-ncurses5.9_6.tar.bz2",
-"total":3182
+"total":3183
 },
 {
 "basename":"trinity-date.2011_11_26-ncurses5.9_7.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2021-11-15",
 "total":16227
+},
+{
+"date":"2021-11-16",
+"total":16228
 }
 ],
 "package":"trinity",
@@ -605,6 +609,15 @@
 {
 "basename":"trinity-date.2011_11_26-ncurses5.9_7.tar.bz2",
 "total":3786
+}
+]
+},
+{
+"date":"2021-11-16",
+"downloads_per_basename":[
+{
+"basename":"trinity-date.2011_11_26-ncurses5.9_6.tar.bz2",
+"total":3183
 }
 ]
 }

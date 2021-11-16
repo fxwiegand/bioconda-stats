@@ -7,7 +7,7 @@
 },
 {
 "basename":"nanoplot-1.13.0-py35_0.tar.bz2",
-"total":319
+"total":320
 },
 {
 "basename":"nanoplot-1.13.0-py36_1.tar.bz2",
@@ -206,6 +206,10 @@
 {
 "date":"2021-11-15",
 "total":1335
+},
+{
+"date":"2021-11-16",
+"total":1336
 }
 ],
 "package":"nanoplot",
@@ -373,6 +377,15 @@
 {
 "basename":"nanoplot-1.13.0-py36_0.tar.bz2",
 "total":412
+}
+]
+},
+{
+"date":"2021-11-16",
+"downloads_per_basename":[
+{
+"basename":"nanoplot-1.13.0-py35_0.tar.bz2",
+"total":320
 }
 ]
 }

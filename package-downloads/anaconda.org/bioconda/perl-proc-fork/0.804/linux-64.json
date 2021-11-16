@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-proc-fork-0.804-pl526_1.tar.bz2",
-"total":157
+"total":158
 },
 {
 "basename":"perl-proc-fork-0.804-0.tar.bz2",
@@ -154,6 +154,10 @@
 {
 "date":"2021-11-15",
 "total":798
+},
+{
+"date":"2021-11-16",
+"total":799
 }
 ],
 "package":"perl-proc-fork",
@@ -275,6 +279,15 @@
 {
 "basename":"perl-proc-fork-0.804-0.tar.bz2",
 "total":641
+}
+]
+},
+{
+"date":"2021-11-16",
+"downloads_per_basename":[
+{
+"basename":"perl-proc-fork-0.804-pl526_1.tar.bz2",
+"total":158
 }
 ]
 }

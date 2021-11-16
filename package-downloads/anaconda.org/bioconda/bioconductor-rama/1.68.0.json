@@ -56,6 +56,10 @@
 {
 "date":"2021-11-15",
 "total":65
+},
+{
+"date":"2021-11-16",
+"total":66
 }
 ],
 "downloads_per_subdir":[
@@ -65,7 +69,7 @@
 },
 {
 "subdir":"osx-64",
-"total":47
+"total":48
 }
 ],
 "package":"bioconductor-rama",
@@ -217,6 +221,15 @@
 {
 "subdir":"osx-64",
 "total":47
+}
+]
+},
+{
+"date":"2021-11-16",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":48
 }
 ]
 }

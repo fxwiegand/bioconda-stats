@@ -52,6 +52,10 @@
 {
 "date":"2021-11-15",
 "total":60
+},
+{
+"date":"2021-11-16",
+"total":62
 }
 ],
 "downloads_per_subdir":[
@@ -61,7 +65,7 @@
 },
 {
 "subdir":"osx-64",
-"total":34
+"total":36
 }
 ],
 "package":"bioconductor-oncosimulr",
@@ -192,6 +196,15 @@
 {
 "subdir":"osx-64",
 "total":34
+}
+]
+},
+{
+"date":"2021-11-16",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":36
 }
 ]
 }

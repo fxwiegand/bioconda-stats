@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-biocworkflowtools-1.2.0-r3.3.2_0.tar.bz2",
-"total":555
+"total":556
 },
 {
 "basename":"bioconductor-biocworkflowtools-1.2.0-0.tar.bz2",
@@ -210,6 +210,10 @@
 {
 "date":"2021-11-15",
 "total":1668
+},
+{
+"date":"2021-11-16",
+"total":1669
 }
 ],
 "package":"bioconductor-biocworkflowtools",
@@ -352,6 +356,15 @@
 {
 "basename":"bioconductor-biocworkflowtools-1.2.0-0.tar.bz2",
 "total":607
+}
+]
+},
+{
+"date":"2021-11-16",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-biocworkflowtools-1.2.0-r3.3.2_0.tar.bz2",
+"total":556
 }
 ]
 }

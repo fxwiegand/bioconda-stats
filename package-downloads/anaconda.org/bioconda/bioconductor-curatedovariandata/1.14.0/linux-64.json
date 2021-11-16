@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-curatedovariandata-1.14.0-r3.3.1_0.tar.bz2",
-"total":5810
+"total":5811
 },
 {
 "basename":"bioconductor-curatedovariandata-1.14.0-r3.4.1_0.tar.bz2",
@@ -182,6 +182,10 @@
 {
 "date":"2021-11-15",
 "total":16668
+},
+{
+"date":"2021-11-16",
+"total":16669
 }
 ],
 "package":"bioconductor-curatedovariandata",
@@ -345,6 +349,15 @@
 {
 "basename":"bioconductor-curatedovariandata-1.14.0-r3.4.1_0.tar.bz2",
 "total":5956
+}
+]
+},
+{
+"date":"2021-11-16",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-curatedovariandata-1.14.0-r3.3.1_0.tar.bz2",
+"total":5811
 }
 ]
 }
