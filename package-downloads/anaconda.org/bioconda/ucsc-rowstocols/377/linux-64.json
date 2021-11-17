@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-rowstocols-377-h446ed27_1.tar.bz2",
-"total":67
+"total":68
 },
 {
 "basename":"ucsc-rowstocols-377-h199ee4e_0.tar.bz2",
@@ -290,6 +290,10 @@
 {
 "date":"2021-11-16",
 "total":277
+},
+{
+"date":"2021-11-17",
+"total":278
 }
 ],
 "package":"ucsc-rowstocols",
@@ -524,6 +528,15 @@
 {
 "basename":"ucsc-rowstocols-377-h199ee4e_0.tar.bz2",
 "total":148
+}
+]
+},
+{
+"date":"2021-11-17",
+"downloads_per_basename":[
+{
+"basename":"ucsc-rowstocols-377-h446ed27_1.tar.bz2",
+"total":68
 }
 ]
 }

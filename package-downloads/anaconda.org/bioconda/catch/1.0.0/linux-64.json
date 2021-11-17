@@ -7,7 +7,7 @@
 },
 {
 "basename":"catch-1.0.0-py35_0.tar.bz2",
-"total":172
+"total":173
 },
 {
 "basename":"catch-1.0.0-py36_1.tar.bz2",
@@ -226,6 +226,10 @@
 {
 "date":"2021-11-16",
 "total":841
+},
+{
+"date":"2021-11-17",
+"total":842
 }
 ],
 "package":"catch",
@@ -421,6 +425,15 @@
 {
 "basename":"catch-1.0.0-py36_1.tar.bz2",
 "total":188
+}
+]
+},
+{
+"date":"2021-11-17",
+"downloads_per_basename":[
+{
+"basename":"catch-1.0.0-py35_0.tar.bz2",
+"total":173
 }
 ]
 }

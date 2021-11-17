@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-hgloadbed-377-h0b8a92a_2.tar.bz2",
-"total":69
+"total":70
 },
 {
 "basename":"ucsc-hgloadbed-377-h199ee4e_0.tar.bz2",
@@ -326,6 +326,10 @@
 {
 "date":"2021-11-16",
 "total":299
+},
+{
+"date":"2021-11-17",
+"total":300
 }
 ],
 "package":"ucsc-hgloadbed",
@@ -573,6 +577,15 @@
 {
 "basename":"ucsc-hgloadbed-377-h199ee4e_0.tar.bz2",
 "total":164
+}
+]
+},
+{
+"date":"2021-11-17",
+"downloads_per_basename":[
+{
+"basename":"ucsc-hgloadbed-377-h0b8a92a_2.tar.bz2",
+"total":70
 }
 ]
 }

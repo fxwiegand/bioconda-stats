@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-trfbig-377-h446ed27_1.tar.bz2",
-"total":70
+"total":71
 },
 {
 "basename":"ucsc-trfbig-377-h199ee4e_0.tar.bz2",
@@ -286,6 +286,10 @@
 {
 "date":"2021-11-16",
 "total":296
+},
+{
+"date":"2021-11-17",
+"total":297
 }
 ],
 "package":"ucsc-trfbig",
@@ -496,6 +500,15 @@
 {
 "basename":"ucsc-trfbig-377-h199ee4e_0.tar.bz2",
 "total":161
+}
+]
+},
+{
+"date":"2021-11-17",
+"downloads_per_basename":[
+{
+"basename":"ucsc-trfbig-377-h446ed27_1.tar.bz2",
+"total":71
 }
 ]
 }

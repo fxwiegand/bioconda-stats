@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"neurodocker-0.4.3-py35_0.tar.bz2",
-"total":120
+"total":121
 },
 {
 "basename":"neurodocker-0.4.3-py36_0.tar.bz2",
@@ -146,6 +146,10 @@
 {
 "date":"2021-11-16",
 "total":260
+},
+{
+"date":"2021-11-17",
+"total":261
 }
 ],
 "package":"neurodocker",
@@ -234,6 +238,15 @@
 {
 "basename":"neurodocker-0.4.3-py36_0.tar.bz2",
 "total":140
+}
+]
+},
+{
+"date":"2021-11-17",
+"downloads_per_basename":[
+{
+"basename":"neurodocker-0.4.3-py35_0.tar.bz2",
+"total":121
 }
 ]
 }

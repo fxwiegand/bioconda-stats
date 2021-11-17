@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"requests-mock-1.0.0-py27_1.tar.bz2",
-"total":147
+"total":148
 },
 {
 "basename":"requests-mock-1.0.0-py36_0.tar.bz2",
@@ -218,6 +218,10 @@
 {
 "date":"2021-11-16",
 "total":12155
+},
+{
+"date":"2021-11-17",
+"total":12156
 }
 ],
 "package":"requests-mock",
@@ -495,6 +499,15 @@
 {
 "basename":"requests-mock-1.0.0-py35_0.tar.bz2",
 "total":5829
+}
+]
+},
+{
+"date":"2021-11-17",
+"downloads_per_basename":[
+{
+"basename":"requests-mock-1.0.0-py27_1.tar.bz2",
+"total":148
 }
 ]
 }

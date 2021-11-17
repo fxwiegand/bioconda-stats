@@ -11,7 +11,7 @@
 },
 {
 "basename":"galaxy-lib-16.10.9-py27_0.tar.bz2",
-"total":501
+"total":502
 },
 {
 "basename":"galaxy-lib-16.10.9-py35_0.tar.bz2",
@@ -158,6 +158,10 @@
 {
 "date":"2021-11-16",
 "total":25245
+},
+{
+"date":"2021-11-17",
+"total":25246
 }
 ],
 "package":"galaxy-lib",
@@ -294,6 +298,15 @@
 {
 "basename":"galaxy-lib-16.10.9-py35_0.tar.bz2",
 "total":23980
+}
+]
+},
+{
+"date":"2021-11-17",
+"downloads_per_basename":[
+{
+"basename":"galaxy-lib-16.10.9-py27_0.tar.bz2",
+"total":502
 }
 ]
 }

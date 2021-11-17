@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-blib-1.06-pl526_1.tar.bz2",
-"total":180
+"total":181
 },
 {
 "basename":"perl-blib-1.06-pl5.22.0_0.tar.bz2",
@@ -130,6 +130,10 @@
 {
 "date":"2021-11-16",
 "total":763
+},
+{
+"date":"2021-11-17",
+"total":764
 }
 ],
 "package":"perl-blib",
@@ -240,6 +244,15 @@
 {
 "basename":"perl-blib-1.06-pl5.22.0_0.tar.bz2",
 "total":583
+}
+]
+},
+{
+"date":"2021-11-17",
+"downloads_per_basename":[
+{
+"basename":"perl-blib-1.06-pl526_1.tar.bz2",
+"total":181
 }
 ]
 }

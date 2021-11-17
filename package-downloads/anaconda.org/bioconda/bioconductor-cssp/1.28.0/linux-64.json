@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-cssp-1.28.0-r40hd029910_1.tar.bz2",
-"total":41
+"total":42
 },
 {
 "basename":"bioconductor-cssp-1.28.0-r40h037d062_0.tar.bz2",
@@ -138,6 +138,10 @@
 {
 "date":"2021-11-16",
 "total":101
+},
+{
+"date":"2021-11-17",
+"total":102
 }
 ],
 "package":"bioconductor-cssp",
@@ -217,6 +221,15 @@
 {
 "basename":"bioconductor-cssp-1.28.0-r40h037d062_0.tar.bz2",
 "total":60
+}
+]
+},
+{
+"date":"2021-11-17",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cssp-1.28.0-r40hd029910_1.tar.bz2",
+"total":42
 }
 ]
 }

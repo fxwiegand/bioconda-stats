@@ -15,7 +15,7 @@
 },
 {
 "basename":"pancake-1.1.2-py36_0.tar.bz2",
-"total":414
+"total":415
 },
 {
 "basename":"pancake-1.1.2-py35_0.tar.bz2",
@@ -182,6 +182,10 @@
 {
 "date":"2021-11-16",
 "total":1644
+},
+{
+"date":"2021-11-17",
+"total":1645
 }
 ],
 "package":"pancake",
@@ -408,6 +412,15 @@
 {
 "basename":"pancake-1.1.2-py35_0.tar.bz2",
 "total":417
+}
+]
+},
+{
+"date":"2021-11-17",
+"downloads_per_basename":[
+{
+"basename":"pancake-1.1.2-py36_0.tar.bz2",
+"total":415
 }
 ]
 }

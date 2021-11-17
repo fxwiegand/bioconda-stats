@@ -7,7 +7,7 @@
 },
 {
 "basename":"methylpy-1.4.3-py36h41a55b7_0.tar.bz2",
-"total":54
+"total":55
 },
 {
 "basename":"methylpy-1.4.3-py37h41a55b7_0.tar.bz2",
@@ -214,6 +214,10 @@
 {
 "date":"2021-11-16",
 "total":201
+},
+{
+"date":"2021-11-17",
+"total":202
 }
 ],
 "package":"methylpy",
@@ -380,6 +384,15 @@
 {
 "basename":"methylpy-1.4.3-py37h41a55b7_0.tar.bz2",
 "total":95
+}
+]
+},
+{
+"date":"2021-11-17",
+"downloads_per_basename":[
+{
+"basename":"methylpy-1.4.3-py36h41a55b7_0.tar.bz2",
+"total":55
 }
 ]
 }
