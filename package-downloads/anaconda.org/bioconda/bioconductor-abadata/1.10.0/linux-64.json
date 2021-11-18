@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-abadata-1.10.0-r341_0.tar.bz2",
-"total":190
+"total":191
 },
 {
 "basename":"bioconductor-abadata-1.10.0-r351_0.tar.bz2",
@@ -126,6 +126,10 @@
 {
 "date":"2021-11-17",
 "total":514
+},
+{
+"date":"2021-11-18",
+"total":515
 }
 ],
 "package":"bioconductor-abadata",
@@ -218,6 +222,15 @@
 {
 "basename":"bioconductor-abadata-1.10.0-r351_0.tar.bz2",
 "total":324
+}
+]
+},
+{
+"date":"2021-11-18",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-abadata-1.10.0-r341_0.tar.bz2",
+"total":191
 }
 ]
 }

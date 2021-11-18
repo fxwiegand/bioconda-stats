@@ -52,6 +52,10 @@
 {
 "date":"2021-11-17",
 "total":53
+},
+{
+"date":"2021-11-18",
+"total":55
 }
 ],
 "downloads_per_subdir":[
@@ -61,7 +65,7 @@
 },
 {
 "subdir":"osx-64",
-"total":37
+"total":39
 }
 ],
 "package":"bioconductor-rbec",
@@ -204,6 +208,15 @@
 {
 "subdir":"osx-64",
 "total":37
+}
+]
+},
+{
+"date":"2021-11-18",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":39
 }
 ]
 }

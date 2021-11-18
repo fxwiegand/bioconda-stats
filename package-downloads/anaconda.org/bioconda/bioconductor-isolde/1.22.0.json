@@ -64,6 +64,10 @@
 {
 "date":"2021-11-17",
 "total":61
+},
+{
+"date":"2021-11-18",
+"total":63
 }
 ],
 "downloads_per_subdir":[
@@ -73,7 +77,7 @@
 },
 {
 "subdir":"osx-64",
-"total":45
+"total":47
 }
 ],
 "package":"bioconductor-isolde",
@@ -239,6 +243,15 @@
 {
 "subdir":"osx-64",
 "total":45
+}
+]
+},
+{
+"date":"2021-11-18",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":47
 }
 ]
 }

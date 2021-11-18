@@ -56,6 +56,10 @@
 {
 "date":"2021-11-17",
 "total":332
+},
+{
+"date":"2021-11-18",
+"total":338
 }
 ],
 "downloads_per_subdir":[
@@ -65,7 +69,7 @@
 },
 {
 "subdir":"linux-64",
-"total":249
+"total":255
 }
 ],
 "package":"bioconductor-scuttle",
@@ -241,6 +245,15 @@
 {
 "subdir":"linux-64",
 "total":249
+}
+]
+},
+{
+"date":"2021-11-18",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":255
 }
 ]
 }
