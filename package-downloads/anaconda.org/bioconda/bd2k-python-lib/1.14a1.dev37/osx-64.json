@@ -678,6 +678,10 @@
 {
 "date":"2021-11-18",
 "total":2383
+},
+{
+"date":"2021-11-19",
+"total":2383
 }
 ],
 "package":"bd2k-python-lib",
@@ -1131,10 +1135,6 @@
 "date":"2021-11-18",
 "downloads_per_basename":[
 {
-"basename":"bd2k-python-lib-1.14a1.dev37-py35_0.tar.bz2",
-"total":66
-},
-{
 "basename":"bd2k-python-lib-1.14a1.dev37-py34_0.tar.bz2",
 "total":159
 },
@@ -1145,6 +1145,15 @@
 {
 "basename":"bd2k-python-lib-1.14a1.dev37-py36_0.tar.bz2",
 "total":1747
+}
+]
+},
+{
+"date":"2021-11-19",
+"downloads_per_basename":[
+{
+"basename":"bd2k-python-lib-1.14a1.dev37-py35_0.tar.bz2",
+"total":66
 }
 ]
 }

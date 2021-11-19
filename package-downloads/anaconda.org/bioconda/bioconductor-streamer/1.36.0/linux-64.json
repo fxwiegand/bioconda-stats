@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-streamer-1.36.0-r40hd029910_1.tar.bz2",
-"total":37
+"total":39
 },
 {
 "basename":"bioconductor-streamer-1.36.0-r40h037d062_0.tar.bz2",
@@ -166,6 +166,10 @@
 {
 "date":"2021-11-18",
 "total":92
+},
+{
+"date":"2021-11-19",
+"total":94
 }
 ],
 "package":"bioconductor-streamer",
@@ -285,6 +289,15 @@
 {
 "basename":"bioconductor-streamer-1.36.0-r40h037d062_0.tar.bz2",
 "total":55
+}
+]
+},
+{
+"date":"2021-11-19",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-streamer-1.36.0-r40hd029910_1.tar.bz2",
+"total":39
 }
 ]
 }

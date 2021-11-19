@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-super-1.20141117-pl5.22.0_0.tar.bz2",
-"total":169
+"total":170
 },
 {
 "basename":"perl-super-1.20141117-pl526_1.tar.bz2",
@@ -138,6 +138,10 @@
 {
 "date":"2021-11-18",
 "total":459
+},
+{
+"date":"2021-11-19",
+"total":460
 }
 ],
 "package":"perl-super",
@@ -209,6 +213,15 @@
 {
 "basename":"perl-super-1.20141117-pl526_1.tar.bz2",
 "total":290
+}
+]
+},
+{
+"date":"2021-11-19",
+"downloads_per_basename":[
+{
+"basename":"perl-super-1.20141117-pl5.22.0_0.tar.bz2",
+"total":170
 }
 ]
 }

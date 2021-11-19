@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-sereal-3.015-pl526_1.tar.bz2",
-"total":1743
+"total":1744
 },
 {
 "basename":"perl-sereal-3.015-0.tar.bz2",
@@ -494,6 +494,10 @@
 {
 "date":"2021-11-18",
 "total":6376
+},
+{
+"date":"2021-11-19",
+"total":6377
 }
 ],
 "package":"perl-sereal",
@@ -785,6 +789,15 @@
 {
 "basename":"perl-sereal-3.015-0.tar.bz2",
 "total":4633
+}
+]
+},
+{
+"date":"2021-11-19",
+"downloads_per_basename":[
+{
+"basename":"perl-sereal-3.015-pl526_1.tar.bz2",
+"total":1744
 }
 ]
 }

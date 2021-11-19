@@ -686,6 +686,10 @@
 {
 "date":"2021-11-18",
 "total":2064
+},
+{
+"date":"2021-11-19",
+"total":2064
 }
 ],
 "package":"dudes",
@@ -1153,6 +1157,15 @@
 "date":"2021-11-18",
 "downloads_per_basename":[
 {
+"basename":"dudes-0.08-py36_1.tar.bz2",
+"total":1975
+}
+]
+},
+{
+"date":"2021-11-19",
+"downloads_per_basename":[
+{
 "basename":"dudes-0.08-py35_1.tar.bz2",
 "total":26
 },
@@ -1163,10 +1176,6 @@
 {
 "basename":"dudes-0.08-py35_0.tar.bz2",
 "total":34
-},
-{
-"basename":"dudes-0.08-py36_1.tar.bz2",
-"total":1975
 }
 ]
 }

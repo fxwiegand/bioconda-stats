@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ncbi-vdb-2.10.6-he1b5a44_0.tar.bz2",
-"total":83
+"total":84
 }
 ],
 "downloads_per_date":[
@@ -170,6 +170,10 @@
 {
 "date":"2021-11-18",
 "total":83
+},
+{
+"date":"2021-11-19",
+"total":84
 }
 ],
 "package":"ncbi-vdb",
@@ -252,6 +256,15 @@
 {
 "basename":"ncbi-vdb-2.10.6-he1b5a44_0.tar.bz2",
 "total":83
+}
+]
+},
+{
+"date":"2021-11-19",
+"downloads_per_basename":[
+{
+"basename":"ncbi-vdb-2.10.6-he1b5a44_0.tar.bz2",
+"total":84
 }
 ]
 }

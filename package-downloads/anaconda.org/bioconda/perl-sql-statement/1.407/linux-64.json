@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-sql-statement-1.407-pl526_1.tar.bz2",
-"total":147
+"total":148
 },
 {
 "basename":"perl-sql-statement-1.407-0.tar.bz2",
@@ -186,6 +186,10 @@
 {
 "date":"2021-11-18",
 "total":1228
+},
+{
+"date":"2021-11-19",
+"total":1229
 }
 ],
 "package":"perl-sql-statement",
@@ -301,6 +305,15 @@
 {
 "basename":"perl-sql-statement-1.407-0.tar.bz2",
 "total":1081
+}
+]
+},
+{
+"date":"2021-11-19",
+"downloads_per_basename":[
+{
+"basename":"perl-sql-statement-1.407-pl526_1.tar.bz2",
+"total":148
 }
 ]
 }
