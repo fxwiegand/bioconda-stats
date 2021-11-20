@@ -686,6 +686,10 @@
 {
 "date":"2021-11-19",
 "total":2233
+},
+{
+"date":"2021-11-20",
+"total":2233
 }
 ],
 "package":"sqlalchemy-datatables",
@@ -1126,6 +1130,15 @@
 "date":"2021-11-19",
 "downloads_per_basename":[
 {
+"basename":"sqlalchemy-datatables-0.3.0-py36_0.tar.bz2",
+"total":1758
+}
+]
+},
+{
+"date":"2021-11-20",
+"downloads_per_basename":[
+{
 "basename":"sqlalchemy-datatables-0.3.0-py27_0.tar.bz2",
 "total":96
 },
@@ -1136,10 +1149,6 @@
 {
 "basename":"sqlalchemy-datatables-0.3.0-py34_0.tar.bz2",
 "total":277
-},
-{
-"basename":"sqlalchemy-datatables-0.3.0-py36_0.tar.bz2",
-"total":1758
 }
 ]
 }

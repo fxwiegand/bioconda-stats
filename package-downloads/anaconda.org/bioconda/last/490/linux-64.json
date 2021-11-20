@@ -15,7 +15,7 @@
 },
 {
 "basename":"last-490-py35h2d50403_3.tar.bz2",
-"total":141
+"total":142
 },
 {
 "basename":"last-490-py36h2d50403_3.tar.bz2",
@@ -318,6 +318,10 @@
 {
 "date":"2021-11-19",
 "total":3432
+},
+{
+"date":"2021-11-20",
+"total":3433
 }
 ],
 "package":"last",
@@ -735,6 +739,15 @@
 {
 "basename":"last-490-py34_1.tar.bz2",
 "total":590
+}
+]
+},
+{
+"date":"2021-11-20",
+"downloads_per_basename":[
+{
+"basename":"last-490-py35h2d50403_3.tar.bz2",
+"total":142
 }
 ]
 }

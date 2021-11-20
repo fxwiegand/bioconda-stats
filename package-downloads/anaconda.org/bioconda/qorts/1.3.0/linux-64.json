@@ -7,7 +7,7 @@
 },
 {
 "basename":"qorts-1.3.0-py36_0.tar.bz2",
-"total":210
+"total":211
 },
 {
 "basename":"qorts-1.3.0-py27_0.tar.bz2",
@@ -258,6 +258,10 @@
 {
 "date":"2021-11-19",
 "total":711
+},
+{
+"date":"2021-11-20",
+"total":712
 }
 ],
 "package":"qorts",
@@ -472,6 +476,15 @@
 {
 "basename":"qorts-1.3.0-py27_0.tar.bz2",
 "total":333
+}
+]
+},
+{
+"date":"2021-11-20",
+"downloads_per_basename":[
+{
+"basename":"qorts-1.3.0-py36_0.tar.bz2",
+"total":211
 }
 ]
 }

@@ -690,6 +690,10 @@
 {
 "date":"2021-11-19",
 "total":2118
+},
+{
+"date":"2021-11-20",
+"total":2118
 }
 ],
 "package":"r-empiricalfdr.deseq2",
@@ -1166,6 +1170,15 @@
 "date":"2021-11-19",
 "downloads_per_basename":[
 {
+"basename":"r-empiricalfdr.deseq2-1.0.3-r351h6115d3f_3.tar.bz2",
+"total":203
+}
+]
+},
+{
+"date":"2021-11-20",
+"downloads_per_basename":[
+{
 "basename":"r-empiricalfdr.deseq2-1.0.3-r341h6115d3f_2.tar.bz2",
 "total":35
 },
@@ -1176,10 +1189,6 @@
 {
 "basename":"r-empiricalfdr.deseq2-1.0.3-r351h6115d3f_2.tar.bz2",
 "total":102
-},
-{
-"basename":"r-empiricalfdr.deseq2-1.0.3-r351h6115d3f_3.tar.bz2",
-"total":203
 }
 ]
 }

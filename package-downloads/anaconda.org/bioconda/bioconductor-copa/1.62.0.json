@@ -72,6 +72,10 @@
 {
 "date":"2021-11-19",
 "total":57
+},
+{
+"date":"2021-11-20",
+"total":62
 }
 ],
 "downloads_per_subdir":[
@@ -81,7 +85,7 @@
 },
 {
 "subdir":"osx-64",
-"total":43
+"total":48
 }
 ],
 "package":"bioconductor-copa",
@@ -273,6 +277,15 @@
 {
 "subdir":"osx-64",
 "total":43
+}
+]
+},
+{
+"date":"2021-11-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":48
 }
 ]
 }

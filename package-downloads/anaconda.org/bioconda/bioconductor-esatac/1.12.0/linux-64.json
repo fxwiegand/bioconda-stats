@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-esatac-1.12.0-r40h399db7b_1.tar.bz2",
-"total":57
+"total":58
 },
 {
 "basename":"bioconductor-esatac-1.12.0-r40h5f743cb_0.tar.bz2",
@@ -182,6 +182,10 @@
 {
 "date":"2021-11-19",
 "total":128
+},
+{
+"date":"2021-11-20",
+"total":129
 }
 ],
 "package":"bioconductor-esatac",
@@ -318,6 +322,15 @@
 {
 "basename":"bioconductor-esatac-1.12.0-r40h5f743cb_0.tar.bz2",
 "total":71
+}
+]
+},
+{
+"date":"2021-11-20",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-esatac-1.12.0-r40h399db7b_1.tar.bz2",
+"total":58
 }
 ]
 }

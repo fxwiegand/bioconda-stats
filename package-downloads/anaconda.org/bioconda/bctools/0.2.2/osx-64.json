@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bctools-0.2.2-1.tar.bz2",
-"total":71
+"total":72
 },
 {
 "basename":"bctools-0.2.2-pl5.22.0_0.tar.bz2",
@@ -674,6 +674,10 @@
 {
 "date":"2021-11-19",
 "total":2078
+},
+{
+"date":"2021-11-20",
+"total":2079
 }
 ],
 "package":"bctools",
@@ -1145,6 +1149,15 @@
 {
 "basename":"bctools-0.2.2-1.tar.bz2",
 "total":71
+}
+]
+},
+{
+"date":"2021-11-20",
+"downloads_per_basename":[
+{
+"basename":"bctools-0.2.2-1.tar.bz2",
+"total":72
 }
 ]
 }
