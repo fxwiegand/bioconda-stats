@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"genometools-genometools-1.6.0-py27h39d103b_0.tar.bz2",
-"total":105
+"total":106
 },
 {
 "basename":"genometools-genometools-1.6.0-py37h39d103b_0.tar.bz2",
@@ -254,6 +254,10 @@
 {
 "date":"2021-11-20",
 "total":320
+},
+{
+"date":"2021-11-21",
+"total":321
 }
 ],
 "package":"genometools-genometools",
@@ -440,6 +444,15 @@
 {
 "basename":"genometools-genometools-1.6.0-py36h39d103b_0.tar.bz2",
 "total":108
+}
+]
+},
+{
+"date":"2021-11-21",
+"downloads_per_basename":[
+{
+"basename":"genometools-genometools-1.6.0-py27h39d103b_0.tar.bz2",
+"total":106
 }
 ]
 }

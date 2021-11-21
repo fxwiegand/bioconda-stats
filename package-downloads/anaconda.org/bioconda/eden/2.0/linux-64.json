@@ -7,7 +7,7 @@
 },
 {
 "basename":"eden-2.0-py27_0.tar.bz2",
-"total":1404
+"total":1405
 },
 {
 "basename":"eden-2.0-py27hfd84ecd_2.tar.bz2",
@@ -702,6 +702,10 @@
 {
 "date":"2021-11-20",
 "total":3852
+},
+{
+"date":"2021-11-21",
+"total":3853
 }
 ],
 "package":"eden",
@@ -1235,6 +1239,15 @@
 {
 "basename":"eden-2.0-py27hfd84ecd_2.tar.bz2",
 "total":1884
+}
+]
+},
+{
+"date":"2021-11-21",
+"downloads_per_basename":[
+{
+"basename":"eden-2.0-py27_0.tar.bz2",
+"total":1405
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"seq2hla-2.2-py27_1.tar.bz2",
-"total":72
+"total":73
 },
 {
 "basename":"seq2hla-2.2-py27r3.3.2_0.tar.bz2",
@@ -690,6 +690,10 @@
 {
 "date":"2021-11-20",
 "total":2179
+},
+{
+"date":"2021-11-21",
+"total":2180
 }
 ],
 "package":"seq2hla",
@@ -1199,6 +1203,15 @@
 {
 "basename":"seq2hla-2.2-py27r3.4.1_0.tar.bz2",
 "total":1768
+}
+]
+},
+{
+"date":"2021-11-21",
+"downloads_per_basename":[
+{
+"basename":"seq2hla-2.2-py27_1.tar.bz2",
+"total":73
 }
 ]
 }

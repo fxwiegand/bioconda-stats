@@ -72,6 +72,10 @@
 {
 "date":"2021-11-20",
 "total":62
+},
+{
+"date":"2021-11-21",
+"total":63
 }
 ],
 "downloads_per_subdir":[
@@ -81,7 +85,7 @@
 },
 {
 "subdir":"osx-64",
-"total":40
+"total":41
 }
 ],
 "package":"bioconductor-bus",
@@ -268,6 +272,15 @@
 {
 "subdir":"osx-64",
 "total":40
+}
+]
+},
+{
+"date":"2021-11-21",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":41
 }
 ]
 }

@@ -19,7 +19,7 @@
 },
 {
 "basename":"mageck-0.5.5-py35_1.tar.bz2",
-"total":493
+"total":494
 },
 {
 "basename":"mageck-0.5.5-py34_1.tar.bz2",
@@ -238,6 +238,10 @@
 {
 "date":"2021-11-20",
 "total":3281
+},
+{
+"date":"2021-11-21",
+"total":3282
 }
 ],
 "package":"mageck",
@@ -510,6 +514,15 @@
 {
 "basename":"mageck-0.5.5-py36_1.tar.bz2",
 "total":527
+}
+]
+},
+{
+"date":"2021-11-21",
+"downloads_per_basename":[
+{
+"basename":"mageck-0.5.5-py35_1.tar.bz2",
+"total":494
 }
 ]
 }

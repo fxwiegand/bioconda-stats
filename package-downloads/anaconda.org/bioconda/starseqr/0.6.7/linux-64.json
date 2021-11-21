@@ -35,7 +35,7 @@
 },
 {
 "basename":"starseqr-0.6.7-py38hd504320_3.tar.bz2",
-"total":101
+"total":102
 },
 {
 "basename":"starseqr-0.6.7-py35h7eb728f_0.tar.bz2",
@@ -334,6 +334,10 @@
 {
 "date":"2021-11-20",
 "total":1401
+},
+{
+"date":"2021-11-21",
+"total":1402
 }
 ],
 "package":"starseqr",
@@ -817,6 +821,15 @@
 {
 "basename":"starseqr-0.6.7-py27h7eb728f_0.tar.bz2",
 "total":319
+}
+]
+},
+{
+"date":"2021-11-21",
+"downloads_per_basename":[
+{
+"basename":"starseqr-0.6.7-py38hd504320_3.tar.bz2",
+"total":102
 }
 ]
 }

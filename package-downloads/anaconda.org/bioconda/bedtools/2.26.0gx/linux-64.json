@@ -11,7 +11,7 @@
 },
 {
 "basename":"bedtools-2.26.0gx-he941832_2.tar.bz2",
-"total":524
+"total":525
 },
 {
 "basename":"bedtools-2.26.0gx-1.tar.bz2",
@@ -326,6 +326,10 @@
 {
 "date":"2021-11-20",
 "total":4536
+},
+{
+"date":"2021-11-21",
+"total":4537
 }
 ],
 "package":"bedtools",
@@ -602,6 +606,15 @@
 {
 "basename":"bedtools-2.26.0gx-0.tar.bz2",
 "total":2769
+}
+]
+},
+{
+"date":"2021-11-21",
+"downloads_per_basename":[
+{
+"basename":"bedtools-2.26.0gx-he941832_2.tar.bz2",
+"total":525
 }
 ]
 }

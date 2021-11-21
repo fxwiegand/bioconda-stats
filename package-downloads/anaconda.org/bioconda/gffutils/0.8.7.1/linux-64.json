@@ -31,7 +31,7 @@
 },
 {
 "basename":"gffutils-0.8.7.1-py36_2.tar.bz2",
-"total":944
+"total":946
 },
 {
 "basename":"gffutils-0.8.7.1-py35_1.tar.bz2",
@@ -318,6 +318,10 @@
 {
 "date":"2021-11-20",
 "total":17389
+},
+{
+"date":"2021-11-21",
+"total":17391
 }
 ],
 "package":"gffutils",
@@ -754,6 +758,15 @@
 {
 "basename":"gffutils-0.8.7.1-py27_1.tar.bz2",
 "total":6613
+}
+]
+},
+{
+"date":"2021-11-21",
+"downloads_per_basename":[
+{
+"basename":"gffutils-0.8.7.1-py36_2.tar.bz2",
+"total":946
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-ichip-1.34.0-r341h470a237_0.tar.bz2",
-"total":201
+"total":202
 },
 {
 "basename":"bioconductor-ichip-1.34.0-r351h470a237_0.tar.bz2",
@@ -178,6 +178,10 @@
 {
 "date":"2021-11-20",
 "total":538
+},
+{
+"date":"2021-11-21",
+"total":539
 }
 ],
 "package":"bioconductor-ichip",
@@ -301,6 +305,15 @@
 {
 "basename":"bioconductor-ichip-1.34.0-r351h470a237_0.tar.bz2",
 "total":337
+}
+]
+},
+{
+"date":"2021-11-21",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ichip-1.34.0-r341h470a237_0.tar.bz2",
+"total":202
 }
 ]
 }
