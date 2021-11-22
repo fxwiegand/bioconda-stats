@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-genepredcheck-377-h0b8a92a_2.tar.bz2",
-"total":308
+"total":310
 },
 {
 "basename":"ucsc-genepredcheck-377-h446ed27_1.tar.bz2",
@@ -670,6 +670,10 @@
 {
 "date":"2021-11-21",
 "total":928
+},
+{
+"date":"2021-11-22",
+"total":930
 }
 ],
 "package":"ucsc-genepredcheck",
@@ -1149,6 +1153,15 @@
 {
 "basename":"ucsc-genepredcheck-377-h0b8a92a_2.tar.bz2",
 "total":308
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_basename":[
+{
+"basename":"ucsc-genepredcheck-377-h0b8a92a_2.tar.bz2",
+"total":310
 }
 ]
 }

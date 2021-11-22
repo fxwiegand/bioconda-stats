@@ -52,6 +52,10 @@
 {
 "date":"2021-11-21",
 "total":56
+},
+{
+"date":"2021-11-22",
+"total":58
 }
 ],
 "downloads_per_subdir":[
@@ -61,7 +65,7 @@
 },
 {
 "subdir":"osx-64",
-"total":38
+"total":40
 }
 ],
 "package":"bioconductor-orfhunter",
@@ -212,6 +216,15 @@
 {
 "subdir":"osx-64",
 "total":38
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":40
 }
 ]
 }

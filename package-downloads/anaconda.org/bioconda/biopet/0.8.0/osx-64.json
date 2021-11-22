@@ -11,7 +11,7 @@
 },
 {
 "basename":"biopet-0.8.0-py35r3.3.2_0.tar.bz2",
-"total":54
+"total":55
 },
 {
 "basename":"biopet-0.8.0-py27r3.3.2_0.tar.bz2",
@@ -734,6 +734,10 @@
 {
 "date":"2021-11-21",
 "total":2650
+},
+{
+"date":"2021-11-22",
+"total":2651
 }
 ],
 "package":"biopet",
@@ -1326,6 +1330,15 @@
 {
 "basename":"biopet-0.8.0-py36r3.4.1_0.tar.bz2",
 "total":1753
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_basename":[
+{
+"basename":"biopet-0.8.0-py35r3.3.2_0.tar.bz2",
+"total":55
 }
 ]
 }

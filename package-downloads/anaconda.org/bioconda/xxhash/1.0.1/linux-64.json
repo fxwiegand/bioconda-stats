@@ -19,7 +19,7 @@
 },
 {
 "basename":"xxhash-1.0.1-py36_0.tar.bz2",
-"total":801
+"total":802
 },
 {
 "basename":"xxhash-1.0.1-py27_0.tar.bz2",
@@ -190,6 +190,10 @@
 {
 "date":"2021-11-21",
 "total":3546
+},
+{
+"date":"2021-11-22",
+"total":3547
 }
 ],
 "package":"xxhash",
@@ -430,6 +434,15 @@
 {
 "basename":"xxhash-1.0.1-py36h2d50403_1.tar.bz2",
 "total":436
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_basename":[
+{
+"basename":"xxhash-1.0.1-py36_0.tar.bz2",
+"total":802
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"genomestrip-2.00.1833-0.tar.bz2",
-"total":281
+"total":282
 },
 {
 "basename":"genomestrip-2.00.1833-1.tar.bz2",
@@ -678,6 +678,10 @@
 {
 "date":"2021-11-21",
 "total":2009
+},
+{
+"date":"2021-11-22",
+"total":2010
 }
 ],
 "package":"genomestrip",
@@ -1120,6 +1124,15 @@
 {
 "basename":"genomestrip-2.00.1833-0.tar.bz2",
 "total":281
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_basename":[
+{
+"basename":"genomestrip-2.00.1833-0.tar.bz2",
+"total":282
 }
 ]
 }

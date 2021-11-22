@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rbgl-1.64.0-r40h5f743cb_0.tar.bz2",
-"total":1025
+"total":1026
 }
 ],
 "downloads_per_date":[
@@ -390,6 +390,10 @@
 {
 "date":"2021-11-21",
 "total":1025
+},
+{
+"date":"2021-11-22",
+"total":1026
 }
 ],
 "package":"bioconductor-rbgl",
@@ -616,6 +620,15 @@
 {
 "basename":"bioconductor-rbgl-1.64.0-r40h5f743cb_0.tar.bz2",
 "total":1025
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rbgl-1.64.0-r40h5f743cb_0.tar.bz2",
+"total":1026
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-sapfinder-1.22.0-r36he1b5a44_2.tar.bz2",
-"total":128
+"total":129
 },
 {
 "basename":"bioconductor-sapfinder-1.22.0-r351hf484d3e_0.tar.bz2",
@@ -218,6 +218,10 @@
 {
 "date":"2021-11-21",
 "total":296
+},
+{
+"date":"2021-11-22",
+"total":297
 }
 ],
 "package":"bioconductor-sapfinder",
@@ -350,6 +354,15 @@
 {
 "basename":"bioconductor-sapfinder-1.22.0-r351hf484d3e_0.tar.bz2",
 "total":168
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-sapfinder-1.22.0-r36he1b5a44_2.tar.bz2",
+"total":129
 }
 ]
 }

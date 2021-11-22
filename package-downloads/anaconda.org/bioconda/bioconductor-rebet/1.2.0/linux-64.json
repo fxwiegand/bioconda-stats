@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rebet-1.2.0-r36h516909a_1.tar.bz2",
-"total":102
+"total":103
 },
 {
 "basename":"bioconductor-rebet-1.2.0-r351h14c3975_0.tar.bz2",
@@ -150,6 +150,10 @@
 {
 "date":"2021-11-21",
 "total":230
+},
+{
+"date":"2021-11-22",
+"total":231
 }
 ],
 "package":"bioconductor-rebet",
@@ -242,6 +246,15 @@
 {
 "basename":"bioconductor-rebet-1.2.0-r351h14c3975_0.tar.bz2",
 "total":128
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rebet-1.2.0-r36h516909a_1.tar.bz2",
+"total":103
 }
 ]
 }

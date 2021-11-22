@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-tscan-1.18.0-r341_0.tar.bz2",
-"total":200
+"total":201
 },
 {
 "basename":"bioconductor-tscan-1.18.0-r351_0.tar.bz2",
@@ -194,6 +194,10 @@
 {
 "date":"2021-11-21",
 "total":511
+},
+{
+"date":"2021-11-22",
+"total":512
 }
 ],
 "package":"bioconductor-tscan",
@@ -313,6 +317,15 @@
 {
 "basename":"bioconductor-tscan-1.18.0-r351_0.tar.bz2",
 "total":311
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-tscan-1.18.0-r341_0.tar.bz2",
+"total":201
 }
 ]
 }

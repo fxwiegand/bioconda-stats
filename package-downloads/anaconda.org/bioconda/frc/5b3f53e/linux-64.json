@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"frc-5b3f53e-boost1.64_0.tar.bz2",
-"total":563
+"total":564
 },
 {
 "basename":"frc-5b3f53e-boost1.61_0.tar.bz2",
@@ -250,6 +250,10 @@
 {
 "date":"2021-11-21",
 "total":1142
+},
+{
+"date":"2021-11-22",
+"total":1143
 }
 ],
 "package":"frc",
@@ -404,6 +408,15 @@
 {
 "basename":"frc-5b3f53e-boost1.61_0.tar.bz2",
 "total":579
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_basename":[
+{
+"basename":"frc-5b3f53e-boost1.64_0.tar.bz2",
+"total":564
 }
 ]
 }

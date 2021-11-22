@@ -7,7 +7,7 @@
 },
 {
 "basename":"racon-1.2.0-py35_1.tar.bz2",
-"total":188
+"total":189
 },
 {
 "basename":"racon-1.2.0-py27_1.tar.bz2",
@@ -230,6 +230,10 @@
 {
 "date":"2021-11-21",
 "total":835
+},
+{
+"date":"2021-11-22",
+"total":836
 }
 ],
 "package":"racon",
@@ -425,6 +429,15 @@
 {
 "basename":"racon-1.2.0-0.tar.bz2",
 "total":265
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_basename":[
+{
+"basename":"racon-1.2.0-py35_1.tar.bz2",
+"total":189
 }
 ]
 }

@@ -76,6 +76,10 @@
 {
 "date":"2021-11-21",
 "total":87
+},
+{
+"date":"2021-11-22",
+"total":89
 }
 ],
 "downloads_per_subdir":[
@@ -85,7 +89,7 @@
 },
 {
 "subdir":"osx-64",
-"total":56
+"total":58
 }
 ],
 "package":"bioconductor-enrichedheatmap",
@@ -306,6 +310,15 @@
 {
 "subdir":"osx-64",
 "total":56
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":58
 }
 ]
 }

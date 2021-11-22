@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"sam-3.5-1.tar.bz2",
-"total":679
+"total":680
 },
 {
 "basename":"sam-3.5-0.tar.bz2",
@@ -286,6 +286,10 @@
 {
 "date":"2021-11-21",
 "total":2236
+},
+{
+"date":"2021-11-22",
+"total":2237
 }
 ],
 "package":"sam",
@@ -463,6 +467,15 @@
 {
 "basename":"sam-3.5-0.tar.bz2",
 "total":1557
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_basename":[
+{
+"basename":"sam-3.5-1.tar.bz2",
+"total":680
 }
 ]
 }

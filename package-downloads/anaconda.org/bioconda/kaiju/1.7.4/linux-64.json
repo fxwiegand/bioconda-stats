@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"kaiju-1.7.4-h2e03b76_1.tar.bz2",
-"total":245
+"total":246
 },
 {
 "basename":"kaiju-1.7.4-h8b12597_0.tar.bz2",
@@ -446,6 +446,10 @@
 {
 "date":"2021-11-21",
 "total":636
+},
+{
+"date":"2021-11-22",
+"total":637
 }
 ],
 "package":"kaiju",
@@ -605,6 +609,15 @@
 {
 "basename":"kaiju-1.7.4-h8b12597_0.tar.bz2",
 "total":391
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_basename":[
+{
+"basename":"kaiju-1.7.4-h2e03b76_1.tar.bz2",
+"total":246
 }
 ]
 }

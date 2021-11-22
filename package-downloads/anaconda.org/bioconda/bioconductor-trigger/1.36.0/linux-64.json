@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-trigger-1.36.0-r40h037d062_0.tar.bz2",
-"total":68
+"total":69
 }
 ],
 "downloads_per_date":[
@@ -206,6 +206,10 @@
 {
 "date":"2021-11-21",
 "total":118
+},
+{
+"date":"2021-11-22",
+"total":119
 }
 ],
 "package":"bioconductor-trigger",
@@ -329,6 +333,15 @@
 {
 "basename":"bioconductor-trigger-1.36.0-r40h037d062_0.tar.bz2",
 "total":68
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-trigger-1.36.0-r40h037d062_0.tar.bz2",
+"total":69
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"toil-5.5.0-pyhdfd78af_1.tar.bz2",
-"total":40
+"total":41
 },
 {
 "basename":"toil-5.5.0-pyhdfd78af_0.tar.bz2",
@@ -190,6 +190,10 @@
 {
 "date":"2021-11-21",
 "total":83
+},
+{
+"date":"2021-11-22",
+"total":84
 }
 ],
 "package":"toil",
@@ -496,6 +500,15 @@
 {
 "basename":"toil-5.5.0-pyhdfd78af_1.tar.bz2",
 "total":40
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_basename":[
+{
+"basename":"toil-5.5.0-pyhdfd78af_1.tar.bz2",
+"total":41
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-sagx-1.54.0-r341h470a237_0.tar.bz2",
-"total":232
+"total":233
 },
 {
 "basename":"bioconductor-sagx-1.54.0-r351h470a237_0.tar.bz2",
@@ -166,6 +166,10 @@
 {
 "date":"2021-11-21",
 "total":465
+},
+{
+"date":"2021-11-22",
+"total":466
 }
 ],
 "package":"bioconductor-sagx",
@@ -275,6 +279,15 @@
 },
 {
 "basename":"bioconductor-sagx-1.54.0-r351h470a237_0.tar.bz2",
+"total":233
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-sagx-1.54.0-r341h470a237_0.tar.bz2",
 "total":233
 }
 ]

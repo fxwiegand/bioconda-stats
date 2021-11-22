@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-icare-1.12.0-r36h516909a_1.tar.bz2",
-"total":112
+"total":113
 },
 {
 "basename":"bioconductor-icare-1.12.0-r351h14c3975_0.tar.bz2",
@@ -162,6 +162,10 @@
 {
 "date":"2021-11-21",
 "total":257
+},
+{
+"date":"2021-11-22",
+"total":258
 }
 ],
 "package":"bioconductor-icare",
@@ -285,6 +289,15 @@
 {
 "basename":"bioconductor-icare-1.12.0-r351h14c3975_0.tar.bz2",
 "total":145
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-icare-1.12.0-r36h516909a_1.tar.bz2",
+"total":113
 }
 ]
 }

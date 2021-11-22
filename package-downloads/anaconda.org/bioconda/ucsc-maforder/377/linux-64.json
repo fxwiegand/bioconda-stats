@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-maforder-377-h0b8a92a_2.tar.bz2",
-"total":67
+"total":68
 },
 {
 "basename":"ucsc-maforder-377-h199ee4e_0.tar.bz2",
@@ -330,6 +330,10 @@
 {
 "date":"2021-11-21",
 "total":283
+},
+{
+"date":"2021-11-22",
+"total":284
 }
 ],
 "package":"ucsc-maforder",
@@ -582,6 +586,15 @@
 {
 "basename":"ucsc-maforder-377-h199ee4e_0.tar.bz2",
 "total":151
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_basename":[
+{
+"basename":"ucsc-maforder-377-h0b8a92a_2.tar.bz2",
+"total":68
 }
 ]
 }

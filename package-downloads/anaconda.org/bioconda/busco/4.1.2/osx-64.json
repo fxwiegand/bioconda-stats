@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"busco-4.1.2-py36heb1dbbb_2.tar.bz2",
-"total":21
+"total":22
 },
 {
 "basename":"busco-4.1.2-py37hef7ab6a_2.tar.bz2",
@@ -686,6 +686,10 @@
 {
 "date":"2021-11-21",
 "total":799
+},
+{
+"date":"2021-11-22",
+"total":800
 }
 ],
 "package":"busco",
@@ -1177,6 +1181,15 @@
 {
 "basename":"busco-4.1.2-py37hef7ab6a_2.tar.bz2",
 "total":778
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_basename":[
+{
+"basename":"busco-4.1.2-py36heb1dbbb_2.tar.bz2",
+"total":22
 }
 ]
 }

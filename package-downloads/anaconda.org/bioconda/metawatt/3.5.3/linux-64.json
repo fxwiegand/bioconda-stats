@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"metawatt-3.5.3-1.tar.bz2",
-"total":274
+"total":275
 },
 {
 "basename":"metawatt-3.5.3-boost1.61_0.tar.bz2",
@@ -694,6 +694,10 @@
 {
 "date":"2021-11-21",
 "total":3375
+},
+{
+"date":"2021-11-22",
+"total":3376
 }
 ],
 "package":"metawatt",
@@ -1247,6 +1251,15 @@
 {
 "basename":"metawatt-3.5.3-boost1.64_0.tar.bz2",
 "total":2191
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_basename":[
+{
+"basename":"metawatt-3.5.3-1.tar.bz2",
+"total":275
 }
 ]
 }

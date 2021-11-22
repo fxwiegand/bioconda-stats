@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-module-metadata-1.000019-pl5.22.0_0.tar.bz2",
-"total":579
+"total":580
 },
 {
 "basename":"perl-module-metadata-1.000019-pl526_1.tar.bz2",
@@ -170,6 +170,10 @@
 {
 "date":"2021-11-21",
 "total":1807
+},
+{
+"date":"2021-11-22",
+"total":1808
 }
 ],
 "package":"perl-module-metadata",
@@ -280,6 +284,15 @@
 {
 "basename":"perl-module-metadata-1.000019-pl526_1.tar.bz2",
 "total":1228
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_basename":[
+{
+"basename":"perl-module-metadata-1.000019-pl5.22.0_0.tar.bz2",
+"total":580
 }
 ]
 }

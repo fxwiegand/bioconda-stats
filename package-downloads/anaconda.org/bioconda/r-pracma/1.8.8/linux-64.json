@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-pracma-1.8.8-r3.3.1_1.tar.bz2",
-"total":475
+"total":476
 },
 {
 "basename":"r-pracma-1.8.8-r3.3.2_1.tar.bz2",
@@ -198,6 +198,10 @@
 {
 "date":"2021-11-21",
 "total":2665
+},
+{
+"date":"2021-11-22",
+"total":2666
 }
 ],
 "package":"r-pracma",
@@ -381,6 +385,15 @@
 {
 "basename":"r-pracma-1.8.8-r3.3.1_0.tar.bz2",
 "total":801
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_basename":[
+{
+"basename":"r-pracma-1.8.8-r3.3.1_1.tar.bz2",
+"total":476
 }
 ]
 }

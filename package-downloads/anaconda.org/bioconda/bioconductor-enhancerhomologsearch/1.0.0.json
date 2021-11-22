@@ -76,6 +76,10 @@
 {
 "date":"2021-11-21",
 "total":69
+},
+{
+"date":"2021-11-22",
+"total":70
 }
 ],
 "downloads_per_subdir":[
@@ -85,7 +89,7 @@
 },
 {
 "subdir":"osx-64",
-"total":51
+"total":52
 }
 ],
 "package":"bioconductor-enhancerhomologsearch",
@@ -290,6 +294,15 @@
 {
 "subdir":"osx-64",
 "total":51
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":52
 }
 ]
 }

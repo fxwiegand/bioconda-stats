@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-ogsa-1.6.0-r3.3.2_0.tar.bz2",
-"total":466
+"total":467
 },
 {
 "basename":"bioconductor-ogsa-1.6.0-r3.4.1_0.tar.bz2",
@@ -162,6 +162,10 @@
 {
 "date":"2021-11-21",
 "total":1094
+},
+{
+"date":"2021-11-22",
+"total":1095
 }
 ],
 "package":"bioconductor-ogsa",
@@ -280,6 +284,15 @@
 {
 "basename":"bioconductor-ogsa-1.6.0-r3.4.1_0.tar.bz2",
 "total":628
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ogsa-1.6.0-r3.3.2_0.tar.bz2",
+"total":467
 }
 ]
 }

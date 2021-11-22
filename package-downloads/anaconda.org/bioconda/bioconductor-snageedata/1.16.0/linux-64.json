@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-snageedata-1.16.0-r341_0.tar.bz2",
-"total":137
+"total":138
 },
 {
 "basename":"bioconductor-snageedata-1.16.0-r351_0.tar.bz2",
@@ -142,6 +142,10 @@
 {
 "date":"2021-11-21",
 "total":399
+},
+{
+"date":"2021-11-22",
+"total":400
 }
 ],
 "package":"bioconductor-snageedata",
@@ -253,6 +257,15 @@
 {
 "basename":"bioconductor-snageedata-1.16.0-r351_0.tar.bz2",
 "total":262
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-snageedata-1.16.0-r341_0.tar.bz2",
+"total":138
 }
 ]
 }

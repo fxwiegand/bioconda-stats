@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-nabor-0.5.0-r351_1.tar.bz2",
-"total":513
+"total":514
 },
 {
 "basename":"r-nabor-0.5.0-r36_2.tar.bz2",
@@ -690,6 +690,10 @@
 {
 "date":"2021-11-21",
 "total":2251
+},
+{
+"date":"2021-11-22",
+"total":2252
 }
 ],
 "package":"r-nabor",
@@ -1139,6 +1143,15 @@
 "date":"2021-11-21",
 "downloads_per_basename":[
 {
+"basename":"r-nabor-0.5.0-r351_1.tar.bz2",
+"total":513
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_basename":[
+{
 "basename":"r-nabor-0.5.0-r341_0.tar.bz2",
 "total":43
 },
@@ -1148,7 +1161,7 @@
 },
 {
 "basename":"r-nabor-0.5.0-r351_1.tar.bz2",
-"total":513
+"total":514
 }
 ]
 }

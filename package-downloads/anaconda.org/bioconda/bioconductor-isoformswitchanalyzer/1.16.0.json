@@ -64,6 +64,10 @@
 {
 "date":"2021-11-21",
 "total":60
+},
+{
+"date":"2021-11-22",
+"total":62
 }
 ],
 "downloads_per_subdir":[
@@ -73,7 +77,7 @@
 },
 {
 "subdir":"osx-64",
-"total":35
+"total":37
 }
 ],
 "package":"bioconductor-isoformswitchanalyzer",
@@ -242,6 +246,15 @@
 {
 "subdir":"osx-64",
 "total":35
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":37
 }
 ]
 }

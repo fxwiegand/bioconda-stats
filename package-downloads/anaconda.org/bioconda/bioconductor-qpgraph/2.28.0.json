@@ -68,6 +68,10 @@
 {
 "date":"2021-11-21",
 "total":67
+},
+{
+"date":"2021-11-22",
+"total":69
 }
 ],
 "downloads_per_subdir":[
@@ -77,7 +81,7 @@
 },
 {
 "subdir":"osx-64",
-"total":47
+"total":49
 }
 ],
 "package":"bioconductor-qpgraph",
@@ -243,6 +247,15 @@
 {
 "subdir":"osx-64",
 "total":47
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":49
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"ngs-bits-2018_04-py27_0.tar.bz2",
-"total":223
+"total":224
 },
 {
 "basename":"ngs-bits-2018_04-py36_0.tar.bz2",
@@ -270,6 +270,10 @@
 {
 "date":"2021-11-21",
 "total":798
+},
+{
+"date":"2021-11-22",
+"total":799
 }
 ],
 "package":"ngs-bits",
@@ -469,6 +473,15 @@
 {
 "basename":"ngs-bits-2018_04-py36_0.tar.bz2",
 "total":365
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_basename":[
+{
+"basename":"ngs-bits-2018_04-py27_0.tar.bz2",
+"total":224
 }
 ]
 }

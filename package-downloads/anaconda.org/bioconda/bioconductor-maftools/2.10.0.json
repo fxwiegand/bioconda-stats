@@ -76,6 +76,10 @@
 {
 "date":"2021-11-21",
 "total":117
+},
+{
+"date":"2021-11-22",
+"total":119
 }
 ],
 "downloads_per_subdir":[
@@ -85,7 +89,7 @@
 },
 {
 "subdir":"osx-64",
-"total":65
+"total":67
 }
 ],
 "package":"bioconductor-maftools",
@@ -326,6 +330,15 @@
 {
 "subdir":"osx-64",
 "total":65
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":67
 }
 ]
 }

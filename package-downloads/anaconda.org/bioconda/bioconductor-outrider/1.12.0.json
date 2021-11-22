@@ -64,6 +64,10 @@
 {
 "date":"2021-11-21",
 "total":66
+},
+{
+"date":"2021-11-22",
+"total":68
 }
 ],
 "downloads_per_subdir":[
@@ -73,7 +77,7 @@
 },
 {
 "subdir":"osx-64",
-"total":36
+"total":38
 }
 ],
 "package":"bioconductor-outrider",
@@ -250,6 +254,15 @@
 {
 "subdir":"osx-64",
 "total":36
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":38
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-gewist-1.24.0-r351_0.tar.bz2",
-"total":244
+"total":245
 },
 {
 "basename":"bioconductor-gewist-1.24.0-r341_0.tar.bz2",
@@ -166,6 +166,10 @@
 {
 "date":"2021-11-21",
 "total":499
+},
+{
+"date":"2021-11-22",
+"total":500
 }
 ],
 "package":"bioconductor-gewist",
@@ -290,6 +294,15 @@
 {
 "basename":"bioconductor-gewist-1.24.0-r341_0.tar.bz2",
 "total":255
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-gewist-1.24.0-r351_0.tar.bz2",
+"total":245
 }
 ]
 }

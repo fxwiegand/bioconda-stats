@@ -248,6 +248,10 @@
 {
 "date":"2021-11-21",
 "total":262
+},
+{
+"date":"2021-11-22",
+"total":264
 }
 ],
 "downloads_per_subdir":[
@@ -257,7 +261,7 @@
 },
 {
 "subdir":"osx-64",
-"total":160
+"total":162
 }
 ],
 "package":"pyrodigal",
@@ -858,6 +862,15 @@
 {
 "subdir":"osx-64",
 "total":160
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":162
 }
 ]
 }

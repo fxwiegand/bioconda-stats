@@ -76,6 +76,10 @@
 {
 "date":"2021-11-21",
 "total":59
+},
+{
+"date":"2021-11-22",
+"total":61
 }
 ],
 "downloads_per_subdir":[
@@ -85,7 +89,7 @@
 },
 {
 "subdir":"osx-64",
-"total":39
+"total":41
 }
 ],
 "package":"bioconductor-icare",
@@ -285,6 +289,15 @@
 {
 "subdir":"osx-64",
 "total":39
+}
+]
+},
+{
+"date":"2021-11-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":41
 }
 ]
 }
