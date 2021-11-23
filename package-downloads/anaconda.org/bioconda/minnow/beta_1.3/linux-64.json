@@ -7,7 +7,7 @@
 },
 {
 "basename":"minnow-beta_1.3-h26ad11d_1.tar.bz2",
-"total":64
+"total":65
 },
 {
 "basename":"minnow-beta_1.3-h86b0361_0.tar.bz2",
@@ -222,6 +222,10 @@
 {
 "date":"2021-11-22",
 "total":276
+},
+{
+"date":"2021-11-23",
+"total":277
 }
 ],
 "package":"minnow",
@@ -395,6 +399,15 @@
 {
 "basename":"minnow-beta_1.3-h86b0361_0.tar.bz2",
 "total":170
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_basename":[
+{
+"basename":"minnow-beta_1.3-h26ad11d_1.tar.bz2",
+"total":65
 }
 ]
 }

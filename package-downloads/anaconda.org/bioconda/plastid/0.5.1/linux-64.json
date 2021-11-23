@@ -27,7 +27,7 @@
 },
 {
 "basename":"plastid-0.5.1-py39hd1f1204_3.tar.bz2",
-"total":64
+"total":65
 },
 {
 "basename":"plastid-0.5.1-py27h53fee03_2.tar.bz2",
@@ -542,6 +542,10 @@
 {
 "date":"2021-11-22",
 "total":1024
+},
+{
+"date":"2021-11-23",
+"total":1025
 }
 ],
 "package":"plastid",
@@ -1262,6 +1266,15 @@
 {
 "basename":"plastid-0.5.1-py38h197edbe_1.tar.bz2",
 "total":105
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_basename":[
+{
+"basename":"plastid-0.5.1-py39hd1f1204_3.tar.bz2",
+"total":65
 }
 ]
 }

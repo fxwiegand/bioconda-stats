@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-string-util-1.26-pl526_1.tar.bz2",
-"total":424
+"total":425
 },
 {
 "basename":"perl-string-util-1.26-pl5.22.0_0.tar.bz2",
@@ -282,6 +282,10 @@
 {
 "date":"2021-11-22",
 "total":1114
+},
+{
+"date":"2021-11-23",
+"total":1115
 }
 ],
 "package":"perl-string-util",
@@ -476,6 +480,15 @@
 {
 "basename":"perl-string-util-1.26-pl526_1.tar.bz2",
 "total":424
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_basename":[
+{
+"basename":"perl-string-util-1.26-pl526_1.tar.bz2",
+"total":425
 }
 ]
 }

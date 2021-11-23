@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-varianttools-1.22.0-r341_0.tar.bz2",
-"total":231
+"total":232
 },
 {
 "basename":"bioconductor-varianttools-1.22.0-r351_0.tar.bz2",
@@ -186,6 +186,10 @@
 {
 "date":"2021-11-22",
 "total":500
+},
+{
+"date":"2021-11-23",
+"total":501
 }
 ],
 "package":"bioconductor-varianttools",
@@ -300,6 +304,15 @@
 {
 "basename":"bioconductor-varianttools-1.22.0-r351_0.tar.bz2",
 "total":269
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-varianttools-1.22.0-r341_0.tar.bz2",
+"total":232
 }
 ]
 }

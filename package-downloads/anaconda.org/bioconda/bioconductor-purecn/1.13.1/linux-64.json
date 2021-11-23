@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-purecn-1.13.1-r351_2.tar.bz2",
-"total":303
+"total":304
 },
 {
 "basename":"bioconductor-purecn-1.13.1-r341_2.tar.bz2",
@@ -182,6 +182,10 @@
 {
 "date":"2021-11-22",
 "total":1133
+},
+{
+"date":"2021-11-23",
+"total":1134
 }
 ],
 "package":"bioconductor-purecn",
@@ -305,6 +309,15 @@
 {
 "basename":"bioconductor-purecn-1.13.1-r341_2.tar.bz2",
 "total":830
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-purecn-1.13.1-r351_2.tar.bz2",
+"total":304
 }
 ]
 }

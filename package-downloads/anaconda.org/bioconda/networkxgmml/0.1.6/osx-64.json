@@ -694,6 +694,10 @@
 {
 "date":"2021-11-22",
 "total":2115
+},
+{
+"date":"2021-11-23",
+"total":2115
 }
 ],
 "package":"networkxgmml",
@@ -1170,6 +1174,15 @@
 "date":"2021-11-22",
 "downloads_per_basename":[
 {
+"basename":"networkxgmml-0.1.6-py36_1.tar.bz2",
+"total":1768
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_basename":[
+{
 "basename":"networkxgmml-0.1.6-py35_1.tar.bz2",
 "total":37
 },
@@ -1180,10 +1193,6 @@
 {
 "basename":"networkxgmml-0.1.6-py34_1.tar.bz2",
 "total":271
-},
-{
-"basename":"networkxgmml-0.1.6-py36_1.tar.bz2",
-"total":1768
 }
 ]
 }

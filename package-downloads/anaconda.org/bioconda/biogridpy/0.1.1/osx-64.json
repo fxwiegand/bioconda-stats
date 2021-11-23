@@ -710,6 +710,10 @@
 {
 "date":"2021-11-22",
 "total":2222
+},
+{
+"date":"2021-11-23",
+"total":2222
 }
 ],
 "package":"biogridpy",
@@ -1211,6 +1215,15 @@
 "date":"2021-11-22",
 "downloads_per_basename":[
 {
+"basename":"biogridpy-0.1.1-py36_1.tar.bz2",
+"total":1737
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_basename":[
+{
 "basename":"biogridpy-0.1.1-py34_0.tar.bz2",
 "total":48
 },
@@ -1221,10 +1234,6 @@
 {
 "basename":"biogridpy-0.1.1-py35_0.tar.bz2",
 "total":202
-},
-{
-"basename":"biogridpy-0.1.1-py36_1.tar.bz2",
-"total":1737
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"jalview-2.10.3-0.tar.bz2",
-"total":512
+"total":513
 },
 {
 "basename":"jalview-2.10.3-1.tar.bz2",
@@ -362,6 +362,10 @@
 {
 "date":"2021-11-22",
 "total":1472
+},
+{
+"date":"2021-11-23",
+"total":1473
 }
 ],
 "package":"jalview",
@@ -584,6 +588,15 @@
 {
 "basename":"jalview-2.10.3-1.tar.bz2",
 "total":960
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_basename":[
+{
+"basename":"jalview-2.10.3-0.tar.bz2",
+"total":513
 }
 ]
 }

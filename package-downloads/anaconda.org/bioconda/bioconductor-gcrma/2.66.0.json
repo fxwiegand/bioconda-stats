@@ -76,6 +76,10 @@
 {
 "date":"2021-11-22",
 "total":85
+},
+{
+"date":"2021-11-23",
+"total":86
 }
 ],
 "downloads_per_subdir":[
@@ -85,7 +89,7 @@
 },
 {
 "subdir":"osx-64",
-"total":45
+"total":46
 }
 ],
 "package":"bioconductor-gcrma",
@@ -280,6 +284,15 @@
 {
 "subdir":"osx-64",
 "total":45
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":46
 }
 ]
 }

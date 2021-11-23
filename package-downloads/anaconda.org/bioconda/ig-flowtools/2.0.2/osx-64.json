@@ -746,6 +746,10 @@
 {
 "date":"2021-11-22",
 "total":2453
+},
+{
+"date":"2021-11-23",
+"total":2453
 }
 ],
 "package":"ig-flowtools",
@@ -1300,6 +1304,15 @@
 "date":"2021-11-22",
 "downloads_per_basename":[
 {
+"basename":"ig-flowtools-2.0.2-py27r3.3.2_0.tar.bz2",
+"total":42
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_basename":[
+{
 "basename":"ig-flowtools-2.0.2-py35r341h24bf2e0_2.tar.bz2",
 "total":39
 },
@@ -1314,10 +1327,6 @@
 {
 "basename":"ig-flowtools-2.0.2-py27r341h24bf2e0_1.tar.bz2",
 "total":41
-},
-{
-"basename":"ig-flowtools-2.0.2-py27r3.3.2_0.tar.bz2",
-"total":42
 },
 {
 "basename":"ig-flowtools-2.0.2-py35r3.3.2_0.tar.bz2",

@@ -11,7 +11,7 @@
 },
 {
 "basename":"fseq-1.84-py35pl5.22.0_0.tar.bz2",
-"total":277
+"total":278
 }
 ],
 "downloads_per_date":[
@@ -198,6 +198,10 @@
 {
 "date":"2021-11-22",
 "total":759
+},
+{
+"date":"2021-11-23",
+"total":760
 }
 ],
 "package":"fseq",
@@ -359,6 +363,15 @@
 {
 "basename":"fseq-1.84-py27pl5.22.0_0.tar.bz2",
 "total":241
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_basename":[
+{
+"basename":"fseq-1.84-py35pl5.22.0_0.tar.bz2",
+"total":278
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"intermine-1.10.0-py27_0.tar.bz2",
-"total":217
+"total":218
 },
 {
 "basename":"intermine-1.10.0-py36_0.tar.bz2",
@@ -686,6 +686,10 @@
 {
 "date":"2021-11-22",
 "total":2117
+},
+{
+"date":"2021-11-23",
+"total":2118
 }
 ],
 "package":"intermine",
@@ -1166,6 +1170,15 @@
 {
 "basename":"intermine-1.10.0-py36_0.tar.bz2",
 "total":1844
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_basename":[
+{
+"basename":"intermine-1.10.0-py27_0.tar.bz2",
+"total":218
 }
 ]
 }

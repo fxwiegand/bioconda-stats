@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-fishpond-1.6.0-r40h399db7b_1.tar.bz2",
-"total":109
+"total":110
 },
 {
 "basename":"bioconductor-fishpond-1.6.0-r40h5f743cb_0.tar.bz2",
@@ -306,6 +306,10 @@
 {
 "date":"2021-11-22",
 "total":324
+},
+{
+"date":"2021-11-23",
+"total":325
 }
 ],
 "package":"bioconductor-fishpond",
@@ -528,6 +532,15 @@
 {
 "basename":"bioconductor-fishpond-1.6.0-r40h5f743cb_0.tar.bz2",
 "total":215
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-fishpond-1.6.0-r40h399db7b_1.tar.bz2",
+"total":110
 }
 ]
 }

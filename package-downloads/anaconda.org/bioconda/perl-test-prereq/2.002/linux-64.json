@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-prereq-2.002-pl526_3.tar.bz2",
-"total":231
+"total":232
 },
 {
 "basename":"perl-test-prereq-2.002-0.tar.bz2",
@@ -138,6 +138,10 @@
 {
 "date":"2021-11-22",
 "total":531
+},
+{
+"date":"2021-11-23",
+"total":532
 }
 ],
 "package":"perl-test-prereq",
@@ -253,6 +257,15 @@
 {
 "basename":"perl-test-prereq-2.002-0.tar.bz2",
 "total":300
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_basename":[
+{
+"basename":"perl-test-prereq-2.002-pl526_3.tar.bz2",
+"total":232
 }
 ]
 }

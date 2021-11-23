@@ -64,6 +64,10 @@
 {
 "date":"2021-11-22",
 "total":69
+},
+{
+"date":"2021-11-23",
+"total":71
 }
 ],
 "downloads_per_subdir":[
@@ -73,7 +77,7 @@
 },
 {
 "subdir":"osx-64",
-"total":47
+"total":49
 }
 ],
 "package":"bioconductor-esatac",
@@ -251,6 +255,15 @@
 {
 "subdir":"osx-64",
 "total":47
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":49
 }
 ]
 }

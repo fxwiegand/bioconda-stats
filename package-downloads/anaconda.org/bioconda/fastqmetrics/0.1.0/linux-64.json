@@ -11,7 +11,7 @@
 },
 {
 "basename":"fastqmetrics-0.1.0-py35_0.tar.bz2",
-"total":417
+"total":418
 },
 {
 "basename":"fastqmetrics-0.1.0-py36_0.tar.bz2",
@@ -226,6 +226,10 @@
 {
 "date":"2021-11-22",
 "total":1337
+},
+{
+"date":"2021-11-23",
+"total":1338
 }
 ],
 "package":"fastqmetrics",
@@ -429,6 +433,15 @@
 {
 "basename":"fastqmetrics-0.1.0-py36_0.tar.bz2",
 "total":467
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_basename":[
+{
+"basename":"fastqmetrics-0.1.0-py35_0.tar.bz2",
+"total":418
 }
 ]
 }

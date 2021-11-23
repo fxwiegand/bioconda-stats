@@ -7,7 +7,7 @@
 },
 {
 "basename":"fusepy-2.0.4-py36_0.tar.bz2",
-"total":620
+"total":621
 },
 {
 "basename":"fusepy-2.0.4-py27_0.tar.bz2",
@@ -162,6 +162,10 @@
 {
 "date":"2021-11-22",
 "total":2977
+},
+{
+"date":"2021-11-23",
+"total":2978
 }
 ],
 "package":"fusepy",
@@ -282,6 +286,15 @@
 {
 "basename":"fusepy-2.0.4-py27_0.tar.bz2",
 "total":1926
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_basename":[
+{
+"basename":"fusepy-2.0.4-py36_0.tar.bz2",
+"total":621
 }
 ]
 }

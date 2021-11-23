@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"flowcraft-1.2.2-py36_1.tar.bz2",
-"total":168
+"total":169
 },
 {
 "basename":"flowcraft-1.2.2-py35_1.tar.bz2",
@@ -150,6 +150,10 @@
 {
 "date":"2021-11-22",
 "total":427
+},
+{
+"date":"2021-11-23",
+"total":428
 }
 ],
 "package":"flowcraft",
@@ -251,6 +255,15 @@
 {
 "basename":"flowcraft-1.2.2-py35_1.tar.bz2",
 "total":259
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_basename":[
+{
+"basename":"flowcraft-1.2.2-py36_1.tar.bz2",
+"total":169
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"ddrage-1.6.3-py36h24bf2e0_0.tar.bz2",
-"total":1958
+"total":1959
 }
 ],
 "downloads_per_date":[
@@ -682,6 +682,10 @@
 {
 "date":"2021-11-22",
 "total":2021
+},
+{
+"date":"2021-11-23",
+"total":2022
 }
 ],
 "package":"ddrage",
@@ -1155,11 +1159,15 @@
 ]
 },
 {
-"date":"2021-11-22",
+"date":"2021-11-23",
 "downloads_per_basename":[
 {
 "basename":"ddrage-1.6.3-py35h24bf2e0_0.tar.bz2",
 "total":63
+},
+{
+"basename":"ddrage-1.6.3-py36h24bf2e0_0.tar.bz2",
+"total":1959
 }
 ]
 }

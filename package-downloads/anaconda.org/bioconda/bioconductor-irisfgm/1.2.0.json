@@ -64,6 +64,10 @@
 {
 "date":"2021-11-22",
 "total":64
+},
+{
+"date":"2021-11-23",
+"total":65
 }
 ],
 "downloads_per_subdir":[
@@ -73,7 +77,7 @@
 },
 {
 "subdir":"osx-64",
-"total":45
+"total":46
 }
 ],
 "package":"bioconductor-irisfgm",
@@ -250,6 +254,15 @@
 {
 "subdir":"osx-64",
 "total":45
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":46
 }
 ]
 }

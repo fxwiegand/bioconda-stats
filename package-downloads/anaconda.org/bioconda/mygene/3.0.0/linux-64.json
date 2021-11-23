@@ -11,7 +11,7 @@
 },
 {
 "basename":"mygene-3.0.0-py35_0.tar.bz2",
-"total":1137
+"total":1138
 },
 {
 "basename":"mygene-3.0.0-py36_0.tar.bz2",
@@ -206,6 +206,10 @@
 {
 "date":"2021-11-22",
 "total":4598
+},
+{
+"date":"2021-11-23",
+"total":4599
 }
 ],
 "package":"mygene",
@@ -391,6 +395,15 @@
 {
 "basename":"mygene-3.0.0-py36_0.tar.bz2",
 "total":2031
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_basename":[
+{
+"basename":"mygene-3.0.0-py35_0.tar.bz2",
+"total":1138
 }
 ]
 }

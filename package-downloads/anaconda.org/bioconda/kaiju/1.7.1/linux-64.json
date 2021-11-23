@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"kaiju-1.7.1-hdbcaa40_0.tar.bz2",
-"total":160
+"total":161
 }
 ],
 "downloads_per_date":[
@@ -150,6 +150,10 @@
 {
 "date":"2021-11-22",
 "total":160
+},
+{
+"date":"2021-11-23",
+"total":161
 }
 ],
 "package":"kaiju",
@@ -223,6 +227,15 @@
 {
 "basename":"kaiju-1.7.1-hdbcaa40_0.tar.bz2",
 "total":160
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_basename":[
+{
+"basename":"kaiju-1.7.1-hdbcaa40_0.tar.bz2",
+"total":161
 }
 ]
 }

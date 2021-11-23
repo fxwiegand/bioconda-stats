@@ -7,7 +7,7 @@
 },
 {
 "basename":"metaquant-0.1.2-py36_0.tar.bz2",
-"total":1983
+"total":1984
 }
 ],
 "downloads_per_date":[
@@ -682,6 +682,10 @@
 {
 "date":"2021-11-22",
 "total":2020
+},
+{
+"date":"2021-11-23",
+"total":2021
 }
 ],
 "package":"metaquant",
@@ -1146,11 +1150,15 @@
 ]
 },
 {
-"date":"2021-11-22",
+"date":"2021-11-23",
 "downloads_per_basename":[
 {
 "basename":"metaquant-0.1.2-py35_0.tar.bz2",
 "total":37
+},
+{
+"basename":"metaquant-0.1.2-py36_0.tar.bz2",
+"total":1984
 }
 ]
 }

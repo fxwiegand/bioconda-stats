@@ -694,6 +694,10 @@
 {
 "date":"2021-11-22",
 "total":2113
+},
+{
+"date":"2021-11-23",
+"total":2113
 }
 ],
 "package":"xtail",
@@ -1134,6 +1138,15 @@
 "date":"2021-11-22",
 "downloads_per_basename":[
 {
+"basename":"xtail-1.1.5-r351_2.tar.bz2",
+"total":1732
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_basename":[
+{
 "basename":"xtail-1.1.5-r3.4.1_0.tar.bz2",
 "total":48
 },
@@ -1144,10 +1157,6 @@
 {
 "basename":"xtail-1.1.5-r351_1.tar.bz2",
 "total":206
-},
-{
-"basename":"xtail-1.1.5-r351_2.tar.bz2",
-"total":1732
 }
 ]
 }

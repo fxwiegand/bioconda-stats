@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"galaxy-lib-16.4.0-py27_1.tar.bz2",
-"total":322
+"total":323
 },
 {
 "basename":"galaxy-lib-16.4.0-py27_0.tar.bz2",
@@ -150,6 +150,10 @@
 {
 "date":"2021-11-22",
 "total":952
+},
+{
+"date":"2021-11-23",
+"total":953
 }
 ],
 "package":"galaxy-lib",
@@ -242,6 +246,15 @@
 {
 "basename":"galaxy-lib-16.4.0-py27_0.tar.bz2",
 "total":630
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_basename":[
+{
+"basename":"galaxy-lib-16.4.0-py27_1.tar.bz2",
+"total":323
 }
 ]
 }

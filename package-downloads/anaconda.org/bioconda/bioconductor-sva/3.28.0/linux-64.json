@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-sva-3.28.0-r341h470a237_0.tar.bz2",
-"total":632
+"total":633
 },
 {
 "basename":"bioconductor-sva-3.28.0-r351h470a237_0.tar.bz2",
@@ -206,6 +206,10 @@
 {
 "date":"2021-11-22",
 "total":1290
+},
+{
+"date":"2021-11-23",
+"total":1291
 }
 ],
 "package":"bioconductor-sva",
@@ -325,6 +329,15 @@
 {
 "basename":"bioconductor-sva-3.28.0-r351h470a237_0.tar.bz2",
 "total":658
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-sva-3.28.0-r341h470a237_0.tar.bz2",
+"total":633
 }
 ]
 }

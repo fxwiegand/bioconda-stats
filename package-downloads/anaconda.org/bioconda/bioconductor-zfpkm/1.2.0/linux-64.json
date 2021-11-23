@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-zfpkm-1.2.0-r341_0.tar.bz2",
-"total":169
+"total":170
 },
 {
 "basename":"bioconductor-zfpkm-1.2.0-r351_0.tar.bz2",
@@ -182,6 +182,10 @@
 {
 "date":"2021-11-22",
 "total":463
+},
+{
+"date":"2021-11-23",
+"total":464
 }
 ],
 "package":"bioconductor-zfpkm",
@@ -301,6 +305,15 @@
 {
 "basename":"bioconductor-zfpkm-1.2.0-r351_0.tar.bz2",
 "total":294
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-zfpkm-1.2.0-r341_0.tar.bz2",
+"total":170
 }
 ]
 }

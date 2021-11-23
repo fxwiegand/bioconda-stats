@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-swimr-1.18.0-r341_0.tar.bz2",
-"total":179
+"total":180
 },
 {
 "basename":"bioconductor-swimr-1.18.0-r351_0.tar.bz2",
@@ -166,6 +166,10 @@
 {
 "date":"2021-11-22",
 "total":473
+},
+{
+"date":"2021-11-23",
+"total":474
 }
 ],
 "package":"bioconductor-swimr",
@@ -276,6 +280,15 @@
 {
 "basename":"bioconductor-swimr-1.18.0-r351_0.tar.bz2",
 "total":294
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-swimr-1.18.0-r341_0.tar.bz2",
+"total":180
 }
 ]
 }

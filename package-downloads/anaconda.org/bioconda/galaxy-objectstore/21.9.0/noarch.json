@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"galaxy-objectstore-21.9.0-pyhdfd78af_0.tar.bz2",
-"total":40
+"total":42
 }
 ],
 "downloads_per_date":[
@@ -70,6 +70,10 @@
 {
 "date":"2021-11-22",
 "total":40
+},
+{
+"date":"2021-11-23",
+"total":42
 }
 ],
 "package":"galaxy-objectstore",
@@ -197,6 +201,15 @@
 {
 "basename":"galaxy-objectstore-21.9.0-pyhdfd78af_0.tar.bz2",
 "total":40
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_basename":[
+{
+"basename":"galaxy-objectstore-21.9.0-pyhdfd78af_0.tar.bz2",
+"total":42
 }
 ]
 }

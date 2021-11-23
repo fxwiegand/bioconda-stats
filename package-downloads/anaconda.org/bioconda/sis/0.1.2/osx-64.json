@@ -686,6 +686,10 @@
 {
 "date":"2021-11-22",
 "total":2085
+},
+{
+"date":"2021-11-23",
+"total":2085
 }
 ],
 "package":"sis",
@@ -1164,7 +1168,12 @@
 {
 "basename":"sis-0.1.2-py35pl526_2.tar.bz2",
 "total":35
+}
+]
 },
+{
+"date":"2021-11-23",
+"downloads_per_basename":[
 {
 "basename":"sis-0.1.2-py35pl5.22.0_1.tar.bz2",
 "total":36

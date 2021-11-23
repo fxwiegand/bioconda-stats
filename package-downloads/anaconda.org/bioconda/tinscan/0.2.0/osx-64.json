@@ -686,6 +686,10 @@
 {
 "date":"2021-11-22",
 "total":2041
+},
+{
+"date":"2021-11-23",
+"total":2041
 }
 ],
 "package":"tinscan",
@@ -1135,6 +1139,15 @@
 "date":"2021-11-22",
 "downloads_per_basename":[
 {
+"basename":"tinscan-0.2.0-py36_1.tar.bz2",
+"total":1714
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_basename":[
+{
 "basename":"tinscan-0.2.0-py36_0.tar.bz2",
 "total":28
 },
@@ -1145,10 +1158,6 @@
 {
 "basename":"tinscan-0.2.0-py35_0.tar.bz2",
 "total":267
-},
-{
-"basename":"tinscan-0.2.0-py36_1.tar.bz2",
-"total":1714
 }
 ]
 }

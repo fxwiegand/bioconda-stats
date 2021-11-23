@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-safe-2.37-pl526_1.tar.bz2",
-"total":202
+"total":203
 },
 {
 "basename":"perl-safe-2.37-pl5.22.0_0.tar.bz2",
@@ -190,6 +190,10 @@
 {
 "date":"2021-11-22",
 "total":887
+},
+{
+"date":"2021-11-23",
+"total":888
 }
 ],
 "package":"perl-safe",
@@ -342,6 +346,15 @@
 {
 "basename":"perl-safe-2.37-pl5.22.0_0.tar.bz2",
 "total":685
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_basename":[
+{
+"basename":"perl-safe-2.37-pl526_1.tar.bz2",
+"total":203
 }
 ]
 }

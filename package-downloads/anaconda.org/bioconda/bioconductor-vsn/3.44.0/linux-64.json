@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-vsn-3.44.0-r3.4.1_0.tar.bz2",
-"total":798
+"total":799
 }
 ],
 "downloads_per_date":[
@@ -162,6 +162,10 @@
 {
 "date":"2021-11-22",
 "total":798
+},
+{
+"date":"2021-11-23",
+"total":799
 }
 ],
 "package":"bioconductor-vsn",
@@ -235,6 +239,15 @@
 {
 "basename":"bioconductor-vsn-3.44.0-r3.4.1_0.tar.bz2",
 "total":798
+}
+]
+},
+{
+"date":"2021-11-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-vsn-3.44.0-r3.4.1_0.tar.bz2",
+"total":799
 }
 ]
 }
