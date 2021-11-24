@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-fasomerecords-357-1.tar.bz2",
-"total":664
+"total":665
 }
 ],
 "downloads_per_date":[
@@ -338,6 +338,10 @@
 {
 "date":"2021-11-23",
 "total":1259
+},
+{
+"date":"2021-11-24",
+"total":1260
 }
 ],
 "package":"ucsc-fasomerecords",
@@ -534,6 +538,15 @@
 {
 "basename":"ucsc-fasomerecords-357-0.tar.bz2",
 "total":595
+}
+]
+},
+{
+"date":"2021-11-24",
+"downloads_per_basename":[
+{
+"basename":"ucsc-fasomerecords-357-1.tar.bz2",
+"total":665
 }
 ]
 }

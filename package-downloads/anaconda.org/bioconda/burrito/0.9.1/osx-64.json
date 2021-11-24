@@ -51,7 +51,7 @@
 },
 {
 "basename":"burrito-0.9.1-py27_0.tar.bz2",
-"total":3679
+"total":3680
 }
 ],
 "downloads_per_date":[
@@ -754,6 +754,10 @@
 {
 "date":"2021-11-23",
 "total":7407
+},
+{
+"date":"2021-11-24",
+"total":7408
 }
 ],
 "package":"burrito",
@@ -1381,11 +1385,15 @@
 ]
 },
 {
-"date":"2021-11-23",
+"date":"2021-11-24",
 "downloads_per_basename":[
 {
 "basename":"burrito-0.9.1-py36r3.3.1_1.tar.bz2",
 "total":49
+},
+{
+"basename":"burrito-0.9.1-py27_0.tar.bz2",
+"total":3680
 }
 ]
 }

@@ -15,7 +15,7 @@
 },
 {
 "basename":"deeptools-2.4.1-py35_1.tar.bz2",
-"total":479
+"total":480
 },
 {
 "basename":"deeptools-2.4.1-py35_0.tar.bz2",
@@ -242,6 +242,10 @@
 {
 "date":"2021-11-23",
 "total":3470
+},
+{
+"date":"2021-11-24",
+"total":3471
 }
 ],
 "package":"deeptools",
@@ -561,6 +565,15 @@
 {
 "basename":"deeptools-2.4.1-py27_0.tar.bz2",
 "total":552
+}
+]
+},
+{
+"date":"2021-11-24",
+"downloads_per_basename":[
+{
+"basename":"deeptools-2.4.1-py35_1.tar.bz2",
+"total":480
 }
 ]
 }

@@ -31,7 +31,7 @@
 },
 {
 "basename":"maker-2.31.10-pl526_7.tar.bz2",
-"total":296
+"total":297
 },
 {
 "basename":"maker-2.31.10-pl526_9.tar.bz2",
@@ -718,6 +718,10 @@
 {
 "date":"2021-11-23",
 "total":2511
+},
+{
+"date":"2021-11-24",
+"total":2512
 }
 ],
 "package":"maker",
@@ -1237,6 +1241,15 @@
 {
 "basename":"maker-2.31.10-pl526_12.tar.bz2",
 "total":52
+}
+]
+},
+{
+"date":"2021-11-24",
+"downloads_per_basename":[
+{
+"basename":"maker-2.31.10-pl526_7.tar.bz2",
+"total":297
 }
 ]
 }

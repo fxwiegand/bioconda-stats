@@ -11,7 +11,7 @@
 },
 {
 "basename":"sicer-1.1-np19py26_0.tar.bz2",
-"total":703
+"total":704
 },
 {
 "basename":"sicer-1.1-py27h24bf2e0_3.tar.bz2",
@@ -334,6 +334,10 @@
 {
 "date":"2021-11-23",
 "total":2856
+},
+{
+"date":"2021-11-24",
+"total":2857
 }
 ],
 "package":"sicer",
@@ -626,6 +630,15 @@
 {
 "basename":"sicer-1.1-np19py26_0.tar.bz2",
 "total":703
+}
+]
+},
+{
+"date":"2021-11-24",
+"downloads_per_basename":[
+{
+"basename":"sicer-1.1-np19py26_0.tar.bz2",
+"total":704
 }
 ]
 }

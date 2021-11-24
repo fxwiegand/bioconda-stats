@@ -76,6 +76,10 @@
 {
 "date":"2021-11-23",
 "total":61
+},
+{
+"date":"2021-11-24",
+"total":62
 }
 ],
 "downloads_per_subdir":[
@@ -85,7 +89,7 @@
 },
 {
 "subdir":"osx-64",
-"total":41
+"total":42
 }
 ],
 "package":"bioconductor-msstatsptm",
@@ -272,6 +276,15 @@
 {
 "subdir":"osx-64",
 "total":41
+}
+]
+},
+{
+"date":"2021-11-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":42
 }
 ]
 }

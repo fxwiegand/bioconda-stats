@@ -80,6 +80,10 @@
 {
 "date":"2021-11-23",
 "total":60
+},
+{
+"date":"2021-11-24",
+"total":61
 }
 ],
 "downloads_per_subdir":[
@@ -89,7 +93,7 @@
 },
 {
 "subdir":"osx-64",
-"total":42
+"total":43
 }
 ],
 "package":"bioconductor-gnet2",
@@ -289,6 +293,15 @@
 {
 "subdir":"osx-64",
 "total":42
+}
+]
+},
+{
+"date":"2021-11-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":43
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-cpan-meta-2.120921-pl526_1.tar.bz2",
-"total":3843
+"total":3844
 }
 ],
 "downloads_per_date":[
@@ -126,6 +126,10 @@
 {
 "date":"2021-11-23",
 "total":4734
+},
+{
+"date":"2021-11-24",
+"total":4735
 }
 ],
 "package":"perl-cpan-meta",
@@ -202,6 +206,15 @@
 {
 "basename":"perl-cpan-meta-2.120921-0.tar.bz2",
 "total":891
+}
+]
+},
+{
+"date":"2021-11-24",
+"downloads_per_basename":[
+{
+"basename":"perl-cpan-meta-2.120921-pl526_1.tar.bz2",
+"total":3844
 }
 ]
 }

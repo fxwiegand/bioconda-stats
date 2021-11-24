@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-bamsignals-1.22.0-r40h5f743cb_0.tar.bz2",
-"total":382
+"total":383
 }
 ],
 "downloads_per_date":[
@@ -586,6 +586,10 @@
 {
 "date":"2021-11-23",
 "total":733
+},
+{
+"date":"2021-11-24",
+"total":734
 }
 ],
 "package":"bioconductor-bamsignals",
@@ -965,6 +969,15 @@
 {
 "basename":"bioconductor-bamsignals-1.22.0-r40h399db7b_1.tar.bz2",
 "total":351
+}
+]
+},
+{
+"date":"2021-11-24",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bamsignals-1.22.0-r40h5f743cb_0.tar.bz2",
+"total":383
 }
 ]
 }

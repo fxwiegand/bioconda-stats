@@ -80,6 +80,10 @@
 {
 "date":"2021-11-23",
 "total":120
+},
+{
+"date":"2021-11-24",
+"total":122
 }
 ],
 "downloads_per_subdir":[
@@ -89,7 +93,7 @@
 },
 {
 "subdir":"osx-64",
-"total":63
+"total":65
 }
 ],
 "package":"bioconductor-exomecopy",
@@ -335,6 +339,15 @@
 {
 "subdir":"osx-64",
 "total":63
+}
+]
+},
+{
+"date":"2021-11-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":65
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"augustus-3.3-boost1.64_2.tar.bz2",
-"total":1126
+"total":1127
 },
 {
 "basename":"augustus-3.3-pl526hcfae127_4.tar.bz2",
@@ -590,6 +590,10 @@
 {
 "date":"2021-11-23",
 "total":7138
+},
+{
+"date":"2021-11-24",
+"total":7139
 }
 ],
 "package":"augustus",
@@ -1047,6 +1051,15 @@
 {
 "basename":"augustus-3.3-pl526hcfae127_4.tar.bz2",
 "total":3885
+}
+]
+},
+{
+"date":"2021-11-24",
+"downloads_per_basename":[
+{
+"basename":"augustus-3.3-boost1.64_2.tar.bz2",
+"total":1127
 }
 ]
 }

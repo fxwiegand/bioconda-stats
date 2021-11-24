@@ -7,7 +7,7 @@
 },
 {
 "basename":"livekraken-1.0-pl526h78a066a_5.tar.bz2",
-"total":81
+"total":82
 },
 {
 "basename":"livekraken-1.0-py35pl5.22.0_2.tar.bz2",
@@ -282,6 +282,10 @@
 {
 "date":"2021-11-23",
 "total":1882
+},
+{
+"date":"2021-11-24",
+"total":1883
 }
 ],
 "package":"livekraken",
@@ -744,6 +748,15 @@
 {
 "basename":"livekraken-1.0-py27pl5.22.0_2.tar.bz2",
 "total":207
+}
+]
+},
+{
+"date":"2021-11-24",
+"downloads_per_basename":[
+{
+"basename":"livekraken-1.0-pl526h78a066a_5.tar.bz2",
+"total":82
 }
 ]
 }

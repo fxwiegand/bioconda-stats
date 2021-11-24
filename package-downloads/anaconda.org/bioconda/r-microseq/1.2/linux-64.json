@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-microseq-1.2-r3.3.2_0.tar.bz2",
-"total":637
+"total":638
 },
 {
 "basename":"r-microseq-1.2-r3.4.1_0.tar.bz2",
@@ -142,6 +142,10 @@
 {
 "date":"2021-11-23",
 "total":1367
+},
+{
+"date":"2021-11-24",
+"total":1368
 }
 ],
 "package":"r-microseq",
@@ -243,6 +247,15 @@
 {
 "basename":"r-microseq-1.2-r3.4.1_0.tar.bz2",
 "total":730
+}
+]
+},
+{
+"date":"2021-11-24",
+"downloads_per_basename":[
+{
+"basename":"r-microseq-1.2-r3.3.2_0.tar.bz2",
+"total":638
 }
 ]
 }

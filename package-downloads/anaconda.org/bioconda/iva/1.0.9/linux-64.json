@@ -11,7 +11,7 @@
 },
 {
 "basename":"iva-1.0.9-py35_0.tar.bz2",
-"total":270
+"total":271
 },
 {
 "basename":"iva-1.0.9-py36_1.tar.bz2",
@@ -202,6 +202,10 @@
 {
 "date":"2021-11-23",
 "total":1074
+},
+{
+"date":"2021-11-24",
+"total":1075
 }
 ],
 "package":"iva",
@@ -414,6 +418,15 @@
 {
 "basename":"iva-1.0.9-py36_1.tar.bz2",
 "total":351
+}
+]
+},
+{
+"date":"2021-11-24",
+"downloads_per_basename":[
+{
+"basename":"iva-1.0.9-py35_0.tar.bz2",
+"total":271
 }
 ]
 }

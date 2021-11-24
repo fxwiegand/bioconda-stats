@@ -7,7 +7,7 @@
 },
 {
 "basename":"pfam_scan-1.6-pl5.22.0_1.tar.bz2",
-"total":128
+"total":129
 },
 {
 "basename":"pfam_scan-1.6-pl526_2.tar.bz2",
@@ -698,6 +698,10 @@
 {
 "date":"2021-11-23",
 "total":2118
+},
+{
+"date":"2021-11-24",
+"total":2119
 }
 ],
 "package":"pfam_scan",
@@ -1185,6 +1189,15 @@
 {
 "basename":"pfam_scan-1.6-pl5.22.0_1.tar.bz2",
 "total":128
+}
+]
+},
+{
+"date":"2021-11-24",
+"downloads_per_basename":[
+{
+"basename":"pfam_scan-1.6-pl5.22.0_1.tar.bz2",
+"total":129
 }
 ]
 }
