@@ -92,6 +92,10 @@
 {
 "date":"2021-11-24",
 "total":107
+},
+{
+"date":"2021-11-25",
+"total":109
 }
 ],
 "downloads_per_subdir":[
@@ -101,7 +105,7 @@
 },
 {
 "subdir":"osx-64",
-"total":62
+"total":64
 }
 ],
 "package":"bioconductor-acgh",
@@ -354,6 +358,15 @@
 {
 "subdir":"osx-64",
 "total":62
+}
+]
+},
+{
+"date":"2021-11-25",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":64
 }
 ]
 }

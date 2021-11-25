@@ -11,7 +11,7 @@
 },
 {
 "basename":"pyteomics-3.4-py36_1.tar.bz2",
-"total":208
+"total":209
 },
 {
 "basename":"pyteomics-3.4-py34_0.tar.bz2",
@@ -278,6 +278,10 @@
 {
 "date":"2021-11-24",
 "total":2543
+},
+{
+"date":"2021-11-25",
+"total":2544
 }
 ],
 "package":"pyteomics",
@@ -632,6 +636,15 @@
 {
 "basename":"pyteomics-3.4-py35_1.tar.bz2",
 "total":145
+}
+]
+},
+{
+"date":"2021-11-25",
+"downloads_per_basename":[
+{
+"basename":"pyteomics-3.4-py36_1.tar.bz2",
+"total":209
 }
 ]
 }

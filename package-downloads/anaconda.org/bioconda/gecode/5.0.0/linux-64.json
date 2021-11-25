@@ -11,7 +11,7 @@
 },
 {
 "basename":"gecode-5.0.0-hb705a9b_1.tar.bz2",
-"total":339
+"total":340
 },
 {
 "basename":"gecode-5.0.0-0.tar.bz2",
@@ -278,6 +278,10 @@
 {
 "date":"2021-11-24",
 "total":1247
+},
+{
+"date":"2021-11-25",
+"total":1248
 }
 ],
 "package":"gecode",
@@ -563,6 +567,15 @@
 {
 "basename":"gecode-5.0.0-0.tar.bz2",
 "total":755
+}
+]
+},
+{
+"date":"2021-11-25",
+"downloads_per_basename":[
+{
+"basename":"gecode-5.0.0-hb705a9b_1.tar.bz2",
+"total":340
 }
 ]
 }

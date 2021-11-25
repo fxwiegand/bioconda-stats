@@ -31,7 +31,7 @@
 },
 {
 "basename":"workspace-0.3.1-py34_0.tar.bz2",
-"total":432
+"total":433
 },
 {
 "basename":"workspace-0.3.1-py35_1.tar.bz2",
@@ -258,6 +258,10 @@
 {
 "date":"2021-11-24",
 "total":3390
+},
+{
+"date":"2021-11-25",
+"total":3391
 }
 ],
 "package":"workspace",
@@ -622,6 +626,15 @@
 {
 "basename":"workspace-0.3.1-py35_0.tar.bz2",
 "total":363
+}
+]
+},
+{
+"date":"2021-11-25",
+"downloads_per_basename":[
+{
+"basename":"workspace-0.3.1-py34_0.tar.bz2",
+"total":433
 }
 ]
 }

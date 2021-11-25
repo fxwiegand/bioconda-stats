@@ -662,6 +662,10 @@
 {
 "date":"2021-11-24",
 "total":33256
+},
+{
+"date":"2021-11-25",
+"total":33257
 }
 ],
 "package":"bcbio-nextgen-vm",
@@ -2826,6 +2830,15 @@
 {
 "basename":"bcbio-nextgen-vm-0.1.0a-py36_136.tar.bz2",
 "total":162
+}
+]
+},
+{
+"date":"2021-11-25",
+"downloads_per_basename":[
+{
+"basename":"bcbio-nextgen-vm-0.1.0a-py27_134.tar.bz2",
+"total":267
 }
 ]
 }
