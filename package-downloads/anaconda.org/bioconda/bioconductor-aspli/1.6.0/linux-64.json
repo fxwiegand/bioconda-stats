@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-aspli-1.6.0-r341_0.tar.bz2",
-"total":375
+"total":376
 }
 ],
 "downloads_per_date":[
@@ -266,6 +266,10 @@
 {
 "date":"2021-11-25",
 "total":619
+},
+{
+"date":"2021-11-26",
+"total":620
 }
 ],
 "package":"bioconductor-aspli",
@@ -429,6 +433,15 @@
 {
 "basename":"bioconductor-aspli-1.6.0-r351_0.tar.bz2",
 "total":244
+}
+]
+},
+{
+"date":"2021-11-26",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-aspli-1.6.0-r341_0.tar.bz2",
+"total":376
 }
 ]
 }

@@ -96,6 +96,10 @@
 {
 "date":"2021-11-25",
 "total":235
+},
+{
+"date":"2021-11-26",
+"total":239
 }
 ],
 "downloads_per_subdir":[
@@ -105,7 +109,7 @@
 },
 {
 "subdir":"osx-64",
-"total":119
+"total":123
 }
 ],
 "package":"bioconductor-mscoreutils",
@@ -387,6 +391,15 @@
 {
 "subdir":"osx-64",
 "total":119
+}
+]
+},
+{
+"date":"2021-11-26",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":123
 }
 ]
 }

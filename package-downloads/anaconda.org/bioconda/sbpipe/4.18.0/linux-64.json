@@ -7,7 +7,7 @@
 },
 {
 "basename":"sbpipe-4.18.0-py27_0.tar.bz2",
-"total":144
+"total":145
 },
 {
 "basename":"sbpipe-4.18.0-py36_0.tar.bz2",
@@ -158,6 +158,10 @@
 {
 "date":"2021-11-25",
 "total":559
+},
+{
+"date":"2021-11-26",
+"total":560
 }
 ],
 "package":"sbpipe",
@@ -278,6 +282,15 @@
 {
 "basename":"sbpipe-4.18.0-py36_0.tar.bz2",
 "total":273
+}
+]
+},
+{
+"date":"2021-11-26",
+"downloads_per_basename":[
+{
+"basename":"sbpipe-4.18.0-py27_0.tar.bz2",
+"total":145
 }
 ]
 }

@@ -15,7 +15,7 @@
 },
 {
 "basename":"intermine-1.09.05-py27_0.tar.bz2",
-"total":5860
+"total":5861
 }
 ],
 "downloads_per_date":[
@@ -246,6 +246,10 @@
 {
 "date":"2021-11-25",
 "total":8927
+},
+{
+"date":"2021-11-26",
+"total":8928
 }
 ],
 "package":"intermine",
@@ -474,6 +478,15 @@
 {
 "basename":"intermine-1.09.05-py35_0.tar.bz2",
 "total":2092
+}
+]
+},
+{
+"date":"2021-11-26",
+"downloads_per_basename":[
+{
+"basename":"intermine-1.09.05-py27_0.tar.bz2",
+"total":5861
 }
 ]
 }

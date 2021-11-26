@@ -88,6 +88,10 @@
 {
 "date":"2021-11-25",
 "total":80
+},
+{
+"date":"2021-11-26",
+"total":82
 }
 ],
 "downloads_per_subdir":[
@@ -97,7 +101,7 @@
 },
 {
 "subdir":"osx-64",
-"total":51
+"total":53
 }
 ],
 "package":"bioconductor-pcatools",
@@ -328,6 +332,15 @@
 {
 "subdir":"osx-64",
 "total":51
+}
+]
+},
+{
+"date":"2021-11-26",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":53
 }
 ]
 }

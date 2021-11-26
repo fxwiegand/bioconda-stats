@@ -92,6 +92,10 @@
 {
 "date":"2021-11-25",
 "total":61
+},
+{
+"date":"2021-11-26",
+"total":62
 }
 ],
 "downloads_per_subdir":[
@@ -101,7 +105,7 @@
 },
 {
 "subdir":"osx-64",
-"total":43
+"total":44
 }
 ],
 "package":"bioconductor-nanostringdiff",
@@ -328,6 +332,15 @@
 {
 "subdir":"osx-64",
 "total":43
+}
+]
+},
+{
+"date":"2021-11-26",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":44
 }
 ]
 }

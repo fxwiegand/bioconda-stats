@@ -84,6 +84,10 @@
 {
 "date":"2021-11-25",
 "total":68
+},
+{
+"date":"2021-11-26",
+"total":70
 }
 ],
 "downloads_per_subdir":[
@@ -93,7 +97,7 @@
 },
 {
 "subdir":"osx-64",
-"total":53
+"total":55
 }
 ],
 "package":"bioconductor-xde",
@@ -312,6 +316,15 @@
 {
 "subdir":"osx-64",
 "total":53
+}
+]
+},
+{
+"date":"2021-11-26",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":55
 }
 ]
 }

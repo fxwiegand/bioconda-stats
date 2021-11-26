@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-facount-377-h0b8a92a_2.tar.bz2",
-"total":99
+"total":100
 },
 {
 "basename":"ucsc-facount-377-h446ed27_1.tar.bz2",
@@ -442,6 +442,10 @@
 {
 "date":"2021-11-25",
 "total":429
+},
+{
+"date":"2021-11-26",
+"total":430
 }
 ],
 "package":"ucsc-facount",
@@ -783,6 +787,15 @@
 {
 "basename":"ucsc-facount-377-h0b8a92a_2.tar.bz2",
 "total":99
+}
+]
+},
+{
+"date":"2021-11-26",
+"downloads_per_basename":[
+{
+"basename":"ucsc-facount-377-h0b8a92a_2.tar.bz2",
+"total":100
 }
 ]
 }

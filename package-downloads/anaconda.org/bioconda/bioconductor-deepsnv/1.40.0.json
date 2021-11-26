@@ -84,6 +84,10 @@
 {
 "date":"2021-11-25",
 "total":71
+},
+{
+"date":"2021-11-26",
+"total":72
 }
 ],
 "downloads_per_subdir":[
@@ -93,7 +97,7 @@
 },
 {
 "subdir":"osx-64",
-"total":48
+"total":49
 }
 ],
 "package":"bioconductor-deepsnv",
@@ -316,6 +320,15 @@
 {
 "subdir":"osx-64",
 "total":48
+}
+]
+},
+{
+"date":"2021-11-26",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":49
 }
 ]
 }

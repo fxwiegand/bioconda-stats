@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-bigwigcorrelate-377-h0b8a92a_2.tar.bz2",
-"total":80
+"total":81
 },
 {
 "basename":"ucsc-bigwigcorrelate-377-h199ee4e_0.tar.bz2",
@@ -350,6 +350,10 @@
 {
 "date":"2021-11-25",
 "total":329
+},
+{
+"date":"2021-11-26",
+"total":330
 }
 ],
 "package":"ucsc-bigwigcorrelate",
@@ -642,6 +646,15 @@
 {
 "basename":"ucsc-bigwigcorrelate-377-h0b8a92a_2.tar.bz2",
 "total":80
+}
+]
+},
+{
+"date":"2021-11-26",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bigwigcorrelate-377-h0b8a92a_2.tar.bz2",
+"total":81
 }
 ]
 }

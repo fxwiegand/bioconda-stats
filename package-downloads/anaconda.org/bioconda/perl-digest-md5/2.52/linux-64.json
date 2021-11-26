@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-digest-md5-2.52-0.tar.bz2",
-"total":482
+"total":483
 },
 {
 "basename":"perl-digest-md5-2.52-pl5.22.0_1.tar.bz2",
@@ -274,6 +274,10 @@
 {
 "date":"2021-11-25",
 "total":6557
+},
+{
+"date":"2021-11-26",
+"total":6558
 }
 ],
 "package":"perl-digest-md5",
@@ -500,6 +504,15 @@
 {
 "basename":"perl-digest-md5-2.52-pl5.22.0_2.tar.bz2",
 "total":1107
+}
+]
+},
+{
+"date":"2021-11-26",
+"downloads_per_basename":[
+{
+"basename":"perl-digest-md5-2.52-0.tar.bz2",
+"total":483
 }
 ]
 }
