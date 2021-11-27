@@ -11,7 +11,7 @@
 },
 {
 "basename":"pybedtools-0.7.9-py35_0.tar.bz2",
-"total":4048
+"total":4049
 },
 {
 "basename":"pybedtools-0.7.9-py27_0.tar.bz2",
@@ -194,6 +194,10 @@
 {
 "date":"2021-11-26",
 "total":10833
+},
+{
+"date":"2021-11-27",
+"total":10834
 }
 ],
 "package":"pybedtools",
@@ -372,6 +376,15 @@
 {
 "basename":"pybedtools-0.7.9-py36_0.tar.bz2",
 "total":558
+}
+]
+},
+{
+"date":"2021-11-27",
+"downloads_per_basename":[
+{
+"basename":"pybedtools-0.7.9-py35_0.tar.bz2",
+"total":4049
 }
 ]
 }

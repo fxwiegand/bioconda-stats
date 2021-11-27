@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ariba-2.11.0-py35_0.tar.bz2",
-"total":263
+"total":264
 },
 {
 "basename":"ariba-2.11.0-py36_0.tar.bz2",
@@ -234,6 +234,10 @@
 {
 "date":"2021-11-26",
 "total":712
+},
+{
+"date":"2021-11-27",
+"total":713
 }
 ],
 "package":"ariba",
@@ -375,6 +379,15 @@
 {
 "basename":"ariba-2.11.0-py36_0.tar.bz2",
 "total":449
+}
+]
+},
+{
+"date":"2021-11-27",
+"downloads_per_basename":[
+{
+"basename":"ariba-2.11.0-py35_0.tar.bz2",
+"total":264
 }
 ]
 }

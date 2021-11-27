@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"quast-5.0.1-py35pl526ha92aebf_0.tar.bz2",
-"total":150
+"total":151
 },
 {
 "basename":"quast-5.0.1-py36pl526ha92aebf_0.tar.bz2",
@@ -190,6 +190,10 @@
 {
 "date":"2021-11-26",
 "total":1004
+},
+{
+"date":"2021-11-27",
+"total":1005
 }
 ],
 "package":"quast",
@@ -345,6 +349,15 @@
 {
 "basename":"quast-5.0.1-py27pl526ha92aebf_0.tar.bz2",
 "total":448
+}
+]
+},
+{
+"date":"2021-11-27",
+"downloads_per_basename":[
+{
+"basename":"quast-5.0.1-py35pl526ha92aebf_0.tar.bz2",
+"total":151
 }
 ]
 }

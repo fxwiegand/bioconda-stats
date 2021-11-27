@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-pod-coverage-trustpod-0.100003-pl526_1.tar.bz2",
-"total":180
+"total":181
 },
 {
 "basename":"perl-pod-coverage-trustpod-0.100003-pl5.22.0_0.tar.bz2",
@@ -166,6 +166,10 @@
 {
 "date":"2021-11-26",
 "total":765
+},
+{
+"date":"2021-11-27",
+"total":766
 }
 ],
 "package":"perl-pod-coverage-trustpod",
@@ -289,6 +293,15 @@
 {
 "basename":"perl-pod-coverage-trustpod-0.100003-pl5.22.0_0.tar.bz2",
 "total":585
+}
+]
+},
+{
+"date":"2021-11-27",
+"downloads_per_basename":[
+{
+"basename":"perl-pod-coverage-trustpod-0.100003-pl526_1.tar.bz2",
+"total":181
 }
 ]
 }

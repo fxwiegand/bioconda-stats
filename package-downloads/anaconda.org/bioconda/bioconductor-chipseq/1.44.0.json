@@ -88,6 +88,10 @@
 {
 "date":"2021-11-26",
 "total":104
+},
+{
+"date":"2021-11-27",
+"total":106
 }
 ],
 "downloads_per_subdir":[
@@ -97,7 +101,7 @@
 },
 {
 "subdir":"osx-64",
-"total":62
+"total":64
 }
 ],
 "package":"bioconductor-chipseq",
@@ -345,6 +349,15 @@
 {
 "subdir":"osx-64",
 "total":62
+}
+]
+},
+{
+"date":"2021-11-27",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":64
 }
 ]
 }

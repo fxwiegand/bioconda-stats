@@ -88,6 +88,10 @@
 {
 "date":"2021-11-26",
 "total":60
+},
+{
+"date":"2021-11-27",
+"total":61
 }
 ],
 "downloads_per_subdir":[
@@ -97,7 +101,7 @@
 },
 {
 "subdir":"osx-64",
-"total":42
+"total":43
 }
 ],
 "package":"bioconductor-r453plus1toolbox",
@@ -307,6 +311,15 @@
 {
 "subdir":"osx-64",
 "total":42
+}
+]
+},
+{
+"date":"2021-11-27",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":43
 }
 ]
 }

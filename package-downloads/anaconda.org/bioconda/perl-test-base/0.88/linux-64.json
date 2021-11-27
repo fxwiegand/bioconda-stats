@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-test-base-0.88-0.tar.bz2",
-"total":573
+"total":574
 }
 ],
 "downloads_per_date":[
@@ -154,6 +154,10 @@
 {
 "date":"2021-11-26",
 "total":1308
+},
+{
+"date":"2021-11-27",
+"total":1309
 }
 ],
 "package":"perl-test-base",
@@ -284,6 +288,15 @@
 {
 "basename":"perl-test-base-0.88-pl5.22.0_1.tar.bz2",
 "total":444
+}
+]
+},
+{
+"date":"2021-11-27",
+"downloads_per_basename":[
+{
+"basename":"perl-test-base-0.88-0.tar.bz2",
+"total":574
 }
 ]
 }

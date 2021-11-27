@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-file-slurp-9999.19-pl526_2.tar.bz2",
-"total":283
+"total":316
 },
 {
 "basename":"perl-file-slurp-9999.19-pl526_1.tar.bz2",
@@ -406,6 +406,10 @@
 {
 "date":"2021-11-26",
 "total":4747
+},
+{
+"date":"2021-11-27",
+"total":4780
 }
 ],
 "package":"perl-file-slurp",
@@ -759,6 +763,15 @@
 {
 "basename":"perl-file-slurp-9999.19-pl526_2.tar.bz2",
 "total":283
+}
+]
+},
+{
+"date":"2021-11-27",
+"downloads_per_basename":[
+{
+"basename":"perl-file-slurp-9999.19-pl526_2.tar.bz2",
+"total":316
 }
 ]
 }
