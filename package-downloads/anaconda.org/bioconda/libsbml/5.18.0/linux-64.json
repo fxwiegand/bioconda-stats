@@ -7,7 +7,7 @@
 },
 {
 "basename":"libsbml-5.18.0-h18cd00f_2.tar.bz2",
-"total":60
+"total":61
 },
 {
 "basename":"libsbml-5.18.0-h664a209_1.tar.bz2",
@@ -654,6 +654,10 @@
 {
 "date":"2021-11-27",
 "total":1930
+},
+{
+"date":"2021-11-28",
+"total":1931
 }
 ],
 "package":"libsbml",
@@ -1191,6 +1195,15 @@
 {
 "basename":"libsbml-5.18.0-h388d1fa_5.tar.bz2",
 "total":291
+}
+]
+},
+{
+"date":"2021-11-28",
+"downloads_per_basename":[
+{
+"basename":"libsbml-5.18.0-h18cd00f_2.tar.bz2",
+"total":61
 }
 ]
 }

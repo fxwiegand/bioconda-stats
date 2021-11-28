@@ -88,6 +88,10 @@
 {
 "date":"2021-11-27",
 "total":124
+},
+{
+"date":"2021-11-28",
+"total":126
 }
 ],
 "downloads_per_subdir":[
@@ -97,7 +101,7 @@
 },
 {
 "subdir":"osx-64",
-"total":76
+"total":78
 }
 ],
 "package":"bioconductor-cytoml",
@@ -345,6 +349,15 @@
 {
 "subdir":"osx-64",
 "total":76
+}
+]
+},
+{
+"date":"2021-11-28",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":78
 }
 ]
 }

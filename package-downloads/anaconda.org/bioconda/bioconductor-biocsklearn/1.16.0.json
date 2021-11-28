@@ -96,6 +96,10 @@
 {
 "date":"2021-11-27",
 "total":88
+},
+{
+"date":"2021-11-28",
+"total":91
 }
 ],
 "downloads_per_subdir":[
@@ -105,7 +109,7 @@
 },
 {
 "subdir":"osx-64",
-"total":62
+"total":65
 }
 ],
 "package":"bioconductor-biocsklearn",
@@ -355,6 +359,15 @@
 {
 "subdir":"osx-64",
 "total":62
+}
+]
+},
+{
+"date":"2021-11-28",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":65
 }
 ]
 }

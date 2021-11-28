@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-annotate-1.50.0-0.tar.bz2",
-"total":5228
+"total":5230
 },
 {
 "basename":"bioconductor-annotate-1.50.0-r3.3.1_1.tar.bz2",
@@ -750,6 +750,10 @@
 {
 "date":"2021-11-27",
 "total":18763
+},
+{
+"date":"2021-11-28",
+"total":18765
 }
 ],
 "package":"bioconductor-annotate",
@@ -1435,6 +1439,15 @@
 {
 "basename":"bioconductor-annotate-1.50.0-0.tar.bz2",
 "total":5228
+}
+]
+},
+{
+"date":"2021-11-28",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-annotate-1.50.0-0.tar.bz2",
+"total":5230
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"pacbio_falcon-052016-py27_1.tar.bz2",
-"total":371
+"total":372
 },
 {
 "basename":"pacbio_falcon-052016-py27_0.tar.bz2",
@@ -238,6 +238,10 @@
 {
 "date":"2021-11-27",
 "total":1105
+},
+{
+"date":"2021-11-28",
+"total":1106
 }
 ],
 "package":"pacbio_falcon",
@@ -407,6 +411,15 @@
 {
 "basename":"pacbio_falcon-052016-py27_0.tar.bz2",
 "total":634
+}
+]
+},
+{
+"date":"2021-11-28",
+"downloads_per_basename":[
+{
+"basename":"pacbio_falcon-052016-py27_1.tar.bz2",
+"total":372
 }
 ]
 }

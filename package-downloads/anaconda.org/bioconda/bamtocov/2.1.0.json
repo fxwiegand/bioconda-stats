@@ -128,6 +128,10 @@
 {
 "date":"2021-11-27",
 "total":123
+},
+{
+"date":"2021-11-28",
+"total":124
 }
 ],
 "downloads_per_subdir":[
@@ -137,7 +141,7 @@
 },
 {
 "subdir":"osx-64",
-"total":73
+"total":74
 }
 ],
 "package":"bamtocov",
@@ -466,6 +470,15 @@
 {
 "subdir":"osx-64",
 "total":73
+}
+]
+},
+{
+"date":"2021-11-28",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":74
 }
 ]
 }

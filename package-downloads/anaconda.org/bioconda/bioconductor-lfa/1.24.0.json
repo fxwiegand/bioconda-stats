@@ -104,6 +104,10 @@
 {
 "date":"2021-11-27",
 "total":102
+},
+{
+"date":"2021-11-28",
+"total":104
 }
 ],
 "downloads_per_subdir":[
@@ -113,7 +117,7 @@
 },
 {
 "subdir":"osx-64",
-"total":75
+"total":77
 }
 ],
 "package":"bioconductor-lfa",
@@ -397,6 +401,15 @@
 {
 "subdir":"osx-64",
 "total":75
+}
+]
+},
+{
+"date":"2021-11-28",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":77
 }
 ]
 }

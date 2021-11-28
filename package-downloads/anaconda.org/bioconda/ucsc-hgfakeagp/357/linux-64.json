@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-hgfakeagp-357-1.tar.bz2",
-"total":221
+"total":222
 },
 {
 "basename":"ucsc-hgfakeagp-357-0.tar.bz2",
@@ -150,6 +150,10 @@
 {
 "date":"2021-11-27",
 "total":775
+},
+{
+"date":"2021-11-28",
+"total":776
 }
 ],
 "package":"ucsc-hgfakeagp",
@@ -260,6 +264,15 @@
 {
 "basename":"ucsc-hgfakeagp-357-0.tar.bz2",
 "total":554
+}
+]
+},
+{
+"date":"2021-11-28",
+"downloads_per_basename":[
+{
+"basename":"ucsc-hgfakeagp-357-1.tar.bz2",
+"total":222
 }
 ]
 }
