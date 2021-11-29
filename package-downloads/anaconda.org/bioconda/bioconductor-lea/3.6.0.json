@@ -104,6 +104,10 @@
 {
 "date":"2021-11-28",
 "total":68
+},
+{
+"date":"2021-11-29",
+"total":69
 }
 ],
 "downloads_per_subdir":[
@@ -113,7 +117,7 @@
 },
 {
 "subdir":"osx-64",
-"total":49
+"total":50
 }
 ],
 "package":"bioconductor-lea",
@@ -359,6 +363,15 @@
 {
 "subdir":"osx-64",
 "total":49
+}
+]
+},
+{
+"date":"2021-11-29",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":50
 }
 ]
 }

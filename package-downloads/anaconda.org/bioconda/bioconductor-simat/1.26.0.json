@@ -104,6 +104,10 @@
 {
 "date":"2021-11-28",
 "total":79
+},
+{
+"date":"2021-11-29",
+"total":81
 }
 ],
 "downloads_per_subdir":[
@@ -113,7 +117,7 @@
 },
 {
 "subdir":"osx-64",
-"total":62
+"total":64
 }
 ],
 "package":"bioconductor-simat",
@@ -385,6 +389,15 @@
 {
 "subdir":"osx-64",
 "total":62
+}
+]
+},
+{
+"date":"2021-11-29",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":64
 }
 ]
 }

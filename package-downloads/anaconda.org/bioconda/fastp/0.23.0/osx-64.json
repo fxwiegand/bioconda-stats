@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"fastp-0.23.0-hd78bc7a_0.tar.bz2",
-"total":128
+"total":129
 }
 ],
 "downloads_per_date":[
@@ -210,6 +210,10 @@
 {
 "date":"2021-11-28",
 "total":128
+},
+{
+"date":"2021-11-29",
+"total":129
 }
 ],
 "package":"fastp",
@@ -643,6 +647,15 @@
 {
 "basename":"fastp-0.23.0-hd78bc7a_0.tar.bz2",
 "total":128
+}
+]
+},
+{
+"date":"2021-11-29",
+"downloads_per_basename":[
+{
+"basename":"fastp-0.23.0-hd78bc7a_0.tar.bz2",
+"total":129
 }
 ]
 }

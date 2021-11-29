@@ -11,7 +11,7 @@
 },
 {
 "basename":"qtip-1.6.2-py27h7eb728f_1.tar.bz2",
-"total":277
+"total":278
 },
 {
 "basename":"qtip-1.6.2-py35_0.tar.bz2",
@@ -222,6 +222,10 @@
 {
 "date":"2021-11-28",
 "total":1828
+},
+{
+"date":"2021-11-29",
+"total":1829
 }
 ],
 "package":"qtip",
@@ -505,6 +509,15 @@
 {
 "basename":"qtip-1.6.2-py36_0.tar.bz2",
 "total":451
+}
+]
+},
+{
+"date":"2021-11-29",
+"downloads_per_basename":[
+{
+"basename":"qtip-1.6.2-py27h7eb728f_1.tar.bz2",
+"total":278
 }
 ]
 }

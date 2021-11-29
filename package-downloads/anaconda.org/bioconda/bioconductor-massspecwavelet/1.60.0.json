@@ -108,6 +108,10 @@
 {
 "date":"2021-11-28",
 "total":166
+},
+{
+"date":"2021-11-29",
+"total":168
 }
 ],
 "downloads_per_subdir":[
@@ -117,7 +121,7 @@
 },
 {
 "subdir":"osx-64",
-"total":100
+"total":102
 }
 ],
 "package":"bioconductor-massspecwavelet",
@@ -438,6 +442,15 @@
 {
 "subdir":"osx-64",
 "total":100
+}
+]
+},
+{
+"date":"2021-11-29",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":102
 }
 ]
 }

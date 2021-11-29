@@ -15,7 +15,7 @@
 },
 {
 "basename":"edena-3.131028-0.tar.bz2",
-"total":674
+"total":675
 }
 ],
 "downloads_per_date":[
@@ -314,6 +314,10 @@
 {
 "date":"2021-11-28",
 "total":1123
+},
+{
+"date":"2021-11-29",
+"total":1124
 }
 ],
 "package":"edena",
@@ -565,6 +569,15 @@
 {
 "basename":"edena-3.131028-hc9558a2_2.tar.bz2",
 "total":104
+}
+]
+},
+{
+"date":"2021-11-29",
+"downloads_per_basename":[
+{
+"basename":"edena-3.131028-0.tar.bz2",
+"total":675
 }
 ]
 }

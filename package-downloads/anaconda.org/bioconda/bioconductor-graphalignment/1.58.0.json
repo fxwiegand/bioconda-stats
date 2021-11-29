@@ -108,6 +108,10 @@
 {
 "date":"2021-11-28",
 "total":80
+},
+{
+"date":"2021-11-29",
+"total":82
 }
 ],
 "downloads_per_subdir":[
@@ -117,7 +121,7 @@
 },
 {
 "subdir":"osx-64",
-"total":64
+"total":66
 }
 ],
 "package":"bioconductor-graphalignment",
@@ -394,6 +398,15 @@
 {
 "subdir":"osx-64",
 "total":64
+}
+]
+},
+{
+"date":"2021-11-29",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":66
 }
 ]
 }

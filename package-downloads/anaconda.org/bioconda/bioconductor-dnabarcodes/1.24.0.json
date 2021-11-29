@@ -108,6 +108,10 @@
 {
 "date":"2021-11-28",
 "total":88
+},
+{
+"date":"2021-11-29",
+"total":90
 }
 ],
 "downloads_per_subdir":[
@@ -117,7 +121,7 @@
 },
 {
 "subdir":"osx-64",
-"total":67
+"total":69
 }
 ],
 "package":"bioconductor-dnabarcodes",
@@ -398,6 +402,15 @@
 {
 "subdir":"osx-64",
 "total":67
+}
+]
+},
+{
+"date":"2021-11-29",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":69
 }
 ]
 }

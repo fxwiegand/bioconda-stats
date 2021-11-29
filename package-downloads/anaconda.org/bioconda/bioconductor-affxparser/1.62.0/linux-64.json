@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-affxparser-1.62.0-r40h399db7b_1.tar.bz2",
-"total":468
+"total":469
 },
 {
 "basename":"bioconductor-affxparser-1.62.0-r40h5f743cb_0.tar.bz2",
@@ -418,6 +418,10 @@
 {
 "date":"2021-11-28",
 "total":1008
+},
+{
+"date":"2021-11-29",
+"total":1009
 }
 ],
 "package":"bioconductor-affxparser",
@@ -680,6 +684,15 @@
 {
 "basename":"bioconductor-affxparser-1.62.0-r40h5f743cb_0.tar.bz2",
 "total":540
+}
+]
+},
+{
+"date":"2021-11-29",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-affxparser-1.62.0-r40h399db7b_1.tar.bz2",
+"total":469
 }
 ]
 }
