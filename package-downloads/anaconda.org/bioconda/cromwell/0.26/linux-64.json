@@ -11,7 +11,7 @@
 },
 {
 "basename":"cromwell-0.26-py27_0.tar.bz2",
-"total":579
+"total":580
 },
 {
 "basename":"cromwell-0.26-py34_0.tar.bz2",
@@ -226,6 +226,10 @@
 {
 "date":"2021-11-29",
 "total":2350
+},
+{
+"date":"2021-11-30",
+"total":2351
 }
 ],
 "package":"cromwell",
@@ -456,6 +460,15 @@
 {
 "basename":"cromwell-0.26-py36_0.tar.bz2",
 "total":573
+}
+]
+},
+{
+"date":"2021-11-30",
+"downloads_per_basename":[
+{
+"basename":"cromwell-0.26-py27_0.tar.bz2",
+"total":580
 }
 ]
 }

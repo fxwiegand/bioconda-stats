@@ -108,6 +108,10 @@
 {
 "date":"2021-11-29",
 "total":102
+},
+{
+"date":"2021-11-30",
+"total":104
 }
 ],
 "downloads_per_subdir":[
@@ -117,7 +121,7 @@
 },
 {
 "subdir":"osx-64",
-"total":76
+"total":78
 }
 ],
 "package":"bioconductor-chromdraw",
@@ -406,6 +410,15 @@
 {
 "subdir":"osx-64",
 "total":76
+}
+]
+},
+{
+"date":"2021-11-30",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":78
 }
 ]
 }
