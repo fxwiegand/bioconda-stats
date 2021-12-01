@@ -116,6 +116,10 @@
 {
 "date":"2021-11-30",
 "total":103
+},
+{
+"date":"2021-12-01",
+"total":105
 }
 ],
 "downloads_per_subdir":[
@@ -125,7 +129,7 @@
 },
 {
 "subdir":"osx-64",
-"total":74
+"total":76
 }
 ],
 "package":"bioconductor-harman",
@@ -435,6 +439,15 @@
 {
 "subdir":"osx-64",
 "total":74
+}
+]
+},
+{
+"date":"2021-12-01",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":76
 }
 ]
 }
