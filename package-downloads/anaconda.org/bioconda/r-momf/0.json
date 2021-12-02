@@ -28,6 +28,10 @@
 {
 "date":"2021-12-01",
 "total":32
+},
+{
+"date":"2021-12-02",
+"total":34
 }
 ],
 "downloads_per_subdir":[
@@ -37,7 +41,7 @@
 },
 {
 "subdir":"osx-64",
-"total":22
+"total":24
 }
 ],
 "package":"r-momf",
@@ -110,6 +114,15 @@
 {
 "subdir":"osx-64",
 "total":22
+}
+]
+},
+{
+"date":"2021-12-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":24
 }
 ]
 }

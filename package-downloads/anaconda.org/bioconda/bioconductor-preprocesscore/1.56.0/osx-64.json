@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-preprocesscore-1.56.0-r41h68a2ddb_0.tar.bz2",
-"total":308
+"total":311
 }
 ],
 "downloads_per_date":[
@@ -126,6 +126,10 @@
 {
 "date":"2021-12-01",
 "total":308
+},
+{
+"date":"2021-12-02",
+"total":311
 }
 ],
 "package":"bioconductor-preprocesscore",
@@ -397,6 +401,15 @@
 {
 "basename":"bioconductor-preprocesscore-1.56.0-r41h68a2ddb_0.tar.bz2",
 "total":308
+}
+]
+},
+{
+"date":"2021-12-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-preprocesscore-1.56.0-r41h68a2ddb_0.tar.bz2",
+"total":311
 }
 ]
 }

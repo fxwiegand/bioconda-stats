@@ -120,6 +120,10 @@
 {
 "date":"2021-12-01",
 "total":66
+},
+{
+"date":"2021-12-02",
+"total":68
 }
 ],
 "downloads_per_subdir":[
@@ -129,7 +133,7 @@
 },
 {
 "subdir":"osx-64",
-"total":49
+"total":51
 }
 ],
 "package":"sdm",
@@ -403,6 +407,15 @@
 {
 "subdir":"osx-64",
 "total":49
+}
+]
+},
+{
+"date":"2021-12-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":51
 }
 ]
 }

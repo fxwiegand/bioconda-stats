@@ -228,6 +228,10 @@
 {
 "date":"2021-12-01",
 "total":167
+},
+{
+"date":"2021-12-02",
+"total":169
 }
 ],
 "downloads_per_subdir":[
@@ -237,7 +241,7 @@
 },
 {
 "subdir":"osx-64",
-"total":104
+"total":106
 }
 ],
 "package":"nanoq",
@@ -829,6 +833,15 @@
 {
 "subdir":"osx-64",
 "total":104
+}
+]
+},
+{
+"date":"2021-12-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":106
 }
 ]
 }

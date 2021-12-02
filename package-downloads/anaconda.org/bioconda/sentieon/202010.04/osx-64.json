@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"sentieon-202010.04-h1b062d3_0.tar.bz2",
-"total":88
+"total":91
 }
 ],
 "downloads_per_date":[
@@ -170,6 +170,10 @@
 {
 "date":"2021-12-01",
 "total":88
+},
+{
+"date":"2021-12-02",
+"total":91
 }
 ],
 "package":"sentieon",
@@ -513,6 +517,15 @@
 {
 "basename":"sentieon-202010.04-h1b062d3_0.tar.bz2",
 "total":88
+}
+]
+},
+{
+"date":"2021-12-02",
+"downloads_per_basename":[
+{
+"basename":"sentieon-202010.04-h1b062d3_0.tar.bz2",
+"total":91
 }
 ]
 }

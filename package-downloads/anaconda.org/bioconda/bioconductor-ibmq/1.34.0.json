@@ -120,6 +120,10 @@
 {
 "date":"2021-12-01",
 "total":105
+},
+{
+"date":"2021-12-02",
+"total":108
 }
 ],
 "downloads_per_subdir":[
@@ -129,7 +133,7 @@
 },
 {
 "subdir":"osx-64",
-"total":78
+"total":81
 }
 ],
 "package":"bioconductor-ibmq",
@@ -453,6 +457,15 @@
 {
 "subdir":"osx-64",
 "total":78
+}
+]
+},
+{
+"date":"2021-12-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":81
 }
 ]
 }

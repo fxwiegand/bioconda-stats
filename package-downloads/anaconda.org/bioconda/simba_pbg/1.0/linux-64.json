@@ -27,7 +27,7 @@
 },
 {
 "basename":"simba_pbg-1.0-py38h4a8c8d9_1.tar.bz2",
-"total":19
+"total":20
 },
 {
 "basename":"simba_pbg-1.0-py39h38f01e4_1.tar.bz2",
@@ -114,6 +114,10 @@
 {
 "date":"2021-12-01",
 "total":134
+},
+{
+"date":"2021-12-02",
+"total":135
 }
 ],
 "package":"simba_pbg",
@@ -463,6 +467,15 @@
 {
 "basename":"simba_pbg-1.0-py39h38f01e4_1.tar.bz2",
 "total":21
+}
+]
+},
+{
+"date":"2021-12-02",
+"downloads_per_basename":[
+{
+"basename":"simba_pbg-1.0-py38h4a8c8d9_1.tar.bz2",
+"total":20
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-ensembldb-2.18.1-r41hdfd78af_0.tar.bz2",
-"total":519
+"total":532
 }
 ],
 "downloads_per_date":[
@@ -110,6 +110,10 @@
 {
 "date":"2021-12-01",
 "total":519
+},
+{
+"date":"2021-12-02",
+"total":532
 }
 ],
 "package":"bioconductor-ensembldb",
@@ -345,6 +349,15 @@
 {
 "basename":"bioconductor-ensembldb-2.18.1-r41hdfd78af_0.tar.bz2",
 "total":519
+}
+]
+},
+{
+"date":"2021-12-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ensembldb-2.18.1-r41hdfd78af_0.tar.bz2",
+"total":532
 }
 ]
 }

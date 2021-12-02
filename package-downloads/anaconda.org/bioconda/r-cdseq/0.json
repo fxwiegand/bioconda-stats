@@ -56,6 +56,10 @@
 {
 "date":"2021-12-01",
 "total":51
+},
+{
+"date":"2021-12-02",
+"total":54
 }
 ],
 "downloads_per_subdir":[
@@ -65,7 +69,7 @@
 },
 {
 "subdir":"osx-64",
-"total":39
+"total":42
 }
 ],
 "package":"r-cdseq",
@@ -205,6 +209,15 @@
 {
 "subdir":"osx-64",
 "total":39
+}
+]
+},
+{
+"date":"2021-12-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":42
 }
 ]
 }

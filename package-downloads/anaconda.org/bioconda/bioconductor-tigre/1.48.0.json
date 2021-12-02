@@ -116,6 +116,10 @@
 {
 "date":"2021-12-01",
 "total":81
+},
+{
+"date":"2021-12-02",
+"total":85
 }
 ],
 "downloads_per_subdir":[
@@ -125,7 +129,7 @@
 },
 {
 "subdir":"osx-64",
-"total":66
+"total":70
 }
 ],
 "package":"bioconductor-tigre",
@@ -403,6 +407,15 @@
 {
 "subdir":"osx-64",
 "total":66
+}
+]
+},
+{
+"date":"2021-12-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":70
 }
 ]
 }
