@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-yaml-tiny-1.70-pl526_1.tar.bz2",
-"total":298
+"total":299
 },
 {
 "basename":"perl-yaml-tiny-1.70-pl5.22.0_0.tar.bz2",
@@ -154,6 +154,10 @@
 {
 "date":"2021-12-02",
 "total":765
+},
+{
+"date":"2021-12-03",
+"total":766
 }
 ],
 "package":"perl-yaml-tiny",
@@ -261,6 +265,15 @@
 {
 "basename":"perl-yaml-tiny-1.70-pl5.22.0_0.tar.bz2",
 "total":467
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_basename":[
+{
+"basename":"perl-yaml-tiny-1.70-pl526_1.tar.bz2",
+"total":299
 }
 ]
 }

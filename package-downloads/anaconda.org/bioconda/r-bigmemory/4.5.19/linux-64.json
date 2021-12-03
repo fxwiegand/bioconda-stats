@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-bigmemory-4.5.19-r3.3.2_0.tar.bz2",
-"total":604
+"total":605
 },
 {
 "basename":"r-bigmemory-4.5.19-r3.2.2_0.tar.bz2",
@@ -182,6 +182,10 @@
 {
 "date":"2021-12-02",
 "total":2075
+},
+{
+"date":"2021-12-03",
+"total":2076
 }
 ],
 "package":"r-bigmemory",
@@ -330,6 +334,15 @@
 {
 "basename":"r-bigmemory-4.5.19-r3.2.2_0.tar.bz2",
 "total":884
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_basename":[
+{
+"basename":"r-bigmemory-4.5.19-r3.3.2_0.tar.bz2",
+"total":605
 }
 ]
 }

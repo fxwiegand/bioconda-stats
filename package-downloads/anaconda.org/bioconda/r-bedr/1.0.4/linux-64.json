@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-bedr-1.0.4-r351h6115d3f_1.tar.bz2",
-"total":168
+"total":169
 },
 {
 "basename":"r-bedr-1.0.4-r341h6115d3f_0.tar.bz2",
@@ -194,6 +194,10 @@
 {
 "date":"2021-12-02",
 "total":602
+},
+{
+"date":"2021-12-03",
+"total":603
 }
 ],
 "package":"r-bedr",
@@ -328,6 +332,15 @@
 {
 "basename":"r-bedr-1.0.4-r341h6115d3f_0.tar.bz2",
 "total":274
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_basename":[
+{
+"basename":"r-bedr-1.0.4-r351h6115d3f_1.tar.bz2",
+"total":169
 }
 ]
 }

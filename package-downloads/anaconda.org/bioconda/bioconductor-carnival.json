@@ -648,6 +648,10 @@
 {
 "date":"2021-12-02",
 "total":784
+},
+{
+"date":"2021-12-03",
+"total":785
 }
 ],
 "downloads_per_version":[
@@ -656,7 +660,7 @@
 "version":"2.4.0"
 },
 {
-"total":220,
+"total":221,
 "version":"2.2.0"
 },
 {
@@ -671,7 +675,7 @@
 "package":"bioconductor-carnival",
 "recent_downloads":[
 {
-"date":"2021-10-01",
+"date":"2021-10-03",
 "downloads_per_version":[
 {
 "total":160,
@@ -1299,6 +1303,15 @@
 {
 "total":266,
 "version":"1.2.0"
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_version":[
+{
+"total":221,
+"version":"2.2.0"
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"cd-hit-4.6.8-0.tar.bz2",
-"total":9731
+"total":9732
 },
 {
 "basename":"cd-hit-4.6.8-hfc679d8_2.tar.bz2",
@@ -642,6 +642,10 @@
 {
 "date":"2021-12-02",
 "total":19730
+},
+{
+"date":"2021-12-03",
+"total":19731
 }
 ],
 "package":"cd-hit",
@@ -1055,6 +1059,15 @@
 {
 "basename":"cd-hit-4.6.8-hfc679d8_2.tar.bz2",
 "total":9999
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_basename":[
+{
+"basename":"cd-hit-4.6.8-0.tar.bz2",
+"total":9732
 }
 ]
 }

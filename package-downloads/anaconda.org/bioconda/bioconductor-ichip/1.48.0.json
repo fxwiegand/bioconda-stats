@@ -124,6 +124,10 @@
 {
 "date":"2021-12-02",
 "total":100
+},
+{
+"date":"2021-12-03",
+"total":101
 }
 ],
 "downloads_per_subdir":[
@@ -133,7 +137,7 @@
 },
 {
 "subdir":"osx-64",
-"total":78
+"total":79
 }
 ],
 "package":"bioconductor-ichip",
@@ -449,6 +453,15 @@
 {
 "subdir":"osx-64",
 "total":78
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":79
 }
 ]
 }

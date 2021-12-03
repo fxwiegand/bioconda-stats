@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-seqminer-6.1-r341h9d2a408_0.tar.bz2",
-"total":166
+"total":168
 },
 {
 "basename":"r-seqminer-6.1-r351h9d2a408_0.tar.bz2",
@@ -214,6 +214,10 @@
 {
 "date":"2021-12-02",
 "total":753
+},
+{
+"date":"2021-12-03",
+"total":755
 }
 ],
 "package":"r-seqminer",
@@ -390,6 +394,15 @@
 {
 "basename":"r-seqminer-6.1-r351h9d2a408_0.tar.bz2",
 "total":289
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_basename":[
+{
+"basename":"r-seqminer-6.1-r341h9d2a408_0.tar.bz2",
+"total":168
 }
 ]
 }

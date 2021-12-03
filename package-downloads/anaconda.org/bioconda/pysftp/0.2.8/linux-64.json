@@ -11,7 +11,7 @@
 },
 {
 "basename":"pysftp-0.2.8-py35_0.tar.bz2",
-"total":6208
+"total":6209
 }
 ],
 "downloads_per_date":[
@@ -182,6 +182,10 @@
 {
 "date":"2021-12-02",
 "total":9600
+},
+{
+"date":"2021-12-03",
+"total":9601
 }
 ],
 "package":"pysftp",
@@ -325,6 +329,15 @@
 {
 "basename":"pysftp-0.2.8-py34_0.tar.bz2",
 "total":1568
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_basename":[
+{
+"basename":"pysftp-0.2.8-py35_0.tar.bz2",
+"total":6209
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"cmappy-2.2.0-py27_0.tar.bz2",
-"total":467
+"total":468
 },
 {
 "basename":"cmappy-2.2.0-py35_0.tar.bz2",
@@ -214,6 +214,10 @@
 {
 "date":"2021-12-02",
 "total":1466
+},
+{
+"date":"2021-12-03",
+"total":1467
 }
 ],
 "package":"cmappy",
@@ -397,6 +401,15 @@
 {
 "basename":"cmappy-2.2.0-py35_0.tar.bz2",
 "total":534
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_basename":[
+{
+"basename":"cmappy-2.2.0-py27_0.tar.bz2",
+"total":468
 }
 ]
 }

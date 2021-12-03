@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-file-slurper-0.008-pl526_1.tar.bz2",
-"total":384
+"total":385
 },
 {
 "basename":"perl-file-slurper-0.008-pl526_2.tar.bz2",
@@ -406,6 +406,10 @@
 {
 "date":"2021-12-02",
 "total":2967
+},
+{
+"date":"2021-12-03",
+"total":2968
 }
 ],
 "package":"perl-file-slurper",
@@ -613,6 +617,15 @@
 {
 "basename":"perl-file-slurper-0.008-0.tar.bz2",
 "total":2082
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_basename":[
+{
+"basename":"perl-file-slurper-0.008-pl526_1.tar.bz2",
+"total":385
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-base64-1.1-r3.3.1_0.tar.bz2",
-"total":582
+"total":583
 },
 {
 "basename":"r-base64-1.1-r3.2.2_0.tar.bz2",
@@ -146,6 +146,10 @@
 {
 "date":"2021-12-02",
 "total":2040
+},
+{
+"date":"2021-12-03",
+"total":2041
 }
 ],
 "package":"r-base64",
@@ -267,6 +271,15 @@
 {
 "basename":"r-base64-1.1-r3.2.2_0.tar.bz2",
 "total":894
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_basename":[
+{
+"basename":"r-base64-1.1-r3.3.1_0.tar.bz2",
+"total":583
 }
 ]
 }

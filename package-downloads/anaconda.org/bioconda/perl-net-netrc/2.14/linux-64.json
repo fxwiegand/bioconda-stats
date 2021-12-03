@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-net-netrc-2.14-pl5.22.0_0.tar.bz2",
-"total":589
+"total":590
 }
 ],
 "downloads_per_date":[
@@ -150,6 +150,10 @@
 {
 "date":"2021-12-02",
 "total":738
+},
+{
+"date":"2021-12-03",
+"total":739
 }
 ],
 "package":"perl-net-netrc",
@@ -252,6 +256,15 @@
 {
 "basename":"perl-net-netrc-2.14-pl526_1.tar.bz2",
 "total":149
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_basename":[
+{
+"basename":"perl-net-netrc-2.14-pl5.22.0_0.tar.bz2",
+"total":590
 }
 ]
 }

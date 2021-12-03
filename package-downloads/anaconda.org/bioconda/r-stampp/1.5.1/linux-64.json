@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-stampp-1.5.1-r341h6115d3f_2.tar.bz2",
-"total":162
+"total":163
 },
 {
 "basename":"r-stampp-1.5.1-r351h6115d3f_3.tar.bz2",
@@ -198,6 +198,10 @@
 {
 "date":"2021-12-02",
 "total":810
+},
+{
+"date":"2021-12-03",
+"total":811
 }
 ],
 "package":"r-stampp",
@@ -346,6 +350,15 @@
 {
 "basename":"r-stampp-1.5.1-r351h6115d3f_2.tar.bz2",
 "total":180
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_basename":[
+{
+"basename":"r-stampp-1.5.1-r341h6115d3f_2.tar.bz2",
+"total":163
 }
 ]
 }

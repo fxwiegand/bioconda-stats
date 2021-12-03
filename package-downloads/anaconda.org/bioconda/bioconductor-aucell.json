@@ -740,6 +740,10 @@
 {
 "date":"2021-12-02",
 "total":2670
+},
+{
+"date":"2021-12-03",
+"total":2672
 }
 ],
 "downloads_per_version":[
@@ -756,7 +760,7 @@
 "version":"1.10.0"
 },
 {
-"total":331,
+"total":332,
 "version":"1.6.1"
 },
 {
@@ -768,7 +772,7 @@
 "version":"1.4.1"
 },
 {
-"total":445,
+"total":446,
 "version":"1.8.0"
 },
 {
@@ -779,7 +783,7 @@
 "package":"bioconductor-aucell",
 "recent_downloads":[
 {
-"date":"2021-10-01",
+"date":"2021-10-03",
 "downloads_per_version":[
 {
 "total":214,
@@ -2084,6 +2088,19 @@
 {
 "total":463,
 "version":"1.12.0"
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_version":[
+{
+"total":332,
+"version":"1.6.1"
+},
+{
+"total":446,
+"version":"1.8.0"
 }
 ]
 }

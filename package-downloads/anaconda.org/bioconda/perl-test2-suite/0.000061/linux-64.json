@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-test2-suite-0.000061-0.tar.bz2",
-"total":2602
+"total":2603
 }
 ],
 "downloads_per_date":[
@@ -270,6 +270,10 @@
 {
 "date":"2021-12-02",
 "total":3090
+},
+{
+"date":"2021-12-03",
+"total":3091
 }
 ],
 "package":"perl-test2-suite",
@@ -384,6 +388,15 @@
 {
 "basename":"perl-test2-suite-0.000061-0.tar.bz2",
 "total":2602
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_basename":[
+{
+"basename":"perl-test2-suite-0.000061-0.tar.bz2",
+"total":2603
 }
 ]
 }

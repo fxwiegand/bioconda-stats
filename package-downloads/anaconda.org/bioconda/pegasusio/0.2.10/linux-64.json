@@ -23,7 +23,7 @@
 },
 {
 "basename":"pegasusio-0.2.10-py37hf01694f_0.tar.bz2",
-"total":43
+"total":44
 },
 {
 "basename":"pegasusio-0.2.10-py38h0213d0e_0.tar.bz2",
@@ -202,6 +202,10 @@
 {
 "date":"2021-12-02",
 "total":263
+},
+{
+"date":"2021-12-03",
+"total":264
 }
 ],
 "package":"pegasusio",
@@ -433,6 +437,15 @@
 {
 "basename":"pegasusio-0.2.10-py38h0213d0e_0.tar.bz2",
 "total":49
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_basename":[
+{
+"basename":"pegasusio-0.2.10-py37hf01694f_0.tar.bz2",
+"total":44
 }
 ]
 }

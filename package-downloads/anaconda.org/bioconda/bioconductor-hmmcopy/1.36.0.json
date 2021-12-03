@@ -120,6 +120,10 @@
 {
 "date":"2021-12-02",
 "total":192
+},
+{
+"date":"2021-12-03",
+"total":194
 }
 ],
 "downloads_per_subdir":[
@@ -129,7 +133,7 @@
 },
 {
 "subdir":"linux-64",
-"total":118
+"total":120
 }
 ],
 "package":"bioconductor-hmmcopy",
@@ -473,6 +477,15 @@
 {
 "subdir":"linux-64",
 "total":118
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":120
 }
 ]
 }

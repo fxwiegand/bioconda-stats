@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-test-most-0.34-1.tar.bz2",
-"total":4500
+"total":4501
 }
 ],
 "downloads_per_date":[
@@ -390,6 +390,10 @@
 {
 "date":"2021-12-02",
 "total":8301
+},
+{
+"date":"2021-12-03",
+"total":8302
 }
 ],
 "package":"perl-test-most",
@@ -577,6 +581,15 @@
 {
 "basename":"perl-test-most-0.34-1.tar.bz2",
 "total":4500
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_basename":[
+{
+"basename":"perl-test-most-0.34-1.tar.bz2",
+"total":4501
 }
 ]
 }

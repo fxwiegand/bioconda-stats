@@ -7,7 +7,7 @@
 },
 {
 "basename":"epicseg-1.0-r40h516909a_3.tar.bz2",
-"total":179
+"total":180
 },
 {
 "basename":"epicseg-1.0-r341h470a237_1.tar.bz2",
@@ -310,6 +310,10 @@
 {
 "date":"2021-12-02",
 "total":1344
+},
+{
+"date":"2021-12-03",
+"total":1345
 }
 ],
 "package":"epicseg",
@@ -663,6 +667,15 @@
 {
 "basename":"epicseg-1.0-r351h14c3975_2.tar.bz2",
 "total":318
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_basename":[
+{
+"basename":"epicseg-1.0-r40h516909a_3.tar.bz2",
+"total":180
 }
 ]
 }

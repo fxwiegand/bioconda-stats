@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-tie-hash-1.05-pl5.22.0_0.tar.bz2",
-"total":458
+"total":459
 }
 ],
 "downloads_per_date":[
@@ -154,6 +154,10 @@
 {
 "date":"2021-12-02",
 "total":744
+},
+{
+"date":"2021-12-03",
+"total":745
 }
 ],
 "package":"perl-tie-hash",
@@ -243,6 +247,15 @@
 {
 "basename":"perl-tie-hash-1.05-pl526_1.tar.bz2",
 "total":286
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_basename":[
+{
+"basename":"perl-tie-hash-1.05-pl5.22.0_0.tar.bz2",
+"total":459
 }
 ]
 }

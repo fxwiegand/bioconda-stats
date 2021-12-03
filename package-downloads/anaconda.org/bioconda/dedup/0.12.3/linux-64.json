@@ -7,7 +7,7 @@
 },
 {
 "basename":"dedup-0.12.3-py27_0.tar.bz2",
-"total":264
+"total":265
 },
 {
 "basename":"dedup-0.12.3-py35_0.tar.bz2",
@@ -218,6 +218,10 @@
 {
 "date":"2021-12-02",
 "total":841
+},
+{
+"date":"2021-12-03",
+"total":842
 }
 ],
 "package":"dedup",
@@ -399,6 +403,15 @@
 {
 "basename":"dedup-0.12.3-py35_0.tar.bz2",
 "total":345
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_basename":[
+{
+"basename":"dedup-0.12.3-py27_0.tar.bz2",
+"total":265
 }
 ]
 }

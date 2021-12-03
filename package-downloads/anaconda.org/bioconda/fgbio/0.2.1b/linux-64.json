@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"fgbio-0.2.1b-py35_0.tar.bz2",
-"total":513
+"total":514
 },
 {
 "basename":"fgbio-0.2.1b-py36_0.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2021-12-02",
 "total":2132
+},
+{
+"date":"2021-12-03",
+"total":2133
 }
 ],
 "package":"fgbio",
@@ -476,6 +480,15 @@
 {
 "basename":"fgbio-0.2.1b-py27_0.tar.bz2",
 "total":882
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_basename":[
+{
+"basename":"fgbio-0.2.1b-py35_0.tar.bz2",
+"total":514
 }
 ]
 }

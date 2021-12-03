@@ -124,6 +124,10 @@
 {
 "date":"2021-12-02",
 "total":208
+},
+{
+"date":"2021-12-03",
+"total":212
 }
 ],
 "downloads_per_subdir":[
@@ -133,7 +137,7 @@
 },
 {
 "subdir":"osx-64",
-"total":105
+"total":109
 }
 ],
 "package":"bioconductor-bluster",
@@ -510,6 +514,15 @@
 {
 "subdir":"osx-64",
 "total":105
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":109
 }
 ]
 }

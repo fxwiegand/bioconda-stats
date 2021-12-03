@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-onto-perl-1.45-pl526_2.tar.bz2",
-"total":478
+"total":479
 },
 {
 "basename":"perl-onto-perl-1.45-0.tar.bz2",
@@ -142,6 +142,10 @@
 {
 "date":"2021-12-02",
 "total":1142
+},
+{
+"date":"2021-12-03",
+"total":1143
 }
 ],
 "package":"perl-onto-perl",
@@ -250,6 +254,15 @@
 {
 "basename":"perl-onto-perl-1.45-0.tar.bz2",
 "total":513
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_basename":[
+{
+"basename":"perl-onto-perl-1.45-pl526_2.tar.bz2",
+"total":479
 }
 ]
 }

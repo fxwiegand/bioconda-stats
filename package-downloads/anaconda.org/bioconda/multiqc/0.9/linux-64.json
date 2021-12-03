@@ -7,7 +7,7 @@
 },
 {
 "basename":"multiqc-0.9-py27_0.tar.bz2",
-"total":750
+"total":751
 },
 {
 "basename":"multiqc-0.9-py35_0.tar.bz2",
@@ -498,6 +498,10 @@
 {
 "date":"2021-12-02",
 "total":5561
+},
+{
+"date":"2021-12-03",
+"total":5562
 }
 ],
 "package":"multiqc",
@@ -807,6 +811,15 @@
 {
 "basename":"multiqc-0.9-py35_0.tar.bz2",
 "total":4272
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_basename":[
+{
+"basename":"multiqc-0.9-py27_0.tar.bz2",
+"total":751
 }
 ]
 }

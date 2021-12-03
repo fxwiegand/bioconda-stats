@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-extutils-depends-0.405-pl5.22.0_0.tar.bz2",
-"total":233
+"total":234
 },
 {
 "basename":"perl-extutils-depends-0.405-pl526_1.tar.bz2",
@@ -202,6 +202,10 @@
 {
 "date":"2021-12-02",
 "total":704
+},
+{
+"date":"2021-12-03",
+"total":705
 }
 ],
 "package":"perl-extutils-depends",
@@ -336,6 +340,15 @@
 {
 "basename":"perl-extutils-depends-0.405-pl526_2.tar.bz2",
 "total":153
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_basename":[
+{
+"basename":"perl-extutils-depends-0.405-pl5.22.0_0.tar.bz2",
+"total":234
 }
 ]
 }

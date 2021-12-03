@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"nanosv-1.2.3-py35_0.tar.bz2",
-"total":240
+"total":241
 },
 {
 "basename":"nanosv-1.2.3-py36_0.tar.bz2",
@@ -246,6 +246,10 @@
 {
 "date":"2021-12-02",
 "total":655
+},
+{
+"date":"2021-12-03",
+"total":656
 }
 ],
 "package":"nanosv",
@@ -378,6 +382,15 @@
 {
 "basename":"nanosv-1.2.3-py36_0.tar.bz2",
 "total":415
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_basename":[
+{
+"basename":"nanosv-1.2.3-py35_0.tar.bz2",
+"total":241
 }
 ]
 }

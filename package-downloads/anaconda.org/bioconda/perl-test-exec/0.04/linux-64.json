@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-exec-0.04-pl526_1.tar.bz2",
-"total":134
+"total":135
 },
 {
 "basename":"perl-test-exec-0.04-pl526_0.tar.bz2",
@@ -138,6 +138,10 @@
 {
 "date":"2021-12-02",
 "total":420
+},
+{
+"date":"2021-12-03",
+"total":421
 }
 ],
 "package":"perl-test-exec",
@@ -240,6 +244,15 @@
 {
 "basename":"perl-test-exec-0.04-pl526_0.tar.bz2",
 "total":286
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_basename":[
+{
+"basename":"perl-test-exec-0.04-pl526_1.tar.bz2",
+"total":135
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"firecloud-0.16.20-py37he1b5a44_0.tar.bz2",
-"total":104
+"total":105
 },
 {
 "basename":"firecloud-0.16.20-py27he1b5a44_0.tar.bz2",
@@ -194,6 +194,10 @@
 {
 "date":"2021-12-02",
 "total":326
+},
+{
+"date":"2021-12-03",
+"total":327
 }
 ],
 "package":"firecloud",
@@ -374,6 +378,15 @@
 {
 "basename":"firecloud-0.16.20-py36he1b5a44_0.tar.bz2",
 "total":111
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_basename":[
+{
+"basename":"firecloud-0.16.20-py37he1b5a44_0.tar.bz2",
+"total":105
 }
 ]
 }

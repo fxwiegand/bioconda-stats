@@ -764,6 +764,10 @@
 {
 "date":"2021-12-02",
 "total":3551
+},
+{
+"date":"2021-12-03",
+"total":3551
 }
 ],
 "downloads_per_subdir":[
@@ -779,12 +783,8 @@
 "package":"vispr",
 "recent_downloads":[
 {
-"date":"2021-10-01",
+"date":"2021-10-03",
 "downloads_per_subdir":[
-{
-"subdir":"linux-64",
-"total":1123
-},
 {
 "subdir":"osx-64",
 "total":2301
@@ -803,6 +803,10 @@
 {
 "date":"2021-10-05",
 "downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":1123
+},
 {
 "subdir":"osx-64",
 "total":2307

@@ -768,6 +768,10 @@
 {
 "date":"2021-12-02",
 "total":3138
+},
+{
+"date":"2021-12-03",
+"total":3138
 }
 ],
 "downloads_per_subdir":[
@@ -783,12 +787,8 @@
 "package":"ucsc-pslmrnacover",
 "recent_downloads":[
 {
-"date":"2021-10-01",
+"date":"2021-10-02",
 "downloads_per_subdir":[
-{
-"subdir":"linux-64",
-"total":902
-},
 {
 "subdir":"osx-64",
 "total":2102
@@ -807,6 +807,10 @@
 {
 "date":"2021-10-04",
 "downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":902
+},
 {
 "subdir":"osx-64",
 "total":2107

@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-file-fetch-0.48-1.tar.bz2",
-"total":453
+"total":454
 },
 {
 "basename":"perl-file-fetch-0.48-pl5.22.0_0.tar.bz2",
@@ -238,6 +238,10 @@
 {
 "date":"2021-12-02",
 "total":9479
+},
+{
+"date":"2021-12-03",
+"total":9480
 }
 ],
 "package":"perl-file-fetch",
@@ -417,6 +421,15 @@
 {
 "basename":"perl-file-fetch-0.48-pl5.22.0_0.tar.bz2",
 "total":727
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_basename":[
+{
+"basename":"perl-file-fetch-0.48-1.tar.bz2",
+"total":454
 }
 ]
 }

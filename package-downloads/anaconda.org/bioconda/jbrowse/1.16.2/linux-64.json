@@ -7,7 +7,7 @@
 },
 {
 "basename":"jbrowse-1.16.2-pl526h6bb024c_5.tar.bz2",
-"total":199
+"total":200
 },
 {
 "basename":"jbrowse-1.16.2-pl526h6bb024c_7.tar.bz2",
@@ -286,6 +286,10 @@
 {
 "date":"2021-12-02",
 "total":1010
+},
+{
+"date":"2021-12-03",
+"total":1011
 }
 ],
 "package":"jbrowse",
@@ -526,6 +530,15 @@
 {
 "basename":"jbrowse-1.16.2-pl526h6bb024c_7.tar.bz2",
 "total":282
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_basename":[
+{
+"basename":"jbrowse-1.16.2-pl526h6bb024c_5.tar.bz2",
+"total":200
 }
 ]
 }

@@ -768,6 +768,10 @@
 {
 "date":"2021-12-02",
 "total":2770
+},
+{
+"date":"2021-12-03",
+"total":2772
 }
 ],
 "downloads_per_subdir":[
@@ -777,7 +781,7 @@
 },
 {
 "subdir":"noarch",
-"total":510
+"total":512
 },
 {
 "subdir":"osx-64",
@@ -787,7 +791,7 @@
 "package":"rna-seqc",
 "recent_downloads":[
 {
-"date":"2021-10-01",
+"date":"2021-10-02",
 "downloads_per_subdir":[
 {
 "subdir":"noarch",
@@ -1428,6 +1432,15 @@
 {
 "subdir":"noarch",
 "total":510
+}
+]
+},
+{
+"date":"2021-12-03",
+"downloads_per_subdir":[
+{
+"subdir":"noarch",
+"total":512
 }
 ]
 }
