@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-sscore-1.48.0-r3.3.2_0.tar.bz2",
-"total":474
+"total":475
 },
 {
 "basename":"bioconductor-sscore-1.48.0-r3.4.1_0.tar.bz2",
@@ -182,6 +182,10 @@
 {
 "date":"2021-12-03",
 "total":1043
+},
+{
+"date":"2021-12-04",
+"total":1044
 }
 ],
 "package":"bioconductor-sscore",
@@ -305,6 +309,15 @@
 {
 "basename":"bioconductor-sscore-1.48.0-r3.4.1_0.tar.bz2",
 "total":569
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-sscore-1.48.0-r3.3.2_0.tar.bz2",
+"total":475
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-cardinal-1.12.1-r341h2d50403_0.tar.bz2",
-"total":244
+"total":245
 },
 {
 "basename":"bioconductor-cardinal-1.12.1-r351hfc679d8_1.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2021-12-03",
 "total":1583
+},
+{
+"date":"2021-12-04",
+"total":1584
 }
 ],
 "package":"bioconductor-cardinal",
@@ -509,6 +513,15 @@
 {
 "basename":"bioconductor-cardinal-1.12.1-r351hfc679d8_1.tar.bz2",
 "total":890
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cardinal-1.12.1-r341h2d50403_0.tar.bz2",
+"total":245
 }
 ]
 }

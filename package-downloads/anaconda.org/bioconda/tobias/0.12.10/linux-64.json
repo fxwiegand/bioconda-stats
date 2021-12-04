@@ -7,7 +7,7 @@
 },
 {
 "basename":"tobias-0.12.10-py36h4f025d9_1.tar.bz2",
-"total":39
+"total":40
 },
 {
 "basename":"tobias-0.12.10-py37h97743b1_0.tar.bz2",
@@ -186,6 +186,10 @@
 {
 "date":"2021-12-03",
 "total":164
+},
+{
+"date":"2021-12-04",
+"total":165
 }
 ],
 "package":"tobias",
@@ -356,6 +360,15 @@
 {
 "basename":"tobias-0.12.10-py37h77a2a36_1.tar.bz2",
 "total":49
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
+"basename":"tobias-0.12.10-py36h4f025d9_1.tar.bz2",
+"total":40
 }
 ]
 }

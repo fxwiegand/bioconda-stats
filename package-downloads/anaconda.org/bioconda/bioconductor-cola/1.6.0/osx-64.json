@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-cola-1.6.0-r40h832b226_1.tar.bz2",
-"total":501
+"total":503
 }
 ],
 "downloads_per_date":[
@@ -778,6 +778,10 @@
 {
 "date":"2021-12-03",
 "total":805
+},
+{
+"date":"2021-12-04",
+"total":807
 }
 ],
 "package":"bioconductor-cola",
@@ -1336,6 +1340,15 @@
 {
 "basename":"bioconductor-cola-1.6.0-r40h832b226_1.tar.bz2",
 "total":501
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cola-1.6.0-r40h832b226_1.tar.bz2",
+"total":503
 }
 ]
 }

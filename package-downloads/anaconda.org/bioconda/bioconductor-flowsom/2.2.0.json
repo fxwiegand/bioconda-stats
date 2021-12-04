@@ -112,6 +112,10 @@
 {
 "date":"2021-12-03",
 "total":113
+},
+{
+"date":"2021-12-04",
+"total":115
 }
 ],
 "downloads_per_subdir":[
@@ -121,7 +125,7 @@
 },
 {
 "subdir":"osx-64",
-"total":78
+"total":80
 }
 ],
 "package":"bioconductor-flowsom",
@@ -419,6 +423,15 @@
 {
 "subdir":"osx-64",
 "total":78
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":80
 }
 ]
 }

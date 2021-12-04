@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-zlibbioc-1.26.0-r351h470a237_0.tar.bz2",
-"total":8654
+"total":8655
 },
 {
 "basename":"bioconductor-zlibbioc-1.26.0-r341h470a237_0.tar.bz2",
@@ -738,6 +738,10 @@
 {
 "date":"2021-12-03",
 "total":25030
+},
+{
+"date":"2021-12-04",
+"total":25031
 }
 ],
 "package":"bioconductor-zlibbioc",
@@ -1284,6 +1288,15 @@
 {
 "basename":"bioconductor-zlibbioc-1.26.0-r341h470a237_0.tar.bz2",
 "total":16376
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-zlibbioc-1.26.0-r351h470a237_0.tar.bz2",
+"total":8655
 }
 ]
 }

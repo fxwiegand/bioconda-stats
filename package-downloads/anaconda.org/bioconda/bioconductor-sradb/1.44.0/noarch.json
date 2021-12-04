@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-sradb-1.44.0-r351_1.tar.bz2",
-"total":403
+"total":405
 }
 ],
 "downloads_per_date":[
@@ -646,6 +646,10 @@
 {
 "date":"2021-12-03",
 "total":580
+},
+{
+"date":"2021-12-04",
+"total":582
 }
 ],
 "package":"bioconductor-sradb",
@@ -981,6 +985,15 @@
 {
 "basename":"bioconductor-sradb-1.44.0-r351_1.tar.bz2",
 "total":403
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-sradb-1.44.0-r351_1.tar.bz2",
+"total":405
 }
 ]
 }

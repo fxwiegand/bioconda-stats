@@ -768,6 +768,10 @@
 {
 "date":"2021-12-03",
 "total":917
+},
+{
+"date":"2021-12-04",
+"total":919
 }
 ],
 "downloads_per_subdir":[
@@ -777,7 +781,7 @@
 },
 {
 "subdir":"osx-64",
-"total":800
+"total":802
 }
 ],
 "package":"bioconductor-nanomethviz",
@@ -1377,6 +1381,15 @@
 {
 "subdir":"osx-64",
 "total":800
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":802
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"galaxy-objectstore-20.9.1-py_0.tar.bz2",
-"total":229
+"total":231
 }
 ],
 "downloads_per_date":[
@@ -642,6 +642,10 @@
 {
 "date":"2021-12-03",
 "total":229
+},
+{
+"date":"2021-12-04",
+"total":231
 }
 ],
 "package":"galaxy-objectstore",
@@ -949,6 +953,15 @@
 {
 "basename":"galaxy-objectstore-20.9.1-py_0.tar.bz2",
 "total":229
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
+"basename":"galaxy-objectstore-20.9.1-py_0.tar.bz2",
+"total":231
 }
 ]
 }

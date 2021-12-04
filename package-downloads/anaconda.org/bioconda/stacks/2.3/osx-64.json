@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"stacks-2.3-h87af4ef_5.tar.bz2",
-"total":504
+"total":506
 },
 {
 "basename":"stacks-2.3-h7475705_4.tar.bz2",
@@ -782,6 +782,10 @@
 {
 "date":"2021-12-03",
 "total":2140
+},
+{
+"date":"2021-12-04",
+"total":2142
 }
 ],
 "package":"stacks",
@@ -1348,6 +1352,15 @@
 {
 "basename":"stacks-2.3-h87af4ef_5.tar.bz2",
 "total":504
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
+"basename":"stacks-2.3-h87af4ef_5.tar.bz2",
+"total":506
 }
 ]
 }

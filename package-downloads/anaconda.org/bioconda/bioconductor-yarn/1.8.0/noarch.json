@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-yarn-1.8.0-r351_0.tar.bz2",
-"total":363
+"total":365
 }
 ],
 "downloads_per_date":[
@@ -650,6 +650,10 @@
 {
 "date":"2021-12-03",
 "total":363
+},
+{
+"date":"2021-12-04",
+"total":365
 }
 ],
 "package":"bioconductor-yarn",
@@ -930,6 +934,15 @@
 {
 "basename":"bioconductor-yarn-1.8.0-r351_0.tar.bz2",
 "total":363
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-yarn-1.8.0-r351_0.tar.bz2",
+"total":365
 }
 ]
 }

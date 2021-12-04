@@ -124,6 +124,10 @@
 {
 "date":"2021-12-03",
 "total":113
+},
+{
+"date":"2021-12-04",
+"total":115
 }
 ],
 "downloads_per_subdir":[
@@ -133,7 +137,7 @@
 },
 {
 "subdir":"osx-64",
-"total":80
+"total":82
 }
 ],
 "package":"bioconductor-ringo",
@@ -458,6 +462,15 @@
 {
 "subdir":"osx-64",
 "total":80
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":82
 }
 ]
 }

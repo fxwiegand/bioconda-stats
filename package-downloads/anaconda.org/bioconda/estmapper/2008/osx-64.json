@@ -39,7 +39,7 @@
 },
 {
 "basename":"estmapper-2008-py36pl526hd0a1c67_1.tar.bz2",
-"total":1880
+"total":1882
 }
 ],
 "downloads_per_date":[
@@ -810,6 +810,10 @@
 {
 "date":"2021-12-03",
 "total":2426
+},
+{
+"date":"2021-12-04",
+"total":2428
 }
 ],
 "package":"estmapper",
@@ -1430,6 +1434,15 @@
 "date":"2021-12-03",
 "downloads_per_basename":[
 {
+"basename":"estmapper-2008-py36pl526hd0a1c67_1.tar.bz2",
+"total":1880
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
 "basename":"estmapper-2008-py34pl5.22.0_0.tar.bz2",
 "total":40
 },
@@ -1439,7 +1452,7 @@
 },
 {
 "basename":"estmapper-2008-py36pl526hd0a1c67_1.tar.bz2",
-"total":1880
+"total":1882
 }
 ]
 }

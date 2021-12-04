@@ -7,7 +7,7 @@
 },
 {
 "basename":"selscan-1.1.0b-2.tar.bz2",
-"total":247
+"total":248
 },
 {
 "basename":"selscan-1.1.0b-ha92aebf_3.tar.bz2",
@@ -202,6 +202,10 @@
 {
 "date":"2021-12-03",
 "total":2604
+},
+{
+"date":"2021-12-04",
+"total":2605
 }
 ],
 "package":"selscan",
@@ -390,6 +394,15 @@
 {
 "basename":"selscan-1.1.0b-ha92aebf_3.tar.bz2",
 "total":251
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
+"basename":"selscan-1.1.0b-2.tar.bz2",
+"total":248
 }
 ]
 }

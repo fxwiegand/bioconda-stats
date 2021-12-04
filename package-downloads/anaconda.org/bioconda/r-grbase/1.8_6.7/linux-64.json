@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-grbase-1.8_6.7-r41hdd66633_1.tar.bz2",
-"total":28
+"total":29
 },
 {
 "basename":"r-grbase-1.8_6.7-r41h52a8340_0.tar.bz2",
@@ -318,6 +318,10 @@
 {
 "date":"2021-12-03",
 "total":95
+},
+{
+"date":"2021-12-04",
+"total":96
 }
 ],
 "package":"r-grbase",
@@ -570,6 +574,15 @@
 {
 "basename":"r-grbase-1.8_6.7-r41h52a8340_0.tar.bz2",
 "total":67
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
+"basename":"r-grbase-1.8_6.7-r41hdd66633_1.tar.bz2",
+"total":29
 }
 ]
 }

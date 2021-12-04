@@ -11,7 +11,7 @@
 },
 {
 "basename":"ucsc-fasize-357-h5eb252a_2.tar.bz2",
-"total":1887
+"total":1889
 }
 ],
 "downloads_per_date":[
@@ -782,6 +782,10 @@
 {
 "date":"2021-12-03",
 "total":2205
+},
+{
+"date":"2021-12-04",
+"total":2207
 }
 ],
 "package":"ucsc-fasize",
@@ -1330,6 +1334,15 @@
 "date":"2021-12-03",
 "downloads_per_basename":[
 {
+"basename":"ucsc-fasize-357-h5eb252a_2.tar.bz2",
+"total":1887
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
 "basename":"ucsc-fasize-357-1.tar.bz2",
 "total":38
 },
@@ -1339,7 +1352,7 @@
 },
 {
 "basename":"ucsc-fasize-357-h5eb252a_2.tar.bz2",
-"total":1887
+"total":1889
 }
 ]
 }

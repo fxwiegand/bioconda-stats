@@ -11,7 +11,7 @@
 },
 {
 "basename":"msprime-0.4.0-py34_gsl1.16_0.tar.bz2",
-"total":414
+"total":415
 },
 {
 "basename":"msprime-0.4.0-py34_gsl1.16_2.tar.bz2",
@@ -230,6 +230,10 @@
 {
 "date":"2021-12-03",
 "total":4682
+},
+{
+"date":"2021-12-04",
+"total":4683
 }
 ],
 "package":"msprime",
@@ -576,6 +580,15 @@
 {
 "basename":"msprime-0.4.0-py36_gsl1.16_2.tar.bz2",
 "total":620
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
+"basename":"msprime-0.4.0-py34_gsl1.16_0.tar.bz2",
+"total":415
 }
 ]
 }

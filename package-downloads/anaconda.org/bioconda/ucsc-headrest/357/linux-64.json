@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-headrest-357-1.tar.bz2",
-"total":325
+"total":326
 },
 {
 "basename":"ucsc-headrest-357-0.tar.bz2",
@@ -138,6 +138,10 @@
 {
 "date":"2021-12-03",
 "total":721
+},
+{
+"date":"2021-12-04",
+"total":722
 }
 ],
 "package":"ucsc-headrest",
@@ -226,6 +230,15 @@
 {
 "basename":"ucsc-headrest-357-0.tar.bz2",
 "total":396
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
+"basename":"ucsc-headrest-357-1.tar.bz2",
+"total":326
 }
 ]
 }

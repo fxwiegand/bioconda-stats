@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-genepredtogtf-357-1.tar.bz2",
-"total":1966
+"total":1968
 }
 ],
 "downloads_per_date":[
@@ -778,6 +778,10 @@
 {
 "date":"2021-12-03",
 "total":2288
+},
+{
+"date":"2021-12-04",
+"total":2290
 }
 ],
 "package":"ucsc-genepredtogtf",
@@ -1331,6 +1335,15 @@
 {
 "basename":"ucsc-genepredtogtf-357-1.tar.bz2",
 "total":1966
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
+"basename":"ucsc-genepredtogtf-357-1.tar.bz2",
+"total":1968
 }
 ]
 }

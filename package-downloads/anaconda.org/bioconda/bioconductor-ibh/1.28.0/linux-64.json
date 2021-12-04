@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-ibh-1.28.0-r351_0.tar.bz2",
-"total":167
+"total":168
 },
 {
 "basename":"bioconductor-ibh-1.28.0-r341_0.tar.bz2",
@@ -190,6 +190,10 @@
 {
 "date":"2021-12-03",
 "total":468
+},
+{
+"date":"2021-12-04",
+"total":469
 }
 ],
 "package":"bioconductor-ibh",
@@ -322,6 +326,15 @@
 {
 "basename":"bioconductor-ibh-1.28.0-r341_0.tar.bz2",
 "total":301
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ibh-1.28.0-r351_0.tar.bz2",
+"total":168
 }
 ]
 }

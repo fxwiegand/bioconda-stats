@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-timecourse-1.52.0-r341_0.tar.bz2",
-"total":164
+"total":165
 },
 {
 "basename":"bioconductor-timecourse-1.52.0-r351_0.tar.bz2",
@@ -198,6 +198,10 @@
 {
 "date":"2021-12-03",
 "total":471
+},
+{
+"date":"2021-12-04",
+"total":472
 }
 ],
 "package":"bioconductor-timecourse",
@@ -308,6 +312,15 @@
 {
 "basename":"bioconductor-timecourse-1.52.0-r351_0.tar.bz2",
 "total":307
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-timecourse-1.52.0-r341_0.tar.bz2",
+"total":165
 }
 ]
 }

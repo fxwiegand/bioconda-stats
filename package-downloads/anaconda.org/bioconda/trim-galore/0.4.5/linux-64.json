@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"trim-galore-0.4.5-pl5.22.0_0.tar.bz2",
-"total":931
+"total":932
 },
 {
 "basename":"trim-galore-0.4.5-pl5.22.0_1.tar.bz2",
@@ -294,6 +294,10 @@
 {
 "date":"2021-12-03",
 "total":5559
+},
+{
+"date":"2021-12-04",
+"total":5560
 }
 ],
 "package":"trim-galore",
@@ -491,6 +495,15 @@
 {
 "basename":"trim-galore-0.4.5-2.tar.bz2",
 "total":2840
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
+"basename":"trim-galore-0.4.5-pl5.22.0_0.tar.bz2",
+"total":932
 }
 ]
 }

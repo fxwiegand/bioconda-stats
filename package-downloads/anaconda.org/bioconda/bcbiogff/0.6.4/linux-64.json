@@ -15,7 +15,7 @@
 },
 {
 "basename":"bcbiogff-0.6.4-py27_0.tar.bz2",
-"total":2420
+"total":2421
 }
 ],
 "downloads_per_date":[
@@ -286,6 +286,10 @@
 {
 "date":"2021-12-03",
 "total":5600
+},
+{
+"date":"2021-12-04",
+"total":5601
 }
 ],
 "package":"bcbiogff",
@@ -544,6 +548,15 @@
 {
 "basename":"bcbiogff-0.6.4-py35_0.tar.bz2",
 "total":1625
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
+"basename":"bcbiogff-0.6.4-py27_0.tar.bz2",
+"total":2421
 }
 ]
 }

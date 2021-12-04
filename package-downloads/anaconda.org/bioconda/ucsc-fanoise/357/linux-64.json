@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-fanoise-357-1.tar.bz2",
-"total":301
+"total":302
 },
 {
 "basename":"ucsc-fanoise-357-0.tar.bz2",
@@ -226,6 +226,10 @@
 {
 "date":"2021-12-03",
 "total":858
+},
+{
+"date":"2021-12-04",
+"total":859
 }
 ],
 "package":"ucsc-fanoise",
@@ -341,6 +345,15 @@
 {
 "basename":"ucsc-fanoise-357-0.tar.bz2",
 "total":557
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
+"basename":"ucsc-fanoise-357-1.tar.bz2",
+"total":302
 }
 ]
 }

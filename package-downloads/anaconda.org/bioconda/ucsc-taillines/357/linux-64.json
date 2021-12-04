@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-taillines-357-1.tar.bz2",
-"total":432
+"total":433
 },
 {
 "basename":"ucsc-taillines-357-0.tar.bz2",
@@ -222,6 +222,10 @@
 {
 "date":"2021-12-03",
 "total":897
+},
+{
+"date":"2021-12-04",
+"total":898
 }
 ],
 "package":"ucsc-taillines",
@@ -346,6 +350,15 @@
 {
 "basename":"ucsc-taillines-357-0.tar.bz2",
 "total":465
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
+"basename":"ucsc-taillines-357-1.tar.bz2",
+"total":433
 }
 ]
 }

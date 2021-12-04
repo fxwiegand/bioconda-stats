@@ -768,6 +768,10 @@
 {
 "date":"2021-12-03",
 "total":2425
+},
+{
+"date":"2021-12-04",
+"total":2427
 }
 ],
 "downloads_per_subdir":[
@@ -777,7 +781,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2118
+"total":2120
 }
 ],
 "package":"bioconductor-watermelon",
@@ -1364,6 +1368,15 @@
 {
 "subdir":"osx-64",
 "total":2118
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2120
 }
 ]
 }

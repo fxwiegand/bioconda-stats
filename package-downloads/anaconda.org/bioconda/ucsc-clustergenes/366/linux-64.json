@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-clustergenes-366-h5eb252a_0.tar.bz2",
-"total":177
+"total":179
 },
 {
 "basename":"ucsc-clustergenes-366-hdd26221_0.tar.bz2",
@@ -146,6 +146,10 @@
 {
 "date":"2021-12-03",
 "total":475
+},
+{
+"date":"2021-12-04",
+"total":477
 }
 ],
 "package":"ucsc-clustergenes",
@@ -238,6 +242,15 @@
 {
 "basename":"ucsc-clustergenes-366-hdd26221_0.tar.bz2",
 "total":298
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
+"basename":"ucsc-clustergenes-366-h5eb252a_0.tar.bz2",
+"total":179
 }
 ]
 }

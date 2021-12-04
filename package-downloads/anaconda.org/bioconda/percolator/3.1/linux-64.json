@@ -11,7 +11,7 @@
 },
 {
 "basename":"percolator-3.1-boost_1.624.tar.bz2",
-"total":2940
+"total":2942
 }
 ],
 "downloads_per_date":[
@@ -782,6 +782,10 @@
 {
 "date":"2021-12-03",
 "total":3726
+},
+{
+"date":"2021-12-04",
+"total":3728
 }
 ],
 "package":"percolator",
@@ -1400,6 +1404,15 @@
 {
 "basename":"percolator-3.1-boost_1.624.tar.bz2",
 "total":2940
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
+"basename":"percolator-3.1-boost_1.624.tar.bz2",
+"total":2942
 }
 ]
 }

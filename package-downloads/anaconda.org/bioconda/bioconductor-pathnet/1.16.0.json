@@ -768,6 +768,10 @@
 {
 "date":"2021-12-03",
 "total":3310
+},
+{
+"date":"2021-12-04",
+"total":3312
 }
 ],
 "downloads_per_subdir":[
@@ -777,7 +781,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2257
+"total":2259
 }
 ],
 "package":"bioconductor-pathnet",
@@ -1369,6 +1373,15 @@
 {
 "subdir":"osx-64",
 "total":2257
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2259
 }
 ]
 }

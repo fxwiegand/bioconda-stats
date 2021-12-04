@@ -768,6 +768,10 @@
 {
 "date":"2021-12-03",
 "total":1198
+},
+{
+"date":"2021-12-04",
+"total":1200
 }
 ],
 "downloads_per_subdir":[
@@ -777,7 +781,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1120
+"total":1122
 }
 ],
 "package":"bioconductor-plw",
@@ -1385,6 +1389,15 @@
 {
 "subdir":"osx-64",
 "total":1120
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1122
 }
 ]
 }

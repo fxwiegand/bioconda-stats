@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-multtest-2.26.0-0.tar.bz2",
-"total":1577
+"total":1578
 }
 ],
 "downloads_per_date":[
@@ -350,6 +350,10 @@
 {
 "date":"2021-12-03",
 "total":2317
+},
+{
+"date":"2021-12-04",
+"total":2318
 }
 ],
 "package":"bioconductor-multtest",
@@ -581,6 +585,15 @@
 {
 "basename":"bioconductor-multtest-2.26.0-0.tar.bz2",
 "total":1577
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-multtest-2.26.0-0.tar.bz2",
+"total":1578
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"clair-2.0.5-1.tar.bz2",
-"total":226
+"total":227
 }
 ],
 "downloads_per_date":[
@@ -622,6 +622,10 @@
 {
 "date":"2021-12-03",
 "total":332
+},
+{
+"date":"2021-12-04",
+"total":333
 }
 ],
 "package":"clair",
@@ -916,6 +920,15 @@
 {
 "basename":"clair-2.0.5-1.tar.bz2",
 "total":226
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
+"basename":"clair-2.0.5-1.tar.bz2",
+"total":227
 }
 ]
 }

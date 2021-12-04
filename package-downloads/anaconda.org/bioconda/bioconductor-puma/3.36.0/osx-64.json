@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-puma-3.36.0-r41h68a2ddb_0.tar.bz2",
-"total":50
+"total":51
 }
 ],
 "downloads_per_date":[
@@ -122,6 +122,10 @@
 {
 "date":"2021-12-03",
 "total":50
+},
+{
+"date":"2021-12-04",
+"total":51
 }
 ],
 "package":"bioconductor-puma",
@@ -366,6 +370,15 @@
 {
 "basename":"bioconductor-puma-3.36.0-r41h68a2ddb_0.tar.bz2",
 "total":50
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-puma-3.36.0-r41h68a2ddb_0.tar.bz2",
+"total":51
 }
 ]
 }

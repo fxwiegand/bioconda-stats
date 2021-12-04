@@ -7,7 +7,7 @@
 },
 {
 "basename":"swarm-2.2.2-py36_0.tar.bz2",
-"total":360
+"total":361
 },
 {
 "basename":"swarm-2.2.2-py35_0.tar.bz2",
@@ -378,6 +378,10 @@
 {
 "date":"2021-12-03",
 "total":3307
+},
+{
+"date":"2021-12-04",
+"total":3308
 }
 ],
 "package":"swarm",
@@ -623,6 +627,15 @@
 {
 "basename":"swarm-2.2.2-h6bb024c_2.tar.bz2",
 "total":1356
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
+"basename":"swarm-2.2.2-py36_0.tar.bz2",
+"total":361
 }
 ]
 }

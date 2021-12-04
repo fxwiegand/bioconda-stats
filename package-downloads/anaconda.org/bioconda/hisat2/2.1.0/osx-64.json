@@ -43,7 +43,7 @@
 },
 {
 "basename":"hisat2-2.1.0-py37h770b8ee_4.tar.bz2",
-"total":2704
+"total":2716
 }
 ],
 "downloads_per_date":[
@@ -814,6 +814,10 @@
 {
 "date":"2021-12-03",
 "total":8723
+},
+{
+"date":"2021-12-04",
+"total":8735
 }
 ],
 "package":"hisat2",
@@ -1529,6 +1533,15 @@
 {
 "basename":"hisat2-2.1.0-py37h770b8ee_4.tar.bz2",
 "total":2704
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_basename":[
+{
+"basename":"hisat2-2.1.0-py37h770b8ee_4.tar.bz2",
+"total":2716
 }
 ]
 }

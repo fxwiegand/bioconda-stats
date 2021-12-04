@@ -768,6 +768,10 @@
 {
 "date":"2021-12-03",
 "total":2471
+},
+{
+"date":"2021-12-04",
+"total":2473
 }
 ],
 "downloads_per_subdir":[
@@ -777,7 +781,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2119
+"total":2121
 }
 ],
 "package":"bioconductor-spotsegmentation",
@@ -1373,6 +1377,15 @@
 {
 "subdir":"osx-64",
 "total":2119
+}
+]
+},
+{
+"date":"2021-12-04",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2121
 }
 ]
 }
