@@ -112,6 +112,10 @@
 {
 "date":"2021-12-04",
 "total":104
+},
+{
+"date":"2021-12-05",
+"total":106
 }
 ],
 "downloads_per_subdir":[
@@ -121,7 +125,7 @@
 },
 {
 "subdir":"osx-64",
-"total":74
+"total":76
 }
 ],
 "package":"bioconductor-gmapr",
@@ -415,6 +419,15 @@
 {
 "subdir":"osx-64",
 "total":74
+}
+]
+},
+{
+"date":"2021-12-05",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":76
 }
 ]
 }

@@ -116,6 +116,10 @@
 {
 "date":"2021-12-04",
 "total":89
+},
+{
+"date":"2021-12-05",
+"total":91
 }
 ],
 "downloads_per_subdir":[
@@ -125,7 +129,7 @@
 },
 {
 "subdir":"osx-64",
-"total":70
+"total":72
 }
 ],
 "package":"bioconductor-psichomics",
@@ -424,6 +428,15 @@
 {
 "subdir":"osx-64",
 "total":70
+}
+]
+},
+{
+"date":"2021-12-05",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":72
 }
 ]
 }

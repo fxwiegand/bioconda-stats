@@ -116,6 +116,10 @@
 {
 "date":"2021-12-04",
 "total":86
+},
+{
+"date":"2021-12-05",
+"total":88
 }
 ],
 "downloads_per_subdir":[
@@ -125,7 +129,7 @@
 },
 {
 "subdir":"osx-64",
-"total":66
+"total":68
 }
 ],
 "package":"bioconductor-ribodipa",
@@ -402,6 +406,15 @@
 {
 "subdir":"osx-64",
 "total":66
+}
+]
+},
+{
+"date":"2021-12-05",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":68
 }
 ]
 }

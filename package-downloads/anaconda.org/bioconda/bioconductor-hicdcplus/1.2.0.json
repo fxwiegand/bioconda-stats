@@ -120,6 +120,10 @@
 {
 "date":"2021-12-04",
 "total":87
+},
+{
+"date":"2021-12-05",
+"total":89
 }
 ],
 "downloads_per_subdir":[
@@ -129,7 +133,7 @@
 },
 {
 "subdir":"osx-64",
-"total":69
+"total":71
 }
 ],
 "package":"bioconductor-hicdcplus",
@@ -419,6 +423,15 @@
 {
 "subdir":"osx-64",
 "total":69
+}
+]
+},
+{
+"date":"2021-12-05",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":71
 }
 ]
 }

@@ -124,6 +124,10 @@
 {
 "date":"2021-12-04",
 "total":85
+},
+{
+"date":"2021-12-05",
+"total":87
 }
 ],
 "downloads_per_subdir":[
@@ -133,7 +137,7 @@
 },
 {
 "subdir":"osx-64",
-"total":69
+"total":71
 }
 ],
 "package":"bioconductor-muscle",
@@ -428,6 +432,15 @@
 {
 "subdir":"osx-64",
 "total":69
+}
+]
+},
+{
+"date":"2021-12-05",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":71
 }
 ]
 }

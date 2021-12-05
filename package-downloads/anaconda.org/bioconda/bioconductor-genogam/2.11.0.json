@@ -116,6 +116,10 @@
 {
 "date":"2021-12-04",
 "total":92
+},
+{
+"date":"2021-12-05",
+"total":95
 }
 ],
 "downloads_per_subdir":[
@@ -125,7 +129,7 @@
 },
 {
 "subdir":"osx-64",
-"total":71
+"total":74
 }
 ],
 "package":"bioconductor-genogam",
@@ -428,6 +432,15 @@
 {
 "subdir":"osx-64",
 "total":71
+}
+]
+},
+{
+"date":"2021-12-05",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":74
 }
 ]
 }

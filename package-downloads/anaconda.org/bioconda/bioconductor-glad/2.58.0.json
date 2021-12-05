@@ -124,6 +124,10 @@
 {
 "date":"2021-12-04",
 "total":121
+},
+{
+"date":"2021-12-05",
+"total":123
 }
 ],
 "downloads_per_subdir":[
@@ -133,7 +137,7 @@
 },
 {
 "subdir":"osx-64",
-"total":78
+"total":80
 }
 ],
 "package":"bioconductor-glad",
@@ -444,6 +448,15 @@
 {
 "subdir":"osx-64",
 "total":78
+}
+]
+},
+{
+"date":"2021-12-05",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":80
 }
 ]
 }

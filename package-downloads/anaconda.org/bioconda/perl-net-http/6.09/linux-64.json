@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-net-http-6.09-0.tar.bz2",
-"total":24791
+"total":24792
 }
 ],
 "downloads_per_date":[
@@ -670,6 +670,10 @@
 {
 "date":"2021-12-04",
 "total":26375
+},
+{
+"date":"2021-12-05",
+"total":26376
 }
 ],
 "package":"perl-net-http",
@@ -1148,6 +1152,15 @@
 {
 "basename":"perl-net-http-6.09-pl526_1.tar.bz2",
 "total":1584
+}
+]
+},
+{
+"date":"2021-12-05",
+"downloads_per_basename":[
+{
+"basename":"perl-net-http-6.09-0.tar.bz2",
+"total":24792
 }
 ]
 }

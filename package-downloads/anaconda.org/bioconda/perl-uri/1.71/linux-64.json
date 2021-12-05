@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-uri-1.71-pl526_3.tar.bz2",
-"total":7417
+"total":7418
 },
 {
 "basename":"perl-uri-1.71-pl5.22.0_1.tar.bz2",
@@ -730,6 +730,10 @@
 {
 "date":"2021-12-04",
 "total":37862
+},
+{
+"date":"2021-12-05",
+"total":37863
 }
 ],
 "package":"perl-uri",
@@ -1438,6 +1442,15 @@
 {
 "basename":"perl-uri-1.71-pl526_3.tar.bz2",
 "total":7417
+}
+]
+},
+{
+"date":"2021-12-05",
+"downloads_per_basename":[
+{
+"basename":"perl-uri-1.71-pl526_3.tar.bz2",
+"total":7418
 }
 ]
 }

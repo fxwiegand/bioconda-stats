@@ -120,6 +120,10 @@
 {
 "date":"2021-12-04",
 "total":76
+},
+{
+"date":"2021-12-05",
+"total":77
 }
 ],
 "downloads_per_subdir":[
@@ -129,7 +133,7 @@
 },
 {
 "subdir":"osx-64",
-"total":51
+"total":52
 }
 ],
 "package":"bioconductor-puma",
@@ -423,6 +427,15 @@
 {
 "subdir":"osx-64",
 "total":51
+}
+]
+},
+{
+"date":"2021-12-05",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":52
 }
 ]
 }

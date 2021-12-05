@@ -108,6 +108,10 @@
 {
 "date":"2021-12-04",
 "total":99
+},
+{
+"date":"2021-12-05",
+"total":101
 }
 ],
 "downloads_per_subdir":[
@@ -117,7 +121,7 @@
 },
 {
 "subdir":"osx-64",
-"total":66
+"total":68
 }
 ],
 "package":"bioconductor-r3cpet",
@@ -380,6 +384,15 @@
 {
 "subdir":"osx-64",
 "total":66
+}
+]
+},
+{
+"date":"2021-12-05",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":68
 }
 ]
 }

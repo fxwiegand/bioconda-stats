@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"raxml-8.2.4-h779adbc_4.tar.bz2",
-"total":89
+"total":90
 },
 {
 "basename":"raxml-8.2.4-h516909a_3.tar.bz2",
@@ -374,6 +374,10 @@
 {
 "date":"2021-12-04",
 "total":2591
+},
+{
+"date":"2021-12-05",
+"total":2592
 }
 ],
 "package":"raxml",
@@ -632,6 +636,15 @@
 {
 "basename":"raxml-8.2.4-1.tar.bz2",
 "total":1179
+}
+]
+},
+{
+"date":"2021-12-05",
+"downloads_per_basename":[
+{
+"basename":"raxml-8.2.4-h779adbc_4.tar.bz2",
+"total":90
 }
 ]
 }
