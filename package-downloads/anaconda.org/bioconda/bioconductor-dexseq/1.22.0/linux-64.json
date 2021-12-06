@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-dexseq-1.22.0-py27r3.4.1_0.tar.bz2",
-"total":778
+"total":779
 },
 {
 "basename":"bioconductor-dexseq-1.22.0-py27r3.3.2_0.tar.bz2",
@@ -318,6 +318,10 @@
 {
 "date":"2021-12-05",
 "total":4531
+},
+{
+"date":"2021-12-06",
+"total":4532
 }
 ],
 "package":"bioconductor-dexseq",
@@ -740,6 +744,15 @@
 {
 "basename":"bioconductor-dexseq-1.22.0-py36r3.4.1_0.tar.bz2",
 "total":708
+}
+]
+},
+{
+"date":"2021-12-06",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-dexseq-1.22.0-py27r3.4.1_0.tar.bz2",
+"total":779
 }
 ]
 }

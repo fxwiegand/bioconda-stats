@@ -11,7 +11,7 @@
 },
 {
 "basename":"erne-2.1.1-boost1.61_0.tar.bz2",
-"total":643
+"total":644
 },
 {
 "basename":"erne-2.1.1-boost1.64_0.tar.bz2",
@@ -554,6 +554,10 @@
 {
 "date":"2021-12-05",
 "total":1780
+},
+{
+"date":"2021-12-06",
+"total":1781
 }
 ],
 "package":"erne",
@@ -916,6 +920,15 @@
 {
 "basename":"erne-2.1.1-boost1.64_0.tar.bz2",
 "total":649
+}
+]
+},
+{
+"date":"2021-12-06",
+"downloads_per_basename":[
+{
+"basename":"erne-2.1.1-boost1.61_0.tar.bz2",
+"total":644
 }
 ]
 }

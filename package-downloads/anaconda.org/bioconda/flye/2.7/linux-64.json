@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"flye-2.7-py27he513fc3_0.tar.bz2",
-"total":207
+"total":208
 },
 {
 "basename":"flye-2.7-py36he513fc3_0.tar.bz2",
@@ -558,6 +558,10 @@
 {
 "date":"2021-12-05",
 "total":1408
+},
+{
+"date":"2021-12-06",
+"total":1409
 }
 ],
 "package":"flye",
@@ -950,6 +954,15 @@
 {
 "basename":"flye-2.7-py36he513fc3_0.tar.bz2",
 "total":491
+}
+]
+},
+{
+"date":"2021-12-06",
+"downloads_per_basename":[
+{
+"basename":"flye-2.7-py27he513fc3_0.tar.bz2",
+"total":208
 }
 ]
 }

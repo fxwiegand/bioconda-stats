@@ -15,7 +15,7 @@
 },
 {
 "basename":"hisat2-2.0.5-py35_1.tar.bz2",
-"total":1795
+"total":1796
 },
 {
 "basename":"hisat2-2.0.5-py36pl5.22.0_2.tar.bz2",
@@ -378,6 +378,10 @@
 {
 "date":"2021-12-05",
 "total":9960
+},
+{
+"date":"2021-12-06",
+"total":9961
 }
 ],
 "package":"hisat2",
@@ -743,6 +747,15 @@
 {
 "basename":"hisat2-2.0.5-py34_1.tar.bz2",
 "total":585
+}
+]
+},
+{
+"date":"2021-12-06",
+"downloads_per_basename":[
+{
+"basename":"hisat2-2.0.5-py35_1.tar.bz2",
+"total":1796
 }
 ]
 }
