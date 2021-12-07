@@ -132,6 +132,10 @@
 {
 "date":"2021-12-06",
 "total":104
+},
+{
+"date":"2021-12-07",
+"total":106
 }
 ],
 "downloads_per_subdir":[
@@ -141,7 +145,7 @@
 },
 {
 "subdir":"osx-64",
-"total":84
+"total":86
 }
 ],
 "package":"bioconductor-profia",
@@ -480,6 +484,15 @@
 {
 "subdir":"osx-64",
 "total":84
+}
+]
+},
+{
+"date":"2021-12-07",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":86
 }
 ]
 }

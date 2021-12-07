@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-moo-2.001000-pl526_2.tar.bz2",
-"total":4597
+"total":4600
 },
 {
 "basename":"perl-moo-2.001000-1.tar.bz2",
@@ -738,6 +738,10 @@
 {
 "date":"2021-12-06",
 "total":19120
+},
+{
+"date":"2021-12-07",
+"total":19123
 }
 ],
 "package":"perl-moo",
@@ -1404,6 +1408,15 @@
 {
 "basename":"perl-moo-2.001000-1.tar.bz2",
 "total":11779
+}
+]
+},
+{
+"date":"2021-12-07",
+"downloads_per_basename":[
+{
+"basename":"perl-moo-2.001000-pl526_2.tar.bz2",
+"total":4600
 }
 ]
 }

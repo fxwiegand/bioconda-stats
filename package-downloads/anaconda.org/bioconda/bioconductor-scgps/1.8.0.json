@@ -124,6 +124,10 @@
 {
 "date":"2021-12-06",
 "total":69
+},
+{
+"date":"2021-12-07",
+"total":70
 }
 ],
 "downloads_per_subdir":[
@@ -133,7 +137,7 @@
 },
 {
 "subdir":"osx-64",
-"total":49
+"total":50
 }
 ],
 "package":"bioconductor-scgps",
@@ -415,6 +419,15 @@
 {
 "subdir":"osx-64",
 "total":49
+}
+]
+},
+{
+"date":"2021-12-07",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":50
 }
 ]
 }

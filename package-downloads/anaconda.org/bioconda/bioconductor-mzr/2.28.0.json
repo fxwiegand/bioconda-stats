@@ -136,6 +136,10 @@
 {
 "date":"2021-12-06",
 "total":292
+},
+{
+"date":"2021-12-07",
+"total":294
 }
 ],
 "downloads_per_subdir":[
@@ -145,7 +149,7 @@
 },
 {
 "subdir":"osx-64",
-"total":152
+"total":154
 }
 ],
 "package":"bioconductor-mzr",
@@ -545,6 +549,15 @@
 {
 "subdir":"osx-64",
 "total":152
+}
+]
+},
+{
+"date":"2021-12-07",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":154
 }
 ]
 }

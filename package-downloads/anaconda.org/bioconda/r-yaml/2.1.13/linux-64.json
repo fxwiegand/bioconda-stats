@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-yaml-2.1.13-r3.2.2_0.tar.bz2",
-"total":3900
+"total":3901
 },
 {
 "basename":"r-yaml-2.1.13-r3.3.2_1.tar.bz2",
@@ -630,6 +630,10 @@
 {
 "date":"2021-12-06",
 "total":14825
+},
+{
+"date":"2021-12-07",
+"total":14826
 }
 ],
 "package":"r-yaml",
@@ -1031,6 +1035,15 @@
 {
 "basename":"r-yaml-2.1.13-r3.3.2_1.tar.bz2",
 "total":7677
+}
+]
+},
+{
+"date":"2021-12-07",
+"downloads_per_basename":[
+{
+"basename":"r-yaml-2.1.13-r3.2.2_0.tar.bz2",
+"total":3901
 }
 ]
 }

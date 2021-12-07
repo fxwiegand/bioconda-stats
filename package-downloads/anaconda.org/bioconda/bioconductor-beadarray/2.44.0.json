@@ -140,6 +140,10 @@
 {
 "date":"2021-12-06",
 "total":98
+},
+{
+"date":"2021-12-07",
+"total":99
 }
 ],
 "downloads_per_subdir":[
@@ -149,7 +153,7 @@
 },
 {
 "subdir":"osx-64",
-"total":62
+"total":63
 }
 ],
 "package":"bioconductor-beadarray",
@@ -488,6 +492,15 @@
 {
 "subdir":"osx-64",
 "total":62
+}
+]
+},
+{
+"date":"2021-12-07",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":63
 }
 ]
 }
