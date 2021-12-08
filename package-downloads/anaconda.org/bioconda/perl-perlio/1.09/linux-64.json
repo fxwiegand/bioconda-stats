@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-perlio-1.09-pl526_1.tar.bz2",
-"total":591
+"total":594
 },
 {
 "basename":"perl-perlio-1.09-pl5.22.0_0.tar.bz2",
@@ -298,6 +298,10 @@
 {
 "date":"2021-12-07",
 "total":1335
+},
+{
+"date":"2021-12-08",
+"total":1338
 }
 ],
 "package":"perl-perlio",
@@ -629,6 +633,15 @@
 {
 "basename":"perl-perlio-1.09-pl526_1.tar.bz2",
 "total":591
+}
+]
+},
+{
+"date":"2021-12-08",
+"downloads_per_basename":[
+{
+"basename":"perl-perlio-1.09-pl526_1.tar.bz2",
+"total":594
 }
 ]
 }

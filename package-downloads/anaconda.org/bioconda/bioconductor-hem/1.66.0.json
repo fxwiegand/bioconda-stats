@@ -144,6 +144,10 @@
 {
 "date":"2021-12-07",
 "total":101
+},
+{
+"date":"2021-12-08",
+"total":103
 }
 ],
 "downloads_per_subdir":[
@@ -153,7 +157,7 @@
 },
 {
 "subdir":"osx-64",
-"total":84
+"total":86
 }
 ],
 "package":"bioconductor-hem",
@@ -515,6 +519,15 @@
 {
 "subdir":"osx-64",
 "total":84
+}
+]
+},
+{
+"date":"2021-12-08",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":86
 }
 ]
 }

@@ -140,6 +140,10 @@
 {
 "date":"2021-12-07",
 "total":101
+},
+{
+"date":"2021-12-08",
+"total":104
 }
 ],
 "downloads_per_subdir":[
@@ -149,7 +153,7 @@
 },
 {
 "subdir":"osx-64",
-"total":81
+"total":84
 }
 ],
 "package":"bioconductor-compass",
@@ -493,6 +497,15 @@
 {
 "subdir":"osx-64",
 "total":81
+}
+]
+},
+{
+"date":"2021-12-08",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":84
 }
 ]
 }

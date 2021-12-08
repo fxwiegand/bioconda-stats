@@ -7,7 +7,7 @@
 },
 {
 "basename":"hmmer-2.3.2-h1b792b2_5.tar.bz2",
-"total":161
+"total":162
 },
 {
 "basename":"hmmer-2.3.2-hfc679d8_2.tar.bz2",
@@ -594,6 +594,10 @@
 {
 "date":"2021-12-07",
 "total":4689
+},
+{
+"date":"2021-12-08",
+"total":4690
 }
 ],
 "package":"hmmer",
@@ -1065,6 +1069,15 @@
 {
 "basename":"hmmer-2.3.2-h1b792b2_5.tar.bz2",
 "total":161
+}
+]
+},
+{
+"date":"2021-12-08",
+"downloads_per_basename":[
+{
+"basename":"hmmer-2.3.2-h1b792b2_5.tar.bz2",
+"total":162
 }
 ]
 }

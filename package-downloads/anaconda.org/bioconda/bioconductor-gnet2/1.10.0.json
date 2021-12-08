@@ -136,6 +136,10 @@
 {
 "date":"2021-12-07",
 "total":75
+},
+{
+"date":"2021-12-08",
+"total":77
 }
 ],
 "downloads_per_subdir":[
@@ -145,7 +149,7 @@
 },
 {
 "subdir":"osx-64",
-"total":56
+"total":58
 }
 ],
 "package":"bioconductor-gnet2",
@@ -466,6 +470,15 @@
 {
 "subdir":"osx-64",
 "total":56
+}
+]
+},
+{
+"date":"2021-12-08",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":58
 }
 ]
 }

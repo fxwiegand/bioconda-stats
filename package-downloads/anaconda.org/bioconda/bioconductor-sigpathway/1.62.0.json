@@ -140,6 +140,10 @@
 {
 "date":"2021-12-07",
 "total":98
+},
+{
+"date":"2021-12-08",
+"total":101
 }
 ],
 "downloads_per_subdir":[
@@ -149,7 +153,7 @@
 },
 {
 "subdir":"osx-64",
-"total":76
+"total":79
 }
 ],
 "package":"bioconductor-sigpathway",
@@ -488,6 +492,15 @@
 {
 "subdir":"osx-64",
 "total":76
+}
+]
+},
+{
+"date":"2021-12-08",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":79
 }
 ]
 }

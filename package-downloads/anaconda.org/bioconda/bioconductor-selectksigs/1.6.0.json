@@ -112,6 +112,10 @@
 {
 "date":"2021-12-07",
 "total":65
+},
+{
+"date":"2021-12-08",
+"total":66
 }
 ],
 "downloads_per_subdir":[
@@ -121,7 +125,7 @@
 },
 {
 "subdir":"osx-64",
-"total":44
+"total":45
 }
 ],
 "package":"bioconductor-selectksigs",
@@ -385,6 +389,15 @@
 {
 "subdir":"osx-64",
 "total":44
+}
+]
+},
+{
+"date":"2021-12-08",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":45
 }
 ]
 }

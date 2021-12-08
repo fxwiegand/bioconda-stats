@@ -27,7 +27,7 @@
 },
 {
 "basename":"kerneltree-0.0.5-py36hc5360cc_1.tar.bz2",
-"total":50
+"total":51
 },
 {
 "basename":"kerneltree-0.0.5-py39h38f01e4_1.tar.bz2",
@@ -478,6 +478,10 @@
 {
 "date":"2021-12-07",
 "total":441
+},
+{
+"date":"2021-12-08",
+"total":442
 }
 ],
 "package":"kerneltree",
@@ -957,6 +961,15 @@
 {
 "basename":"kerneltree-0.0.5-py37hf01694f_0.tar.bz2",
 "total":50
+}
+]
+},
+{
+"date":"2021-12-08",
+"downloads_per_basename":[
+{
+"basename":"kerneltree-0.0.5-py36hc5360cc_1.tar.bz2",
+"total":51
 }
 ]
 }

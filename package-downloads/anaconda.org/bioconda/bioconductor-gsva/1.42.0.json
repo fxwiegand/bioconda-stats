@@ -132,6 +132,10 @@
 {
 "date":"2021-12-07",
 "total":175
+},
+{
+"date":"2021-12-08",
+"total":177
 }
 ],
 "downloads_per_subdir":[
@@ -141,7 +145,7 @@
 },
 {
 "subdir":"osx-64",
-"total":99
+"total":101
 }
 ],
 "package":"bioconductor-gsva",
@@ -524,6 +528,15 @@
 {
 "subdir":"osx-64",
 "total":99
+}
+]
+},
+{
+"date":"2021-12-08",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":101
 }
 ]
 }

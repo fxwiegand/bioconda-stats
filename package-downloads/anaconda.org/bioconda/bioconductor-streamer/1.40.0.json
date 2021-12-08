@@ -140,6 +140,10 @@
 {
 "date":"2021-12-07",
 "total":104
+},
+{
+"date":"2021-12-08",
+"total":107
 }
 ],
 "downloads_per_subdir":[
@@ -149,7 +153,7 @@
 },
 {
 "subdir":"osx-64",
-"total":82
+"total":85
 }
 ],
 "package":"bioconductor-streamer",
@@ -498,6 +502,15 @@
 {
 "subdir":"osx-64",
 "total":82
+}
+]
+},
+{
+"date":"2021-12-08",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":85
 }
 ]
 }

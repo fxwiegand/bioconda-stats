@@ -136,6 +136,10 @@
 {
 "date":"2021-12-07",
 "total":92
+},
+{
+"date":"2021-12-08",
+"total":94
 }
 ],
 "downloads_per_subdir":[
@@ -145,7 +149,7 @@
 },
 {
 "subdir":"osx-64",
-"total":78
+"total":80
 }
 ],
 "package":"bioconductor-baynorm",
@@ -485,6 +489,15 @@
 {
 "subdir":"osx-64",
 "total":78
+}
+]
+},
+{
+"date":"2021-12-08",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":80
 }
 ]
 }
