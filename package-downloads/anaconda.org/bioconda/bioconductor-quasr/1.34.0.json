@@ -136,6 +136,10 @@
 {
 "date":"2021-12-08",
 "total":108
+},
+{
+"date":"2021-12-09",
+"total":111
 }
 ],
 "downloads_per_subdir":[
@@ -145,7 +149,7 @@
 },
 {
 "subdir":"osx-64",
-"total":83
+"total":86
 }
 ],
 "package":"bioconductor-quasr",
@@ -501,6 +505,15 @@
 {
 "subdir":"osx-64",
 "total":83
+}
+]
+},
+{
+"date":"2021-12-09",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":86
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-axttomaf-357-1.tar.bz2",
-"total":335
+"total":337
 },
 {
 "basename":"ucsc-axttomaf-357-0.tar.bz2",
@@ -246,6 +246,10 @@
 {
 "date":"2021-12-08",
 "total":887
+},
+{
+"date":"2021-12-09",
+"total":889
 }
 ],
 "package":"ucsc-axttomaf",
@@ -369,6 +373,15 @@
 {
 "basename":"ucsc-axttomaf-357-0.tar.bz2",
 "total":552
+}
+]
+},
+{
+"date":"2021-12-09",
+"downloads_per_basename":[
+{
+"basename":"ucsc-axttomaf-357-1.tar.bz2",
+"total":337
 }
 ]
 }

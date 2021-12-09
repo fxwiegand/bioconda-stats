@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-getrna-357-1.tar.bz2",
-"total":458
+"total":459
 },
 {
 "basename":"ucsc-getrna-357-0.tar.bz2",
@@ -238,6 +238,10 @@
 {
 "date":"2021-12-08",
 "total":943
+},
+{
+"date":"2021-12-09",
+"total":944
 }
 ],
 "package":"ucsc-getrna",
@@ -326,6 +330,15 @@
 {
 "basename":"ucsc-getrna-357-0.tar.bz2",
 "total":485
+}
+]
+},
+{
+"date":"2021-12-09",
+"downloads_per_basename":[
+{
+"basename":"ucsc-getrna-357-1.tar.bz2",
+"total":459
 }
 ]
 }

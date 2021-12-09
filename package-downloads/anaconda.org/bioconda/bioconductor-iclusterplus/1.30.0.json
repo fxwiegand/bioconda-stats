@@ -136,6 +136,10 @@
 {
 "date":"2021-12-08",
 "total":111
+},
+{
+"date":"2021-12-09",
+"total":113
 }
 ],
 "downloads_per_subdir":[
@@ -145,7 +149,7 @@
 },
 {
 "subdir":"osx-64",
-"total":84
+"total":86
 }
 ],
 "package":"bioconductor-iclusterplus",
@@ -501,6 +505,15 @@
 {
 "subdir":"osx-64",
 "total":84
+}
+]
+},
+{
+"date":"2021-12-09",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":86
 }
 ]
 }

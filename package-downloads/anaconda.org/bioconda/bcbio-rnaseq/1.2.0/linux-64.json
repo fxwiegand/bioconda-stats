@@ -7,7 +7,7 @@
 },
 {
 "basename":"bcbio-rnaseq-1.2.0-r3.3.1_2.tar.bz2",
-"total":696
+"total":697
 },
 {
 "basename":"bcbio-rnaseq-1.2.0-r3.3.2_2.tar.bz2",
@@ -330,6 +330,10 @@
 {
 "date":"2021-12-08",
 "total":9715
+},
+{
+"date":"2021-12-09",
+"total":9716
 }
 ],
 "package":"bcbio-rnaseq",
@@ -713,6 +717,15 @@
 {
 "basename":"bcbio-rnaseq-1.2.0-r3.4.1_3.tar.bz2",
 "total":3192
+}
+]
+},
+{
+"date":"2021-12-09",
+"downloads_per_basename":[
+{
+"basename":"bcbio-rnaseq-1.2.0-r3.3.1_2.tar.bz2",
+"total":697
 }
 ]
 }

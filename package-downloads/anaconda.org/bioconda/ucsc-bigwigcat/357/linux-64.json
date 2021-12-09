@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-bigwigcat-357-1.tar.bz2",
-"total":524
+"total":525
 }
 ],
 "downloads_per_date":[
@@ -254,6 +254,10 @@
 {
 "date":"2021-12-08",
 "total":959
+},
+{
+"date":"2021-12-09",
+"total":960
 }
 ],
 "package":"ucsc-bigwigcat",
@@ -378,6 +382,15 @@
 {
 "basename":"ucsc-bigwigcat-357-0.tar.bz2",
 "total":435
+}
+]
+},
+{
+"date":"2021-12-09",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bigwigcat-357-1.tar.bz2",
+"total":525
 }
 ]
 }

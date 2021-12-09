@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-hgloadmaf-357-1.tar.bz2",
-"total":333
+"total":334
 },
 {
 "basename":"ucsc-hgloadmaf-357-0.tar.bz2",
@@ -250,6 +250,10 @@
 {
 "date":"2021-12-08",
 "total":898
+},
+{
+"date":"2021-12-09",
+"total":899
 }
 ],
 "package":"ucsc-hgloadmaf",
@@ -360,6 +364,15 @@
 {
 "basename":"ucsc-hgloadmaf-357-0.tar.bz2",
 "total":565
+}
+]
+},
+{
+"date":"2021-12-09",
+"downloads_per_basename":[
+{
+"basename":"ucsc-hgloadmaf-357-1.tar.bz2",
+"total":334
 }
 ]
 }

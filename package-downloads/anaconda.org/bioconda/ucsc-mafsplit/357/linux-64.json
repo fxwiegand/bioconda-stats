@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-mafsplit-357-1.tar.bz2",
-"total":311
+"total":312
 },
 {
 "basename":"ucsc-mafsplit-357-0.tar.bz2",
@@ -254,6 +254,10 @@
 {
 "date":"2021-12-08",
 "total":890
+},
+{
+"date":"2021-12-09",
+"total":891
 }
 ],
 "package":"ucsc-mafsplit",
@@ -364,6 +368,15 @@
 {
 "basename":"ucsc-mafsplit-357-0.tar.bz2",
 "total":579
+}
+]
+},
+{
+"date":"2021-12-09",
+"downloads_per_basename":[
+{
+"basename":"ucsc-mafsplit-357-1.tar.bz2",
+"total":312
 }
 ]
 }

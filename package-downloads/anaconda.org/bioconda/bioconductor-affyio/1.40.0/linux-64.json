@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-affyio-1.40.0-1.tar.bz2",
-"total":2575
+"total":2576
 }
 ],
 "downloads_per_date":[
@@ -282,6 +282,10 @@
 {
 "date":"2021-12-08",
 "total":3872
+},
+{
+"date":"2021-12-09",
+"total":3873
 }
 ],
 "package":"bioconductor-affyio",
@@ -480,6 +484,15 @@
 {
 "basename":"bioconductor-affyio-1.40.0-1.tar.bz2",
 "total":2575
+}
+]
+},
+{
+"date":"2021-12-09",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-affyio-1.40.0-1.tar.bz2",
+"total":2576
 }
 ]
 }

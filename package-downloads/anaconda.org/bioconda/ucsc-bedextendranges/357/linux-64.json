@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-bedextendranges-357-1.tar.bz2",
-"total":326
+"total":327
 },
 {
 "basename":"ucsc-bedextendranges-357-0.tar.bz2",
@@ -250,6 +250,10 @@
 {
 "date":"2021-12-08",
 "total":896
+},
+{
+"date":"2021-12-09",
+"total":897
 }
 ],
 "package":"ucsc-bedextendranges",
@@ -360,6 +364,15 @@
 {
 "basename":"ucsc-bedextendranges-357-0.tar.bz2",
 "total":570
+}
+]
+},
+{
+"date":"2021-12-09",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bedextendranges-357-1.tar.bz2",
+"total":327
 }
 ]
 }
