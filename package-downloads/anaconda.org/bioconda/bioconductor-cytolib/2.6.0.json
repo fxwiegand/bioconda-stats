@@ -152,6 +152,10 @@
 {
 "date":"2021-12-09",
 "total":274
+},
+{
+"date":"2021-12-10",
+"total":276
 }
 ],
 "downloads_per_subdir":[
@@ -161,7 +165,7 @@
 },
 {
 "subdir":"osx-64",
-"total":152
+"total":154
 }
 ],
 "package":"bioconductor-cytolib",
@@ -584,6 +588,15 @@
 {
 "subdir":"osx-64",
 "total":152
+}
+]
+},
+{
+"date":"2021-12-10",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":154
 }
 ]
 }

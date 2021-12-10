@@ -7,7 +7,7 @@
 },
 {
 "basename":"ascat-2.5.2-r41hdfd78af_4.tar.bz2",
-"total":250
+"total":253
 },
 {
 "basename":"ascat-2.5.2-r40_2.tar.bz2",
@@ -774,6 +774,10 @@
 {
 "date":"2021-12-09",
 "total":1225
+},
+{
+"date":"2021-12-10",
+"total":1228
 }
 ],
 "package":"ascat",
@@ -1374,6 +1378,15 @@
 {
 "basename":"ascat-2.5.2-r40_2.tar.bz2",
 "total":364
+}
+]
+},
+{
+"date":"2021-12-10",
+"downloads_per_basename":[
+{
+"basename":"ascat-2.5.2-r41hdfd78af_4.tar.bz2",
+"total":253
 }
 ]
 }

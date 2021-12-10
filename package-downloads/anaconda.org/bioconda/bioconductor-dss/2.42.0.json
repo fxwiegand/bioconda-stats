@@ -148,6 +148,10 @@
 {
 "date":"2021-12-09",
 "total":93
+},
+{
+"date":"2021-12-10",
+"total":94
 }
 ],
 "downloads_per_subdir":[
@@ -157,7 +161,7 @@
 },
 {
 "subdir":"osx-64",
-"total":65
+"total":66
 }
 ],
 "package":"bioconductor-dss",
@@ -547,6 +551,15 @@
 {
 "subdir":"osx-64",
 "total":65
+}
+]
+},
+{
+"date":"2021-12-10",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":66
 }
 ]
 }

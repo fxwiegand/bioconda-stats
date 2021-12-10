@@ -152,6 +152,10 @@
 {
 "date":"2021-12-09",
 "total":109
+},
+{
+"date":"2021-12-10",
+"total":111
 }
 ],
 "downloads_per_subdir":[
@@ -161,7 +165,7 @@
 },
 {
 "subdir":"osx-64",
-"total":85
+"total":87
 }
 ],
 "package":"bioconductor-rgin",
@@ -515,6 +519,15 @@
 {
 "subdir":"osx-64",
 "total":85
+}
+]
+},
+{
+"date":"2021-12-10",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":87
 }
 ]
 }

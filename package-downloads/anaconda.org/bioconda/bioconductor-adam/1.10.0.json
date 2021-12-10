@@ -140,6 +140,10 @@
 {
 "date":"2021-12-09",
 "total":69
+},
+{
+"date":"2021-12-10",
+"total":70
 }
 ],
 "downloads_per_subdir":[
@@ -149,7 +153,7 @@
 },
 {
 "subdir":"osx-64",
-"total":53
+"total":54
 }
 ],
 "package":"bioconductor-adam",
@@ -468,6 +472,15 @@
 {
 "subdir":"osx-64",
 "total":53
+}
+]
+},
+{
+"date":"2021-12-10",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":54
 }
 ]
 }

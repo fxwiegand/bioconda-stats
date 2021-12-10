@@ -144,6 +144,10 @@
 {
 "date":"2021-12-09",
 "total":132
+},
+{
+"date":"2021-12-10",
+"total":134
 }
 ],
 "downloads_per_subdir":[
@@ -153,7 +157,7 @@
 },
 {
 "subdir":"osx-64",
-"total":94
+"total":96
 }
 ],
 "package":"bioconductor-mnem",
@@ -535,6 +539,15 @@
 {
 "subdir":"osx-64",
 "total":94
+}
+]
+},
+{
+"date":"2021-12-10",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":96
 }
 ]
 }

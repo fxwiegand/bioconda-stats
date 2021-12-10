@@ -132,6 +132,10 @@
 {
 "date":"2021-12-09",
 "total":106
+},
+{
+"date":"2021-12-10",
+"total":108
 }
 ],
 "downloads_per_subdir":[
@@ -141,7 +145,7 @@
 },
 {
 "subdir":"osx-64",
-"total":81
+"total":83
 }
 ],
 "package":"bioconductor-proloc",
@@ -476,6 +480,15 @@
 {
 "subdir":"osx-64",
 "total":81
+}
+]
+},
+{
+"date":"2021-12-10",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":83
 }
 ]
 }

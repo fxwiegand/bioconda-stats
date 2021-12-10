@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"toil-3.8.0a1-py27_0.tar.bz2",
-"total":511
+"total":512
 },
 {
 "basename":"toil-3.8.0a1-py27_1.tar.bz2",
@@ -194,6 +194,10 @@
 {
 "date":"2021-12-09",
 "total":1158
+},
+{
+"date":"2021-12-10",
+"total":1159
 }
 ],
 "package":"toil",
@@ -330,6 +334,15 @@
 {
 "basename":"toil-3.8.0a1-py27_1.tar.bz2",
 "total":647
+}
+]
+},
+{
+"date":"2021-12-10",
+"downloads_per_basename":[
+{
+"basename":"toil-3.8.0a1-py27_0.tar.bz2",
+"total":512
 }
 ]
 }

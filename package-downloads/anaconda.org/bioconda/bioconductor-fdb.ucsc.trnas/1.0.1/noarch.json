@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-fdb.ucsc.trnas-1.0.1-r41hdfd78af_8.tar.bz2",
-"total":68
+"total":70
 },
 {
 "basename":"bioconductor-fdb.ucsc.trnas-1.0.1-r36_3.tar.bz2",
@@ -690,6 +690,10 @@
 {
 "date":"2021-12-09",
 "total":680
+},
+{
+"date":"2021-12-10",
+"total":682
 }
 ],
 "package":"bioconductor-fdb.ucsc.trnas",
@@ -1179,6 +1183,15 @@
 {
 "basename":"bioconductor-fdb.ucsc.trnas-1.0.1-r41hdfd78af_8.tar.bz2",
 "total":68
+}
+]
+},
+{
+"date":"2021-12-10",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-fdb.ucsc.trnas-1.0.1-r41hdfd78af_8.tar.bz2",
+"total":70
 }
 ]
 }
