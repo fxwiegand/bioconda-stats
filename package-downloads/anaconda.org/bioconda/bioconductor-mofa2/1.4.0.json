@@ -152,6 +152,10 @@
 {
 "date":"2021-12-10",
 "total":120
+},
+{
+"date":"2021-12-11",
+"total":121
 }
 ],
 "downloads_per_subdir":[
@@ -161,7 +165,7 @@
 },
 {
 "subdir":"osx-64",
-"total":88
+"total":89
 }
 ],
 "package":"bioconductor-mofa2",
@@ -565,6 +569,15 @@
 {
 "subdir":"osx-64",
 "total":88
+}
+]
+},
+{
+"date":"2021-12-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":89
 }
 ]
 }

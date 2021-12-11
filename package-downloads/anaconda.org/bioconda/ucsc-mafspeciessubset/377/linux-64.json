@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-mafspeciessubset-377-h0b8a92a_2.tar.bz2",
-"total":75
+"total":76
 },
 {
 "basename":"ucsc-mafspeciessubset-377-h199ee4e_0.tar.bz2",
@@ -358,6 +358,10 @@
 {
 "date":"2021-12-10",
 "total":309
+},
+{
+"date":"2021-12-11",
+"total":310
 }
 ],
 "package":"ucsc-mafspeciessubset",
@@ -600,6 +604,15 @@
 {
 "basename":"ucsc-mafspeciessubset-377-h199ee4e_0.tar.bz2",
 "total":164
+}
+]
+},
+{
+"date":"2021-12-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-mafspeciessubset-377-h0b8a92a_2.tar.bz2",
+"total":76
 }
 ]
 }

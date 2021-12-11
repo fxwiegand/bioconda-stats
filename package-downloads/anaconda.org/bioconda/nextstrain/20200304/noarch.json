@@ -7,7 +7,7 @@
 },
 {
 "basename":"nextstrain-20200304-hdfd78af_1.tar.bz2",
-"total":269
+"total":271
 }
 ],
 "downloads_per_date":[
@@ -674,6 +674,10 @@
 {
 "date":"2021-12-10",
 "total":318
+},
+{
+"date":"2021-12-11",
+"total":320
 }
 ],
 "package":"nextstrain",
@@ -1027,6 +1031,15 @@
 {
 "basename":"nextstrain-20200304-hdfd78af_1.tar.bz2",
 "total":269
+}
+]
+},
+{
+"date":"2021-12-11",
+"downloads_per_basename":[
+{
+"basename":"nextstrain-20200304-hdfd78af_1.tar.bz2",
+"total":271
 }
 ]
 }

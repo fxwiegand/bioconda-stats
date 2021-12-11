@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-chainsort-377-h0b8a92a_2.tar.bz2",
-"total":77
+"total":78
 },
 {
 "basename":"ucsc-chainsort-377-h199ee4e_0.tar.bz2",
@@ -362,6 +362,10 @@
 {
 "date":"2021-12-10",
 "total":313
+},
+{
+"date":"2021-12-11",
+"total":314
 }
 ],
 "package":"ucsc-chainsort",
@@ -601,6 +605,15 @@
 {
 "basename":"ucsc-chainsort-377-h0b8a92a_2.tar.bz2",
 "total":77
+}
+]
+},
+{
+"date":"2021-12-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-chainsort-377-h0b8a92a_2.tar.bz2",
+"total":78
 }
 ]
 }

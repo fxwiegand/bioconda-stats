@@ -156,6 +156,10 @@
 {
 "date":"2021-12-10",
 "total":110
+},
+{
+"date":"2021-12-11",
+"total":111
 }
 ],
 "downloads_per_subdir":[
@@ -165,7 +169,7 @@
 },
 {
 "subdir":"osx-64",
-"total":89
+"total":90
 }
 ],
 "package":"bioconductor-beclear",
@@ -562,6 +566,15 @@
 {
 "subdir":"osx-64",
 "total":89
+}
+]
+},
+{
+"date":"2021-12-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":90
 }
 ]
 }

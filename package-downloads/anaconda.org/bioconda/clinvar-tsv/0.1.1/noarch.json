@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"clinvar-tsv-0.1.1-py_0.tar.bz2",
-"total":300
+"total":302
 }
 ],
 "downloads_per_date":[
@@ -674,6 +674,10 @@
 {
 "date":"2021-12-10",
 "total":300
+},
+{
+"date":"2021-12-11",
+"total":302
 }
 ],
 "package":"clinvar-tsv",
@@ -1008,6 +1012,15 @@
 {
 "basename":"clinvar-tsv-0.1.1-py_0.tar.bz2",
 "total":300
+}
+]
+},
+{
+"date":"2021-12-11",
+"downloads_per_basename":[
+{
+"basename":"clinvar-tsv-0.1.1-py_0.tar.bz2",
+"total":302
 }
 ]
 }

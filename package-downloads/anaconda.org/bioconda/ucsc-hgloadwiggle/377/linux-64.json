@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-hgloadwiggle-377-h0b8a92a_2.tar.bz2",
-"total":65
+"total":66
 },
 {
 "basename":"ucsc-hgloadwiggle-377-h199ee4e_0.tar.bz2",
@@ -350,6 +350,10 @@
 {
 "date":"2021-12-10",
 "total":296
+},
+{
+"date":"2021-12-11",
+"total":297
 }
 ],
 "package":"ucsc-hgloadwiggle",
@@ -589,6 +593,15 @@
 {
 "basename":"ucsc-hgloadwiggle-377-h199ee4e_0.tar.bz2",
 "total":167
+}
+]
+},
+{
+"date":"2021-12-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-hgloadwiggle-377-h0b8a92a_2.tar.bz2",
+"total":66
 }
 ]
 }

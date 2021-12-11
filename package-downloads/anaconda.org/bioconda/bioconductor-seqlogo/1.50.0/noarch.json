@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-seqlogo-1.50.0-r36_1.tar.bz2",
-"total":600
+"total":602
 },
 {
 "basename":"bioconductor-seqlogo-1.50.0-r351_0.tar.bz2",
@@ -746,6 +746,10 @@
 {
 "date":"2021-12-10",
 "total":1310
+},
+{
+"date":"2021-12-11",
+"total":1312
 }
 ],
 "package":"bioconductor-seqlogo",
@@ -1213,6 +1217,15 @@
 {
 "basename":"bioconductor-seqlogo-1.50.0-r36_1.tar.bz2",
 "total":600
+}
+]
+},
+{
+"date":"2021-12-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-seqlogo-1.50.0-r36_1.tar.bz2",
+"total":602
 }
 ]
 }

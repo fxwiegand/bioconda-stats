@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"gmap-2018.03.25-pl526h2f06484_2.tar.bz2",
-"total":128
+"total":129
 },
 {
 "basename":"gmap-2018.03.25-pl5.22.0_0.tar.bz2",
@@ -454,6 +454,10 @@
 {
 "date":"2021-12-10",
 "total":9632
+},
+{
+"date":"2021-12-11",
+"total":9633
 }
 ],
 "package":"gmap",
@@ -797,6 +801,15 @@
 {
 "basename":"gmap-2018.03.25-pl5.22.0_0.tar.bz2",
 "total":2676
+}
+]
+},
+{
+"date":"2021-12-11",
+"downloads_per_basename":[
+{
+"basename":"gmap-2018.03.25-pl526h2f06484_2.tar.bz2",
+"total":129
 }
 ]
 }

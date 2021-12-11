@@ -156,6 +156,10 @@
 {
 "date":"2021-12-10",
 "total":106
+},
+{
+"date":"2021-12-11",
+"total":107
 }
 ],
 "downloads_per_subdir":[
@@ -165,7 +169,7 @@
 },
 {
 "subdir":"osx-64",
-"total":86
+"total":87
 }
 ],
 "package":"bioconductor-onlinefdr",
@@ -558,6 +562,15 @@
 {
 "subdir":"osx-64",
 "total":86
+}
+]
+},
+{
+"date":"2021-12-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":87
 }
 ]
 }

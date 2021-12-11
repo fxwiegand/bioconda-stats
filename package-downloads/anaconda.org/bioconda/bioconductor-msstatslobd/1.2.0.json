@@ -156,6 +156,10 @@
 {
 "date":"2021-12-10",
 "total":106
+},
+{
+"date":"2021-12-11",
+"total":108
 }
 ],
 "downloads_per_subdir":[
@@ -165,7 +169,7 @@
 },
 {
 "subdir":"osx-64",
-"total":88
+"total":90
 }
 ],
 "package":"bioconductor-msstatslobd",
@@ -566,6 +570,15 @@
 {
 "subdir":"osx-64",
 "total":88
+}
+]
+},
+{
+"date":"2021-12-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":90
 }
 ]
 }

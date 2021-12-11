@@ -136,6 +136,10 @@
 {
 "date":"2021-12-10",
 "total":1316
+},
+{
+"date":"2021-12-11",
+"total":1317
 }
 ],
 "downloads_per_subdir":[
@@ -145,7 +149,7 @@
 },
 {
 "subdir":"linux-64",
-"total":1081
+"total":1082
 }
 ],
 "package":"bioconductor-rhdf5",
@@ -585,6 +589,15 @@
 {
 "subdir":"linux-64",
 "total":1081
+}
+]
+},
+{
+"date":"2021-12-11",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":1082
 }
 ]
 }

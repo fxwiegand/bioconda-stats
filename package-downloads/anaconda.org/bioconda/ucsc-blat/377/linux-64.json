@@ -11,7 +11,7 @@
 },
 {
 "basename":"ucsc-blat-377-h0b8a92a_3.tar.bz2",
-"total":252
+"total":253
 },
 {
 "basename":"ucsc-blat-377-h199ee4e_0.tar.bz2",
@@ -482,6 +482,10 @@
 {
 "date":"2021-12-10",
 "total":837
+},
+{
+"date":"2021-12-11",
+"total":838
 }
 ],
 "package":"ucsc-blat",
@@ -788,6 +792,15 @@
 {
 "basename":"ucsc-blat-377-h0b8a92a_3.tar.bz2",
 "total":252
+}
+]
+},
+{
+"date":"2021-12-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-blat-377-h0b8a92a_3.tar.bz2",
+"total":253
 }
 ]
 }

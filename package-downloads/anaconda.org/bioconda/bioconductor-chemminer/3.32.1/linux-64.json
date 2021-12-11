@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-chemminer-3.32.1-r351hfc679d8_0.tar.bz2",
-"total":228
+"total":229
 },
 {
 "basename":"bioconductor-chemminer-3.32.1-r341hfc679d8_0.tar.bz2",
@@ -222,6 +222,10 @@
 {
 "date":"2021-12-10",
 "total":605
+},
+{
+"date":"2021-12-11",
+"total":606
 }
 ],
 "package":"bioconductor-chemminer",
@@ -358,6 +362,15 @@
 {
 "basename":"bioconductor-chemminer-3.32.1-r341hfc679d8_0.tar.bz2",
 "total":377
+}
+]
+},
+{
+"date":"2021-12-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-chemminer-3.32.1-r351hfc679d8_0.tar.bz2",
+"total":229
 }
 ]
 }

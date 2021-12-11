@@ -152,6 +152,10 @@
 {
 "date":"2021-12-10",
 "total":639
+},
+{
+"date":"2021-12-11",
+"total":640
 }
 ],
 "downloads_per_subdir":[
@@ -161,7 +165,7 @@
 },
 {
 "subdir":"linux-64",
-"total":425
+"total":426
 }
 ],
 "package":"bioconductor-rbgl",
@@ -641,6 +645,15 @@
 {
 "subdir":"linux-64",
 "total":425
+}
+]
+},
+{
+"date":"2021-12-11",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":426
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"sourmash-3.5.0-0.tar.bz2",
-"total":4002
+"total":4004
 }
 ],
 "downloads_per_date":[
@@ -674,6 +674,10 @@
 {
 "date":"2021-12-10",
 "total":4002
+},
+{
+"date":"2021-12-11",
+"total":4004
 }
 ],
 "package":"sourmash",
@@ -999,6 +1003,15 @@
 {
 "basename":"sourmash-3.5.0-0.tar.bz2",
 "total":4002
+}
+]
+},
+{
+"date":"2021-12-11",
+"downloads_per_basename":[
+{
+"basename":"sourmash-3.5.0-0.tar.bz2",
+"total":4004
 }
 ]
 }

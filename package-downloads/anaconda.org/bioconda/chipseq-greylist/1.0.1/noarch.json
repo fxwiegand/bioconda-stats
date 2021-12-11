@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"chipseq-greylist-1.0.1-pyh5ca1d4c_2.tar.bz2",
-"total":500
+"total":501
 },
 {
 "basename":"chipseq-greylist-1.0.1-pyh24bf2e0_1.tar.bz2",
@@ -658,6 +658,10 @@
 {
 "date":"2021-12-10",
 "total":2700
+},
+{
+"date":"2021-12-11",
+"total":2701
 }
 ],
 "package":"chipseq-greylist",
@@ -993,6 +997,15 @@
 {
 "basename":"chipseq-greylist-1.0.1-pyh5ca1d4c_2.tar.bz2",
 "total":500
+}
+]
+},
+{
+"date":"2021-12-11",
+"downloads_per_basename":[
+{
+"basename":"chipseq-greylist-1.0.1-pyh5ca1d4c_2.tar.bz2",
+"total":501
 }
 ]
 }

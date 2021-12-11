@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-biovizbase-1.42.0-r41hd029910_0.tar.bz2",
-"total":255
+"total":256
 }
 ],
 "downloads_per_date":[
@@ -134,6 +134,10 @@
 {
 "date":"2021-12-10",
 "total":255
+},
+{
+"date":"2021-12-11",
+"total":256
 }
 ],
 "package":"bioconductor-biovizbase",
@@ -396,6 +400,15 @@
 {
 "basename":"bioconductor-biovizbase-1.42.0-r41hd029910_0.tar.bz2",
 "total":255
+}
+]
+},
+{
+"date":"2021-12-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-biovizbase-1.42.0-r41hd029910_0.tar.bz2",
+"total":256
 }
 ]
 }

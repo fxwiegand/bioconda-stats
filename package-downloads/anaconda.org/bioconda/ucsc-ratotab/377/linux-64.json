@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-ratotab-377-h0b8a92a_2.tar.bz2",
-"total":75
+"total":76
 },
 {
 "basename":"ucsc-ratotab-377-h199ee4e_0.tar.bz2",
@@ -374,6 +374,10 @@
 {
 "date":"2021-12-10",
 "total":302
+},
+{
+"date":"2021-12-11",
+"total":303
 }
 ],
 "package":"ucsc-ratotab",
@@ -665,6 +669,15 @@
 {
 "basename":"ucsc-ratotab-377-h199ee4e_0.tar.bz2",
 "total":166
+}
+]
+},
+{
+"date":"2021-12-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-ratotab-377-h0b8a92a_2.tar.bz2",
+"total":76
 }
 ]
 }

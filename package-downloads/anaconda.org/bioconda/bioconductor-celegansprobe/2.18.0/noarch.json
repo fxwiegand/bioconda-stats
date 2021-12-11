@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-celegansprobe-2.18.0-r41hdfd78af_8.tar.bz2",
-"total":73
+"total":75
 },
 {
 "basename":"bioconductor-celegansprobe-2.18.0-r36_3.tar.bz2",
@@ -726,6 +726,10 @@
 {
 "date":"2021-12-10",
 "total":699
+},
+{
+"date":"2021-12-11",
+"total":701
 }
 ],
 "package":"bioconductor-celegansprobe",
@@ -1298,6 +1302,15 @@
 {
 "basename":"bioconductor-celegansprobe-2.18.0-r41hdfd78af_8.tar.bz2",
 "total":73
+}
+]
+},
+{
+"date":"2021-12-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-celegansprobe-2.18.0-r41hdfd78af_8.tar.bz2",
+"total":75
 }
 ]
 }

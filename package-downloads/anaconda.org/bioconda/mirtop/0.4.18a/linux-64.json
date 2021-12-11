@@ -27,7 +27,7 @@
 },
 {
 "basename":"mirtop-0.4.18a-py27_1.tar.bz2",
-"total":441
+"total":442
 },
 {
 "basename":"mirtop-0.4.18a-py37_1.tar.bz2",
@@ -286,6 +286,10 @@
 {
 "date":"2021-12-10",
 "total":2696
+},
+{
+"date":"2021-12-11",
+"total":2697
 }
 ],
 "package":"mirtop",
@@ -630,6 +634,15 @@
 {
 "basename":"mirtop-0.4.18a-py36_1.tar.bz2",
 "total":454
+}
+]
+},
+{
+"date":"2021-12-11",
+"downloads_per_basename":[
+{
+"basename":"mirtop-0.4.18a-py27_1.tar.bz2",
+"total":442
 }
 ]
 }

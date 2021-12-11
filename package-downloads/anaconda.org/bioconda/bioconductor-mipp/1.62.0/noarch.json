@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-mipp-1.62.0-r40hdfd78af_1.tar.bz2",
-"total":224
+"total":226
 }
 ],
 "downloads_per_date":[
@@ -662,6 +662,10 @@
 {
 "date":"2021-12-10",
 "total":288
+},
+{
+"date":"2021-12-11",
+"total":290
 }
 ],
 "package":"bioconductor-mipp",
@@ -1009,6 +1013,15 @@
 {
 "basename":"bioconductor-mipp-1.62.0-r40hdfd78af_1.tar.bz2",
 "total":224
+}
+]
+},
+{
+"date":"2021-12-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mipp-1.62.0-r40hdfd78af_1.tar.bz2",
+"total":226
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"chromhmm-1.15-0.tar.bz2",
-"total":512
+"total":513
 }
 ],
 "downloads_per_date":[
@@ -678,6 +678,10 @@
 {
 "date":"2021-12-10",
 "total":512
+},
+{
+"date":"2021-12-11",
+"total":513
 }
 ],
 "package":"chromhmm",
@@ -1003,6 +1007,15 @@
 {
 "basename":"chromhmm-1.15-0.tar.bz2",
 "total":512
+}
+]
+},
+{
+"date":"2021-12-11",
+"downloads_per_basename":[
+{
+"basename":"chromhmm-1.15-0.tar.bz2",
+"total":513
 }
 ]
 }

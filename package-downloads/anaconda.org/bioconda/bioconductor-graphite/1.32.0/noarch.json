@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-graphite-1.32.0-r36_0.tar.bz2",
-"total":816
+"total":818
 }
 ],
 "downloads_per_date":[
@@ -698,6 +698,10 @@
 {
 "date":"2021-12-10",
 "total":816
+},
+{
+"date":"2021-12-11",
+"total":818
 }
 ],
 "package":"bioconductor-graphite",
@@ -1023,6 +1027,15 @@
 {
 "basename":"bioconductor-graphite-1.32.0-r36_0.tar.bz2",
 "total":816
+}
+]
+},
+{
+"date":"2021-12-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-graphite-1.32.0-r36_0.tar.bz2",
+"total":818
 }
 ]
 }

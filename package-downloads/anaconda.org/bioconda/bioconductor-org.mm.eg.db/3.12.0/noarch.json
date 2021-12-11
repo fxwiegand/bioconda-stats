@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-org.mm.eg.db-3.12.0-r40hdfd78af_1.tar.bz2",
-"total":672
+"total":675
 },
 {
 "basename":"bioconductor-org.mm.eg.db-3.12.0-r40_0.tar.bz2",
@@ -770,6 +770,10 @@
 {
 "date":"2021-12-10",
 "total":1984
+},
+{
+"date":"2021-12-11",
+"total":1987
 }
 ],
 "package":"bioconductor-org.mm.eg.db",
@@ -1252,6 +1256,15 @@
 {
 "basename":"bioconductor-org.mm.eg.db-3.12.0-r40hdfd78af_1.tar.bz2",
 "total":672
+}
+]
+},
+{
+"date":"2021-12-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-org.mm.eg.db-3.12.0-r40hdfd78af_1.tar.bz2",
+"total":675
 }
 ]
 }
