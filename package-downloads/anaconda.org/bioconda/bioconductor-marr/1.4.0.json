@@ -152,6 +152,10 @@
 {
 "date":"2021-12-11",
 "total":77
+},
+{
+"date":"2021-12-12",
+"total":78
 }
 ],
 "downloads_per_subdir":[
@@ -161,7 +165,7 @@
 },
 {
 "subdir":"osx-64",
-"total":59
+"total":60
 }
 ],
 "package":"bioconductor-marr",
@@ -514,6 +518,15 @@
 {
 "subdir":"linux-64",
 "total":18
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":60
 }
 ]
 }

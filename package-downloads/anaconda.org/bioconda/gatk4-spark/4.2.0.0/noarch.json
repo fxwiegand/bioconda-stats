@@ -7,7 +7,7 @@
 },
 {
 "basename":"gatk4-spark-4.2.0.0-hdfd78af_1.tar.bz2",
-"total":281
+"total":282
 }
 ],
 "downloads_per_date":[
@@ -722,6 +722,10 @@
 {
 "date":"2021-12-11",
 "total":375
+},
+{
+"date":"2021-12-12",
+"total":376
 }
 ],
 "package":"gatk4-spark",
@@ -1065,6 +1069,15 @@
 {
 "basename":"gatk4-spark-4.2.0.0-hdfd78af_1.tar.bz2",
 "total":281
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_basename":[
+{
+"basename":"gatk4-spark-4.2.0.0-hdfd78af_1.tar.bz2",
+"total":282
 }
 ]
 }

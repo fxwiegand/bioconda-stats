@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-keggrest-1.24.0-r36_1.tar.bz2",
-"total":719
+"total":721
 }
 ],
 "downloads_per_date":[
@@ -706,6 +706,10 @@
 {
 "date":"2021-12-11",
 "total":719
+},
+{
+"date":"2021-12-12",
+"total":721
 }
 ],
 "package":"bioconductor-keggrest",
@@ -1076,6 +1080,15 @@
 {
 "basename":"bioconductor-keggrest-1.24.0-r36_1.tar.bz2",
 "total":719
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-keggrest-1.24.0-r36_1.tar.bz2",
+"total":721
 }
 ]
 }

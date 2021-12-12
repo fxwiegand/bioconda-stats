@@ -7,7 +7,7 @@
 },
 {
 "basename":"bedtools-2.29.1-hc088bd4_1.tar.bz2",
-"total":3079
+"total":3080
 }
 ],
 "downloads_per_date":[
@@ -410,6 +410,10 @@
 {
 "date":"2021-12-11",
 "total":3238
+},
+{
+"date":"2021-12-12",
+"total":3239
 }
 ],
 "package":"bedtools",
@@ -623,6 +627,15 @@
 {
 "basename":"bedtools-2.29.1-hc088bd4_1.tar.bz2",
 "total":3079
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_basename":[
+{
+"basename":"bedtools-2.29.1-hc088bd4_1.tar.bz2",
+"total":3080
 }
 ]
 }

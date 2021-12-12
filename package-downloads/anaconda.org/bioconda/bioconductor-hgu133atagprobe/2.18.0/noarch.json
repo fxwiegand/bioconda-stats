@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-hgu133atagprobe-2.18.0-r41hdfd78af_8.tar.bz2",
-"total":71
+"total":73
 },
 {
 "basename":"bioconductor-hgu133atagprobe-2.18.0-r36_3.tar.bz2",
@@ -714,6 +714,10 @@
 {
 "date":"2021-12-11",
 "total":715
+},
+{
+"date":"2021-12-12",
+"total":717
 }
 ],
 "package":"bioconductor-hgu133atagprobe",
@@ -1240,6 +1244,15 @@
 {
 "basename":"bioconductor-hgu133atagprobe-2.18.0-r41hdfd78af_8.tar.bz2",
 "total":71
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hgu133atagprobe-2.18.0-r41hdfd78af_8.tar.bz2",
+"total":73
 }
 ]
 }

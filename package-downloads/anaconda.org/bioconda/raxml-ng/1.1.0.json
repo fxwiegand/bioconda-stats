@@ -32,6 +32,10 @@
 {
 "date":"2021-12-11",
 "total":62
+},
+{
+"date":"2021-12-12",
+"total":65
 }
 ],
 "downloads_per_subdir":[
@@ -41,7 +45,7 @@
 },
 {
 "subdir":"osx-64",
-"total":31
+"total":34
 }
 ],
 "package":"raxml-ng",
@@ -147,6 +151,15 @@
 {
 "subdir":"osx-64",
 "total":31
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":34
 }
 ]
 }

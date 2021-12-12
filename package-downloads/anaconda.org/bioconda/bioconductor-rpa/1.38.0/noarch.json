@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-rpa-1.38.0-r351_1.tar.bz2",
-"total":338
+"total":340
 }
 ],
 "downloads_per_date":[
@@ -662,6 +662,10 @@
 {
 "date":"2021-12-11",
 "total":493
+},
+{
+"date":"2021-12-12",
+"total":495
 }
 ],
 "package":"bioconductor-rpa",
@@ -1006,6 +1010,15 @@
 {
 "basename":"bioconductor-rpa-1.38.0-r351_1.tar.bz2",
 "total":338
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rpa-1.38.0-r351_1.tar.bz2",
+"total":340
 }
 ]
 }

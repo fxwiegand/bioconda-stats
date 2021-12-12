@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-annotationdbi-1.56.1-r41hdfd78af_0.tar.bz2",
-"total":5000
+"total":5012
 }
 ],
 "downloads_per_date":[
@@ -154,6 +154,10 @@
 {
 "date":"2021-12-11",
 "total":5000
+},
+{
+"date":"2021-12-12",
+"total":5012
 }
 ],
 "package":"bioconductor-annotationdbi",
@@ -488,6 +492,15 @@
 {
 "basename":"bioconductor-annotationdbi-1.56.1-r41hdfd78af_0.tar.bz2",
 "total":5000
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-annotationdbi-1.56.1-r41hdfd78af_0.tar.bz2",
+"total":5012
 }
 ]
 }

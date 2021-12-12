@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-hdf5array-1.22.0-r41h5142ff2_1.tar.bz2",
-"total":216
+"total":218
 }
 ],
 "downloads_per_date":[
@@ -142,6 +142,10 @@
 {
 "date":"2021-12-11",
 "total":216
+},
+{
+"date":"2021-12-12",
+"total":218
 }
 ],
 "package":"bioconductor-hdf5array",
@@ -449,6 +453,15 @@
 {
 "basename":"bioconductor-hdf5array-1.22.0-r41h5142ff2_1.tar.bz2",
 "total":216
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hdf5array-1.22.0-r41h5142ff2_1.tar.bz2",
+"total":218
 }
 ]
 }

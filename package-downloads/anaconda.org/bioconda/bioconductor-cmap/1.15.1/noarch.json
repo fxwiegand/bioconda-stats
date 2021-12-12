@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-cmap-1.15.1-r41hdfd78af_11.tar.bz2",
-"total":78
+"total":80
 },
 {
 "basename":"bioconductor-cmap-1.15.1-r36_5.tar.bz2",
@@ -742,6 +742,10 @@
 {
 "date":"2021-12-11",
 "total":944
+},
+{
+"date":"2021-12-12",
+"total":946
 }
 ],
 "package":"bioconductor-cmap",
@@ -1400,6 +1404,15 @@
 {
 "basename":"bioconductor-cmap-1.15.1-r41hdfd78af_11.tar.bz2",
 "total":78
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cmap-1.15.1-r41hdfd78af_11.tar.bz2",
+"total":80
 }
 ]
 }

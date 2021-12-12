@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-hgu219.db-3.2.3-r41hdfd78af_8.tar.bz2",
-"total":72
+"total":74
 },
 {
 "basename":"bioconductor-hgu219.db-3.2.3-r36_2.tar.bz2",
@@ -706,6 +706,10 @@
 {
 "date":"2021-12-11",
 "total":689
+},
+{
+"date":"2021-12-12",
+"total":691
 }
 ],
 "package":"bioconductor-hgu219.db",
@@ -1219,6 +1223,15 @@
 {
 "basename":"bioconductor-hgu219.db-3.2.3-r41hdfd78af_8.tar.bz2",
 "total":72
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hgu219.db-3.2.3-r41hdfd78af_8.tar.bz2",
+"total":74
 }
 ]
 }

@@ -160,6 +160,10 @@
 {
 "date":"2021-12-11",
 "total":104
+},
+{
+"date":"2021-12-12",
+"total":106
 }
 ],
 "downloads_per_subdir":[
@@ -169,7 +173,7 @@
 },
 {
 "subdir":"osx-64",
-"total":86
+"total":88
 }
 ],
 "package":"bioconductor-logitt",
@@ -575,6 +579,15 @@
 {
 "subdir":"osx-64",
 "total":86
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":88
 }
 ]
 }

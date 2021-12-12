@@ -7,7 +7,7 @@
 },
 {
 "basename":"bwa-0.6.2-ha92aebf_2.tar.bz2",
-"total":549
+"total":550
 },
 {
 "basename":"bwa-0.6.2-0.tar.bz2",
@@ -470,6 +470,10 @@
 {
 "date":"2021-12-11",
 "total":1527
+},
+{
+"date":"2021-12-12",
+"total":1528
 }
 ],
 "package":"bwa",
@@ -801,6 +805,15 @@
 {
 "basename":"bwa-0.6.2-0.tar.bz2",
 "total":760
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_basename":[
+{
+"basename":"bwa-0.6.2-ha92aebf_2.tar.bz2",
+"total":550
 }
 ]
 }

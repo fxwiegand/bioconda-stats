@@ -156,6 +156,10 @@
 {
 "date":"2021-12-11",
 "total":110
+},
+{
+"date":"2021-12-12",
+"total":112
 }
 ],
 "downloads_per_subdir":[
@@ -165,7 +169,7 @@
 },
 {
 "subdir":"osx-64",
-"total":91
+"total":93
 }
 ],
 "package":"bioconductor-macpet",
@@ -550,6 +554,15 @@
 {
 "subdir":"osx-64",
 "total":91
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":93
 }
 ]
 }

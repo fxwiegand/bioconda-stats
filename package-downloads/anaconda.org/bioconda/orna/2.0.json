@@ -212,6 +212,10 @@
 {
 "date":"2021-12-11",
 "total":160
+},
+{
+"date":"2021-12-12",
+"total":162
 }
 ],
 "downloads_per_subdir":[
@@ -221,7 +225,7 @@
 },
 {
 "subdir":"osx-64",
-"total":123
+"total":125
 }
 ],
 "package":"orna",
@@ -755,6 +759,15 @@
 {
 "subdir":"osx-64",
 "total":123
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":125
 }
 ]
 }

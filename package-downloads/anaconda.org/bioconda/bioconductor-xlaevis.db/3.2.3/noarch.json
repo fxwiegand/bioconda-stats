@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-xlaevis.db-3.2.3-r41hdfd78af_8.tar.bz2",
-"total":65
+"total":67
 },
 {
 "basename":"bioconductor-xlaevis.db-3.2.3-r36_3.tar.bz2",
@@ -702,6 +702,10 @@
 {
 "date":"2021-12-11",
 "total":691
+},
+{
+"date":"2021-12-12",
+"total":693
 }
 ],
 "package":"bioconductor-xlaevis.db",
@@ -1234,6 +1238,15 @@
 {
 "basename":"bioconductor-xlaevis.db-3.2.3-r41hdfd78af_8.tar.bz2",
 "total":65
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-xlaevis.db-3.2.3-r41hdfd78af_8.tar.bz2",
+"total":67
 }
 ]
 }

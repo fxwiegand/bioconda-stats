@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-fabiadata-1.27.0-r40_0.tar.bz2",
-"total":200
+"total":201
 }
 ],
 "downloads_per_date":[
@@ -646,6 +646,10 @@
 {
 "date":"2021-12-11",
 "total":200
+},
+{
+"date":"2021-12-12",
+"total":201
 }
 ],
 "package":"bioconductor-fabiadata",
@@ -908,6 +912,15 @@
 {
 "basename":"bioconductor-fabiadata-1.27.0-r40_0.tar.bz2",
 "total":200
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-fabiadata-1.27.0-r40_0.tar.bz2",
+"total":201
 }
 ]
 }

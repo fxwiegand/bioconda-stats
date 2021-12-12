@@ -64,6 +64,10 @@
 {
 "date":"2021-12-11",
 "total":63
+},
+{
+"date":"2021-12-12",
+"total":65
 }
 ],
 "downloads_per_subdir":[
@@ -73,7 +77,7 @@
 },
 {
 "subdir":"osx-64",
-"total":42
+"total":44
 }
 ],
 "package":"cgat-apps",
@@ -229,6 +233,15 @@
 {
 "subdir":"osx-64",
 "total":42
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":44
 }
 ]
 }

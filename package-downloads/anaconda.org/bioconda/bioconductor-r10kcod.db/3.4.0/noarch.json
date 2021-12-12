@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-r10kcod.db-3.4.0-r41hdfd78af_8.tar.bz2",
-"total":69
+"total":71
 },
 {
 "basename":"bioconductor-r10kcod.db-3.4.0-r36_3.tar.bz2",
@@ -710,6 +710,10 @@
 {
 "date":"2021-12-11",
 "total":701
+},
+{
+"date":"2021-12-12",
+"total":703
 }
 ],
 "package":"bioconductor-r10kcod.db",
@@ -1213,6 +1217,15 @@
 {
 "basename":"bioconductor-r10kcod.db-3.4.0-r41hdfd78af_8.tar.bz2",
 "total":69
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-r10kcod.db-3.4.0-r41hdfd78af_8.tar.bz2",
+"total":71
 }
 ]
 }

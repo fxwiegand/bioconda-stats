@@ -140,6 +140,10 @@
 {
 "date":"2021-12-11",
 "total":104
+},
+{
+"date":"2021-12-12",
+"total":106
 }
 ],
 "downloads_per_subdir":[
@@ -149,7 +153,7 @@
 },
 {
 "subdir":"osx-64",
-"total":81
+"total":83
 }
 ],
 "package":"bioconductor-methylpipe",
@@ -514,6 +518,15 @@
 {
 "subdir":"osx-64",
 "total":81
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":83
 }
 ]
 }

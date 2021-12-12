@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-hapmap500ksty-1.31.0-r40_0.tar.bz2",
-"total":250
+"total":252
 }
 ],
 "downloads_per_date":[
@@ -658,6 +658,10 @@
 {
 "date":"2021-12-11",
 "total":250
+},
+{
+"date":"2021-12-12",
+"total":252
 }
 ],
 "package":"bioconductor-hapmap500ksty",
@@ -974,6 +978,15 @@
 {
 "basename":"bioconductor-hapmap500ksty-1.31.0-r40_0.tar.bz2",
 "total":250
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hapmap500ksty-1.31.0-r40_0.tar.bz2",
+"total":252
 }
 ]
 }

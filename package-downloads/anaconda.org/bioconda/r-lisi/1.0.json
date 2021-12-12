@@ -352,6 +352,10 @@
 {
 "date":"2021-12-11",
 "total":204
+},
+{
+"date":"2021-12-12",
+"total":206
 }
 ],
 "downloads_per_subdir":[
@@ -365,7 +369,7 @@
 },
 {
 "subdir":"noarch",
-"total":113
+"total":115
 }
 ],
 "package":"r-lisi",
@@ -970,6 +974,15 @@
 {
 "subdir":"noarch",
 "total":113
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_subdir":[
+{
+"subdir":"noarch",
+"total":115
 }
 ]
 }

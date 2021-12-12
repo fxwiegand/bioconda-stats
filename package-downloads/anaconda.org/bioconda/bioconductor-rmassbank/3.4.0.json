@@ -156,6 +156,10 @@
 {
 "date":"2021-12-11",
 "total":82
+},
+{
+"date":"2021-12-12",
+"total":83
 }
 ],
 "downloads_per_subdir":[
@@ -165,7 +169,7 @@
 },
 {
 "subdir":"osx-64",
-"total":59
+"total":60
 }
 ],
 "package":"bioconductor-rmassbank",
@@ -518,6 +522,15 @@
 {
 "subdir":"osx-64",
 "total":59
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":60
 }
 ]
 }

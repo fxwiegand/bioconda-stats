@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-mpedbarray.db-3.2.3-r41hdfd78af_9.tar.bz2",
-"total":76
+"total":78
 },
 {
 "basename":"bioconductor-mpedbarray.db-3.2.3-r36_3.tar.bz2",
@@ -722,6 +722,10 @@
 {
 "date":"2021-12-11",
 "total":814
+},
+{
+"date":"2021-12-12",
+"total":816
 }
 ],
 "package":"bioconductor-mpedbarray.db",
@@ -1298,6 +1302,15 @@
 {
 "basename":"bioconductor-mpedbarray.db-3.2.3-r41hdfd78af_9.tar.bz2",
 "total":76
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mpedbarray.db-3.2.3-r41hdfd78af_9.tar.bz2",
+"total":78
 }
 ]
 }

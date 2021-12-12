@@ -140,6 +140,10 @@
 {
 "date":"2021-12-11",
 "total":106
+},
+{
+"date":"2021-12-12",
+"total":108
 }
 ],
 "downloads_per_subdir":[
@@ -149,7 +153,7 @@
 },
 {
 "subdir":"osx-64",
-"total":82
+"total":84
 }
 ],
 "package":"bioconductor-cetf",
@@ -506,6 +510,15 @@
 {
 "subdir":"osx-64",
 "total":82
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":84
 }
 ]
 }

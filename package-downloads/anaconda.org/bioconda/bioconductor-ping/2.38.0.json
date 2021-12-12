@@ -148,6 +148,10 @@
 {
 "date":"2021-12-11",
 "total":90
+},
+{
+"date":"2021-12-12",
+"total":91
 }
 ],
 "downloads_per_subdir":[
@@ -157,7 +161,7 @@
 },
 {
 "subdir":"osx-64",
-"total":63
+"total":64
 }
 ],
 "package":"bioconductor-ping",
@@ -509,6 +513,15 @@
 {
 "subdir":"osx-64",
 "total":63
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":64
 }
 ]
 }

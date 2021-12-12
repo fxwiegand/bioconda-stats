@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-sesame-1.4.0-r36_1.tar.bz2",
-"total":309
+"total":311
 }
 ],
 "downloads_per_date":[
@@ -674,6 +674,10 @@
 {
 "date":"2021-12-11",
 "total":309
+},
+{
+"date":"2021-12-12",
+"total":311
 }
 ],
 "package":"bioconductor-sesame",
@@ -972,6 +976,15 @@
 {
 "basename":"bioconductor-sesame-1.4.0-r36_1.tar.bz2",
 "total":309
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-sesame-1.4.0-r36_1.tar.bz2",
+"total":311
 }
 ]
 }

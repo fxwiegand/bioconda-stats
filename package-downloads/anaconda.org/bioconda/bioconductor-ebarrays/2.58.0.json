@@ -160,6 +160,10 @@
 {
 "date":"2021-12-11",
 "total":131
+},
+{
+"date":"2021-12-12",
+"total":133
 }
 ],
 "downloads_per_subdir":[
@@ -169,7 +173,7 @@
 },
 {
 "subdir":"osx-64",
-"total":97
+"total":99
 }
 ],
 "package":"bioconductor-ebarrays",
@@ -574,6 +578,15 @@
 {
 "subdir":"osx-64",
 "total":97
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":99
 }
 ]
 }

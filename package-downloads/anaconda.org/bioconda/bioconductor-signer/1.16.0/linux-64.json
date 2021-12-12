@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-signer-1.16.0-r40h399db7b_1.tar.bz2",
-"total":184
+"total":185
 }
 ],
 "downloads_per_date":[
@@ -222,6 +222,10 @@
 {
 "date":"2021-12-11",
 "total":254
+},
+{
+"date":"2021-12-12",
+"total":255
 }
 ],
 "package":"bioconductor-signer",
@@ -353,6 +357,15 @@
 {
 "basename":"bioconductor-signer-1.16.0-r40h399db7b_1.tar.bz2",
 "total":184
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-signer-1.16.0-r40h399db7b_1.tar.bz2",
+"total":185
 }
 ]
 }

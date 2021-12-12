@@ -7,7 +7,7 @@
 },
 {
 "basename":"pyensembl-1.2.6-py_2.tar.bz2",
-"total":358
+"total":360
 }
 ],
 "downloads_per_date":[
@@ -678,6 +678,10 @@
 {
 "date":"2021-12-11",
 "total":524
+},
+{
+"date":"2021-12-12",
+"total":526
 }
 ],
 "package":"pyensembl",
@@ -1040,6 +1044,15 @@
 {
 "basename":"pyensembl-1.2.6-py_2.tar.bz2",
 "total":358
+}
+]
+},
+{
+"date":"2021-12-12",
+"downloads_per_basename":[
+{
+"basename":"pyensembl-1.2.6-py_2.tar.bz2",
+"total":360
 }
 ]
 }
