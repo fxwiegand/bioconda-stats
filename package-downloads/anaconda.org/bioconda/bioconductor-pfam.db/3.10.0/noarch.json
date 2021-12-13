@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-pfam.db-3.10.0-r40_1.tar.bz2",
-"total":307
+"total":309
 }
 ],
 "downloads_per_date":[
@@ -694,6 +694,10 @@
 {
 "date":"2021-12-12",
 "total":485
+},
+{
+"date":"2021-12-13",
+"total":487
 }
 ],
 "package":"bioconductor-pfam.db",
@@ -1092,6 +1096,15 @@
 {
 "basename":"bioconductor-pfam.db-3.10.0-r40_1.tar.bz2",
 "total":307
+}
+]
+},
+{
+"date":"2021-12-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pfam.db-3.10.0-r40_1.tar.bz2",
+"total":309
 }
 ]
 }

@@ -160,6 +160,10 @@
 {
 "date":"2021-12-12",
 "total":121
+},
+{
+"date":"2021-12-13",
+"total":123
 }
 ],
 "downloads_per_subdir":[
@@ -169,7 +173,7 @@
 },
 {
 "subdir":"osx-64",
-"total":95
+"total":97
 }
 ],
 "package":"bioconductor-microrna",
@@ -571,6 +575,15 @@
 {
 "subdir":"osx-64",
 "total":95
+}
+]
+},
+{
+"date":"2021-12-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":97
 }
 ]
 }

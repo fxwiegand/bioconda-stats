@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-tin-1.16.0-r36_1.tar.bz2",
-"total":321
+"total":323
 }
 ],
 "downloads_per_date":[
@@ -674,6 +674,10 @@
 {
 "date":"2021-12-12",
 "total":321
+},
+{
+"date":"2021-12-13",
+"total":323
 }
 ],
 "package":"bioconductor-tin",
@@ -999,6 +1003,15 @@
 {
 "basename":"bioconductor-tin-1.16.0-r36_1.tar.bz2",
 "total":321
+}
+]
+},
+{
+"date":"2021-12-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-tin-1.16.0-r36_1.tar.bz2",
+"total":323
 }
 ]
 }

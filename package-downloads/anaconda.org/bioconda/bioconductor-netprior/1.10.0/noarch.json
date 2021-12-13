@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-netprior-1.10.0-r36_1.tar.bz2",
-"total":300
+"total":302
 }
 ],
 "downloads_per_date":[
@@ -682,6 +682,10 @@
 {
 "date":"2021-12-12",
 "total":445
+},
+{
+"date":"2021-12-13",
+"total":447
 }
 ],
 "package":"bioconductor-netprior",
@@ -1048,6 +1052,15 @@
 {
 "basename":"bioconductor-netprior-1.10.0-r36_1.tar.bz2",
 "total":300
+}
+]
+},
+{
+"date":"2021-12-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-netprior-1.10.0-r36_1.tar.bz2",
+"total":302
 }
 ]
 }

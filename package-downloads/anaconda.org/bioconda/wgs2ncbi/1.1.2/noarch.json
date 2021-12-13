@@ -7,7 +7,7 @@
 },
 {
 "basename":"wgs2ncbi-1.1.2-pl526_0.tar.bz2",
-"total":256
+"total":258
 }
 ],
 "downloads_per_date":[
@@ -678,6 +678,10 @@
 {
 "date":"2021-12-12",
 "total":305
+},
+{
+"date":"2021-12-13",
+"total":307
 }
 ],
 "package":"wgs2ncbi",
@@ -1013,6 +1017,15 @@
 {
 "basename":"wgs2ncbi-1.1.2-pl526_0.tar.bz2",
 "total":256
+}
+]
+},
+{
+"date":"2021-12-13",
+"downloads_per_basename":[
+{
+"basename":"wgs2ncbi-1.1.2-pl526_0.tar.bz2",
+"total":258
 }
 ]
 }

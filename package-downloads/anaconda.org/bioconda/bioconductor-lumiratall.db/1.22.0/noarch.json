@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-lumiratall.db-1.22.0-r41hdfd78af_8.tar.bz2",
-"total":78
+"total":80
 },
 {
 "basename":"bioconductor-lumiratall.db-1.22.0-r36_2.tar.bz2",
@@ -718,6 +718,10 @@
 {
 "date":"2021-12-12",
 "total":686
+},
+{
+"date":"2021-12-13",
+"total":688
 }
 ],
 "package":"bioconductor-lumiratall.db",
@@ -1227,6 +1231,15 @@
 {
 "basename":"bioconductor-lumiratall.db-1.22.0-r41hdfd78af_8.tar.bz2",
 "total":78
+}
+]
+},
+{
+"date":"2021-12-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-lumiratall.db-1.22.0-r41hdfd78af_8.tar.bz2",
+"total":80
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-tin-1.22.0-r40hdfd78af_1.tar.bz2",
-"total":254
+"total":256
 }
 ],
 "downloads_per_date":[
@@ -706,6 +706,10 @@
 {
 "date":"2021-12-12",
 "total":338
+},
+{
+"date":"2021-12-13",
+"total":340
 }
 ],
 "package":"bioconductor-tin",
@@ -1112,6 +1116,15 @@
 {
 "basename":"bioconductor-tin-1.22.0-r40hdfd78af_1.tar.bz2",
 "total":254
+}
+]
+},
+{
+"date":"2021-12-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-tin-1.22.0-r40hdfd78af_1.tar.bz2",
+"total":256
 }
 ]
 }

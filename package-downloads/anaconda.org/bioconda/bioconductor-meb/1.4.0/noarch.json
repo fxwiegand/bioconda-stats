@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-meb-1.4.0-r40hdfd78af_1.tar.bz2",
-"total":238
+"total":240
 }
 ],
 "downloads_per_date":[
@@ -670,6 +670,10 @@
 {
 "date":"2021-12-12",
 "total":311
+},
+{
+"date":"2021-12-13",
+"total":313
 }
 ],
 "package":"bioconductor-meb",
@@ -1000,6 +1004,15 @@
 {
 "basename":"bioconductor-meb-1.4.0-r40hdfd78af_1.tar.bz2",
 "total":238
+}
+]
+},
+{
+"date":"2021-12-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-meb-1.4.0-r40hdfd78af_1.tar.bz2",
+"total":240
 }
 ]
 }

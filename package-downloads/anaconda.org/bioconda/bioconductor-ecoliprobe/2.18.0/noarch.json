@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-ecoliprobe-2.18.0-r41hdfd78af_8.tar.bz2",
-"total":79
+"total":81
 },
 {
 "basename":"bioconductor-ecoliprobe-2.18.0-r36_2.tar.bz2",
@@ -714,6 +714,10 @@
 {
 "date":"2021-12-12",
 "total":705
+},
+{
+"date":"2021-12-13",
+"total":707
 }
 ],
 "package":"bioconductor-ecoliprobe",
@@ -1285,6 +1289,15 @@
 {
 "basename":"bioconductor-ecoliprobe-2.18.0-r41hdfd78af_8.tar.bz2",
 "total":79
+}
+]
+},
+{
+"date":"2021-12-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ecoliprobe-2.18.0-r41hdfd78af_8.tar.bz2",
+"total":81
 }
 ]
 }

@@ -152,6 +152,10 @@
 {
 "date":"2021-12-12",
 "total":100
+},
+{
+"date":"2021-12-13",
+"total":102
 }
 ],
 "downloads_per_subdir":[
@@ -161,7 +165,7 @@
 },
 {
 "subdir":"osx-64",
-"total":84
+"total":86
 }
 ],
 "package":"bioconductor-rjmcmcnucleosomes",
@@ -519,6 +523,15 @@
 {
 "subdir":"osx-64",
 "total":84
+}
+]
+},
+{
+"date":"2021-12-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":86
 }
 ]
 }

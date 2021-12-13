@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"genomicconsensus-2.3.3-py_1.tar.bz2",
-"total":720
+"total":722
 }
 ],
 "downloads_per_date":[
@@ -726,6 +726,10 @@
 {
 "date":"2021-12-12",
 "total":720
+},
+{
+"date":"2021-12-13",
+"total":722
 }
 ],
 "package":"genomicconsensus",
@@ -1087,6 +1091,15 @@
 {
 "basename":"genomicconsensus-2.3.3-py_1.tar.bz2",
 "total":720
+}
+]
+},
+{
+"date":"2021-12-13",
+"downloads_per_basename":[
+{
+"basename":"genomicconsensus-2.3.3-py_1.tar.bz2",
+"total":722
 }
 ]
 }

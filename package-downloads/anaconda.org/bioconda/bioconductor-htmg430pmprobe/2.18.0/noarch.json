@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-htmg430pmprobe-2.18.0-r41hdfd78af_8.tar.bz2",
-"total":75
+"total":77
 },
 {
 "basename":"bioconductor-htmg430pmprobe-2.18.0-r36_3.tar.bz2",
@@ -710,6 +710,10 @@
 {
 "date":"2021-12-12",
 "total":711
+},
+{
+"date":"2021-12-13",
+"total":713
 }
 ],
 "package":"bioconductor-htmg430pmprobe",
@@ -1251,6 +1255,15 @@
 {
 "basename":"bioconductor-htmg430pmprobe-2.18.0-r41hdfd78af_8.tar.bz2",
 "total":75
+}
+]
+},
+{
+"date":"2021-12-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-htmg430pmprobe-2.18.0-r41hdfd78af_8.tar.bz2",
+"total":77
 }
 ]
 }

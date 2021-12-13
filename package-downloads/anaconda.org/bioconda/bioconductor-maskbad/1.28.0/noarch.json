@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-maskbad-1.28.0-r36_1.tar.bz2",
-"total":309
+"total":311
 }
 ],
 "downloads_per_date":[
@@ -678,6 +678,10 @@
 {
 "date":"2021-12-12",
 "total":309
+},
+{
+"date":"2021-12-13",
+"total":311
 }
 ],
 "package":"bioconductor-maskbad",
@@ -1012,6 +1016,15 @@
 {
 "basename":"bioconductor-maskbad-1.28.0-r36_1.tar.bz2",
 "total":309
+}
+]
+},
+{
+"date":"2021-12-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-maskbad-1.28.0-r36_1.tar.bz2",
+"total":311
 }
 ]
 }

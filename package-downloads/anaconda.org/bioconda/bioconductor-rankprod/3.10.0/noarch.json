@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-rankprod-3.10.0-r36_1.tar.bz2",
-"total":343
+"total":345
 }
 ],
 "downloads_per_date":[
@@ -674,6 +674,10 @@
 {
 "date":"2021-12-12",
 "total":530
+},
+{
+"date":"2021-12-13",
+"total":532
 }
 ],
 "package":"bioconductor-rankprod",
@@ -1036,6 +1040,15 @@
 {
 "basename":"bioconductor-rankprod-3.10.0-r36_1.tar.bz2",
 "total":343
+}
+]
+},
+{
+"date":"2021-12-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rankprod-3.10.0-r36_1.tar.bz2",
+"total":345
 }
 ]
 }

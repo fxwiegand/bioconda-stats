@@ -152,6 +152,10 @@
 {
 "date":"2021-12-12",
 "total":86
+},
+{
+"date":"2021-12-13",
+"total":87
 }
 ],
 "downloads_per_subdir":[
@@ -161,7 +165,7 @@
 },
 {
 "subdir":"osx-64",
-"total":62
+"total":63
 }
 ],
 "package":"bioconductor-chromstar",
@@ -523,6 +527,15 @@
 {
 "subdir":"osx-64",
 "total":62
+}
+]
+},
+{
+"date":"2021-12-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":63
 }
 ]
 }

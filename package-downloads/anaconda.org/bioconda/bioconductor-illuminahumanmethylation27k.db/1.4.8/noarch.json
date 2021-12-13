@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-illuminahumanmethylation27k.db-1.4.8-r41hdfd78af_8.tar.bz2",
-"total":69
+"total":71
 },
 {
 "basename":"bioconductor-illuminahumanmethylation27k.db-1.4.8-r36_3.tar.bz2",
@@ -718,6 +718,10 @@
 {
 "date":"2021-12-12",
 "total":709
+},
+{
+"date":"2021-12-13",
+"total":711
 }
 ],
 "package":"bioconductor-illuminahumanmethylation27k.db",
@@ -1241,6 +1245,15 @@
 {
 "basename":"bioconductor-illuminahumanmethylation27k.db-1.4.8-r41hdfd78af_8.tar.bz2",
 "total":69
+}
+]
+},
+{
+"date":"2021-12-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-illuminahumanmethylation27k.db-1.4.8-r41hdfd78af_8.tar.bz2",
+"total":71
 }
 ]
 }

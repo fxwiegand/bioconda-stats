@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-lumihumanall.db-1.22.0-r41hdfd78af_11.tar.bz2",
-"total":73
+"total":75
 },
 {
 "basename":"bioconductor-lumihumanall.db-1.22.0-r36_6.tar.bz2",
@@ -738,6 +738,10 @@
 {
 "date":"2021-12-12",
 "total":687
+},
+{
+"date":"2021-12-13",
+"total":689
 }
 ],
 "package":"bioconductor-lumihumanall.db",
@@ -1290,6 +1294,15 @@
 {
 "basename":"bioconductor-lumihumanall.db-1.22.0-r41hdfd78af_11.tar.bz2",
 "total":73
+}
+]
+},
+{
+"date":"2021-12-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-lumihumanall.db-1.22.0-r41hdfd78af_11.tar.bz2",
+"total":75
 }
 ]
 }

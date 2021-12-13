@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-lumi-2.42.0-r40hdfd78af_1.tar.bz2",
-"total":295
+"total":296
 },
 {
 "basename":"bioconductor-lumi-2.42.0-r40_0.tar.bz2",
@@ -734,6 +734,10 @@
 {
 "date":"2021-12-12",
 "total":619
+},
+{
+"date":"2021-12-13",
+"total":620
 }
 ],
 "package":"bioconductor-lumi",
@@ -1125,6 +1129,15 @@
 {
 "basename":"bioconductor-lumi-2.42.0-r40hdfd78af_1.tar.bz2",
 "total":295
+}
+]
+},
+{
+"date":"2021-12-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-lumi-2.42.0-r40hdfd78af_1.tar.bz2",
+"total":296
 }
 ]
 }

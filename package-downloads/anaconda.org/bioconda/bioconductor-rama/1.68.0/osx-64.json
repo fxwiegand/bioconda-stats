@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rama-1.68.0-r41h68a2ddb_0.tar.bz2",
-"total":102
+"total":105
 }
 ],
 "downloads_per_date":[
@@ -170,6 +170,10 @@
 {
 "date":"2021-12-12",
 "total":102
+},
+{
+"date":"2021-12-13",
+"total":105
 }
 ],
 "package":"bioconductor-rama",
@@ -531,6 +535,15 @@
 {
 "basename":"bioconductor-rama-1.68.0-r41h68a2ddb_0.tar.bz2",
 "total":102
+}
+]
+},
+{
+"date":"2021-12-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rama-1.68.0-r41h68a2ddb_0.tar.bz2",
+"total":105
 }
 ]
 }

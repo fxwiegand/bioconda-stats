@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-tscan-1.26.0-r40_0.tar.bz2",
-"total":312
+"total":314
 }
 ],
 "downloads_per_date":[
@@ -670,6 +670,10 @@
 {
 "date":"2021-12-12",
 "total":312
+},
+{
+"date":"2021-12-13",
+"total":314
 }
 ],
 "package":"bioconductor-tscan",
@@ -995,6 +999,15 @@
 {
 "basename":"bioconductor-tscan-1.26.0-r40_0.tar.bz2",
 "total":312
+}
+]
+},
+{
+"date":"2021-12-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-tscan-1.26.0-r40_0.tar.bz2",
+"total":314
 }
 ]
 }

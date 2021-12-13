@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"augur-11.1.2-py_1.tar.bz2",
-"total":278
+"total":280
 },
 {
 "basename":"augur-11.1.2-py_0.tar.bz2",
@@ -766,6 +766,10 @@
 {
 "date":"2021-12-12",
 "total":589
+},
+{
+"date":"2021-12-13",
+"total":591
 }
 ],
 "package":"augur",
@@ -1275,6 +1279,15 @@
 {
 "basename":"augur-11.1.2-py_1.tar.bz2",
 "total":278
+}
+]
+},
+{
+"date":"2021-12-13",
+"downloads_per_basename":[
+{
+"basename":"augur-11.1.2-py_1.tar.bz2",
+"total":280
 }
 ]
 }
