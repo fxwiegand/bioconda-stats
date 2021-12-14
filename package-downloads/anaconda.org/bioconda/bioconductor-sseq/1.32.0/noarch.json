@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-sseq-1.32.0-r41hdfd78af_0.tar.bz2",
-"total":102
+"total":104
 }
 ],
 "downloads_per_date":[
@@ -166,6 +166,10 @@
 {
 "date":"2021-12-13",
 "total":102
+},
+{
+"date":"2021-12-14",
+"total":104
 }
 ],
 "package":"bioconductor-sseq",
@@ -518,6 +522,15 @@
 {
 "basename":"bioconductor-sseq-1.32.0-r41hdfd78af_0.tar.bz2",
 "total":102
+}
+]
+},
+{
+"date":"2021-12-14",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-sseq-1.32.0-r41hdfd78af_0.tar.bz2",
+"total":104
 }
 ]
 }

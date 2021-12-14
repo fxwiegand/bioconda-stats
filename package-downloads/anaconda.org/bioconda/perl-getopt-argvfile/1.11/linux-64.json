@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-getopt-argvfile-1.11-pl526_1.tar.bz2",
-"total":209
+"total":210
 },
 {
 "basename":"perl-getopt-argvfile-1.11-pl5.22.0_0.tar.bz2",
@@ -226,6 +226,10 @@
 {
 "date":"2021-12-13",
 "total":854
+},
+{
+"date":"2021-12-14",
+"total":855
 }
 ],
 "package":"perl-getopt-argvfile",
@@ -372,6 +376,15 @@
 {
 "basename":"perl-getopt-argvfile-1.11-pl5.22.0_0.tar.bz2",
 "total":645
+}
+]
+},
+{
+"date":"2021-12-14",
+"downloads_per_basename":[
+{
+"basename":"perl-getopt-argvfile-1.11-pl526_1.tar.bz2",
+"total":210
 }
 ]
 }

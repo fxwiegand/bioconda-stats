@@ -15,7 +15,7 @@
 },
 {
 "basename":"parallel-fastq-dump-0.6.3-py36_1.tar.bz2",
-"total":1360
+"total":1361
 }
 ],
 "downloads_per_date":[
@@ -306,6 +306,10 @@
 {
 "date":"2021-12-13",
 "total":2250
+},
+{
+"date":"2021-12-14",
+"total":2251
 }
 ],
 "package":"parallel-fastq-dump",
@@ -476,6 +480,15 @@
 {
 "basename":"parallel-fastq-dump-0.6.3-py36_0.tar.bz2",
 "total":488
+}
+]
+},
+{
+"date":"2021-12-14",
+"downloads_per_basename":[
+{
+"basename":"parallel-fastq-dump-0.6.3-py36_1.tar.bz2",
+"total":1361
 }
 ]
 }

@@ -164,6 +164,10 @@
 {
 "date":"2021-12-13",
 "total":110
+},
+{
+"date":"2021-12-14",
+"total":111
 }
 ],
 "downloads_per_subdir":[
@@ -173,7 +177,7 @@
 },
 {
 "subdir":"osx-64",
-"total":93
+"total":94
 }
 ],
 "package":"bioconductor-sracipe",
@@ -580,6 +584,15 @@
 {
 "subdir":"osx-64",
 "total":93
+}
+]
+},
+{
+"date":"2021-12-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":94
 }
 ]
 }

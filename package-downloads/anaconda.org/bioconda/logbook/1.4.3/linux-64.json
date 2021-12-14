@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"logbook-1.4.3-py37h14c3975_0.tar.bz2",
-"total":509
+"total":510
 },
 {
 "basename":"logbook-1.4.3-py27h14c3975_0.tar.bz2",
@@ -406,6 +406,10 @@
 {
 "date":"2021-12-13",
 "total":3418
+},
+{
+"date":"2021-12-14",
+"total":3419
 }
 ],
 "package":"logbook",
@@ -642,6 +646,15 @@
 {
 "basename":"logbook-1.4.3-py36h14c3975_0.tar.bz2",
 "total":2181
+}
+]
+},
+{
+"date":"2021-12-14",
+"downloads_per_basename":[
+{
+"basename":"logbook-1.4.3-py37h14c3975_0.tar.bz2",
+"total":510
 }
 ]
 }

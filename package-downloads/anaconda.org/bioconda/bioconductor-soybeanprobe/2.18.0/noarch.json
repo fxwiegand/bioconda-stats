@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-soybeanprobe-2.18.0-r41hdfd78af_8.tar.bz2",
-"total":81
+"total":82
 },
 {
 "basename":"bioconductor-soybeanprobe-2.18.0-r36_2.tar.bz2",
@@ -730,6 +730,10 @@
 {
 "date":"2021-12-13",
 "total":711
+},
+{
+"date":"2021-12-14",
+"total":712
 }
 ],
 "package":"bioconductor-soybeanprobe",
@@ -1328,6 +1332,15 @@
 {
 "basename":"bioconductor-soybeanprobe-2.18.0-r41hdfd78af_8.tar.bz2",
 "total":81
+}
+]
+},
+{
+"date":"2021-12-14",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-soybeanprobe-2.18.0-r41hdfd78af_8.tar.bz2",
+"total":82
 }
 ]
 }

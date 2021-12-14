@@ -11,7 +11,7 @@
 },
 {
 "basename":"msi-0.3.5-hdfd78af_3.tar.bz2",
-"total":91
+"total":93
 },
 {
 "basename":"msi-0.3.5-hdfd78af_2.tar.bz2",
@@ -710,6 +710,10 @@
 {
 "date":"2021-12-13",
 "total":365
+},
+{
+"date":"2021-12-14",
+"total":367
 }
 ],
 "package":"msi",
@@ -1163,6 +1167,15 @@
 {
 "basename":"msi-0.3.5-hdfd78af_3.tar.bz2",
 "total":91
+}
+]
+},
+{
+"date":"2021-12-14",
+"downloads_per_basename":[
+{
+"basename":"msi-0.3.5-hdfd78af_3.tar.bz2",
+"total":93
 }
 ]
 }

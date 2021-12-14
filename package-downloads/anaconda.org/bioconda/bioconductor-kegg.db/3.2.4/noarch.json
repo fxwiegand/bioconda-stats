@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-kegg.db-3.2.4-r40hdfd78af_2.tar.bz2",
-"total":279
+"total":282
 }
 ],
 "downloads_per_date":[
@@ -746,6 +746,10 @@
 {
 "date":"2021-12-13",
 "total":529
+},
+{
+"date":"2021-12-14",
+"total":532
 }
 ],
 "package":"bioconductor-kegg.db",
@@ -1212,6 +1216,15 @@
 {
 "basename":"bioconductor-kegg.db-3.2.4-r40hdfd78af_2.tar.bz2",
 "total":279
+}
+]
+},
+{
+"date":"2021-12-14",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-kegg.db-3.2.4-r40hdfd78af_2.tar.bz2",
+"total":282
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"cwltest-2.2.20211116163652-pyhdfd78af_0.tar.bz2",
-"total":60
+"total":63
 }
 ],
 "downloads_per_date":[
@@ -106,6 +106,10 @@
 {
 "date":"2021-12-13",
 "total":60
+},
+{
+"date":"2021-12-14",
+"total":63
 }
 ],
 "package":"cwltest",
@@ -314,6 +318,15 @@
 {
 "basename":"cwltest-2.2.20211116163652-pyhdfd78af_0.tar.bz2",
 "total":60
+}
+]
+},
+{
+"date":"2021-12-14",
+"downloads_per_basename":[
+{
+"basename":"cwltest-2.2.20211116163652-pyhdfd78af_0.tar.bz2",
+"total":63
 }
 ]
 }

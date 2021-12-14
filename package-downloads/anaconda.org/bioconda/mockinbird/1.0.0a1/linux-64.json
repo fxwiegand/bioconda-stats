@@ -27,7 +27,7 @@
 },
 {
 "basename":"mockinbird-1.0.0a1-py36h14c3975_2.tar.bz2",
-"total":148
+"total":149
 },
 {
 "basename":"mockinbird-1.0.0a1-py35h470a237_1.tar.bz2",
@@ -354,6 +354,10 @@
 {
 "date":"2021-12-13",
 "total":1940
+},
+{
+"date":"2021-12-14",
+"total":1941
 }
 ],
 "package":"mockinbird",
@@ -866,6 +870,15 @@
 {
 "basename":"mockinbird-1.0.0a1-py36r3.4.1_0.tar.bz2",
 "total":436
+}
+]
+},
+{
+"date":"2021-12-14",
+"downloads_per_basename":[
+{
+"basename":"mockinbird-1.0.0a1-py36h14c3975_2.tar.bz2",
+"total":149
 }
 ]
 }

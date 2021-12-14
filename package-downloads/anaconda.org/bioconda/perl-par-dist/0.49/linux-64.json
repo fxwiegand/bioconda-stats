@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-par-dist-0.49-pl526_1.tar.bz2",
-"total":204
+"total":205
 },
 {
 "basename":"perl-par-dist-0.49-pl5.22.0_0.tar.bz2",
@@ -182,6 +182,10 @@
 {
 "date":"2021-12-13",
 "total":802
+},
+{
+"date":"2021-12-14",
+"total":803
 }
 ],
 "package":"perl-par-dist",
@@ -292,6 +296,15 @@
 {
 "basename":"perl-par-dist-0.49-pl5.22.0_0.tar.bz2",
 "total":598
+}
+]
+},
+{
+"date":"2021-12-14",
+"downloads_per_basename":[
+{
+"basename":"perl-par-dist-0.49-pl526_1.tar.bz2",
+"total":205
 }
 ]
 }

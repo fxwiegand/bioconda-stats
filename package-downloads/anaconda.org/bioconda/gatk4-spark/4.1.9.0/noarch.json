@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"gatk4-spark-4.1.9.0-0.tar.bz2",
-"total":313
+"total":314
 }
 ],
 "downloads_per_date":[
@@ -678,6 +678,10 @@
 {
 "date":"2021-12-13",
 "total":313
+},
+{
+"date":"2021-12-14",
+"total":314
 }
 ],
 "package":"gatk4-spark",
@@ -985,6 +989,15 @@
 {
 "basename":"gatk4-spark-4.1.9.0-0.tar.bz2",
 "total":313
+}
+]
+},
+{
+"date":"2021-12-14",
+"downloads_per_basename":[
+{
+"basename":"gatk4-spark-4.1.9.0-0.tar.bz2",
+"total":314
 }
 ]
 }

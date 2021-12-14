@@ -160,6 +160,10 @@
 {
 "date":"2021-12-13",
 "total":108
+},
+{
+"date":"2021-12-14",
+"total":111
 }
 ],
 "downloads_per_subdir":[
@@ -169,7 +173,7 @@
 },
 {
 "subdir":"osx-64",
-"total":88
+"total":91
 }
 ],
 "package":"bioconductor-cn.farms",
@@ -549,6 +553,15 @@
 {
 "subdir":"osx-64",
 "total":88
+}
+]
+},
+{
+"date":"2021-12-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":91
 }
 ]
 }

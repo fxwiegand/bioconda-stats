@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-targetscan.hs.eg.db-0.6.1-r41hdfd78af_9.tar.bz2",
-"total":79
+"total":81
 },
 {
 "basename":"bioconductor-targetscan.hs.eg.db-0.6.1-r36_4.tar.bz2",
@@ -710,6 +710,10 @@
 {
 "date":"2021-12-13",
 "total":700
+},
+{
+"date":"2021-12-14",
+"total":702
 }
 ],
 "package":"bioconductor-targetscan.hs.eg.db",
@@ -1260,6 +1264,15 @@
 {
 "basename":"bioconductor-targetscan.hs.eg.db-0.6.1-r41hdfd78af_9.tar.bz2",
 "total":79
+}
+]
+},
+{
+"date":"2021-12-14",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-targetscan.hs.eg.db-0.6.1-r41hdfd78af_9.tar.bz2",
+"total":81
 }
 ]
 }
