@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"genomedata-1.5.0-py38h6311050_1.tar.bz2",
-"total":46
+"total":47
 },
 {
 "basename":"genomedata-1.5.0-py37hb6a47f0_1.tar.bz2",
@@ -434,6 +434,10 @@
 {
 "date":"2021-12-14",
 "total":440
+},
+{
+"date":"2021-12-15",
+"total":441
 }
 ],
 "package":"genomedata",
@@ -834,6 +838,15 @@
 {
 "basename":"genomedata-1.5.0-py36h485661d_0.tar.bz2",
 "total":52
+}
+]
+},
+{
+"date":"2021-12-15",
+"downloads_per_basename":[
+{
+"basename":"genomedata-1.5.0-py38h6311050_1.tar.bz2",
+"total":47
 }
 ]
 }

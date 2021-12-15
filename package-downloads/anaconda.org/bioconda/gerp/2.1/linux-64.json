@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"gerp-2.1-h1b792b2_2.tar.bz2",
-"total":53
+"total":55
 },
 {
 "basename":"gerp-2.1-he1b5a44_1.tar.bz2",
@@ -338,6 +338,10 @@
 {
 "date":"2021-12-14",
 "total":300
+},
+{
+"date":"2021-12-15",
+"total":302
 }
 ],
 "package":"gerp",
@@ -593,6 +597,15 @@
 {
 "basename":"gerp-2.1-hfc679d8_0.tar.bz2",
 "total":176
+}
+]
+},
+{
+"date":"2021-12-15",
+"downloads_per_basename":[
+{
+"basename":"gerp-2.1-h1b792b2_2.tar.bz2",
+"total":55
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-inspect-1.18.0-r40_0.tar.bz2",
-"total":300
+"total":301
 }
 ],
 "downloads_per_date":[
@@ -686,6 +686,10 @@
 {
 "date":"2021-12-14",
 "total":300
+},
+{
+"date":"2021-12-15",
+"total":301
 }
 ],
 "package":"bioconductor-inspect",
@@ -1038,6 +1042,15 @@
 {
 "basename":"bioconductor-inspect-1.18.0-r40_0.tar.bz2",
 "total":300
+}
+]
+},
+{
+"date":"2021-12-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-inspect-1.18.0-r40_0.tar.bz2",
+"total":301
 }
 ]
 }

@@ -156,6 +156,10 @@
 {
 "date":"2021-12-14",
 "total":144
+},
+{
+"date":"2021-12-15",
+"total":145
 }
 ],
 "downloads_per_subdir":[
@@ -165,7 +169,7 @@
 },
 {
 "subdir":"osx-64",
-"total":105
+"total":106
 }
 ],
 "package":"bioconductor-opencyto",
@@ -578,6 +582,15 @@
 {
 "subdir":"osx-64",
 "total":105
+}
+]
+},
+{
+"date":"2021-12-15",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":106
 }
 ]
 }

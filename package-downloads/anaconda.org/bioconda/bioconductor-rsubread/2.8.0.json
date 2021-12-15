@@ -172,6 +172,10 @@
 {
 "date":"2021-12-14",
 "total":223
+},
+{
+"date":"2021-12-15",
+"total":224
 }
 ],
 "downloads_per_subdir":[
@@ -181,7 +185,7 @@
 },
 {
 "subdir":"linux-64",
-"total":143
+"total":144
 }
 ],
 "package":"bioconductor-rsubread",
@@ -701,6 +705,15 @@
 {
 "subdir":"linux-64",
 "total":143
+}
+]
+},
+{
+"date":"2021-12-15",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":144
 }
 ]
 }
