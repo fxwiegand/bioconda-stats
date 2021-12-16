@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-messina-1.16.0-r341hfc679d8_0.tar.bz2",
-"total":175
+"total":176
 },
 {
 "basename":"bioconductor-messina-1.16.0-r351hfc679d8_0.tar.bz2",
@@ -166,6 +166,10 @@
 {
 "date":"2021-12-15",
 "total":479
+},
+{
+"date":"2021-12-16",
+"total":480
 }
 ],
 "package":"bioconductor-messina",
@@ -306,6 +310,15 @@
 {
 "basename":"bioconductor-messina-1.16.0-r351hfc679d8_0.tar.bz2",
 "total":304
+}
+]
+},
+{
+"date":"2021-12-16",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-messina-1.16.0-r341hfc679d8_0.tar.bz2",
+"total":176
 }
 ]
 }

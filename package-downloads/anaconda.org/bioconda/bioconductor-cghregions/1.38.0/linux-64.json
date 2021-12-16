@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-cghregions-1.38.0-r341_0.tar.bz2",
-"total":315
+"total":316
 }
 ],
 "downloads_per_date":[
@@ -166,6 +166,10 @@
 {
 "date":"2021-12-15",
 "total":503
+},
+{
+"date":"2021-12-16",
+"total":504
 }
 ],
 "package":"bioconductor-cghregions",
@@ -285,6 +289,15 @@
 {
 "basename":"bioconductor-cghregions-1.38.0-r351_0.tar.bz2",
 "total":188
+}
+]
+},
+{
+"date":"2021-12-16",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cghregions-1.38.0-r341_0.tar.bz2",
+"total":316
 }
 ]
 }

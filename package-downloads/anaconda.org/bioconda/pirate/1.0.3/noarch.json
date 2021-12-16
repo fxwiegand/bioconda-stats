@@ -11,7 +11,7 @@
 },
 {
 "basename":"pirate-1.0.3-2.tar.bz2",
-"total":409
+"total":410
 }
 ],
 "downloads_per_date":[
@@ -722,6 +722,10 @@
 {
 "date":"2021-12-15",
 "total":662
+},
+{
+"date":"2021-12-16",
+"total":663
 }
 ],
 "package":"pirate",
@@ -1160,6 +1164,15 @@
 {
 "basename":"pirate-1.0.3-2.tar.bz2",
 "total":409
+}
+]
+},
+{
+"date":"2021-12-16",
+"downloads_per_basename":[
+{
+"basename":"pirate-1.0.3-2.tar.bz2",
+"total":410
 }
 ]
 }

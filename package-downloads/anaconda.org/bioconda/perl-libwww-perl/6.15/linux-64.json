@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-libwww-perl-6.15-pl526_1.tar.bz2",
-"total":7762
+"total":7763
 },
 {
 "basename":"perl-libwww-perl-6.15-0.tar.bz2",
@@ -710,6 +710,10 @@
 {
 "date":"2021-12-15",
 "total":32313
+},
+{
+"date":"2021-12-16",
+"total":32314
 }
 ],
 "package":"perl-libwww-perl",
@@ -1283,6 +1287,15 @@
 {
 "basename":"perl-libwww-perl-6.15-0.tar.bz2",
 "total":24551
+}
+]
+},
+{
+"date":"2021-12-16",
+"downloads_per_basename":[
+{
+"basename":"perl-libwww-perl-6.15-pl526_1.tar.bz2",
+"total":7763
 }
 ]
 }

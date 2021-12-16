@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"cdna_cupcake-5.3-py27_1.tar.bz2",
-"total":195
+"total":196
 },
 {
 "basename":"cdna_cupcake-5.3-py27r3.4.1_0.tar.bz2",
@@ -198,6 +198,10 @@
 {
 "date":"2021-12-15",
 "total":519
+},
+{
+"date":"2021-12-16",
+"total":520
 }
 ],
 "package":"cdna_cupcake",
@@ -330,6 +334,15 @@
 {
 "basename":"cdna_cupcake-5.3-py27r3.4.1_0.tar.bz2",
 "total":324
+}
+]
+},
+{
+"date":"2021-12-16",
+"downloads_per_basename":[
+{
+"basename":"cdna_cupcake-5.3-py27_1.tar.bz2",
+"total":196
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-lapmix-1.46.0-r341_0.tar.bz2",
-"total":167
+"total":168
 },
 {
 "basename":"bioconductor-lapmix-1.46.0-r351_0.tar.bz2",
@@ -142,6 +142,10 @@
 {
 "date":"2021-12-15",
 "total":469
+},
+{
+"date":"2021-12-16",
+"total":470
 }
 ],
 "package":"bioconductor-lapmix",
@@ -230,6 +234,15 @@
 {
 "basename":"bioconductor-lapmix-1.46.0-r351_0.tar.bz2",
 "total":302
+}
+]
+},
+{
+"date":"2021-12-16",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-lapmix-1.46.0-r341_0.tar.bz2",
+"total":168
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-cve-1.11.2-r36_0.tar.bz2",
-"total":328
+"total":329
 }
 ],
 "downloads_per_date":[
@@ -702,6 +702,10 @@
 {
 "date":"2021-12-15",
 "total":328
+},
+{
+"date":"2021-12-16",
+"total":329
 }
 ],
 "package":"bioconductor-cve",
@@ -1072,6 +1076,15 @@
 {
 "basename":"bioconductor-cve-1.11.2-r36_0.tar.bz2",
 "total":328
+}
+]
+},
+{
+"date":"2021-12-16",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cve-1.11.2-r36_0.tar.bz2",
+"total":329
 }
 ]
 }

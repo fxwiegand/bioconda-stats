@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-sspa-2.20.0-r351h470a237_0.tar.bz2",
-"total":171
+"total":172
 },
 {
 "basename":"bioconductor-sspa-2.20.0-r341h470a237_0.tar.bz2",
@@ -210,6 +210,10 @@
 {
 "date":"2021-12-15",
 "total":479
+},
+{
+"date":"2021-12-16",
+"total":480
 }
 ],
 "package":"bioconductor-sspa",
@@ -311,6 +315,15 @@
 {
 "basename":"bioconductor-sspa-2.20.0-r341h470a237_0.tar.bz2",
 "total":308
+}
+]
+},
+{
+"date":"2021-12-16",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-sspa-2.20.0-r351h470a237_0.tar.bz2",
+"total":172
 }
 ]
 }

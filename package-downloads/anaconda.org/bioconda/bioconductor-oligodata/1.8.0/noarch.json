@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-oligodata-1.8.0-r41hdfd78af_8.tar.bz2",
-"total":79
+"total":80
 },
 {
 "basename":"bioconductor-oligodata-1.8.0-r36_3.tar.bz2",
@@ -730,6 +730,10 @@
 {
 "date":"2021-12-15",
 "total":718
+},
+{
+"date":"2021-12-16",
+"total":719
 }
 ],
 "package":"bioconductor-oligodata",
@@ -1240,6 +1244,15 @@
 {
 "basename":"bioconductor-oligodata-1.8.0-r41hdfd78af_8.tar.bz2",
 "total":79
+}
+]
+},
+{
+"date":"2021-12-16",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-oligodata-1.8.0-r41hdfd78af_8.tar.bz2",
+"total":80
 }
 ]
 }

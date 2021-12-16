@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-madseq-1.6.1-r351_0.tar.bz2",
-"total":193
+"total":194
 },
 {
 "basename":"bioconductor-madseq-1.6.1-r341_0.tar.bz2",
@@ -178,6 +178,10 @@
 {
 "date":"2021-12-15",
 "total":509
+},
+{
+"date":"2021-12-16",
+"total":510
 }
 ],
 "package":"bioconductor-madseq",
@@ -283,6 +287,15 @@
 {
 "basename":"bioconductor-madseq-1.6.1-r341_0.tar.bz2",
 "total":316
+}
+]
+},
+{
+"date":"2021-12-16",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-madseq-1.6.1-r351_0.tar.bz2",
+"total":194
 }
 ]
 }

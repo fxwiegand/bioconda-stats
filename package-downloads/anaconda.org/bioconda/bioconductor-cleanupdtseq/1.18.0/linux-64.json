@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-cleanupdtseq-1.18.0-r351_0.tar.bz2",
-"total":263
+"total":264
 },
 {
 "basename":"bioconductor-cleanupdtseq-1.18.0-r341_0.tar.bz2",
@@ -254,6 +254,10 @@
 {
 "date":"2021-12-15",
 "total":650
+},
+{
+"date":"2021-12-16",
+"total":651
 }
 ],
 "package":"bioconductor-cleanupdtseq",
@@ -416,6 +420,15 @@
 {
 "basename":"bioconductor-cleanupdtseq-1.18.0-r341_0.tar.bz2",
 "total":387
+}
+]
+},
+{
+"date":"2021-12-16",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cleanupdtseq-1.18.0-r351_0.tar.bz2",
+"total":264
 }
 ]
 }

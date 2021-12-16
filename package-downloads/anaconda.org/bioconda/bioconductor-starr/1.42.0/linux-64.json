@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-starr-1.42.0-r36h516909a_0.tar.bz2",
-"total":100
+"total":101
 }
 ],
 "downloads_per_date":[
@@ -182,6 +182,10 @@
 {
 "date":"2021-12-15",
 "total":100
+},
+{
+"date":"2021-12-16",
+"total":101
 }
 ],
 "package":"bioconductor-starr",
@@ -255,6 +259,15 @@
 {
 "basename":"bioconductor-starr-1.42.0-r36h516909a_0.tar.bz2",
 "total":100
+}
+]
+},
+{
+"date":"2021-12-16",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-starr-1.42.0-r36h516909a_0.tar.bz2",
+"total":101
 }
 ]
 }

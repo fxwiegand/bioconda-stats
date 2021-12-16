@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"basic-1.0.1-py35_0.tar.bz2",
-"total":560
+"total":561
 },
 {
 "basename":"basic-1.0.1-py36_0.tar.bz2",
@@ -222,6 +222,10 @@
 {
 "date":"2021-12-15",
 "total":1316
+},
+{
+"date":"2021-12-16",
+"total":1317
 }
 ],
 "package":"basic",
@@ -376,6 +380,15 @@
 {
 "basename":"basic-1.0.1-py36_0.tar.bz2",
 "total":756
+}
+]
+},
+{
+"date":"2021-12-16",
+"downloads_per_basename":[
+{
+"basename":"basic-1.0.1-py35_0.tar.bz2",
+"total":561
 }
 ]
 }

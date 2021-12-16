@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-aseb-1.24.0-r341hfc679d8_0.tar.bz2",
-"total":264
+"total":265
 },
 {
 "basename":"bioconductor-aseb-1.24.0-r351hfc679d8_0.tar.bz2",
@@ -182,6 +182,10 @@
 {
 "date":"2021-12-15",
 "total":545
+},
+{
+"date":"2021-12-16",
+"total":546
 }
 ],
 "package":"bioconductor-aseb",
@@ -314,6 +318,15 @@
 {
 "basename":"bioconductor-aseb-1.24.0-r351hfc679d8_0.tar.bz2",
 "total":281
+}
+]
+},
+{
+"date":"2021-12-16",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-aseb-1.24.0-r341hfc679d8_0.tar.bz2",
+"total":265
 }
 ]
 }

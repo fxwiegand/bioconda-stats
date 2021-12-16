@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-biocgenerics-0.24.0-r351_1.tar.bz2",
-"total":280
+"total":281
 },
 {
 "basename":"bioconductor-biocgenerics-0.24.0-r341_1.tar.bz2",
@@ -330,6 +330,10 @@
 {
 "date":"2021-12-15",
 "total":49520
+},
+{
+"date":"2021-12-16",
+"total":49521
 }
 ],
 "package":"bioconductor-biocgenerics",
@@ -543,6 +547,15 @@
 {
 "basename":"bioconductor-biocgenerics-0.24.0-r341_1.tar.bz2",
 "total":15455
+}
+]
+},
+{
+"date":"2021-12-16",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-biocgenerics-0.24.0-r351_1.tar.bz2",
+"total":281
 }
 ]
 }

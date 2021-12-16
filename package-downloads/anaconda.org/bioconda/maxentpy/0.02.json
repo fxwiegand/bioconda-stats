@@ -56,6 +56,10 @@
 {
 "date":"2021-12-15",
 "total":124
+},
+{
+"date":"2021-12-16",
+"total":127
 }
 ],
 "downloads_per_subdir":[
@@ -65,7 +69,7 @@
 },
 {
 "subdir":"linux-64",
-"total":65
+"total":68
 }
 ],
 "package":"maxentpy",
@@ -237,6 +241,15 @@
 {
 "subdir":"linux-64",
 "total":65
+}
+]
+},
+{
+"date":"2021-12-16",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":68
 }
 ]
 }

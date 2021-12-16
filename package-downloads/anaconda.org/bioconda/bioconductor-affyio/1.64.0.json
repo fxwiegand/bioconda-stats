@@ -176,6 +176,10 @@
 {
 "date":"2021-12-15",
 "total":948
+},
+{
+"date":"2021-12-16",
+"total":952
 }
 ],
 "downloads_per_subdir":[
@@ -185,7 +189,7 @@
 },
 {
 "subdir":"linux-64",
-"total":657
+"total":661
 }
 ],
 "package":"bioconductor-affyio",
@@ -731,6 +735,15 @@
 {
 "subdir":"osx-64",
 "total":291
+}
+]
+},
+{
+"date":"2021-12-16",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":661
 }
 ]
 }

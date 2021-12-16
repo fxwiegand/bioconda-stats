@@ -108,6 +108,10 @@
 {
 "date":"2021-12-15",
 "total":110
+},
+{
+"date":"2021-12-16",
+"total":111
 }
 ],
 "downloads_per_subdir":[
@@ -117,7 +121,7 @@
 },
 {
 "subdir":"osx-64",
-"total":64
+"total":65
 }
 ],
 "package":"dfast",
@@ -438,6 +442,15 @@
 {
 "subdir":"linux-64",
 "total":46
+}
+]
+},
+{
+"date":"2021-12-16",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":65
 }
 ]
 }
