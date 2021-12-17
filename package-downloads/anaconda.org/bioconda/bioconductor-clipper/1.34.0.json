@@ -160,6 +160,10 @@
 {
 "date":"2021-12-16",
 "total":112
+},
+{
+"date":"2021-12-17",
+"total":114
 }
 ],
 "downloads_per_subdir":[
@@ -169,7 +173,7 @@
 },
 {
 "subdir":"osx-64",
-"total":93
+"total":95
 }
 ],
 "package":"bioconductor-clipper",
@@ -571,6 +575,15 @@
 {
 "subdir":"linux-64",
 "total":19
+}
+]
+},
+{
+"date":"2021-12-17",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":95
 }
 ]
 }
