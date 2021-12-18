@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"entrez-direct-16.2-he881be0_0.tar.bz2",
-"total":51256
+"total":51722
 }
 ],
 "downloads_per_date":[
@@ -170,6 +170,10 @@
 {
 "date":"2021-12-17",
 "total":51256
+},
+{
+"date":"2021-12-18",
+"total":51722
 }
 ],
 "package":"entrez-direct",
@@ -540,6 +544,15 @@
 {
 "basename":"entrez-direct-16.2-he881be0_0.tar.bz2",
 "total":51256
+}
+]
+},
+{
+"date":"2021-12-18",
+"downloads_per_basename":[
+{
+"basename":"entrez-direct-16.2-he881be0_0.tar.bz2",
+"total":51722
 }
 ]
 }

@@ -184,6 +184,10 @@
 {
 "date":"2021-12-17",
 "total":119
+},
+{
+"date":"2021-12-18",
+"total":120
 }
 ],
 "downloads_per_subdir":[
@@ -193,7 +197,7 @@
 },
 {
 "subdir":"osx-64",
-"total":96
+"total":97
 }
 ],
 "package":"bioconductor-ipath",
@@ -616,6 +620,15 @@
 {
 "subdir":"osx-64",
 "total":96
+}
+]
+},
+{
+"date":"2021-12-18",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":97
 }
 ]
 }

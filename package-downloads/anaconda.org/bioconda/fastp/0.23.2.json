@@ -64,6 +64,10 @@
 {
 "date":"2021-12-17",
 "total":245
+},
+{
+"date":"2021-12-18",
+"total":262
 }
 ],
 "downloads_per_subdir":[
@@ -73,7 +77,7 @@
 },
 {
 "subdir":"linux-64",
-"total":202
+"total":219
 }
 ],
 "package":"fastp",
@@ -279,6 +283,15 @@
 {
 "subdir":"linux-64",
 "total":202
+}
+]
+},
+{
+"date":"2021-12-18",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":219
 }
 ]
 }
