@@ -11,7 +11,7 @@
 },
 {
 "basename":"scanpy-1.4.4.post1-py_3.tar.bz2",
-"total":1087
+"total":1088
 },
 {
 "basename":"scanpy-1.4.4.post1-py_0.tar.bz2",
@@ -814,6 +814,10 @@
 {
 "date":"2021-12-18",
 "total":3476
+},
+{
+"date":"2021-12-19",
+"total":3477
 }
 ],
 "package":"scanpy",
@@ -1544,6 +1548,15 @@
 {
 "basename":"scanpy-1.4.4.post1-py_0.tar.bz2",
 "total":1848
+}
+]
+},
+{
+"date":"2021-12-19",
+"downloads_per_basename":[
+{
+"basename":"scanpy-1.4.4.post1-py_3.tar.bz2",
+"total":1088
 }
 ]
 }

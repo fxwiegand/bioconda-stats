@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-io-socket-ssl-2.024-0.tar.bz2",
-"total":24754
+"total":24755
 }
 ],
 "downloads_per_date":[
@@ -730,6 +730,10 @@
 {
 "date":"2021-12-18",
 "total":26340
+},
+{
+"date":"2021-12-19",
+"total":26341
 }
 ],
 "package":"perl-io-socket-ssl",
@@ -1176,6 +1180,15 @@
 {
 "basename":"perl-io-socket-ssl-2.024-0.tar.bz2",
 "total":24754
+}
+]
+},
+{
+"date":"2021-12-19",
+"downloads_per_basename":[
+{
+"basename":"perl-io-socket-ssl-2.024-0.tar.bz2",
+"total":24755
 }
 ]
 }

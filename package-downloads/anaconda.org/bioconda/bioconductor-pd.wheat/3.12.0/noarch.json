@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-pd.wheat-3.12.0-r41hdfd78af_9.tar.bz2",
-"total":78
+"total":79
 },
 {
 "basename":"bioconductor-pd.wheat-3.12.0-r36_3.tar.bz2",
@@ -734,6 +734,10 @@
 {
 "date":"2021-12-18",
 "total":814
+},
+{
+"date":"2021-12-19",
+"total":815
 }
 ],
 "package":"bioconductor-pd.wheat",
@@ -1256,6 +1260,15 @@
 {
 "basename":"bioconductor-pd.wheat-3.12.0-r41hdfd78af_9.tar.bz2",
 "total":78
+}
+]
+},
+{
+"date":"2021-12-19",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pd.wheat-3.12.0-r41hdfd78af_9.tar.bz2",
+"total":79
 }
 ]
 }

@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-bsgenome.drerio.ucsc.danrer7-1.4.0-r41hdfd78af_12.tar.bz2",
-"total":88
+"total":89
 },
 {
 "basename":"bioconductor-bsgenome.drerio.ucsc.danrer7-1.4.0-r36_7.tar.bz2",
@@ -754,6 +754,10 @@
 {
 "date":"2021-12-18",
 "total":845
+},
+{
+"date":"2021-12-19",
+"total":846
 }
 ],
 "package":"bioconductor-bsgenome.drerio.ucsc.danrer7",
@@ -1383,6 +1387,15 @@
 {
 "basename":"bioconductor-bsgenome.drerio.ucsc.danrer7-1.4.0-r41hdfd78af_12.tar.bz2",
 "total":88
+}
+]
+},
+{
+"date":"2021-12-19",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bsgenome.drerio.ucsc.danrer7-1.4.0-r41hdfd78af_12.tar.bz2",
+"total":89
 }
 ]
 }

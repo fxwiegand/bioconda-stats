@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"gatk4-4.1.8.1-py38_0.tar.bz2",
-"total":3960
+"total":3962
 }
 ],
 "downloads_per_date":[
@@ -818,6 +818,10 @@
 {
 "date":"2021-12-18",
 "total":3960
+},
+{
+"date":"2021-12-19",
+"total":3962
 }
 ],
 "package":"gatk4",
@@ -1332,6 +1336,15 @@
 {
 "basename":"gatk4-4.1.8.1-py38_0.tar.bz2",
 "total":3960
+}
+]
+},
+{
+"date":"2021-12-19",
+"downloads_per_basename":[
+{
+"basename":"gatk4-4.1.8.1-py38_0.tar.bz2",
+"total":3962
 }
 ]
 }

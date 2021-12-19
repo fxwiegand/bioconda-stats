@@ -184,6 +184,10 @@
 {
 "date":"2021-12-18",
 "total":121
+},
+{
+"date":"2021-12-19",
+"total":122
 }
 ],
 "downloads_per_subdir":[
@@ -193,7 +197,7 @@
 },
 {
 "subdir":"osx-64",
-"total":100
+"total":101
 }
 ],
 "package":"bioconductor-atsnp",
@@ -649,6 +653,15 @@
 {
 "subdir":"osx-64",
 "total":100
+}
+]
+},
+{
+"date":"2021-12-19",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":101
 }
 ]
 }
