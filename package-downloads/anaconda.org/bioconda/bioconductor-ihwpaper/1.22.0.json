@@ -176,6 +176,10 @@
 {
 "date":"2021-12-19",
 "total":103
+},
+{
+"date":"2021-12-20",
+"total":104
 }
 ],
 "downloads_per_subdir":[
@@ -185,7 +189,7 @@
 },
 {
 "subdir":"osx-64",
-"total":90
+"total":91
 }
 ],
 "package":"bioconductor-ihwpaper",
@@ -571,6 +575,15 @@
 {
 "subdir":"osx-64",
 "total":90
+}
+]
+},
+{
+"date":"2021-12-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":91
 }
 ]
 }

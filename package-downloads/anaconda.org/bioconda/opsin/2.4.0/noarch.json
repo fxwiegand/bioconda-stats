@@ -7,7 +7,7 @@
 },
 {
 "basename":"opsin-2.4.0-hdfd78af_3.tar.bz2",
-"total":272
+"total":273
 },
 {
 "basename":"opsin-2.4.0-1.tar.bz2",
@@ -738,6 +738,10 @@
 {
 "date":"2021-12-19",
 "total":828
+},
+{
+"date":"2021-12-20",
+"total":829
 }
 ],
 "package":"opsin",
@@ -1200,6 +1204,15 @@
 {
 "basename":"opsin-2.4.0-hdfd78af_3.tar.bz2",
 "total":272
+}
+]
+},
+{
+"date":"2021-12-20",
+"downloads_per_basename":[
+{
+"basename":"opsin-2.4.0-hdfd78af_3.tar.bz2",
+"total":273
 }
 ]
 }

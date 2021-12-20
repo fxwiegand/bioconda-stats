@@ -19,7 +19,7 @@
 },
 {
 "basename":"cyvcf2-0.30.14-py37hba4200f_0.tar.bz2",
-"total":15
+"total":16
 }
 ],
 "downloads_per_date":[
@@ -66,6 +66,10 @@
 {
 "date":"2021-12-19",
 "total":51
+},
+{
+"date":"2021-12-20",
+"total":52
 }
 ],
 "package":"cyvcf2",
@@ -221,6 +225,15 @@
 {
 "basename":"cyvcf2-0.30.14-py39h967de6e_0.tar.bz2",
 "total":11
+}
+]
+},
+{
+"date":"2021-12-20",
+"downloads_per_basename":[
+{
+"basename":"cyvcf2-0.30.14-py37hba4200f_0.tar.bz2",
+"total":16
 }
 ]
 }

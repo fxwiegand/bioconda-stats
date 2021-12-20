@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-mdp-1.10.0-r40hdfd78af_1.tar.bz2",
-"total":249
+"total":250
 }
 ],
 "downloads_per_date":[
@@ -714,6 +714,10 @@
 {
 "date":"2021-12-19",
 "total":328
+},
+{
+"date":"2021-12-20",
+"total":329
 }
 ],
 "package":"bioconductor-mdp",
@@ -1121,6 +1125,15 @@
 {
 "basename":"bioconductor-mdp-1.10.0-r40hdfd78af_1.tar.bz2",
 "total":249
+}
+]
+},
+{
+"date":"2021-12-20",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mdp-1.10.0-r40hdfd78af_1.tar.bz2",
+"total":250
 }
 ]
 }

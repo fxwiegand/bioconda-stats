@@ -184,6 +184,10 @@
 {
 "date":"2021-12-19",
 "total":111
+},
+{
+"date":"2021-12-20",
+"total":112
 }
 ],
 "downloads_per_subdir":[
@@ -193,7 +197,7 @@
 },
 {
 "subdir":"osx-64",
-"total":93
+"total":94
 }
 ],
 "package":"bioconductor-pqsfinder",
@@ -623,6 +627,15 @@
 {
 "subdir":"osx-64",
 "total":93
+}
+]
+},
+{
+"date":"2021-12-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":94
 }
 ]
 }

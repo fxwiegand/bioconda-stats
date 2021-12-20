@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-sseq-1.22.0-r36_1.tar.bz2",
-"total":320
+"total":321
 }
 ],
 "downloads_per_date":[
@@ -718,6 +718,10 @@
 {
 "date":"2021-12-19",
 "total":475
+},
+{
+"date":"2021-12-20",
+"total":476
 }
 ],
 "package":"bioconductor-sseq",
@@ -1151,6 +1155,15 @@
 {
 "basename":"bioconductor-sseq-1.22.0-r36_1.tar.bz2",
 "total":320
+}
+]
+},
+{
+"date":"2021-12-20",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-sseq-1.22.0-r36_1.tar.bz2",
+"total":321
 }
 ]
 }

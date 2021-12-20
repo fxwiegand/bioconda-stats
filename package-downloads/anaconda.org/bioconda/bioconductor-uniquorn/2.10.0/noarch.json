@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-uniquorn-2.10.0-r40hdfd78af_1.tar.bz2",
-"total":252
+"total":254
 }
 ],
 "downloads_per_date":[
@@ -706,6 +706,10 @@
 {
 "date":"2021-12-19",
 "total":330
+},
+{
+"date":"2021-12-20",
+"total":332
 }
 ],
 "package":"bioconductor-uniquorn",
@@ -1108,6 +1112,15 @@
 {
 "basename":"bioconductor-uniquorn-2.10.0-r40hdfd78af_1.tar.bz2",
 "total":252
+}
+]
+},
+{
+"date":"2021-12-20",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-uniquorn-2.10.0-r40hdfd78af_1.tar.bz2",
+"total":254
 }
 ]
 }

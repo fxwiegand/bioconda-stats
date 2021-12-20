@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-blat-366-hdd26221_0.tar.bz2",
-"total":595
+"total":596
 }
 ],
 "downloads_per_date":[
@@ -434,6 +434,10 @@
 {
 "date":"2021-12-19",
 "total":880
+},
+{
+"date":"2021-12-20",
+"total":881
 }
 ],
 "package":"ucsc-blat",
@@ -608,6 +612,15 @@
 {
 "basename":"ucsc-blat-366-hdd26221_0.tar.bz2",
 "total":595
+}
+]
+},
+{
+"date":"2021-12-20",
+"downloads_per_basename":[
+{
+"basename":"ucsc-blat-366-hdd26221_0.tar.bz2",
+"total":596
 }
 ]
 }

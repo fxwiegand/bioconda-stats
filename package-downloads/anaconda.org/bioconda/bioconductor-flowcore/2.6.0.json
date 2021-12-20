@@ -188,6 +188,10 @@
 {
 "date":"2021-12-19",
 "total":323
+},
+{
+"date":"2021-12-20",
+"total":324
 }
 ],
 "downloads_per_subdir":[
@@ -197,7 +201,7 @@
 },
 {
 "subdir":"osx-64",
-"total":167
+"total":168
 }
 ],
 "package":"bioconductor-flowcore",
@@ -682,6 +686,15 @@
 {
 "subdir":"linux-64",
 "total":156
+}
+]
+},
+{
+"date":"2021-12-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":168
 }
 ]
 }

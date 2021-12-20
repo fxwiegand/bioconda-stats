@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-hgu95bprobe-2.18.0-r41hdfd78af_8.tar.bz2",
-"total":84
+"total":85
 },
 {
 "basename":"bioconductor-hgu95bprobe-2.18.0-r36_2.tar.bz2",
@@ -746,6 +746,10 @@
 {
 "date":"2021-12-19",
 "total":710
+},
+{
+"date":"2021-12-20",
+"total":711
 }
 ],
 "package":"bioconductor-hgu95bprobe",
@@ -1259,6 +1263,15 @@
 {
 "basename":"bioconductor-hgu95bprobe-2.18.0-r41hdfd78af_8.tar.bz2",
 "total":84
+}
+]
+},
+{
+"date":"2021-12-20",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hgu95bprobe-2.18.0-r41hdfd78af_8.tar.bz2",
+"total":85
 }
 ]
 }

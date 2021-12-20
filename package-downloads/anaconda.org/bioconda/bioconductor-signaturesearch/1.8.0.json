@@ -168,6 +168,10 @@
 {
 "date":"2021-12-19",
 "total":131
+},
+{
+"date":"2021-12-20",
+"total":132
 }
 ],
 "downloads_per_subdir":[
@@ -177,7 +181,7 @@
 },
 {
 "subdir":"osx-64",
-"total":98
+"total":99
 }
 ],
 "package":"bioconductor-signaturesearch",
@@ -604,6 +608,15 @@
 {
 "subdir":"osx-64",
 "total":98
+}
+]
+},
+{
+"date":"2021-12-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":99
 }
 ]
 }
