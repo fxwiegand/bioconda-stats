@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-ga4ghclient-1.14.0-r40hdfd78af_1.tar.bz2",
-"total":250
+"total":251
 }
 ],
 "downloads_per_date":[
@@ -698,6 +698,10 @@
 {
 "date":"2021-12-20",
 "total":320
+},
+{
+"date":"2021-12-21",
+"total":321
 }
 ],
 "package":"bioconductor-ga4ghclient",
@@ -1109,6 +1113,15 @@
 {
 "basename":"bioconductor-ga4ghclient-1.14.0-r40hdfd78af_1.tar.bz2",
 "total":250
+}
+]
+},
+{
+"date":"2021-12-21",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ga4ghclient-1.14.0-r40hdfd78af_1.tar.bz2",
+"total":251
 }
 ]
 }

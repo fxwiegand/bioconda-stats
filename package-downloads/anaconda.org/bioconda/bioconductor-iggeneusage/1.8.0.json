@@ -192,6 +192,10 @@
 {
 "date":"2021-12-20",
 "total":117
+},
+{
+"date":"2021-12-21",
+"total":118
 }
 ],
 "downloads_per_subdir":[
@@ -201,7 +205,7 @@
 },
 {
 "subdir":"osx-64",
-"total":98
+"total":99
 }
 ],
 "package":"bioconductor-iggeneusage",
@@ -666,6 +670,15 @@
 {
 "subdir":"osx-64",
 "total":98
+}
+]
+},
+{
+"date":"2021-12-21",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":99
 }
 ]
 }

@@ -184,6 +184,10 @@
 {
 "date":"2021-12-20",
 "total":131
+},
+{
+"date":"2021-12-21",
+"total":132
 }
 ],
 "downloads_per_subdir":[
@@ -193,7 +197,7 @@
 },
 {
 "subdir":"osx-64",
-"total":99
+"total":100
 }
 ],
 "package":"bioconductor-celda",
@@ -677,6 +681,15 @@
 {
 "subdir":"osx-64",
 "total":99
+}
+]
+},
+{
+"date":"2021-12-21",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":100
 }
 ]
 }

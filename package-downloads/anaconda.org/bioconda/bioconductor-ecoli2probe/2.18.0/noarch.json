@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-ecoli2probe-2.18.0-r41hdfd78af_8.tar.bz2",
-"total":85
+"total":86
 },
 {
 "basename":"bioconductor-ecoli2probe-2.18.0-r36_2.tar.bz2",
@@ -746,6 +746,10 @@
 {
 "date":"2021-12-20",
 "total":703
+},
+{
+"date":"2021-12-21",
+"total":704
 }
 ],
 "package":"bioconductor-ecoli2probe",
@@ -1335,6 +1339,15 @@
 {
 "basename":"bioconductor-ecoli2probe-2.18.0-r41hdfd78af_8.tar.bz2",
 "total":85
+}
+]
+},
+{
+"date":"2021-12-21",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ecoli2probe-2.18.0-r41hdfd78af_8.tar.bz2",
+"total":86
 }
 ]
 }

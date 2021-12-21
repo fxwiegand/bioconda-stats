@@ -11,7 +11,7 @@
 },
 {
 "basename":"snpeff-4.1l-5.tar.bz2",
-"total":1232
+"total":1233
 },
 {
 "basename":"snpeff-4.1l-2.tar.bz2",
@@ -310,6 +310,10 @@
 {
 "date":"2021-12-20",
 "total":15239
+},
+{
+"date":"2021-12-21",
+"total":15240
 }
 ],
 "package":"snpeff",
@@ -647,6 +651,15 @@
 {
 "basename":"snpeff-4.1l-5.tar.bz2",
 "total":1232
+}
+]
+},
+{
+"date":"2021-12-21",
+"downloads_per_basename":[
+{
+"basename":"snpeff-4.1l-5.tar.bz2",
+"total":1233
 }
 ]
 }

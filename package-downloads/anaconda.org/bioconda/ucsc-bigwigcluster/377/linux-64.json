@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-bigwigcluster-377-h0b8a92a_2.tar.bz2",
-"total":64
+"total":65
 },
 {
 "basename":"ucsc-bigwigcluster-377-h446ed27_1.tar.bz2",
@@ -354,6 +354,10 @@
 {
 "date":"2021-12-20",
 "total":305
+},
+{
+"date":"2021-12-21",
+"total":306
 }
 ],
 "package":"ucsc-bigwigcluster",
@@ -544,6 +548,15 @@
 {
 "basename":"ucsc-bigwigcluster-377-h0b8a92a_2.tar.bz2",
 "total":64
+}
+]
+},
+{
+"date":"2021-12-21",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bigwigcluster-377-h0b8a92a_2.tar.bz2",
+"total":65
 }
 ]
 }

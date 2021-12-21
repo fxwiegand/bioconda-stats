@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-maftosnpbed-377-h0b8a92a_2.tar.bz2",
-"total":75
+"total":76
 },
 {
 "basename":"ucsc-maftosnpbed-377-h199ee4e_0.tar.bz2",
@@ -370,6 +370,10 @@
 {
 "date":"2021-12-20",
 "total":305
+},
+{
+"date":"2021-12-21",
+"total":306
 }
 ],
 "package":"ucsc-maftosnpbed",
@@ -581,6 +585,15 @@
 {
 "basename":"ucsc-maftosnpbed-377-h0b8a92a_2.tar.bz2",
 "total":75
+}
+]
+},
+{
+"date":"2021-12-21",
+"downloads_per_basename":[
+{
+"basename":"ucsc-maftosnpbed-377-h0b8a92a_2.tar.bz2",
+"total":76
 }
 ]
 }
