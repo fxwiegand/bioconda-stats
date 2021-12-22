@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-netfilter-377-h0b8a92a_2.tar.bz2",
-"total":82
+"total":83
 },
 {
 "basename":"ucsc-netfilter-377-h199ee4e_0.tar.bz2",
@@ -398,6 +398,10 @@
 {
 "date":"2021-12-21",
 "total":303
+},
+{
+"date":"2021-12-22",
+"total":304
 }
 ],
 "package":"ucsc-netfilter",
@@ -628,6 +632,15 @@
 {
 "basename":"ucsc-netfilter-377-h0b8a92a_2.tar.bz2",
 "total":82
+}
+]
+},
+{
+"date":"2021-12-22",
+"downloads_per_basename":[
+{
+"basename":"ucsc-netfilter-377-h0b8a92a_2.tar.bz2",
+"total":83
 }
 ]
 }

@@ -188,6 +188,10 @@
 {
 "date":"2021-12-21",
 "total":118
+},
+{
+"date":"2021-12-22",
+"total":120
 }
 ],
 "downloads_per_subdir":[
@@ -197,7 +201,7 @@
 },
 {
 "subdir":"osx-64",
-"total":99
+"total":101
 }
 ],
 "package":"bioconductor-epigrahmm",
@@ -662,6 +666,15 @@
 {
 "subdir":"osx-64",
 "total":99
+}
+]
+},
+{
+"date":"2021-12-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":101
 }
 ]
 }

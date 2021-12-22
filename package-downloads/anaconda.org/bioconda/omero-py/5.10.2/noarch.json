@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"omero-py-5.10.2-pyhdfd78af_0.tar.bz2",
-"total":42
+"total":44
 }
 ],
 "downloads_per_date":[
@@ -58,6 +58,10 @@
 {
 "date":"2021-12-21",
 "total":42
+},
+{
+"date":"2021-12-22",
+"total":44
 }
 ],
 "package":"omero-py",
@@ -140,6 +144,15 @@
 {
 "basename":"omero-py-5.10.2-pyhdfd78af_0.tar.bz2",
 "total":42
+}
+]
+},
+{
+"date":"2021-12-22",
+"downloads_per_basename":[
+{
+"basename":"omero-py-5.10.2-pyhdfd78af_0.tar.bz2",
+"total":44
 }
 ]
 }

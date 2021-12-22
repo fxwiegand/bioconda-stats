@@ -11,7 +11,7 @@
 },
 {
 "basename":"mztosqlite-1.2.0-py27_0.tar.bz2",
-"total":485
+"total":486
 },
 {
 "basename":"mztosqlite-1.2.0-py34_0.tar.bz2",
@@ -234,6 +234,10 @@
 {
 "date":"2021-12-21",
 "total":1971
+},
+{
+"date":"2021-12-22",
+"total":1972
 }
 ],
 "package":"mztosqlite",
@@ -452,6 +456,15 @@
 {
 "basename":"mztosqlite-1.2.0-py36_0.tar.bz2",
 "total":469
+}
+]
+},
+{
+"date":"2021-12-22",
+"downloads_per_basename":[
+{
+"basename":"mztosqlite-1.2.0-py27_0.tar.bz2",
+"total":486
 }
 ]
 }

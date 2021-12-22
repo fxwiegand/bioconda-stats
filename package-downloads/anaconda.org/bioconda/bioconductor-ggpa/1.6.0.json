@@ -200,6 +200,10 @@
 {
 "date":"2021-12-21",
 "total":130
+},
+{
+"date":"2021-12-22",
+"total":132
 }
 ],
 "downloads_per_subdir":[
@@ -209,7 +213,7 @@
 },
 {
 "subdir":"osx-64",
-"total":103
+"total":105
 }
 ],
 "package":"bioconductor-ggpa",
@@ -695,6 +699,15 @@
 {
 "subdir":"osx-64",
 "total":103
+}
+]
+},
+{
+"date":"2021-12-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":105
 }
 ]
 }

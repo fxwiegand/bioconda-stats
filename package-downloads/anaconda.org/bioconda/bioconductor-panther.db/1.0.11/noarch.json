@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-panther.db-1.0.11-r41hdfd78af_1.tar.bz2",
-"total":82
+"total":84
 },
 {
 "basename":"bioconductor-panther.db-1.0.11-r41hdfd78af_0.tar.bz2",
@@ -726,6 +726,10 @@
 {
 "date":"2021-12-21",
 "total":255
+},
+{
+"date":"2021-12-22",
+"total":257
 }
 ],
 "package":"bioconductor-panther.db",
@@ -1140,6 +1144,15 @@
 {
 "basename":"bioconductor-panther.db-1.0.11-r41hdfd78af_1.tar.bz2",
 "total":82
+}
+]
+},
+{
+"date":"2021-12-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-panther.db-1.0.11-r41hdfd78af_1.tar.bz2",
+"total":84
 }
 ]
 }

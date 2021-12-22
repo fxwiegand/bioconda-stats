@@ -192,6 +192,10 @@
 {
 "date":"2021-12-21",
 "total":119
+},
+{
+"date":"2021-12-22",
+"total":121
 }
 ],
 "downloads_per_subdir":[
@@ -201,7 +205,7 @@
 },
 {
 "subdir":"osx-64",
-"total":100
+"total":102
 }
 ],
 "package":"bioconductor-hummingbird",
@@ -653,6 +657,15 @@
 {
 "subdir":"osx-64",
 "total":100
+}
+]
+},
+{
+"date":"2021-12-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":102
 }
 ]
 }

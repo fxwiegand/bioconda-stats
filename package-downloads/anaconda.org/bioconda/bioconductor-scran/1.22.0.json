@@ -192,6 +192,10 @@
 {
 "date":"2021-12-21",
 "total":201
+},
+{
+"date":"2021-12-22",
+"total":202
 }
 ],
 "downloads_per_subdir":[
@@ -201,7 +205,7 @@
 },
 {
 "subdir":"linux-64",
-"total":104
+"total":105
 }
 ],
 "package":"bioconductor-scran",
@@ -694,6 +698,15 @@
 {
 "subdir":"linux-64",
 "total":104
+}
+]
+},
+{
+"date":"2021-12-22",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":105
 }
 ]
 }

@@ -196,6 +196,10 @@
 {
 "date":"2021-12-21",
 "total":126
+},
+{
+"date":"2021-12-22",
+"total":128
 }
 ],
 "downloads_per_subdir":[
@@ -205,7 +209,7 @@
 },
 {
 "subdir":"osx-64",
-"total":104
+"total":106
 }
 ],
 "package":"bioconductor-saigegds",
@@ -688,6 +692,15 @@
 {
 "subdir":"osx-64",
 "total":104
+}
+]
+},
+{
+"date":"2021-12-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":106
 }
 ]
 }

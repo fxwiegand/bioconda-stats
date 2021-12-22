@@ -192,6 +192,10 @@
 {
 "date":"2021-12-21",
 "total":114
+},
+{
+"date":"2021-12-22",
+"total":116
 }
 ],
 "downloads_per_subdir":[
@@ -201,7 +205,7 @@
 },
 {
 "subdir":"osx-64",
-"total":95
+"total":97
 }
 ],
 "package":"bioconductor-generxcluster",
@@ -653,6 +657,15 @@
 {
 "subdir":"osx-64",
 "total":95
+}
+]
+},
+{
+"date":"2021-12-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":97
 }
 ]
 }

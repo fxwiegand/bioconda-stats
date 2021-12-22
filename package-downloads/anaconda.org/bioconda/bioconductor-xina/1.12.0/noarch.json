@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-xina-1.12.0-r41hdfd78af_0.tar.bz2",
-"total":99
+"total":101
 }
 ],
 "downloads_per_date":[
@@ -194,6 +194,10 @@
 {
 "date":"2021-12-21",
 "total":99
+},
+{
+"date":"2021-12-22",
+"total":101
 }
 ],
 "package":"bioconductor-xina",
@@ -600,6 +604,15 @@
 {
 "basename":"bioconductor-xina-1.12.0-r41hdfd78af_0.tar.bz2",
 "total":99
+}
+]
+},
+{
+"date":"2021-12-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-xina-1.12.0-r41hdfd78af_0.tar.bz2",
+"total":101
 }
 ]
 }

@@ -192,6 +192,10 @@
 {
 "date":"2021-12-21",
 "total":143
+},
+{
+"date":"2021-12-22",
+"total":145
 }
 ],
 "downloads_per_subdir":[
@@ -201,7 +205,7 @@
 },
 {
 "subdir":"osx-64",
-"total":105
+"total":107
 }
 ],
 "package":"bioconductor-cogaps",
@@ -687,6 +691,15 @@
 {
 "subdir":"osx-64",
 "total":105
+}
+]
+},
+{
+"date":"2021-12-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":107
 }
 ]
 }

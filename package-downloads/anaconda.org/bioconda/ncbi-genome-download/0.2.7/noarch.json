@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ncbi-genome-download-0.2.7-py_0.tar.bz2",
-"total":410
+"total":411
 }
 ],
 "downloads_per_date":[
@@ -678,6 +678,10 @@
 {
 "date":"2021-12-21",
 "total":410
+},
+{
+"date":"2021-12-22",
+"total":411
 }
 ],
 "package":"ncbi-genome-download",
@@ -967,6 +971,15 @@
 {
 "basename":"ncbi-genome-download-0.2.7-py_0.tar.bz2",
 "total":410
+}
+]
+},
+{
+"date":"2021-12-22",
+"downloads_per_basename":[
+{
+"basename":"ncbi-genome-download-0.2.7-py_0.tar.bz2",
+"total":411
 }
 ]
 }

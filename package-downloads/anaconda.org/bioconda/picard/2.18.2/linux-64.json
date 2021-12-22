@@ -7,7 +7,7 @@
 },
 {
 "basename":"picard-2.18.2-py27_0.tar.bz2",
-"total":751
+"total":752
 },
 {
 "basename":"picard-2.18.2-py36_0.tar.bz2",
@@ -658,6 +658,10 @@
 {
 "date":"2021-12-21",
 "total":4584
+},
+{
+"date":"2021-12-22",
+"total":4585
 }
 ],
 "package":"picard",
@@ -993,6 +997,15 @@
 {
 "basename":"picard-2.18.2-py36_0.tar.bz2",
 "total":3443
+}
+]
+},
+{
+"date":"2021-12-22",
+"downloads_per_basename":[
+{
+"basename":"picard-2.18.2-py27_0.tar.bz2",
+"total":752
 }
 ]
 }
