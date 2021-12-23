@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-sracipe-1.6.0-r40h399db7b_1.tar.bz2",
-"total":45
+"total":46
 },
 {
 "basename":"bioconductor-sracipe-1.6.0-r40h5f743cb_0.tar.bz2",
@@ -190,6 +190,10 @@
 {
 "date":"2021-12-22",
 "total":104
+},
+{
+"date":"2021-12-23",
+"total":105
 }
 ],
 "package":"bioconductor-sracipe",
@@ -300,6 +304,15 @@
 {
 "basename":"bioconductor-sracipe-1.6.0-r40h5f743cb_0.tar.bz2",
 "total":59
+}
+]
+},
+{
+"date":"2021-12-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-sracipe-1.6.0-r40h399db7b_1.tar.bz2",
+"total":46
 }
 ]
 }

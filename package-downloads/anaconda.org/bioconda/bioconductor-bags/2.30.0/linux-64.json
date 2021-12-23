@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-bags-2.30.0-r40hd029910_2.tar.bz2",
-"total":36
+"total":37
 },
 {
 "basename":"bioconductor-bags-2.30.0-r40h037d062_0.tar.bz2",
@@ -186,6 +186,10 @@
 {
 "date":"2021-12-22",
 "total":88
+},
+{
+"date":"2021-12-23",
+"total":89
 }
 ],
 "package":"bioconductor-bags",
@@ -291,6 +295,15 @@
 {
 "basename":"bioconductor-bags-2.30.0-r40h037d062_0.tar.bz2",
 "total":52
+}
+]
+},
+{
+"date":"2021-12-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bags-2.30.0-r40hd029910_2.tar.bz2",
+"total":37
 }
 ]
 }

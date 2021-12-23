@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-arrmdata-1.26.0-r40hdfd78af_3.tar.bz2",
-"total":213
+"total":217
 }
 ],
 "downloads_per_date":[
@@ -702,6 +702,10 @@
 {
 "date":"2021-12-22",
 "total":355
+},
+{
+"date":"2021-12-23",
+"total":359
 }
 ],
 "package":"bioconductor-arrmdata",
@@ -1082,6 +1086,15 @@
 {
 "basename":"bioconductor-arrmdata-1.26.0-r40_0.tar.bz2",
 "total":55
+}
+]
+},
+{
+"date":"2021-12-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-arrmdata-1.26.0-r40hdfd78af_3.tar.bz2",
+"total":217
 }
 ]
 }

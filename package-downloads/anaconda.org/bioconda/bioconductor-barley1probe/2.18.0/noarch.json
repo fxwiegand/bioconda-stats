@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-barley1probe-2.18.0-r41hdfd78af_8.tar.bz2",
-"total":89
+"total":91
 },
 {
 "basename":"bioconductor-barley1probe-2.18.0-r351_0.tar.bz2",
@@ -746,6 +746,10 @@
 {
 "date":"2021-12-22",
 "total":711
+},
+{
+"date":"2021-12-23",
+"total":713
 }
 ],
 "package":"bioconductor-barley1probe",
@@ -1310,6 +1314,15 @@
 {
 "basename":"bioconductor-barley1probe-2.18.0-r41hdfd78af_8.tar.bz2",
 "total":89
+}
+]
+},
+{
+"date":"2021-12-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-barley1probe-2.18.0-r41hdfd78af_8.tar.bz2",
+"total":91
 }
 ]
 }

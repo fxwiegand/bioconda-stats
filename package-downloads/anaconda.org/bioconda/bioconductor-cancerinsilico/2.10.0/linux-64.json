@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-cancerinsilico-2.10.0-r40h399db7b_1.tar.bz2",
-"total":53
+"total":54
 },
 {
 "basename":"bioconductor-cancerinsilico-2.10.0-r40h5f743cb_0.tar.bz2",
@@ -230,6 +230,10 @@
 {
 "date":"2021-12-22",
 "total":131
+},
+{
+"date":"2021-12-23",
+"total":132
 }
 ],
 "package":"bioconductor-cancerinsilico",
@@ -353,6 +357,15 @@
 {
 "basename":"bioconductor-cancerinsilico-2.10.0-r40h5f743cb_0.tar.bz2",
 "total":78
+}
+]
+},
+{
+"date":"2021-12-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cancerinsilico-2.10.0-r40h399db7b_1.tar.bz2",
+"total":54
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"arvados-python-client-2.2.0-pyhdfd78af_0.tar.bz2",
-"total":191
+"total":195
 }
 ],
 "downloads_per_date":[
@@ -650,6 +650,10 @@
 {
 "date":"2021-12-22",
 "total":191
+},
+{
+"date":"2021-12-23",
+"total":195
 }
 ],
 "package":"arvados-python-client",
@@ -930,6 +934,15 @@
 {
 "basename":"arvados-python-client-2.2.0-pyhdfd78af_0.tar.bz2",
 "total":191
+}
+]
+},
+{
+"date":"2021-12-23",
+"downloads_per_basename":[
+{
+"basename":"arvados-python-client-2.2.0-pyhdfd78af_0.tar.bz2",
+"total":195
 }
 ]
 }

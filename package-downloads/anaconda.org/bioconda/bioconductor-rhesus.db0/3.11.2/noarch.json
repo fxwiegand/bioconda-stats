@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rhesus.db0-3.11.2-r40_0.tar.bz2",
-"total":256
+"total":258
 }
 ],
 "downloads_per_date":[
@@ -698,6 +698,10 @@
 {
 "date":"2021-12-22",
 "total":256
+},
+{
+"date":"2021-12-23",
+"total":258
 }
 ],
 "package":"bioconductor-rhesus.db0",
@@ -1068,6 +1072,15 @@
 {
 "basename":"bioconductor-rhesus.db0-3.11.2-r40_0.tar.bz2",
 "total":256
+}
+]
+},
+{
+"date":"2021-12-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rhesus.db0-3.11.2-r40_0.tar.bz2",
+"total":258
 }
 ]
 }

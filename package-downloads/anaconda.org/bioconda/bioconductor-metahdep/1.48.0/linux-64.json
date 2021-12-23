@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-metahdep-1.48.0-r40hd029910_1.tar.bz2",
-"total":44
+"total":45
 },
 {
 "basename":"bioconductor-metahdep-1.48.0-r40h037d062_0.tar.bz2",
@@ -190,6 +190,10 @@
 {
 "date":"2021-12-22",
 "total":101
+},
+{
+"date":"2021-12-23",
+"total":102
 }
 ],
 "package":"bioconductor-metahdep",
@@ -305,6 +309,15 @@
 {
 "basename":"bioconductor-metahdep-1.48.0-r40h037d062_0.tar.bz2",
 "total":57
+}
+]
+},
+{
+"date":"2021-12-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-metahdep-1.48.0-r40hd029910_1.tar.bz2",
+"total":45
 }
 ]
 }

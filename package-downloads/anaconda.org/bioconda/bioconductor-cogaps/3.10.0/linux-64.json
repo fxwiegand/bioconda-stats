@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-cogaps-3.10.0-r40h399db7b_1.tar.bz2",
-"total":66
+"total":67
 },
 {
 "basename":"bioconductor-cogaps-3.10.0-r40h5f743cb_0.tar.bz2",
@@ -214,6 +214,10 @@
 {
 "date":"2021-12-22",
 "total":150
+},
+{
+"date":"2021-12-23",
+"total":151
 }
 ],
 "package":"bioconductor-cogaps",
@@ -328,6 +332,15 @@
 {
 "basename":"bioconductor-cogaps-3.10.0-r40h5f743cb_0.tar.bz2",
 "total":84
+}
+]
+},
+{
+"date":"2021-12-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cogaps-3.10.0-r40h399db7b_1.tar.bz2",
+"total":67
 }
 ]
 }

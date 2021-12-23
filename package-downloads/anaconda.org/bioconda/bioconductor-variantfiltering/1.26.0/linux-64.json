@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-variantfiltering-1.26.0-r40hd029910_1.tar.bz2",
-"total":56
+"total":57
 },
 {
 "basename":"bioconductor-variantfiltering-1.26.0-r40h037d062_0.tar.bz2",
@@ -214,6 +214,10 @@
 {
 "date":"2021-12-22",
 "total":125
+},
+{
+"date":"2021-12-23",
+"total":126
 }
 ],
 "package":"bioconductor-variantfiltering",
@@ -332,6 +336,15 @@
 {
 "basename":"bioconductor-variantfiltering-1.26.0-r40h037d062_0.tar.bz2",
 "total":69
+}
+]
+},
+{
+"date":"2021-12-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-variantfiltering-1.26.0-r40hd029910_1.tar.bz2",
+"total":57
 }
 ]
 }

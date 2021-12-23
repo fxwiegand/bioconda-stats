@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-chopsticks-1.56.0-r40hd029910_1.tar.bz2",
-"total":60
+"total":61
 },
 {
 "basename":"bioconductor-chopsticks-1.56.0-r40h037d062_0.tar.bz2",
@@ -222,6 +222,10 @@
 {
 "date":"2021-12-22",
 "total":142
+},
+{
+"date":"2021-12-23",
+"total":143
 }
 ],
 "package":"bioconductor-chopsticks",
@@ -340,6 +344,15 @@
 {
 "basename":"bioconductor-chopsticks-1.56.0-r40h037d062_0.tar.bz2",
 "total":82
+}
+]
+},
+{
+"date":"2021-12-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-chopsticks-1.56.0-r40hd029910_1.tar.bz2",
+"total":61
 }
 ]
 }

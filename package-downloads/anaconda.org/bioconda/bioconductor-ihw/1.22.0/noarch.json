@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-ihw-1.22.0-r41hdfd78af_0.tar.bz2",
-"total":122
+"total":125
 }
 ],
 "downloads_per_date":[
@@ -210,6 +210,10 @@
 {
 "date":"2021-12-22",
 "total":122
+},
+{
+"date":"2021-12-23",
+"total":125
 }
 ],
 "package":"bioconductor-ihw",
@@ -634,6 +638,15 @@
 {
 "basename":"bioconductor-ihw-1.22.0-r41hdfd78af_0.tar.bz2",
 "total":122
+}
+]
+},
+{
+"date":"2021-12-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ihw-1.22.0-r41hdfd78af_0.tar.bz2",
+"total":125
 }
 ]
 }

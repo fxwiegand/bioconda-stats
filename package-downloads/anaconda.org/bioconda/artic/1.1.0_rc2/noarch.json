@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"artic-1.1.0_rc2-py_0.tar.bz2",
-"total":260
+"total":265
 }
 ],
 "downloads_per_date":[
@@ -670,6 +670,10 @@
 {
 "date":"2021-12-22",
 "total":260
+},
+{
+"date":"2021-12-23",
+"total":265
 }
 ],
 "package":"artic",
@@ -959,6 +963,15 @@
 {
 "basename":"artic-1.1.0_rc2-py_0.tar.bz2",
 "total":260
+}
+]
+},
+{
+"date":"2021-12-23",
+"downloads_per_basename":[
+{
+"basename":"artic-1.1.0_rc2-py_0.tar.bz2",
+"total":265
 }
 ]
 }

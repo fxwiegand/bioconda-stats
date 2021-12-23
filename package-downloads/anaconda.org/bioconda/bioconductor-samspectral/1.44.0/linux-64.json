@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-samspectral-1.44.0-r40hd029910_1.tar.bz2",
-"total":53
+"total":54
 },
 {
 "basename":"bioconductor-samspectral-1.44.0-r40h037d062_0.tar.bz2",
@@ -210,6 +210,10 @@
 {
 "date":"2021-12-22",
 "total":122
+},
+{
+"date":"2021-12-23",
+"total":123
 }
 ],
 "package":"bioconductor-samspectral",
@@ -320,6 +324,15 @@
 {
 "basename":"bioconductor-samspectral-1.44.0-r40h037d062_0.tar.bz2",
 "total":69
+}
+]
+},
+{
+"date":"2021-12-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-samspectral-1.44.0-r40hd029910_1.tar.bz2",
+"total":54
 }
 ]
 }

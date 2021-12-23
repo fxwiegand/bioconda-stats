@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rhdf5client-1.12.0-r40hd029910_1.tar.bz2",
-"total":52
+"total":53
 },
 {
 "basename":"bioconductor-rhdf5client-1.12.0-r40h037d062_0.tar.bz2",
@@ -206,6 +206,10 @@
 {
 "date":"2021-12-22",
 "total":125
+},
+{
+"date":"2021-12-23",
+"total":126
 }
 ],
 "package":"bioconductor-rhdf5client",
@@ -307,6 +311,15 @@
 {
 "basename":"bioconductor-rhdf5client-1.12.0-r40h037d062_0.tar.bz2",
 "total":73
+}
+]
+},
+{
+"date":"2021-12-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rhdf5client-1.12.0-r40hd029910_1.tar.bz2",
+"total":53
 }
 ]
 }

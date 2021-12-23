@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-nucpos-1.8.0-r40hacda110_1.tar.bz2",
-"total":46
+"total":47
 },
 {
 "basename":"bioconductor-nucpos-1.8.0-r40h323e27b_0.tar.bz2",
@@ -202,6 +202,10 @@
 {
 "date":"2021-12-22",
 "total":112
+},
+{
+"date":"2021-12-23",
+"total":113
 }
 ],
 "package":"bioconductor-nucpos",
@@ -325,6 +329,15 @@
 {
 "basename":"bioconductor-nucpos-1.8.0-r40h323e27b_0.tar.bz2",
 "total":66
+}
+]
+},
+{
+"date":"2021-12-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-nucpos-1.8.0-r40hacda110_1.tar.bz2",
+"total":47
 }
 ]
 }

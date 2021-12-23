@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-arabidopsis.db0-3.7.1-r351_1.tar.bz2",
-"total":318
+"total":320
 }
 ],
 "downloads_per_date":[
@@ -706,6 +706,10 @@
 {
 "date":"2021-12-22",
 "total":450
+},
+{
+"date":"2021-12-23",
+"total":452
 }
 ],
 "package":"bioconductor-arabidopsis.db0",
@@ -1109,6 +1113,15 @@
 {
 "basename":"bioconductor-arabidopsis.db0-3.7.1-r351_1.tar.bz2",
 "total":318
+}
+]
+},
+{
+"date":"2021-12-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-arabidopsis.db0-3.7.1-r351_1.tar.bz2",
+"total":320
 }
 ]
 }

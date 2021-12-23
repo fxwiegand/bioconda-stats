@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-seqbias-1.38.0-r40h399db7b_1.tar.bz2",
-"total":43
+"total":44
 },
 {
 "basename":"bioconductor-seqbias-1.38.0-r40h5f743cb_0.tar.bz2",
@@ -194,6 +194,10 @@
 {
 "date":"2021-12-22",
 "total":106
+},
+{
+"date":"2021-12-23",
+"total":107
 }
 ],
 "package":"bioconductor-seqbias",
@@ -287,6 +291,15 @@
 {
 "basename":"bioconductor-seqbias-1.38.0-r40h5f743cb_0.tar.bz2",
 "total":63
+}
+]
+},
+{
+"date":"2021-12-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-seqbias-1.38.0-r40h399db7b_1.tar.bz2",
+"total":44
 }
 ]
 }

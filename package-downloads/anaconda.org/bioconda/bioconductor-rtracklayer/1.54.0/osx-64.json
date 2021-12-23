@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rtracklayer-1.54.0-r41h68a2ddb_0.tar.bz2",
-"total":249
+"total":251
 },
 {
 "basename":"bioconductor-rtracklayer-1.54.0-r41h5142ff2_1.tar.bz2",
@@ -210,6 +210,10 @@
 {
 "date":"2021-12-22",
 "total":606
+},
+{
+"date":"2021-12-23",
+"total":608
 }
 ],
 "package":"bioconductor-rtracklayer",
@@ -779,6 +783,15 @@
 {
 "basename":"bioconductor-rtracklayer-1.54.0-r41h5142ff2_1.tar.bz2",
 "total":357
+}
+]
+},
+{
+"date":"2021-12-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rtracklayer-1.54.0-r41h68a2ddb_0.tar.bz2",
+"total":251
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-epigrahmm-1.2.0-r41h832b226_0.tar.bz2",
-"total":101
+"total":103
 }
 ],
 "downloads_per_date":[
@@ -198,6 +198,10 @@
 {
 "date":"2021-12-22",
 "total":101
+},
+{
+"date":"2021-12-23",
+"total":103
 }
 ],
 "package":"bioconductor-epigrahmm",
@@ -622,6 +626,15 @@
 {
 "basename":"bioconductor-epigrahmm-1.2.0-r41h832b226_0.tar.bz2",
 "total":101
+}
+]
+},
+{
+"date":"2021-12-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-epigrahmm-1.2.0-r41h832b226_0.tar.bz2",
+"total":103
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rqc-1.24.0-r40h399db7b_1.tar.bz2",
-"total":59
+"total":60
 },
 {
 "basename":"bioconductor-rqc-1.24.0-r40h5f743cb_0.tar.bz2",
@@ -254,6 +254,10 @@
 {
 "date":"2021-12-22",
 "total":121
+},
+{
+"date":"2021-12-23",
+"total":122
 }
 ],
 "package":"bioconductor-rqc",
@@ -373,6 +377,15 @@
 {
 "basename":"bioconductor-rqc-1.24.0-r40h5f743cb_0.tar.bz2",
 "total":62
+}
+]
+},
+{
+"date":"2021-12-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rqc-1.24.0-r40h399db7b_1.tar.bz2",
+"total":60
 }
 ]
 }
