@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"gromacs-2021-h3ddc34e_0.tar.bz2",
-"total":80
+"total":81
 },
 {
 "basename":"gromacs-2021-h3ddc34e_1.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2021-12-23",
 "total":172
+},
+{
+"date":"2021-12-24",
+"total":173
 }
 ],
 "package":"gromacs",
@@ -398,6 +402,15 @@
 {
 "basename":"gromacs-2021-h3ddc34e_1.tar.bz2",
 "total":92
+}
+]
+},
+{
+"date":"2021-12-24",
+"downloads_per_basename":[
+{
+"basename":"gromacs-2021-h3ddc34e_0.tar.bz2",
+"total":81
 }
 ]
 }
