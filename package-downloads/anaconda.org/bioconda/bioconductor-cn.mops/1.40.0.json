@@ -204,6 +204,10 @@
 {
 "date":"2021-12-24",
 "total":174
+},
+{
+"date":"2021-12-25",
+"total":175
 }
 ],
 "downloads_per_subdir":[
@@ -213,7 +217,7 @@
 },
 {
 "subdir":"osx-64",
-"total":112
+"total":113
 }
 ],
 "package":"bioconductor-cn.mops",
@@ -763,6 +767,15 @@
 {
 "subdir":"osx-64",
 "total":112
+}
+]
+},
+{
+"date":"2021-12-25",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":113
 }
 ]
 }
