@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-globalseq-1.12.0-r361_1.tar.bz2",
-"total":300
+"total":302
 }
 ],
 "downloads_per_date":[
@@ -706,6 +706,10 @@
 {
 "date":"2021-12-25",
 "total":438
+},
+{
+"date":"2021-12-26",
+"total":440
 }
 ],
 "package":"bioconductor-globalseq",
@@ -1051,6 +1055,15 @@
 {
 "basename":"bioconductor-globalseq-1.12.0-r361_1.tar.bz2",
 "total":300
+}
+]
+},
+{
+"date":"2021-12-26",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-globalseq-1.12.0-r361_1.tar.bz2",
+"total":302
 }
 ]
 }

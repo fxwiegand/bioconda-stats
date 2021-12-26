@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-mu6500subbcdf-2.18.0-r41hdfd78af_8.tar.bz2",
-"total":101
+"total":103
 },
 {
 "basename":"bioconductor-mu6500subbcdf-2.18.0-r351_0.tar.bz2",
@@ -770,6 +770,10 @@
 {
 "date":"2021-12-25",
 "total":753
+},
+{
+"date":"2021-12-26",
+"total":755
 }
 ],
 "package":"bioconductor-mu6500subbcdf",
@@ -1356,6 +1360,15 @@
 {
 "basename":"bioconductor-mu6500subbcdf-2.18.0-r41hdfd78af_8.tar.bz2",
 "total":101
+}
+]
+},
+{
+"date":"2021-12-26",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mu6500subbcdf-2.18.0-r41hdfd78af_8.tar.bz2",
+"total":103
 }
 ]
 }

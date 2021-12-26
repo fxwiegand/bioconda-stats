@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-kimod-1.8.0-r341_0.tar.bz2",
-"total":194
+"total":195
 },
 {
 "basename":"bioconductor-kimod-1.8.0-r351_0.tar.bz2",
@@ -210,6 +210,10 @@
 {
 "date":"2021-12-25",
 "total":519
+},
+{
+"date":"2021-12-26",
+"total":520
 }
 ],
 "package":"bioconductor-kimod",
@@ -308,6 +312,15 @@
 {
 "basename":"bioconductor-kimod-1.8.0-r351_0.tar.bz2",
 "total":325
+}
+]
+},
+{
+"date":"2021-12-26",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-kimod-1.8.0-r341_0.tar.bz2",
+"total":195
 }
 ]
 }

@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-u133x3p.db-3.2.3-r41hdfd78af_8.tar.bz2",
-"total":91
+"total":93
 },
 {
 "basename":"bioconductor-u133x3p.db-3.2.3-r36_2.tar.bz2",
@@ -778,6 +778,10 @@
 {
 "date":"2021-12-25",
 "total":732
+},
+{
+"date":"2021-12-26",
+"total":734
 }
 ],
 "package":"bioconductor-u133x3p.db",
@@ -1332,6 +1336,15 @@
 {
 "basename":"bioconductor-u133x3p.db-3.2.3-r41hdfd78af_8.tar.bz2",
 "total":91
+}
+]
+},
+{
+"date":"2021-12-26",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-u133x3p.db-3.2.3-r41hdfd78af_8.tar.bz2",
+"total":93
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-specond-1.34.0-r341_0.tar.bz2",
-"total":179
+"total":180
 },
 {
 "basename":"bioconductor-specond-1.34.0-r351_0.tar.bz2",
@@ -198,6 +198,10 @@
 {
 "date":"2021-12-25",
 "total":487
+},
+{
+"date":"2021-12-26",
+"total":488
 }
 ],
 "package":"bioconductor-specond",
@@ -287,6 +291,15 @@
 {
 "basename":"bioconductor-specond-1.34.0-r351_0.tar.bz2",
 "total":308
+}
+]
+},
+{
+"date":"2021-12-26",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-specond-1.34.0-r341_0.tar.bz2",
+"total":180
 }
 ]
 }

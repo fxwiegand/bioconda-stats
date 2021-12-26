@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-msmstests-1.28.0-r40hdfd78af_1.tar.bz2",
-"total":253
+"total":255
 }
 ],
 "downloads_per_date":[
@@ -726,6 +726,10 @@
 {
 "date":"2021-12-25",
 "total":320
+},
+{
+"date":"2021-12-26",
+"total":322
 }
 ],
 "package":"bioconductor-msmstests",
@@ -1161,6 +1165,15 @@
 {
 "basename":"bioconductor-msmstests-1.28.0-r40hdfd78af_1.tar.bz2",
 "total":253
+}
+]
+},
+{
+"date":"2021-12-26",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-msmstests-1.28.0-r40hdfd78af_1.tar.bz2",
+"total":255
 }
 ]
 }

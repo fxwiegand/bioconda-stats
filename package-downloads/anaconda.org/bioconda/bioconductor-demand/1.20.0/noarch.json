@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-demand-1.20.0-r40hdfd78af_1.tar.bz2",
-"total":251
+"total":253
 }
 ],
 "downloads_per_date":[
@@ -726,6 +726,10 @@
 {
 "date":"2021-12-25",
 "total":315
+},
+{
+"date":"2021-12-26",
+"total":317
 }
 ],
 "package":"bioconductor-demand",
@@ -1146,6 +1150,15 @@
 {
 "basename":"bioconductor-demand-1.20.0-r40hdfd78af_1.tar.bz2",
 "total":251
+}
+]
+},
+{
+"date":"2021-12-26",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-demand-1.20.0-r40hdfd78af_1.tar.bz2",
+"total":253
 }
 ]
 }

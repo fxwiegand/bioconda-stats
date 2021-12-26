@@ -27,7 +27,7 @@
 },
 {
 "basename":"bioconductor-ecoli2.db-3.2.3-r41hdfd78af_7.tar.bz2",
-"total":254
+"total":256
 }
 ],
 "downloads_per_date":[
@@ -778,6 +778,10 @@
 {
 "date":"2021-12-25",
 "total":722
+},
+{
+"date":"2021-12-26",
+"total":724
 }
 ],
 "package":"bioconductor-ecoli2.db",
@@ -1369,6 +1373,15 @@
 {
 "basename":"bioconductor-ecoli2.db-3.2.3-r41hdfd78af_7.tar.bz2",
 "total":254
+}
+]
+},
+{
+"date":"2021-12-26",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ecoli2.db-3.2.3-r41hdfd78af_7.tar.bz2",
+"total":256
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-smap-1.40.0-r3.3.2_0.tar.bz2",
-"total":453
+"total":454
 },
 {
 "basename":"bioconductor-smap-1.40.0-r3.4.1_0.tar.bz2",
@@ -174,6 +174,10 @@
 {
 "date":"2021-12-25",
 "total":1046
+},
+{
+"date":"2021-12-26",
+"total":1047
 }
 ],
 "package":"bioconductor-smap",
@@ -253,6 +257,15 @@
 {
 "basename":"bioconductor-smap-1.40.0-r3.4.1_0.tar.bz2",
 "total":593
+}
+]
+},
+{
+"date":"2021-12-26",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-smap-1.40.0-r3.3.2_0.tar.bz2",
+"total":454
 }
 ]
 }

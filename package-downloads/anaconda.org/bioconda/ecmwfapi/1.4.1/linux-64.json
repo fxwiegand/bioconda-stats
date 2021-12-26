@@ -19,7 +19,7 @@
 },
 {
 "basename":"ecmwfapi-1.4.1-py35_1.tar.bz2",
-"total":489
+"total":491
 },
 {
 "basename":"ecmwfapi-1.4.1-py27_1.tar.bz2",
@@ -246,6 +246,10 @@
 {
 "date":"2021-12-25",
 "total":2811
+},
+{
+"date":"2021-12-26",
+"total":2813
 }
 ],
 "package":"ecmwfapi",
@@ -470,6 +474,15 @@
 {
 "basename":"ecmwfapi-1.4.1-py27_1.tar.bz2",
 "total":516
+}
+]
+},
+{
+"date":"2021-12-26",
+"downloads_per_basename":[
+{
+"basename":"ecmwfapi-1.4.1-py35_1.tar.bz2",
+"total":491
 }
 ]
 }

@@ -19,7 +19,7 @@
 },
 {
 "basename":"bcbio-nextgen-0.9.7a-py27_0.tar.bz2",
-"total":629
+"total":630
 },
 {
 "basename":"bcbio-nextgen-0.9.7a-py27_3.tar.bz2",
@@ -258,6 +258,10 @@
 {
 "date":"2021-12-25",
 "total":3703
+},
+{
+"date":"2021-12-26",
+"total":3704
 }
 ],
 "package":"bcbio-nextgen",
@@ -491,6 +495,15 @@
 {
 "basename":"bcbio-nextgen-0.9.7a-py27_3.tar.bz2",
 "total":768
+}
+]
+},
+{
+"date":"2021-12-26",
+"downloads_per_basename":[
+{
+"basename":"bcbio-nextgen-0.9.7a-py27_0.tar.bz2",
+"total":630
 }
 ]
 }

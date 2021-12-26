@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-mafdb.gnomad.r3.0.grch38-3.11.0-r40_1.tar.bz2",
-"total":250
+"total":252
 }
 ],
 "downloads_per_date":[
@@ -706,6 +706,10 @@
 {
 "date":"2021-12-25",
 "total":313
+},
+{
+"date":"2021-12-26",
+"total":315
 }
 ],
 "package":"bioconductor-mafdb.gnomad.r3.0.grch38",
@@ -1073,6 +1077,15 @@
 {
 "basename":"bioconductor-mafdb.gnomad.r3.0.grch38-3.11.0-r40_1.tar.bz2",
 "total":250
+}
+]
+},
+{
+"date":"2021-12-26",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mafdb.gnomad.r3.0.grch38-3.11.0-r40_1.tar.bz2",
+"total":252
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-globaltest-5.36.0-r351_1.tar.bz2",
-"total":511
+"total":513
 }
 ],
 "downloads_per_date":[
@@ -758,6 +758,10 @@
 {
 "date":"2021-12-25",
 "total":756
+},
+{
+"date":"2021-12-26",
+"total":758
 }
 ],
 "package":"bioconductor-globaltest",
@@ -1224,6 +1228,15 @@
 {
 "basename":"bioconductor-globaltest-5.36.0-r351_1.tar.bz2",
 "total":511
+}
+]
+},
+{
+"date":"2021-12-26",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-globaltest-5.36.0-r351_1.tar.bz2",
+"total":513
 }
 ]
 }

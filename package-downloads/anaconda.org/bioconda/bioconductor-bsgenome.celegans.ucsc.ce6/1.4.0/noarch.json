@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-bsgenome.celegans.ucsc.ce6-1.4.0-r41hdfd78af_13.tar.bz2",
-"total":94
+"total":96
 },
 {
 "basename":"bioconductor-bsgenome.celegans.ucsc.ce6-1.4.0-r36_7.tar.bz2",
@@ -798,6 +798,10 @@
 {
 "date":"2021-12-25",
 "total":740
+},
+{
+"date":"2021-12-26",
+"total":742
 }
 ],
 "package":"bioconductor-bsgenome.celegans.ucsc.ce6",
@@ -1443,6 +1447,15 @@
 {
 "basename":"bioconductor-bsgenome.celegans.ucsc.ce6-1.4.0-r36_7.tar.bz2",
 "total":97
+}
+]
+},
+{
+"date":"2021-12-26",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bsgenome.celegans.ucsc.ce6-1.4.0-r41hdfd78af_13.tar.bz2",
+"total":96
 }
 ]
 }

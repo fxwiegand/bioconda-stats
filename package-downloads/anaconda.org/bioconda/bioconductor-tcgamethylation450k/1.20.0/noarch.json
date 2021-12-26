@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-tcgamethylation450k-1.20.0-r36_1.tar.bz2",
-"total":288
+"total":290
 }
 ],
 "downloads_per_date":[
@@ -710,6 +710,10 @@
 {
 "date":"2021-12-25",
 "total":404
+},
+{
+"date":"2021-12-26",
+"total":406
 }
 ],
 "package":"bioconductor-tcgamethylation450k",
@@ -1109,6 +1113,15 @@
 {
 "basename":"bioconductor-tcgamethylation450k-1.20.0-r36_1.tar.bz2",
 "total":288
+}
+]
+},
+{
+"date":"2021-12-26",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-tcgamethylation450k-1.20.0-r36_1.tar.bz2",
+"total":290
 }
 ]
 }
