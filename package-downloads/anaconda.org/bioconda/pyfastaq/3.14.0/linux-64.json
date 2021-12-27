@@ -7,7 +7,7 @@
 },
 {
 "basename":"pyfastaq-3.14.0-py35_0.tar.bz2",
-"total":863
+"total":864
 },
 {
 "basename":"pyfastaq-3.14.0-py36_0.tar.bz2",
@@ -150,6 +150,10 @@
 {
 "date":"2021-12-26",
 "total":2388
+},
+{
+"date":"2021-12-27",
+"total":2389
 }
 ],
 "package":"pyfastaq",
@@ -229,6 +233,15 @@
 {
 "basename":"pyfastaq-3.14.0-py36_0.tar.bz2",
 "total":905
+}
+]
+},
+{
+"date":"2021-12-27",
+"downloads_per_basename":[
+{
+"basename":"pyfastaq-3.14.0-py35_0.tar.bz2",
+"total":864
 }
 ]
 }

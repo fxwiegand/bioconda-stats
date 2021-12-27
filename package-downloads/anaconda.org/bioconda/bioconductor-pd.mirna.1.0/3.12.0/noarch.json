@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-pd.mirna.1.0-3.12.0-r41hdfd78af_8.tar.bz2",
-"total":93
+"total":95
 },
 {
 "basename":"bioconductor-pd.mirna.1.0-3.12.0-r351_0.tar.bz2",
@@ -770,6 +770,10 @@
 {
 "date":"2021-12-26",
 "total":700
+},
+{
+"date":"2021-12-27",
+"total":702
 }
 ],
 "package":"bioconductor-pd.mirna.1.0",
@@ -1336,6 +1340,15 @@
 {
 "basename":"bioconductor-pd.mirna.1.0-3.12.0-r41hdfd78af_8.tar.bz2",
 "total":93
+}
+]
+},
+{
+"date":"2021-12-27",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pd.mirna.1.0-3.12.0-r41hdfd78af_8.tar.bz2",
+"total":95
 }
 ]
 }

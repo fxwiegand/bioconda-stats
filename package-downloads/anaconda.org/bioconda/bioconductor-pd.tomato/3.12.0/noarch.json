@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-pd.tomato-3.12.0-r41hdfd78af_8.tar.bz2",
-"total":101
+"total":103
 },
 {
 "basename":"bioconductor-pd.tomato-3.12.0-r351_0.tar.bz2",
@@ -774,6 +774,10 @@
 {
 "date":"2021-12-26",
 "total":744
+},
+{
+"date":"2021-12-27",
+"total":746
 }
 ],
 "package":"bioconductor-pd.tomato",
@@ -1369,6 +1373,15 @@
 {
 "basename":"bioconductor-pd.tomato-3.12.0-r41hdfd78af_8.tar.bz2",
 "total":101
+}
+]
+},
+{
+"date":"2021-12-27",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pd.tomato-3.12.0-r41hdfd78af_8.tar.bz2",
+"total":103
 }
 ]
 }

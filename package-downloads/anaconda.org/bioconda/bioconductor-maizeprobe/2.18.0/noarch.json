@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-maizeprobe-2.18.0-r41hdfd78af_8.tar.bz2",
-"total":92
+"total":96
 },
 {
 "basename":"bioconductor-maizeprobe-2.18.0-r36_2.tar.bz2",
@@ -758,6 +758,10 @@
 {
 "date":"2021-12-26",
 "total":734
+},
+{
+"date":"2021-12-27",
+"total":738
 }
 ],
 "package":"bioconductor-maizeprobe",
@@ -1310,6 +1314,15 @@
 {
 "basename":"bioconductor-maizeprobe-2.18.0-r41hdfd78af_8.tar.bz2",
 "total":92
+}
+]
+},
+{
+"date":"2021-12-27",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-maizeprobe-2.18.0-r41hdfd78af_8.tar.bz2",
+"total":96
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-script-1.25-pl526_0.tar.bz2",
-"total":150
+"total":151
 }
 ],
 "downloads_per_date":[
@@ -98,6 +98,10 @@
 {
 "date":"2021-12-26",
 "total":150
+},
+{
+"date":"2021-12-27",
+"total":151
 }
 ],
 "package":"perl-test-script",
@@ -117,6 +121,15 @@
 {
 "basename":"perl-test-script-1.25-pl526_0.tar.bz2",
 "total":150
+}
+]
+},
+{
+"date":"2021-12-27",
+"downloads_per_basename":[
+{
+"basename":"perl-test-script-1.25-pl526_0.tar.bz2",
+"total":151
 }
 ]
 }

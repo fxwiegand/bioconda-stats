@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-mu15v1.db-3.2.3-r41hdfd78af_8.tar.bz2",
-"total":92
+"total":94
 },
 {
 "basename":"bioconductor-mu15v1.db-3.2.3-r36_3.tar.bz2",
@@ -758,6 +758,10 @@
 {
 "date":"2021-12-26",
 "total":784
+},
+{
+"date":"2021-12-27",
+"total":786
 }
 ],
 "package":"bioconductor-mu15v1.db",
@@ -1379,6 +1383,15 @@
 {
 "basename":"bioconductor-mu15v1.db-3.2.3-r41hdfd78af_8.tar.bz2",
 "total":92
+}
+]
+},
+{
+"date":"2021-12-27",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mu15v1.db-3.2.3-r41hdfd78af_8.tar.bz2",
+"total":94
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-sigcheck-2.16.0-r36_1.tar.bz2",
-"total":291
+"total":295
 }
 ],
 "downloads_per_date":[
@@ -694,6 +694,10 @@
 {
 "date":"2021-12-26",
 "total":291
+},
+{
+"date":"2021-12-27",
+"total":295
 }
 ],
 "package":"bioconductor-sigcheck",
@@ -1001,6 +1005,15 @@
 {
 "basename":"bioconductor-sigcheck-2.16.0-r36_1.tar.bz2",
 "total":291
+}
+]
+},
+{
+"date":"2021-12-27",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-sigcheck-2.16.0-r36_1.tar.bz2",
+"total":295
 }
 ]
 }

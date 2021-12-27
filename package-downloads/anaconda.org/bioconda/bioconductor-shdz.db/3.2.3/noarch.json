@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-shdz.db-3.2.3-r41hdfd78af_8.tar.bz2",
-"total":97
+"total":99
 },
 {
 "basename":"bioconductor-shdz.db-3.2.3-r36_2.tar.bz2",
@@ -782,6 +782,10 @@
 {
 "date":"2021-12-26",
 "total":792
+},
+{
+"date":"2021-12-27",
+"total":794
 }
 ],
 "package":"bioconductor-shdz.db",
@@ -1432,6 +1436,15 @@
 {
 "basename":"bioconductor-shdz.db-3.2.3-r41hdfd78af_8.tar.bz2",
 "total":97
+}
+]
+},
+{
+"date":"2021-12-27",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-shdz.db-3.2.3-r41hdfd78af_8.tar.bz2",
+"total":99
 }
 ]
 }

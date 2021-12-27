@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-huo22.db-3.2.3-r41hdfd78af_8.tar.bz2",
-"total":93
+"total":97
 },
 {
 "basename":"bioconductor-huo22.db-3.2.3-r36_2.tar.bz2",
@@ -770,6 +770,10 @@
 {
 "date":"2021-12-26",
 "total":779
+},
+{
+"date":"2021-12-27",
+"total":783
 }
 ],
 "package":"bioconductor-huo22.db",
@@ -1339,6 +1343,15 @@
 {
 "basename":"bioconductor-huo22.db-3.2.3-r41hdfd78af_8.tar.bz2",
 "total":93
+}
+]
+},
+{
+"date":"2021-12-27",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-huo22.db-3.2.3-r41hdfd78af_8.tar.bz2",
+"total":97
 }
 ]
 }

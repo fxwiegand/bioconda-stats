@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-illuminamousev2.db-1.26.0-r341_4.tar.bz2",
-"total":157
+"total":158
 },
 {
 "basename":"bioconductor-illuminamousev2.db-1.26.0-r3.4.1_1.tar.bz2",
@@ -290,6 +290,10 @@
 {
 "date":"2021-12-26",
 "total":3381
+},
+{
+"date":"2021-12-27",
+"total":3382
 }
 ],
 "package":"bioconductor-illuminamousev2.db",
@@ -635,6 +639,15 @@
 {
 "basename":"bioconductor-illuminamousev2.db-1.26.0-0.tar.bz2",
 "total":634
+}
+]
+},
+{
+"date":"2021-12-27",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-illuminamousev2.db-1.26.0-r341_4.tar.bz2",
+"total":158
 }
 ]
 }

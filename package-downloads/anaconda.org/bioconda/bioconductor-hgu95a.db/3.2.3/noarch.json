@@ -27,7 +27,7 @@
 },
 {
 "basename":"bioconductor-hgu95a.db-3.2.3-r41hdfd78af_7.tar.bz2",
-"total":259
+"total":261
 }
 ],
 "downloads_per_date":[
@@ -774,6 +774,10 @@
 {
 "date":"2021-12-26",
 "total":836
+},
+{
+"date":"2021-12-27",
+"total":838
 }
 ],
 "package":"bioconductor-hgu95a.db",
@@ -1336,6 +1340,15 @@
 {
 "basename":"bioconductor-hgu95a.db-3.2.3-r41hdfd78af_7.tar.bz2",
 "total":259
+}
+]
+},
+{
+"date":"2021-12-27",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hgu95a.db-3.2.3-r41hdfd78af_7.tar.bz2",
+"total":261
 }
 ]
 }

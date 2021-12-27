@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-txdb.hsapiens.ucsc.hg19.lincrnastranscripts-3.2.2-r41hdfd78af_14.tar.bz2",
-"total":93
+"total":95
 },
 {
 "basename":"bioconductor-txdb.hsapiens.ucsc.hg19.lincrnastranscripts-3.2.2-r351_6.tar.bz2",
@@ -766,6 +766,10 @@
 {
 "date":"2021-12-26",
 "total":714
+},
+{
+"date":"2021-12-27",
+"total":716
 }
 ],
 "package":"bioconductor-txdb.hsapiens.ucsc.hg19.lincrnastranscripts",
@@ -1329,6 +1333,15 @@
 {
 "basename":"bioconductor-txdb.hsapiens.ucsc.hg19.lincrnastranscripts-3.2.2-r41hdfd78af_14.tar.bz2",
 "total":93
+}
+]
+},
+{
+"date":"2021-12-27",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-txdb.hsapiens.ucsc.hg19.lincrnastranscripts-3.2.2-r41hdfd78af_14.tar.bz2",
+"total":95
 }
 ]
 }

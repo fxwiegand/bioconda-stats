@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-ygs98probe-2.18.0-r41hdfd78af_8.tar.bz2",
-"total":97
+"total":99
 },
 {
 "basename":"bioconductor-ygs98probe-2.18.0-r351_0.tar.bz2",
@@ -778,6 +778,10 @@
 {
 "date":"2021-12-26",
 "total":768
+},
+{
+"date":"2021-12-27",
+"total":770
 }
 ],
 "package":"bioconductor-ygs98probe",
@@ -1360,6 +1364,15 @@
 {
 "basename":"bioconductor-ygs98probe-2.18.0-r41hdfd78af_8.tar.bz2",
 "total":97
+}
+]
+},
+{
+"date":"2021-12-27",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ygs98probe-2.18.0-r41hdfd78af_8.tar.bz2",
+"total":99
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-io-uncompress-rawinflate-2.064-pl526_1.tar.bz2",
-"total":277
+"total":278
 },
 {
 "basename":"perl-io-uncompress-rawinflate-2.064-pl5.22.0_0.tar.bz2",
@@ -162,6 +162,10 @@
 {
 "date":"2021-12-26",
 "total":701
+},
+{
+"date":"2021-12-27",
+"total":702
 }
 ],
 "package":"perl-io-uncompress-rawinflate",
@@ -256,6 +260,15 @@
 {
 "basename":"perl-io-uncompress-rawinflate-2.064-pl5.22.0_0.tar.bz2",
 "total":424
+}
+]
+},
+{
+"date":"2021-12-27",
+"downloads_per_basename":[
+{
+"basename":"perl-io-uncompress-rawinflate-2.064-pl526_1.tar.bz2",
+"total":278
 }
 ]
 }

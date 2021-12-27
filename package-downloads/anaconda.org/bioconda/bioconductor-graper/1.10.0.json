@@ -208,6 +208,10 @@
 {
 "date":"2021-12-26",
 "total":120
+},
+{
+"date":"2021-12-27",
+"total":124
 }
 ],
 "downloads_per_subdir":[
@@ -217,7 +221,7 @@
 },
 {
 "subdir":"osx-64",
-"total":100
+"total":104
 }
 ],
 "package":"bioconductor-graper",
@@ -672,6 +676,15 @@
 {
 "subdir":"osx-64",
 "total":100
+}
+]
+},
+{
+"date":"2021-12-27",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":104
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"libsequence-1.9.1-1.tar.bz2",
-"total":715
+"total":716
 },
 {
 "basename":"libsequence-1.9.1-htslib1.5_1.tar.bz2",
@@ -190,6 +190,10 @@
 {
 "date":"2021-12-26",
 "total":1450
+},
+{
+"date":"2021-12-27",
+"total":1451
 }
 ],
 "package":"libsequence",
@@ -262,6 +266,15 @@
 {
 "basename":"libsequence-1.9.1-htslib1.5_1.tar.bz2",
 "total":735
+}
+]
+},
+{
+"date":"2021-12-27",
+"downloads_per_basename":[
+{
+"basename":"libsequence-1.9.1-1.tar.bz2",
+"total":716
 }
 ]
 }

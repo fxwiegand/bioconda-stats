@@ -196,6 +196,10 @@
 {
 "date":"2021-12-26",
 "total":95
+},
+{
+"date":"2021-12-27",
+"total":99
 }
 ],
 "downloads_per_subdir":[
@@ -205,7 +209,7 @@
 },
 {
 "subdir":"osx-64",
-"total":71
+"total":75
 }
 ],
 "package":"bioconductor-sctgif",
@@ -621,6 +625,15 @@
 {
 "subdir":"osx-64",
 "total":71
+}
+]
+},
+{
+"date":"2021-12-27",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":75
 }
 ]
 }

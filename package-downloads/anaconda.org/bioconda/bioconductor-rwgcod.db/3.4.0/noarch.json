@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-rwgcod.db-3.4.0-r41hdfd78af_8.tar.bz2",
-"total":57
+"total":61
 },
 {
 "basename":"bioconductor-rwgcod.db-3.4.0-r40_4.tar.bz2",
@@ -742,6 +742,10 @@
 {
 "date":"2021-12-26",
 "total":676
+},
+{
+"date":"2021-12-27",
+"total":680
 }
 ],
 "package":"bioconductor-rwgcod.db",
@@ -1230,6 +1234,15 @@
 {
 "basename":"bioconductor-rwgcod.db-3.4.0-r41hdfd78af_8.tar.bz2",
 "total":57
+}
+]
+},
+{
+"date":"2021-12-27",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rwgcod.db-3.4.0-r41hdfd78af_8.tar.bz2",
+"total":61
 }
 ]
 }

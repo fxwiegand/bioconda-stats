@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-txdb.athaliana.biomart.plantsmart22-3.0.1-r41hdfd78af_8.tar.bz2",
-"total":94
+"total":96
 },
 {
 "basename":"bioconductor-txdb.athaliana.biomart.plantsmart22-3.0.1-r36_3.tar.bz2",
@@ -794,6 +794,10 @@
 {
 "date":"2021-12-26",
 "total":784
+},
+{
+"date":"2021-12-27",
+"total":786
 }
 ],
 "package":"bioconductor-txdb.athaliana.biomart.plantsmart22",
@@ -1398,6 +1402,15 @@
 {
 "basename":"bioconductor-txdb.athaliana.biomart.plantsmart22-3.0.1-r41hdfd78af_8.tar.bz2",
 "total":94
+}
+]
+},
+{
+"date":"2021-12-27",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-txdb.athaliana.biomart.plantsmart22-3.0.1-r41hdfd78af_8.tar.bz2",
+"total":96
 }
 ]
 }

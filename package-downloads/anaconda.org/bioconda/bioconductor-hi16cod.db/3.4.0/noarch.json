@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-hi16cod.db-3.4.0-r41hdfd78af_8.tar.bz2",
-"total":91
+"total":93
 },
 {
 "basename":"bioconductor-hi16cod.db-3.4.0-r36_2.tar.bz2",
@@ -774,6 +774,10 @@
 {
 "date":"2021-12-26",
 "total":696
+},
+{
+"date":"2021-12-27",
+"total":698
 }
 ],
 "package":"bioconductor-hi16cod.db",
@@ -1328,6 +1332,15 @@
 {
 "basename":"bioconductor-hi16cod.db-3.4.0-r41hdfd78af_8.tar.bz2",
 "total":91
+}
+]
+},
+{
+"date":"2021-12-27",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hi16cod.db-3.4.0-r41hdfd78af_8.tar.bz2",
+"total":93
 }
 ]
 }

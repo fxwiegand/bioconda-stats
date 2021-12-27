@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-h10kcod.db-3.4.0-r41hdfd78af_8.tar.bz2",
-"total":99
+"total":102
 },
 {
 "basename":"bioconductor-h10kcod.db-3.4.0-r351_0.tar.bz2",
@@ -770,6 +770,10 @@
 {
 "date":"2021-12-26",
 "total":718
+},
+{
+"date":"2021-12-27",
+"total":721
 }
 ],
 "package":"bioconductor-h10kcod.db",
@@ -1321,6 +1325,15 @@
 {
 "basename":"bioconductor-h10kcod.db-3.4.0-r41hdfd78af_8.tar.bz2",
 "total":99
+}
+]
+},
+{
+"date":"2021-12-27",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-h10kcod.db-3.4.0-r41hdfd78af_8.tar.bz2",
+"total":102
 }
 ]
 }

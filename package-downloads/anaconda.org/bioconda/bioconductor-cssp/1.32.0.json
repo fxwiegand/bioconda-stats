@@ -216,6 +216,10 @@
 {
 "date":"2021-12-26",
 "total":138
+},
+{
+"date":"2021-12-27",
+"total":140
 }
 ],
 "downloads_per_subdir":[
@@ -225,7 +229,7 @@
 },
 {
 "subdir":"osx-64",
-"total":112
+"total":114
 }
 ],
 "package":"bioconductor-cssp",
@@ -755,6 +759,15 @@
 {
 "subdir":"osx-64",
 "total":112
+}
+]
+},
+{
+"date":"2021-12-27",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":114
 }
 ]
 }

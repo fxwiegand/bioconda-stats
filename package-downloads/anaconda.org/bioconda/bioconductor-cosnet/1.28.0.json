@@ -216,6 +216,10 @@
 {
 "date":"2021-12-26",
 "total":127
+},
+{
+"date":"2021-12-27",
+"total":129
 }
 ],
 "downloads_per_subdir":[
@@ -225,7 +229,7 @@
 },
 {
 "subdir":"osx-64",
-"total":108
+"total":110
 }
 ],
 "package":"bioconductor-cosnet",
@@ -730,6 +734,15 @@
 {
 "subdir":"osx-64",
 "total":108
+}
+]
+},
+{
+"date":"2021-12-27",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":110
 }
 ]
 }
