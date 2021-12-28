@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-canine.db0-3.8.2-r36_1.tar.bz2",
-"total":302
+"total":304
 }
 ],
 "downloads_per_date":[
@@ -722,6 +722,10 @@
 {
 "date":"2021-12-27",
 "total":302
+},
+{
+"date":"2021-12-28",
+"total":304
 }
 ],
 "package":"bioconductor-canine.db0",
@@ -1146,6 +1150,15 @@
 {
 "basename":"bioconductor-canine.db0-3.8.2-r36_1.tar.bz2",
 "total":302
+}
+]
+},
+{
+"date":"2021-12-28",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-canine.db0-3.8.2-r36_1.tar.bz2",
+"total":304
 }
 ]
 }

@@ -208,6 +208,10 @@
 {
 "date":"2021-12-27",
 "total":151
+},
+{
+"date":"2021-12-28",
+"total":153
 }
 ],
 "downloads_per_subdir":[
@@ -217,7 +221,7 @@
 },
 {
 "subdir":"osx-64",
-"total":112
+"total":114
 }
 ],
 "package":"bioconductor-cellnoptr",
@@ -693,6 +697,15 @@
 {
 "subdir":"osx-64",
 "total":112
+}
+]
+},
+{
+"date":"2021-12-28",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":114
 }
 ]
 }

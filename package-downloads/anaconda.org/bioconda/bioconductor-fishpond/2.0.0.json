@@ -220,6 +220,10 @@
 {
 "date":"2021-12-27",
 "total":118
+},
+{
+"date":"2021-12-28",
+"total":120
 }
 ],
 "downloads_per_subdir":[
@@ -229,7 +233,7 @@
 },
 {
 "subdir":"osx-64",
-"total":78
+"total":80
 }
 ],
 "package":"bioconductor-fishpond",
@@ -748,6 +752,15 @@
 {
 "subdir":"osx-64",
 "total":78
+}
+]
+},
+{
+"date":"2021-12-28",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":80
 }
 ]
 }

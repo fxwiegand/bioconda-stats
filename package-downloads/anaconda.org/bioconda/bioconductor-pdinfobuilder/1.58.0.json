@@ -212,6 +212,10 @@
 {
 "date":"2021-12-27",
 "total":134
+},
+{
+"date":"2021-12-28",
+"total":136
 }
 ],
 "downloads_per_subdir":[
@@ -221,7 +225,7 @@
 },
 {
 "subdir":"osx-64",
-"total":109
+"total":111
 }
 ],
 "package":"bioconductor-pdinfobuilder",
@@ -738,6 +742,15 @@
 {
 "subdir":"osx-64",
 "total":109
+}
+]
+},
+{
+"date":"2021-12-28",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":111
 }
 ]
 }

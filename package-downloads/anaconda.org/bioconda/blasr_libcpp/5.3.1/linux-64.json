@@ -11,7 +11,7 @@
 },
 {
 "basename":"blasr_libcpp-5.3.1-h82bacf8_4.tar.bz2",
-"total":824
+"total":825
 },
 {
 "basename":"blasr_libcpp-5.3.1-hac9d22c_3.tar.bz2",
@@ -526,6 +526,10 @@
 {
 "date":"2021-12-27",
 "total":4598
+},
+{
+"date":"2021-12-28",
+"total":4599
 }
 ],
 "package":"blasr_libcpp",
@@ -830,6 +834,15 @@
 {
 "basename":"blasr_libcpp-5.3.1-hac9d22c_2.tar.bz2",
 "total":1330
+}
+]
+},
+{
+"date":"2021-12-28",
+"downloads_per_basename":[
+{
+"basename":"blasr_libcpp-5.3.1-h82bacf8_4.tar.bz2",
+"total":825
 }
 ]
 }

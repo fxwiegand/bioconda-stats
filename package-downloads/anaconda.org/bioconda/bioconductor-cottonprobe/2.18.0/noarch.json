@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-cottonprobe-2.18.0-r41hdfd78af_8.tar.bz2",
-"total":64
+"total":66
 },
 {
 "basename":"bioconductor-cottonprobe-2.18.0-r40_4.tar.bz2",
@@ -774,6 +774,10 @@
 {
 "date":"2021-12-27",
 "total":704
+},
+{
+"date":"2021-12-28",
+"total":706
 }
 ],
 "package":"bioconductor-cottonprobe",
@@ -1318,6 +1322,15 @@
 {
 "basename":"bioconductor-cottonprobe-2.18.0-r36_2.tar.bz2",
 "total":96
+}
+]
+},
+{
+"date":"2021-12-28",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cottonprobe-2.18.0-r41hdfd78af_8.tar.bz2",
+"total":66
 }
 ]
 }

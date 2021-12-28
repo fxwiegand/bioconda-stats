@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"galaxy-containers-20.5.0-py_0.tar.bz2",
-"total":2016
+"total":2019
 }
 ],
 "downloads_per_date":[
@@ -718,6 +718,10 @@
 {
 "date":"2021-12-27",
 "total":2016
+},
+{
+"date":"2021-12-28",
+"total":2019
 }
 ],
 "package":"galaxy-containers",
@@ -1124,6 +1128,15 @@
 {
 "basename":"galaxy-containers-20.5.0-py_0.tar.bz2",
 "total":2016
+}
+]
+},
+{
+"date":"2021-12-28",
+"downloads_per_basename":[
+{
+"basename":"galaxy-containers-20.5.0-py_0.tar.bz2",
+"total":2019
 }
 ]
 }

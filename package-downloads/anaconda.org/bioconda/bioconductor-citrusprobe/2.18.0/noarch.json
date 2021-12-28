@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-citrusprobe-2.18.0-r41hdfd78af_8.tar.bz2",
-"total":101
+"total":103
 },
 {
 "basename":"bioconductor-citrusprobe-2.18.0-r351_0.tar.bz2",
@@ -758,6 +758,10 @@
 {
 "date":"2021-12-27",
 "total":730
+},
+{
+"date":"2021-12-28",
+"total":732
 }
 ],
 "package":"bioconductor-citrusprobe",
@@ -1314,6 +1318,15 @@
 {
 "basename":"bioconductor-citrusprobe-2.18.0-r41hdfd78af_7.tar.bz2",
 "total":169
+}
+]
+},
+{
+"date":"2021-12-28",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-citrusprobe-2.18.0-r41hdfd78af_8.tar.bz2",
+"total":103
 }
 ]
 }

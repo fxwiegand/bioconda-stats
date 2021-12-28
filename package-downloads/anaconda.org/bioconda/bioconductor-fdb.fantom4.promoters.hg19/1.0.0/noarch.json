@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-fdb.fantom4.promoters.hg19-1.0.0-r41hdfd78af_8.tar.bz2",
-"total":92
+"total":94
 },
 {
 "basename":"bioconductor-fdb.fantom4.promoters.hg19-1.0.0-r351_0.tar.bz2",
@@ -774,6 +774,10 @@
 {
 "date":"2021-12-27",
 "total":718
+},
+{
+"date":"2021-12-28",
+"total":720
 }
 ],
 "package":"bioconductor-fdb.fantom4.promoters.hg19",
@@ -1363,6 +1367,15 @@
 {
 "basename":"bioconductor-fdb.fantom4.promoters.hg19-1.0.0-r41hdfd78af_8.tar.bz2",
 "total":92
+}
+]
+},
+{
+"date":"2021-12-28",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-fdb.fantom4.promoters.hg19-1.0.0-r41hdfd78af_8.tar.bz2",
+"total":94
 }
 ]
 }

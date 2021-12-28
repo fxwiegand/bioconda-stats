@@ -216,6 +216,10 @@
 {
 "date":"2021-12-27",
 "total":214
+},
+{
+"date":"2021-12-28",
+"total":216
 }
 ],
 "downloads_per_subdir":[
@@ -225,7 +229,7 @@
 },
 {
 "subdir":"osx-64",
-"total":139
+"total":141
 }
 ],
 "package":"bioconductor-ncdfflow",
@@ -799,6 +803,15 @@
 {
 "subdir":"osx-64",
 "total":139
+}
+]
+},
+{
+"date":"2021-12-28",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":141
 }
 ]
 }

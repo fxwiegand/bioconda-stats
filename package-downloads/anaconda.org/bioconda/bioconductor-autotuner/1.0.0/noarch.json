@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-autotuner-1.0.0-r36_0.tar.bz2",
-"total":317
+"total":319
 }
 ],
 "downloads_per_date":[
@@ -730,6 +730,10 @@
 {
 "date":"2021-12-27",
 "total":317
+},
+{
+"date":"2021-12-28",
+"total":319
 }
 ],
 "package":"bioconductor-autotuner",
@@ -1145,6 +1149,15 @@
 {
 "basename":"bioconductor-autotuner-1.0.0-r36_0.tar.bz2",
 "total":317
+}
+]
+},
+{
+"date":"2021-12-28",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-autotuner-1.0.0-r36_0.tar.bz2",
+"total":319
 }
 ]
 }

@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-hcg110cdf-2.18.0-r41hdfd78af_8.tar.bz2",
-"total":102
+"total":104
 },
 {
 "basename":"bioconductor-hcg110cdf-2.18.0-r36_2.tar.bz2",
@@ -806,6 +806,10 @@
 {
 "date":"2021-12-27",
 "total":764
+},
+{
+"date":"2021-12-28",
+"total":766
 }
 ],
 "package":"bioconductor-hcg110cdf",
@@ -1398,6 +1402,15 @@
 {
 "basename":"bioconductor-hcg110cdf-2.18.0-r351_0.tar.bz2",
 "total":136
+}
+]
+},
+{
+"date":"2021-12-28",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hcg110cdf-2.18.0-r41hdfd78af_8.tar.bz2",
+"total":104
 }
 ]
 }

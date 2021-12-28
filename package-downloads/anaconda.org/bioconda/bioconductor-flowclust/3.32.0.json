@@ -220,6 +220,10 @@
 {
 "date":"2021-12-27",
 "total":195
+},
+{
+"date":"2021-12-28",
+"total":197
 }
 ],
 "downloads_per_subdir":[
@@ -229,7 +233,7 @@
 },
 {
 "subdir":"osx-64",
-"total":138
+"total":140
 }
 ],
 "package":"bioconductor-flowclust",
@@ -810,6 +814,15 @@
 {
 "subdir":"osx-64",
 "total":138
+}
+]
+},
+{
+"date":"2021-12-28",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":140
 }
 ]
 }
