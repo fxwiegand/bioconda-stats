@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-multimed-2.10.0-r40_0.tar.bz2",
-"total":255
+"total":259
 }
 ],
 "downloads_per_date":[
@@ -706,6 +706,10 @@
 {
 "date":"2021-12-28",
 "total":255
+},
+{
+"date":"2021-12-29",
+"total":259
 }
 ],
 "package":"bioconductor-multimed",
@@ -1040,6 +1044,15 @@
 {
 "basename":"bioconductor-multimed-2.10.0-r40_0.tar.bz2",
 "total":255
+}
+]
+},
+{
+"date":"2021-12-29",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-multimed-2.10.0-r40_0.tar.bz2",
+"total":259
 }
 ]
 }

@@ -216,6 +216,10 @@
 {
 "date":"2021-12-28",
 "total":131
+},
+{
+"date":"2021-12-29",
+"total":133
 }
 ],
 "downloads_per_subdir":[
@@ -225,7 +229,7 @@
 },
 {
 "subdir":"osx-64",
-"total":107
+"total":109
 }
 ],
 "package":"bioconductor-seqcna",
@@ -734,6 +738,15 @@
 {
 "subdir":"osx-64",
 "total":107
+}
+]
+},
+{
+"date":"2021-12-29",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":109
 }
 ]
 }

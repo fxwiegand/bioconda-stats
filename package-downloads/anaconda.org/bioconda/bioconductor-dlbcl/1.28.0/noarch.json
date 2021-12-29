@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-dlbcl-1.28.0-r40_0.tar.bz2",
-"total":280
+"total":284
 }
 ],
 "downloads_per_date":[
@@ -734,6 +734,10 @@
 {
 "date":"2021-12-28",
 "total":280
+},
+{
+"date":"2021-12-29",
+"total":284
 }
 ],
 "package":"bioconductor-dlbcl",
@@ -1176,6 +1180,15 @@
 {
 "basename":"bioconductor-dlbcl-1.28.0-r40_0.tar.bz2",
 "total":280
+}
+]
+},
+{
+"date":"2021-12-29",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-dlbcl-1.28.0-r40_0.tar.bz2",
+"total":284
 }
 ]
 }

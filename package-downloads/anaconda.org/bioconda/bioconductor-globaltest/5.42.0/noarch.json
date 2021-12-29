@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-globaltest-5.42.0-r40_0.tar.bz2",
-"total":346
+"total":349
 }
 ],
 "downloads_per_date":[
@@ -730,6 +730,10 @@
 {
 "date":"2021-12-28",
 "total":346
+},
+{
+"date":"2021-12-29",
+"total":349
 }
 ],
 "package":"bioconductor-globaltest",
@@ -1109,6 +1113,15 @@
 {
 "basename":"bioconductor-globaltest-5.42.0-r40_0.tar.bz2",
 "total":346
+}
+]
+},
+{
+"date":"2021-12-29",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-globaltest-5.42.0-r40_0.tar.bz2",
+"total":349
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-bridge-1.58.0-r41h68a2ddb_0.tar.bz2",
-"total":123
+"total":125
 }
 ],
 "downloads_per_date":[
@@ -234,6 +234,10 @@
 {
 "date":"2021-12-28",
 "total":123
+},
+{
+"date":"2021-12-29",
+"total":125
 }
 ],
 "package":"bioconductor-bridge",
@@ -712,6 +716,15 @@
 {
 "basename":"bioconductor-bridge-1.58.0-r41h68a2ddb_0.tar.bz2",
 "total":123
+}
+]
+},
+{
+"date":"2021-12-29",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bridge-1.58.0-r41h68a2ddb_0.tar.bz2",
+"total":125
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-lrbase.hsa.eg.db-2.0.0-r41hdfd78af_0.tar.bz2",
-"total":251
+"total":255
 }
 ],
 "downloads_per_date":[
@@ -734,6 +734,10 @@
 {
 "date":"2021-12-28",
 "total":251
+},
+{
+"date":"2021-12-29",
+"total":255
 }
 ],
 "package":"bioconductor-lrbase.hsa.eg.db",
@@ -1158,6 +1162,15 @@
 {
 "basename":"bioconductor-lrbase.hsa.eg.db-2.0.0-r41hdfd78af_0.tar.bz2",
 "total":251
+}
+]
+},
+{
+"date":"2021-12-29",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-lrbase.hsa.eg.db-2.0.0-r41hdfd78af_0.tar.bz2",
+"total":255
 }
 ]
 }

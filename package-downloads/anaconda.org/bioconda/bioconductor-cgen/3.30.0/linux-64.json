@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-cgen-3.30.0-r41hacda110_0.tar.bz2",
-"total":120
+"total":122
 }
 ],
 "downloads_per_date":[
@@ -226,6 +226,10 @@
 {
 "date":"2021-12-28",
 "total":120
+},
+{
+"date":"2021-12-29",
+"total":122
 }
 ],
 "package":"bioconductor-cgen",
@@ -668,6 +672,15 @@
 {
 "basename":"bioconductor-cgen-3.30.0-r41hacda110_0.tar.bz2",
 "total":120
+}
+]
+},
+{
+"date":"2021-12-29",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cgen-3.30.0-r41hacda110_0.tar.bz2",
+"total":122
 }
 ]
 }

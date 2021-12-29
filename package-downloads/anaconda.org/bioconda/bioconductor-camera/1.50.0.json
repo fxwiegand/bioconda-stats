@@ -224,6 +224,10 @@
 {
 "date":"2021-12-28",
 "total":180
+},
+{
+"date":"2021-12-29",
+"total":182
 }
 ],
 "downloads_per_subdir":[
@@ -233,7 +237,7 @@
 },
 {
 "subdir":"osx-64",
-"total":137
+"total":139
 }
 ],
 "package":"bioconductor-camera",
@@ -807,6 +811,15 @@
 {
 "subdir":"osx-64",
 "total":137
+}
+]
+},
+{
+"date":"2021-12-29",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":139
 }
 ]
 }

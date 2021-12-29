@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-cand-1.24.0-r41hdfd78af_0.tar.bz2",
-"total":220
+"total":223
 }
 ],
 "downloads_per_date":[
@@ -718,6 +718,10 @@
 {
 "date":"2021-12-28",
 "total":220
+},
+{
+"date":"2021-12-29",
+"total":223
 }
 ],
 "package":"bioconductor-cand",
@@ -1043,6 +1047,15 @@
 {
 "basename":"bioconductor-cand-1.24.0-r41hdfd78af_0.tar.bz2",
 "total":220
+}
+]
+},
+{
+"date":"2021-12-29",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cand-1.24.0-r41hdfd78af_0.tar.bz2",
+"total":223
 }
 ]
 }

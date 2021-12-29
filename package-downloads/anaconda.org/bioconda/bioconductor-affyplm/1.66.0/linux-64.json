@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-affyplm-1.66.0-r40hd029910_1.tar.bz2",
-"total":90
+"total":91
 },
 {
 "basename":"bioconductor-affyplm-1.66.0-r40h037d062_0.tar.bz2",
@@ -318,6 +318,10 @@
 {
 "date":"2021-12-28",
 "total":206
+},
+{
+"date":"2021-12-29",
+"total":207
 }
 ],
 "package":"bioconductor-affyplm",
@@ -499,6 +503,15 @@
 {
 "basename":"bioconductor-affyplm-1.66.0-r40h037d062_0.tar.bz2",
 "total":116
+}
+]
+},
+{
+"date":"2021-12-29",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-affyplm-1.66.0-r40hd029910_1.tar.bz2",
+"total":91
 }
 ]
 }
