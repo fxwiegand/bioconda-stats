@@ -132,6 +132,10 @@
 {
 "date":"2021-12-29",
 "total":244
+},
+{
+"date":"2021-12-30",
+"total":245
 }
 ],
 "downloads_per_subdir":[
@@ -141,7 +145,7 @@
 },
 {
 "subdir":"linux-64",
-"total":177
+"total":178
 }
 ],
 "package":"lastz",
@@ -454,6 +458,15 @@
 {
 "subdir":"osx-64",
 "total":67
+}
+]
+},
+{
+"date":"2021-12-30",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":178
 }
 ]
 }

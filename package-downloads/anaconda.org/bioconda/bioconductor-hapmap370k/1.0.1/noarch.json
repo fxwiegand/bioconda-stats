@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-hapmap370k-1.0.1-r41hdfd78af_8.tar.bz2",
-"total":107
+"total":109
 },
 {
 "basename":"bioconductor-hapmap370k-1.0.1-r351_1.tar.bz2",
@@ -798,6 +798,10 @@
 {
 "date":"2021-12-29",
 "total":855
+},
+{
+"date":"2021-12-30",
+"total":857
 }
 ],
 "package":"bioconductor-hapmap370k",
@@ -1441,6 +1445,15 @@
 {
 "basename":"bioconductor-hapmap370k-1.0.1-r351_0.tar.bz2",
 "total":128
+}
+]
+},
+{
+"date":"2021-12-30",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hapmap370k-1.0.1-r41hdfd78af_8.tar.bz2",
+"total":109
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-jaspar2020-0.99.10-r41hdfd78af_3.tar.bz2",
-"total":123
+"total":125
 },
 {
 "basename":"bioconductor-jaspar2020-0.99.10-r41hdfd78af_2.tar.bz2",
@@ -822,6 +822,10 @@
 {
 "date":"2021-12-29",
 "total":456
+},
+{
+"date":"2021-12-30",
+"total":458
 }
 ],
 "package":"bioconductor-jaspar2020",
@@ -1392,6 +1396,15 @@
 {
 "basename":"bioconductor-jaspar2020-0.99.10-r41hdfd78af_2.tar.bz2",
 "total":191
+}
+]
+},
+{
+"date":"2021-12-30",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-jaspar2020-0.99.10-r41hdfd78af_3.tar.bz2",
+"total":125
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-gpart-1.12.0-r41h832b226_0.tar.bz2",
-"total":111
+"total":113
 }
 ],
 "downloads_per_date":[
@@ -214,6 +214,10 @@
 {
 "date":"2021-12-29",
 "total":111
+},
+{
+"date":"2021-12-30",
+"total":113
 }
 ],
 "package":"bioconductor-gpart",
@@ -683,6 +687,15 @@
 {
 "basename":"bioconductor-gpart-1.12.0-r41h832b226_0.tar.bz2",
 "total":111
+}
+]
+},
+{
+"date":"2021-12-30",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-gpart-1.12.0-r41h832b226_0.tar.bz2",
+"total":113
 }
 ]
 }

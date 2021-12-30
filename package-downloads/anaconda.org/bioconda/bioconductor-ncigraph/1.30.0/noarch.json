@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-ncigraph-1.30.0-r351_1.tar.bz2",
-"total":363
+"total":365
 }
 ],
 "downloads_per_date":[
@@ -726,6 +726,10 @@
 {
 "date":"2021-12-29",
 "total":524
+},
+{
+"date":"2021-12-30",
+"total":526
 }
 ],
 "package":"bioconductor-ncigraph",
@@ -1178,6 +1182,15 @@
 {
 "basename":"bioconductor-ncigraph-1.30.0-r351_1.tar.bz2",
 "total":363
+}
+]
+},
+{
+"date":"2021-12-30",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ncigraph-1.30.0-r351_1.tar.bz2",
+"total":365
 }
 ]
 }

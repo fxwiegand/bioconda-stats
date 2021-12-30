@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-hgu2beta7-1.34.0-r41hdfd78af_0.tar.bz2",
-"total":101
+"total":103
 }
 ],
 "downloads_per_date":[
@@ -222,6 +222,10 @@
 {
 "date":"2021-12-29",
 "total":101
+},
+{
+"date":"2021-12-30",
+"total":103
 }
 ],
 "package":"bioconductor-hgu2beta7",
@@ -682,6 +686,15 @@
 {
 "basename":"bioconductor-hgu2beta7-1.34.0-r41hdfd78af_0.tar.bz2",
 "total":101
+}
+]
+},
+{
+"date":"2021-12-30",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hgu2beta7-1.34.0-r41hdfd78af_0.tar.bz2",
+"total":103
 }
 ]
 }

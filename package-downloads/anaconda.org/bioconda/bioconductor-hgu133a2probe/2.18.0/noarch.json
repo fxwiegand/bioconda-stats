@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-hgu133a2probe-2.18.0-r41hdfd78af_9.tar.bz2",
-"total":105
+"total":107
 },
 {
 "basename":"bioconductor-hgu133a2probe-2.18.0-r351_0.tar.bz2",
@@ -782,6 +782,10 @@
 {
 "date":"2021-12-29",
 "total":868
+},
+{
+"date":"2021-12-30",
+"total":870
 }
 ],
 "package":"bioconductor-hgu133a2probe",
@@ -1432,6 +1436,15 @@
 {
 "basename":"bioconductor-hgu133a2probe-2.18.0-r41hdfd78af_8.tar.bz2",
 "total":168
+}
+]
+},
+{
+"date":"2021-12-30",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hgu133a2probe-2.18.0-r41hdfd78af_9.tar.bz2",
+"total":107
 }
 ]
 }
