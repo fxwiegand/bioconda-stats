@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-noiseq-2.26.1-r351_0.tar.bz2",
-"total":3897
+"total":3899
 }
 ],
 "downloads_per_date":[
@@ -854,6 +854,10 @@
 {
 "date":"2021-12-30",
 "total":3897
+},
+{
+"date":"2021-12-31",
+"total":3899
 }
 ],
 "package":"bioconductor-noiseq",
@@ -1332,6 +1336,15 @@
 {
 "basename":"bioconductor-noiseq-2.26.1-r351_0.tar.bz2",
 "total":3897
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-noiseq-2.26.1-r351_0.tar.bz2",
+"total":3899
 }
 ]
 }

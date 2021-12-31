@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-pwmenrich.hsapiens.background-4.28.0-r41hdfd78af_0.tar.bz2",
-"total":66
+"total":70
 }
 ],
 "downloads_per_date":[
@@ -194,6 +194,10 @@
 {
 "date":"2021-12-30",
 "total":66
+},
+{
+"date":"2021-12-31",
+"total":70
 }
 ],
 "package":"bioconductor-pwmenrich.hsapiens.background",
@@ -555,6 +559,15 @@
 {
 "basename":"bioconductor-pwmenrich.hsapiens.background-4.28.0-r41hdfd78af_0.tar.bz2",
 "total":66
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pwmenrich.hsapiens.background-4.28.0-r41hdfd78af_0.tar.bz2",
+"total":70
 }
 ]
 }

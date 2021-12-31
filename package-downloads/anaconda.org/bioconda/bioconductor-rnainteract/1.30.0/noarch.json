@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rnainteract-1.30.0-r351_0.tar.bz2",
-"total":377
+"total":380
 }
 ],
 "downloads_per_date":[
@@ -718,6 +718,10 @@
 {
 "date":"2021-12-30",
 "total":377
+},
+{
+"date":"2021-12-31",
+"total":380
 }
 ],
 "package":"bioconductor-rnainteract",
@@ -1115,6 +1119,15 @@
 {
 "basename":"bioconductor-rnainteract-1.30.0-r351_0.tar.bz2",
 "total":377
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rnainteract-1.30.0-r351_0.tar.bz2",
+"total":380
 }
 ]
 }

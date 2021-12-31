@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-phastcons30way.ucsc.hg38-3.11.1-r41hdfd78af_3.tar.bz2",
-"total":244
+"total":248
 }
 ],
 "downloads_per_date":[
@@ -758,6 +758,10 @@
 {
 "date":"2021-12-30",
 "total":411
+},
+{
+"date":"2021-12-31",
+"total":415
 }
 ],
 "package":"bioconductor-phastcons30way.ucsc.hg38",
@@ -1239,6 +1243,15 @@
 {
 "basename":"bioconductor-phastcons30way.ucsc.hg38-3.11.1-r41hdfd78af_3.tar.bz2",
 "total":244
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-phastcons30way.ucsc.hg38-3.11.1-r41hdfd78af_3.tar.bz2",
+"total":248
 }
 ]
 }

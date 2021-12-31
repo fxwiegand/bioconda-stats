@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-gaia-2.34.0-r40hdfd78af_1.tar.bz2",
-"total":240
+"total":244
 }
 ],
 "downloads_per_date":[
@@ -718,6 +718,10 @@
 {
 "date":"2021-12-30",
 "total":310
+},
+{
+"date":"2021-12-31",
+"total":314
 }
 ],
 "package":"bioconductor-gaia",
@@ -1093,6 +1097,15 @@
 {
 "basename":"bioconductor-gaia-2.34.0-r40hdfd78af_1.tar.bz2",
 "total":240
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-gaia-2.34.0-r40hdfd78af_1.tar.bz2",
+"total":244
 }
 ]
 }

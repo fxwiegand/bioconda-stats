@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"spaln-2.4.02-pl526he513fc3_0.tar.bz2",
-"total":100
+"total":101
 }
 ],
 "downloads_per_date":[
@@ -186,6 +186,10 @@
 {
 "date":"2021-12-30",
 "total":100
+},
+{
+"date":"2021-12-31",
+"total":101
 }
 ],
 "package":"spaln",
@@ -250,6 +254,15 @@
 {
 "basename":"spaln-2.4.02-pl526he513fc3_0.tar.bz2",
 "total":100
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"spaln-2.4.02-pl526he513fc3_0.tar.bz2",
+"total":101
 }
 ]
 }

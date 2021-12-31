@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"gencore-0.17.2-hdb1a901_0.tar.bz2",
-"total":124
+"total":127
 }
 ],
 "downloads_per_date":[
@@ -250,6 +250,10 @@
 {
 "date":"2021-12-30",
 "total":124
+},
+{
+"date":"2021-12-31",
+"total":127
 }
 ],
 "package":"gencore",
@@ -773,6 +777,15 @@
 {
 "basename":"gencore-0.17.2-hdb1a901_0.tar.bz2",
 "total":124
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"gencore-0.17.2-hdb1a901_0.tar.bz2",
+"total":127
 }
 ]
 }

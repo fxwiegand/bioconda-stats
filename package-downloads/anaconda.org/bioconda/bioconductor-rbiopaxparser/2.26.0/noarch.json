@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rbiopaxparser-2.26.0-r36_0.tar.bz2",
-"total":301
+"total":305
 }
 ],
 "downloads_per_date":[
@@ -698,6 +698,10 @@
 {
 "date":"2021-12-30",
 "total":301
+},
+{
+"date":"2021-12-31",
+"total":305
 }
 ],
 "package":"bioconductor-rbiopaxparser",
@@ -1032,6 +1036,15 @@
 {
 "basename":"bioconductor-rbiopaxparser-2.26.0-r36_0.tar.bz2",
 "total":301
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rbiopaxparser-2.26.0-r36_0.tar.bz2",
+"total":305
 }
 ]
 }

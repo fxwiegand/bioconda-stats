@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-scrnaseq-1.99.8-r36_0.tar.bz2",
-"total":341
+"total":346
 }
 ],
 "downloads_per_date":[
@@ -714,6 +714,10 @@
 {
 "date":"2021-12-30",
 "total":341
+},
+{
+"date":"2021-12-31",
+"total":346
 }
 ],
 "package":"bioconductor-scrnaseq",
@@ -1093,6 +1097,15 @@
 {
 "basename":"bioconductor-scrnaseq-1.99.8-r36_0.tar.bz2",
 "total":341
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-scrnaseq-1.99.8-r36_0.tar.bz2",
+"total":346
 }
 ]
 }

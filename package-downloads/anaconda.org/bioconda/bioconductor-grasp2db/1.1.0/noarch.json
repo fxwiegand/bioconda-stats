@@ -27,7 +27,7 @@
 },
 {
 "basename":"bioconductor-grasp2db-1.1.0-r41hdfd78af_9.tar.bz2",
-"total":106
+"total":108
 },
 {
 "basename":"bioconductor-grasp2db-1.1.0-r351_0.tar.bz2",
@@ -798,6 +798,10 @@
 {
 "date":"2021-12-30",
 "total":804
+},
+{
+"date":"2021-12-31",
+"total":806
 }
 ],
 "package":"bioconductor-grasp2db",
@@ -1456,6 +1460,15 @@
 {
 "basename":"bioconductor-grasp2db-1.1.0-r41hdfd78af_9.tar.bz2",
 "total":106
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-grasp2db-1.1.0-r41hdfd78af_9.tar.bz2",
+"total":108
 }
 ]
 }

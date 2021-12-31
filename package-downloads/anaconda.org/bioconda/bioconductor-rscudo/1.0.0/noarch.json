@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rscudo-1.0.0-r36_1.tar.bz2",
-"total":322
+"total":326
 }
 ],
 "downloads_per_date":[
@@ -726,6 +726,10 @@
 {
 "date":"2021-12-30",
 "total":322
+},
+{
+"date":"2021-12-31",
+"total":326
 }
 ],
 "package":"bioconductor-rscudo",
@@ -1114,6 +1118,15 @@
 {
 "basename":"bioconductor-rscudo-1.0.0-r36_1.tar.bz2",
 "total":322
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rscudo-1.0.0-r36_1.tar.bz2",
+"total":326
 }
 ]
 }

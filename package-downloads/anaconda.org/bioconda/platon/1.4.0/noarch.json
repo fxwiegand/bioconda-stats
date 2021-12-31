@@ -7,7 +7,7 @@
 },
 {
 "basename":"platon-1.4.0-py_1.tar.bz2",
-"total":250
+"total":255
 }
 ],
 "downloads_per_date":[
@@ -698,6 +698,10 @@
 {
 "date":"2021-12-30",
 "total":329
+},
+{
+"date":"2021-12-31",
+"total":334
 }
 ],
 "package":"platon",
@@ -1056,6 +1060,15 @@
 {
 "basename":"platon-1.4.0-py_1.tar.bz2",
 "total":250
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"platon-1.4.0-py_1.tar.bz2",
+"total":255
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-spikeli-2.42.0-r351_0.tar.bz2",
-"total":321
+"total":325
 }
 ],
 "downloads_per_date":[
@@ -698,6 +698,10 @@
 {
 "date":"2021-12-30",
 "total":321
+},
+{
+"date":"2021-12-31",
+"total":325
 }
 ],
 "package":"bioconductor-spikeli",
@@ -1032,6 +1036,15 @@
 {
 "basename":"bioconductor-spikeli-2.42.0-r351_0.tar.bz2",
 "total":321
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-spikeli-2.42.0-r351_0.tar.bz2",
+"total":325
 }
 ]
 }

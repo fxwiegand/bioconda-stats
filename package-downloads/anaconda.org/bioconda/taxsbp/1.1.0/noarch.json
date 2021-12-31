@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"taxsbp-1.1.0-py_0.tar.bz2",
-"total":256
+"total":258
 }
 ],
 "downloads_per_date":[
@@ -718,6 +718,10 @@
 {
 "date":"2021-12-30",
 "total":256
+},
+{
+"date":"2021-12-31",
+"total":258
 }
 ],
 "package":"taxsbp",
@@ -1124,6 +1128,15 @@
 {
 "basename":"taxsbp-1.1.0-py_0.tar.bz2",
 "total":256
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"taxsbp-1.1.0-py_0.tar.bz2",
+"total":258
 }
 ]
 }

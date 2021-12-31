@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-methylseqdata-1.0.0-r40hdfd78af_1.tar.bz2",
-"total":245
+"total":249
 }
 ],
 "downloads_per_date":[
@@ -730,6 +730,10 @@
 {
 "date":"2021-12-30",
 "total":299
+},
+{
+"date":"2021-12-31",
+"total":303
 }
 ],
 "package":"bioconductor-methylseqdata",
@@ -1125,6 +1129,15 @@
 {
 "basename":"bioconductor-methylseqdata-1.0.0-r40hdfd78af_1.tar.bz2",
 "total":245
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-methylseqdata-1.0.0-r40hdfd78af_1.tar.bz2",
+"total":249
 }
 ]
 }

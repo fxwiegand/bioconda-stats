@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"somaticseq-3.4.2-py_0.tar.bz2",
-"total":248
+"total":253
 }
 ],
 "downloads_per_date":[
@@ -706,6 +706,10 @@
 {
 "date":"2021-12-30",
 "total":248
+},
+{
+"date":"2021-12-31",
+"total":253
 }
 ],
 "package":"somaticseq",
@@ -1040,6 +1044,15 @@
 {
 "basename":"somaticseq-3.4.2-py_0.tar.bz2",
 "total":248
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"somaticseq-3.4.2-py_0.tar.bz2",
+"total":253
 }
 ]
 }

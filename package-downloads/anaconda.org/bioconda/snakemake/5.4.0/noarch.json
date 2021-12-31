@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"snakemake-5.4.0-0.tar.bz2",
-"total":5997
+"total":6001
 }
 ],
 "downloads_per_date":[
@@ -822,6 +822,10 @@
 {
 "date":"2021-12-30",
 "total":5997
+},
+{
+"date":"2021-12-31",
+"total":6001
 }
 ],
 "package":"snakemake",
@@ -1264,6 +1268,15 @@
 {
 "basename":"snakemake-5.4.0-0.tar.bz2",
 "total":5997
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"snakemake-5.4.0-0.tar.bz2",
+"total":6001
 }
 ]
 }

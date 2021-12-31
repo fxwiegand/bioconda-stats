@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-pathnetdata-1.30.0-r41hdfd78af_0.tar.bz2",
-"total":101
+"total":105
 }
 ],
 "downloads_per_date":[
@@ -230,6 +230,10 @@
 {
 "date":"2021-12-30",
 "total":101
+},
+{
+"date":"2021-12-31",
+"total":105
 }
 ],
 "package":"bioconductor-pathnetdata",
@@ -654,6 +658,15 @@
 {
 "basename":"bioconductor-pathnetdata-1.30.0-r41hdfd78af_0.tar.bz2",
 "total":101
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pathnetdata-1.30.0-r41hdfd78af_0.tar.bz2",
+"total":105
 }
 ]
 }

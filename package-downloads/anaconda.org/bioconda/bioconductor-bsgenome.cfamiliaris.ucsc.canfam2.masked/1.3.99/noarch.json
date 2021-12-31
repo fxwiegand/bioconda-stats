@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-bsgenome.cfamiliaris.ucsc.canfam2.masked-1.3.99-r41hdfd78af_8.tar.bz2",
-"total":106
+"total":108
 },
 {
 "basename":"bioconductor-bsgenome.cfamiliaris.ucsc.canfam2.masked-1.3.99-r36_2.tar.bz2",
@@ -794,6 +794,10 @@
 {
 "date":"2021-12-30",
 "total":796
+},
+{
+"date":"2021-12-31",
+"total":798
 }
 ],
 "package":"bioconductor-bsgenome.cfamiliaris.ucsc.canfam2.masked",
@@ -1546,6 +1550,15 @@
 {
 "basename":"bioconductor-bsgenome.cfamiliaris.ucsc.canfam2.masked-1.3.99-r41hdfd78af_8.tar.bz2",
 "total":106
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bsgenome.cfamiliaris.ucsc.canfam2.masked-1.3.99-r41hdfd78af_8.tar.bz2",
+"total":108
 }
 ]
 }

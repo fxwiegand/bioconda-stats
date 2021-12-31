@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"galaxy-util-20.9.0-py_0.tar.bz2",
-"total":301
+"total":304
 }
 ],
 "downloads_per_date":[
@@ -730,6 +730,10 @@
 {
 "date":"2021-12-30",
 "total":301
+},
+{
+"date":"2021-12-31",
+"total":304
 }
 ],
 "package":"galaxy-util",
@@ -1136,6 +1140,15 @@
 {
 "basename":"galaxy-util-20.9.0-py_0.tar.bz2",
 "total":301
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"galaxy-util-20.9.0-py_0.tar.bz2",
+"total":304
 }
 ]
 }

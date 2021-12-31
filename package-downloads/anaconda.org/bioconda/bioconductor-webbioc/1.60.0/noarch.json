@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-webbioc-1.60.0-r40_0.tar.bz2",
-"total":304
+"total":306
 }
 ],
 "downloads_per_date":[
@@ -734,6 +734,10 @@
 {
 "date":"2021-12-30",
 "total":304
+},
+{
+"date":"2021-12-31",
+"total":306
 }
 ],
 "package":"bioconductor-webbioc",
@@ -1194,6 +1198,15 @@
 {
 "basename":"bioconductor-webbioc-1.60.0-r40_0.tar.bz2",
 "total":304
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-webbioc-1.60.0-r40_0.tar.bz2",
+"total":306
 }
 ]
 }

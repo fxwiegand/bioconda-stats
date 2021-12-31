@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-acde-1.16.0-r36_0.tar.bz2",
-"total":338
+"total":342
 }
 ],
 "downloads_per_date":[
@@ -746,6 +746,10 @@
 {
 "date":"2021-12-30",
 "total":338
+},
+{
+"date":"2021-12-31",
+"total":342
 }
 ],
 "package":"bioconductor-acde",
@@ -1143,6 +1147,15 @@
 {
 "basename":"bioconductor-acde-1.16.0-r36_0.tar.bz2",
 "total":338
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-acde-1.16.0-r36_0.tar.bz2",
+"total":342
 }
 ]
 }

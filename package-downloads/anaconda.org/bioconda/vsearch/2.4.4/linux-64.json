@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"vsearch-2.4.4-0.tar.bz2",
-"total":802
+"total":803
 }
 ],
 "downloads_per_date":[
@@ -186,6 +186,10 @@
 {
 "date":"2021-12-30",
 "total":802
+},
+{
+"date":"2021-12-31",
+"total":803
 }
 ],
 "package":"vsearch",
@@ -250,6 +254,15 @@
 {
 "basename":"vsearch-2.4.4-0.tar.bz2",
 "total":802
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"vsearch-2.4.4-0.tar.bz2",
+"total":803
 }
 ]
 }

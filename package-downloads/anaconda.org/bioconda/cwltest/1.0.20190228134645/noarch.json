@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"cwltest-1.0.20190228134645-py_0.tar.bz2",
-"total":326
+"total":329
 }
 ],
 "downloads_per_date":[
@@ -726,6 +726,10 @@
 {
 "date":"2021-12-30",
 "total":326
+},
+{
+"date":"2021-12-31",
+"total":329
 }
 ],
 "package":"cwltest",
@@ -1177,6 +1181,15 @@
 {
 "basename":"cwltest-1.0.20190228134645-py_0.tar.bz2",
 "total":326
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"cwltest-1.0.20190228134645-py_0.tar.bz2",
+"total":329
 }
 ]
 }

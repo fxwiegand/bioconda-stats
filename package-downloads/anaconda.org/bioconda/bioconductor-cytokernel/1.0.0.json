@@ -208,6 +208,10 @@
 {
 "date":"2021-12-30",
 "total":103
+},
+{
+"date":"2021-12-31",
+"total":107
 }
 ],
 "downloads_per_subdir":[
@@ -217,7 +221,7 @@
 },
 {
 "subdir":"osx-64",
-"total":78
+"total":82
 }
 ],
 "package":"bioconductor-cytokernel",
@@ -676,6 +680,15 @@
 {
 "subdir":"osx-64",
 "total":78
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":82
 }
 ]
 }

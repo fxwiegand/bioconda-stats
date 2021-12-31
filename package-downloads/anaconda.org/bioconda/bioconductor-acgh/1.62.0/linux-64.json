@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-acgh-1.62.0-r36he1b5a44_1.tar.bz2",
-"total":141
+"total":142
 }
 ],
 "downloads_per_date":[
@@ -218,6 +218,10 @@
 {
 "date":"2021-12-30",
 "total":141
+},
+{
+"date":"2021-12-31",
+"total":142
 }
 ],
 "package":"bioconductor-acgh",
@@ -300,6 +304,15 @@
 {
 "basename":"bioconductor-acgh-1.62.0-r36he1b5a44_1.tar.bz2",
 "total":141
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-acgh-1.62.0-r36he1b5a44_1.tar.bz2",
+"total":142
 }
 ]
 }

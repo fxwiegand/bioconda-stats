@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-tfutils-1.14.0-r41hdfd78af_0.tar.bz2",
-"total":74
+"total":79
 }
 ],
 "downloads_per_date":[
@@ -182,6 +182,10 @@
 {
 "date":"2021-12-30",
 "total":74
+},
+{
+"date":"2021-12-31",
+"total":79
 }
 ],
 "package":"bioconductor-tfutils",
@@ -525,6 +529,15 @@
 {
 "basename":"bioconductor-tfutils-1.14.0-r41hdfd78af_0.tar.bz2",
 "total":74
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-tfutils-1.14.0-r41hdfd78af_0.tar.bz2",
+"total":79
 }
 ]
 }

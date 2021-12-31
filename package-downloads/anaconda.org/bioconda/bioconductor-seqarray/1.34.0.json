@@ -228,6 +228,10 @@
 {
 "date":"2021-12-30",
 "total":172
+},
+{
+"date":"2021-12-31",
+"total":176
 }
 ],
 "downloads_per_subdir":[
@@ -237,7 +241,7 @@
 },
 {
 "subdir":"osx-64",
-"total":124
+"total":128
 }
 ],
 "package":"bioconductor-seqarray",
@@ -764,6 +768,15 @@
 {
 "subdir":"osx-64",
 "total":124
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":128
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-biocthis-1.0.10-r40hdfd78af_0.tar.bz2",
-"total":221
+"total":225
 }
 ],
 "downloads_per_date":[
@@ -718,6 +718,10 @@
 {
 "date":"2021-12-30",
 "total":221
+},
+{
+"date":"2021-12-31",
+"total":225
 }
 ],
 "package":"bioconductor-biocthis",
@@ -1070,6 +1074,15 @@
 {
 "basename":"bioconductor-biocthis-1.0.10-r40hdfd78af_0.tar.bz2",
 "total":221
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-biocthis-1.0.10-r40hdfd78af_0.tar.bz2",
+"total":225
 }
 ]
 }

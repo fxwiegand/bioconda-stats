@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-bifet-1.12.0-r41hdfd78af_0.tar.bz2",
-"total":273
+"total":275
 }
 ],
 "downloads_per_date":[
@@ -738,6 +738,10 @@
 {
 "date":"2021-12-30",
 "total":273
+},
+{
+"date":"2021-12-31",
+"total":275
 }
 ],
 "package":"bioconductor-bifet",
@@ -1189,6 +1193,15 @@
 {
 "basename":"bioconductor-bifet-1.12.0-r41hdfd78af_0.tar.bz2",
 "total":273
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bifet-1.12.0-r41hdfd78af_0.tar.bz2",
+"total":275
 }
 ]
 }

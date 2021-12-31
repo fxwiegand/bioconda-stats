@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-rscudo-1.6.0-r40hdfd78af_1.tar.bz2",
-"total":264
+"total":266
 }
 ],
 "downloads_per_date":[
@@ -730,6 +730,10 @@
 {
 "date":"2021-12-30",
 "total":333
+},
+{
+"date":"2021-12-31",
+"total":335
 }
 ],
 "package":"bioconductor-rscudo",
@@ -1209,6 +1213,15 @@
 {
 "basename":"bioconductor-rscudo-1.6.0-r40hdfd78af_1.tar.bz2",
 "total":264
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rscudo-1.6.0-r40hdfd78af_1.tar.bz2",
+"total":266
 }
 ]
 }

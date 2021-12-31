@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-hcadata-1.6.0-r40hdfd78af_2.tar.bz2",
-"total":260
+"total":262
 }
 ],
 "downloads_per_date":[
@@ -742,6 +742,10 @@
 {
 "date":"2021-12-30",
 "total":313
+},
+{
+"date":"2021-12-31",
+"total":315
 }
 ],
 "package":"bioconductor-hcadata",
@@ -1209,6 +1213,15 @@
 {
 "basename":"bioconductor-hcadata-1.6.0-r40hdfd78af_2.tar.bz2",
 "total":260
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hcadata-1.6.0-r40hdfd78af_2.tar.bz2",
+"total":262
 }
 ]
 }

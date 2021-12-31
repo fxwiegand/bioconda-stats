@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-curatedcrcdata-2.22.0-r40hdfd78af_1.tar.bz2",
-"total":253
+"total":255
 }
 ],
 "downloads_per_date":[
@@ -734,6 +734,10 @@
 {
 "date":"2021-12-30",
 "total":312
+},
+{
+"date":"2021-12-31",
+"total":314
 }
 ],
 "package":"bioconductor-curatedcrcdata",
@@ -1187,6 +1191,15 @@
 {
 "basename":"bioconductor-curatedcrcdata-2.22.0-r40hdfd78af_1.tar.bz2",
 "total":253
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-curatedcrcdata-2.22.0-r40hdfd78af_1.tar.bz2",
+"total":255
 }
 ]
 }

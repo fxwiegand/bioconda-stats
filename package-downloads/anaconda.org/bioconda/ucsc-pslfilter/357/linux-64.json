@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-pslfilter-357-1.tar.bz2",
-"total":486
+"total":487
 }
 ],
 "downloads_per_date":[
@@ -246,6 +246,10 @@
 {
 "date":"2021-12-30",
 "total":920
+},
+{
+"date":"2021-12-31",
+"total":921
 }
 ],
 "package":"ucsc-pslfilter",
@@ -330,6 +334,15 @@
 {
 "basename":"ucsc-pslfilter-357-1.tar.bz2",
 "total":486
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"ucsc-pslfilter-357-1.tar.bz2",
+"total":487
 }
 ]
 }

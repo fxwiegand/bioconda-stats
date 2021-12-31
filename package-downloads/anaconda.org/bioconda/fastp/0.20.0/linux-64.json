@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"fastp-0.20.0-hdbcaa40_0.tar.bz2",
-"total":29505
+"total":29507
 }
 ],
 "downloads_per_date":[
@@ -858,6 +858,10 @@
 {
 "date":"2021-12-30",
 "total":29505
+},
+{
+"date":"2021-12-31",
+"total":29507
 }
 ],
 "package":"fastp",
@@ -1336,6 +1340,15 @@
 {
 "basename":"fastp-0.20.0-hdbcaa40_0.tar.bz2",
 "total":29505
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"fastp-0.20.0-hdbcaa40_0.tar.bz2",
+"total":29507
 }
 ]
 }

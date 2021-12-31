@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-allmll-1.22.0-r351_0.tar.bz2",
-"total":308
+"total":313
 }
 ],
 "downloads_per_date":[
@@ -686,6 +686,10 @@
 {
 "date":"2021-12-30",
 "total":308
+},
+{
+"date":"2021-12-31",
+"total":313
 }
 ],
 "package":"bioconductor-allmll",
@@ -1002,6 +1006,15 @@
 {
 "basename":"bioconductor-allmll-1.22.0-r351_0.tar.bz2",
 "total":308
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-allmll-1.22.0-r351_0.tar.bz2",
+"total":313
 }
 ]
 }

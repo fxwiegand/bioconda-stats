@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-stroma4-1.10.0-r36_0.tar.bz2",
-"total":280
+"total":284
 }
 ],
 "downloads_per_date":[
@@ -698,6 +698,10 @@
 {
 "date":"2021-12-30",
 "total":280
+},
+{
+"date":"2021-12-31",
+"total":284
 }
 ],
 "package":"bioconductor-stroma4",
@@ -1032,6 +1036,15 @@
 {
 "basename":"bioconductor-stroma4-1.10.0-r36_0.tar.bz2",
 "total":280
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-stroma4-1.10.0-r36_0.tar.bz2",
+"total":284
 }
 ]
 }

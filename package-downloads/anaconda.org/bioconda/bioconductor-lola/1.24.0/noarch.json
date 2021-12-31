@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-lola-1.24.0-r41hdfd78af_0.tar.bz2",
-"total":108
+"total":110
 }
 ],
 "downloads_per_date":[
@@ -222,6 +222,10 @@
 {
 "date":"2021-12-30",
 "total":108
+},
+{
+"date":"2021-12-31",
+"total":110
 }
 ],
 "package":"bioconductor-lola",
@@ -655,6 +659,15 @@
 {
 "basename":"bioconductor-lola-1.24.0-r41hdfd78af_0.tar.bz2",
 "total":108
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-lola-1.24.0-r41hdfd78af_0.tar.bz2",
+"total":110
 }
 ]
 }

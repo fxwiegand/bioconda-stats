@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-lpe-1.58.0-r36_1.tar.bz2",
-"total":322
+"total":326
 }
 ],
 "downloads_per_date":[
@@ -726,6 +726,10 @@
 {
 "date":"2021-12-30",
 "total":482
+},
+{
+"date":"2021-12-31",
+"total":486
 }
 ],
 "package":"bioconductor-lpe",
@@ -1123,6 +1127,15 @@
 {
 "basename":"bioconductor-lpe-1.58.0-r36_1.tar.bz2",
 "total":322
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-lpe-1.58.0-r36_1.tar.bz2",
+"total":326
 }
 ]
 }

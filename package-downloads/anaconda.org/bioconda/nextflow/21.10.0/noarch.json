@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"nextflow-21.10.0-h4a94de4_0.tar.bz2",
-"total":666
+"total":676
 }
 ],
 "downloads_per_date":[
@@ -182,6 +182,10 @@
 {
 "date":"2021-12-30",
 "total":666
+},
+{
+"date":"2021-12-31",
+"total":676
 }
 ],
 "package":"nextflow",
@@ -579,6 +583,15 @@
 {
 "basename":"nextflow-21.10.0-h4a94de4_0.tar.bz2",
 "total":666
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"nextflow-21.10.0-h4a94de4_0.tar.bz2",
+"total":676
 }
 ]
 }

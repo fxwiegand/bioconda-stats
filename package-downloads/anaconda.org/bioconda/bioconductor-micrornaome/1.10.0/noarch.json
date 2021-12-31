@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-micrornaome-1.10.0-r40_0.tar.bz2",
-"total":277
+"total":281
 }
 ],
 "downloads_per_date":[
@@ -730,6 +730,10 @@
 {
 "date":"2021-12-30",
 "total":277
+},
+{
+"date":"2021-12-31",
+"total":281
 }
 ],
 "package":"bioconductor-micrornaome",
@@ -1118,6 +1122,15 @@
 {
 "basename":"bioconductor-micrornaome-1.10.0-r40_0.tar.bz2",
 "total":277
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-micrornaome-1.10.0-r40_0.tar.bz2",
+"total":281
 }
 ]
 }

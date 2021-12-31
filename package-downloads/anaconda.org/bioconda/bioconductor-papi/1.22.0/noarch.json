@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-papi-1.22.0-r351_0.tar.bz2",
-"total":372
+"total":375
 }
 ],
 "downloads_per_date":[
@@ -734,6 +734,10 @@
 {
 "date":"2021-12-30",
 "total":372
+},
+{
+"date":"2021-12-31",
+"total":375
 }
 ],
 "package":"bioconductor-papi",
@@ -1185,6 +1189,15 @@
 {
 "basename":"bioconductor-papi-1.22.0-r351_0.tar.bz2",
 "total":372
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-papi-1.22.0-r351_0.tar.bz2",
+"total":375
 }
 ]
 }

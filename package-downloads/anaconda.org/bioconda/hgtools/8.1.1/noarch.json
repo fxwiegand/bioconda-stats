@@ -7,7 +7,7 @@
 },
 {
 "basename":"hgtools-8.1.1-pyh864c0ab_2.tar.bz2",
-"total":278
+"total":282
 },
 {
 "basename":"hgtools-8.1.1-py_0.tar.bz2",
@@ -730,6 +730,10 @@
 {
 "date":"2021-12-30",
 "total":863
+},
+{
+"date":"2021-12-31",
+"total":867
 }
 ],
 "package":"hgtools",
@@ -1112,6 +1116,15 @@
 {
 "basename":"hgtools-8.1.1-py_0.tar.bz2",
 "total":458
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"hgtools-8.1.1-pyh864c0ab_2.tar.bz2",
+"total":282
 }
 ]
 }

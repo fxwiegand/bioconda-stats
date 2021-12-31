@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-sangerseqr-1.24.0-r40_0.tar.bz2",
-"total":261
+"total":265
 }
 ],
 "downloads_per_date":[
@@ -702,6 +702,10 @@
 {
 "date":"2021-12-30",
 "total":261
+},
+{
+"date":"2021-12-31",
+"total":265
 }
 ],
 "package":"bioconductor-sangerseqr",
@@ -1018,6 +1022,15 @@
 {
 "basename":"bioconductor-sangerseqr-1.24.0-r40_0.tar.bz2",
 "total":261
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-sangerseqr-1.24.0-r40_0.tar.bz2",
+"total":265
 }
 ]
 }

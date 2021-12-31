@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-biosvd-2.20.0-r36_1.tar.bz2",
-"total":340
+"total":342
 }
 ],
 "downloads_per_date":[
@@ -742,6 +742,10 @@
 {
 "date":"2021-12-30",
 "total":340
+},
+{
+"date":"2021-12-31",
+"total":342
 }
 ],
 "package":"bioconductor-biosvd",
@@ -1166,6 +1170,15 @@
 {
 "basename":"bioconductor-biosvd-2.20.0-r36_1.tar.bz2",
 "total":340
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-biosvd-2.20.0-r36_1.tar.bz2",
+"total":342
 }
 ]
 }

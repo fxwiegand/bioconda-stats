@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-qpcrnorm-1.48.0-r40hdfd78af_1.tar.bz2",
-"total":265
+"total":267
 }
 ],
 "downloads_per_date":[
@@ -738,6 +738,10 @@
 {
 "date":"2021-12-30",
 "total":330
+},
+{
+"date":"2021-12-31",
+"total":332
 }
 ],
 "package":"bioconductor-qpcrnorm",
@@ -1225,6 +1229,15 @@
 {
 "basename":"bioconductor-qpcrnorm-1.48.0-r40hdfd78af_1.tar.bz2",
 "total":265
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-qpcrnorm-1.48.0-r40hdfd78af_1.tar.bz2",
+"total":267
 }
 ]
 }

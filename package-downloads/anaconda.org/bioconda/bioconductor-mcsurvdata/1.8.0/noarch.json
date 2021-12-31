@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-mcsurvdata-1.8.0-r40hdfd78af_1.tar.bz2",
-"total":255
+"total":257
 }
 ],
 "downloads_per_date":[
@@ -750,6 +750,10 @@
 {
 "date":"2021-12-30",
 "total":315
+},
+{
+"date":"2021-12-31",
+"total":317
 }
 ],
 "package":"bioconductor-mcsurvdata",
@@ -1215,6 +1219,15 @@
 {
 "basename":"bioconductor-mcsurvdata-1.8.0-r40hdfd78af_1.tar.bz2",
 "total":255
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mcsurvdata-1.8.0-r40hdfd78af_1.tar.bz2",
+"total":257
 }
 ]
 }

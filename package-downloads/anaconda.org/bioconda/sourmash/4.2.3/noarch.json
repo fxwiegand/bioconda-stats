@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"sourmash-4.2.3-hdfd78af_0.tar.bz2",
-"total":35
+"total":44
 }
 ],
 "downloads_per_date":[
@@ -42,6 +42,10 @@
 {
 "date":"2021-12-30",
 "total":35
+},
+{
+"date":"2021-12-31",
+"total":44
 }
 ],
 "package":"sourmash",
@@ -115,6 +119,15 @@
 {
 "basename":"sourmash-4.2.3-hdfd78af_0.tar.bz2",
 "total":35
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"sourmash-4.2.3-hdfd78af_0.tar.bz2",
+"total":44
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-zebrafishrnaseq-1.4.0-r361_1.tar.bz2",
-"total":301
+"total":303
 }
 ],
 "downloads_per_date":[
@@ -742,6 +742,10 @@
 {
 "date":"2021-12-30",
 "total":429
+},
+{
+"date":"2021-12-31",
+"total":431
 }
 ],
 "package":"bioconductor-zebrafishrnaseq",
@@ -1204,6 +1208,15 @@
 {
 "basename":"bioconductor-zebrafishrnaseq-1.4.0-r361_1.tar.bz2",
 "total":301
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-zebrafishrnaseq-1.4.0-r361_1.tar.bz2",
+"total":303
 }
 ]
 }

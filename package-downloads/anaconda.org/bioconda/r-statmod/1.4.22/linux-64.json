@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-statmod-1.4.22-r3.2.2_0.tar.bz2",
-"total":3534
+"total":3535
 }
 ],
 "downloads_per_date":[
@@ -242,6 +242,10 @@
 {
 "date":"2021-12-30",
 "total":4065
+},
+{
+"date":"2021-12-31",
+"total":4066
 }
 ],
 "package":"r-statmod",
@@ -341,6 +345,15 @@
 {
 "basename":"r-statmod-1.4.22-r3.3.1_0.tar.bz2",
 "total":531
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"r-statmod-1.4.22-r3.2.2_0.tar.bz2",
+"total":3535
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-lpe-1.64.0-r40hdfd78af_1.tar.bz2",
-"total":258
+"total":262
 }
 ],
 "downloads_per_date":[
@@ -742,6 +742,10 @@
 {
 "date":"2021-12-30",
 "total":339
+},
+{
+"date":"2021-12-31",
+"total":343
 }
 ],
 "package":"bioconductor-lpe",
@@ -1167,6 +1171,15 @@
 {
 "basename":"bioconductor-lpe-1.64.0-r40hdfd78af_1.tar.bz2",
 "total":258
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-lpe-1.64.0-r40hdfd78af_1.tar.bz2",
+"total":262
 }
 ]
 }

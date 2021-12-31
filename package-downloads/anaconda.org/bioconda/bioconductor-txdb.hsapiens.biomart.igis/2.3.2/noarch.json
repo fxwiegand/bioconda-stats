@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-txdb.hsapiens.biomart.igis-2.3.2-r41hdfd78af_9.tar.bz2",
-"total":100
+"total":102
 },
 {
 "basename":"bioconductor-txdb.hsapiens.biomart.igis-2.3.2-r351_0.tar.bz2",
@@ -786,6 +786,10 @@
 {
 "date":"2021-12-30",
 "total":890
+},
+{
+"date":"2021-12-31",
+"total":892
 }
 ],
 "package":"bioconductor-txdb.hsapiens.biomart.igis",
@@ -1432,6 +1436,15 @@
 {
 "basename":"bioconductor-txdb.hsapiens.biomart.igis-2.3.2-r41hdfd78af_9.tar.bz2",
 "total":100
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-txdb.hsapiens.biomart.igis-2.3.2-r41hdfd78af_9.tar.bz2",
+"total":102
 }
 ]
 }

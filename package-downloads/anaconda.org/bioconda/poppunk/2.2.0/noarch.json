@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"poppunk-2.2.0-py_0.tar.bz2",
-"total":256
+"total":260
 }
 ],
 "downloads_per_date":[
@@ -690,6 +690,10 @@
 {
 "date":"2021-12-30",
 "total":256
+},
+{
+"date":"2021-12-31",
+"total":260
 }
 ],
 "package":"poppunk",
@@ -1015,6 +1019,15 @@
 {
 "basename":"poppunk-2.2.0-py_0.tar.bz2",
 "total":256
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"poppunk-2.2.0-py_0.tar.bz2",
+"total":260
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-shinytandem-1.22.0-r36_2.tar.bz2",
-"total":323
+"total":325
 }
 ],
 "downloads_per_date":[
@@ -738,6 +738,10 @@
 {
 "date":"2021-12-30",
 "total":480
+},
+{
+"date":"2021-12-31",
+"total":482
 }
 ],
 "package":"bioconductor-shinytandem",
@@ -1203,6 +1207,15 @@
 {
 "basename":"bioconductor-shinytandem-1.22.0-r36_2.tar.bz2",
 "total":323
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-shinytandem-1.22.0-r36_2.tar.bz2",
+"total":325
 }
 ]
 }

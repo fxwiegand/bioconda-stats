@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-hapmap100kxba-1.26.0-r36_1.tar.bz2",
-"total":313
+"total":315
 }
 ],
 "downloads_per_date":[
@@ -738,6 +738,10 @@
 {
 "date":"2021-12-30",
 "total":440
+},
+{
+"date":"2021-12-31",
+"total":442
 }
 ],
 "package":"bioconductor-hapmap100kxba",
@@ -1230,6 +1234,15 @@
 {
 "basename":"bioconductor-hapmap100kxba-1.26.0-r36_1.tar.bz2",
 "total":313
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hapmap100kxba-1.26.0-r36_1.tar.bz2",
+"total":315
 }
 ]
 }

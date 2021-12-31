@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-fletcher2013b-1.26.0-r40hdfd78af_1.tar.bz2",
-"total":254
+"total":256
 }
 ],
 "downloads_per_date":[
@@ -742,6 +742,10 @@
 {
 "date":"2021-12-30",
 "total":312
+},
+{
+"date":"2021-12-31",
+"total":314
 }
 ],
 "package":"bioconductor-fletcher2013b",
@@ -1221,6 +1225,15 @@
 {
 "basename":"bioconductor-fletcher2013b-1.26.0-r40hdfd78af_1.tar.bz2",
 "total":254
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-fletcher2013b-1.26.0-r40hdfd78af_1.tar.bz2",
+"total":256
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-jaspar2014-1.26.0-r40hdfd78af_1.tar.bz2",
-"total":252
+"total":256
 }
 ],
 "downloads_per_date":[
@@ -726,6 +726,10 @@
 {
 "date":"2021-12-30",
 "total":311
+},
+{
+"date":"2021-12-31",
+"total":315
 }
 ],
 "package":"bioconductor-jaspar2014",
@@ -1133,6 +1137,15 @@
 {
 "basename":"bioconductor-jaspar2014-1.26.0-r40hdfd78af_1.tar.bz2",
 "total":252
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-jaspar2014-1.26.0-r40hdfd78af_1.tar.bz2",
+"total":256
 }
 ]
 }

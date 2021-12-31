@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-nestlink-1.8.0-r41hdfd78af_0.tar.bz2",
-"total":254
+"total":256
 }
 ],
 "downloads_per_date":[
@@ -742,6 +742,10 @@
 {
 "date":"2021-12-30",
 "total":254
+},
+{
+"date":"2021-12-31",
+"total":256
 }
 ],
 "package":"bioconductor-nestlink",
@@ -1211,6 +1215,15 @@
 {
 "basename":"bioconductor-nestlink-1.8.0-r41hdfd78af_0.tar.bz2",
 "total":254
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-nestlink-1.8.0-r41hdfd78af_0.tar.bz2",
+"total":256
 }
 ]
 }

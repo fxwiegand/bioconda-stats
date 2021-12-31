@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"metagenome-atlas-2.5.0-pyhdfd78af_0.tar.bz2",
-"total":256
+"total":259
 }
 ],
 "downloads_per_date":[
@@ -726,6 +726,10 @@
 {
 "date":"2021-12-30",
 "total":256
+},
+{
+"date":"2021-12-31",
+"total":259
 }
 ],
 "package":"metagenome-atlas",
@@ -1141,6 +1145,15 @@
 {
 "basename":"metagenome-atlas-2.5.0-pyhdfd78af_0.tar.bz2",
 "total":256
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"metagenome-atlas-2.5.0-pyhdfd78af_0.tar.bz2",
+"total":259
 }
 ]
 }

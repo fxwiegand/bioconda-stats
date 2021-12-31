@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"metagenome-atlas-2.4.1-py_0.tar.bz2",
-"total":302
+"total":305
 }
 ],
 "downloads_per_date":[
@@ -726,6 +726,10 @@
 {
 "date":"2021-12-30",
 "total":302
+},
+{
+"date":"2021-12-31",
+"total":305
 }
 ],
 "package":"metagenome-atlas",
@@ -1141,6 +1145,15 @@
 {
 "basename":"metagenome-atlas-2.4.1-py_0.tar.bz2",
 "total":302
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"metagenome-atlas-2.4.1-py_0.tar.bz2",
+"total":305
 }
 ]
 }

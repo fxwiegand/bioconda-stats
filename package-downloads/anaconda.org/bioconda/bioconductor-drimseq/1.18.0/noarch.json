@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-drimseq-1.18.0-r40hdfd78af_1.tar.bz2",
-"total":415
+"total":417
 },
 {
 "basename":"bioconductor-drimseq-1.18.0-r40_0.tar.bz2",
@@ -854,6 +854,10 @@
 {
 "date":"2021-12-30",
 "total":1203
+},
+{
+"date":"2021-12-31",
+"total":1205
 }
 ],
 "package":"bioconductor-drimseq",
@@ -1386,6 +1390,15 @@
 {
 "basename":"bioconductor-drimseq-1.18.0-r40hdfd78af_1.tar.bz2",
 "total":415
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-drimseq-1.18.0-r40hdfd78af_1.tar.bz2",
+"total":417
 }
 ]
 }

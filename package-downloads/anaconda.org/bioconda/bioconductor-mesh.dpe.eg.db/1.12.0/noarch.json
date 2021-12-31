@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-mesh.dpe.eg.db-1.12.0-r36_1.tar.bz2",
-"total":297
+"total":300
 }
 ],
 "downloads_per_date":[
@@ -726,6 +726,10 @@
 {
 "date":"2021-12-30",
 "total":297
+},
+{
+"date":"2021-12-31",
+"total":300
 }
 ],
 "package":"bioconductor-mesh.dpe.eg.db",
@@ -1150,6 +1154,15 @@
 {
 "basename":"bioconductor-mesh.dpe.eg.db-1.12.0-r36_1.tar.bz2",
 "total":297
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mesh.dpe.eg.db-1.12.0-r36_1.tar.bz2",
+"total":300
 }
 ]
 }

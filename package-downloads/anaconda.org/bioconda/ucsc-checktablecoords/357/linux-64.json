@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-checktablecoords-357-1.tar.bz2",
-"total":448
+"total":449
 },
 {
 "basename":"ucsc-checktablecoords-357-0.tar.bz2",
@@ -274,6 +274,10 @@
 {
 "date":"2021-12-30",
 "total":916
+},
+{
+"date":"2021-12-31",
+"total":917
 }
 ],
 "package":"ucsc-checktablecoords",
@@ -358,6 +362,15 @@
 {
 "basename":"ucsc-checktablecoords-357-0.tar.bz2",
 "total":468
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"ucsc-checktablecoords-357-1.tar.bz2",
+"total":449
 }
 ]
 }

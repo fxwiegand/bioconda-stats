@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-inpower-1.26.0-r40hdfd78af_1.tar.bz2",
-"total":255
+"total":259
 }
 ],
 "downloads_per_date":[
@@ -726,6 +726,10 @@
 {
 "date":"2021-12-30",
 "total":318
+},
+{
+"date":"2021-12-31",
+"total":322
 }
 ],
 "package":"bioconductor-inpower",
@@ -1137,6 +1141,15 @@
 {
 "basename":"bioconductor-inpower-1.26.0-r40hdfd78af_1.tar.bz2",
 "total":255
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-inpower-1.26.0-r40hdfd78af_1.tar.bz2",
+"total":259
 }
 ]
 }

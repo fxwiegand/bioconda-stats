@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-asafe-1.16.0-r40hdfd78af_1.tar.bz2",
-"total":255
+"total":259
 }
 ],
 "downloads_per_date":[
@@ -738,6 +738,10 @@
 {
 "date":"2021-12-30",
 "total":329
+},
+{
+"date":"2021-12-31",
+"total":333
 }
 ],
 "package":"bioconductor-asafe",
@@ -1162,6 +1166,15 @@
 {
 "basename":"bioconductor-asafe-1.16.0-r40hdfd78af_1.tar.bz2",
 "total":255
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-asafe-1.16.0-r40hdfd78af_1.tar.bz2",
+"total":259
 }
 ]
 }

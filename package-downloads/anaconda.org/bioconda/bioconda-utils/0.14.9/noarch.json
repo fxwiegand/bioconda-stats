@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconda-utils-0.14.9-py_0.tar.bz2",
-"total":375
+"total":377
 }
 ],
 "downloads_per_date":[
@@ -718,6 +718,10 @@
 {
 "date":"2021-12-30",
 "total":375
+},
+{
+"date":"2021-12-31",
+"total":377
 }
 ],
 "package":"bioconda-utils",
@@ -1142,6 +1146,15 @@
 {
 "basename":"bioconda-utils-0.14.9-py_0.tar.bz2",
 "total":375
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconda-utils-0.14.9-py_0.tar.bz2",
+"total":377
 }
 ]
 }

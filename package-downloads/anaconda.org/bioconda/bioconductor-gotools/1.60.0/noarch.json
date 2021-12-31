@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-gotools-1.60.0-r36_0.tar.bz2",
-"total":331
+"total":333
 }
 ],
 "downloads_per_date":[
@@ -726,6 +726,10 @@
 {
 "date":"2021-12-30",
 "total":331
+},
+{
+"date":"2021-12-31",
+"total":333
 }
 ],
 "package":"bioconductor-gotools",
@@ -1159,6 +1163,15 @@
 {
 "basename":"bioconductor-gotools-1.60.0-r36_0.tar.bz2",
 "total":331
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-gotools-1.60.0-r36_0.tar.bz2",
+"total":333
 }
 ]
 }

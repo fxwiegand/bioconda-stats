@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rgu34b.db-3.13.0-r41hdfd78af_0.tar.bz2",
-"total":64
+"total":68
 }
 ],
 "downloads_per_date":[
@@ -178,6 +178,10 @@
 {
 "date":"2021-12-30",
 "total":64
+},
+{
+"date":"2021-12-31",
+"total":68
 }
 ],
 "package":"bioconductor-rgu34b.db",
@@ -521,6 +525,15 @@
 {
 "basename":"bioconductor-rgu34b.db-3.13.0-r41hdfd78af_0.tar.bz2",
 "total":64
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rgu34b.db-3.13.0-r41hdfd78af_0.tar.bz2",
+"total":68
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-lrbase.pab.eg.db-1.1.0-r36_0.tar.bz2",
-"total":269
+"total":273
 }
 ],
 "downloads_per_date":[
@@ -698,6 +698,10 @@
 {
 "date":"2021-12-30",
 "total":269
+},
+{
+"date":"2021-12-31",
+"total":273
 }
 ],
 "package":"bioconductor-lrbase.pab.eg.db",
@@ -1032,6 +1036,15 @@
 {
 "basename":"bioconductor-lrbase.pab.eg.db-1.1.0-r36_0.tar.bz2",
 "total":269
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-lrbase.pab.eg.db-1.1.0-r36_0.tar.bz2",
+"total":273
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-correp-1.52.0-r36_0.tar.bz2",
-"total":318
+"total":320
 }
 ],
 "downloads_per_date":[
@@ -734,6 +734,10 @@
 {
 "date":"2021-12-30",
 "total":318
+},
+{
+"date":"2021-12-31",
+"total":320
 }
 ],
 "package":"bioconductor-correp",
@@ -1194,6 +1198,15 @@
 {
 "basename":"bioconductor-correp-1.52.0-r36_0.tar.bz2",
 "total":318
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-correp-1.52.0-r36_0.tar.bz2",
+"total":320
 }
 ]
 }

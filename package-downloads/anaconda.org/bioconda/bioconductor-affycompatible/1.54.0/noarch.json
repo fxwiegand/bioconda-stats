@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-affycompatible-1.54.0-r41hdfd78af_0.tar.bz2",
-"total":79
+"total":83
 }
 ],
 "downloads_per_date":[
@@ -194,6 +194,10 @@
 {
 "date":"2021-12-30",
 "total":79
+},
+{
+"date":"2021-12-31",
+"total":83
 }
 ],
 "package":"bioconductor-affycompatible",
@@ -564,6 +568,15 @@
 {
 "basename":"bioconductor-affycompatible-1.54.0-r41hdfd78af_0.tar.bz2",
 "total":79
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-affycompatible-1.54.0-r41hdfd78af_0.tar.bz2",
+"total":83
 }
 ]
 }

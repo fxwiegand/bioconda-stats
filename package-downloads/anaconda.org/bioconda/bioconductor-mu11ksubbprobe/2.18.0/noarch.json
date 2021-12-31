@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-mu11ksubbprobe-2.18.0-r41hdfd78af_8.tar.bz2",
-"total":105
+"total":107
 },
 {
 "basename":"bioconductor-mu11ksubbprobe-2.18.0-r351_0.tar.bz2",
@@ -786,6 +786,10 @@
 {
 "date":"2021-12-30",
 "total":758
+},
+{
+"date":"2021-12-31",
+"total":760
 }
 ],
 "package":"bioconductor-mu11ksubbprobe",
@@ -1459,6 +1463,15 @@
 {
 "basename":"bioconductor-mu11ksubbprobe-2.18.0-r41hdfd78af_8.tar.bz2",
 "total":105
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mu11ksubbprobe-2.18.0-r41hdfd78af_8.tar.bz2",
+"total":107
 }
 ]
 }

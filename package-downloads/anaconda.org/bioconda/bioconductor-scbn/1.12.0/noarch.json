@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-scbn-1.12.0-r41hdfd78af_0.tar.bz2",
-"total":115
+"total":117
 }
 ],
 "downloads_per_date":[
@@ -230,6 +230,10 @@
 {
 "date":"2021-12-30",
 "total":115
+},
+{
+"date":"2021-12-31",
+"total":117
 }
 ],
 "package":"bioconductor-scbn",
@@ -726,6 +730,15 @@
 {
 "basename":"bioconductor-scbn-1.12.0-r41hdfd78af_0.tar.bz2",
 "total":115
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-scbn-1.12.0-r41hdfd78af_0.tar.bz2",
+"total":117
 }
 ]
 }

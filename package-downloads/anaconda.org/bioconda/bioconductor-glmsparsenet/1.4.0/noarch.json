@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-glmsparsenet-1.4.0-r36_0.tar.bz2",
-"total":333
+"total":335
 }
 ],
 "downloads_per_date":[
@@ -750,6 +750,10 @@
 {
 "date":"2021-12-30",
 "total":333
+},
+{
+"date":"2021-12-31",
+"total":335
 }
 ],
 "package":"bioconductor-glmsparsenet",
@@ -1201,6 +1205,15 @@
 {
 "basename":"bioconductor-glmsparsenet-1.4.0-r36_0.tar.bz2",
 "total":333
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-glmsparsenet-1.4.0-r36_0.tar.bz2",
+"total":335
 }
 ]
 }

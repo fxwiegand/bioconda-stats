@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"sample-sheet-0.10.0-py_0.tar.bz2",
-"total":291
+"total":293
 }
 ],
 "downloads_per_date":[
@@ -726,6 +726,10 @@
 {
 "date":"2021-12-30",
 "total":291
+},
+{
+"date":"2021-12-31",
+"total":293
 }
 ],
 "package":"sample-sheet",
@@ -1168,6 +1172,15 @@
 {
 "basename":"sample-sheet-0.10.0-py_0.tar.bz2",
 "total":291
+}
+]
+},
+{
+"date":"2021-12-31",
+"downloads_per_basename":[
+{
+"basename":"sample-sheet-0.10.0-py_0.tar.bz2",
+"total":293
 }
 ]
 }
