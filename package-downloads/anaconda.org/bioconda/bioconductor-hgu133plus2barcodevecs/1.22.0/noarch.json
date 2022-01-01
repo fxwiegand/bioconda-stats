@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-hgu133plus2barcodevecs-1.22.0-r36_1.tar.bz2",
-"total":313
+"total":315
 }
 ],
 "downloads_per_date":[
@@ -742,6 +742,10 @@
 {
 "date":"2021-12-31",
 "total":428
+},
+{
+"date":"2022-01-01",
+"total":430
 }
 ],
 "package":"bioconductor-hgu133plus2barcodevecs",
@@ -1204,6 +1208,15 @@
 {
 "basename":"bioconductor-hgu133plus2barcodevecs-1.22.0-r36_1.tar.bz2",
 "total":313
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hgu133plus2barcodevecs-1.22.0-r36_1.tar.bz2",
+"total":315
 }
 ]
 }

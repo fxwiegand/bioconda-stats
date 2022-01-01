@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"prokaryote-2.4.1-pyh864c0ab_1.tar.bz2",
-"total":316
+"total":318
 },
 {
 "basename":"prokaryote-2.4.1-py_0.tar.bz2",
@@ -754,6 +754,10 @@
 {
 "date":"2021-12-31",
 "total":672
+},
+{
+"date":"2022-01-01",
+"total":674
 }
 ],
 "package":"prokaryote",
@@ -1197,6 +1201,15 @@
 {
 "basename":"prokaryote-2.4.1-pyh864c0ab_1.tar.bz2",
 "total":316
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"prokaryote-2.4.1-pyh864c0ab_1.tar.bz2",
+"total":318
 }
 ]
 }

@@ -204,6 +204,10 @@
 {
 "date":"2021-12-31",
 "total":152
+},
+{
+"date":"2022-01-01",
+"total":154
 }
 ],
 "downloads_per_subdir":[
@@ -213,7 +217,7 @@
 },
 {
 "subdir":"osx-64",
-"total":109
+"total":111
 }
 ],
 "package":"alevin-fry",
@@ -733,6 +737,15 @@
 {
 "subdir":"osx-64",
 "total":109
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":111
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-gagedata-2.32.0-r41hdfd78af_0.tar.bz2",
-"total":117
+"total":119
 }
 ],
 "downloads_per_date":[
@@ -242,6 +242,10 @@
 {
 "date":"2021-12-31",
 "total":117
+},
+{
+"date":"2022-01-01",
+"total":119
 }
 ],
 "package":"bioconductor-gagedata",
@@ -756,6 +760,15 @@
 {
 "basename":"bioconductor-gagedata-2.32.0-r41hdfd78af_0.tar.bz2",
 "total":117
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-gagedata-2.32.0-r41hdfd78af_0.tar.bz2",
+"total":119
 }
 ]
 }

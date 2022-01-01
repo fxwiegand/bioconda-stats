@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-biocio-1.4.0-r41hdfd78af_0.tar.bz2",
-"total":3264
+"total":3268
 }
 ],
 "downloads_per_date":[
@@ -242,6 +242,10 @@
 {
 "date":"2021-12-31",
 "total":3264
+},
+{
+"date":"2022-01-01",
+"total":3268
 }
 ],
 "package":"bioconductor-biocio",
@@ -774,6 +778,15 @@
 {
 "basename":"bioconductor-biocio-1.4.0-r41hdfd78af_0.tar.bz2",
 "total":3264
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-biocio-1.4.0-r41hdfd78af_0.tar.bz2",
+"total":3268
 }
 ]
 }

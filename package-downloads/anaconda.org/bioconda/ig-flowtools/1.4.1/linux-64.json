@@ -7,7 +7,7 @@
 },
 {
 "basename":"ig-flowtools-1.4.1-py35r3.3.1_0.tar.bz2",
-"total":409
+"total":410
 },
 {
 "basename":"ig-flowtools-1.4.1-py27r3.3.1_1.tar.bz2",
@@ -258,6 +258,10 @@
 {
 "date":"2021-12-31",
 "total":2634
+},
+{
+"date":"2022-01-01",
+"total":2635
 }
 ],
 "package":"ig-flowtools",
@@ -456,6 +460,15 @@
 {
 "basename":"ig-flowtools-1.4.1-py34r3.3.1_0.tar.bz2",
 "total":434
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"ig-flowtools-1.4.1-py35r3.3.1_0.tar.bz2",
+"total":410
 }
 ]
 }

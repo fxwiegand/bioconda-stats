@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-rtcga.methylation-1.12.0-r36_1.tar.bz2",
-"total":301
+"total":303
 }
 ],
 "downloads_per_date":[
@@ -738,6 +738,10 @@
 {
 "date":"2021-12-31",
 "total":418
+},
+{
+"date":"2022-01-01",
+"total":420
 }
 ],
 "package":"bioconductor-rtcga.methylation",
@@ -1164,6 +1168,15 @@
 {
 "basename":"bioconductor-rtcga.methylation-1.12.0-r36_1.tar.bz2",
 "total":301
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rtcga.methylation-1.12.0-r36_1.tar.bz2",
+"total":303
 }
 ]
 }

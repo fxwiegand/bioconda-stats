@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-maser-1.0.0-r351_0.tar.bz2",
-"total":402
+"total":404
 }
 ],
 "downloads_per_date":[
@@ -754,6 +754,10 @@
 {
 "date":"2021-12-31",
 "total":402
+},
+{
+"date":"2022-01-01",
+"total":404
 }
 ],
 "package":"bioconductor-maser",
@@ -1151,6 +1155,15 @@
 {
 "basename":"bioconductor-maser-1.0.0-r351_0.tar.bz2",
 "total":402
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-maser-1.0.0-r351_0.tar.bz2",
+"total":404
 }
 ]
 }

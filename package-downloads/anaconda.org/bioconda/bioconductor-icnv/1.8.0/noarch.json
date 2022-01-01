@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-icnv-1.8.0-r40_0.tar.bz2",
-"total":270
+"total":273
 }
 ],
 "downloads_per_date":[
@@ -710,6 +710,10 @@
 {
 "date":"2021-12-31",
 "total":270
+},
+{
+"date":"2022-01-01",
+"total":273
 }
 ],
 "package":"bioconductor-icnv",
@@ -1044,6 +1048,15 @@
 {
 "basename":"bioconductor-icnv-1.8.0-r40_0.tar.bz2",
 "total":270
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-icnv-1.8.0-r40_0.tar.bz2",
+"total":273
 }
 ]
 }

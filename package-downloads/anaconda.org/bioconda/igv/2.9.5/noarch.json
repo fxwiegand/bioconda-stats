@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"igv-2.9.5-hdfd78af_0.tar.bz2",
-"total":673
+"total":675
 }
 ],
 "downloads_per_date":[
@@ -790,6 +790,10 @@
 {
 "date":"2021-12-31",
 "total":673
+},
+{
+"date":"2022-01-01",
+"total":675
 }
 ],
 "package":"igv",
@@ -1223,6 +1227,15 @@
 {
 "basename":"igv-2.9.5-hdfd78af_0.tar.bz2",
 "total":673
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"igv-2.9.5-hdfd78af_0.tar.bz2",
+"total":675
 }
 ]
 }

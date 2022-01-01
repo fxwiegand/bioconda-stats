@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"pbgzip-2015.10.28-0.tar.bz2",
-"total":8962
+"total":8963
 }
 ],
 "downloads_per_date":[
@@ -150,6 +150,10 @@
 {
 "date":"2021-12-31",
 "total":8962
+},
+{
+"date":"2022-01-01",
+"total":8963
 }
 ],
 "package":"pbgzip",
@@ -196,6 +200,15 @@
 {
 "basename":"pbgzip-2015.10.28-0.tar.bz2",
 "total":8962
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"pbgzip-2015.10.28-0.tar.bz2",
+"total":8963
 }
 ]
 }

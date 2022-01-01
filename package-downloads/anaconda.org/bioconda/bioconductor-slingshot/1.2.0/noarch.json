@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-slingshot-1.2.0-r36_1.tar.bz2",
-"total":442
+"total":444
 }
 ],
 "downloads_per_date":[
@@ -746,6 +746,10 @@
 {
 "date":"2021-12-31",
 "total":442
+},
+{
+"date":"2022-01-01",
+"total":444
 }
 ],
 "package":"bioconductor-slingshot",
@@ -1206,6 +1210,15 @@
 {
 "basename":"bioconductor-slingshot-1.2.0-r36_1.tar.bz2",
 "total":442
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-slingshot-1.2.0-r36_1.tar.bz2",
+"total":444
 }
 ]
 }

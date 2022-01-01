@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-tracktables-1.28.0-r41hdfd78af_0.tar.bz2",
-"total":104
+"total":106
 }
 ],
 "downloads_per_date":[
@@ -218,6 +218,10 @@
 {
 "date":"2021-12-31",
 "total":104
+},
+{
+"date":"2022-01-01",
+"total":106
 }
 ],
 "package":"bioconductor-tracktables",
@@ -624,6 +628,15 @@
 {
 "basename":"bioconductor-tracktables-1.28.0-r41hdfd78af_0.tar.bz2",
 "total":104
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-tracktables-1.28.0-r41hdfd78af_0.tar.bz2",
+"total":106
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-cohcap-1.40.0-pl5321r41h832b226_0.tar.bz2",
-"total":81
+"total":83
 }
 ],
 "downloads_per_date":[
@@ -218,6 +218,10 @@
 {
 "date":"2021-12-31",
 "total":81
+},
+{
+"date":"2022-01-01",
+"total":83
 }
 ],
 "package":"bioconductor-cohcap",
@@ -624,6 +628,15 @@
 {
 "basename":"bioconductor-cohcap-1.40.0-pl5321r41h832b226_0.tar.bz2",
 "total":81
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cohcap-1.40.0-pl5321r41h832b226_0.tar.bz2",
+"total":83
 }
 ]
 }

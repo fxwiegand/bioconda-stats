@@ -7,7 +7,7 @@
 },
 {
 "basename":"srax-1.5-pl526h1341992_0.tar.bz2",
-"total":387
+"total":389
 }
 ],
 "downloads_per_date":[
@@ -798,6 +798,10 @@
 {
 "date":"2021-12-31",
 "total":509
+},
+{
+"date":"2022-01-01",
+"total":511
 }
 ],
 "package":"srax",
@@ -1261,6 +1265,15 @@
 {
 "basename":"srax-1.5-pl526h1341992_0.tar.bz2",
 "total":387
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"srax-1.5-pl526h1341992_0.tar.bz2",
+"total":389
 }
 ]
 }

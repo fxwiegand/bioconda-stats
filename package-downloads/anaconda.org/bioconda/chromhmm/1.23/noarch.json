@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"chromhmm-1.23-hdfd78af_0.tar.bz2",
-"total":200
+"total":202
 }
 ],
 "downloads_per_date":[
@@ -418,6 +418,10 @@
 {
 "date":"2021-12-31",
 "total":200
+},
+{
+"date":"2022-01-01",
+"total":202
 }
 ],
 "package":"chromhmm",
@@ -860,6 +864,15 @@
 {
 "basename":"chromhmm-1.23-hdfd78af_0.tar.bz2",
 "total":200
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"chromhmm-1.23-hdfd78af_0.tar.bz2",
+"total":202
 }
 ]
 }

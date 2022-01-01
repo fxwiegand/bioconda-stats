@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-metab-1.20.0-r36_0.tar.bz2",
-"total":345
+"total":347
 }
 ],
 "downloads_per_date":[
@@ -754,6 +754,10 @@
 {
 "date":"2021-12-31",
 "total":345
+},
+{
+"date":"2022-01-01",
+"total":347
 }
 ],
 "package":"bioconductor-metab",
@@ -1223,6 +1227,15 @@
 {
 "basename":"bioconductor-metab-1.20.0-r36_0.tar.bz2",
 "total":345
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-metab-1.20.0-r36_0.tar.bz2",
+"total":347
 }
 ]
 }

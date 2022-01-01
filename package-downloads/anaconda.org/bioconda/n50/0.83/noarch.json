@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"n50-0.83-pl526_0.tar.bz2",
-"total":444
+"total":446
 }
 ],
 "downloads_per_date":[
@@ -726,6 +726,10 @@
 {
 "date":"2021-12-31",
 "total":444
+},
+{
+"date":"2022-01-01",
+"total":446
 }
 ],
 "package":"n50",
@@ -1114,6 +1118,15 @@
 {
 "basename":"n50-0.83-pl526_0.tar.bz2",
 "total":444
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"n50-0.83-pl526_0.tar.bz2",
+"total":446
 }
 ]
 }

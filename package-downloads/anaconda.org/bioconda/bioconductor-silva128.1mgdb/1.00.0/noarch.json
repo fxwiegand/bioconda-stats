@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-silva128.1mgdb-1.00.0-r40hdfd78af_6.tar.bz2",
-"total":263
+"total":265
 }
 ],
 "downloads_per_date":[
@@ -774,6 +774,10 @@
 {
 "date":"2021-12-31",
 "total":709
+},
+{
+"date":"2022-01-01",
+"total":711
 }
 ],
 "package":"bioconductor-silva128.1mgdb",
@@ -1318,6 +1322,15 @@
 {
 "basename":"bioconductor-silva128.1mgdb-1.00.0-r40hdfd78af_6.tar.bz2",
 "total":263
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-silva128.1mgdb-1.00.0-r40hdfd78af_6.tar.bz2",
+"total":265
 }
 ]
 }

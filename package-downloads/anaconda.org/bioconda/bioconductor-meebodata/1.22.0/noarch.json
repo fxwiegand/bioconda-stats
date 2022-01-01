@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-meebodata-1.22.0-r36_1.tar.bz2",
-"total":315
+"total":317
 }
 ],
 "downloads_per_date":[
@@ -750,6 +750,10 @@
 {
 "date":"2021-12-31",
 "total":447
+},
+{
+"date":"2022-01-01",
+"total":449
 }
 ],
 "package":"bioconductor-meebodata",
@@ -1247,6 +1251,15 @@
 {
 "basename":"bioconductor-meebodata-1.22.0-r36_1.tar.bz2",
 "total":315
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-meebodata-1.22.0-r36_1.tar.bz2",
+"total":317
 }
 ]
 }

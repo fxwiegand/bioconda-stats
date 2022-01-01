@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-medips-1.36.0-r36_1.tar.bz2",
-"total":340
+"total":343
 }
 ],
 "downloads_per_date":[
@@ -738,6 +738,10 @@
 {
 "date":"2021-12-31",
 "total":340
+},
+{
+"date":"2022-01-01",
+"total":343
 }
 ],
 "package":"bioconductor-medips",
@@ -1180,6 +1184,15 @@
 {
 "basename":"bioconductor-medips-1.36.0-r36_1.tar.bz2",
 "total":340
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-medips-1.36.0-r36_1.tar.bz2",
+"total":343
 }
 ]
 }

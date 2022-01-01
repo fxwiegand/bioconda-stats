@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"mosca-1.2.2-0.tar.bz2",
-"total":260
+"total":262
 }
 ],
 "downloads_per_date":[
@@ -734,6 +734,10 @@
 {
 "date":"2021-12-31",
 "total":260
+},
+{
+"date":"2022-01-01",
+"total":262
 }
 ],
 "package":"mosca",
@@ -1176,6 +1180,15 @@
 {
 "basename":"mosca-1.2.2-0.tar.bz2",
 "total":260
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"mosca-1.2.2-0.tar.bz2",
+"total":262
 }
 ]
 }

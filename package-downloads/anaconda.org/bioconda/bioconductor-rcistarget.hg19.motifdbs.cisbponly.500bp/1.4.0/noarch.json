@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-rcistarget.hg19.motifdbs.cisbponly.500bp-1.4.0-r36_1.tar.bz2",
-"total":265
+"total":267
 }
 ],
 "downloads_per_date":[
@@ -710,6 +710,10 @@
 {
 "date":"2021-12-31",
 "total":398
+},
+{
+"date":"2022-01-01",
+"total":400
 }
 ],
 "package":"bioconductor-rcistarget.hg19.motifdbs.cisbponly.500bp",
@@ -1065,6 +1069,15 @@
 {
 "basename":"bioconductor-rcistarget.hg19.motifdbs.cisbponly.500bp-1.4.0-r36_1.tar.bz2",
 "total":265
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rcistarget.hg19.motifdbs.cisbponly.500bp-1.4.0-r36_1.tar.bz2",
+"total":267
 }
 ]
 }

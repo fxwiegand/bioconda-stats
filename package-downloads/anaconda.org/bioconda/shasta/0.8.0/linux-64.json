@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"shasta-0.8.0-h7d875b9_0.tar.bz2",
-"total":144
+"total":147
 }
 ],
 "downloads_per_date":[
@@ -210,6 +210,10 @@
 {
 "date":"2021-12-31",
 "total":144
+},
+{
+"date":"2022-01-01",
+"total":147
 }
 ],
 "package":"shasta",
@@ -661,6 +665,15 @@
 {
 "basename":"shasta-0.8.0-h7d875b9_0.tar.bz2",
 "total":144
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"shasta-0.8.0-h7d875b9_0.tar.bz2",
+"total":147
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-metavolcanor-1.2.0-r40_0.tar.bz2",
-"total":299
+"total":301
 }
 ],
 "downloads_per_date":[
@@ -746,6 +746,10 @@
 {
 "date":"2021-12-31",
 "total":299
+},
+{
+"date":"2022-01-01",
+"total":301
 }
 ],
 "package":"bioconductor-metavolcanor",
@@ -1170,6 +1174,15 @@
 {
 "basename":"bioconductor-metavolcanor-1.2.0-r40_0.tar.bz2",
 "total":299
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-metavolcanor-1.2.0-r40_0.tar.bz2",
+"total":301
 }
 ]
 }

@@ -216,6 +216,10 @@
 {
 "date":"2021-12-31",
 "total":105
+},
+{
+"date":"2022-01-01",
+"total":107
 }
 ],
 "downloads_per_subdir":[
@@ -225,7 +229,7 @@
 },
 {
 "subdir":"osx-64",
-"total":81
+"total":83
 }
 ],
 "package":"bioconductor-profilescoredist",
@@ -689,6 +693,15 @@
 {
 "subdir":"osx-64",
 "total":81
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":83
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-tcc-1.22.0-r351_0.tar.bz2",
-"total":412
+"total":414
 }
 ],
 "downloads_per_date":[
@@ -746,6 +746,10 @@
 {
 "date":"2021-12-31",
 "total":412
+},
+{
+"date":"2022-01-01",
+"total":414
 }
 ],
 "package":"bioconductor-tcc",
@@ -1188,6 +1192,15 @@
 {
 "basename":"bioconductor-tcc-1.22.0-r351_0.tar.bz2",
 "total":412
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-tcc-1.22.0-r351_0.tar.bz2",
+"total":414
 }
 ]
 }

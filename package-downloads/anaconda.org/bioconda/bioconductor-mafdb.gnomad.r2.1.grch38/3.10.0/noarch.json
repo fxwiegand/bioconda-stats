@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-mafdb.gnomad.r2.1.grch38-3.10.0-r41hdfd78af_4.tar.bz2",
-"total":113
+"total":115
 },
 {
 "basename":"bioconductor-mafdb.gnomad.r2.1.grch38-3.10.0-r41hdfd78af_3.tar.bz2",
@@ -754,6 +754,10 @@
 {
 "date":"2021-12-31",
 "total":411
+},
+{
+"date":"2022-01-01",
+"total":413
 }
 ],
 "package":"bioconductor-mafdb.gnomad.r2.1.grch38",
@@ -1286,6 +1290,15 @@
 {
 "basename":"bioconductor-mafdb.gnomad.r2.1.grch38-3.10.0-r41hdfd78af_4.tar.bz2",
 "total":113
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mafdb.gnomad.r2.1.grch38-3.10.0-r41hdfd78af_4.tar.bz2",
+"total":115
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"minced-0.4.0-2.tar.bz2",
-"total":363
+"total":365
 },
 {
 "basename":"minced-0.4.0-0.tar.bz2",
@@ -762,6 +762,10 @@
 {
 "date":"2021-12-31",
 "total":3305
+},
+{
+"date":"2022-01-01",
+"total":3307
 }
 ],
 "package":"minced",
@@ -1293,6 +1297,15 @@
 {
 "basename":"minced-0.4.0-2.tar.bz2",
 "total":363
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"minced-0.4.0-2.tar.bz2",
+"total":365
 }
 ]
 }

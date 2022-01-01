@@ -15,7 +15,7 @@
 },
 {
 "basename":"berokka-0.2.3-pl526_1.tar.bz2",
-"total":320
+"total":322
 }
 ],
 "downloads_per_date":[
@@ -802,6 +802,10 @@
 {
 "date":"2021-12-31",
 "total":633
+},
+{
+"date":"2022-01-01",
+"total":635
 }
 ],
 "package":"berokka",
@@ -1350,6 +1354,15 @@
 {
 "basename":"berokka-0.2.3-pl526_1.tar.bz2",
 "total":320
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"berokka-0.2.3-pl526_1.tar.bz2",
+"total":322
 }
 ]
 }

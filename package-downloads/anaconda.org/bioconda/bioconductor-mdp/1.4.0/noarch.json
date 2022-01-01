@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-mdp-1.4.0-r36_1.tar.bz2",
-"total":337
+"total":339
 }
 ],
 "downloads_per_date":[
@@ -754,6 +754,10 @@
 {
 "date":"2021-12-31",
 "total":510
+},
+{
+"date":"2022-01-01",
+"total":512
 }
 ],
 "package":"bioconductor-mdp",
@@ -1192,6 +1196,15 @@
 {
 "basename":"bioconductor-mdp-1.4.0-r36_1.tar.bz2",
 "total":337
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mdp-1.4.0-r36_1.tar.bz2",
+"total":339
 }
 ]
 }

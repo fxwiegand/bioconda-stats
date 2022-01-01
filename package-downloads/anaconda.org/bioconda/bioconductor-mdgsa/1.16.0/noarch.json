@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-mdgsa-1.16.0-r36_1.tar.bz2",
-"total":336
+"total":338
 }
 ],
 "downloads_per_date":[
@@ -746,6 +746,10 @@
 {
 "date":"2021-12-31",
 "total":336
+},
+{
+"date":"2022-01-01",
+"total":338
 }
 ],
 "package":"bioconductor-mdgsa",
@@ -1179,6 +1183,15 @@
 {
 "basename":"bioconductor-mdgsa-1.16.0-r36_1.tar.bz2",
 "total":336
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mdgsa-1.16.0-r36_1.tar.bz2",
+"total":338
 }
 ]
 }

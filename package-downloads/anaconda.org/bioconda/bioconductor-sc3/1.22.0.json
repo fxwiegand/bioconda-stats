@@ -232,6 +232,10 @@
 {
 "date":"2021-12-31",
 "total":154
+},
+{
+"date":"2022-01-01",
+"total":156
 }
 ],
 "downloads_per_subdir":[
@@ -241,7 +245,7 @@
 },
 {
 "subdir":"osx-64",
-"total":121
+"total":123
 }
 ],
 "package":"bioconductor-sc3",
@@ -779,6 +783,15 @@
 {
 "subdir":"osx-64",
 "total":121
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":123
 }
 ]
 }

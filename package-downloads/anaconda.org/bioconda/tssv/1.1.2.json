@@ -184,6 +184,10 @@
 {
 "date":"2021-12-31",
 "total":188
+},
+{
+"date":"2022-01-01",
+"total":190
 }
 ],
 "downloads_per_subdir":[
@@ -193,7 +197,7 @@
 },
 {
 "subdir":"osx-64",
-"total":127
+"total":129
 }
 ],
 "package":"tssv",
@@ -636,6 +640,15 @@
 {
 "subdir":"osx-64",
 "total":127
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":129
 }
 ]
 }

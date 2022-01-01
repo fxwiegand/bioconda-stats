@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-ipo-1.8.1-r351_1.tar.bz2",
-"total":379
+"total":381
 }
 ],
 "downloads_per_date":[
@@ -750,6 +750,10 @@
 {
 "date":"2021-12-31",
 "total":548
+},
+{
+"date":"2022-01-01",
+"total":550
 }
 ],
 "package":"bioconductor-ipo",
@@ -1197,6 +1201,15 @@
 {
 "basename":"bioconductor-ipo-1.8.1-r351_1.tar.bz2",
 "total":379
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ipo-1.8.1-r351_1.tar.bz2",
+"total":381
 }
 ]
 }

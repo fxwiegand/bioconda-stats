@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-txdb.celegans.ucsc.ce11.ensgene-3.12.0-r41hdfd78af_3.tar.bz2",
-"total":67
+"total":69
 },
 {
 "basename":"bioconductor-txdb.celegans.ucsc.ce11.ensgene-3.12.0-r41hdfd78af_2.tar.bz2",
@@ -750,6 +750,10 @@
 {
 "date":"2021-12-31",
 "total":329
+},
+{
+"date":"2022-01-01",
+"total":331
 }
 ],
 "package":"bioconductor-txdb.celegans.ucsc.ce11.ensgene",
@@ -1202,6 +1206,15 @@
 {
 "basename":"bioconductor-txdb.celegans.ucsc.ce11.ensgene-3.12.0-r41hdfd78af_3.tar.bz2",
 "total":67
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-txdb.celegans.ucsc.ce11.ensgene-3.12.0-r41hdfd78af_3.tar.bz2",
+"total":69
 }
 ]
 }

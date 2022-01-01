@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-mesh.cin.eg.db-1.13.0-r40hdfd78af_3.tar.bz2",
-"total":251
+"total":253
 }
 ],
 "downloads_per_date":[
@@ -738,6 +738,10 @@
 {
 "date":"2021-12-31",
 "total":462
+},
+{
+"date":"2022-01-01",
+"total":464
 }
 ],
 "package":"bioconductor-mesh.cin.eg.db",
@@ -1231,6 +1235,15 @@
 {
 "basename":"bioconductor-mesh.cin.eg.db-1.13.0-r40hdfd78af_3.tar.bz2",
 "total":251
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mesh.cin.eg.db-1.13.0-r40hdfd78af_3.tar.bz2",
+"total":253
 }
 ]
 }

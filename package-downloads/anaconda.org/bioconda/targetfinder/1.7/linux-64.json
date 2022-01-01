@@ -7,7 +7,7 @@
 },
 {
 "basename":"targetfinder-1.7-pl526_2.tar.bz2",
-"total":447
+"total":448
 },
 {
 "basename":"targetfinder-1.7-1.tar.bz2",
@@ -246,6 +246,10 @@
 {
 "date":"2021-12-31",
 "total":2316
+},
+{
+"date":"2022-01-01",
+"total":2317
 }
 ],
 "package":"targetfinder",
@@ -430,6 +434,15 @@
 {
 "basename":"targetfinder-1.7-1.tar.bz2",
 "total":1471
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"targetfinder-1.7-pl526_2.tar.bz2",
+"total":448
 }
 ]
 }

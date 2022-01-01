@@ -192,6 +192,10 @@
 {
 "date":"2021-12-31",
 "total":197
+},
+{
+"date":"2022-01-01",
+"total":199
 }
 ],
 "downloads_per_subdir":[
@@ -201,7 +205,7 @@
 },
 {
 "subdir":"osx-64",
-"total":105
+"total":107
 }
 ],
 "package":"tigmint",
@@ -665,6 +669,15 @@
 {
 "subdir":"osx-64",
 "total":105
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":107
 }
 ]
 }

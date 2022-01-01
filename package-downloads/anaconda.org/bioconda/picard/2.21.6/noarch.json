@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"picard-2.21.6-0.tar.bz2",
-"total":3501
+"total":3503
 }
 ],
 "downloads_per_date":[
@@ -802,6 +802,10 @@
 {
 "date":"2021-12-31",
 "total":3501
+},
+{
+"date":"2022-01-01",
+"total":3503
 }
 ],
 "package":"picard",
@@ -1271,6 +1275,15 @@
 {
 "basename":"picard-2.21.6-0.tar.bz2",
 "total":3501
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"picard-2.21.6-0.tar.bz2",
+"total":3503
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rmassbankdata-1.26.0-r40_0.tar.bz2",
-"total":273
+"total":275
 }
 ],
 "downloads_per_date":[
@@ -726,6 +726,10 @@
 {
 "date":"2021-12-31",
 "total":273
+},
+{
+"date":"2022-01-01",
+"total":275
 }
 ],
 "package":"bioconductor-rmassbankdata",
@@ -1114,6 +1118,15 @@
 {
 "basename":"bioconductor-rmassbankdata-1.26.0-r40_0.tar.bz2",
 "total":273
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rmassbankdata-1.26.0-r40_0.tar.bz2",
+"total":275
 }
 ]
 }

@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-lumimouseall.db-1.22.0-r41hdfd78af_8.tar.bz2",
-"total":109
+"total":111
 },
 {
 "basename":"bioconductor-lumimouseall.db-1.22.0-r351_0.tar.bz2",
@@ -794,6 +794,10 @@
 {
 "date":"2021-12-31",
 "total":745
+},
+{
+"date":"2022-01-01",
+"total":747
 }
 ],
 "package":"bioconductor-lumimouseall.db",
@@ -1424,6 +1428,15 @@
 {
 "basename":"bioconductor-lumimouseall.db-1.22.0-r41hdfd78af_8.tar.bz2",
 "total":109
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-lumimouseall.db-1.22.0-r41hdfd78af_8.tar.bz2",
+"total":111
 }
 ]
 }

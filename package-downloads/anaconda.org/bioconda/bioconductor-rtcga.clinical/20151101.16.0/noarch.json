@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rtcga.clinical-20151101.16.0-r36_0.tar.bz2",
-"total":270
+"total":272
 }
 ],
 "downloads_per_date":[
@@ -702,6 +702,10 @@
 {
 "date":"2021-12-31",
 "total":270
+},
+{
+"date":"2022-01-01",
+"total":272
 }
 ],
 "package":"bioconductor-rtcga.clinical",
@@ -1054,6 +1058,15 @@
 {
 "basename":"bioconductor-rtcga.clinical-20151101.16.0-r36_0.tar.bz2",
 "total":270
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rtcga.clinical-20151101.16.0-r36_0.tar.bz2",
+"total":272
 }
 ]
 }

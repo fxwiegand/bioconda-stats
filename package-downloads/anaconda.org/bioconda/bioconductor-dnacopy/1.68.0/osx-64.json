@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-dnacopy-1.68.0-r41hab9ba07_0.tar.bz2",
-"total":192
+"total":194
 }
 ],
 "downloads_per_date":[
@@ -246,6 +246,10 @@
 {
 "date":"2021-12-31",
 "total":192
+},
+{
+"date":"2022-01-01",
+"total":194
 }
 ],
 "package":"bioconductor-dnacopy",
@@ -769,6 +773,15 @@
 {
 "basename":"bioconductor-dnacopy-1.68.0-r41hab9ba07_0.tar.bz2",
 "total":192
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-dnacopy-1.68.0-r41hab9ba07_0.tar.bz2",
+"total":194
 }
 ]
 }

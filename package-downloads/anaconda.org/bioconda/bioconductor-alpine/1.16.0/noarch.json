@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-alpine-1.16.0-r40hdfd78af_1.tar.bz2",
-"total":223
+"total":225
 }
 ],
 "downloads_per_date":[
@@ -710,6 +710,10 @@
 {
 "date":"2021-12-31",
 "total":293
+},
+{
+"date":"2022-01-01",
+"total":295
 }
 ],
 "package":"bioconductor-alpine",
@@ -1094,6 +1098,15 @@
 {
 "basename":"bioconductor-alpine-1.16.0-r40hdfd78af_1.tar.bz2",
 "total":223
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-alpine-1.16.0-r40hdfd78af_1.tar.bz2",
+"total":225
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-topgo-2.40.0-r40_0.tar.bz2",
-"total":467
+"total":469
 }
 ],
 "downloads_per_date":[
@@ -802,6 +802,10 @@
 {
 "date":"2021-12-31",
 "total":467
+},
+{
+"date":"2022-01-01",
+"total":469
 }
 ],
 "package":"bioconductor-topgo",
@@ -1271,6 +1275,15 @@
 {
 "basename":"bioconductor-topgo-2.40.0-r40_0.tar.bz2",
 "total":467
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-topgo-2.40.0-r40_0.tar.bz2",
+"total":469
 }
 ]
 }

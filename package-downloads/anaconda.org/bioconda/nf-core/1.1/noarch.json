@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"nf-core-1.1-py_0.tar.bz2",
-"total":392
+"total":394
 }
 ],
 "downloads_per_date":[
@@ -754,6 +754,10 @@
 {
 "date":"2021-12-31",
 "total":392
+},
+{
+"date":"2022-01-01",
+"total":394
 }
 ],
 "package":"nf-core",
@@ -1232,6 +1236,15 @@
 {
 "basename":"nf-core-1.1-py_0.tar.bz2",
 "total":392
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"nf-core-1.1-py_0.tar.bz2",
+"total":394
 }
 ]
 }

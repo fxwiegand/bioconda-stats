@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-qpcrnorm-1.40.0-r351_1.tar.bz2",
-"total":377
+"total":379
 }
 ],
 "downloads_per_date":[
@@ -758,6 +758,10 @@
 {
 "date":"2021-12-31",
 "total":531
+},
+{
+"date":"2022-01-01",
+"total":533
 }
 ],
 "package":"bioconductor-qpcrnorm",
@@ -1246,6 +1250,15 @@
 {
 "basename":"bioconductor-qpcrnorm-1.40.0-r351_1.tar.bz2",
 "total":377
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-qpcrnorm-1.40.0-r351_1.tar.bz2",
+"total":379
 }
 ]
 }

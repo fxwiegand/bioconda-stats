@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-illuminahumanmethylation450kanno.ilmn12.hg19-0.6.0-r41hdfd78af_13.tar.bz2",
-"total":128
+"total":130
 },
 {
 "basename":"bioconductor-illuminahumanmethylation450kanno.ilmn12.hg19-0.6.0-r36_7.tar.bz2",
@@ -846,6 +846,10 @@
 {
 "date":"2021-12-31",
 "total":2320
+},
+{
+"date":"2022-01-01",
+"total":2322
 }
 ],
 "package":"bioconductor-illuminahumanmethylation450kanno.ilmn12.hg19",
@@ -1586,6 +1590,15 @@
 {
 "basename":"bioconductor-illuminahumanmethylation450kanno.ilmn12.hg19-0.6.0-r41hdfd78af_13.tar.bz2",
 "total":128
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-illuminahumanmethylation450kanno.ilmn12.hg19-0.6.0-r41hdfd78af_13.tar.bz2",
+"total":130
 }
 ]
 }

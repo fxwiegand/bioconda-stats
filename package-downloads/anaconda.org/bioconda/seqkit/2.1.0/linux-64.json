@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"seqkit-2.1.0-h9ee0642_0.tar.bz2",
-"total":1767
+"total":1769
 }
 ],
 "downloads_per_date":[
@@ -190,6 +190,10 @@
 {
 "date":"2021-12-31",
 "total":1767
+},
+{
+"date":"2022-01-01",
+"total":1769
 }
 ],
 "package":"seqkit",
@@ -605,6 +609,15 @@
 {
 "basename":"seqkit-2.1.0-h9ee0642_0.tar.bz2",
 "total":1767
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"seqkit-2.1.0-h9ee0642_0.tar.bz2",
+"total":1769
 }
 ]
 }

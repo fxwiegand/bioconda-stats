@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-meshdbi-1.24.0-r40_0.tar.bz2",
-"total":423
+"total":425
 }
 ],
 "downloads_per_date":[
@@ -738,6 +738,10 @@
 {
 "date":"2021-12-31",
 "total":423
+},
+{
+"date":"2022-01-01",
+"total":425
 }
 ],
 "package":"bioconductor-meshdbi",
@@ -1126,6 +1130,15 @@
 {
 "basename":"bioconductor-meshdbi-1.24.0-r40_0.tar.bz2",
 "total":423
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-meshdbi-1.24.0-r40_0.tar.bz2",
+"total":425
 }
 ]
 }

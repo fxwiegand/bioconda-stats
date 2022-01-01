@@ -64,6 +64,10 @@
 {
 "date":"2021-12-31",
 "total":37
+},
+{
+"date":"2022-01-01",
+"total":39
 }
 ],
 "downloads_per_subdir":[
@@ -73,7 +77,7 @@
 },
 {
 "subdir":"osx-64",
-"total":29
+"total":31
 }
 ],
 "package":"covtobed",
@@ -199,6 +203,15 @@
 {
 "subdir":"osx-64",
 "total":29
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":31
 }
 ]
 }

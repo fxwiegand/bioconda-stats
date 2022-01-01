@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"python-chado-2.2.5-py_0.tar.bz2",
-"total":433
+"total":435
 }
 ],
 "downloads_per_date":[
@@ -734,6 +734,10 @@
 {
 "date":"2021-12-31",
 "total":433
+},
+{
+"date":"2022-01-01",
+"total":435
 }
 ],
 "package":"python-chado",
@@ -1131,6 +1135,15 @@
 {
 "basename":"python-chado-2.2.5-py_0.tar.bz2",
 "total":433
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"python-chado-2.2.5-py_0.tar.bz2",
+"total":435
 }
 ]
 }

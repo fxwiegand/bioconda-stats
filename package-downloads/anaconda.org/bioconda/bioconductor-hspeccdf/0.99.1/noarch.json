@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-hspeccdf-0.99.1-r41hdfd78af_8.tar.bz2",
-"total":105
+"total":107
 },
 {
 "basename":"bioconductor-hspeccdf-0.99.1-r351_0.tar.bz2",
@@ -778,6 +778,10 @@
 {
 "date":"2021-12-31",
 "total":755
+},
+{
+"date":"2022-01-01",
+"total":757
 }
 ],
 "package":"bioconductor-hspeccdf",
@@ -1348,6 +1352,15 @@
 {
 "basename":"bioconductor-hspeccdf-0.99.1-r41hdfd78af_8.tar.bz2",
 "total":105
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hspeccdf-0.99.1-r41hdfd78af_8.tar.bz2",
+"total":107
 }
 ]
 }

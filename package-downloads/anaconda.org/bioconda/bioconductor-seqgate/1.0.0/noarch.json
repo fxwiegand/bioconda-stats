@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-seqgate-1.0.0-r40_0.tar.bz2",
-"total":253
+"total":255
 }
 ],
 "downloads_per_date":[
@@ -710,6 +710,10 @@
 {
 "date":"2021-12-31",
 "total":253
+},
+{
+"date":"2022-01-01",
+"total":255
 }
 ],
 "package":"bioconductor-seqgate",
@@ -1062,6 +1066,15 @@
 {
 "basename":"bioconductor-seqgate-1.0.0-r40_0.tar.bz2",
 "total":253
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-seqgate-1.0.0-r40_0.tar.bz2",
+"total":255
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-gigsea-1.4.0-r36_0.tar.bz2",
-"total":300
+"total":302
 }
 ],
 "downloads_per_date":[
@@ -722,6 +722,10 @@
 {
 "date":"2021-12-31",
 "total":300
+},
+{
+"date":"2022-01-01",
+"total":302
 }
 ],
 "package":"bioconductor-gigsea",
@@ -1065,6 +1069,15 @@
 {
 "basename":"bioconductor-gigsea-1.4.0-r36_0.tar.bz2",
 "total":300
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-gigsea-1.4.0-r36_0.tar.bz2",
+"total":302
 }
 ]
 }

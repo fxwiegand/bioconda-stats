@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-fly.db0-3.12.0-r40hdfd78af_1.tar.bz2",
-"total":257
+"total":259
 }
 ],
 "downloads_per_date":[
@@ -734,6 +734,10 @@
 {
 "date":"2021-12-31",
 "total":309
+},
+{
+"date":"2022-01-01",
+"total":311
 }
 ],
 "package":"bioconductor-fly.db0",
@@ -1187,6 +1191,15 @@
 {
 "basename":"bioconductor-fly.db0-3.12.0-r40hdfd78af_1.tar.bz2",
 "total":257
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-fly.db0-3.12.0-r40hdfd78af_1.tar.bz2",
+"total":259
 }
 ]
 }

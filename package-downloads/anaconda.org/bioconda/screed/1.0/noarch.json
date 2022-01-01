@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"screed-1.0-py_1.tar.bz2",
-"total":3840
+"total":3842
 }
 ],
 "downloads_per_date":[
@@ -738,6 +738,10 @@
 {
 "date":"2021-12-31",
 "total":3840
+},
+{
+"date":"2022-01-01",
+"total":3842
 }
 ],
 "package":"screed",
@@ -1126,6 +1130,15 @@
 {
 "basename":"screed-1.0-py_1.tar.bz2",
 "total":3840
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"screed-1.0-py_1.tar.bz2",
+"total":3842
 }
 ]
 }

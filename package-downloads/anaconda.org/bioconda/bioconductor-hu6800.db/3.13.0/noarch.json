@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-hu6800.db-3.13.0-r41hdfd78af_0.tar.bz2",
-"total":95
+"total":97
 }
 ],
 "downloads_per_date":[
@@ -202,6 +202,10 @@
 {
 "date":"2021-12-31",
 "total":95
+},
+{
+"date":"2022-01-01",
+"total":97
 }
 ],
 "package":"bioconductor-hu6800.db",
@@ -572,6 +576,15 @@
 {
 "basename":"bioconductor-hu6800.db-3.13.0-r41hdfd78af_0.tar.bz2",
 "total":95
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hu6800.db-3.13.0-r41hdfd78af_0.tar.bz2",
+"total":97
 }
 ]
 }

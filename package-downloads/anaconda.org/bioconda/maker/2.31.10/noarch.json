@@ -11,7 +11,7 @@
 },
 {
 "basename":"maker-2.31.10-pl526h61907ee_17.tar.bz2",
-"total":7827
+"total":7829
 }
 ],
 "downloads_per_date":[
@@ -798,6 +798,10 @@
 {
 "date":"2021-12-31",
 "total":14098
+},
+{
+"date":"2022-01-01",
+"total":14100
 }
 ],
 "package":"maker",
@@ -1302,6 +1306,15 @@
 {
 "basename":"maker-2.31.10-pl526h61907ee_17.tar.bz2",
 "total":7827
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"maker-2.31.10-pl526h61907ee_17.tar.bz2",
+"total":7829
 }
 ]
 }

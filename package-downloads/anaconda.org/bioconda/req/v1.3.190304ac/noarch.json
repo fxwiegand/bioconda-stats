@@ -7,7 +7,7 @@
 },
 {
 "basename":"req-v1.3.190304ac-1.tar.bz2",
-"total":318
+"total":320
 }
 ],
 "downloads_per_date":[
@@ -730,6 +730,10 @@
 {
 "date":"2021-12-31",
 "total":412
+},
+{
+"date":"2022-01-01",
+"total":414
 }
 ],
 "package":"req",
@@ -1141,6 +1145,15 @@
 {
 "basename":"req-v1.3.190304ac-1.tar.bz2",
 "total":318
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"req-v1.3.190304ac-1.tar.bz2",
+"total":320
 }
 ]
 }

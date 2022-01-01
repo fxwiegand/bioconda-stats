@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-medipsdata-1.20.0-r36_1.tar.bz2",
-"total":304
+"total":306
 }
 ],
 "downloads_per_date":[
@@ -730,6 +730,10 @@
 {
 "date":"2021-12-31",
 "total":429
+},
+{
+"date":"2022-01-01",
+"total":431
 }
 ],
 "package":"bioconductor-medipsdata",
@@ -1151,6 +1155,15 @@
 {
 "basename":"bioconductor-medipsdata-1.20.0-r36_1.tar.bz2",
 "total":304
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-medipsdata-1.20.0-r36_1.tar.bz2",
+"total":306
 }
 ]
 }

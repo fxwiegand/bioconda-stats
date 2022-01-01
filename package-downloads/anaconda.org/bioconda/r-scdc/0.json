@@ -84,6 +84,10 @@
 {
 "date":"2021-12-31",
 "total":53
+},
+{
+"date":"2022-01-01",
+"total":55
 }
 ],
 "downloads_per_subdir":[
@@ -93,7 +97,7 @@
 },
 {
 "subdir":"osx-64",
-"total":43
+"total":45
 }
 ],
 "package":"r-scdc",
@@ -250,6 +254,15 @@
 {
 "subdir":"osx-64",
 "total":43
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":45
 }
 ]
 }

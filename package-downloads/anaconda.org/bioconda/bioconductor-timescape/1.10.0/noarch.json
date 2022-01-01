@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-timescape-1.10.0-r36_0.tar.bz2",
-"total":310
+"total":312
 }
 ],
 "downloads_per_date":[
@@ -742,6 +742,10 @@
 {
 "date":"2021-12-31",
 "total":310
+},
+{
+"date":"2022-01-01",
+"total":312
 }
 ],
 "package":"bioconductor-timescape",
@@ -1166,6 +1170,15 @@
 {
 "basename":"bioconductor-timescape-1.10.0-r36_0.tar.bz2",
 "total":310
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-timescape-1.10.0-r36_0.tar.bz2",
+"total":312
 }
 ]
 }

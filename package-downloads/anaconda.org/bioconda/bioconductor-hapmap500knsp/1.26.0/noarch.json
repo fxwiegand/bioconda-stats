@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-hapmap500knsp-1.26.0-r36_1.tar.bz2",
-"total":303
+"total":305
 }
 ],
 "downloads_per_date":[
@@ -734,6 +734,10 @@
 {
 "date":"2021-12-31",
 "total":417
+},
+{
+"date":"2022-01-01",
+"total":419
 }
 ],
 "package":"bioconductor-hapmap500knsp",
@@ -1196,6 +1200,15 @@
 {
 "basename":"bioconductor-hapmap500knsp-1.26.0-r36_1.tar.bz2",
 "total":303
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hapmap500knsp-1.26.0-r36_1.tar.bz2",
+"total":305
 }
 ]
 }

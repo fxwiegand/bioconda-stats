@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-geneattribution-1.20.0-r41hdfd78af_0.tar.bz2",
-"total":110
+"total":112
 }
 ],
 "downloads_per_date":[
@@ -222,6 +222,10 @@
 {
 "date":"2021-12-31",
 "total":110
+},
+{
+"date":"2022-01-01",
+"total":112
 }
 ],
 "package":"bioconductor-geneattribution",
@@ -700,6 +704,15 @@
 {
 "basename":"bioconductor-geneattribution-1.20.0-r41hdfd78af_0.tar.bz2",
 "total":110
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-geneattribution-1.20.0-r41hdfd78af_0.tar.bz2",
+"total":112
 }
 ]
 }

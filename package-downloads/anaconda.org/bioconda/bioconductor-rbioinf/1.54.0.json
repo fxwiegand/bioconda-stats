@@ -204,6 +204,10 @@
 {
 "date":"2021-12-31",
 "total":104
+},
+{
+"date":"2022-01-01",
+"total":106
 }
 ],
 "downloads_per_subdir":[
@@ -213,7 +217,7 @@
 },
 {
 "subdir":"osx-64",
-"total":80
+"total":82
 }
 ],
 "package":"bioconductor-rbioinf",
@@ -659,6 +663,15 @@
 {
 "subdir":"osx-64",
 "total":80
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":82
 }
 ]
 }

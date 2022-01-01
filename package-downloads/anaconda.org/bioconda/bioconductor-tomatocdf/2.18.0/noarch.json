@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-tomatocdf-2.18.0-r41hdfd78af_9.tar.bz2",
-"total":97
+"total":99
 },
 {
 "basename":"bioconductor-tomatocdf-2.18.0-r351_1.tar.bz2",
@@ -778,6 +778,10 @@
 {
 "date":"2021-12-31",
 "total":842
+},
+{
+"date":"2022-01-01",
+"total":844
 }
 ],
 "package":"bioconductor-tomatocdf",
@@ -1401,6 +1405,15 @@
 {
 "basename":"bioconductor-tomatocdf-2.18.0-r41hdfd78af_9.tar.bz2",
 "total":97
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-tomatocdf-2.18.0-r41hdfd78af_9.tar.bz2",
+"total":99
 }
 ]
 }

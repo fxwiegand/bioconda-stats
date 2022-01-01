@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"pbsv-2.8.0-h9ee0642_0.tar.bz2",
-"total":38
+"total":42
 }
 ],
 "downloads_per_date":[
@@ -70,6 +70,10 @@
 {
 "date":"2021-12-31",
 "total":38
+},
+{
+"date":"2022-01-01",
+"total":42
 }
 ],
 "package":"pbsv",
@@ -215,6 +219,15 @@
 {
 "basename":"pbsv-2.8.0-h9ee0642_0.tar.bz2",
 "total":38
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"pbsv-2.8.0-h9ee0642_0.tar.bz2",
+"total":42
 }
 ]
 }

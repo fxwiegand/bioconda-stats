@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"eoulsan-2.3-1.tar.bz2",
-"total":409
+"total":411
 }
 ],
 "downloads_per_date":[
@@ -770,6 +770,10 @@
 {
 "date":"2021-12-31",
 "total":409
+},
+{
+"date":"2022-01-01",
+"total":411
 }
 ],
 "package":"eoulsan",
@@ -1230,6 +1234,15 @@
 {
 "basename":"eoulsan-2.3-1.tar.bz2",
 "total":409
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"eoulsan-2.3-1.tar.bz2",
+"total":411
 }
 ]
 }

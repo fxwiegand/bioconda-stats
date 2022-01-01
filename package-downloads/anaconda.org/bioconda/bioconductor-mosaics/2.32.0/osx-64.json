@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-mosaics-2.32.0-pl5321r41h832b226_0.tar.bz2",
-"total":119
+"total":121
 }
 ],
 "downloads_per_date":[
@@ -234,6 +234,10 @@
 {
 "date":"2021-12-31",
 "total":119
+},
+{
+"date":"2022-01-01",
+"total":121
 }
 ],
 "package":"bioconductor-mosaics",
@@ -730,6 +734,15 @@
 {
 "basename":"bioconductor-mosaics-2.32.0-pl5321r41h832b226_0.tar.bz2",
 "total":119
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mosaics-2.32.0-pl5321r41h832b226_0.tar.bz2",
+"total":121
 }
 ]
 }

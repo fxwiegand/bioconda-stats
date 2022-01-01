@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-genomicscores-1.6.0-r351_0.tar.bz2",
-"total":661
+"total":663
 }
 ],
 "downloads_per_date":[
@@ -762,6 +762,10 @@
 {
 "date":"2021-12-31",
 "total":661
+},
+{
+"date":"2022-01-01",
+"total":663
 }
 ],
 "package":"bioconductor-genomicscores",
@@ -1231,6 +1235,15 @@
 {
 "basename":"bioconductor-genomicscores-1.6.0-r351_0.tar.bz2",
 "total":661
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-genomicscores-1.6.0-r351_0.tar.bz2",
+"total":663
 }
 ]
 }

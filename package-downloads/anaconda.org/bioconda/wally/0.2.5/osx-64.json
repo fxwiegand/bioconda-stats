@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"wally-0.2.5-h6d7b568_0.tar.bz2",
-"total":62
+"total":64
 }
 ],
 "downloads_per_date":[
@@ -126,6 +126,10 @@
 {
 "date":"2021-12-31",
 "total":62
+},
+{
+"date":"2022-01-01",
+"total":64
 }
 ],
 "package":"wally",
@@ -397,6 +401,15 @@
 {
 "basename":"wally-0.2.5-h6d7b568_0.tar.bz2",
 "total":62
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"wally-0.2.5-h6d7b568_0.tar.bz2",
+"total":64
 }
 ]
 }

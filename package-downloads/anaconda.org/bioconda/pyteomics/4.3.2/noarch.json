@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"pyteomics-4.3.2-pyh9f0ad1d_0.tar.bz2",
-"total":3548
+"total":3550
 },
 {
 "basename":"pyteomics-4.3.2-pyh864c0ab_1.tar.bz2",
@@ -746,6 +746,10 @@
 {
 "date":"2021-12-31",
 "total":7658
+},
+{
+"date":"2022-01-01",
+"total":7660
 }
 ],
 "package":"pyteomics",
@@ -1238,6 +1242,15 @@
 {
 "basename":"pyteomics-4.3.2-pyh864c0ab_1.tar.bz2",
 "total":4110
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"pyteomics-4.3.2-pyh9f0ad1d_0.tar.bz2",
+"total":3550
 }
 ]
 }

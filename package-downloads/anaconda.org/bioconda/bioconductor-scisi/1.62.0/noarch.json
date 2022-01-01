@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-scisi-1.62.0-r40hdfd78af_1.tar.bz2",
-"total":283
+"total":285
 }
 ],
 "downloads_per_date":[
@@ -750,6 +750,10 @@
 {
 "date":"2021-12-31",
 "total":364
+},
+{
+"date":"2022-01-01",
+"total":366
 }
 ],
 "package":"bioconductor-scisi",
@@ -1224,6 +1228,15 @@
 {
 "basename":"bioconductor-scisi-1.62.0-r40hdfd78af_1.tar.bz2",
 "total":283
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-scisi-1.62.0-r40hdfd78af_1.tar.bz2",
+"total":285
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-frmaexampledata-1.24.0-r40_0.tar.bz2",
-"total":252
+"total":254
 }
 ],
 "downloads_per_date":[
@@ -702,6 +702,10 @@
 {
 "date":"2021-12-31",
 "total":252
+},
+{
+"date":"2022-01-01",
+"total":254
 }
 ],
 "package":"bioconductor-frmaexampledata",
@@ -1036,6 +1040,15 @@
 {
 "basename":"bioconductor-frmaexampledata-1.24.0-r40_0.tar.bz2",
 "total":252
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-frmaexampledata-1.24.0-r40_0.tar.bz2",
+"total":254
 }
 ]
 }

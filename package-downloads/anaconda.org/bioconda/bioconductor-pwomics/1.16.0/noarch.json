@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-pwomics-1.16.0-r36_1.tar.bz2",
-"total":309
+"total":311
 }
 ],
 "downloads_per_date":[
@@ -718,6 +718,10 @@
 {
 "date":"2021-12-31",
 "total":309
+},
+{
+"date":"2022-01-01",
+"total":311
 }
 ],
 "package":"bioconductor-pwomics",
@@ -1061,6 +1065,15 @@
 {
 "basename":"bioconductor-pwomics-1.16.0-r36_1.tar.bz2",
 "total":309
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pwomics-1.16.0-r36_1.tar.bz2",
+"total":311
 }
 ]
 }

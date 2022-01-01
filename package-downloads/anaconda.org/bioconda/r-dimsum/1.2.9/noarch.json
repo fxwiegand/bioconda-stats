@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-dimsum-1.2.9-r41hdfd78af_0.tar.bz2",
-"total":124
+"total":126
 }
 ],
 "downloads_per_date":[
@@ -230,6 +230,10 @@
 {
 "date":"2021-12-31",
 "total":124
+},
+{
+"date":"2022-01-01",
+"total":126
 }
 ],
 "package":"r-dimsum",
@@ -708,6 +712,15 @@
 {
 "basename":"r-dimsum-1.2.9-r41hdfd78af_0.tar.bz2",
 "total":124
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"r-dimsum-1.2.9-r41hdfd78af_0.tar.bz2",
+"total":126
 }
 ]
 }

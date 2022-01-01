@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rols-2.12.0-r36_1.tar.bz2",
-"total":302
+"total":304
 }
 ],
 "downloads_per_date":[
@@ -706,6 +706,10 @@
 {
 "date":"2021-12-31",
 "total":302
+},
+{
+"date":"2022-01-01",
+"total":304
 }
 ],
 "package":"bioconductor-rols",
@@ -1040,6 +1044,15 @@
 {
 "basename":"bioconductor-rols-2.12.0-r36_1.tar.bz2",
 "total":302
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rols-2.12.0-r36_1.tar.bz2",
+"total":304
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-uniquorn-2.4.0-r36_1.tar.bz2",
-"total":312
+"total":314
 }
 ],
 "downloads_per_date":[
@@ -698,6 +698,10 @@
 {
 "date":"2021-12-31",
 "total":312
+},
+{
+"date":"2022-01-01",
+"total":314
 }
 ],
 "package":"bioconductor-uniquorn",
@@ -1041,6 +1045,15 @@
 {
 "basename":"bioconductor-uniquorn-2.4.0-r36_1.tar.bz2",
 "total":312
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-uniquorn-2.4.0-r36_1.tar.bz2",
+"total":314
 }
 ]
 }

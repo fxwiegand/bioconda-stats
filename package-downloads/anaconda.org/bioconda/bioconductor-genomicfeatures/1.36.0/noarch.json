@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-genomicfeatures-1.36.0-r36_0.tar.bz2",
-"total":382
+"total":384
 }
 ],
 "downloads_per_date":[
@@ -746,6 +746,10 @@
 {
 "date":"2021-12-31",
 "total":382
+},
+{
+"date":"2022-01-01",
+"total":384
 }
 ],
 "package":"bioconductor-genomicfeatures",
@@ -1197,6 +1201,15 @@
 {
 "basename":"bioconductor-genomicfeatures-1.36.0-r36_0.tar.bz2",
 "total":382
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-genomicfeatures-1.36.0-r36_0.tar.bz2",
+"total":384
 }
 ]
 }

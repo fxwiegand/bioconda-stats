@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-piano-1.22.0-r351_0.tar.bz2",
-"total":418
+"total":420
 }
 ],
 "downloads_per_date":[
@@ -710,6 +710,10 @@
 {
 "date":"2021-12-31",
 "total":418
+},
+{
+"date":"2022-01-01",
+"total":420
 }
 ],
 "package":"bioconductor-piano",
@@ -1062,6 +1066,15 @@
 {
 "basename":"bioconductor-piano-1.22.0-r351_0.tar.bz2",
 "total":418
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-piano-1.22.0-r351_0.tar.bz2",
+"total":420
 }
 ]
 }

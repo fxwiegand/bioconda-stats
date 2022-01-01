@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"tango-0.5.4-py_0.tar.bz2",
-"total":366
+"total":368
 }
 ],
 "downloads_per_date":[
@@ -734,6 +734,10 @@
 {
 "date":"2021-12-31",
 "total":366
+},
+{
+"date":"2022-01-01",
+"total":368
 }
 ],
 "package":"tango",
@@ -1167,6 +1171,15 @@
 {
 "basename":"tango-0.5.4-py_0.tar.bz2",
 "total":366
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"tango-0.5.4-py_0.tar.bz2",
+"total":368
 }
 ]
 }

@@ -236,6 +236,10 @@
 {
 "date":"2021-12-31",
 "total":148
+},
+{
+"date":"2022-01-01",
+"total":150
 }
 ],
 "downloads_per_subdir":[
@@ -245,7 +249,7 @@
 },
 {
 "subdir":"osx-64",
-"total":121
+"total":123
 }
 ],
 "package":"bioconductor-smap",
@@ -758,6 +762,15 @@
 {
 "subdir":"osx-64",
 "total":121
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":123
 }
 ]
 }

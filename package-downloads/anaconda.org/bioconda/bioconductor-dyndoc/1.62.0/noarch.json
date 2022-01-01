@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-dyndoc-1.62.0-r36_1.tar.bz2",
-"total":343
+"total":345
 }
 ],
 "downloads_per_date":[
@@ -734,6 +734,10 @@
 {
 "date":"2021-12-31",
 "total":490
+},
+{
+"date":"2022-01-01",
+"total":492
 }
 ],
 "package":"bioconductor-dyndoc",
@@ -1199,6 +1203,15 @@
 {
 "basename":"bioconductor-dyndoc-1.62.0-r36_1.tar.bz2",
 "total":343
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-dyndoc-1.62.0-r36_1.tar.bz2",
+"total":345
 }
 ]
 }

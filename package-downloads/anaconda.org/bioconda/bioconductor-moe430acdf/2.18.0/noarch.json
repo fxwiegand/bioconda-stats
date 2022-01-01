@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-moe430acdf-2.18.0-r41hdfd78af_9.tar.bz2",
-"total":71
+"total":73
 },
 {
 "basename":"bioconductor-moe430acdf-2.18.0-r36_4.tar.bz2",
@@ -790,6 +790,10 @@
 {
 "date":"2021-12-31",
 "total":865
+},
+{
+"date":"2022-01-01",
+"total":867
 }
 ],
 "package":"bioconductor-moe430acdf",
@@ -1419,6 +1423,15 @@
 {
 "basename":"bioconductor-moe430acdf-2.18.0-r41hdfd78af_9.tar.bz2",
 "total":71
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-moe430acdf-2.18.0-r41hdfd78af_9.tar.bz2",
+"total":73
 }
 ]
 }

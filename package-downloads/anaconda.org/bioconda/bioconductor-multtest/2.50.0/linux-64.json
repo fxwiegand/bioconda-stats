@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-multtest-2.50.0-r41hd029910_0.tar.bz2",
-"total":410
+"total":411
 }
 ],
 "downloads_per_date":[
@@ -234,6 +234,10 @@
 {
 "date":"2021-12-31",
 "total":410
+},
+{
+"date":"2022-01-01",
+"total":411
 }
 ],
 "package":"bioconductor-multtest",
@@ -667,6 +671,15 @@
 {
 "basename":"bioconductor-multtest-2.50.0-r41hd029910_0.tar.bz2",
 "total":410
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-multtest-2.50.0-r41hd029910_0.tar.bz2",
+"total":411
 }
 ]
 }

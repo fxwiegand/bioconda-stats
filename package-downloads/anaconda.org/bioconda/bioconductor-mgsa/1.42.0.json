@@ -216,6 +216,10 @@
 {
 "date":"2021-12-31",
 "total":106
+},
+{
+"date":"2022-01-01",
+"total":108
 }
 ],
 "downloads_per_subdir":[
@@ -225,7 +229,7 @@
 },
 {
 "subdir":"osx-64",
-"total":82
+"total":84
 }
 ],
 "package":"bioconductor-mgsa",
@@ -694,6 +698,15 @@
 {
 "subdir":"osx-64",
 "total":82
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":84
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-egsea-1.16.0-r40_0.tar.bz2",
-"total":286
+"total":288
 }
 ],
 "downloads_per_date":[
@@ -730,6 +730,10 @@
 {
 "date":"2021-12-31",
 "total":286
+},
+{
+"date":"2022-01-01",
+"total":288
 }
 ],
 "package":"bioconductor-egsea",
@@ -1073,6 +1077,15 @@
 {
 "basename":"bioconductor-egsea-1.16.0-r40_0.tar.bz2",
 "total":286
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-egsea-1.16.0-r40_0.tar.bz2",
+"total":288
 }
 ]
 }

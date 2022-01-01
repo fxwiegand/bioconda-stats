@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-rat2302probe-2.18.0-r41hdfd78af_8.tar.bz2",
-"total":110
+"total":112
 },
 {
 "basename":"bioconductor-rat2302probe-2.18.0-r351_0.tar.bz2",
@@ -786,6 +786,10 @@
 {
 "date":"2021-12-31",
 "total":757
+},
+{
+"date":"2022-01-01",
+"total":759
 }
 ],
 "package":"bioconductor-rat2302probe",
@@ -1456,6 +1460,15 @@
 {
 "basename":"bioconductor-rat2302probe-2.18.0-r41hdfd78af_8.tar.bz2",
 "total":110
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rat2302probe-2.18.0-r41hdfd78af_8.tar.bz2",
+"total":112
 }
 ]
 }

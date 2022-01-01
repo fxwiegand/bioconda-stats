@@ -212,6 +212,10 @@
 {
 "date":"2021-12-31",
 "total":191
+},
+{
+"date":"2022-01-01",
+"total":193
 }
 ],
 "downloads_per_subdir":[
@@ -221,7 +225,7 @@
 },
 {
 "subdir":"osx-64",
-"total":130
+"total":132
 }
 ],
 "package":"decifer",
@@ -764,6 +768,15 @@
 {
 "subdir":"osx-64",
 "total":130
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":132
 }
 ]
 }

@@ -31,7 +31,7 @@
 },
 {
 "basename":"bioconductor-rnu34.db-3.2.3-r41hdfd78af_8.tar.bz2",
-"total":261
+"total":263
 }
 ],
 "downloads_per_date":[
@@ -798,6 +798,10 @@
 {
 "date":"2021-12-31",
 "total":884
+},
+{
+"date":"2022-01-01",
+"total":886
 }
 ],
 "package":"bioconductor-rnu34.db",
@@ -1442,6 +1446,15 @@
 {
 "basename":"bioconductor-rnu34.db-3.2.3-r41hdfd78af_8.tar.bz2",
 "total":261
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rnu34.db-3.2.3-r41hdfd78af_8.tar.bz2",
+"total":263
 }
 ]
 }

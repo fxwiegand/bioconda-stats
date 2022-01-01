@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-newwave-0.99.10-r40_1.tar.bz2",
-"total":280
+"total":283
 }
 ],
 "downloads_per_date":[
@@ -742,6 +742,10 @@
 {
 "date":"2021-12-31",
 "total":280
+},
+{
+"date":"2022-01-01",
+"total":283
 }
 ],
 "package":"bioconductor-newwave",
@@ -1184,6 +1188,15 @@
 {
 "basename":"bioconductor-newwave-0.99.10-r40_1.tar.bz2",
 "total":280
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-newwave-0.99.10-r40_1.tar.bz2",
+"total":283
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-bsgenome.rnorvegicus.ucsc.rn4.masked-1.3.99-r41hdfd78af_8.tar.bz2",
-"total":69
+"total":71
 },
 {
 "basename":"bioconductor-bsgenome.rnorvegicus.ucsc.rn4.masked-1.3.99-r40_4.tar.bz2",
@@ -782,6 +782,10 @@
 {
 "date":"2021-12-31",
 "total":767
+},
+{
+"date":"2022-01-01",
+"total":769
 }
 ],
 "package":"bioconductor-bsgenome.rnorvegicus.ucsc.rn4.masked",
@@ -1423,6 +1427,15 @@
 {
 "basename":"bioconductor-bsgenome.rnorvegicus.ucsc.rn4.masked-1.3.99-r40_4.tar.bz2",
 "total":73
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bsgenome.rnorvegicus.ucsc.rn4.masked-1.3.99-r41hdfd78af_8.tar.bz2",
+"total":71
 }
 ]
 }

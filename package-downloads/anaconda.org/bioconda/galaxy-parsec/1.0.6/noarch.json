@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"galaxy-parsec-1.0.6-py_0.tar.bz2",
-"total":381
+"total":383
 }
 ],
 "downloads_per_date":[
@@ -746,6 +746,10 @@
 {
 "date":"2021-12-31",
 "total":381
+},
+{
+"date":"2022-01-01",
+"total":383
 }
 ],
 "package":"galaxy-parsec",
@@ -1215,6 +1219,15 @@
 {
 "basename":"galaxy-parsec-1.0.6-py_0.tar.bz2",
 "total":381
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"galaxy-parsec-1.0.6-py_0.tar.bz2",
+"total":383
 }
 ]
 }

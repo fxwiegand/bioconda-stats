@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-signac-1.5.0-r41hdb58930_0.tar.bz2",
-"total":42
+"total":44
 }
 ],
 "downloads_per_date":[
@@ -98,6 +98,10 @@
 {
 "date":"2021-12-31",
 "total":42
+},
+{
+"date":"2022-01-01",
+"total":44
 }
 ],
 "package":"r-signac",
@@ -279,6 +283,15 @@
 {
 "basename":"r-signac-1.5.0-r41hdb58930_0.tar.bz2",
 "total":42
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"r-signac-1.5.0-r41hdb58930_0.tar.bz2",
+"total":44
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"agat-0.4.0-pl526r35_0.tar.bz2",
-"total":420
+"total":422
 }
 ],
 "downloads_per_date":[
@@ -742,6 +742,10 @@
 {
 "date":"2021-12-31",
 "total":420
+},
+{
+"date":"2022-01-01",
+"total":422
 }
 ],
 "package":"agat",
@@ -1202,6 +1206,15 @@
 {
 "basename":"agat-0.4.0-pl526r35_0.tar.bz2",
 "total":420
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"agat-0.4.0-pl526r35_0.tar.bz2",
+"total":422
 }
 ]
 }

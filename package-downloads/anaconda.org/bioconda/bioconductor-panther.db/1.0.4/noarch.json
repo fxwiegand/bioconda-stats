@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-panther.db-1.0.4-r36_5.tar.bz2",
-"total":291
+"total":293
 }
 ],
 "downloads_per_date":[
@@ -722,6 +722,10 @@
 {
 "date":"2021-12-31",
 "total":463
+},
+{
+"date":"2022-01-01",
+"total":465
 }
 ],
 "package":"bioconductor-panther.db",
@@ -1110,6 +1114,15 @@
 {
 "basename":"bioconductor-panther.db-1.0.4-r36_5.tar.bz2",
 "total":291
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-panther.db-1.0.4-r36_5.tar.bz2",
+"total":293
 }
 ]
 }

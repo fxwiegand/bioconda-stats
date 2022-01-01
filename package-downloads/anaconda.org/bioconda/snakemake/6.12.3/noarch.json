@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"snakemake-6.12.3-hdfd78af_0.tar.bz2",
-"total":551
+"total":556
 }
 ],
 "downloads_per_date":[
@@ -94,6 +94,10 @@
 {
 "date":"2021-12-31",
 "total":551
+},
+{
+"date":"2022-01-01",
+"total":556
 }
 ],
 "package":"snakemake",
@@ -293,6 +297,15 @@
 {
 "basename":"snakemake-6.12.3-hdfd78af_0.tar.bz2",
 "total":551
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"snakemake-6.12.3-hdfd78af_0.tar.bz2",
+"total":556
 }
 ]
 }

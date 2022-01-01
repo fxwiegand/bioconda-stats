@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"motus-2.5.1-py_0.tar.bz2",
-"total":524
+"total":526
 }
 ],
 "downloads_per_date":[
@@ -710,6 +710,10 @@
 {
 "date":"2021-12-31",
 "total":524
+},
+{
+"date":"2022-01-01",
+"total":526
 }
 ],
 "package":"motus",
@@ -1062,6 +1066,15 @@
 {
 "basename":"motus-2.5.1-py_0.tar.bz2",
 "total":524
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"motus-2.5.1-py_0.tar.bz2",
+"total":526
 }
 ]
 }

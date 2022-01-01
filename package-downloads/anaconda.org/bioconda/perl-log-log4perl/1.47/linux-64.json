@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-log-log4perl-1.47-1.tar.bz2",
-"total":3492
+"total":3493
 }
 ],
 "downloads_per_date":[
@@ -506,6 +506,10 @@
 {
 "date":"2021-12-31",
 "total":4337
+},
+{
+"date":"2022-01-01",
+"total":4338
 }
 ],
 "package":"perl-log-log4perl",
@@ -776,6 +780,15 @@
 {
 "basename":"perl-log-log4perl-1.47-pl526h470a237_2.tar.bz2",
 "total":354
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"perl-log-log4perl-1.47-1.tar.bz2",
+"total":3493
 }
 ]
 }

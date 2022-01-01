@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"cgcloud-lib-1.6.0-py_4.tar.bz2",
-"total":300
+"total":302
 }
 ],
 "downloads_per_date":[
@@ -734,6 +734,10 @@
 {
 "date":"2021-12-31",
 "total":300
+},
+{
+"date":"2022-01-01",
+"total":302
 }
 ],
 "package":"cgcloud-lib",
@@ -1167,6 +1171,15 @@
 {
 "basename":"cgcloud-lib-1.6.0-py_4.tar.bz2",
 "total":300
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"cgcloud-lib-1.6.0-py_4.tar.bz2",
+"total":302
 }
 ]
 }

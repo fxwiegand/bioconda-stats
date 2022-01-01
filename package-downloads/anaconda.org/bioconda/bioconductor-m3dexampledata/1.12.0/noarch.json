@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-m3dexampledata-1.12.0-r36_0.tar.bz2",
-"total":313
+"total":315
 }
 ],
 "downloads_per_date":[
@@ -738,6 +738,10 @@
 {
 "date":"2021-12-31",
 "total":313
+},
+{
+"date":"2022-01-01",
+"total":315
 }
 ],
 "package":"bioconductor-m3dexampledata",
@@ -1198,6 +1202,15 @@
 {
 "basename":"bioconductor-m3dexampledata-1.12.0-r36_0.tar.bz2",
 "total":313
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-m3dexampledata-1.12.0-r36_0.tar.bz2",
+"total":315
 }
 ]
 }

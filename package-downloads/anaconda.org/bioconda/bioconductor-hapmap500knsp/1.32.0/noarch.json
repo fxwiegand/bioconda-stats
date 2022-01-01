@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-hapmap500knsp-1.32.0-r40hdfd78af_1.tar.bz2",
-"total":224
+"total":226
 }
 ],
 "downloads_per_date":[
@@ -722,6 +722,10 @@
 {
 "date":"2021-12-31",
 "total":278
+},
+{
+"date":"2022-01-01",
+"total":280
 }
 ],
 "package":"bioconductor-hapmap500knsp",
@@ -1085,6 +1089,15 @@
 {
 "basename":"bioconductor-hapmap500knsp-1.32.0-r40hdfd78af_1.tar.bz2",
 "total":224
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hapmap500knsp-1.32.0-r40hdfd78af_1.tar.bz2",
+"total":226
 }
 ]
 }

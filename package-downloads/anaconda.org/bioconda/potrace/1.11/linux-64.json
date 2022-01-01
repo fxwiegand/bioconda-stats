@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"potrace-1.11-h5bf99c6_3.tar.bz2",
-"total":67
+"total":68
 },
 {
 "basename":"potrace-1.11-hed695b0_2.tar.bz2",
@@ -398,6 +398,10 @@
 {
 "date":"2021-12-31",
 "total":1858
+},
+{
+"date":"2022-01-01",
+"total":1859
 }
 ],
 "package":"potrace",
@@ -678,6 +682,15 @@
 {
 "basename":"potrace-1.11-0.tar.bz2",
 "total":1314
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"potrace-1.11-h5bf99c6_3.tar.bz2",
+"total":68
 }
 ]
 }

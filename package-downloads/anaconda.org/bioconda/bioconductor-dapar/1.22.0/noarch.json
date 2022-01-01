@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-dapar-1.22.0-r40_0.tar.bz2",
-"total":251
+"total":253
 }
 ],
 "downloads_per_date":[
@@ -714,6 +714,10 @@
 {
 "date":"2021-12-31",
 "total":251
+},
+{
+"date":"2022-01-01",
+"total":253
 }
 ],
 "package":"bioconductor-dapar",
@@ -1057,6 +1061,15 @@
 {
 "basename":"bioconductor-dapar-1.22.0-r40_0.tar.bz2",
 "total":251
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-dapar-1.22.0-r40_0.tar.bz2",
+"total":253
 }
 ]
 }

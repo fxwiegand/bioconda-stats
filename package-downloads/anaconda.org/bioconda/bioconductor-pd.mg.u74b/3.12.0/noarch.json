@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-pd.mg.u74b-3.12.0-r41hdfd78af_8.tar.bz2",
-"total":95
+"total":97
 },
 {
 "basename":"bioconductor-pd.mg.u74b-3.12.0-r351_0.tar.bz2",
@@ -774,6 +774,10 @@
 {
 "date":"2021-12-31",
 "total":710
+},
+{
+"date":"2022-01-01",
+"total":712
 }
 ],
 "package":"bioconductor-pd.mg.u74b",
@@ -1319,6 +1323,15 @@
 {
 "basename":"bioconductor-pd.mg.u74b-3.12.0-r41hdfd78af_8.tar.bz2",
 "total":95
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pd.mg.u74b-3.12.0-r41hdfd78af_8.tar.bz2",
+"total":97
 }
 ]
 }

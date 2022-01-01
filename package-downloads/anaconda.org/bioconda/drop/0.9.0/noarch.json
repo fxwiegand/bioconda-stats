@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"drop-0.9.0-py_0.tar.bz2",
-"total":281
+"total":283
 }
 ],
 "downloads_per_date":[
@@ -730,6 +730,10 @@
 {
 "date":"2021-12-31",
 "total":281
+},
+{
+"date":"2022-01-01",
+"total":283
 }
 ],
 "package":"drop",
@@ -1118,6 +1122,15 @@
 {
 "basename":"drop-0.9.0-py_0.tar.bz2",
 "total":281
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"drop-0.9.0-py_0.tar.bz2",
+"total":283
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-multiassayexperiment-1.12.0-r36_0.tar.bz2",
-"total":512
+"total":514
 }
 ],
 "downloads_per_date":[
@@ -770,6 +770,10 @@
 {
 "date":"2021-12-31",
 "total":512
+},
+{
+"date":"2022-01-01",
+"total":514
 }
 ],
 "package":"bioconductor-multiassayexperiment",
@@ -1221,6 +1225,15 @@
 {
 "basename":"bioconductor-multiassayexperiment-1.12.0-r36_0.tar.bz2",
 "total":512
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-multiassayexperiment-1.12.0-r36_0.tar.bz2",
+"total":514
 }
 ]
 }

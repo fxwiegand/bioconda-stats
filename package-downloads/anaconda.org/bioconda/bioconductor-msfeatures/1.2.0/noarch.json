@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-msfeatures-1.2.0-r41hdfd78af_0.tar.bz2",
-"total":180
+"total":182
 }
 ],
 "downloads_per_date":[
@@ -234,6 +234,10 @@
 {
 "date":"2021-12-31",
 "total":180
+},
+{
+"date":"2022-01-01",
+"total":182
 }
 ],
 "package":"bioconductor-msfeatures",
@@ -703,6 +707,15 @@
 {
 "basename":"bioconductor-msfeatures-1.2.0-r41hdfd78af_0.tar.bz2",
 "total":180
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-msfeatures-1.2.0-r41hdfd78af_0.tar.bz2",
+"total":182
 }
 ]
 }

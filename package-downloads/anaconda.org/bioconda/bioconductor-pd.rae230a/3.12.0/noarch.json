@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-pd.rae230a-3.12.0-r41hdfd78af_8.tar.bz2",
-"total":104
+"total":106
 },
 {
 "basename":"bioconductor-pd.rae230a-3.12.0-r36_2.tar.bz2",
@@ -814,6 +814,10 @@
 {
 "date":"2021-12-31",
 "total":805
+},
+{
+"date":"2022-01-01",
+"total":807
 }
 ],
 "package":"bioconductor-pd.rae230a",
@@ -1463,6 +1467,15 @@
 {
 "basename":"bioconductor-pd.rae230a-3.12.0-r41hdfd78af_8.tar.bz2",
 "total":104
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pd.rae230a-3.12.0-r41hdfd78af_8.tar.bz2",
+"total":106
 }
 ]
 }

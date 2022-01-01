@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-tcgawgbsdata.hg19-1.8.0-r40hdfd78af_1.tar.bz2",
-"total":252
+"total":254
 }
 ],
 "downloads_per_date":[
@@ -734,6 +734,10 @@
 {
 "date":"2021-12-31",
 "total":311
+},
+{
+"date":"2022-01-01",
+"total":313
 }
 ],
 "package":"bioconductor-tcgawgbsdata.hg19",
@@ -1187,6 +1191,15 @@
 {
 "basename":"bioconductor-tcgawgbsdata.hg19-1.8.0-r40hdfd78af_1.tar.bz2",
 "total":252
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-tcgawgbsdata.hg19-1.8.0-r40hdfd78af_1.tar.bz2",
+"total":254
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"seq2science-0.5.0-pypy_0.tar.bz2",
-"total":260
+"total":262
 }
 ],
 "downloads_per_date":[
@@ -722,6 +722,10 @@
 {
 "date":"2021-12-31",
 "total":260
+},
+{
+"date":"2022-01-01",
+"total":262
 }
 ],
 "package":"seq2science",
@@ -1110,6 +1114,15 @@
 {
 "basename":"seq2science-0.5.0-pypy_0.tar.bz2",
 "total":260
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"seq2science-0.5.0-pypy_0.tar.bz2",
+"total":262
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"galaxy-util-21.9.0-pyhdfd78af_0.tar.bz2",
-"total":172
+"total":174
 }
 ],
 "downloads_per_date":[
@@ -238,6 +238,10 @@
 {
 "date":"2021-12-31",
 "total":172
+},
+{
+"date":"2022-01-01",
+"total":174
 }
 ],
 "package":"galaxy-util",
@@ -716,6 +720,15 @@
 {
 "basename":"galaxy-util-21.9.0-pyhdfd78af_0.tar.bz2",
 "total":172
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"galaxy-util-21.9.0-pyhdfd78af_0.tar.bz2",
+"total":174
 }
 ]
 }

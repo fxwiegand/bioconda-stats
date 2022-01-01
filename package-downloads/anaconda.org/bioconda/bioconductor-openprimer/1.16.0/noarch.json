@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-openprimer-1.16.0-r41hdfd78af_0.tar.bz2",
-"total":125
+"total":127
 }
 ],
 "downloads_per_date":[
@@ -230,6 +230,10 @@
 {
 "date":"2021-12-31",
 "total":125
+},
+{
+"date":"2022-01-01",
+"total":127
 }
 ],
 "package":"bioconductor-openprimer",
@@ -717,6 +721,15 @@
 {
 "basename":"bioconductor-openprimer-1.16.0-r41hdfd78af_0.tar.bz2",
 "total":125
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-openprimer-1.16.0-r41hdfd78af_0.tar.bz2",
+"total":127
 }
 ]
 }

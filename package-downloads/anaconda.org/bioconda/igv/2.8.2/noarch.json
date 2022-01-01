@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"igv-2.8.2-0.tar.bz2",
-"total":913
+"total":915
 }
 ],
 "downloads_per_date":[
@@ -762,6 +762,10 @@
 {
 "date":"2021-12-31",
 "total":913
+},
+{
+"date":"2022-01-01",
+"total":915
 }
 ],
 "package":"igv",
@@ -1204,6 +1208,15 @@
 {
 "basename":"igv-2.8.2-0.tar.bz2",
 "total":913
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"igv-2.8.2-0.tar.bz2",
+"total":915
 }
 ]
 }

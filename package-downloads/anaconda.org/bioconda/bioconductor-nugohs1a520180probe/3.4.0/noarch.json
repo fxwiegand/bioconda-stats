@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-nugohs1a520180probe-3.4.0-r41hdfd78af_8.tar.bz2",
-"total":102
+"total":104
 },
 {
 "basename":"bioconductor-nugohs1a520180probe-3.4.0-r351_0.tar.bz2",
@@ -794,6 +794,10 @@
 {
 "date":"2021-12-31",
 "total":758
+},
+{
+"date":"2022-01-01",
+"total":760
 }
 ],
 "package":"bioconductor-nugohs1a520180probe",
@@ -1410,6 +1414,15 @@
 {
 "basename":"bioconductor-nugohs1a520180probe-3.4.0-r41hdfd78af_8.tar.bz2",
 "total":102
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-nugohs1a520180probe-3.4.0-r41hdfd78af_8.tar.bz2",
+"total":104
 }
 ]
 }

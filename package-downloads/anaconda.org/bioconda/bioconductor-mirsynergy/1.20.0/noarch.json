@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-mirsynergy-1.20.0-r36_1.tar.bz2",
-"total":322
+"total":324
 }
 ],
 "downloads_per_date":[
@@ -742,6 +742,10 @@
 {
 "date":"2021-12-31",
 "total":467
+},
+{
+"date":"2022-01-01",
+"total":469
 }
 ],
 "package":"bioconductor-mirsynergy",
@@ -1229,6 +1233,15 @@
 {
 "basename":"bioconductor-mirsynergy-1.20.0-r36_1.tar.bz2",
 "total":322
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mirsynergy-1.20.0-r36_1.tar.bz2",
+"total":324
 }
 ]
 }

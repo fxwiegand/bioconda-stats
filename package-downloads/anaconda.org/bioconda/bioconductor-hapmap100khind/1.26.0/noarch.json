@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-hapmap100khind-1.26.0-r36_1.tar.bz2",
-"total":291
+"total":293
 }
 ],
 "downloads_per_date":[
@@ -726,6 +726,10 @@
 {
 "date":"2021-12-31",
 "total":410
+},
+{
+"date":"2022-01-01",
+"total":412
 }
 ],
 "package":"bioconductor-hapmap100khind",
@@ -1095,6 +1099,15 @@
 {
 "basename":"bioconductor-hapmap100khind-1.26.0-r36_1.tar.bz2",
 "total":291
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hapmap100khind-1.26.0-r36_1.tar.bz2",
+"total":293
 }
 ]
 }

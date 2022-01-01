@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-fgnet-3.18.0-r36_1.tar.bz2",
-"total":302
+"total":304
 }
 ],
 "downloads_per_date":[
@@ -742,6 +742,10 @@
 {
 "date":"2021-12-31",
 "total":466
+},
+{
+"date":"2022-01-01",
+"total":468
 }
 ],
 "package":"bioconductor-fgnet",
@@ -1140,6 +1144,15 @@
 {
 "basename":"bioconductor-fgnet-3.18.0-r36_1.tar.bz2",
 "total":302
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-fgnet-3.18.0-r36_1.tar.bz2",
+"total":304
 }
 ]
 }

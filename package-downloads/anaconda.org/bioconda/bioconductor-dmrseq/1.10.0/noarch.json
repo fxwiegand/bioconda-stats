@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-dmrseq-1.10.0-r40hdfd78af_1.tar.bz2",
-"total":307
+"total":309
 }
 ],
 "downloads_per_date":[
@@ -774,6 +774,10 @@
 {
 "date":"2021-12-31",
 "total":415
+},
+{
+"date":"2022-01-01",
+"total":417
 }
 ],
 "package":"bioconductor-dmrseq",
@@ -1270,6 +1274,15 @@
 {
 "basename":"bioconductor-dmrseq-1.10.0-r40hdfd78af_1.tar.bz2",
 "total":307
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-dmrseq-1.10.0-r40hdfd78af_1.tar.bz2",
+"total":309
 }
 ]
 }

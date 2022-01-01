@@ -27,7 +27,7 @@
 },
 {
 "basename":"bioconductor-drosophila2.db-3.2.3-r41hdfd78af_7.tar.bz2",
-"total":216
+"total":218
 }
 ],
 "downloads_per_date":[
@@ -754,6 +754,10 @@
 {
 "date":"2021-12-31",
 "total":730
+},
+{
+"date":"2022-01-01",
+"total":732
 }
 ],
 "package":"bioconductor-drosophila2.db",
@@ -1301,6 +1305,15 @@
 {
 "basename":"bioconductor-drosophila2.db-3.2.3-r41hdfd78af_7.tar.bz2",
 "total":216
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-drosophila2.db-3.2.3-r41hdfd78af_7.tar.bz2",
+"total":218
 }
 ]
 }

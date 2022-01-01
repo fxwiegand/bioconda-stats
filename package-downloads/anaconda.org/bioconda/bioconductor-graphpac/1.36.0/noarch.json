@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-graphpac-1.36.0-r41hdfd78af_0.tar.bz2",
-"total":77
+"total":80
 }
 ],
 "downloads_per_date":[
@@ -202,6 +202,10 @@
 {
 "date":"2021-12-31",
 "total":77
+},
+{
+"date":"2022-01-01",
+"total":80
 }
 ],
 "package":"bioconductor-graphpac",
@@ -581,6 +585,15 @@
 {
 "basename":"bioconductor-graphpac-1.36.0-r41hdfd78af_0.tar.bz2",
 "total":77
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-graphpac-1.36.0-r41hdfd78af_0.tar.bz2",
+"total":80
 }
 ]
 }

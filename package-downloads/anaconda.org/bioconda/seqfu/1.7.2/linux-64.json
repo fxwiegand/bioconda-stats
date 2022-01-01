@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"seqfu-1.7.2-h38613fd_0.tar.bz2",
-"total":31
+"total":32
 }
 ],
 "downloads_per_date":[
@@ -102,6 +102,10 @@
 {
 "date":"2021-12-31",
 "total":31
+},
+{
+"date":"2022-01-01",
+"total":32
 }
 ],
 "package":"seqfu",
@@ -166,6 +170,15 @@
 {
 "basename":"seqfu-1.7.2-h38613fd_0.tar.bz2",
 "total":31
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"seqfu-1.7.2-h38613fd_0.tar.bz2",
+"total":32
 }
 ]
 }

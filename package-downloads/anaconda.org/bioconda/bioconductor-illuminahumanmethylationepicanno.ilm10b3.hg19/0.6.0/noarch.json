@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-illuminahumanmethylationepicanno.ilm10b3.hg19-0.6.0-r41hdfd78af_11.tar.bz2",
-"total":106
+"total":108
 },
 {
 "basename":"bioconductor-illuminahumanmethylationepicanno.ilm10b3.hg19-0.6.0-r351_3.tar.bz2",
@@ -778,6 +778,10 @@
 {
 "date":"2021-12-31",
 "total":782
+},
+{
+"date":"2022-01-01",
+"total":784
 }
 ],
 "package":"bioconductor-illuminahumanmethylationepicanno.ilm10b3.hg19",
@@ -1480,6 +1484,15 @@
 {
 "basename":"bioconductor-illuminahumanmethylationepicanno.ilm10b3.hg19-0.6.0-r41hdfd78af_11.tar.bz2",
 "total":106
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-illuminahumanmethylationepicanno.ilm10b3.hg19-0.6.0-r41hdfd78af_11.tar.bz2",
+"total":108
 }
 ]
 }

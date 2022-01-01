@@ -11,7 +11,7 @@
 },
 {
 "basename":"pgcgap-1.0.19-py37pl526_2.tar.bz2",
-"total":241
+"total":243
 }
 ],
 "downloads_per_date":[
@@ -718,6 +718,10 @@
 {
 "date":"2021-12-31",
 "total":385
+},
+{
+"date":"2022-01-01",
+"total":387
 }
 ],
 "package":"pgcgap",
@@ -1113,6 +1117,15 @@
 {
 "basename":"pgcgap-1.0.19-py37pl526_2.tar.bz2",
 "total":241
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"pgcgap-1.0.19-py37pl526_2.tar.bz2",
+"total":243
 }
 ]
 }

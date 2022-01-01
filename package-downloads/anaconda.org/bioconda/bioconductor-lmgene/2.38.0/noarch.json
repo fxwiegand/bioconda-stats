@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-lmgene-2.38.0-r351_1.tar.bz2",
-"total":371
+"total":373
 }
 ],
 "downloads_per_date":[
@@ -750,6 +750,10 @@
 {
 "date":"2021-12-31",
 "total":526
+},
+{
+"date":"2022-01-01",
+"total":528
 }
 ],
 "package":"bioconductor-lmgene",
@@ -1223,6 +1227,15 @@
 {
 "basename":"bioconductor-lmgene-2.38.0-r351_1.tar.bz2",
 "total":371
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-lmgene-2.38.0-r351_1.tar.bz2",
+"total":373
 }
 ]
 }

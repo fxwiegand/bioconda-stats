@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"galaxy-tool-util-21.1.0-py_0.tar.bz2",
-"total":529
+"total":531
 }
 ],
 "downloads_per_date":[
@@ -762,6 +762,10 @@
 {
 "date":"2021-12-31",
 "total":529
+},
+{
+"date":"2022-01-01",
+"total":531
 }
 ],
 "package":"galaxy-tool-util",
@@ -1231,6 +1235,15 @@
 {
 "basename":"galaxy-tool-util-21.1.0-py_0.tar.bz2",
 "total":529
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"galaxy-tool-util-21.1.0-py_0.tar.bz2",
+"total":531
 }
 ]
 }

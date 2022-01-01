@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-minfidata-0.28.0-r351_1.tar.bz2",
-"total":359
+"total":361
 }
 ],
 "downloads_per_date":[
@@ -742,6 +742,10 @@
 {
 "date":"2021-12-31",
 "total":501
+},
+{
+"date":"2022-01-01",
+"total":503
 }
 ],
 "package":"bioconductor-minfidata",
@@ -1231,6 +1235,15 @@
 {
 "basename":"bioconductor-minfidata-0.28.0-r351_1.tar.bz2",
 "total":359
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-minfidata-0.28.0-r351_1.tar.bz2",
+"total":361
 }
 ]
 }

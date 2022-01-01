@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-ctc-1.58.0-r36_1.tar.bz2",
-"total":353
+"total":355
 }
 ],
 "downloads_per_date":[
@@ -754,6 +754,10 @@
 {
 "date":"2021-12-31",
 "total":577
+},
+{
+"date":"2022-01-01",
+"total":579
 }
 ],
 "package":"bioconductor-ctc",
@@ -1240,6 +1244,15 @@
 {
 "basename":"bioconductor-ctc-1.58.0-r36_1.tar.bz2",
 "total":353
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ctc-1.58.0-r36_1.tar.bz2",
+"total":355
 }
 ]
 }

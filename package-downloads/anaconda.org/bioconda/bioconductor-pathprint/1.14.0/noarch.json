@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-pathprint-1.14.0-r36_1.tar.bz2",
-"total":341
+"total":343
 }
 ],
 "downloads_per_date":[
@@ -742,6 +742,10 @@
 {
 "date":"2021-12-31",
 "total":501
+},
+{
+"date":"2022-01-01",
+"total":503
 }
 ],
 "package":"bioconductor-pathprint",
@@ -1194,6 +1198,15 @@
 {
 "basename":"bioconductor-pathprint-1.14.0-r36_1.tar.bz2",
 "total":341
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pathprint-1.14.0-r36_1.tar.bz2",
+"total":343
 }
 ]
 }

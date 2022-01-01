@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"planemo-0.74.7-pyhdfd78af_0.tar.bz2",
-"total":100
+"total":102
 }
 ],
 "downloads_per_date":[
@@ -294,6 +294,10 @@
 {
 "date":"2021-12-31",
 "total":100
+},
+{
+"date":"2022-01-01",
+"total":102
 }
 ],
 "package":"planemo",
@@ -628,6 +632,15 @@
 {
 "basename":"planemo-0.74.7-pyhdfd78af_0.tar.bz2",
 "total":100
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"planemo-0.74.7-pyhdfd78af_0.tar.bz2",
+"total":102
 }
 ]
 }

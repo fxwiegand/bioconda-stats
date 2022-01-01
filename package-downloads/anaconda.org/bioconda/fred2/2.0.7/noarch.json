@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"fred2-2.0.7-py_0.tar.bz2",
-"total":615
+"total":617
 }
 ],
 "downloads_per_date":[
@@ -770,6 +770,10 @@
 {
 "date":"2021-12-31",
 "total":615
+},
+{
+"date":"2022-01-01",
+"total":617
 }
 ],
 "package":"fred2",
@@ -1194,6 +1198,15 @@
 {
 "basename":"fred2-2.0.7-py_0.tar.bz2",
 "total":615
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"fred2-2.0.7-py_0.tar.bz2",
+"total":617
 }
 ]
 }

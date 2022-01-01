@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-test3probe-2.18.0-r41hdfd78af_8.tar.bz2",
-"total":105
+"total":107
 },
 {
 "basename":"bioconductor-test3probe-2.18.0-r351_0.tar.bz2",
@@ -814,6 +814,10 @@
 {
 "date":"2021-12-31",
 "total":734
+},
+{
+"date":"2022-01-01",
+"total":736
 }
 ],
 "package":"bioconductor-test3probe",
@@ -1521,6 +1525,15 @@
 {
 "basename":"bioconductor-test3probe-2.18.0-r41hdfd78af_7.tar.bz2",
 "total":168
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-test3probe-2.18.0-r41hdfd78af_8.tar.bz2",
+"total":107
 }
 ]
 }

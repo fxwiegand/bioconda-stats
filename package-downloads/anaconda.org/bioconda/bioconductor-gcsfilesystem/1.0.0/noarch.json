@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-gcsfilesystem-1.0.0-r40hdfd78af_2.tar.bz2",
-"total":255
+"total":257
 }
 ],
 "downloads_per_date":[
@@ -730,6 +730,10 @@
 {
 "date":"2021-12-31",
 "total":317
+},
+{
+"date":"2022-01-01",
+"total":319
 }
 ],
 "package":"bioconductor-gcsfilesystem",
@@ -1145,6 +1149,15 @@
 {
 "basename":"bioconductor-gcsfilesystem-1.0.0-r40hdfd78af_2.tar.bz2",
 "total":255
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-gcsfilesystem-1.0.0-r40hdfd78af_2.tar.bz2",
+"total":257
 }
 ]
 }

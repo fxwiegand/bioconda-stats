@@ -19,7 +19,7 @@
 },
 {
 "basename":"r-ic10-1.5-r41h3121a25_4.tar.bz2",
-"total":312
+"total":314
 }
 ],
 "downloads_per_date":[
@@ -798,6 +798,10 @@
 {
 "date":"2021-12-31",
 "total":676
+},
+{
+"date":"2022-01-01",
+"total":678
 }
 ],
 "package":"r-ic10",
@@ -1422,6 +1426,15 @@
 {
 "basename":"r-ic10-1.5-r41h3121a25_4.tar.bz2",
 "total":312
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"r-ic10-1.5-r41h3121a25_4.tar.bz2",
+"total":314
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-hmp2data-1.1.0-r40_0.tar.bz2",
-"total":288
+"total":290
 }
 ],
 "downloads_per_date":[
@@ -746,6 +746,10 @@
 {
 "date":"2021-12-31",
 "total":288
+},
+{
+"date":"2022-01-01",
+"total":290
 }
 ],
 "package":"bioconductor-hmp2data",
@@ -1206,6 +1210,15 @@
 {
 "basename":"bioconductor-hmp2data-1.1.0-r40_0.tar.bz2",
 "total":288
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hmp2data-1.1.0-r40_0.tar.bz2",
+"total":290
 }
 ]
 }

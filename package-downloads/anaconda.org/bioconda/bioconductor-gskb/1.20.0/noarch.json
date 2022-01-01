@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-gskb-1.20.0-r40_0.tar.bz2",
-"total":283
+"total":285
 }
 ],
 "downloads_per_date":[
@@ -742,6 +742,10 @@
 {
 "date":"2021-12-31",
 "total":283
+},
+{
+"date":"2022-01-01",
+"total":285
 }
 ],
 "package":"bioconductor-gskb",
@@ -1184,6 +1188,15 @@
 {
 "basename":"bioconductor-gskb-1.20.0-r40_0.tar.bz2",
 "total":283
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-gskb-1.20.0-r40_0.tar.bz2",
+"total":285
 }
 ]
 }

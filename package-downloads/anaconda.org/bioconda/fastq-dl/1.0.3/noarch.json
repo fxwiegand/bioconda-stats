@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"fastq-dl-1.0.3-0.tar.bz2",
-"total":338
+"total":340
 }
 ],
 "downloads_per_date":[
@@ -730,6 +730,10 @@
 {
 "date":"2021-12-31",
 "total":338
+},
+{
+"date":"2022-01-01",
+"total":340
 }
 ],
 "package":"fastq-dl",
@@ -1172,6 +1176,15 @@
 {
 "basename":"fastq-dl-1.0.3-0.tar.bz2",
 "total":338
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"fastq-dl-1.0.3-0.tar.bz2",
+"total":340
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-shortread-1.52.0-r41h399db7b_0.tar.bz2",
-"total":7725
+"total":7881
 }
 ],
 "downloads_per_date":[
@@ -230,6 +230,10 @@
 {
 "date":"2021-12-31",
 "total":7725
+},
+{
+"date":"2022-01-01",
+"total":7881
 }
 ],
 "package":"bioconductor-shortread",
@@ -717,6 +721,15 @@
 {
 "basename":"bioconductor-shortread-1.52.0-r41h399db7b_0.tar.bz2",
 "total":7725
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-shortread-1.52.0-r41h399db7b_0.tar.bz2",
+"total":7881
 }
 ]
 }

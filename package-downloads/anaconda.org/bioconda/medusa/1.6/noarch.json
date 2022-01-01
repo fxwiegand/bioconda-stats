@@ -11,7 +11,7 @@
 },
 {
 "basename":"medusa-1.6-hdfd78af_2.tar.bz2",
-"total":323
+"total":325
 }
 ],
 "downloads_per_date":[
@@ -830,6 +830,10 @@
 {
 "date":"2021-12-31",
 "total":606
+},
+{
+"date":"2022-01-01",
+"total":608
 }
 ],
 "package":"medusa",
@@ -1346,6 +1350,15 @@
 {
 "basename":"medusa-1.6-hdfd78af_2.tar.bz2",
 "total":323
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"medusa-1.6-hdfd78af_2.tar.bz2",
+"total":325
 }
 ]
 }

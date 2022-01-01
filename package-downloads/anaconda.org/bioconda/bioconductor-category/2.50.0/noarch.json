@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-category-2.50.0-r36_1.tar.bz2",
-"total":570
+"total":572
 }
 ],
 "downloads_per_date":[
@@ -730,6 +730,10 @@
 {
 "date":"2021-12-31",
 "total":570
+},
+{
+"date":"2022-01-01",
+"total":572
 }
 ],
 "package":"bioconductor-category",
@@ -1163,6 +1167,15 @@
 {
 "basename":"bioconductor-category-2.50.0-r36_1.tar.bz2",
 "total":570
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-category-2.50.0-r36_1.tar.bz2",
+"total":572
 }
 ]
 }

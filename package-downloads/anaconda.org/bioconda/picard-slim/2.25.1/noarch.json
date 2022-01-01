@@ -7,7 +7,7 @@
 },
 {
 "basename":"picard-slim-2.25.1-hdfd78af_1.tar.bz2",
-"total":313
+"total":315
 }
 ],
 "downloads_per_date":[
@@ -762,6 +762,10 @@
 {
 "date":"2021-12-31",
 "total":398
+},
+{
+"date":"2022-01-01",
+"total":400
 }
 ],
 "package":"picard-slim",
@@ -1240,6 +1244,15 @@
 {
 "basename":"picard-slim-2.25.1-hdfd78af_1.tar.bz2",
 "total":313
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"picard-slim-2.25.1-hdfd78af_1.tar.bz2",
+"total":315
 }
 ]
 }

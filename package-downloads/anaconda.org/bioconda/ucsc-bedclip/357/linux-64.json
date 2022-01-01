@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-bedclip-357-1.tar.bz2",
-"total":2846
+"total":2847
 }
 ],
 "downloads_per_date":[
@@ -770,6 +770,10 @@
 {
 "date":"2021-12-31",
 "total":3722
+},
+{
+"date":"2022-01-01",
+"total":3723
 }
 ],
 "package":"ucsc-bedclip",
@@ -1025,6 +1029,15 @@
 {
 "basename":"ucsc-bedclip-357-1.tar.bz2",
 "total":2846
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bedclip-357-1.tar.bz2",
+"total":2847
 }
 ]
 }

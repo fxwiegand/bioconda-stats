@@ -7,7 +7,7 @@
 },
 {
 "basename":"midas-1.2.2-py_1.tar.bz2",
-"total":311
+"total":313
 }
 ],
 "downloads_per_date":[
@@ -758,6 +758,10 @@
 {
 "date":"2021-12-31",
 "total":419
+},
+{
+"date":"2022-01-01",
+"total":421
 }
 ],
 "package":"midas",
@@ -1260,6 +1264,15 @@
 {
 "basename":"midas-1.2.2-py_1.tar.bz2",
 "total":311
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"midas-1.2.2-py_1.tar.bz2",
+"total":313
 }
 ]
 }

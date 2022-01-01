@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-rgug4131a.db-3.2.3-r41hdfd78af_9.tar.bz2",
-"total":114
+"total":116
 },
 {
 "basename":"bioconductor-rgug4131a.db-3.2.3-r351_0.tar.bz2",
@@ -798,6 +798,10 @@
 {
 "date":"2021-12-31",
 "total":892
+},
+{
+"date":"2022-01-01",
+"total":894
 }
 ],
 "package":"bioconductor-rgug4131a.db",
@@ -1478,6 +1482,15 @@
 {
 "basename":"bioconductor-rgug4131a.db-3.2.3-r41hdfd78af_9.tar.bz2",
 "total":114
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rgug4131a.db-3.2.3-r41hdfd78af_9.tar.bz2",
+"total":116
 }
 ]
 }

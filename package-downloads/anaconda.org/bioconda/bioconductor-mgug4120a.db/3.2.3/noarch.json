@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-mgug4120a.db-3.2.3-r41hdfd78af_8.tar.bz2",
-"total":104
+"total":106
 },
 {
 "basename":"bioconductor-mgug4120a.db-3.2.3-r351_0.tar.bz2",
@@ -790,6 +790,10 @@
 {
 "date":"2021-12-31",
 "total":731
+},
+{
+"date":"2022-01-01",
+"total":733
 }
 ],
 "package":"bioconductor-mgug4120a.db",
@@ -1457,6 +1461,15 @@
 {
 "basename":"bioconductor-mgug4120a.db-3.2.3-r41hdfd78af_8.tar.bz2",
 "total":104
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mgug4120a.db-3.2.3-r41hdfd78af_8.tar.bz2",
+"total":106
 }
 ]
 }

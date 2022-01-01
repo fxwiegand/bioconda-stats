@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-champdata-2.18.0-r36_0.tar.bz2",
-"total":348
+"total":350
 }
 ],
 "downloads_per_date":[
@@ -750,6 +750,10 @@
 {
 "date":"2021-12-31",
 "total":348
+},
+{
+"date":"2022-01-01",
+"total":350
 }
 ],
 "package":"bioconductor-champdata",
@@ -1192,6 +1196,15 @@
 {
 "basename":"bioconductor-champdata-2.18.0-r36_0.tar.bz2",
 "total":348
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-champdata-2.18.0-r36_0.tar.bz2",
+"total":350
 }
 ]
 }

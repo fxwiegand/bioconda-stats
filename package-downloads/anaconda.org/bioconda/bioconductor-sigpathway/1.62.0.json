@@ -216,6 +216,10 @@
 {
 "date":"2021-12-31",
 "total":132
+},
+{
+"date":"2022-01-01",
+"total":134
 }
 ],
 "downloads_per_subdir":[
@@ -225,7 +229,7 @@
 },
 {
 "subdir":"osx-64",
-"total":106
+"total":108
 }
 ],
 "package":"bioconductor-sigpathway",
@@ -702,6 +706,15 @@
 {
 "subdir":"osx-64",
 "total":106
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":108
 }
 ]
 }

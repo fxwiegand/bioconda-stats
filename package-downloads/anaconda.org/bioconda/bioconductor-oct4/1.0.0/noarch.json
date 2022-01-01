@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-oct4-1.0.0-r36_1.tar.bz2",
-"total":304
+"total":306
 }
 ],
 "downloads_per_date":[
@@ -722,6 +722,10 @@
 {
 "date":"2021-12-31",
 "total":439
+},
+{
+"date":"2022-01-01",
+"total":441
 }
 ],
 "package":"bioconductor-oct4",
@@ -1138,6 +1142,15 @@
 {
 "basename":"bioconductor-oct4-1.0.0-r36_1.tar.bz2",
 "total":304
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-oct4-1.0.0-r36_1.tar.bz2",
+"total":306
 }
 ]
 }

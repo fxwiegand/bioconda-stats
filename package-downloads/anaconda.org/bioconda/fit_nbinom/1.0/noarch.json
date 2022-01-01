@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"fit_nbinom-1.0-py_0.tar.bz2",
-"total":1003
+"total":1005
 }
 ],
 "downloads_per_date":[
@@ -738,6 +738,10 @@
 {
 "date":"2021-12-31",
 "total":1003
+},
+{
+"date":"2022-01-01",
+"total":1005
 }
 ],
 "package":"fit_nbinom",
@@ -1198,6 +1202,15 @@
 {
 "basename":"fit_nbinom-1.0-py_0.tar.bz2",
 "total":1003
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"fit_nbinom-1.0-py_0.tar.bz2",
+"total":1005
 }
 ]
 }

@@ -212,6 +212,10 @@
 {
 "date":"2021-12-31",
 "total":108
+},
+{
+"date":"2022-01-01",
+"total":110
 }
 ],
 "downloads_per_subdir":[
@@ -221,7 +225,7 @@
 },
 {
 "subdir":"osx-64",
-"total":85
+"total":87
 }
 ],
 "package":"bioconductor-h5vc",
@@ -676,6 +680,15 @@
 {
 "subdir":"osx-64",
 "total":85
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":87
 }
 ]
 }

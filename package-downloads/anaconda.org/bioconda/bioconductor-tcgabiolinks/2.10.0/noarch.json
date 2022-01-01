@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-tcgabiolinks-2.10.0-r351_0.tar.bz2",
-"total":650
+"total":652
 }
 ],
 "downloads_per_date":[
@@ -762,6 +762,10 @@
 {
 "date":"2021-12-31",
 "total":650
+},
+{
+"date":"2022-01-01",
+"total":652
 }
 ],
 "package":"bioconductor-tcgabiolinks",
@@ -1231,6 +1235,15 @@
 {
 "basename":"bioconductor-tcgabiolinks-2.10.0-r351_0.tar.bz2",
 "total":650
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-tcgabiolinks-2.10.0-r351_0.tar.bz2",
+"total":652
 }
 ]
 }

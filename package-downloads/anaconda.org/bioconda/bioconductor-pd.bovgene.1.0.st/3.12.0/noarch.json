@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-pd.bovgene.1.0.st-3.12.0-r41hdfd78af_9.tar.bz2",
-"total":109
+"total":111
 },
 {
 "basename":"bioconductor-pd.bovgene.1.0.st-3.12.0-r351_0.tar.bz2",
@@ -798,6 +798,10 @@
 {
 "date":"2021-12-31",
 "total":850
+},
+{
+"date":"2022-01-01",
+"total":852
 }
 ],
 "package":"bioconductor-pd.bovgene.1.0.st",
@@ -1506,6 +1510,15 @@
 {
 "basename":"bioconductor-pd.bovgene.1.0.st-3.12.0-r41hdfd78af_9.tar.bz2",
 "total":109
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pd.bovgene.1.0.st-3.12.0-r41hdfd78af_9.tar.bz2",
+"total":111
 }
 ]
 }

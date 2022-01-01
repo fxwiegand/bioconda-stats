@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-sharedobject-1.8.0-r41h832b226_0.tar.bz2",
-"total":126
+"total":128
 }
 ],
 "downloads_per_date":[
@@ -242,6 +242,10 @@
 {
 "date":"2021-12-31",
 "total":126
+},
+{
+"date":"2022-01-01",
+"total":128
 }
 ],
 "package":"bioconductor-sharedobject",
@@ -774,6 +778,15 @@
 {
 "basename":"bioconductor-sharedobject-1.8.0-r41h832b226_0.tar.bz2",
 "total":126
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-sharedobject-1.8.0-r41h832b226_0.tar.bz2",
+"total":128
 }
 ]
 }

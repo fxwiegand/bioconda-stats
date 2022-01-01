@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"moca-0.4.3-py_1.tar.bz2",
-"total":303
+"total":305
 }
 ],
 "downloads_per_date":[
@@ -738,6 +738,10 @@
 {
 "date":"2021-12-31",
 "total":303
+},
+{
+"date":"2022-01-01",
+"total":305
 }
 ],
 "package":"moca",
@@ -1180,6 +1184,15 @@
 {
 "basename":"moca-0.4.3-py_1.tar.bz2",
 "total":303
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"moca-0.4.3-py_1.tar.bz2",
+"total":305
 }
 ]
 }

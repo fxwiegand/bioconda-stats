@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-org.ce.eg.db-3.8.2-r36_1.tar.bz2",
-"total":502
+"total":504
 }
 ],
 "downloads_per_date":[
@@ -714,6 +714,10 @@
 {
 "date":"2021-12-31",
 "total":502
+},
+{
+"date":"2022-01-01",
+"total":504
 }
 ],
 "package":"bioconductor-org.ce.eg.db",
@@ -1048,6 +1052,15 @@
 {
 "basename":"bioconductor-org.ce.eg.db-3.8.2-r36_1.tar.bz2",
 "total":502
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-org.ce.eg.db-3.8.2-r36_1.tar.bz2",
+"total":504
 }
 ]
 }

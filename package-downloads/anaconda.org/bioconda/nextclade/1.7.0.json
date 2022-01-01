@@ -92,6 +92,10 @@
 {
 "date":"2021-12-31",
 "total":93
+},
+{
+"date":"2022-01-01",
+"total":95
 }
 ],
 "downloads_per_subdir":[
@@ -101,7 +105,7 @@
 },
 {
 "subdir":"osx-64",
-"total":48
+"total":50
 }
 ],
 "package":"nextclade",
@@ -344,6 +348,15 @@
 {
 "subdir":"osx-64",
 "total":48
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":50
 }
 ]
 }

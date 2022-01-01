@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"embl-api-validator-1.1.180-1.tar.bz2",
-"total":440
+"total":442
 }
 ],
 "downloads_per_date":[
@@ -758,6 +758,10 @@
 {
 "date":"2021-12-31",
 "total":440
+},
+{
+"date":"2022-01-01",
+"total":442
 }
 ],
 "package":"embl-api-validator",
@@ -1200,6 +1204,15 @@
 {
 "basename":"embl-api-validator-1.1.180-1.tar.bz2",
 "total":440
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"embl-api-validator-1.1.180-1.tar.bz2",
+"total":442
 }
 ]
 }

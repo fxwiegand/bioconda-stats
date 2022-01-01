@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-pipette-0.4.2-r36_0.tar.bz2",
-"total":299
+"total":301
 }
 ],
 "downloads_per_date":[
@@ -730,6 +730,10 @@
 {
 "date":"2021-12-31",
 "total":299
+},
+{
+"date":"2022-01-01",
+"total":301
 }
 ],
 "package":"r-pipette",
@@ -1181,6 +1185,15 @@
 {
 "basename":"r-pipette-0.4.2-r36_0.tar.bz2",
 "total":299
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"r-pipette-0.4.2-r36_0.tar.bz2",
+"total":301
 }
 ]
 }

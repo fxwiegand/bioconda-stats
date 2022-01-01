@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-sesamedata-1.0.0-r351_1.tar.bz2",
-"total":312
+"total":314
 }
 ],
 "downloads_per_date":[
@@ -710,6 +710,10 @@
 {
 "date":"2021-12-31",
 "total":452
+},
+{
+"date":"2022-01-01",
+"total":454
 }
 ],
 "package":"bioconductor-sesamedata",
@@ -1073,6 +1077,15 @@
 {
 "basename":"bioconductor-sesamedata-1.0.0-r351_1.tar.bz2",
 "total":312
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-sesamedata-1.0.0-r351_1.tar.bz2",
+"total":314
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-oligoclasses-1.48.0-r36_0.tar.bz2",
-"total":1023
+"total":1025
 }
 ],
 "downloads_per_date":[
@@ -786,6 +786,10 @@
 {
 "date":"2021-12-31",
 "total":1023
+},
+{
+"date":"2022-01-01",
+"total":1025
 }
 ],
 "package":"bioconductor-oligoclasses",
@@ -1255,6 +1259,15 @@
 {
 "basename":"bioconductor-oligoclasses-1.48.0-r36_0.tar.bz2",
 "total":1023
+}
+]
+},
+{
+"date":"2022-01-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-oligoclasses-1.48.0-r36_0.tar.bz2",
+"total":1025
 }
 ]
 }
