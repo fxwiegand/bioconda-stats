@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-metams-1.18.1-r351_0.tar.bz2",
-"total":609
+"total":611
 }
 ],
 "downloads_per_date":[
@@ -750,6 +750,10 @@
 {
 "date":"2022-01-01",
 "total":609
+},
+{
+"date":"2022-01-02",
+"total":611
 }
 ],
 "package":"bioconductor-metams",
@@ -1201,6 +1205,15 @@
 {
 "basename":"bioconductor-metams-1.18.1-r351_0.tar.bz2",
 "total":609
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-metams-1.18.1-r351_0.tar.bz2",
+"total":611
 }
 ]
 }

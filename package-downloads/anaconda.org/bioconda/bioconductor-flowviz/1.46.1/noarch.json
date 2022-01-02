@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-flowviz-1.46.1-r351_0.tar.bz2",
-"total":379
+"total":381
 }
 ],
 "downloads_per_date":[
@@ -730,6 +730,10 @@
 {
 "date":"2022-01-01",
 "total":379
+},
+{
+"date":"2022-01-02",
+"total":381
 }
 ],
 "package":"bioconductor-flowviz",
@@ -1100,6 +1104,15 @@
 {
 "basename":"bioconductor-flowviz-1.46.1-r351_0.tar.bz2",
 "total":379
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-flowviz-1.46.1-r351_0.tar.bz2",
+"total":381
 }
 ]
 }

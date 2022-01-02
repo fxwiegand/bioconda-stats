@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"dupre-0.1-py_2.tar.bz2",
-"total":300
+"total":302
 }
 ],
 "downloads_per_date":[
@@ -734,6 +734,10 @@
 {
 "date":"2022-01-01",
 "total":300
+},
+{
+"date":"2022-01-02",
+"total":302
 }
 ],
 "package":"dupre",
@@ -1176,6 +1180,15 @@
 {
 "basename":"dupre-0.1-py_2.tar.bz2",
 "total":300
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"dupre-0.1-py_2.tar.bz2",
+"total":302
 }
 ]
 }

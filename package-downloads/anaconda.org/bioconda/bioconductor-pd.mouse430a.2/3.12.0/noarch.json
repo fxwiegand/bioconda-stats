@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-pd.mouse430a.2-3.12.0-r41hdfd78af_8.tar.bz2",
-"total":108
+"total":110
 },
 {
 "basename":"bioconductor-pd.mouse430a.2-3.12.0-r351_0.tar.bz2",
@@ -802,6 +802,10 @@
 {
 "date":"2022-01-01",
 "total":727
+},
+{
+"date":"2022-01-02",
+"total":729
 }
 ],
 "package":"bioconductor-pd.mouse430a.2",
@@ -1511,6 +1515,15 @@
 {
 "basename":"bioconductor-pd.mouse430a.2-3.12.0-r41hdfd78af_8.tar.bz2",
 "total":108
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pd.mouse430a.2-3.12.0-r41hdfd78af_8.tar.bz2",
+"total":110
 }
 ]
 }

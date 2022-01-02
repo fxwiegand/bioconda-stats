@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-prince-1.2.0-r36_0.tar.bz2",
-"total":328
+"total":330
 }
 ],
 "downloads_per_date":[
@@ -734,6 +734,10 @@
 {
 "date":"2022-01-01",
 "total":328
+},
+{
+"date":"2022-01-02",
+"total":330
 }
 ],
 "package":"bioconductor-prince",
@@ -1185,6 +1189,15 @@
 {
 "basename":"bioconductor-prince-1.2.0-r36_0.tar.bz2",
 "total":328
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-prince-1.2.0-r36_0.tar.bz2",
+"total":330
 }
 ]
 }

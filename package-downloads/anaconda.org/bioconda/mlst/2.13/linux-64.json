@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"mlst-2.13-0.tar.bz2",
-"total":339
+"total":340
 }
 ],
 "downloads_per_date":[
@@ -218,6 +218,10 @@
 {
 "date":"2022-01-01",
 "total":339
+},
+{
+"date":"2022-01-02",
+"total":340
 }
 ],
 "package":"mlst",
@@ -300,6 +304,15 @@
 {
 "basename":"mlst-2.13-0.tar.bz2",
 "total":339
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"mlst-2.13-0.tar.bz2",
+"total":340
 }
 ]
 }

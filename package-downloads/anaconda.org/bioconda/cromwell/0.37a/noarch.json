@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"cromwell-0.37a-0.tar.bz2",
-"total":1112
+"total":1115
 }
 ],
 "downloads_per_date":[
@@ -750,6 +750,10 @@
 {
 "date":"2022-01-01",
 "total":1112
+},
+{
+"date":"2022-01-02",
+"total":1115
 }
 ],
 "package":"cromwell",
@@ -1156,6 +1160,15 @@
 {
 "basename":"cromwell-0.37a-0.tar.bz2",
 "total":1112
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"cromwell-0.37a-0.tar.bz2",
+"total":1115
 }
 ]
 }

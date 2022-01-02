@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-snapcgh-1.64.0-r41h68a2ddb_0.tar.bz2",
-"total":123
+"total":125
 }
 ],
 "downloads_per_date":[
@@ -238,6 +238,10 @@
 {
 "date":"2022-01-01",
 "total":123
+},
+{
+"date":"2022-01-02",
+"total":125
 }
 ],
 "package":"bioconductor-snapcgh",
@@ -752,6 +756,15 @@
 {
 "basename":"bioconductor-snapcgh-1.64.0-r41h68a2ddb_0.tar.bz2",
 "total":123
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-snapcgh-1.64.0-r41h68a2ddb_0.tar.bz2",
+"total":125
 }
 ]
 }

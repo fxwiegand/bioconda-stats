@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rcpi-1.20.1-r36_0.tar.bz2",
-"total":356
+"total":358
 }
 ],
 "downloads_per_date":[
@@ -758,6 +758,10 @@
 {
 "date":"2022-01-01",
 "total":356
+},
+{
+"date":"2022-01-02",
+"total":358
 }
 ],
 "package":"bioconductor-rcpi",
@@ -1236,6 +1240,15 @@
 {
 "basename":"bioconductor-rcpi-1.20.1-r36_0.tar.bz2",
 "total":356
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rcpi-1.20.1-r36_0.tar.bz2",
+"total":358
 }
 ]
 }

@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-pd.huex.1.0.st.v2-3.14.1-r41hdfd78af_8.tar.bz2",
-"total":111
+"total":113
 },
 {
 "basename":"bioconductor-pd.huex.1.0.st.v2-3.14.1-r351_0.tar.bz2",
@@ -786,6 +786,10 @@
 {
 "date":"2022-01-01",
 "total":799
+},
+{
+"date":"2022-01-02",
+"total":801
 }
 ],
 "package":"bioconductor-pd.huex.1.0.st.v2",
@@ -1498,6 +1502,15 @@
 {
 "basename":"bioconductor-pd.huex.1.0.st.v2-3.14.1-r41hdfd78af_8.tar.bz2",
 "total":111
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pd.huex.1.0.st.v2-3.14.1-r41hdfd78af_8.tar.bz2",
+"total":113
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"gepard-2.1.0-hdfd78af_1.tar.bz2",
-"total":221
+"total":223
 }
 ],
 "downloads_per_date":[
@@ -458,6 +458,10 @@
 {
 "date":"2022-01-01",
 "total":260
+},
+{
+"date":"2022-01-02",
+"total":262
 }
 ],
 "package":"gepard",
@@ -949,6 +953,15 @@
 {
 "basename":"gepard-2.1.0-hdfd78af_1.tar.bz2",
 "total":221
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"gepard-2.1.0-hdfd78af_1.tar.bz2",
+"total":223
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-h5vcdata-2.10.0-r40hdfd78af_1.tar.bz2",
-"total":260
+"total":262
 }
 ],
 "downloads_per_date":[
@@ -738,6 +738,10 @@
 {
 "date":"2022-01-01",
 "total":322
+},
+{
+"date":"2022-01-02",
+"total":324
 }
 ],
 "package":"bioconductor-h5vcdata",
@@ -1203,6 +1207,15 @@
 {
 "basename":"bioconductor-h5vcdata-2.10.0-r40hdfd78af_1.tar.bz2",
 "total":260
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-h5vcdata-2.10.0-r40hdfd78af_1.tar.bz2",
+"total":262
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-dmrseq-1.2.1-r351_0.tar.bz2",
-"total":701
+"total":703
 }
 ],
 "downloads_per_date":[
@@ -758,6 +758,10 @@
 {
 "date":"2022-01-01",
 "total":701
+},
+{
+"date":"2022-01-02",
+"total":703
 }
 ],
 "package":"bioconductor-dmrseq",
@@ -1218,6 +1222,15 @@
 {
 "basename":"bioconductor-dmrseq-1.2.1-r351_0.tar.bz2",
 "total":701
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-dmrseq-1.2.1-r351_0.tar.bz2",
+"total":703
 }
 ]
 }

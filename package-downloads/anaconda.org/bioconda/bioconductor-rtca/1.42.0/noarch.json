@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-rtca-1.42.0-r40hdfd78af_1.tar.bz2",
-"total":264
+"total":266
 }
 ],
 "downloads_per_date":[
@@ -746,6 +746,10 @@
 {
 "date":"2022-01-01",
 "total":331
+},
+{
+"date":"2022-01-02",
+"total":333
 }
 ],
 "package":"bioconductor-rtca",
@@ -1207,6 +1211,15 @@
 {
 "basename":"bioconductor-rtca-1.42.0-r40hdfd78af_1.tar.bz2",
 "total":264
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rtca-1.42.0-r40hdfd78af_1.tar.bz2",
+"total":266
 }
 ]
 }

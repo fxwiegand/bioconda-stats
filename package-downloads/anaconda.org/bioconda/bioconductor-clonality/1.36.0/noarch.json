@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-clonality-1.36.0-r40_0.tar.bz2",
-"total":305
+"total":308
 }
 ],
 "downloads_per_date":[
@@ -750,6 +750,10 @@
 {
 "date":"2022-01-01",
 "total":305
+},
+{
+"date":"2022-01-02",
+"total":308
 }
 ],
 "package":"bioconductor-clonality",
@@ -1192,6 +1196,15 @@
 {
 "basename":"bioconductor-clonality-1.36.0-r40_0.tar.bz2",
 "total":305
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-clonality-1.36.0-r40_0.tar.bz2",
+"total":308
 }
 ]
 }

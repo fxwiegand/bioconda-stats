@@ -172,6 +172,10 @@
 {
 "date":"2022-01-01",
 "total":111
+},
+{
+"date":"2022-01-02",
+"total":113
 }
 ],
 "downloads_per_subdir":[
@@ -181,7 +185,7 @@
 },
 {
 "subdir":"osx-64",
-"total":85
+"total":87
 }
 ],
 "package":"links",
@@ -624,6 +628,15 @@
 {
 "subdir":"osx-64",
 "total":85
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":87
 }
 ]
 }

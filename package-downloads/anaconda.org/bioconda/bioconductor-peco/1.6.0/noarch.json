@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-peco-1.6.0-r41hdfd78af_0.tar.bz2",
-"total":75
+"total":77
 }
 ],
 "downloads_per_date":[
@@ -186,6 +186,10 @@
 {
 "date":"2022-01-01",
 "total":75
+},
+{
+"date":"2022-01-02",
+"total":77
 }
 ],
 "package":"bioconductor-peco",
@@ -538,6 +542,15 @@
 {
 "basename":"bioconductor-peco-1.6.0-r41hdfd78af_0.tar.bz2",
 "total":75
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-peco-1.6.0-r41hdfd78af_0.tar.bz2",
+"total":77
 }
 ]
 }

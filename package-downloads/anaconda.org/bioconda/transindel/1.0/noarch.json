@@ -11,7 +11,7 @@
 },
 {
 "basename":"transindel-1.0-hdfd78af_2.tar.bz2",
-"total":240
+"total":242
 }
 ],
 "downloads_per_date":[
@@ -754,6 +754,10 @@
 {
 "date":"2022-01-01",
 "total":400
+},
+{
+"date":"2022-01-02",
+"total":402
 }
 ],
 "package":"transindel",
@@ -1194,6 +1198,15 @@
 {
 "basename":"transindel-1.0-hdfd78af_2.tar.bz2",
 "total":240
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"transindel-1.0-hdfd78af_2.tar.bz2",
+"total":242
 }
 ]
 }

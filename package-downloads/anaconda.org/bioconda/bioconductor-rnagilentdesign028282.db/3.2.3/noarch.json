@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-rnagilentdesign028282.db-3.2.3-r41hdfd78af_8.tar.bz2",
-"total":70
+"total":72
 },
 {
 "basename":"bioconductor-rnagilentdesign028282.db-3.2.3-r36_3.tar.bz2",
@@ -766,6 +766,10 @@
 {
 "date":"2022-01-01",
 "total":731
+},
+{
+"date":"2022-01-02",
+"total":733
 }
 ],
 "package":"bioconductor-rnagilentdesign028282.db",
@@ -1323,6 +1327,15 @@
 {
 "basename":"bioconductor-rnagilentdesign028282.db-3.2.3-r41hdfd78af_8.tar.bz2",
 "total":70
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rnagilentdesign028282.db-3.2.3-r41hdfd78af_8.tar.bz2",
+"total":72
 }
 ]
 }

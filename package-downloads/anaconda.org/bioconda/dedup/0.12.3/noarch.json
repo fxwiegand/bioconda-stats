@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"dedup-0.12.3-1.tar.bz2",
-"total":823
+"total":825
 }
 ],
 "downloads_per_date":[
@@ -766,6 +766,10 @@
 {
 "date":"2022-01-01",
 "total":823
+},
+{
+"date":"2022-01-02",
+"total":825
 }
 ],
 "package":"dedup",
@@ -1217,6 +1221,15 @@
 {
 "basename":"dedup-0.12.3-1.tar.bz2",
 "total":823
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"dedup-0.12.3-1.tar.bz2",
+"total":825
 }
 ]
 }

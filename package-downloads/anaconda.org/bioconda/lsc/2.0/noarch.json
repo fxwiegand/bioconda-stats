@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"lsc-2.0-2.tar.bz2",
-"total":264
+"total":266
 }
 ],
 "downloads_per_date":[
@@ -706,6 +706,10 @@
 {
 "date":"2022-01-01",
 "total":264
+},
+{
+"date":"2022-01-02",
+"total":266
 }
 ],
 "package":"lsc",
@@ -1058,6 +1062,15 @@
 {
 "basename":"lsc-2.0-2.tar.bz2",
 "total":264
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"lsc-2.0-2.tar.bz2",
+"total":266
 }
 ]
 }

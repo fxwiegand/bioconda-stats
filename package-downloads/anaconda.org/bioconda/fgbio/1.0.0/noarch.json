@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"fgbio-1.0.0-0.tar.bz2",
-"total":1067
+"total":1069
 }
 ],
 "downloads_per_date":[
@@ -802,6 +802,10 @@
 {
 "date":"2022-01-01",
 "total":1067
+},
+{
+"date":"2022-01-02",
+"total":1069
 }
 ],
 "package":"fgbio",
@@ -1271,6 +1275,15 @@
 {
 "basename":"fgbio-1.0.0-0.tar.bz2",
 "total":1067
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"fgbio-1.0.0-0.tar.bz2",
+"total":1069
 }
 ]
 }

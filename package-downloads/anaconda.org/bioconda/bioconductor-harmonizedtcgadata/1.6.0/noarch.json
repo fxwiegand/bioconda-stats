@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-harmonizedtcgadata-1.6.0-r36_1.tar.bz2",
-"total":299
+"total":301
 }
 ],
 "downloads_per_date":[
@@ -690,6 +690,10 @@
 {
 "date":"2022-01-01",
 "total":299
+},
+{
+"date":"2022-01-02",
+"total":301
 }
 ],
 "package":"bioconductor-harmonizedtcgadata",
@@ -1033,6 +1037,15 @@
 {
 "basename":"bioconductor-harmonizedtcgadata-1.6.0-r36_1.tar.bz2",
 "total":299
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-harmonizedtcgadata-1.6.0-r36_1.tar.bz2",
+"total":301
 }
 ]
 }

@@ -176,6 +176,10 @@
 {
 "date":"2022-01-01",
 "total":128
+},
+{
+"date":"2022-01-02",
+"total":130
 }
 ],
 "downloads_per_subdir":[
@@ -185,7 +189,7 @@
 },
 {
 "subdir":"osx-64",
-"total":98
+"total":100
 }
 ],
 "package":"naf",
@@ -565,6 +569,15 @@
 {
 "subdir":"osx-64",
 "total":98
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":100
 }
 ]
 }

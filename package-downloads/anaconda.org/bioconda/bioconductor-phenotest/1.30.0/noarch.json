@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-phenotest-1.30.0-r351_0.tar.bz2",
-"total":401
+"total":403
 }
 ],
 "downloads_per_date":[
@@ -746,6 +746,10 @@
 {
 "date":"2022-01-01",
 "total":401
+},
+{
+"date":"2022-01-02",
+"total":403
 }
 ],
 "package":"bioconductor-phenotest",
@@ -1143,6 +1147,15 @@
 {
 "basename":"bioconductor-phenotest-1.30.0-r351_0.tar.bz2",
 "total":401
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-phenotest-1.30.0-r351_0.tar.bz2",
+"total":403
 }
 ]
 }

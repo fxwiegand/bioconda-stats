@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-pd.citrus-3.12.0-r41hdfd78af_8.tar.bz2",
-"total":110
+"total":112
 },
 {
 "basename":"bioconductor-pd.citrus-3.12.0-r351_0.tar.bz2",
@@ -794,6 +794,10 @@
 {
 "date":"2022-01-01",
 "total":738
+},
+{
+"date":"2022-01-02",
+"total":740
 }
 ],
 "package":"bioconductor-pd.citrus",
@@ -1421,6 +1425,15 @@
 {
 "basename":"bioconductor-pd.citrus-3.12.0-r41hdfd78af_8.tar.bz2",
 "total":110
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pd.citrus-3.12.0-r41hdfd78af_8.tar.bz2",
+"total":112
 }
 ]
 }

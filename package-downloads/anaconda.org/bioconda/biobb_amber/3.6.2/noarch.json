@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"biobb_amber-3.6.2-pyhdfd78af_0.tar.bz2",
-"total":102
+"total":106
 }
 ],
 "downloads_per_date":[
@@ -298,6 +298,10 @@
 {
 "date":"2022-01-01",
 "total":102
+},
+{
+"date":"2022-01-02",
+"total":106
 }
 ],
 "package":"biobb_amber",
@@ -668,6 +672,15 @@
 {
 "basename":"biobb_amber-3.6.2-pyhdfd78af_0.tar.bz2",
 "total":102
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"biobb_amber-3.6.2-pyhdfd78af_0.tar.bz2",
+"total":106
 }
 ]
 }

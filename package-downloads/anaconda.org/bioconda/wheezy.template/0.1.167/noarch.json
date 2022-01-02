@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"wheezy.template-0.1.167-py_1.tar.bz2",
-"total":445
+"total":447
 }
 ],
 "downloads_per_date":[
@@ -718,6 +718,10 @@
 {
 "date":"2022-01-01",
 "total":445
+},
+{
+"date":"2022-01-02",
+"total":447
 }
 ],
 "package":"wheezy.template",
@@ -1079,6 +1083,15 @@
 {
 "basename":"wheezy.template-0.1.167-py_1.tar.bz2",
 "total":445
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"wheezy.template-0.1.167-py_1.tar.bz2",
+"total":447
 }
 ]
 }

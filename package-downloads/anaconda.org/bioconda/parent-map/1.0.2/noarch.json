@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"parent-map-1.0.2-py_0.tar.bz2",
-"total":248
+"total":251
 }
 ],
 "downloads_per_date":[
@@ -698,6 +698,10 @@
 {
 "date":"2022-01-01",
 "total":248
+},
+{
+"date":"2022-01-02",
+"total":251
 }
 ],
 "package":"parent-map",
@@ -1050,6 +1054,15 @@
 {
 "basename":"parent-map-1.0.2-py_0.tar.bz2",
 "total":248
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"parent-map-1.0.2-py_0.tar.bz2",
+"total":251
 }
 ]
 }

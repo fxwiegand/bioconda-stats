@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-biosvd-2.18.0-r351_1.tar.bz2",
-"total":349
+"total":352
 }
 ],
 "downloads_per_date":[
@@ -734,6 +734,10 @@
 {
 "date":"2022-01-01",
 "total":519
+},
+{
+"date":"2022-01-02",
+"total":522
 }
 ],
 "package":"bioconductor-biosvd",
@@ -1145,6 +1149,15 @@
 {
 "basename":"bioconductor-biosvd-2.18.0-r351_1.tar.bz2",
 "total":349
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-biosvd-2.18.0-r351_1.tar.bz2",
+"total":352
 }
 ]
 }

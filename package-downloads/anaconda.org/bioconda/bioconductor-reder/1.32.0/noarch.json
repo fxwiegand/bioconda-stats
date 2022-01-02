@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-reder-1.32.0-r36_1.tar.bz2",
-"total":336
+"total":338
 }
 ],
 "downloads_per_date":[
@@ -722,6 +722,10 @@
 {
 "date":"2022-01-01",
 "total":516
+},
+{
+"date":"2022-01-02",
+"total":518
 }
 ],
 "package":"bioconductor-reder",
@@ -1106,6 +1110,15 @@
 {
 "basename":"bioconductor-reder-1.32.0-r36_1.tar.bz2",
 "total":336
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-reder-1.32.0-r36_1.tar.bz2",
+"total":338
 }
 ]
 }

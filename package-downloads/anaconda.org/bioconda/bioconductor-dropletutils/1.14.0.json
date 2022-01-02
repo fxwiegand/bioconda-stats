@@ -240,6 +240,10 @@
 {
 "date":"2022-01-01",
 "total":255
+},
+{
+"date":"2022-01-02",
+"total":257
 }
 ],
 "downloads_per_subdir":[
@@ -249,7 +253,7 @@
 },
 {
 "subdir":"osx-64",
-"total":138
+"total":140
 }
 ],
 "package":"bioconductor-dropletutils",
@@ -849,6 +853,15 @@
 {
 "subdir":"osx-64",
 "total":138
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":140
 }
 ]
 }

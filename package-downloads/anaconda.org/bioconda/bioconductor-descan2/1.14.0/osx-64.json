@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-descan2-1.14.0-r41h832b226_0.tar.bz2",
-"total":81
+"total":83
 }
 ],
 "downloads_per_date":[
@@ -198,6 +198,10 @@
 {
 "date":"2022-01-01",
 "total":81
+},
+{
+"date":"2022-01-02",
+"total":83
 }
 ],
 "package":"bioconductor-descan2",
@@ -577,6 +581,15 @@
 {
 "basename":"bioconductor-descan2-1.14.0-r41h832b226_0.tar.bz2",
 "total":81
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-descan2-1.14.0-r41h832b226_0.tar.bz2",
+"total":83
 }
 ]
 }

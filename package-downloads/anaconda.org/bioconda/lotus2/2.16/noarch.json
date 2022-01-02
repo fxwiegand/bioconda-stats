@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"lotus2-2.16-hdfd78af_0.tar.bz2",
-"total":64
+"total":66
 }
 ],
 "downloads_per_date":[
@@ -138,6 +138,10 @@
 {
 "date":"2022-01-01",
 "total":64
+},
+{
+"date":"2022-01-02",
+"total":66
 }
 ],
 "package":"lotus2",
@@ -400,6 +404,15 @@
 {
 "basename":"lotus2-2.16-hdfd78af_0.tar.bz2",
 "total":64
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"lotus2-2.16-hdfd78af_0.tar.bz2",
+"total":66
 }
 ]
 }

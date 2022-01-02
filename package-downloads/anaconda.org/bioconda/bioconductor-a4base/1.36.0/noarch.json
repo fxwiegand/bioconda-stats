@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-a4base-1.36.0-r40_0.tar.bz2",
-"total":299
+"total":301
 }
 ],
 "downloads_per_date":[
@@ -730,6 +730,10 @@
 {
 "date":"2022-01-01",
 "total":299
+},
+{
+"date":"2022-01-02",
+"total":301
 }
 ],
 "package":"bioconductor-a4base",
@@ -1109,6 +1113,15 @@
 {
 "basename":"bioconductor-a4base-1.36.0-r40_0.tar.bz2",
 "total":299
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-a4base-1.36.0-r40_0.tar.bz2",
+"total":301
 }
 ]
 }

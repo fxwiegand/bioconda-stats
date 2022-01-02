@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-migsadata-1.10.0-r36_0.tar.bz2",
-"total":263
+"total":266
 }
 ],
 "downloads_per_date":[
@@ -706,6 +706,10 @@
 {
 "date":"2022-01-01",
 "total":263
+},
+{
+"date":"2022-01-02",
+"total":266
 }
 ],
 "package":"bioconductor-migsadata",
@@ -1049,6 +1053,15 @@
 {
 "basename":"bioconductor-migsadata-1.10.0-r36_0.tar.bz2",
 "total":263
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-migsadata-1.10.0-r36_0.tar.bz2",
+"total":266
 }
 ]
 }

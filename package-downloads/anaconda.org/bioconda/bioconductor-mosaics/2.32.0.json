@@ -232,6 +232,10 @@
 {
 "date":"2022-01-01",
 "total":147
+},
+{
+"date":"2022-01-02",
+"total":149
 }
 ],
 "downloads_per_subdir":[
@@ -241,7 +245,7 @@
 },
 {
 "subdir":"osx-64",
-"total":121
+"total":123
 }
 ],
 "package":"bioconductor-mosaics",
@@ -799,6 +803,15 @@
 {
 "subdir":"osx-64",
 "total":121
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":123
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-toast-1.7.1-r41hdfd78af_0.tar.bz2",
-"total":118
+"total":120
 }
 ],
 "downloads_per_date":[
@@ -226,6 +226,10 @@
 {
 "date":"2022-01-01",
 "total":118
+},
+{
+"date":"2022-01-02",
+"total":120
 }
 ],
 "package":"bioconductor-toast",
@@ -695,6 +699,15 @@
 {
 "basename":"bioconductor-toast-1.7.1-r41hdfd78af_0.tar.bz2",
 "total":118
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-toast-1.7.1-r41hdfd78af_0.tar.bz2",
+"total":120
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-missmethyl-1.20.0-r36_0.tar.bz2",
-"total":558
+"total":560
 }
 ],
 "downloads_per_date":[
@@ -750,6 +750,10 @@
 {
 "date":"2022-01-01",
 "total":558
+},
+{
+"date":"2022-01-02",
+"total":560
 }
 ],
 "package":"bioconductor-missmethyl",
@@ -1147,6 +1151,15 @@
 {
 "basename":"bioconductor-missmethyl-1.20.0-r36_0.tar.bz2",
 "total":558
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-missmethyl-1.20.0-r36_0.tar.bz2",
+"total":560
 }
 ]
 }

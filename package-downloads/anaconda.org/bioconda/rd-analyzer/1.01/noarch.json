@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"rd-analyzer-1.01-hdfd78af_0.tar.bz2",
-"total":126
+"total":128
 }
 ],
 "downloads_per_date":[
@@ -390,6 +390,10 @@
 {
 "date":"2022-01-01",
 "total":126
+},
+{
+"date":"2022-01-02",
+"total":128
 }
 ],
 "package":"rd-analyzer",
@@ -742,6 +746,15 @@
 {
 "basename":"rd-analyzer-1.01-hdfd78af_0.tar.bz2",
 "total":126
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"rd-analyzer-1.01-hdfd78af_0.tar.bz2",
+"total":128
 }
 ]
 }

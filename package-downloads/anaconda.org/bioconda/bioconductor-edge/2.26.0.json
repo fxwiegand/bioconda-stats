@@ -212,6 +212,10 @@
 {
 "date":"2022-01-01",
 "total":106
+},
+{
+"date":"2022-01-02",
+"total":108
 }
 ],
 "downloads_per_subdir":[
@@ -221,7 +225,7 @@
 },
 {
 "subdir":"osx-64",
-"total":84
+"total":86
 }
 ],
 "package":"bioconductor-edge",
@@ -676,6 +680,15 @@
 {
 "subdir":"osx-64",
 "total":84
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":86
 }
 ]
 }

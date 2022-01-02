@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-organismdbi-1.28.0-r36_0.tar.bz2",
-"total":888
+"total":890
 }
 ],
 "downloads_per_date":[
@@ -810,6 +810,10 @@
 {
 "date":"2022-01-01",
 "total":888
+},
+{
+"date":"2022-01-02",
+"total":890
 }
 ],
 "package":"bioconductor-organismdbi",
@@ -1297,6 +1301,15 @@
 {
 "basename":"bioconductor-organismdbi-1.28.0-r36_0.tar.bz2",
 "total":888
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-organismdbi-1.28.0-r36_0.tar.bz2",
+"total":890
 }
 ]
 }

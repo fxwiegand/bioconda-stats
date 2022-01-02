@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bactopia-1.2.4-0.tar.bz2",
-"total":299
+"total":302
 }
 ],
 "downloads_per_date":[
@@ -726,6 +726,10 @@
 {
 "date":"2022-01-01",
 "total":299
+},
+{
+"date":"2022-01-02",
+"total":302
 }
 ],
 "package":"bactopia",
@@ -1168,6 +1172,15 @@
 {
 "basename":"bactopia-1.2.4-0.tar.bz2",
 "total":299
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bactopia-1.2.4-0.tar.bz2",
+"total":302
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-illuminadatatestfiles-1.20.0-r351_0.tar.bz2",
-"total":353
+"total":355
 }
 ],
 "downloads_per_date":[
@@ -730,6 +730,10 @@
 {
 "date":"2022-01-01",
 "total":353
+},
+{
+"date":"2022-01-02",
+"total":355
 }
 ],
 "package":"bioconductor-illuminadatatestfiles",
@@ -1136,6 +1140,15 @@
 {
 "basename":"bioconductor-illuminadatatestfiles-1.20.0-r351_0.tar.bz2",
 "total":353
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-illuminadatatestfiles-1.20.0-r351_0.tar.bz2",
+"total":355
 }
 ]
 }

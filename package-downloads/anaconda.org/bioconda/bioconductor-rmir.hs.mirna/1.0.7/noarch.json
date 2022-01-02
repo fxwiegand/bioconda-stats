@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-rmir.hs.mirna-1.0.7-r41hdfd78af_11.tar.bz2",
-"total":71
+"total":73
 },
 {
 "basename":"bioconductor-rmir.hs.mirna-1.0.7-r40_7.tar.bz2",
@@ -806,6 +806,10 @@
 {
 "date":"2022-01-01",
 "total":818
+},
+{
+"date":"2022-01-02",
+"total":820
 }
 ],
 "package":"bioconductor-rmir.hs.mirna",
@@ -1454,6 +1458,15 @@
 {
 "basename":"bioconductor-rmir.hs.mirna-1.0.7-r41hdfd78af_11.tar.bz2",
 "total":71
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rmir.hs.mirna-1.0.7-r41hdfd78af_11.tar.bz2",
+"total":73
 }
 ]
 }

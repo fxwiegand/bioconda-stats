@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-scisi-1.54.0-r351_0.tar.bz2",
-"total":360
+"total":362
 }
 ],
 "downloads_per_date":[
@@ -722,6 +722,10 @@
 {
 "date":"2022-01-01",
 "total":360
+},
+{
+"date":"2022-01-02",
+"total":362
 }
 ],
 "package":"bioconductor-scisi",
@@ -1065,6 +1069,15 @@
 {
 "basename":"bioconductor-scisi-1.54.0-r351_0.tar.bz2",
 "total":360
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-scisi-1.54.0-r351_0.tar.bz2",
+"total":362
 }
 ]
 }

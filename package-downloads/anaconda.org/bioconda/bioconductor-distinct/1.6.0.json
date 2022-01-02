@@ -236,6 +236,10 @@
 {
 "date":"2022-01-01",
 "total":160
+},
+{
+"date":"2022-01-02",
+"total":162
 }
 ],
 "downloads_per_subdir":[
@@ -245,7 +249,7 @@
 },
 {
 "subdir":"osx-64",
-"total":128
+"total":130
 }
 ],
 "package":"bioconductor-distinct",
@@ -830,6 +834,15 @@
 {
 "subdir":"osx-64",
 "total":128
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":130
 }
 ]
 }

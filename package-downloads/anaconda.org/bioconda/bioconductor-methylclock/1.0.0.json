@@ -224,6 +224,10 @@
 {
 "date":"2022-01-01",
 "total":137
+},
+{
+"date":"2022-01-02",
+"total":139
 }
 ],
 "downloads_per_subdir":[
@@ -233,7 +237,7 @@
 },
 {
 "subdir":"osx-64",
-"total":118
+"total":120
 }
 ],
 "package":"bioconductor-methylclock",
@@ -779,6 +783,15 @@
 {
 "subdir":"osx-64",
 "total":118
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":120
 }
 ]
 }

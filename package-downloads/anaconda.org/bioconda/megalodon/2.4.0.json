@@ -124,6 +124,10 @@
 {
 "date":"2022-01-01",
 "total":129
+},
+{
+"date":"2022-01-02",
+"total":131
 }
 ],
 "downloads_per_subdir":[
@@ -133,7 +137,7 @@
 },
 {
 "subdir":"osx-64",
-"total":86
+"total":88
 }
 ],
 "package":"megalodon",
@@ -453,6 +457,15 @@
 {
 "subdir":"osx-64",
 "total":86
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":88
 }
 ]
 }

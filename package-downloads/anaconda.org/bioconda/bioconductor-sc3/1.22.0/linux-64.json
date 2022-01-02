@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-sc3-1.22.0-r41h399db7b_0.tar.bz2",
-"total":33
+"total":34
 }
 ],
 "downloads_per_date":[
@@ -130,6 +130,10 @@
 {
 "date":"2022-01-01",
 "total":33
+},
+{
+"date":"2022-01-02",
+"total":34
 }
 ],
 "package":"bioconductor-sc3",
@@ -293,6 +297,15 @@
 {
 "basename":"bioconductor-sc3-1.22.0-r41h399db7b_0.tar.bz2",
 "total":33
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-sc3-1.22.0-r41h399db7b_0.tar.bz2",
+"total":34
 }
 ]
 }

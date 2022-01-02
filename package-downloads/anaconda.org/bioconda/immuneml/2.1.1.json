@@ -44,6 +44,10 @@
 {
 "date":"2022-01-01",
 "total":38
+},
+{
+"date":"2022-01-02",
+"total":40
 }
 ],
 "downloads_per_subdir":[
@@ -53,7 +57,7 @@
 },
 {
 "subdir":"osx-64",
-"total":29
+"total":31
 }
 ],
 "package":"immuneml",
@@ -148,6 +152,15 @@
 {
 "subdir":"osx-64",
 "total":29
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":31
 }
 ]
 }

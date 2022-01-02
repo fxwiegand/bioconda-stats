@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-sbmlr-1.82.0-r36_0.tar.bz2",
-"total":313
+"total":315
 }
 ],
 "downloads_per_date":[
@@ -730,6 +730,10 @@
 {
 "date":"2022-01-01",
 "total":313
+},
+{
+"date":"2022-01-02",
+"total":315
 }
 ],
 "package":"bioconductor-sbmlr",
@@ -1154,6 +1158,15 @@
 {
 "basename":"bioconductor-sbmlr-1.82.0-r36_0.tar.bz2",
 "total":313
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-sbmlr-1.82.0-r36_0.tar.bz2",
+"total":315
 }
 ]
 }

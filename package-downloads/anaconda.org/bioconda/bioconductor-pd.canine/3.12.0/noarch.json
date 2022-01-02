@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-pd.canine-3.12.0-r41hdfd78af_9.tar.bz2",
-"total":109
+"total":111
 },
 {
 "basename":"bioconductor-pd.canine-3.12.0-r351_1.tar.bz2",
@@ -798,6 +798,10 @@
 {
 "date":"2022-01-01",
 "total":872
+},
+{
+"date":"2022-01-02",
+"total":874
 }
 ],
 "package":"bioconductor-pd.canine",
@@ -1471,6 +1475,15 @@
 {
 "basename":"bioconductor-pd.canine-3.12.0-r41hdfd78af_9.tar.bz2",
 "total":109
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pd.canine-3.12.0-r41hdfd78af_9.tar.bz2",
+"total":111
 }
 ]
 }

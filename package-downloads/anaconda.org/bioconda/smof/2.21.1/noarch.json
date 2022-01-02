@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"smof-2.21.1-py_0.tar.bz2",
-"total":234
+"total":236
 }
 ],
 "downloads_per_date":[
@@ -706,6 +706,10 @@
 {
 "date":"2022-01-01",
 "total":234
+},
+{
+"date":"2022-01-02",
+"total":236
 }
 ],
 "package":"smof",
@@ -1058,6 +1062,15 @@
 {
 "basename":"smof-2.21.1-py_0.tar.bz2",
 "total":234
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"smof-2.21.1-py_0.tar.bz2",
+"total":236
 }
 ]
 }

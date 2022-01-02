@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"borf-1.2-py_0.tar.bz2",
-"total":315
+"total":317
 }
 ],
 "downloads_per_date":[
@@ -754,6 +754,10 @@
 {
 "date":"2022-01-01",
 "total":315
+},
+{
+"date":"2022-01-02",
+"total":317
 }
 ],
 "package":"borf",
@@ -1223,6 +1227,15 @@
 {
 "basename":"borf-1.2-py_0.tar.bz2",
 "total":315
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"borf-1.2-py_0.tar.bz2",
+"total":317
 }
 ]
 }

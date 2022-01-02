@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-msmstests-1.20.1-r351_0.tar.bz2",
-"total":386
+"total":388
 }
 ],
 "downloads_per_date":[
@@ -750,6 +750,10 @@
 {
 "date":"2022-01-01",
 "total":386
+},
+{
+"date":"2022-01-02",
+"total":388
 }
 ],
 "package":"bioconductor-msmstests",
@@ -1219,6 +1223,15 @@
 {
 "basename":"bioconductor-msmstests-1.20.1-r351_0.tar.bz2",
 "total":386
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-msmstests-1.20.1-r351_0.tar.bz2",
+"total":388
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-camthc-1.2.0-r36_1.tar.bz2",
-"total":347
+"total":350
 }
 ],
 "downloads_per_date":[
@@ -758,6 +758,10 @@
 {
 "date":"2022-01-01",
 "total":347
+},
+{
+"date":"2022-01-02",
+"total":350
 }
 ],
 "package":"bioconductor-camthc",
@@ -1236,6 +1240,15 @@
 {
 "basename":"bioconductor-camthc-1.2.0-r36_1.tar.bz2",
 "total":347
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-camthc-1.2.0-r36_1.tar.bz2",
+"total":350
 }
 ]
 }

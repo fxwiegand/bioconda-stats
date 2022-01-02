@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-struct-1.6.0-r41hdfd78af_0.tar.bz2",
-"total":171
+"total":173
 }
 ],
 "downloads_per_date":[
@@ -222,6 +222,10 @@
 {
 "date":"2022-01-01",
 "total":171
+},
+{
+"date":"2022-01-02",
+"total":173
 }
 ],
 "package":"bioconductor-struct",
@@ -664,6 +668,15 @@
 {
 "basename":"bioconductor-struct-1.6.0-r41hdfd78af_0.tar.bz2",
 "total":171
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-struct-1.6.0-r41hdfd78af_0.tar.bz2",
+"total":173
 }
 ]
 }

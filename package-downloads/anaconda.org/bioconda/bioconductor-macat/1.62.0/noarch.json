@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-macat-1.62.0-r40_0.tar.bz2",
-"total":256
+"total":258
 }
 ],
 "downloads_per_date":[
@@ -714,6 +714,10 @@
 {
 "date":"2022-01-01",
 "total":256
+},
+{
+"date":"2022-01-02",
+"total":258
 }
 ],
 "package":"bioconductor-macat",
@@ -1066,6 +1070,15 @@
 {
 "basename":"bioconductor-macat-1.62.0-r40_0.tar.bz2",
 "total":256
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-macat-1.62.0-r40_0.tar.bz2",
+"total":258
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-lumi-2.38.0-r36_0.tar.bz2",
-"total":707
+"total":709
 }
 ],
 "downloads_per_date":[
@@ -782,6 +782,10 @@
 {
 "date":"2022-01-01",
 "total":707
+},
+{
+"date":"2022-01-02",
+"total":709
 }
 ],
 "package":"bioconductor-lumi",
@@ -1242,6 +1246,15 @@
 {
 "basename":"bioconductor-lumi-2.38.0-r36_0.tar.bz2",
 "total":707
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-lumi-2.38.0-r36_0.tar.bz2",
+"total":709
 }
 ]
 }

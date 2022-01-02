@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-readat-1.11.0-r36_0.tar.bz2",
-"total":340
+"total":343
 }
 ],
 "downloads_per_date":[
@@ -762,6 +762,10 @@
 {
 "date":"2022-01-01",
 "total":340
+},
+{
+"date":"2022-01-02",
+"total":343
 }
 ],
 "package":"bioconductor-readat",
@@ -1168,6 +1172,15 @@
 {
 "basename":"bioconductor-readat-1.11.0-r36_0.tar.bz2",
 "total":340
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-readat-1.11.0-r36_0.tar.bz2",
+"total":343
 }
 ]
 }

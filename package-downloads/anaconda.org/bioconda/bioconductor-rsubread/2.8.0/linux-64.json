@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rsubread-2.8.0-r41hd029910_0.tar.bz2",
-"total":173
+"total":175
 }
 ],
 "downloads_per_date":[
@@ -242,6 +242,10 @@
 {
 "date":"2022-01-01",
 "total":173
+},
+{
+"date":"2022-01-02",
+"total":175
 }
 ],
 "package":"bioconductor-rsubread",
@@ -684,6 +688,15 @@
 {
 "basename":"bioconductor-rsubread-2.8.0-r41hd029910_0.tar.bz2",
 "total":173
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rsubread-2.8.0-r41hd029910_0.tar.bz2",
+"total":175
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-tbx20bamsubset-1.24.0-r40_0.tar.bz2",
-"total":282
+"total":284
 }
 ],
 "downloads_per_date":[
@@ -734,6 +734,10 @@
 {
 "date":"2022-01-01",
 "total":282
+},
+{
+"date":"2022-01-02",
+"total":284
 }
 ],
 "package":"bioconductor-tbx20bamsubset",
@@ -1212,6 +1216,15 @@
 {
 "basename":"bioconductor-tbx20bamsubset-1.24.0-r40_0.tar.bz2",
 "total":282
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-tbx20bamsubset-1.24.0-r40_0.tar.bz2",
+"total":284
 }
 ]
 }

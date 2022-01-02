@@ -216,6 +216,10 @@
 {
 "date":"2022-01-01",
 "total":124
+},
+{
+"date":"2022-01-02",
+"total":126
 }
 ],
 "downloads_per_subdir":[
@@ -225,7 +229,7 @@
 },
 {
 "subdir":"osx-64",
-"total":98
+"total":100
 }
 ],
 "package":"bioconductor-seqbias",
@@ -694,6 +698,15 @@
 {
 "subdir":"osx-64",
 "total":98
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":100
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"seqfu-1.8.3-hfa5225b_0.tar.bz2",
-"total":86
+"total":88
 }
 ],
 "downloads_per_date":[
@@ -210,6 +210,10 @@
 {
 "date":"2022-01-01",
 "total":86
+},
+{
+"date":"2022-01-02",
+"total":88
 }
 ],
 "package":"seqfu",
@@ -607,6 +611,15 @@
 {
 "basename":"seqfu-1.8.3-hfa5225b_0.tar.bz2",
 "total":86
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"seqfu-1.8.3-hfa5225b_0.tar.bz2",
+"total":88
 }
 ]
 }

@@ -19,7 +19,7 @@
 },
 {
 "basename":"openms-2.5.0-h4afb90d_6.tar.bz2",
-"total":4636
+"total":4637
 },
 {
 "basename":"openms-2.5.0-h463af6b_1.tar.bz2",
@@ -494,6 +494,10 @@
 {
 "date":"2022-01-01",
 "total":14422
+},
+{
+"date":"2022-01-02",
+"total":14423
 }
 ],
 "package":"openms",
@@ -889,6 +893,15 @@
 {
 "basename":"openms-2.5.0-h463af6b_1.tar.bz2",
 "total":5419
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"openms-2.5.0-h4afb90d_6.tar.bz2",
+"total":4637
 }
 ]
 }

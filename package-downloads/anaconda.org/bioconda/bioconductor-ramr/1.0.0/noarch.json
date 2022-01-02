@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-ramr-1.0.0-r41hdfd78af_0.tar.bz2",
-"total":234
+"total":236
 }
 ],
 "downloads_per_date":[
@@ -730,6 +730,10 @@
 {
 "date":"2022-01-01",
 "total":234
+},
+{
+"date":"2022-01-02",
+"total":236
 }
 ],
 "package":"bioconductor-ramr",
@@ -1100,6 +1104,15 @@
 {
 "basename":"bioconductor-ramr-1.0.0-r41hdfd78af_0.tar.bz2",
 "total":234
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ramr-1.0.0-r41hdfd78af_0.tar.bz2",
+"total":236
 }
 ]
 }

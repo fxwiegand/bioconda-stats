@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"junit-xml-1.7-py_1.tar.bz2",
-"total":1038
+"total":1040
 }
 ],
 "downloads_per_date":[
@@ -750,6 +750,10 @@
 {
 "date":"2022-01-01",
 "total":1038
+},
+{
+"date":"2022-01-02",
+"total":1040
 }
 ],
 "package":"junit-xml",
@@ -1219,6 +1223,15 @@
 {
 "basename":"junit-xml-1.7-py_1.tar.bz2",
 "total":1038
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"junit-xml-1.7-py_1.tar.bz2",
+"total":1040
 }
 ]
 }

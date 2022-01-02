@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-icetea-1.0.0-r351_0.tar.bz2",
-"total":399
+"total":401
 }
 ],
 "downloads_per_date":[
@@ -750,6 +750,10 @@
 {
 "date":"2022-01-01",
 "total":399
+},
+{
+"date":"2022-01-02",
+"total":401
 }
 ],
 "package":"bioconductor-icetea",
@@ -1228,6 +1232,15 @@
 {
 "basename":"bioconductor-icetea-1.0.0-r351_0.tar.bz2",
 "total":399
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-icetea-1.0.0-r351_0.tar.bz2",
+"total":401
 }
 ]
 }

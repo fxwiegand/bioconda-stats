@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-serumstimulation-1.20.0-r36_1.tar.bz2",
-"total":321
+"total":323
 }
 ],
 "downloads_per_date":[
@@ -746,6 +746,10 @@
 {
 "date":"2022-01-01",
 "total":447
+},
+{
+"date":"2022-01-02",
+"total":449
 }
 ],
 "package":"bioconductor-serumstimulation",
@@ -1225,6 +1229,15 @@
 {
 "basename":"bioconductor-serumstimulation-1.20.0-r36_1.tar.bz2",
 "total":321
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-serumstimulation-1.20.0-r36_1.tar.bz2",
+"total":323
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-pathnet-1.23.0-r36_1.tar.bz2",
-"total":333
+"total":335
 }
 ],
 "downloads_per_date":[
@@ -738,6 +738,10 @@
 {
 "date":"2022-01-01",
 "total":491
+},
+{
+"date":"2022-01-02",
+"total":493
 }
 ],
 "package":"bioconductor-pathnet",
@@ -1229,6 +1233,15 @@
 {
 "basename":"bioconductor-pathnet-1.23.0-r36_1.tar.bz2",
 "total":333
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pathnet-1.23.0-r36_1.tar.bz2",
+"total":335
 }
 ]
 }

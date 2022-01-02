@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-qcmetrics-1.24.0-r36_0.tar.bz2",
-"total":342
+"total":344
 }
 ],
 "downloads_per_date":[
@@ -758,6 +758,10 @@
 {
 "date":"2022-01-01",
 "total":342
+},
+{
+"date":"2022-01-02",
+"total":344
 }
 ],
 "package":"bioconductor-qcmetrics",
@@ -1236,6 +1240,15 @@
 {
 "basename":"bioconductor-qcmetrics-1.24.0-r36_0.tar.bz2",
 "total":342
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-qcmetrics-1.24.0-r36_0.tar.bz2",
+"total":344
 }
 ]
 }

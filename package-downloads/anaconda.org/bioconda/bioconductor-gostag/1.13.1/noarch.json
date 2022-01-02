@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-gostag-1.13.1-r40_0.tar.bz2",
-"total":300
+"total":302
 }
 ],
 "downloads_per_date":[
@@ -750,6 +750,10 @@
 {
 "date":"2022-01-01",
 "total":300
+},
+{
+"date":"2022-01-02",
+"total":302
 }
 ],
 "package":"bioconductor-gostag",
@@ -1219,6 +1223,15 @@
 {
 "basename":"bioconductor-gostag-1.13.1-r40_0.tar.bz2",
 "total":300
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-gostag-1.13.1-r40_0.tar.bz2",
+"total":302
 }
 ]
 }

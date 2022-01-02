@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"clust-1.12.0-pyh145b6a8_0.tar.bz2",
-"total":403
+"total":405
 }
 ],
 "downloads_per_date":[
@@ -826,6 +826,10 @@
 {
 "date":"2022-01-01",
 "total":403
+},
+{
+"date":"2022-01-02",
+"total":405
 }
 ],
 "package":"clust",
@@ -1331,6 +1335,15 @@
 {
 "basename":"clust-1.12.0-pyh145b6a8_0.tar.bz2",
 "total":403
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"clust-1.12.0-pyh145b6a8_0.tar.bz2",
+"total":405
 }
 ]
 }

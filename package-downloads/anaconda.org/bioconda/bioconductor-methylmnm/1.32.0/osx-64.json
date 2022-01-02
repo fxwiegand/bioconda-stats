@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-methylmnm-1.32.0-r41h68a2ddb_0.tar.bz2",
-"total":133
+"total":135
 }
 ],
 "downloads_per_date":[
@@ -250,6 +250,10 @@
 {
 "date":"2022-01-01",
 "total":133
+},
+{
+"date":"2022-01-02",
+"total":135
 }
 ],
 "package":"bioconductor-methylmnm",
@@ -791,6 +795,15 @@
 {
 "basename":"bioconductor-methylmnm-1.32.0-r41h68a2ddb_0.tar.bz2",
 "total":133
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-methylmnm-1.32.0-r41h68a2ddb_0.tar.bz2",
+"total":135
 }
 ]
 }

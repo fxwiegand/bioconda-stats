@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-celltree-1.14.0-r36_1.tar.bz2",
-"total":337
+"total":340
 }
 ],
 "downloads_per_date":[
@@ -734,6 +734,10 @@
 {
 "date":"2022-01-01",
 "total":337
+},
+{
+"date":"2022-01-02",
+"total":340
 }
 ],
 "package":"bioconductor-celltree",
@@ -1131,6 +1135,15 @@
 {
 "basename":"bioconductor-celltree-1.14.0-r36_1.tar.bz2",
 "total":337
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-celltree-1.14.0-r36_1.tar.bz2",
+"total":340
 }
 ]
 }

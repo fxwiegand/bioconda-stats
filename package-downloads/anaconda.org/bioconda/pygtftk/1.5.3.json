@@ -216,6 +216,10 @@
 {
 "date":"2022-01-01",
 "total":153
+},
+{
+"date":"2022-01-02",
+"total":155
 }
 ],
 "downloads_per_subdir":[
@@ -225,7 +229,7 @@
 },
 {
 "subdir":"osx-64",
-"total":116
+"total":118
 }
 ],
 "package":"pygtftk",
@@ -770,6 +774,15 @@
 {
 "subdir":"osx-64",
 "total":116
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":118
 }
 ]
 }

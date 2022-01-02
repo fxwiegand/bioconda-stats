@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-gemini-1.6.0-r41hdfd78af_0.tar.bz2",
-"total":245
+"total":247
 }
 ],
 "downloads_per_date":[
@@ -730,6 +730,10 @@
 {
 "date":"2022-01-01",
 "total":245
+},
+{
+"date":"2022-01-02",
+"total":247
 }
 ],
 "package":"bioconductor-gemini",
@@ -1082,6 +1086,15 @@
 {
 "basename":"bioconductor-gemini-1.6.0-r41hdfd78af_0.tar.bz2",
 "total":245
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-gemini-1.6.0-r41hdfd78af_0.tar.bz2",
+"total":247
 }
 ]
 }

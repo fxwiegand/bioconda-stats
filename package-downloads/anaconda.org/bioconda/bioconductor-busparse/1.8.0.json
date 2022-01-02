@@ -204,6 +204,10 @@
 {
 "date":"2022-01-01",
 "total":100
+},
+{
+"date":"2022-01-02",
+"total":102
 }
 ],
 "downloads_per_subdir":[
@@ -213,7 +217,7 @@
 },
 {
 "subdir":"osx-64",
-"total":79
+"total":81
 }
 ],
 "package":"bioconductor-busparse",
@@ -647,6 +651,15 @@
 {
 "subdir":"osx-64",
 "total":79
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":81
 }
 ]
 }

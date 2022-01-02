@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-abaenrichment-1.24.0-r41h832b226_0.tar.bz2",
-"total":122
+"total":124
 }
 ],
 "downloads_per_date":[
@@ -246,6 +246,10 @@
 {
 "date":"2022-01-01",
 "total":122
+},
+{
+"date":"2022-01-02",
+"total":124
 }
 ],
 "package":"bioconductor-abaenrichment",
@@ -724,6 +728,15 @@
 {
 "basename":"bioconductor-abaenrichment-1.24.0-r41h832b226_0.tar.bz2",
 "total":122
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-abaenrichment-1.24.0-r41h832b226_0.tar.bz2",
+"total":124
 }
 ]
 }

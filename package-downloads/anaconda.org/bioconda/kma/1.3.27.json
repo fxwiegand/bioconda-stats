@@ -120,6 +120,10 @@
 {
 "date":"2022-01-01",
 "total":103
+},
+{
+"date":"2022-01-02",
+"total":105
 }
 ],
 "downloads_per_subdir":[
@@ -129,7 +133,7 @@
 },
 {
 "subdir":"osx-64",
-"total":65
+"total":67
 }
 ],
 "package":"kma",
@@ -457,6 +461,15 @@
 {
 "subdir":"osx-64",
 "total":65
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":67
 }
 ]
 }

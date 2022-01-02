@@ -168,6 +168,10 @@
 {
 "date":"2022-01-01",
 "total":100
+},
+{
+"date":"2022-01-02",
+"total":102
 }
 ],
 "downloads_per_subdir":[
@@ -177,7 +181,7 @@
 },
 {
 "subdir":"osx-64",
-"total":82
+"total":84
 }
 ],
 "package":"leviosam",
@@ -587,6 +591,15 @@
 {
 "subdir":"osx-64",
 "total":82
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":84
 }
 ]
 }

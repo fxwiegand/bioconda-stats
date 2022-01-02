@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-logicfs-2.8.0-r40_0.tar.bz2",
-"total":296
+"total":299
 }
 ],
 "downloads_per_date":[
@@ -742,6 +742,10 @@
 {
 "date":"2022-01-01",
 "total":296
+},
+{
+"date":"2022-01-02",
+"total":299
 }
 ],
 "package":"bioconductor-logicfs",
@@ -1184,6 +1188,15 @@
 {
 "basename":"bioconductor-logicfs-2.8.0-r40_0.tar.bz2",
 "total":296
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-logicfs-2.8.0-r40_0.tar.bz2",
+"total":299
 }
 ]
 }

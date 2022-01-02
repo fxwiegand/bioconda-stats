@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-soggi-1.22.0-r40hdfd78af_1.tar.bz2",
-"total":299
+"total":301
 }
 ],
 "downloads_per_date":[
@@ -766,6 +766,10 @@
 {
 "date":"2022-01-01",
 "total":390
+},
+{
+"date":"2022-01-02",
+"total":392
 }
 ],
 "package":"bioconductor-soggi",
@@ -1257,6 +1261,15 @@
 {
 "basename":"bioconductor-soggi-1.22.0-r40hdfd78af_1.tar.bz2",
 "total":299
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-soggi-1.22.0-r40hdfd78af_1.tar.bz2",
+"total":301
 }
 ]
 }

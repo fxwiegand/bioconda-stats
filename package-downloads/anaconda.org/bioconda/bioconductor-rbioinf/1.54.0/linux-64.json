@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rbioinf-1.54.0-r41hd029910_0.tar.bz2",
-"total":24
+"total":25
 }
 ],
 "downloads_per_date":[
@@ -90,6 +90,10 @@
 {
 "date":"2022-01-01",
 "total":24
+},
+{
+"date":"2022-01-02",
+"total":25
 }
 ],
 "package":"bioconductor-rbioinf",
@@ -199,6 +203,15 @@
 {
 "basename":"bioconductor-rbioinf-1.54.0-r41hd029910_0.tar.bz2",
 "total":24
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rbioinf-1.54.0-r41hd029910_0.tar.bz2",
+"total":25
 }
 ]
 }

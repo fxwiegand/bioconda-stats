@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"icount-2.0.0-py_1.tar.bz2",
-"total":454
+"total":456
 }
 ],
 "downloads_per_date":[
@@ -742,6 +742,10 @@
 {
 "date":"2022-01-01",
 "total":454
+},
+{
+"date":"2022-01-02",
+"total":456
 }
 ],
 "package":"icount",
@@ -1103,6 +1107,15 @@
 {
 "basename":"icount-2.0.0-py_1.tar.bz2",
 "total":454
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"icount-2.0.0-py_1.tar.bz2",
+"total":456
 }
 ]
 }

@@ -244,6 +244,10 @@
 {
 "date":"2022-01-01",
 "total":209
+},
+{
+"date":"2022-01-02",
+"total":211
 }
 ],
 "downloads_per_subdir":[
@@ -253,7 +257,7 @@
 },
 {
 "subdir":"osx-64",
-"total":143
+"total":145
 }
 ],
 "package":"bioconductor-minet",
@@ -888,6 +892,15 @@
 {
 "subdir":"osx-64",
 "total":143
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":145
 }
 ]
 }

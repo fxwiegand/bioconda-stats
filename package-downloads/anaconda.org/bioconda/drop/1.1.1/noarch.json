@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"drop-1.1.1-pyhdfd78af_0.tar.bz2",
-"total":95
+"total":97
 }
 ],
 "downloads_per_date":[
@@ -162,6 +162,10 @@
 {
 "date":"2022-01-01",
 "total":95
+},
+{
+"date":"2022-01-02",
+"total":97
 }
 ],
 "package":"drop",
@@ -460,6 +464,15 @@
 {
 "basename":"drop-1.1.1-pyhdfd78af_0.tar.bz2",
 "total":95
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"drop-1.1.1-pyhdfd78af_0.tar.bz2",
+"total":97
 }
 ]
 }

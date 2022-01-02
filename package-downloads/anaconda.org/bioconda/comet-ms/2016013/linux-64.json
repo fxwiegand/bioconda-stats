@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"comet-ms-2016013-h7d875b9_3.tar.bz2",
-"total":1296
+"total":1297
 },
 {
 "basename":"comet-ms-2016013-h2d50403_1.tar.bz2",
@@ -478,6 +478,10 @@
 {
 "date":"2022-01-01",
 "total":9394
+},
+{
+"date":"2022-01-02",
+"total":9395
 }
 ],
 "package":"comet-ms",
@@ -854,6 +858,15 @@
 {
 "basename":"comet-ms-2016013-h2d50403_1.tar.bz2",
 "total":2644
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"comet-ms-2016013-h7d875b9_3.tar.bz2",
+"total":1297
 }
 ]
 }

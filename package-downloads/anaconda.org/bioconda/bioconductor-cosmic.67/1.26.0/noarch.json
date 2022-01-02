@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-cosmic.67-1.26.0-r40hdfd78af_1.tar.bz2",
-"total":272
+"total":274
 }
 ],
 "downloads_per_date":[
@@ -750,6 +750,10 @@
 {
 "date":"2022-01-01",
 "total":342
+},
+{
+"date":"2022-01-02",
+"total":344
 }
 ],
 "package":"bioconductor-cosmic.67",
@@ -1255,6 +1259,15 @@
 {
 "basename":"bioconductor-cosmic.67-1.26.0-r40hdfd78af_1.tar.bz2",
 "total":272
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cosmic.67-1.26.0-r40hdfd78af_1.tar.bz2",
+"total":274
 }
 ]
 }

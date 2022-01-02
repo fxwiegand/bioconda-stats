@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"augur-6.4.1-py_0.tar.bz2",
-"total":303
+"total":306
 }
 ],
 "downloads_per_date":[
@@ -726,6 +726,10 @@
 {
 "date":"2022-01-01",
 "total":303
+},
+{
+"date":"2022-01-02",
+"total":306
 }
 ],
 "package":"augur",
@@ -1168,6 +1172,15 @@
 {
 "basename":"augur-6.4.1-py_0.tar.bz2",
 "total":303
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"augur-6.4.1-py_0.tar.bz2",
+"total":306
 }
 ]
 }

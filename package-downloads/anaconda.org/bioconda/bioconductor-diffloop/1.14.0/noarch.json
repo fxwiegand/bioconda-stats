@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-diffloop-1.14.0-r36_0.tar.bz2",
-"total":323
+"total":325
 }
 ],
 "downloads_per_date":[
@@ -698,6 +698,10 @@
 {
 "date":"2022-01-01",
 "total":323
+},
+{
+"date":"2022-01-02",
+"total":325
 }
 ],
 "package":"bioconductor-diffloop",
@@ -1050,6 +1054,15 @@
 {
 "basename":"bioconductor-diffloop-1.14.0-r36_0.tar.bz2",
 "total":323
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-diffloop-1.14.0-r36_0.tar.bz2",
+"total":325
 }
 ]
 }

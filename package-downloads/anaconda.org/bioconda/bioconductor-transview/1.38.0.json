@@ -212,6 +212,10 @@
 {
 "date":"2022-01-01",
 "total":118
+},
+{
+"date":"2022-01-02",
+"total":120
 }
 ],
 "downloads_per_subdir":[
@@ -221,7 +225,7 @@
 },
 {
 "subdir":"osx-64",
-"total":95
+"total":97
 }
 ],
 "package":"bioconductor-transview",
@@ -678,6 +682,15 @@
 {
 "subdir":"osx-64",
 "total":95
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":97
 }
 ]
 }

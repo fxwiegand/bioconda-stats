@@ -184,6 +184,10 @@
 {
 "date":"2022-01-01",
 "total":119
+},
+{
+"date":"2022-01-02",
+"total":121
 }
 ],
 "downloads_per_subdir":[
@@ -193,7 +197,7 @@
 },
 {
 "subdir":"osx-64",
-"total":95
+"total":97
 }
 ],
 "package":"lca",
@@ -622,6 +626,15 @@
 {
 "subdir":"osx-64",
 "total":95
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":97
 }
 ]
 }

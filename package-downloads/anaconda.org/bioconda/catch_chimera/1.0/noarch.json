@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"catch_chimera-1.0-0.tar.bz2",
-"total":340
+"total":342
 }
 ],
 "downloads_per_date":[
@@ -790,6 +790,10 @@
 {
 "date":"2022-01-01",
 "total":340
+},
+{
+"date":"2022-01-02",
+"total":342
 }
 ],
 "package":"catch_chimera",
@@ -1250,6 +1254,15 @@
 {
 "basename":"catch_chimera-1.0-0.tar.bz2",
 "total":340
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"catch_chimera-1.0-0.tar.bz2",
+"total":342
 }
 ]
 }

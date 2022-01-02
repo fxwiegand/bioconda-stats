@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-cma-1.40.0-r351_0.tar.bz2",
-"total":407
+"total":409
 }
 ],
 "downloads_per_date":[
@@ -774,6 +774,10 @@
 {
 "date":"2022-01-01",
 "total":407
+},
+{
+"date":"2022-01-02",
+"total":409
 }
 ],
 "package":"bioconductor-cma",
@@ -1252,6 +1256,15 @@
 {
 "basename":"bioconductor-cma-1.40.0-r351_0.tar.bz2",
 "total":407
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cma-1.40.0-r351_0.tar.bz2",
+"total":409
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"domino-0.1.1-pyhdfd78af_0.tar.bz2",
-"total":180
+"total":182
 }
 ],
 "downloads_per_date":[
@@ -434,6 +434,10 @@
 {
 "date":"2022-01-01",
 "total":180
+},
+{
+"date":"2022-01-02",
+"total":182
 }
 ],
 "package":"domino",
@@ -921,6 +925,15 @@
 {
 "basename":"domino-0.1.1-pyhdfd78af_0.tar.bz2",
 "total":180
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"domino-0.1.1-pyhdfd78af_0.tar.bz2",
+"total":182
 }
 ]
 }

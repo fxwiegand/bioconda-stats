@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-curatedcrcdata-2.16.0-r36_1.tar.bz2",
-"total":270
+"total":273
 }
 ],
 "downloads_per_date":[
@@ -718,6 +718,10 @@
 {
 "date":"2022-01-01",
 "total":270
+},
+{
+"date":"2022-01-02",
+"total":273
 }
 ],
 "package":"bioconductor-curatedcrcdata",
@@ -1070,6 +1074,15 @@
 {
 "basename":"bioconductor-curatedcrcdata-2.16.0-r36_1.tar.bz2",
 "total":270
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-curatedcrcdata-2.16.0-r36_1.tar.bz2",
+"total":273
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"igv-reports-0.9.2-py_0.tar.bz2",
-"total":333
+"total":335
 }
 ],
 "downloads_per_date":[
@@ -742,6 +742,10 @@
 {
 "date":"2022-01-01",
 "total":333
+},
+{
+"date":"2022-01-02",
+"total":335
 }
 ],
 "package":"igv-reports",
@@ -1220,6 +1224,15 @@
 {
 "basename":"igv-reports-0.9.2-py_0.tar.bz2",
 "total":333
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"igv-reports-0.9.2-py_0.tar.bz2",
+"total":335
 }
 ]
 }

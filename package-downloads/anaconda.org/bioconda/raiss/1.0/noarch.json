@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"raiss-1.0-py_0.tar.bz2",
-"total":306
+"total":308
 }
 ],
 "downloads_per_date":[
@@ -722,6 +722,10 @@
 {
 "date":"2022-01-01",
 "total":306
+},
+{
+"date":"2022-01-02",
+"total":308
 }
 ],
 "package":"raiss",
@@ -1101,6 +1105,15 @@
 {
 "basename":"raiss-1.0-py_0.tar.bz2",
 "total":306
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"raiss-1.0-py_0.tar.bz2",
+"total":308
 }
 ]
 }

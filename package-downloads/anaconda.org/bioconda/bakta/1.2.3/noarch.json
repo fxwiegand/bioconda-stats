@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bakta-1.2.3-pyhdfd78af_0.tar.bz2",
-"total":82
+"total":85
 }
 ],
 "downloads_per_date":[
@@ -150,6 +150,10 @@
 {
 "date":"2022-01-01",
 "total":82
+},
+{
+"date":"2022-01-02",
+"total":85
 }
 ],
 "package":"bakta",
@@ -412,6 +416,15 @@
 {
 "basename":"bakta-1.2.3-pyhdfd78af_0.tar.bz2",
 "total":82
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bakta-1.2.3-pyhdfd78af_0.tar.bz2",
+"total":85
 }
 ]
 }

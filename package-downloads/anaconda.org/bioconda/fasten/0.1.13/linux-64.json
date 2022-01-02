@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"fasten-0.1.13-h779adbc_2.tar.bz2",
-"total":63
+"total":64
 },
 {
 "basename":"fasten-0.1.13-h516909a_1.tar.bz2",
@@ -294,6 +294,10 @@
 {
 "date":"2022-01-01",
 "total":398
+},
+{
+"date":"2022-01-02",
+"total":399
 }
 ],
 "package":"fasten",
@@ -502,6 +506,15 @@
 {
 "basename":"fasten-0.1.13-0.tar.bz2",
 "total":243
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"fasten-0.1.13-h779adbc_2.tar.bz2",
+"total":64
 }
 ]
 }

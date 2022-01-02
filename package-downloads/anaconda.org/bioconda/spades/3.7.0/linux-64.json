@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"spades-3.7.0-0.tar.bz2",
-"total":1410
+"total":1411
 }
 ],
 "downloads_per_date":[
@@ -330,6 +330,10 @@
 {
 "date":"2022-01-01",
 "total":1410
+},
+{
+"date":"2022-01-02",
+"total":1411
 }
 ],
 "package":"spades",
@@ -421,6 +425,15 @@
 {
 "basename":"spades-3.7.0-0.tar.bz2",
 "total":1410
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"spades-3.7.0-0.tar.bz2",
+"total":1411
 }
 ]
 }

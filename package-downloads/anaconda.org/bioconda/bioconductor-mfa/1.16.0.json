@@ -240,6 +240,10 @@
 {
 "date":"2022-01-01",
 "total":149
+},
+{
+"date":"2022-01-02",
+"total":151
 }
 ],
 "downloads_per_subdir":[
@@ -249,7 +253,7 @@
 },
 {
 "subdir":"osx-64",
-"total":123
+"total":125
 }
 ],
 "package":"bioconductor-mfa",
@@ -775,6 +779,15 @@
 {
 "subdir":"osx-64",
 "total":123
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":125
 }
 ]
 }

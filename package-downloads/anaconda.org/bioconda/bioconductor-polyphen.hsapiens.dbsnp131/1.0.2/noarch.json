@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-polyphen.hsapiens.dbsnp131-1.0.2-r41hdfd78af_8.tar.bz2",
-"total":123
+"total":125
 },
 {
 "basename":"bioconductor-polyphen.hsapiens.dbsnp131-1.0.2-r351_0.tar.bz2",
@@ -782,6 +782,10 @@
 {
 "date":"2022-01-01",
 "total":817
+},
+{
+"date":"2022-01-02",
+"total":819
 }
 ],
 "package":"bioconductor-polyphen.hsapiens.dbsnp131",
@@ -1480,6 +1484,15 @@
 {
 "basename":"bioconductor-polyphen.hsapiens.dbsnp131-1.0.2-r41hdfd78af_8.tar.bz2",
 "total":123
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-polyphen.hsapiens.dbsnp131-1.0.2-r41hdfd78af_8.tar.bz2",
+"total":125
 }
 ]
 }

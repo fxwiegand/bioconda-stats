@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-asset-2.6.0-r40_0.tar.bz2",
-"total":289
+"total":292
 }
 ],
 "downloads_per_date":[
@@ -706,6 +706,10 @@
 {
 "date":"2022-01-01",
 "total":289
+},
+{
+"date":"2022-01-02",
+"total":292
 }
 ],
 "package":"bioconductor-asset",
@@ -1076,6 +1080,15 @@
 {
 "basename":"bioconductor-asset-2.6.0-r40_0.tar.bz2",
 "total":289
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-asset-2.6.0-r40_0.tar.bz2",
+"total":292
 }
 ]
 }

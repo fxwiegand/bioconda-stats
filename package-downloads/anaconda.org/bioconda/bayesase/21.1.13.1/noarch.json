@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bayesase-21.1.13.1-py_0.tar.bz2",
-"total":298
+"total":301
 }
 ],
 "downloads_per_date":[
@@ -762,6 +762,10 @@
 {
 "date":"2022-01-01",
 "total":298
+},
+{
+"date":"2022-01-02",
+"total":301
 }
 ],
 "package":"bayesase",
@@ -1213,6 +1217,15 @@
 {
 "basename":"bayesase-21.1.13.1-py_0.tar.bz2",
 "total":298
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"bayesase-21.1.13.1-py_0.tar.bz2",
+"total":301
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"planemo-0.73.0-py_0.tar.bz2",
-"total":239
+"total":241
 }
 ],
 "downloads_per_date":[
@@ -714,6 +714,10 @@
 {
 "date":"2022-01-01",
 "total":239
+},
+{
+"date":"2022-01-02",
+"total":241
 }
 ],
 "package":"planemo",
@@ -1075,6 +1079,15 @@
 {
 "basename":"planemo-0.73.0-py_0.tar.bz2",
 "total":239
+}
+]
+},
+{
+"date":"2022-01-02",
+"downloads_per_basename":[
+{
+"basename":"planemo-0.73.0-py_0.tar.bz2",
+"total":241
 }
 ]
 }
