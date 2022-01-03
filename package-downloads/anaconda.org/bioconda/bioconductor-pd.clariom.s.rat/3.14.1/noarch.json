@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-pd.clariom.s.rat-3.14.1-r41hdfd78af_8.tar.bz2",
-"total":120
+"total":122
 },
 {
 "basename":"bioconductor-pd.clariom.s.rat-3.14.1-r351_0.tar.bz2",
@@ -806,6 +806,10 @@
 {
 "date":"2022-01-02",
 "total":778
+},
+{
+"date":"2022-01-03",
+"total":780
 }
 ],
 "package":"bioconductor-pd.clariom.s.rat",
@@ -1534,6 +1538,15 @@
 {
 "basename":"bioconductor-pd.clariom.s.rat-3.14.1-r41hdfd78af_8.tar.bz2",
 "total":120
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pd.clariom.s.rat-3.14.1-r41hdfd78af_8.tar.bz2",
+"total":122
 }
 ]
 }

@@ -232,6 +232,10 @@
 {
 "date":"2022-01-02",
 "total":144
+},
+{
+"date":"2022-01-03",
+"total":146
 }
 ],
 "downloads_per_subdir":[
@@ -241,7 +245,7 @@
 },
 {
 "subdir":"osx-64",
-"total":118
+"total":120
 }
 ],
 "package":"bioconductor-repitools",
@@ -793,6 +797,15 @@
 {
 "subdir":"osx-64",
 "total":118
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":120
 }
 ]
 }

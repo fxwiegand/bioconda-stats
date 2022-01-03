@@ -240,6 +240,10 @@
 {
 "date":"2022-01-02",
 "total":196
+},
+{
+"date":"2022-01-03",
+"total":198
 }
 ],
 "downloads_per_subdir":[
@@ -249,7 +253,7 @@
 },
 {
 "subdir":"osx-64",
-"total":132
+"total":134
 }
 ],
 "package":"bioconductor-cn.mops",
@@ -888,6 +892,15 @@
 {
 "subdir":"osx-64",
 "total":132
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":134
 }
 ]
 }

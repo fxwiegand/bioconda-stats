@@ -72,6 +72,10 @@
 {
 "date":"2022-01-02",
 "total":99
+},
+{
+"date":"2022-01-03",
+"total":101
 }
 ],
 "downloads_per_subdir":[
@@ -81,7 +85,7 @@
 },
 {
 "subdir":"osx-64",
-"total":59
+"total":61
 }
 ],
 "package":"pyhmmer",
@@ -273,6 +277,15 @@
 {
 "subdir":"osx-64",
 "total":59
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":61
 }
 ]
 }

@@ -216,6 +216,10 @@
 {
 "date":"2022-01-02",
 "total":141
+},
+{
+"date":"2022-01-03",
+"total":143
 }
 ],
 "downloads_per_subdir":[
@@ -225,7 +229,7 @@
 },
 {
 "subdir":"osx-64",
-"total":116
+"total":118
 }
 ],
 "package":"bioconductor-hilda",
@@ -753,6 +757,15 @@
 {
 "subdir":"osx-64",
 "total":116
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":118
 }
 ]
 }

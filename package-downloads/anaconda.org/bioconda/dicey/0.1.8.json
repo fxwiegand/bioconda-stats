@@ -152,6 +152,10 @@
 {
 "date":"2022-01-02",
 "total":96
+},
+{
+"date":"2022-01-03",
+"total":98
 }
 ],
 "downloads_per_subdir":[
@@ -161,7 +165,7 @@
 },
 {
 "subdir":"osx-64",
-"total":76
+"total":78
 }
 ],
 "package":"dicey",
@@ -535,6 +539,15 @@
 {
 "subdir":"osx-64",
 "total":76
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":78
 }
 ]
 }

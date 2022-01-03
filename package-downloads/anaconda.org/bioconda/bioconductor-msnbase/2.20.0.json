@@ -244,6 +244,10 @@
 {
 "date":"2022-01-02",
 "total":332
+},
+{
+"date":"2022-01-03",
+"total":334
 }
 ],
 "downloads_per_subdir":[
@@ -253,7 +257,7 @@
 },
 {
 "subdir":"osx-64",
-"total":190
+"total":192
 }
 ],
 "package":"bioconductor-msnbase",
@@ -894,6 +898,15 @@
 {
 "subdir":"osx-64",
 "total":190
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":192
 }
 ]
 }

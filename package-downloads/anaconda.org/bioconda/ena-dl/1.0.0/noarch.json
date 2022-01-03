@@ -11,7 +11,7 @@
 },
 {
 "basename":"ena-dl-1.0.0-hdfd78af_2.tar.bz2",
-"total":274
+"total":276
 }
 ],
 "downloads_per_date":[
@@ -766,6 +766,10 @@
 {
 "date":"2022-01-02",
 "total":481
+},
+{
+"date":"2022-01-03",
+"total":483
 }
 ],
 "package":"ena-dl",
@@ -1296,6 +1300,15 @@
 {
 "basename":"ena-dl-1.0.0-hdfd78af_2.tar.bz2",
 "total":274
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_basename":[
+{
+"basename":"ena-dl-1.0.0-hdfd78af_2.tar.bz2",
+"total":276
 }
 ]
 }

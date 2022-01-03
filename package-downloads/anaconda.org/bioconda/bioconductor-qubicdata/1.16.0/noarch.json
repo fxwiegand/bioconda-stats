@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-qubicdata-1.16.0-r40_0.tar.bz2",
-"total":283
+"total":285
 }
 ],
 "downloads_per_date":[
@@ -742,6 +742,10 @@
 {
 "date":"2022-01-02",
 "total":283
+},
+{
+"date":"2022-01-03",
+"total":285
 }
 ],
 "package":"bioconductor-qubicdata",
@@ -1211,6 +1215,15 @@
 {
 "basename":"bioconductor-qubicdata-1.16.0-r40_0.tar.bz2",
 "total":283
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-qubicdata-1.16.0-r40_0.tar.bz2",
+"total":285
 }
 ]
 }

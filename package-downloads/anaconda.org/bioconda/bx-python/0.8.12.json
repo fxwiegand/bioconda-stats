@@ -152,6 +152,10 @@
 {
 "date":"2022-01-02",
 "total":1273
+},
+{
+"date":"2022-01-03",
+"total":1274
 }
 ],
 "downloads_per_subdir":[
@@ -161,7 +165,7 @@
 },
 {
 "subdir":"linux-64",
-"total":989
+"total":990
 }
 ],
 "package":"bx-python",
@@ -621,6 +625,15 @@
 {
 "subdir":"osx-64",
 "total":284
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":990
 }
 ]
 }

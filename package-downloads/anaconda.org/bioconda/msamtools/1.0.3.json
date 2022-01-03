@@ -188,6 +188,10 @@
 {
 "date":"2022-01-02",
 "total":116
+},
+{
+"date":"2022-01-03",
+"total":118
 }
 ],
 "downloads_per_subdir":[
@@ -197,7 +201,7 @@
 },
 {
 "subdir":"osx-64",
-"total":97
+"total":99
 }
 ],
 "package":"msamtools",
@@ -653,6 +657,15 @@
 {
 "subdir":"osx-64",
 "total":97
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":99
 }
 ]
 }

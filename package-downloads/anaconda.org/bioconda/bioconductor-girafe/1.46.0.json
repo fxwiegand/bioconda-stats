@@ -240,6 +240,10 @@
 {
 "date":"2022-01-02",
 "total":152
+},
+{
+"date":"2022-01-03",
+"total":154
 }
 ],
 "downloads_per_subdir":[
@@ -249,7 +253,7 @@
 },
 {
 "subdir":"osx-64",
-"total":128
+"total":130
 }
 ],
 "package":"bioconductor-girafe",
@@ -831,6 +835,15 @@
 {
 "subdir":"osx-64",
 "total":128
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":130
 }
 ]
 }

@@ -128,6 +128,10 @@
 {
 "date":"2022-01-02",
 "total":226
+},
+{
+"date":"2022-01-03",
+"total":228
 }
 ],
 "downloads_per_subdir":[
@@ -137,7 +141,7 @@
 },
 {
 "subdir":"osx-64",
-"total":131
+"total":133
 }
 ],
 "package":"mageck",
@@ -515,6 +519,15 @@
 {
 "subdir":"osx-64",
 "total":131
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":133
 }
 ]
 }

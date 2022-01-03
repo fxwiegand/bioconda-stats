@@ -116,6 +116,10 @@
 {
 "date":"2022-01-02",
 "total":66
+},
+{
+"date":"2022-01-03",
+"total":68
 }
 ],
 "downloads_per_subdir":[
@@ -125,7 +129,7 @@
 },
 {
 "subdir":"osx-64",
-"total":53
+"total":55
 }
 ],
 "package":"r-liger",
@@ -403,6 +407,15 @@
 {
 "subdir":"osx-64",
 "total":53
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":55
 }
 ]
 }

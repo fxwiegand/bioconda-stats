@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rnits-1.10.0-r3.3.2_0.tar.bz2",
-"total":475
+"total":476
 },
 {
 "basename":"bioconductor-rnits-1.10.0-r3.4.1_0.tar.bz2",
@@ -202,6 +202,10 @@
 {
 "date":"2022-01-02",
 "total":1041
+},
+{
+"date":"2022-01-03",
+"total":1042
 }
 ],
 "package":"bioconductor-rnits",
@@ -308,6 +312,15 @@
 {
 "basename":"bioconductor-rnits-1.10.0-r3.4.1_0.tar.bz2",
 "total":566
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rnits-1.10.0-r3.3.2_0.tar.bz2",
+"total":476
 }
 ]
 }

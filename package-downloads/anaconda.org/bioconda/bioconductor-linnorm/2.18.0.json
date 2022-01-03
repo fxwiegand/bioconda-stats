@@ -248,6 +248,10 @@
 {
 "date":"2022-01-02",
 "total":186
+},
+{
+"date":"2022-01-03",
+"total":188
 }
 ],
 "downloads_per_subdir":[
@@ -257,7 +261,7 @@
 },
 {
 "subdir":"osx-64",
-"total":138
+"total":140
 }
 ],
 "package":"bioconductor-linnorm",
@@ -875,6 +879,15 @@
 {
 "subdir":"osx-64",
 "total":138
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":140
 }
 ]
 }

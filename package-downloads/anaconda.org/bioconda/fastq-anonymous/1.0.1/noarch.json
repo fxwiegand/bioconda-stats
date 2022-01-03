@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"fastq-anonymous-1.0.1-py_2.tar.bz2",
-"total":299
+"total":301
 }
 ],
 "downloads_per_date":[
@@ -746,6 +746,10 @@
 {
 "date":"2022-01-02",
 "total":299
+},
+{
+"date":"2022-01-03",
+"total":301
 }
 ],
 "package":"fastq-anonymous",
@@ -1206,6 +1210,15 @@
 {
 "basename":"fastq-anonymous-1.0.1-py_2.tar.bz2",
 "total":299
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_basename":[
+{
+"basename":"fastq-anonymous-1.0.1-py_2.tar.bz2",
+"total":301
 }
 ]
 }

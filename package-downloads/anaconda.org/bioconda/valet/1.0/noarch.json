@@ -11,7 +11,7 @@
 },
 {
 "basename":"valet-1.0-hdfd78af_5.tar.bz2",
-"total":164
+"total":166
 },
 {
 "basename":"valet-1.0-2.tar.bz2",
@@ -786,6 +786,10 @@
 {
 "date":"2022-01-02",
 "total":636
+},
+{
+"date":"2022-01-03",
+"total":638
 }
 ],
 "package":"valet",
@@ -1383,6 +1387,15 @@
 {
 "basename":"valet-1.0-hdfd78af_5.tar.bz2",
 "total":164
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_basename":[
+{
+"basename":"valet-1.0-hdfd78af_5.tar.bz2",
+"total":166
 }
 ]
 }

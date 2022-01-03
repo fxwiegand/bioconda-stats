@@ -11,7 +11,7 @@
 },
 {
 "basename":"pgcgap-1.0.9-2.tar.bz2",
-"total":298
+"total":300
 }
 ],
 "downloads_per_date":[
@@ -750,6 +750,10 @@
 {
 "date":"2022-01-02",
 "total":500
+},
+{
+"date":"2022-01-03",
+"total":502
 }
 ],
 "package":"pgcgap",
@@ -1253,6 +1257,15 @@
 {
 "basename":"pgcgap-1.0.9-2.tar.bz2",
 "total":298
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_basename":[
+{
+"basename":"pgcgap-1.0.9-2.tar.bz2",
+"total":300
 }
 ]
 }

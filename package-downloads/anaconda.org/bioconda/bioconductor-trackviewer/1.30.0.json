@@ -236,6 +236,10 @@
 {
 "date":"2022-01-02",
 "total":160
+},
+{
+"date":"2022-01-03",
+"total":162
 }
 ],
 "downloads_per_subdir":[
@@ -245,7 +249,7 @@
 },
 {
 "subdir":"osx-64",
-"total":122
+"total":124
 }
 ],
 "package":"bioconductor-trackviewer",
@@ -812,6 +816,15 @@
 {
 "subdir":"osx-64",
 "total":122
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":124
 }
 ]
 }

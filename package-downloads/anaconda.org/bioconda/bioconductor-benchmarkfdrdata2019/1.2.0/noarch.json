@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-benchmarkfdrdata2019-1.2.0-r40_0.tar.bz2",
-"total":286
+"total":288
 }
 ],
 "downloads_per_date":[
@@ -746,6 +746,10 @@
 {
 "date":"2022-01-02",
 "total":286
+},
+{
+"date":"2022-01-03",
+"total":288
 }
 ],
 "package":"bioconductor-benchmarkfdrdata2019",
@@ -1224,6 +1228,15 @@
 {
 "basename":"bioconductor-benchmarkfdrdata2019-1.2.0-r40_0.tar.bz2",
 "total":286
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-benchmarkfdrdata2019-1.2.0-r40_0.tar.bz2",
+"total":288
 }
 ]
 }

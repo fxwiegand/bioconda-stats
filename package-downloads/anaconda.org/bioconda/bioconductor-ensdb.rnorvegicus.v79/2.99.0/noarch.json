@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-ensdb.rnorvegicus.v79-2.99.0-r41hdfd78af_8.tar.bz2",
-"total":106
+"total":108
 },
 {
 "basename":"bioconductor-ensdb.rnorvegicus.v79-2.99.0-r351_0.tar.bz2",
@@ -806,6 +806,10 @@
 {
 "date":"2022-01-02",
 "total":781
+},
+{
+"date":"2022-01-03",
+"total":783
 }
 ],
 "package":"bioconductor-ensdb.rnorvegicus.v79",
@@ -1465,6 +1469,15 @@
 {
 "basename":"bioconductor-ensdb.rnorvegicus.v79-2.99.0-r41hdfd78af_8.tar.bz2",
 "total":106
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ensdb.rnorvegicus.v79-2.99.0-r41hdfd78af_8.tar.bz2",
+"total":108
 }
 ]
 }

@@ -204,6 +204,10 @@
 {
 "date":"2022-01-02",
 "total":228
+},
+{
+"date":"2022-01-03",
+"total":230
 }
 ],
 "downloads_per_subdir":[
@@ -213,7 +217,7 @@
 },
 {
 "subdir":"osx-64",
-"total":142
+"total":144
 }
 ],
 "package":"mikado",
@@ -729,6 +733,15 @@
 {
 "subdir":"osx-64",
 "total":142
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":144
 }
 ]
 }

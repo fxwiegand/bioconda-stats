@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-somaticadata-1.22.0-r361_1.tar.bz2",
-"total":322
+"total":324
 }
 ],
 "downloads_per_date":[
@@ -750,6 +750,10 @@
 {
 "date":"2022-01-02",
 "total":449
+},
+{
+"date":"2022-01-03",
+"total":451
 }
 ],
 "package":"bioconductor-somaticadata",
@@ -1260,6 +1264,15 @@
 {
 "basename":"bioconductor-somaticadata-1.22.0-r361_1.tar.bz2",
 "total":322
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-somaticadata-1.22.0-r361_1.tar.bz2",
+"total":324
 }
 ]
 }

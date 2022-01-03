@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-reactome.db-1.66.0-r351_0.tar.bz2",
-"total":686
+"total":688
 }
 ],
 "downloads_per_date":[
@@ -778,6 +778,10 @@
 {
 "date":"2022-01-02",
 "total":686
+},
+{
+"date":"2022-01-03",
+"total":688
 }
 ],
 "package":"bioconductor-reactome.db",
@@ -1247,6 +1251,15 @@
 {
 "basename":"bioconductor-reactome.db-1.66.0-r351_0.tar.bz2",
 "total":686
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-reactome.db-1.66.0-r351_0.tar.bz2",
+"total":688
 }
 ]
 }

@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-m20kcod.db-3.4.0-r41hdfd78af_8.tar.bz2",
-"total":108
+"total":110
 },
 {
 "basename":"bioconductor-m20kcod.db-3.4.0-r351_0.tar.bz2",
@@ -802,6 +802,10 @@
 {
 "date":"2022-01-02",
 "total":750
+},
+{
+"date":"2022-01-03",
+"total":752
 }
 ],
 "package":"bioconductor-m20kcod.db",
@@ -1494,6 +1498,15 @@
 {
 "basename":"bioconductor-m20kcod.db-3.4.0-r41hdfd78af_8.tar.bz2",
 "total":108
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-m20kcod.db-3.4.0-r41hdfd78af_8.tar.bz2",
+"total":110
 }
 ]
 }

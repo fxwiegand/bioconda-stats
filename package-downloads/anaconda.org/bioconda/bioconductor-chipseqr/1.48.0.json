@@ -244,6 +244,10 @@
 {
 "date":"2022-01-02",
 "total":150
+},
+{
+"date":"2022-01-03",
+"total":152
 }
 ],
 "downloads_per_subdir":[
@@ -253,7 +257,7 @@
 },
 {
 "subdir":"osx-64",
-"total":129
+"total":131
 }
 ],
 "package":"bioconductor-chipseqr",
@@ -844,6 +848,15 @@
 {
 "subdir":"osx-64",
 "total":129
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":131
 }
 ]
 }

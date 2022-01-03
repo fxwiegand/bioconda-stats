@@ -240,6 +240,10 @@
 {
 "date":"2022-01-02",
 "total":146
+},
+{
+"date":"2022-01-03",
+"total":148
 }
 ],
 "downloads_per_subdir":[
@@ -249,7 +253,7 @@
 },
 {
 "subdir":"osx-64",
-"total":123
+"total":125
 }
 ],
 "package":"bioconductor-triplex",
@@ -816,6 +820,15 @@
 {
 "subdir":"osx-64",
 "total":123
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":125
 }
 ]
 }

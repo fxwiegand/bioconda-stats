@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-smad-1.4.0-r40h5f743cb_0.tar.bz2",
-"total":64
+"total":65
 }
 ],
 "downloads_per_date":[
@@ -154,6 +154,10 @@
 {
 "date":"2022-01-02",
 "total":64
+},
+{
+"date":"2022-01-03",
+"total":65
 }
 ],
 "package":"bioconductor-smad",
@@ -218,6 +222,15 @@
 {
 "basename":"bioconductor-smad-1.4.0-r40h5f743cb_0.tar.bz2",
 "total":64
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-smad-1.4.0-r40h5f743cb_0.tar.bz2",
+"total":65
 }
 ]
 }

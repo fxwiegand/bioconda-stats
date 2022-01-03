@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-m10kcod.db-3.4.0-r41hdfd78af_8.tar.bz2",
-"total":114
+"total":116
 },
 {
 "basename":"bioconductor-m10kcod.db-3.4.0-r351_0.tar.bz2",
@@ -810,6 +810,10 @@
 {
 "date":"2022-01-02",
 "total":754
+},
+{
+"date":"2022-01-03",
+"total":756
 }
 ],
 "package":"bioconductor-m10kcod.db",
@@ -1520,6 +1524,15 @@
 {
 "basename":"bioconductor-m10kcod.db-3.4.0-r41hdfd78af_8.tar.bz2",
 "total":114
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-m10kcod.db-3.4.0-r41hdfd78af_8.tar.bz2",
+"total":116
 }
 ]
 }

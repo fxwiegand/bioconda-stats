@@ -244,6 +244,10 @@
 {
 "date":"2022-01-02",
 "total":145
+},
+{
+"date":"2022-01-03",
+"total":147
 }
 ],
 "downloads_per_subdir":[
@@ -253,7 +257,7 @@
 },
 {
 "subdir":"osx-64",
-"total":122
+"total":124
 }
 ],
 "package":"bioconductor-netresponse",
@@ -834,6 +838,15 @@
 {
 "subdir":"osx-64",
 "total":122
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":124
 }
 ]
 }

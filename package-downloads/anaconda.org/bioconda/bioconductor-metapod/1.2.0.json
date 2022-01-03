@@ -248,6 +248,10 @@
 {
 "date":"2022-01-02",
 "total":287
+},
+{
+"date":"2022-01-03",
+"total":289
 }
 ],
 "downloads_per_subdir":[
@@ -257,7 +261,7 @@
 },
 {
 "subdir":"osx-64",
-"total":165
+"total":167
 }
 ],
 "package":"bioconductor-metapod",
@@ -969,6 +973,15 @@
 {
 "subdir":"osx-64",
 "total":165
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":167
 }
 ]
 }

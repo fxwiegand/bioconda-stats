@@ -188,6 +188,10 @@
 {
 "date":"2022-01-02",
 "total":166
+},
+{
+"date":"2022-01-03",
+"total":168
 }
 ],
 "downloads_per_subdir":[
@@ -197,7 +201,7 @@
 },
 {
 "subdir":"osx-64",
-"total":100
+"total":102
 }
 ],
 "package":"comet-ms",
@@ -682,6 +686,15 @@
 {
 "subdir":"osx-64",
 "total":100
+}
+]
+},
+{
+"date":"2022-01-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":102
 }
 ]
 }
