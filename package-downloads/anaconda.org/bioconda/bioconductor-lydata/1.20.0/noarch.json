@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-lydata-1.20.0-r41hdfd78af_0.tar.bz2",
-"total":119
+"total":123
 }
 ],
 "downloads_per_date":[
@@ -246,6 +246,10 @@
 {
 "date":"2022-01-03",
 "total":119
+},
+{
+"date":"2022-01-04",
+"total":123
 }
 ],
 "package":"bioconductor-lydata",
@@ -778,6 +782,15 @@
 {
 "basename":"bioconductor-lydata-1.20.0-r41hdfd78af_0.tar.bz2",
 "total":119
+}
+]
+},
+{
+"date":"2022-01-04",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-lydata-1.20.0-r41hdfd78af_0.tar.bz2",
+"total":123
 }
 ]
 }
