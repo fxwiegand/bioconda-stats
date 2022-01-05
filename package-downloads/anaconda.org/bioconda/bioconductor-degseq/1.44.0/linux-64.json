@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-degseq-1.44.0-r40h399db7b_1.tar.bz2",
-"total":59
+"total":60
 },
 {
 "basename":"bioconductor-degseq-1.44.0-r40h5f743cb_0.tar.bz2",
@@ -238,6 +238,10 @@
 {
 "date":"2022-01-04",
 "total":142
+},
+{
+"date":"2022-01-05",
+"total":143
 }
 ],
 "package":"bioconductor-degseq",
@@ -348,6 +352,15 @@
 {
 "basename":"bioconductor-degseq-1.44.0-r40h5f743cb_0.tar.bz2",
 "total":83
+}
+]
+},
+{
+"date":"2022-01-05",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-degseq-1.44.0-r40h399db7b_1.tar.bz2",
+"total":60
 }
 ]
 }

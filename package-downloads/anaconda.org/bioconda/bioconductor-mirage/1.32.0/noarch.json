@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-mirage-1.32.0-r40hdfd78af_1.tar.bz2",
-"total":240
+"total":242
 }
 ],
 "downloads_per_date":[
@@ -730,6 +730,10 @@
 {
 "date":"2022-01-04",
 "total":318
+},
+{
+"date":"2022-01-05",
+"total":320
 }
 ],
 "package":"bioconductor-mirage",
@@ -1140,6 +1144,15 @@
 {
 "basename":"bioconductor-mirage-1.32.0-r40hdfd78af_1.tar.bz2",
 "total":240
+}
+]
+},
+{
+"date":"2022-01-05",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mirage-1.32.0-r40hdfd78af_1.tar.bz2",
+"total":242
 }
 ]
 }

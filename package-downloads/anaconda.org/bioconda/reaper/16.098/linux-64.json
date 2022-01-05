@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"reaper-16.098-hed695b0_3.tar.bz2",
-"total":63
+"total":64
 },
 {
 "basename":"reaper-16.098-1.tar.bz2",
@@ -246,6 +246,10 @@
 {
 "date":"2022-01-04",
 "total":1018
+},
+{
+"date":"2022-01-05",
+"total":1019
 }
 ],
 "package":"reaper",
@@ -415,6 +419,15 @@
 {
 "basename":"reaper-16.098-0.tar.bz2",
 "total":542
+}
+]
+},
+{
+"date":"2022-01-05",
+"downloads_per_basename":[
+{
+"basename":"reaper-16.098-hed695b0_3.tar.bz2",
+"total":64
 }
 ]
 }

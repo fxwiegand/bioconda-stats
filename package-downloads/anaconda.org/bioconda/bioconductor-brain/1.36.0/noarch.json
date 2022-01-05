@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-brain-1.36.0-r40hdfd78af_1.tar.bz2",
-"total":281
+"total":283
 }
 ],
 "downloads_per_date":[
@@ -774,6 +774,10 @@
 {
 "date":"2022-01-04",
 "total":363
+},
+{
+"date":"2022-01-05",
+"total":365
 }
 ],
 "package":"bioconductor-brain",
@@ -1242,6 +1246,15 @@
 {
 "basename":"bioconductor-brain-1.36.0-r40hdfd78af_1.tar.bz2",
 "total":281
+}
+]
+},
+{
+"date":"2022-01-05",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-brain-1.36.0-r40hdfd78af_1.tar.bz2",
+"total":283
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-porcine.db-3.13.0-r41hdfd78af_0.tar.bz2",
-"total":121
+"total":123
 }
 ],
 "downloads_per_date":[
@@ -238,6 +238,10 @@
 {
 "date":"2022-01-04",
 "total":121
+},
+{
+"date":"2022-01-05",
+"total":123
 }
 ],
 "package":"bioconductor-porcine.db",
@@ -743,6 +747,15 @@
 {
 "basename":"bioconductor-porcine.db-3.13.0-r41hdfd78af_0.tar.bz2",
 "total":121
+}
+]
+},
+{
+"date":"2022-01-05",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-porcine.db-3.13.0-r41hdfd78af_0.tar.bz2",
+"total":123
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-ping-2.38.0-r41h68a2ddb_0.tar.bz2",
-"total":95
+"total":97
 }
 ],
 "downloads_per_date":[
@@ -222,6 +222,10 @@
 {
 "date":"2022-01-04",
 "total":95
+},
+{
+"date":"2022-01-05",
+"total":97
 }
 ],
 "package":"bioconductor-ping",
@@ -646,6 +650,15 @@
 {
 "basename":"bioconductor-ping-2.38.0-r41h68a2ddb_0.tar.bz2",
 "total":95
+}
+]
+},
+{
+"date":"2022-01-05",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ping-2.38.0-r41h68a2ddb_0.tar.bz2",
+"total":97
 }
 ]
 }

@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-lapointe.db-3.2.3-r41hdfd78af_9.tar.bz2",
-"total":111
+"total":113
 },
 {
 "basename":"bioconductor-lapointe.db-3.2.3-r351_1.tar.bz2",
@@ -798,6 +798,10 @@
 {
 "date":"2022-01-04",
 "total":878
+},
+{
+"date":"2022-01-05",
+"total":880
 }
 ],
 "package":"bioconductor-lapointe.db",
@@ -1492,6 +1496,15 @@
 {
 "basename":"bioconductor-lapointe.db-3.2.3-r41hdfd78af_8.tar.bz2",
 "total":160
+}
+]
+},
+{
+"date":"2022-01-05",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-lapointe.db-3.2.3-r41hdfd78af_9.tar.bz2",
+"total":113
 }
 ]
 }

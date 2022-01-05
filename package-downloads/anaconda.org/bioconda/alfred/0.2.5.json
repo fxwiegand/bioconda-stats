@@ -160,6 +160,10 @@
 {
 "date":"2022-01-04",
 "total":99
+},
+{
+"date":"2022-01-05",
+"total":101
 }
 ],
 "downloads_per_subdir":[
@@ -169,7 +173,7 @@
 },
 {
 "subdir":"osx-64",
-"total":81
+"total":83
 }
 ],
 "package":"alfred",
@@ -549,6 +553,15 @@
 {
 "subdir":"osx-64",
 "total":81
+}
+]
+},
+{
+"date":"2022-01-05",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":83
 }
 ]
 }

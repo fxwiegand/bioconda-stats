@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"fastqc-0.11.2-1.tar.bz2",
-"total":1461
+"total":1463
 }
 ],
 "downloads_per_date":[
@@ -818,6 +818,10 @@
 {
 "date":"2022-01-04",
 "total":1461
+},
+{
+"date":"2022-01-05",
+"total":1463
 }
 ],
 "package":"fastqc",
@@ -1350,6 +1354,15 @@
 {
 "basename":"fastqc-0.11.2-1.tar.bz2",
 "total":1461
+}
+]
+},
+{
+"date":"2022-01-05",
+"downloads_per_basename":[
+{
+"basename":"fastqc-0.11.2-1.tar.bz2",
+"total":1463
 }
 ]
 }

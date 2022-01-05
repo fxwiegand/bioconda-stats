@@ -7,7 +7,7 @@
 },
 {
 "basename":"vcf2maf-1.6.18-2.tar.bz2",
-"total":363
+"total":365
 },
 {
 "basename":"vcf2maf-1.6.18-1.tar.bz2",
@@ -770,6 +770,10 @@
 {
 "date":"2022-01-04",
 "total":947
+},
+{
+"date":"2022-01-05",
+"total":949
 }
 ],
 "package":"vcf2maf",
@@ -1331,6 +1335,15 @@
 {
 "basename":"vcf2maf-1.6.18-1.tar.bz2",
 "total":519
+}
+]
+},
+{
+"date":"2022-01-05",
+"downloads_per_basename":[
+{
+"basename":"vcf2maf-1.6.18-2.tar.bz2",
+"total":365
 }
 ]
 }

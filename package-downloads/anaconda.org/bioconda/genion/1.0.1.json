@@ -68,6 +68,10 @@
 {
 "date":"2022-01-04",
 "total":42
+},
+{
+"date":"2022-01-05",
+"total":44
 }
 ],
 "downloads_per_subdir":[
@@ -77,7 +81,7 @@
 },
 {
 "subdir":"osx-64",
-"total":35
+"total":37
 }
 ],
 "package":"genion",
@@ -212,6 +216,15 @@
 {
 "subdir":"osx-64",
 "total":35
+}
+]
+},
+{
+"date":"2022-01-05",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":37
 }
 ]
 }

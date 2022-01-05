@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-mouse.db0-3.7.1-r351_0.tar.bz2",
-"total":365
+"total":367
 }
 ],
 "downloads_per_date":[
@@ -738,6 +738,10 @@
 {
 "date":"2022-01-04",
 "total":365
+},
+{
+"date":"2022-01-05",
+"total":367
 }
 ],
 "package":"bioconductor-mouse.db0",
@@ -1216,6 +1220,15 @@
 {
 "basename":"bioconductor-mouse.db0-3.7.1-r351_0.tar.bz2",
 "total":365
+}
+]
+},
+{
+"date":"2022-01-05",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mouse.db0-3.7.1-r351_0.tar.bz2",
+"total":367
 }
 ]
 }

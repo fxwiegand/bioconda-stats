@@ -15,7 +15,7 @@
 },
 {
 "basename":"r-tcga2stat-1.2-r41h3121a25_8.tar.bz2",
-"total":228
+"total":230
 }
 ],
 "downloads_per_date":[
@@ -770,6 +770,10 @@
 {
 "date":"2022-01-04",
 "total":494
+},
+{
+"date":"2022-01-05",
+"total":496
 }
 ],
 "package":"r-tcga2stat",
@@ -1249,6 +1253,15 @@
 {
 "basename":"r-tcga2stat-1.2-r41h3121a25_8.tar.bz2",
 "total":228
+}
+]
+},
+{
+"date":"2022-01-05",
+"downloads_per_basename":[
+{
+"basename":"r-tcga2stat-1.2-r41h3121a25_8.tar.bz2",
+"total":230
 }
 ]
 }

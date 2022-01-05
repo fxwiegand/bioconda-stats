@@ -11,7 +11,7 @@
 },
 {
 "basename":"hifive-1.5.7-py27h76bc9d7_2.tar.bz2",
-"total":70
+"total":71
 },
 {
 "basename":"hifive-1.5.7-py27h24bf2e0_0.tar.bz2",
@@ -366,6 +366,10 @@
 {
 "date":"2022-01-04",
 "total":453
+},
+{
+"date":"2022-01-05",
+"total":454
 }
 ],
 "package":"hifive",
@@ -600,6 +604,15 @@
 {
 "basename":"hifive-1.5.7-py27h99fba26_3.tar.bz2",
 "total":53
+}
+]
+},
+{
+"date":"2022-01-05",
+"downloads_per_basename":[
+{
+"basename":"hifive-1.5.7-py27h76bc9d7_2.tar.bz2",
+"total":71
 }
 ]
 }

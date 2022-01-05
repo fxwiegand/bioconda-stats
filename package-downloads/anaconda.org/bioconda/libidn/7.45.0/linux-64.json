@@ -7,7 +7,7 @@
 },
 {
 "basename":"libidn-7.45.0-he1b5a44_3.tar.bz2",
-"total":67
+"total":68
 },
 {
 "basename":"libidn-7.45.0-2.tar.bz2",
@@ -370,6 +370,10 @@
 {
 "date":"2022-01-04",
 "total":2671
+},
+{
+"date":"2022-01-05",
+"total":2672
 }
 ],
 "package":"libidn",
@@ -617,6 +621,15 @@
 {
 "basename":"libidn-7.45.0-h1b792b2_4.tar.bz2",
 "total":52
+}
+]
+},
+{
+"date":"2022-01-05",
+"downloads_per_basename":[
+{
+"basename":"libidn-7.45.0-he1b5a44_3.tar.bz2",
+"total":68
 }
 ]
 }

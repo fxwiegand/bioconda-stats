@@ -7,7 +7,7 @@
 },
 {
 "basename":"ensembl-vep-104.1-pl5262h4a94de4_1.tar.bz2",
-"total":281
+"total":283
 }
 ],
 "downloads_per_date":[
@@ -806,6 +806,10 @@
 {
 "date":"2022-01-04",
 "total":399
+},
+{
+"date":"2022-01-05",
+"total":401
 }
 ],
 "package":"ensembl-vep",
@@ -1342,6 +1346,15 @@
 {
 "basename":"ensembl-vep-104.1-pl5262h4a94de4_1.tar.bz2",
 "total":281
+}
+]
+},
+{
+"date":"2022-01-05",
+"downloads_per_basename":[
+{
+"basename":"ensembl-vep-104.1-pl5262h4a94de4_1.tar.bz2",
+"total":283
 }
 ]
 }

@@ -240,6 +240,10 @@
 {
 "date":"2022-01-04",
 "total":160
+},
+{
+"date":"2022-01-05",
+"total":162
 }
 ],
 "downloads_per_subdir":[
@@ -249,7 +253,7 @@
 },
 {
 "subdir":"osx-64",
-"total":126
+"total":128
 }
 ],
 "package":"bioconductor-clusterexperiment",
@@ -767,6 +771,15 @@
 {
 "subdir":"osx-64",
 "total":126
+}
+]
+},
+{
+"date":"2022-01-05",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":128
 }
 ]
 }

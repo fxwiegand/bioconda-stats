@@ -7,7 +7,7 @@
 },
 {
 "basename":"meta-sparse-0.1.12-py27h3dcb392_2.tar.bz2",
-"total":79
+"total":80
 },
 {
 "basename":"meta-sparse-0.1.12-py27h24bf2e0_1.tar.bz2",
@@ -302,6 +302,10 @@
 {
 "date":"2022-01-04",
 "total":559
+},
+{
+"date":"2022-01-05",
+"total":560
 }
 ],
 "package":"meta-sparse",
@@ -500,6 +504,15 @@
 {
 "basename":"meta-sparse-0.1.12-py27h24bf2e0_0.tar.bz2",
 "total":213
+}
+]
+},
+{
+"date":"2022-01-05",
+"downloads_per_basename":[
+{
+"basename":"meta-sparse-0.1.12-py27h3dcb392_2.tar.bz2",
+"total":80
 }
 ]
 }
