@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-rhesuscdf-2.18.0-r41hdfd78af_8.tar.bz2",
-"total":118
+"total":120
 },
 {
 "basename":"bioconductor-rhesuscdf-2.18.0-r351_0.tar.bz2",
@@ -830,6 +830,10 @@
 {
 "date":"2022-01-05",
 "total":765
+},
+{
+"date":"2022-01-06",
+"total":767
 }
 ],
 "package":"bioconductor-rhesuscdf",
@@ -1562,6 +1566,15 @@
 {
 "basename":"bioconductor-rhesuscdf-2.18.0-r41hdfd78af_8.tar.bz2",
 "total":118
+}
+]
+},
+{
+"date":"2022-01-06",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rhesuscdf-2.18.0-r41hdfd78af_8.tar.bz2",
+"total":120
 }
 ]
 }

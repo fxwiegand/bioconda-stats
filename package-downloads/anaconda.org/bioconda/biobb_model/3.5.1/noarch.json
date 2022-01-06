@@ -7,7 +7,7 @@
 },
 {
 "basename":"biobb_model-3.5.1-py_1.tar.bz2",
-"total":312
+"total":314
 }
 ],
 "downloads_per_date":[
@@ -778,6 +778,10 @@
 {
 "date":"2022-01-05",
 "total":365
+},
+{
+"date":"2022-01-06",
+"total":367
 }
 ],
 "package":"biobb_model",
@@ -1325,6 +1329,15 @@
 {
 "basename":"biobb_model-3.5.1-py_1.tar.bz2",
 "total":312
+}
+]
+},
+{
+"date":"2022-01-06",
+"downloads_per_basename":[
+{
+"basename":"biobb_model-3.5.1-py_1.tar.bz2",
+"total":314
 }
 ]
 }

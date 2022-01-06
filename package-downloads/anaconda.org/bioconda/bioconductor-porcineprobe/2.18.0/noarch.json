@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-porcineprobe-2.18.0-r41hdfd78af_8.tar.bz2",
-"total":115
+"total":117
 },
 {
 "basename":"bioconductor-porcineprobe-2.18.0-r351_0.tar.bz2",
@@ -814,6 +814,10 @@
 {
 "date":"2022-01-05",
 "total":777
+},
+{
+"date":"2022-01-06",
+"total":779
 }
 ],
 "package":"bioconductor-porcineprobe",
@@ -1513,6 +1517,15 @@
 {
 "basename":"bioconductor-porcineprobe-2.18.0-r41hdfd78af_8.tar.bz2",
 "total":115
+}
+]
+},
+{
+"date":"2022-01-06",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-porcineprobe-2.18.0-r41hdfd78af_8.tar.bz2",
+"total":117
 }
 ]
 }

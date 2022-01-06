@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-asset-2.2.0-r36_1.tar.bz2",
-"total":305
+"total":308
 }
 ],
 "downloads_per_date":[
@@ -746,6 +746,10 @@
 {
 "date":"2022-01-05",
 "total":451
+},
+{
+"date":"2022-01-06",
+"total":454
 }
 ],
 "package":"bioconductor-asset",
@@ -1184,6 +1188,15 @@
 {
 "basename":"bioconductor-asset-2.2.0-r36_1.tar.bz2",
 "total":305
+}
+]
+},
+{
+"date":"2022-01-06",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-asset-2.2.0-r36_1.tar.bz2",
+"total":308
 }
 ]
 }

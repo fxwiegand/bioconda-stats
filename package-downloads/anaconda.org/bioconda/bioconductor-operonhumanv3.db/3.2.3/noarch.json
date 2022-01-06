@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-operonhumanv3.db-3.2.3-r41hdfd78af_8.tar.bz2",
-"total":80
+"total":82
 },
 {
 "basename":"bioconductor-operonhumanv3.db-3.2.3-r36_2.tar.bz2",
@@ -782,6 +782,10 @@
 {
 "date":"2022-01-05",
 "total":723
+},
+{
+"date":"2022-01-06",
+"total":725
 }
 ],
 "package":"bioconductor-operonhumanv3.db",
@@ -1400,6 +1404,15 @@
 {
 "basename":"bioconductor-operonhumanv3.db-3.2.3-r41hdfd78af_8.tar.bz2",
 "total":80
+}
+]
+},
+{
+"date":"2022-01-06",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-operonhumanv3.db-3.2.3-r41hdfd78af_8.tar.bz2",
+"total":82
 }
 ]
 }

@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-pd.hugene.1.0.st.v1-3.14.1-r41hdfd78af_8.tar.bz2",
-"total":123
+"total":125
 },
 {
 "basename":"bioconductor-pd.hugene.1.0.st.v1-3.14.1-r351_0.tar.bz2",
@@ -826,6 +826,10 @@
 {
 "date":"2022-01-05",
 "total":843
+},
+{
+"date":"2022-01-06",
+"total":845
 }
 ],
 "package":"bioconductor-pd.hugene.1.0.st.v1",
@@ -1602,6 +1606,15 @@
 {
 "basename":"bioconductor-pd.hugene.1.0.st.v1-3.14.1-r41hdfd78af_8.tar.bz2",
 "total":123
+}
+]
+},
+{
+"date":"2022-01-06",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pd.hugene.1.0.st.v1-3.14.1-r41hdfd78af_8.tar.bz2",
+"total":125
 }
 ]
 }

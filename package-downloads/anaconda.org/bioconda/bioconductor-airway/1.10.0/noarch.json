@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-airway-1.10.0-r40hdfd78af_1.tar.bz2",
-"total":301
+"total":303
 }
 ],
 "downloads_per_date":[
@@ -762,6 +762,10 @@
 {
 "date":"2022-01-05",
 "total":379
+},
+{
+"date":"2022-01-06",
+"total":381
 }
 ],
 "package":"bioconductor-airway",
@@ -1303,6 +1307,15 @@
 {
 "basename":"bioconductor-airway-1.10.0-r40hdfd78af_1.tar.bz2",
 "total":301
+}
+]
+},
+{
+"date":"2022-01-06",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-airway-1.10.0-r40hdfd78af_1.tar.bz2",
+"total":303
 }
 ]
 }

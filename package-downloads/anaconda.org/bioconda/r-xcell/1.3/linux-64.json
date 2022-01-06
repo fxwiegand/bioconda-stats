@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-xcell-1.3-r40h7d875b9_1.tar.bz2",
-"total":79
+"total":80
 },
 {
 "basename":"r-xcell-1.3-r41h7d875b9_2.tar.bz2",
@@ -602,6 +602,10 @@
 {
 "date":"2022-01-05",
 "total":356
+},
+{
+"date":"2022-01-06",
+"total":357
 }
 ],
 "package":"r-xcell",
@@ -912,6 +916,15 @@
 {
 "basename":"r-xcell-1.3-r41h7d875b9_2.tar.bz2",
 "total":103
+}
+]
+},
+{
+"date":"2022-01-06",
+"downloads_per_basename":[
+{
+"basename":"r-xcell-1.3-r40h7d875b9_1.tar.bz2",
+"total":80
 }
 ]
 }

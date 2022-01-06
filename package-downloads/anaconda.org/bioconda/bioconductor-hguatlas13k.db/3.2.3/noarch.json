@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-hguatlas13k.db-3.2.3-r41hdfd78af_9.tar.bz2",
-"total":119
+"total":121
 },
 {
 "basename":"bioconductor-hguatlas13k.db-3.2.3-r351_0.tar.bz2",
@@ -822,6 +822,10 @@
 {
 "date":"2022-01-05",
 "total":875
+},
+{
+"date":"2022-01-06",
+"total":877
 }
 ],
 "package":"bioconductor-hguatlas13k.db",
@@ -1558,6 +1562,15 @@
 {
 "basename":"bioconductor-hguatlas13k.db-3.2.3-r41hdfd78af_9.tar.bz2",
 "total":119
+}
+]
+},
+{
+"date":"2022-01-06",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hguatlas13k.db-3.2.3-r41hdfd78af_9.tar.bz2",
+"total":121
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-gatingmldata-2.24.0-r36_1.tar.bz2",
-"total":325
+"total":327
 }
 ],
 "downloads_per_date":[
@@ -762,6 +762,10 @@
 {
 "date":"2022-01-05",
 "total":457
+},
+{
+"date":"2022-01-06",
+"total":459
 }
 ],
 "package":"bioconductor-gatingmldata",
@@ -1281,6 +1285,15 @@
 {
 "basename":"bioconductor-gatingmldata-2.24.0-r36_1.tar.bz2",
 "total":325
+}
+]
+},
+{
+"date":"2022-01-06",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-gatingmldata-2.24.0-r36_1.tar.bz2",
+"total":327
 }
 ]
 }

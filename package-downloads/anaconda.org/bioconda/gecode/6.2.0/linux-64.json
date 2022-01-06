@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"gecode-6.2.0-h3272c59_1.tar.bz2",
-"total":76
+"total":77
 },
 {
 "basename":"gecode-6.2.0-hb70a6f5_0.tar.bz2",
@@ -298,6 +298,10 @@
 {
 "date":"2022-01-05",
 "total":160
+},
+{
+"date":"2022-01-06",
+"total":161
 }
 ],
 "package":"gecode",
@@ -466,6 +470,15 @@
 {
 "basename":"gecode-6.2.0-hb70a6f5_0.tar.bz2",
 "total":84
+}
+]
+},
+{
+"date":"2022-01-06",
+"downloads_per_basename":[
+{
+"basename":"gecode-6.2.0-h3272c59_1.tar.bz2",
+"total":77
 }
 ]
 }

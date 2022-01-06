@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-mesh.db-1.13.0-r40hdfd78af_3.tar.bz2",
-"total":300
+"total":302
 }
 ],
 "downloads_per_date":[
@@ -790,6 +790,10 @@
 {
 "date":"2022-01-05",
 "total":584
+},
+{
+"date":"2022-01-06",
+"total":586
 }
 ],
 "package":"bioconductor-mesh.db",
@@ -1396,6 +1400,15 @@
 {
 "basename":"bioconductor-mesh.db-1.13.0-r40hdfd78af_3.tar.bz2",
 "total":300
+}
+]
+},
+{
+"date":"2022-01-06",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mesh.db-1.13.0-r40hdfd78af_3.tar.bz2",
+"total":302
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-malaria.db0-3.11.2-r40_0.tar.bz2",
-"total":253
+"total":255
 }
 ],
 "downloads_per_date":[
@@ -722,6 +722,10 @@
 {
 "date":"2022-01-05",
 "total":253
+},
+{
+"date":"2022-01-06",
+"total":255
 }
 ],
 "package":"bioconductor-malaria.db0",
@@ -1110,6 +1114,15 @@
 {
 "basename":"bioconductor-malaria.db0-3.11.2-r40_0.tar.bz2",
 "total":253
+}
+]
+},
+{
+"date":"2022-01-06",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-malaria.db0-3.11.2-r40_0.tar.bz2",
+"total":255
 }
 ]
 }

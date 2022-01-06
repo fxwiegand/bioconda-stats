@@ -7,7 +7,7 @@
 },
 {
 "basename":"htseq-1.99.2-py39h2b4037a_0.tar.bz2",
-"total":103
+"total":106
 }
 ],
 "downloads_per_date":[
@@ -150,6 +150,10 @@
 {
 "date":"2022-01-05",
 "total":120
+},
+{
+"date":"2022-01-06",
+"total":123
 }
 ],
 "package":"htseq",
@@ -502,6 +506,15 @@
 {
 "basename":"htseq-1.99.2-py39h2b4037a_0.tar.bz2",
 "total":103
+}
+]
+},
+{
+"date":"2022-01-06",
+"downloads_per_basename":[
+{
+"basename":"htseq-1.99.2-py39h2b4037a_0.tar.bz2",
+"total":106
 }
 ]
 }

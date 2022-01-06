@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-rguatlas4k.db-3.2.3-r41hdfd78af_9.tar.bz2",
-"total":120
+"total":122
 },
 {
 "basename":"bioconductor-rguatlas4k.db-3.2.3-r351_0.tar.bz2",
@@ -830,6 +830,10 @@
 {
 "date":"2022-01-05",
 "total":913
+},
+{
+"date":"2022-01-06",
+"total":915
 }
 ],
 "package":"bioconductor-rguatlas4k.db",
@@ -1622,6 +1626,15 @@
 {
 "basename":"bioconductor-rguatlas4k.db-3.2.3-r41hdfd78af_9.tar.bz2",
 "total":120
+}
+]
+},
+{
+"date":"2022-01-06",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rguatlas4k.db-3.2.3-r41hdfd78af_9.tar.bz2",
+"total":122
 }
 ]
 }

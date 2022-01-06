@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-dexseq-1.30.0-r36_1.tar.bz2",
-"total":403
+"total":405
 }
 ],
 "downloads_per_date":[
@@ -738,6 +738,10 @@
 {
 "date":"2022-01-05",
 "total":403
+},
+{
+"date":"2022-01-06",
+"total":405
 }
 ],
 "package":"bioconductor-dexseq",
@@ -1117,6 +1121,15 @@
 {
 "basename":"bioconductor-dexseq-1.30.0-r36_1.tar.bz2",
 "total":403
+}
+]
+},
+{
+"date":"2022-01-06",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-dexseq-1.30.0-r36_1.tar.bz2",
+"total":405
 }
 ]
 }

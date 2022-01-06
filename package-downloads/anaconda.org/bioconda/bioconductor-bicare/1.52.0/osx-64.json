@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-bicare-1.52.0-r41h68a2ddb_0.tar.bz2",
-"total":123
+"total":125
 }
 ],
 "downloads_per_date":[
@@ -250,6 +250,10 @@
 {
 "date":"2022-01-05",
 "total":123
+},
+{
+"date":"2022-01-06",
+"total":125
 }
 ],
 "package":"bioconductor-bicare",
@@ -719,6 +723,15 @@
 {
 "basename":"bioconductor-bicare-1.52.0-r41h68a2ddb_0.tar.bz2",
 "total":123
+}
+]
+},
+{
+"date":"2022-01-06",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bicare-1.52.0-r41h68a2ddb_0.tar.bz2",
+"total":125
 }
 ]
 }

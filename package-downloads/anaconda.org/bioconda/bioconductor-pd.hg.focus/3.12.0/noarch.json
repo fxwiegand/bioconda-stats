@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-pd.hg.focus-3.12.0-r41hdfd78af_8.tar.bz2",
-"total":115
+"total":117
 },
 {
 "basename":"bioconductor-pd.hg.focus-3.12.0-r351_0.tar.bz2",
@@ -802,6 +802,10 @@
 {
 "date":"2022-01-05",
 "total":788
+},
+{
+"date":"2022-01-06",
+"total":790
 }
 ],
 "package":"bioconductor-pd.hg.focus",
@@ -1481,6 +1485,15 @@
 {
 "basename":"bioconductor-pd.hg.focus-3.12.0-r41hdfd78af_8.tar.bz2",
 "total":115
+}
+]
+},
+{
+"date":"2022-01-06",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pd.hg.focus-3.12.0-r41hdfd78af_8.tar.bz2",
+"total":117
 }
 ]
 }

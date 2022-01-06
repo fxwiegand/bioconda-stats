@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-fci-1.14.0-r36_1.tar.bz2",
-"total":348
+"total":350
 }
 ],
 "downloads_per_date":[
@@ -770,6 +770,10 @@
 {
 "date":"2022-01-05",
 "total":512
+},
+{
+"date":"2022-01-06",
+"total":514
 }
 ],
 "package":"bioconductor-fci",
@@ -1276,6 +1280,15 @@
 {
 "basename":"bioconductor-fci-1.14.0-r36_1.tar.bz2",
 "total":348
+}
+]
+},
+{
+"date":"2022-01-06",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-fci-1.14.0-r36_1.tar.bz2",
+"total":350
 }
 ]
 }
