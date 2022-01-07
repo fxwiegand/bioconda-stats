@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"forgi-2.1.1-py37h4458d4e_0.tar.bz2",
-"total":12
+"total":13
 },
 {
 "basename":"forgi-2.1.1-py39h9b97cb2_0.tar.bz2",
@@ -126,6 +126,10 @@
 {
 "date":"2022-01-06",
 "total":61
+},
+{
+"date":"2022-01-07",
+"total":62
 }
 ],
 "package":"forgi",
@@ -384,6 +388,15 @@
 {
 "basename":"forgi-2.1.1-py39h9b97cb2_0.tar.bz2",
 "total":15
+}
+]
+},
+{
+"date":"2022-01-07",
+"downloads_per_basename":[
+{
+"basename":"forgi-2.1.1-py37h4458d4e_0.tar.bz2",
+"total":13
 }
 ]
 }

@@ -200,6 +200,10 @@
 {
 "date":"2022-01-06",
 "total":16326
+},
+{
+"date":"2022-01-07",
+"total":16561
 }
 ],
 "downloads_per_subdir":[
@@ -209,7 +213,7 @@
 },
 {
 "subdir":"linux-64",
-"total":16177
+"total":16412
 }
 ],
 "package":"usher",
@@ -841,6 +845,15 @@
 {
 "subdir":"linux-64",
 "total":16177
+}
+]
+},
+{
+"date":"2022-01-07",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":16412
 }
 ]
 }
