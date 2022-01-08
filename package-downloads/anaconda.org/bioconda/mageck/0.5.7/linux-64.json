@@ -71,7 +71,7 @@
 },
 {
 "basename":"mageck-0.5.7-py27h7eb728f_7.tar.bz2",
-"total":345
+"total":346
 },
 {
 "basename":"mageck-0.5.7-py36_5.tar.bz2",
@@ -498,6 +498,10 @@
 {
 "date":"2022-01-07",
 "total":5221
+},
+{
+"date":"2022-01-08",
+"total":5222
 }
 ],
 "package":"mageck",
@@ -1317,6 +1321,15 @@
 {
 "basename":"mageck-0.5.7-py36h7eb728f_7.tar.bz2",
 "total":463
+}
+]
+},
+{
+"date":"2022-01-08",
+"downloads_per_basename":[
+{
+"basename":"mageck-0.5.7-py27h7eb728f_7.tar.bz2",
+"total":346
 }
 ]
 }

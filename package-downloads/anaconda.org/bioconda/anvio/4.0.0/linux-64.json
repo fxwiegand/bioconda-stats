@@ -15,7 +15,7 @@
 },
 {
 "basename":"anvio-4.0.0-py35_1.tar.bz2",
-"total":470
+"total":471
 },
 {
 "basename":"anvio-4.0.0-py36_1.tar.bz2",
@@ -414,6 +414,10 @@
 {
 "date":"2022-01-07",
 "total":2647
+},
+{
+"date":"2022-01-08",
+"total":2648
 }
 ],
 "package":"anvio",
@@ -667,6 +671,15 @@
 {
 "basename":"anvio-4.0.0-py35_0.tar.bz2",
 "total":321
+}
+]
+},
+{
+"date":"2022-01-08",
+"downloads_per_basename":[
+{
+"basename":"anvio-4.0.0-py35_1.tar.bz2",
+"total":471
 }
 ]
 }

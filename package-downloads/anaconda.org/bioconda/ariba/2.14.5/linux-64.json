@@ -23,7 +23,7 @@
 },
 {
 "basename":"ariba-2.14.5-py37hfa133b6_1.tar.bz2",
-"total":180
+"total":181
 },
 {
 "basename":"ariba-2.14.5-py37hfa133b6_2.tar.bz2",
@@ -466,6 +466,10 @@
 {
 "date":"2022-01-07",
 "total":1250
+},
+{
+"date":"2022-01-08",
+"total":1251
 }
 ],
 "package":"ariba",
@@ -811,6 +815,15 @@
 {
 "basename":"ariba-2.14.5-py37hfa133b6_1.tar.bz2",
 "total":180
+}
+]
+},
+{
+"date":"2022-01-08",
+"downloads_per_basename":[
+{
+"basename":"ariba-2.14.5-py37hfa133b6_1.tar.bz2",
+"total":181
 }
 ]
 }

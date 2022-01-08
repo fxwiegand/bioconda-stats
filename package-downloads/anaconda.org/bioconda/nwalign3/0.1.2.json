@@ -68,6 +68,10 @@
 {
 "date":"2022-01-07",
 "total":100
+},
+{
+"date":"2022-01-08",
+"total":104
 }
 ],
 "downloads_per_subdir":[
@@ -77,7 +81,7 @@
 },
 {
 "subdir":"osx-64",
-"total":65
+"total":69
 }
 ],
 "package":"nwalign3",
@@ -243,6 +247,15 @@
 {
 "subdir":"osx-64",
 "total":65
+}
+]
+},
+{
+"date":"2022-01-08",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":69
 }
 ]
 }

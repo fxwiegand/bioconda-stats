@@ -32,6 +32,10 @@
 {
 "date":"2022-01-07",
 "total":30
+},
+{
+"date":"2022-01-08",
+"total":32
 }
 ],
 "downloads_per_subdir":[
@@ -41,7 +45,7 @@
 },
 {
 "subdir":"osx-64",
-"total":20
+"total":22
 }
 ],
 "package":"sentieon",
@@ -139,6 +143,15 @@
 {
 "subdir":"linux-64",
 "total":10
+}
+]
+},
+{
+"date":"2022-01-08",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":22
 }
 ]
 }

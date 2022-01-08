@@ -19,7 +19,7 @@
 },
 {
 "basename":"minepy-1.2.0-py27_0.tar.bz2",
-"total":674
+"total":675
 },
 {
 "basename":"minepy-1.2.0-py36_0.tar.bz2",
@@ -318,6 +318,10 @@
 {
 "date":"2022-01-07",
 "total":6881
+},
+{
+"date":"2022-01-08",
+"total":6882
 }
 ],
 "package":"minepy",
@@ -633,6 +637,15 @@
 {
 "basename":"minepy-1.2.0-py36h470a237_1.tar.bz2",
 "total":3247
+}
+]
+},
+{
+"date":"2022-01-08",
+"downloads_per_basename":[
+{
+"basename":"minepy-1.2.0-py27_0.tar.bz2",
+"total":675
 }
 ]
 }

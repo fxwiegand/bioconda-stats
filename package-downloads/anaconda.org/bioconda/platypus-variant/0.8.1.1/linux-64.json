@@ -7,7 +7,7 @@
 },
 {
 "basename":"platypus-variant-0.8.1.1-py27hdbffeaa_3.tar.bz2",
-"total":1169
+"total":1170
 },
 {
 "basename":"platypus-variant-0.8.1.1-htslib1.5_0.tar.bz2",
@@ -330,6 +330,10 @@
 {
 "date":"2022-01-07",
 "total":6153
+},
+{
+"date":"2022-01-08",
+"total":6154
 }
 ],
 "package":"platypus-variant",
@@ -536,6 +540,15 @@
 {
 "basename":"platypus-variant-0.8.1.1-htslib1.7_1.tar.bz2",
 "total":1429
+}
+]
+},
+{
+"date":"2022-01-08",
+"downloads_per_basename":[
+{
+"basename":"platypus-variant-0.8.1.1-py27hdbffeaa_3.tar.bz2",
+"total":1170
 }
 ]
 }
