@@ -31,7 +31,7 @@
 },
 {
 "basename":"bioconductor-ag.db-3.2.3-r41hdfd78af_8.tar.bz2",
-"total":272
+"total":274
 }
 ],
 "downloads_per_date":[
@@ -818,6 +818,10 @@
 {
 "date":"2022-01-08",
 "total":883
+},
+{
+"date":"2022-01-09",
+"total":885
 }
 ],
 "package":"bioconductor-ag.db",
@@ -1493,6 +1497,15 @@
 {
 "basename":"bioconductor-ag.db-3.2.3-r41hdfd78af_8.tar.bz2",
 "total":272
+}
+]
+},
+{
+"date":"2022-01-09",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ag.db-3.2.3-r41hdfd78af_8.tar.bz2",
+"total":274
 }
 ]
 }

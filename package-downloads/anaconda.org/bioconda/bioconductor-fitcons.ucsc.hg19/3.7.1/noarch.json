@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-fitcons.ucsc.hg19-3.7.1-r41hdfd78af_8.tar.bz2",
-"total":128
+"total":130
 },
 {
 "basename":"bioconductor-fitcons.ucsc.hg19-3.7.1-r351_0.tar.bz2",
@@ -826,6 +826,10 @@
 {
 "date":"2022-01-08",
 "total":757
+},
+{
+"date":"2022-01-09",
+"total":759
 }
 ],
 "package":"bioconductor-fitcons.ucsc.hg19",
@@ -1518,6 +1522,15 @@
 {
 "basename":"bioconductor-fitcons.ucsc.hg19-3.7.1-r41hdfd78af_8.tar.bz2",
 "total":128
+}
+]
+},
+{
+"date":"2022-01-09",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-fitcons.ucsc.hg19-3.7.1-r41hdfd78af_8.tar.bz2",
+"total":130
 }
 ]
 }

@@ -27,7 +27,7 @@
 },
 {
 "basename":"bioconductor-pd.maize-3.12.0-r41hdfd78af_8.tar.bz2",
-"total":128
+"total":130
 },
 {
 "basename":"bioconductor-pd.maize-3.12.0-r41hdfd78af_7.tar.bz2",
@@ -826,6 +826,10 @@
 {
 "date":"2022-01-08",
 "total":746
+},
+{
+"date":"2022-01-09",
+"total":748
 }
 ],
 "package":"bioconductor-pd.maize",
@@ -1587,6 +1591,15 @@
 {
 "basename":"bioconductor-pd.maize-3.12.0-r41hdfd78af_8.tar.bz2",
 "total":128
+}
+]
+},
+{
+"date":"2022-01-09",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pd.maize-3.12.0-r41hdfd78af_8.tar.bz2",
+"total":130
 }
 ]
 }

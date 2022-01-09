@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"mauve-2.4.0.r4736-h9bed127_2.tar.bz2",
-"total":317
+"total":319
 },
 {
 "basename":"mauve-2.4.0.r4736-h2688d6d_1.tar.bz2",
@@ -802,6 +802,10 @@
 {
 "date":"2022-01-08",
 "total":1090
+},
+{
+"date":"2022-01-09",
+"total":1092
 }
 ],
 "package":"mauve",
@@ -1378,6 +1382,15 @@
 {
 "basename":"mauve-2.4.0.r4736-h9bed127_2.tar.bz2",
 "total":317
+}
+]
+},
+{
+"date":"2022-01-09",
+"downloads_per_basename":[
+{
+"basename":"mauve-2.4.0.r4736-h9bed127_2.tar.bz2",
+"total":319
 }
 ]
 }
