@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ensembl-vep-99.1-pl526hecc5488_0.tar.bz2",
-"total":472
+"total":473
 }
 ],
 "downloads_per_date":[
@@ -794,6 +794,10 @@
 {
 "date":"2022-01-09",
 "total":472
+},
+{
+"date":"2022-01-10",
+"total":473
 }
 ],
 "package":"ensembl-vep",
@@ -1281,6 +1285,15 @@
 {
 "basename":"ensembl-vep-99.1-pl526hecc5488_0.tar.bz2",
 "total":472
+}
+]
+},
+{
+"date":"2022-01-10",
+"downloads_per_basename":[
+{
+"basename":"ensembl-vep-99.1-pl526hecc5488_0.tar.bz2",
+"total":473
 }
 ]
 }

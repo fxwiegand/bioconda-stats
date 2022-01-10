@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"nf-core-1.9-py_0.tar.bz2",
-"total":612
+"total":614
 }
 ],
 "downloads_per_date":[
@@ -838,6 +838,10 @@
 {
 "date":"2022-01-09",
 "total":612
+},
+{
+"date":"2022-01-10",
+"total":614
 }
 ],
 "package":"nf-core",
@@ -1388,6 +1392,15 @@
 {
 "basename":"nf-core-1.9-py_0.tar.bz2",
 "total":612
+}
+]
+},
+{
+"date":"2022-01-10",
+"downloads_per_basename":[
+{
+"basename":"nf-core-1.9-py_0.tar.bz2",
+"total":614
 }
 ]
 }

@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-txdb.rnorvegicus.biomart.igis-2.3.2-r41hdfd78af_8.tar.bz2",
-"total":118
+"total":120
 },
 {
 "basename":"bioconductor-txdb.rnorvegicus.biomart.igis-2.3.2-r351_0.tar.bz2",
@@ -826,6 +826,10 @@
 {
 "date":"2022-01-09",
 "total":765
+},
+{
+"date":"2022-01-10",
+"total":767
 }
 ],
 "package":"bioconductor-txdb.rnorvegicus.biomart.igis",
@@ -1515,6 +1519,15 @@
 {
 "basename":"bioconductor-txdb.rnorvegicus.biomart.igis-2.3.2-r41hdfd78af_8.tar.bz2",
 "total":118
+}
+]
+},
+{
+"date":"2022-01-10",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-txdb.rnorvegicus.biomart.igis-2.3.2-r41hdfd78af_8.tar.bz2",
+"total":120
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-tcseq-1.8.0-r36_1.tar.bz2",
-"total":300
+"total":302
 }
 ],
 "downloads_per_date":[
@@ -754,6 +754,10 @@
 {
 "date":"2022-01-09",
 "total":300
+},
+{
+"date":"2022-01-10",
+"total":302
 }
 ],
 "package":"bioconductor-tcseq",
@@ -1142,6 +1146,15 @@
 {
 "basename":"bioconductor-tcseq-1.8.0-r36_1.tar.bz2",
 "total":300
+}
+]
+},
+{
+"date":"2022-01-10",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-tcseq-1.8.0-r36_1.tar.bz2",
+"total":302
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-mouse.db0-3.12.0-r40hdfd78af_1.tar.bz2",
-"total":283
+"total":285
 }
 ],
 "downloads_per_date":[
@@ -778,6 +778,10 @@
 {
 "date":"2022-01-09",
 "total":343
+},
+{
+"date":"2022-01-10",
+"total":345
 }
 ],
 "package":"bioconductor-mouse.db0",
@@ -1363,6 +1367,15 @@
 {
 "basename":"bioconductor-mouse.db0-3.12.0-r40hdfd78af_1.tar.bz2",
 "total":283
+}
+]
+},
+{
+"date":"2022-01-10",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mouse.db0-3.12.0-r40hdfd78af_1.tar.bz2",
+"total":285
 }
 ]
 }

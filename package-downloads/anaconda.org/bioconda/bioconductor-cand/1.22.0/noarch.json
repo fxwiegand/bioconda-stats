@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-cand-1.22.0-r40hdfd78af_1.tar.bz2",
-"total":239
+"total":241
 }
 ],
 "downloads_per_date":[
@@ -746,6 +746,10 @@
 {
 "date":"2022-01-09",
 "total":307
+},
+{
+"date":"2022-01-10",
+"total":309
 }
 ],
 "package":"bioconductor-cand",
@@ -1166,6 +1170,15 @@
 {
 "basename":"bioconductor-cand-1.22.0-r40hdfd78af_1.tar.bz2",
 "total":239
+}
+]
+},
+{
+"date":"2022-01-10",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cand-1.22.0-r40hdfd78af_1.tar.bz2",
+"total":241
 }
 ]
 }

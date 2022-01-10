@@ -244,6 +244,10 @@
 {
 "date":"2022-01-09",
 "total":323
+},
+{
+"date":"2022-01-10",
+"total":325
 }
 ],
 "downloads_per_subdir":[
@@ -253,7 +257,7 @@
 },
 {
 "subdir":"osx-64",
-"total":163
+"total":165
 }
 ],
 "package":"macrel",
@@ -794,6 +798,15 @@
 {
 "subdir":"osx-64",
 "total":163
+}
+]
+},
+{
+"date":"2022-01-10",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":165
 }
 ]
 }

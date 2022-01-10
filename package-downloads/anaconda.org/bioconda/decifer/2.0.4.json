@@ -116,6 +116,10 @@
 {
 "date":"2022-01-09",
 "total":99
+},
+{
+"date":"2022-01-10",
+"total":101
 }
 ],
 "downloads_per_subdir":[
@@ -125,7 +129,7 @@
 },
 {
 "subdir":"osx-64",
-"total":72
+"total":74
 }
 ],
 "package":"decifer",
@@ -408,6 +412,15 @@
 {
 "subdir":"osx-64",
 "total":72
+}
+]
+},
+{
+"date":"2022-01-10",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":74
 }
 ]
 }

@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-pd.vitis.vinifera-3.12.0-r41hdfd78af_8.tar.bz2",
-"total":123
+"total":125
 },
 {
 "basename":"bioconductor-pd.vitis.vinifera-3.12.0-r351_0.tar.bz2",
@@ -826,6 +826,10 @@
 {
 "date":"2022-01-09",
 "total":773
+},
+{
+"date":"2022-01-10",
+"total":775
 }
 ],
 "package":"bioconductor-pd.vitis.vinifera",
@@ -1536,6 +1540,15 @@
 {
 "basename":"bioconductor-pd.vitis.vinifera-3.12.0-r41hdfd78af_8.tar.bz2",
 "total":123
+}
+]
+},
+{
+"date":"2022-01-10",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pd.vitis.vinifera-3.12.0-r41hdfd78af_8.tar.bz2",
+"total":125
 }
 ]
 }

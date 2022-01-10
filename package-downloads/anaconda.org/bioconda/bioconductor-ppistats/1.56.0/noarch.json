@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-ppistats-1.56.0-r40hdfd78af_1.tar.bz2",
-"total":300
+"total":302
 }
 ],
 "downloads_per_date":[
@@ -802,6 +802,10 @@
 {
 "date":"2022-01-09",
 "total":385
+},
+{
+"date":"2022-01-10",
+"total":387
 }
 ],
 "package":"bioconductor-ppistats",
@@ -1366,6 +1370,15 @@
 {
 "basename":"bioconductor-ppistats-1.56.0-r40hdfd78af_1.tar.bz2",
 "total":300
+}
+]
+},
+{
+"date":"2022-01-10",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ppistats-1.56.0-r40hdfd78af_1.tar.bz2",
+"total":302
 }
 ]
 }

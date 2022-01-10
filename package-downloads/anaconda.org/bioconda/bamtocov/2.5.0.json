@@ -60,6 +60,10 @@
 {
 "date":"2022-01-09",
 "total":56
+},
+{
+"date":"2022-01-10",
+"total":58
 }
 ],
 "downloads_per_subdir":[
@@ -69,7 +73,7 @@
 },
 {
 "subdir":"osx-64",
-"total":35
+"total":37
 }
 ],
 "package":"bamtocov",
@@ -225,6 +229,15 @@
 {
 "subdir":"linux-64",
 "total":21
+}
+]
+},
+{
+"date":"2022-01-10",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":37
 }
 ]
 }
