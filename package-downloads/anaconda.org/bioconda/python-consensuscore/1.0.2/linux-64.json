@@ -11,7 +11,7 @@
 },
 {
 "basename":"python-consensuscore-1.0.2-py36h3727419_1.tar.bz2",
-"total":329
+"total":330
 },
 {
 "basename":"python-consensuscore-1.0.2-boost1.64py35_0.tar.bz2",
@@ -330,6 +330,10 @@
 {
 "date":"2022-01-10",
 "total":5478
+},
+{
+"date":"2022-01-11",
+"total":5479
 }
 ],
 "package":"python-consensuscore",
@@ -660,6 +664,15 @@
 {
 "basename":"python-consensuscore-1.0.2-boost1.61py36_0.tar.bz2",
 "total":620
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"python-consensuscore-1.0.2-py36h3727419_1.tar.bz2",
+"total":330
 }
 ]
 }

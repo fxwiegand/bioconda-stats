@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-go-perl-0.15-pl526_3.tar.bz2",
-"total":793
+"total":794
 },
 {
 "basename":"perl-go-perl-0.15-pl5.22.0_1.tar.bz2",
@@ -326,6 +326,10 @@
 {
 "date":"2022-01-10",
 "total":2422
+},
+{
+"date":"2022-01-11",
+"total":2423
 }
 ],
 "package":"perl-go-perl",
@@ -471,6 +475,15 @@
 {
 "basename":"perl-go-perl-0.15-pl5.22.0_1.tar.bz2",
 "total":1175
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"perl-go-perl-0.15-pl526_3.tar.bz2",
+"total":794
 }
 ]
 }

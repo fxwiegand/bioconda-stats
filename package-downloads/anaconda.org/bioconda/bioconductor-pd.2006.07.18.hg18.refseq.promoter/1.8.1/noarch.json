@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-pd.2006.07.18.hg18.refseq.promoter-1.8.1-r41hdfd78af_8.tar.bz2",
-"total":129
+"total":131
 },
 {
 "basename":"bioconductor-pd.2006.07.18.hg18.refseq.promoter-1.8.1-r351_0.tar.bz2",
@@ -834,6 +834,10 @@
 {
 "date":"2022-01-10",
 "total":797
+},
+{
+"date":"2022-01-11",
+"total":799
 }
 ],
 "package":"bioconductor-pd.2006.07.18.hg18.refseq.promoter",
@@ -1575,6 +1579,15 @@
 {
 "basename":"bioconductor-pd.2006.07.18.hg18.refseq.promoter-1.8.1-r41hdfd78af_8.tar.bz2",
 "total":129
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pd.2006.07.18.hg18.refseq.promoter-1.8.1-r41hdfd78af_8.tar.bz2",
+"total":131
 }
 ]
 }

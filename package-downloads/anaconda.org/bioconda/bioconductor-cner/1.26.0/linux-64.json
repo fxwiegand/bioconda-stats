@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-cner-1.26.0-r40hd029910_1.tar.bz2",
-"total":395
+"total":399
 },
 {
 "basename":"bioconductor-cner-1.26.0-r40h037d062_0.tar.bz2",
@@ -698,6 +698,10 @@
 {
 "date":"2022-01-10",
 "total":837
+},
+{
+"date":"2022-01-11",
+"total":841
 }
 ],
 "package":"bioconductor-cner",
@@ -924,6 +928,15 @@
 {
 "basename":"bioconductor-cner-1.26.0-r40h037d062_0.tar.bz2",
 "total":442
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cner-1.26.0-r40hd029910_1.tar.bz2",
+"total":399
 }
 ]
 }

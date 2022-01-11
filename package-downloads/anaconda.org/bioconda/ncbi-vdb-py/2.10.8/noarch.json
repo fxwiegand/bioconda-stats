@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ncbi-vdb-py-2.10.8-0.tar.bz2",
-"total":293
+"total":295
 }
 ],
 "downloads_per_date":[
@@ -778,6 +778,10 @@
 {
 "date":"2022-01-10",
 "total":293
+},
+{
+"date":"2022-01-11",
+"total":295
 }
 ],
 "package":"ncbi-vdb-py",
@@ -1292,6 +1296,15 @@
 {
 "basename":"ncbi-vdb-py-2.10.8-0.tar.bz2",
 "total":293
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"ncbi-vdb-py-2.10.8-0.tar.bz2",
+"total":295
 }
 ]
 }

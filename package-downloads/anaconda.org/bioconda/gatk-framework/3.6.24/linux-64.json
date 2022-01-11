@@ -11,7 +11,7 @@
 },
 {
 "basename":"gatk-framework-3.6.24-0.tar.bz2",
-"total":834
+"total":835
 },
 {
 "basename":"gatk-framework-3.6.24-4.tar.bz2",
@@ -342,6 +342,10 @@
 {
 "date":"2022-01-10",
 "total":6271
+},
+{
+"date":"2022-01-11",
+"total":6272
 }
 ],
 "package":"gatk-framework",
@@ -609,6 +613,15 @@
 {
 "basename":"gatk-framework-3.6.24-1.tar.bz2",
 "total":2281
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"gatk-framework-3.6.24-0.tar.bz2",
+"total":835
 }
 ]
 }

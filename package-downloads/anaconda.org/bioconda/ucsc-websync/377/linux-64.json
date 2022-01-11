@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-websync-377-h9ee0642_2.tar.bz2",
-"total":37
+"total":38
 },
 {
 "basename":"ucsc-websync-377-1.tar.bz2",
@@ -270,6 +270,10 @@
 {
 "date":"2022-01-10",
 "total":221
+},
+{
+"date":"2022-01-11",
+"total":222
 }
 ],
 "package":"ucsc-websync",
@@ -420,6 +424,15 @@
 {
 "basename":"ucsc-websync-377-1.tar.bz2",
 "total":43
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-websync-377-h9ee0642_2.tar.bz2",
+"total":38
 }
 ]
 }

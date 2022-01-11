@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-paeg1acdf-2.18.0-r41hdfd78af_8.tar.bz2",
-"total":128
+"total":130
 },
 {
 "basename":"bioconductor-paeg1acdf-2.18.0-r351_0.tar.bz2",
@@ -846,6 +846,10 @@
 {
 "date":"2022-01-10",
 "total":782
+},
+{
+"date":"2022-01-11",
+"total":784
 }
 ],
 "package":"bioconductor-paeg1acdf",
@@ -1607,6 +1611,15 @@
 {
 "basename":"bioconductor-paeg1acdf-2.18.0-r41hdfd78af_8.tar.bz2",
 "total":128
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-paeg1acdf-2.18.0-r41hdfd78af_8.tar.bz2",
+"total":130
 }
 ]
 }

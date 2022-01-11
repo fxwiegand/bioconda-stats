@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-hippo-1.6.0-r41hdfd78af_0.tar.bz2",
-"total":91
+"total":95
 }
 ],
 "downloads_per_date":[
@@ -230,6 +230,10 @@
 {
 "date":"2022-01-10",
 "total":91
+},
+{
+"date":"2022-01-11",
+"total":95
 }
 ],
 "package":"bioconductor-hippo",
@@ -645,6 +649,15 @@
 {
 "basename":"bioconductor-hippo-1.6.0-r41hdfd78af_0.tar.bz2",
 "total":91
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hippo-1.6.0-r41hdfd78af_0.tar.bz2",
+"total":95
 }
 ]
 }

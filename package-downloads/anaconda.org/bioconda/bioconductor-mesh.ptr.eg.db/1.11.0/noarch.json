@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-mesh.ptr.eg.db-1.11.0-r351_1.tar.bz2",
-"total":381
+"total":383
 }
 ],
 "downloads_per_date":[
@@ -790,6 +790,10 @@
 {
 "date":"2022-01-10",
 "total":517
+},
+{
+"date":"2022-01-11",
+"total":519
 }
 ],
 "package":"bioconductor-mesh.ptr.eg.db",
@@ -1359,6 +1363,15 @@
 {
 "basename":"bioconductor-mesh.ptr.eg.db-1.11.0-r351_1.tar.bz2",
 "total":381
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mesh.ptr.eg.db-1.11.0-r351_1.tar.bz2",
+"total":383
 }
 ]
 }

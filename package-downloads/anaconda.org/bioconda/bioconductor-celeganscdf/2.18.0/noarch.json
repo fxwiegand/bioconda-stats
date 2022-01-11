@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-celeganscdf-2.18.0-r41hdfd78af_8.tar.bz2",
-"total":122
+"total":124
 },
 {
 "basename":"bioconductor-celeganscdf-2.18.0-r351_0.tar.bz2",
@@ -826,6 +826,10 @@
 {
 "date":"2022-01-10",
 "total":789
+},
+{
+"date":"2022-01-11",
+"total":791
 }
 ],
 "package":"bioconductor-celeganscdf",
@@ -1536,6 +1540,15 @@
 {
 "basename":"bioconductor-celeganscdf-2.18.0-r41hdfd78af_8.tar.bz2",
 "total":122
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-celeganscdf-2.18.0-r41hdfd78af_8.tar.bz2",
+"total":124
 }
 ]
 }

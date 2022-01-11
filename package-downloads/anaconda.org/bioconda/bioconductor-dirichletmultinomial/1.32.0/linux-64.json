@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-dirichletmultinomial-1.32.0-r40ha4a0bc2_1.tar.bz2",
-"total":320
+"total":323
 },
 {
 "basename":"bioconductor-dirichletmultinomial-1.32.0-r40hb42d971_0.tar.bz2",
@@ -658,6 +658,10 @@
 {
 "date":"2022-01-10",
 "total":648
+},
+{
+"date":"2022-01-11",
+"total":651
 }
 ],
 "package":"bioconductor-dirichletmultinomial",
@@ -877,6 +881,15 @@
 {
 "basename":"bioconductor-dirichletmultinomial-1.32.0-r40hb42d971_0.tar.bz2",
 "total":328
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-dirichletmultinomial-1.32.0-r40ha4a0bc2_1.tar.bz2",
+"total":323
 }
 ]
 }

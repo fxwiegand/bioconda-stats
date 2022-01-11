@@ -136,6 +136,10 @@
 {
 "date":"2022-01-10",
 "total":99
+},
+{
+"date":"2022-01-11",
+"total":101
 }
 ],
 "downloads_per_subdir":[
@@ -145,7 +149,7 @@
 },
 {
 "subdir":"osx-64",
-"total":68
+"total":70
 }
 ],
 "package":"varlociraptor",
@@ -476,6 +480,15 @@
 {
 "subdir":"osx-64",
 "total":68
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":70
 }
 ]
 }

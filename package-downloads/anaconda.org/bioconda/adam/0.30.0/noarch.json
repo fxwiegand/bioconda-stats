@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"adam-0.30.0-0.tar.bz2",
-"total":403
+"total":405
 }
 ],
 "downloads_per_date":[
@@ -786,6 +786,10 @@
 {
 "date":"2022-01-10",
 "total":403
+},
+{
+"date":"2022-01-11",
+"total":405
 }
 ],
 "package":"adam",
@@ -1336,6 +1340,15 @@
 {
 "basename":"adam-0.30.0-0.tar.bz2",
 "total":403
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"adam-0.30.0-0.tar.bz2",
+"total":405
 }
 ]
 }

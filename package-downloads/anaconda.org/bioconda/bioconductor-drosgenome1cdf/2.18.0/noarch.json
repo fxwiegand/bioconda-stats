@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-drosgenome1cdf-2.18.0-r41hdfd78af_8.tar.bz2",
-"total":122
+"total":124
 },
 {
 "basename":"bioconductor-drosgenome1cdf-2.18.0-r351_0.tar.bz2",
@@ -826,6 +826,10 @@
 {
 "date":"2022-01-10",
 "total":754
+},
+{
+"date":"2022-01-11",
+"total":756
 }
 ],
 "package":"bioconductor-drosgenome1cdf",
@@ -1548,6 +1552,15 @@
 {
 "basename":"bioconductor-drosgenome1cdf-2.18.0-r41hdfd78af_8.tar.bz2",
 "total":122
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-drosgenome1cdf-2.18.0-r41hdfd78af_8.tar.bz2",
+"total":124
 }
 ]
 }

@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-rgu34cprobe-2.18.0-r41hdfd78af_8.tar.bz2",
-"total":123
+"total":125
 },
 {
 "basename":"bioconductor-rgu34cprobe-2.18.0-r351_0.tar.bz2",
@@ -830,6 +830,10 @@
 {
 "date":"2022-01-10",
 "total":775
+},
+{
+"date":"2022-01-11",
+"total":777
 }
 ],
 "package":"bioconductor-rgu34cprobe",
@@ -1512,6 +1516,15 @@
 {
 "basename":"bioconductor-rgu34cprobe-2.18.0-r41hdfd78af_8.tar.bz2",
 "total":123
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rgu34cprobe-2.18.0-r41hdfd78af_8.tar.bz2",
+"total":125
 }
 ]
 }

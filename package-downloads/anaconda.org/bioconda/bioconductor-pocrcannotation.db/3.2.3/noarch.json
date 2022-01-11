@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-pocrcannotation.db-3.2.3-r41hdfd78af_8.tar.bz2",
-"total":86
+"total":90
 },
 {
 "basename":"bioconductor-pocrcannotation.db-3.2.3-r36_2.tar.bz2",
@@ -798,6 +798,10 @@
 {
 "date":"2022-01-10",
 "total":727
+},
+{
+"date":"2022-01-11",
+"total":731
 }
 ],
 "package":"bioconductor-pocrcannotation.db",
@@ -1396,6 +1400,15 @@
 {
 "basename":"bioconductor-pocrcannotation.db-3.2.3-r41hdfd78af_8.tar.bz2",
 "total":86
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pocrcannotation.db-3.2.3-r41hdfd78af_8.tar.bz2",
+"total":90
 }
 ]
 }

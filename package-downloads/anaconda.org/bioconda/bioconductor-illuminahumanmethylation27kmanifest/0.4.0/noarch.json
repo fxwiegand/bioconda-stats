@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-illuminahumanmethylation27kmanifest-0.4.0-r41hdfd78af_8.tar.bz2",
-"total":128
+"total":130
 },
 {
 "basename":"bioconductor-illuminahumanmethylation27kmanifest-0.4.0-r36_3.tar.bz2",
@@ -822,6 +822,10 @@
 {
 "date":"2022-01-10",
 "total":880
+},
+{
+"date":"2022-01-11",
+"total":882
 }
 ],
 "package":"bioconductor-illuminahumanmethylation27kmanifest",
@@ -1580,6 +1584,15 @@
 {
 "basename":"bioconductor-illuminahumanmethylation27kmanifest-0.4.0-r41hdfd78af_8.tar.bz2",
 "total":128
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-illuminahumanmethylation27kmanifest-0.4.0-r41hdfd78af_8.tar.bz2",
+"total":130
 }
 ]
 }

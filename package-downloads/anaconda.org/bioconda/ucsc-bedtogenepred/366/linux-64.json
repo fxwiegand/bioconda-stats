@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-bedtogenepred-366-h5eb252a_0.tar.bz2",
-"total":1000
+"total":1002
 }
 ],
 "downloads_per_date":[
@@ -270,6 +270,10 @@
 {
 "date":"2022-01-10",
 "total":1662
+},
+{
+"date":"2022-01-11",
+"total":1664
 }
 ],
 "package":"ucsc-bedtogenepred",
@@ -354,6 +358,15 @@
 {
 "basename":"ucsc-bedtogenepred-366-h5eb252a_0.tar.bz2",
 "total":1000
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bedtogenepred-366-h5eb252a_0.tar.bz2",
+"total":1002
 }
 ]
 }

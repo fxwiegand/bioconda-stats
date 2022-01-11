@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-poplarprobe-2.18.0-r41hdfd78af_8.tar.bz2",
-"total":86
+"total":90
 },
 {
 "basename":"bioconductor-poplarprobe-2.18.0-r36_2.tar.bz2",
@@ -818,6 +818,10 @@
 {
 "date":"2022-01-10",
 "total":745
+},
+{
+"date":"2022-01-11",
+"total":749
 }
 ],
 "package":"bioconductor-poplarprobe",
@@ -1447,6 +1451,15 @@
 {
 "basename":"bioconductor-poplarprobe-2.18.0-r41hdfd78af_8.tar.bz2",
 "total":86
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-poplarprobe-2.18.0-r41hdfd78af_8.tar.bz2",
+"total":90
 }
 ]
 }

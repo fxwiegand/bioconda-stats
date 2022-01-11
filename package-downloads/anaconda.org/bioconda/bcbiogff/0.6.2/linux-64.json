@@ -23,7 +23,7 @@
 },
 {
 "basename":"bcbiogff-0.6.2-py35_1.tar.bz2",
-"total":864
+"total":865
 },
 {
 "basename":"bcbiogff-0.6.2-py27_1.tar.bz2",
@@ -294,6 +294,10 @@
 {
 "date":"2022-01-10",
 "total":5197
+},
+{
+"date":"2022-01-11",
+"total":5198
 }
 ],
 "package":"bcbiogff",
@@ -492,6 +496,15 @@
 {
 "basename":"bcbiogff-0.6.2-py36_1.tar.bz2",
 "total":621
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"bcbiogff-0.6.2-py35_1.tar.bz2",
+"total":865
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-genomationdata-1.20.0-r40_0.tar.bz2",
-"total":302
+"total":304
 }
 ],
 "downloads_per_date":[
@@ -786,6 +786,10 @@
 {
 "date":"2022-01-10",
 "total":302
+},
+{
+"date":"2022-01-11",
+"total":304
 }
 ],
 "package":"bioconductor-genomationdata",
@@ -1318,6 +1322,15 @@
 {
 "basename":"bioconductor-genomationdata-1.20.0-r40_0.tar.bz2",
 "total":302
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-genomationdata-1.20.0-r40_0.tar.bz2",
+"total":304
 }
 ]
 }

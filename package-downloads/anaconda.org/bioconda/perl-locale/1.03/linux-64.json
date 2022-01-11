@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-locale-1.03-pl526_1.tar.bz2",
-"total":320
+"total":321
 },
 {
 "basename":"perl-locale-1.03-pl5.22.0_0.tar.bz2",
@@ -262,6 +262,10 @@
 {
 "date":"2022-01-10",
 "total":783
+},
+{
+"date":"2022-01-11",
+"total":784
 }
 ],
 "package":"perl-locale",
@@ -360,6 +364,15 @@
 {
 "basename":"perl-locale-1.03-pl5.22.0_0.tar.bz2",
 "total":463
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"perl-locale-1.03-pl526_1.tar.bz2",
+"total":321
 }
 ]
 }

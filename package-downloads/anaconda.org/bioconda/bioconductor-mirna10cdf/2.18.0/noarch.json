@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-mirna10cdf-2.18.0-r41hdfd78af_8.tar.bz2",
-"total":121
+"total":125
 },
 {
 "basename":"bioconductor-mirna10cdf-2.18.0-r351_0.tar.bz2",
@@ -826,6 +826,10 @@
 {
 "date":"2022-01-10",
 "total":765
+},
+{
+"date":"2022-01-11",
+"total":769
 }
 ],
 "package":"bioconductor-mirna10cdf",
@@ -1472,6 +1476,15 @@
 {
 "basename":"bioconductor-mirna10cdf-2.18.0-r41hdfd78af_8.tar.bz2",
 "total":121
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mirna10cdf-2.18.0-r41hdfd78af_8.tar.bz2",
+"total":125
 }
 ]
 }

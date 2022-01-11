@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-cycle-1.44.0-r40hdfd78af_1.tar.bz2",
-"total":238
+"total":242
 }
 ],
 "downloads_per_date":[
@@ -750,6 +750,10 @@
 {
 "date":"2022-01-10",
 "total":300
+},
+{
+"date":"2022-01-11",
+"total":304
 }
 ],
 "package":"bioconductor-cycle",
@@ -1183,6 +1187,15 @@
 {
 "basename":"bioconductor-cycle-1.44.0-r40hdfd78af_1.tar.bz2",
 "total":238
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cycle-1.44.0-r40hdfd78af_1.tar.bz2",
+"total":242
 }
 ]
 }

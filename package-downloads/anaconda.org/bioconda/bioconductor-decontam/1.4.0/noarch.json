@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-decontam-1.4.0-r36_1.tar.bz2",
-"total":404
+"total":406
 }
 ],
 "downloads_per_date":[
@@ -794,6 +794,10 @@
 {
 "date":"2022-01-10",
 "total":625
+},
+{
+"date":"2022-01-11",
+"total":627
 }
 ],
 "package":"bioconductor-decontam",
@@ -1384,6 +1388,15 @@
 {
 "basename":"bioconductor-decontam-1.4.0-r36_1.tar.bz2",
 "total":404
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-decontam-1.4.0-r36_1.tar.bz2",
+"total":406
 }
 ]
 }

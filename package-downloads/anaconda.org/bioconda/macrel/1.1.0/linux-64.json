@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"macrel-1.1.0-py38h4a8c8d9_0.tar.bz2",
-"total":24
+"total":25
 },
 {
 "basename":"macrel-1.1.0-py37h73a75cf_0.tar.bz2",
@@ -154,6 +154,10 @@
 {
 "date":"2022-01-10",
 "total":160
+},
+{
+"date":"2022-01-11",
+"total":161
 }
 ],
 "package":"macrel",
@@ -488,6 +492,15 @@
 {
 "basename":"macrel-1.1.0-py39h38f01e4_0.tar.bz2",
 "total":53
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"macrel-1.1.0-py38h4a8c8d9_0.tar.bz2",
+"total":25
 }
 ]
 }

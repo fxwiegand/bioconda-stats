@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-rhesusprobe-2.18.0-r41hdfd78af_8.tar.bz2",
-"total":124
+"total":128
 },
 {
 "basename":"bioconductor-rhesusprobe-2.18.0-r351_0.tar.bz2",
@@ -826,6 +826,10 @@
 {
 "date":"2022-01-10",
 "total":792
+},
+{
+"date":"2022-01-11",
+"total":796
 }
 ],
 "package":"bioconductor-rhesusprobe",
@@ -1485,6 +1489,15 @@
 {
 "basename":"bioconductor-rhesusprobe-2.18.0-r41hdfd78af_8.tar.bz2",
 "total":124
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rhesusprobe-2.18.0-r41hdfd78af_8.tar.bz2",
+"total":128
 }
 ]
 }

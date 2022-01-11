@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-pd.barley1-3.12.0-r41hdfd78af_8.tar.bz2",
-"total":130
+"total":132
 },
 {
 "basename":"bioconductor-pd.barley1-3.12.0-r351_0.tar.bz2",
@@ -842,6 +842,10 @@
 {
 "date":"2022-01-10",
 "total":791
+},
+{
+"date":"2022-01-11",
+"total":793
 }
 ],
 "package":"bioconductor-pd.barley1",
@@ -1583,6 +1587,15 @@
 {
 "basename":"bioconductor-pd.barley1-3.12.0-r41hdfd78af_8.tar.bz2",
 "total":130
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pd.barley1-3.12.0-r41hdfd78af_8.tar.bz2",
+"total":132
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-affydata-1.30.0-r351_1.tar.bz2",
-"total":320
+"total":324
 }
 ],
 "downloads_per_date":[
@@ -758,6 +758,10 @@
 {
 "date":"2022-01-10",
 "total":463
+},
+{
+"date":"2022-01-11",
+"total":467
 }
 ],
 "package":"bioconductor-affydata",
@@ -1197,6 +1201,15 @@
 {
 "basename":"bioconductor-affydata-1.30.0-r351_1.tar.bz2",
 "total":320
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-affydata-1.30.0-r351_1.tar.bz2",
+"total":324
 }
 ]
 }

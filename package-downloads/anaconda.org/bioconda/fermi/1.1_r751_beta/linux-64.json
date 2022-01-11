@@ -7,7 +7,7 @@
 },
 {
 "basename":"fermi-1.1_r751_beta-hed695b0_4.tar.bz2",
-"total":54
+"total":55
 },
 {
 "basename":"fermi-1.1_r751_beta-ha92aebf_3.tar.bz2",
@@ -318,6 +318,10 @@
 {
 "date":"2022-01-10",
 "total":1909
+},
+{
+"date":"2022-01-11",
+"total":1910
 }
 ],
 "package":"fermi",
@@ -585,6 +589,15 @@
 {
 "basename":"fermi-1.1_r751_beta-h5bf99c6_5.tar.bz2",
 "total":38
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"fermi-1.1_r751_beta-hed695b0_4.tar.bz2",
+"total":55
 }
 ]
 }

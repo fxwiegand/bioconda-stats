@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-pd.mapping50k.hind240-3.12.0-r41hdfd78af_8.tar.bz2",
-"total":128
+"total":130
 },
 {
 "basename":"bioconductor-pd.mapping50k.hind240-3.12.0-r351_0.tar.bz2",
@@ -822,6 +822,10 @@
 {
 "date":"2022-01-10",
 "total":776
+},
+{
+"date":"2022-01-11",
+"total":778
 }
 ],
 "package":"bioconductor-pd.mapping50k.hind240",
@@ -1516,6 +1520,15 @@
 {
 "basename":"bioconductor-pd.mapping50k.hind240-3.12.0-r41hdfd78af_8.tar.bz2",
 "total":128
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pd.mapping50k.hind240-3.12.0-r41hdfd78af_8.tar.bz2",
+"total":130
 }
 ]
 }

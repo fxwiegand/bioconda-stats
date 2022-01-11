@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-caninecdf-2.18.0-r41hdfd78af_8.tar.bz2",
-"total":132
+"total":134
 },
 {
 "basename":"bioconductor-caninecdf-2.18.0-r351_0.tar.bz2",
@@ -850,6 +850,10 @@
 {
 "date":"2022-01-10",
 "total":806
+},
+{
+"date":"2022-01-11",
+"total":808
 }
 ],
 "package":"bioconductor-caninecdf",
@@ -1602,6 +1606,15 @@
 {
 "basename":"bioconductor-caninecdf-2.18.0-r41hdfd78af_8.tar.bz2",
 "total":132
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-caninecdf-2.18.0-r41hdfd78af_8.tar.bz2",
+"total":134
 }
 ]
 }

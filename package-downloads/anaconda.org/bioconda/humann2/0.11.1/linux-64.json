@@ -11,7 +11,7 @@
 },
 {
 "basename":"humann2-0.11.1-py27_0.tar.bz2",
-"total":1370
+"total":1371
 },
 {
 "basename":"humann2-0.11.1-py27_3.tar.bz2",
@@ -478,6 +478,10 @@
 {
 "date":"2022-01-10",
 "total":5024
+},
+{
+"date":"2022-01-11",
+"total":5025
 }
 ],
 "package":"humann2",
@@ -690,6 +694,15 @@
 {
 "basename":"humann2-0.11.1-py27_3.tar.bz2",
 "total":1815
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"humann2-0.11.1-py27_0.tar.bz2",
+"total":1371
 }
 ]
 }

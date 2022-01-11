@@ -11,7 +11,7 @@
 },
 {
 "basename":"galaxy-data-20.9.1-py_2.tar.bz2",
-"total":305
+"total":308
 }
 ],
 "downloads_per_date":[
@@ -826,6 +826,10 @@
 {
 "date":"2022-01-10",
 "total":442
+},
+{
+"date":"2022-01-11",
+"total":445
 }
 ],
 "package":"galaxy-data",
@@ -1376,6 +1380,15 @@
 {
 "basename":"galaxy-data-20.9.1-py_2.tar.bz2",
 "total":305
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"galaxy-data-20.9.1-py_2.tar.bz2",
+"total":308
 }
 ]
 }

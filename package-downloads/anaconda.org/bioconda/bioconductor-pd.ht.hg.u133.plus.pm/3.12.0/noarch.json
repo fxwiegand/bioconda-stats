@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-pd.ht.hg.u133.plus.pm-3.12.0-r41hdfd78af_8.tar.bz2",
-"total":132
+"total":134
 },
 {
 "basename":"bioconductor-pd.ht.hg.u133.plus.pm-3.12.0-r351_0.tar.bz2",
@@ -818,6 +818,10 @@
 {
 "date":"2022-01-10",
 "total":800
+},
+{
+"date":"2022-01-11",
+"total":802
 }
 ],
 "package":"bioconductor-pd.ht.hg.u133.plus.pm",
@@ -1559,6 +1563,15 @@
 {
 "basename":"bioconductor-pd.ht.hg.u133.plus.pm-3.12.0-r41hdfd78af_8.tar.bz2",
 "total":132
+}
+]
+},
+{
+"date":"2022-01-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pd.ht.hg.u133.plus.pm-3.12.0-r41hdfd78af_8.tar.bz2",
+"total":134
 }
 ]
 }
