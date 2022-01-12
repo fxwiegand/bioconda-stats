@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-illuminahumanv3.db-1.26.0-r41hdfd78af_8.tar.bz2",
-"total":86
+"total":88
 },
 {
 "basename":"bioconductor-illuminahumanv3.db-1.26.0-r36_2.tar.bz2",
@@ -826,6 +826,10 @@
 {
 "date":"2022-01-11",
 "total":734
+},
+{
+"date":"2022-01-12",
+"total":736
 }
 ],
 "package":"bioconductor-illuminahumanv3.db",
@@ -1454,6 +1458,15 @@
 {
 "basename":"bioconductor-illuminahumanv3.db-1.26.0-r41hdfd78af_8.tar.bz2",
 "total":86
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-illuminahumanv3.db-1.26.0-r41hdfd78af_8.tar.bz2",
+"total":88
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"galaxy-lib-19.5.1-py_0.tar.bz2",
-"total":1232
+"total":1234
 }
 ],
 "downloads_per_date":[
@@ -762,6 +762,10 @@
 {
 "date":"2022-01-11",
 "total":1232
+},
+{
+"date":"2022-01-12",
+"total":1234
 }
 ],
 "package":"galaxy-lib",
@@ -1177,6 +1181,15 @@
 {
 "basename":"galaxy-lib-19.5.1-py_0.tar.bz2",
 "total":1232
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"galaxy-lib-19.5.1-py_0.tar.bz2",
+"total":1234
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-indeed-1.2.0-r36_1.tar.bz2",
-"total":353
+"total":355
 }
 ],
 "downloads_per_date":[
@@ -774,6 +774,10 @@
 {
 "date":"2022-01-11",
 "total":510
+},
+{
+"date":"2022-01-12",
+"total":512
 }
 ],
 "package":"bioconductor-indeed",
@@ -1265,6 +1269,15 @@
 {
 "basename":"bioconductor-indeed-1.2.0-r36_1.tar.bz2",
 "total":353
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-indeed-1.2.0-r36_1.tar.bz2",
+"total":355
 }
 ]
 }

@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-pd.hg.u95a-3.12.0-r41hdfd78af_8.tar.bz2",
-"total":137
+"total":139
 },
 {
 "basename":"bioconductor-pd.hg.u95a-3.12.0-r351_0.tar.bz2",
@@ -830,6 +830,10 @@
 {
 "date":"2022-01-11",
 "total":796
+},
+{
+"date":"2022-01-12",
+"total":798
 }
 ],
 "package":"bioconductor-pd.hg.u95a",
@@ -1593,6 +1597,15 @@
 {
 "basename":"bioconductor-pd.hg.u95a-3.12.0-r41hdfd78af_8.tar.bz2",
 "total":137
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pd.hg.u95a-3.12.0-r41hdfd78af_8.tar.bz2",
+"total":139
 }
 ]
 }

@@ -27,7 +27,7 @@
 },
 {
 "basename":"bioconductor-chickencdf-2.18.0-r41hdfd78af_9.tar.bz2",
-"total":133
+"total":135
 },
 {
 "basename":"bioconductor-chickencdf-2.18.0-r351_1.tar.bz2",
@@ -854,6 +854,10 @@
 {
 "date":"2022-01-11",
 "total":927
+},
+{
+"date":"2022-01-12",
+"total":929
 }
 ],
 "package":"bioconductor-chickencdf",
@@ -1619,6 +1623,15 @@
 {
 "basename":"bioconductor-chickencdf-2.18.0-r41hdfd78af_9.tar.bz2",
 "total":133
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-chickencdf-2.18.0-r41hdfd78af_9.tar.bz2",
+"total":135
 }
 ]
 }

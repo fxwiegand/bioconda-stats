@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-mpra-1.16.0-r41hdfd78af_0.tar.bz2",
-"total":144
+"total":146
 }
 ],
 "downloads_per_date":[
@@ -270,6 +270,10 @@
 {
 "date":"2022-01-11",
 "total":144
+},
+{
+"date":"2022-01-12",
+"total":146
 }
 ],
 "package":"bioconductor-mpra",
@@ -829,6 +833,15 @@
 {
 "basename":"bioconductor-mpra-1.16.0-r41hdfd78af_0.tar.bz2",
 "total":144
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mpra-1.16.0-r41hdfd78af_0.tar.bz2",
+"total":146
 }
 ]
 }

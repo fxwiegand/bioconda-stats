@@ -27,7 +27,7 @@
 },
 {
 "basename":"bioconductor-yeast2.db-3.2.3-r41hdfd78af_7.tar.bz2",
-"total":284
+"total":286
 }
 ],
 "downloads_per_date":[
@@ -842,6 +842,10 @@
 {
 "date":"2022-01-11",
 "total":772
+},
+{
+"date":"2022-01-12",
+"total":774
 }
 ],
 "package":"bioconductor-yeast2.db",
@@ -1593,6 +1597,15 @@
 {
 "basename":"bioconductor-yeast2.db-3.2.3-r41hdfd78af_7.tar.bz2",
 "total":284
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-yeast2.db-3.2.3-r41hdfd78af_7.tar.bz2",
+"total":286
 }
 ]
 }

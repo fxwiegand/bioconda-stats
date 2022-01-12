@@ -27,7 +27,7 @@
 },
 {
 "basename":"bioconductor-hgu133plus2.db-3.2.3-r41hdfd78af_11.tar.bz2",
-"total":374
+"total":376
 }
 ],
 "downloads_per_date":[
@@ -910,6 +910,10 @@
 {
 "date":"2022-01-11",
 "total":1442
+},
+{
+"date":"2022-01-12",
+"total":1444
 }
 ],
 "package":"bioconductor-hgu133plus2.db",
@@ -1612,6 +1616,15 @@
 {
 "basename":"bioconductor-hgu133plus2.db-3.2.3-r41hdfd78af_11.tar.bz2",
 "total":374
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hgu133plus2.db-3.2.3-r41hdfd78af_11.tar.bz2",
+"total":376
 }
 ]
 }

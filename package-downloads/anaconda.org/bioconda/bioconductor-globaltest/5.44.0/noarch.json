@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-globaltest-5.44.0-r40hdfd78af_1.tar.bz2",
-"total":365
+"total":367
 }
 ],
 "downloads_per_date":[
@@ -822,6 +822,10 @@
 {
 "date":"2022-01-11",
 "total":604
+},
+{
+"date":"2022-01-12",
+"total":606
 }
 ],
 "package":"bioconductor-globaltest",
@@ -1377,6 +1381,15 @@
 {
 "basename":"bioconductor-globaltest-5.44.0-r40hdfd78af_1.tar.bz2",
 "total":365
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-globaltest-5.44.0-r40hdfd78af_1.tar.bz2",
+"total":367
 }
 ]
 }

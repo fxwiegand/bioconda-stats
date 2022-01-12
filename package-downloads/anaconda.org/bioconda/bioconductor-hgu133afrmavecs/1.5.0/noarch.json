@@ -35,7 +35,7 @@
 },
 {
 "basename":"bioconductor-hgu133afrmavecs-1.5.0-r41hdfd78af_9.tar.bz2",
-"total":130
+"total":132
 },
 {
 "basename":"bioconductor-hgu133afrmavecs-1.5.0-r41hdfd78af_8.tar.bz2",
@@ -862,6 +862,10 @@
 {
 "date":"2022-01-11",
 "total":962
+},
+{
+"date":"2022-01-12",
+"total":964
 }
 ],
 "package":"bioconductor-hgu133afrmavecs",
@@ -1589,6 +1593,15 @@
 {
 "basename":"bioconductor-hgu133afrmavecs-1.5.0-r41hdfd78af_9.tar.bz2",
 "total":130
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hgu133afrmavecs-1.5.0-r41hdfd78af_9.tar.bz2",
+"total":132
 }
 ]
 }

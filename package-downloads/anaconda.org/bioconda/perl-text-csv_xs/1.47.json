@@ -68,6 +68,10 @@
 {
 "date":"2022-01-11",
 "total":52
+},
+{
+"date":"2022-01-12",
+"total":54
 }
 ],
 "downloads_per_subdir":[
@@ -77,7 +81,7 @@
 },
 {
 "subdir":"osx-64",
-"total":42
+"total":44
 }
 ],
 "package":"perl-text-csv_xs",
@@ -244,6 +248,15 @@
 {
 "subdir":"osx-64",
 "total":42
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":44
 }
 ]
 }

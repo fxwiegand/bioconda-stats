@@ -27,7 +27,7 @@
 },
 {
 "basename":"bioconductor-mousechrloc-2.1.6-r41hdfd78af_8.tar.bz2",
-"total":126
+"total":128
 },
 {
 "basename":"bioconductor-mousechrloc-2.1.6-r351_0.tar.bz2",
@@ -834,6 +834,10 @@
 {
 "date":"2022-01-11",
 "total":883
+},
+{
+"date":"2022-01-12",
+"total":885
 }
 ],
 "package":"bioconductor-mousechrloc",
@@ -1500,6 +1504,15 @@
 {
 "basename":"bioconductor-mousechrloc-2.1.6-r41hdfd78af_8.tar.bz2",
 "total":126
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mousechrloc-2.1.6-r41hdfd78af_8.tar.bz2",
+"total":128
 }
 ]
 }

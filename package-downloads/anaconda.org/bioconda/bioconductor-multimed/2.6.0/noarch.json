@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-multimed-2.6.0-r36_1.tar.bz2",
-"total":360
+"total":362
 }
 ],
 "downloads_per_date":[
@@ -794,6 +794,10 @@
 {
 "date":"2022-01-11",
 "total":518
+},
+{
+"date":"2022-01-12",
+"total":520
 }
 ],
 "package":"bioconductor-multimed",
@@ -1345,6 +1349,15 @@
 {
 "basename":"bioconductor-multimed-2.6.0-r36_1.tar.bz2",
 "total":360
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-multimed-2.6.0-r36_1.tar.bz2",
+"total":362
 }
 ]
 }

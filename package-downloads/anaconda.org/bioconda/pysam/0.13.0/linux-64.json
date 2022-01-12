@@ -11,7 +11,7 @@
 },
 {
 "basename":"pysam-0.13.0-py36_htslib1.6_0.tar.bz2",
-"total":7321
+"total":7322
 }
 ],
 "downloads_per_date":[
@@ -654,6 +654,10 @@
 {
 "date":"2022-01-11",
 "total":17191
+},
+{
+"date":"2022-01-12",
+"total":17192
 }
 ],
 "package":"pysam",
@@ -915,6 +919,15 @@
 {
 "basename":"pysam-0.13.0-py36_htslib1.6_0.tar.bz2",
 "total":7321
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"pysam-0.13.0-py36_htslib1.6_0.tar.bz2",
+"total":7322
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"pilon-1.22-1.tar.bz2",
-"total":2201
+"total":2203
 }
 ],
 "downloads_per_date":[
@@ -826,6 +826,10 @@
 {
 "date":"2022-01-11",
 "total":2201
+},
+{
+"date":"2022-01-12",
+"total":2203
 }
 ],
 "package":"pilon",
@@ -1376,6 +1380,15 @@
 {
 "basename":"pilon-1.22-1.tar.bz2",
 "total":2201
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"pilon-1.22-1.tar.bz2",
+"total":2203
 }
 ]
 }

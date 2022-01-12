@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"avro-python2-1.8.2-py35_0.tar.bz2",
-"total":518
+"total":519
 },
 {
 "basename":"avro-python2-1.8.2-py36_0.tar.bz2",
@@ -306,6 +306,10 @@
 {
 "date":"2022-01-11",
 "total":2035
+},
+{
+"date":"2022-01-12",
+"total":2036
 }
 ],
 "package":"avro-python2",
@@ -441,6 +445,15 @@
 {
 "basename":"avro-python2-1.8.2-py27_0.tar.bz2",
 "total":947
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"avro-python2-1.8.2-py35_0.tar.bz2",
+"total":519
 }
 ]
 }

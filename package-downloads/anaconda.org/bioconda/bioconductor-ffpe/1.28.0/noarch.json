@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-ffpe-1.28.0-r36_1.tar.bz2",
-"total":360
+"total":362
 }
 ],
 "downloads_per_date":[
@@ -778,6 +778,10 @@
 {
 "date":"2022-01-11",
 "total":360
+},
+{
+"date":"2022-01-12",
+"total":362
 }
 ],
 "package":"bioconductor-ffpe",
@@ -1301,6 +1305,15 @@
 {
 "basename":"bioconductor-ffpe-1.28.0-r36_1.tar.bz2",
 "total":360
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ffpe-1.28.0-r36_1.tar.bz2",
+"total":362
 }
 ]
 }

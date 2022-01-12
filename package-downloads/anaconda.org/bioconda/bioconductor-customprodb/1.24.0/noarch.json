@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-customprodb-1.24.0-r36_1.tar.bz2",
-"total":370
+"total":372
 }
 ],
 "downloads_per_date":[
@@ -802,6 +802,10 @@
 {
 "date":"2022-01-11",
 "total":370
+},
+{
+"date":"2022-01-12",
+"total":372
 }
 ],
 "package":"bioconductor-customprodb",
@@ -1262,6 +1266,15 @@
 {
 "basename":"bioconductor-customprodb-1.24.0-r36_1.tar.bz2",
 "total":370
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-customprodb-1.24.0-r36_1.tar.bz2",
+"total":372
 }
 ]
 }

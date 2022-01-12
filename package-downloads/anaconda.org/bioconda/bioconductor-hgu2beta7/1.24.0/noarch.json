@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-hgu2beta7-1.24.0-r36_1.tar.bz2",
-"total":285
+"total":287
 }
 ],
 "downloads_per_date":[
@@ -770,6 +770,10 @@
 {
 "date":"2022-01-11",
 "total":403
+},
+{
+"date":"2022-01-12",
+"total":405
 }
 ],
 "package":"bioconductor-hgu2beta7",
@@ -1210,6 +1214,15 @@
 {
 "basename":"bioconductor-hgu2beta7-1.24.0-r36_1.tar.bz2",
 "total":285
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hgu2beta7-1.24.0-r36_1.tar.bz2",
+"total":287
 }
 ]
 }

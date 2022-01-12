@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-corral-1.0.0-r40hdfd78af_2.tar.bz2",
-"total":297
+"total":299
 }
 ],
 "downloads_per_date":[
@@ -806,6 +806,10 @@
 {
 "date":"2022-01-11",
 "total":378
+},
+{
+"date":"2022-01-12",
+"total":380
 }
 ],
 "package":"bioconductor-corral",
@@ -1388,6 +1392,15 @@
 {
 "basename":"bioconductor-corral-1.0.0-r40hdfd78af_2.tar.bz2",
 "total":297
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-corral-1.0.0-r40hdfd78af_2.tar.bz2",
+"total":299
 }
 ]
 }

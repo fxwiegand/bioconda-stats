@@ -7,7 +7,7 @@
 },
 {
 "basename":"antismash-4.0.2-py27_1.tar.bz2",
-"total":787
+"total":788
 },
 {
 "basename":"antismash-4.0.2-py27_2.tar.bz2",
@@ -322,6 +322,10 @@
 {
 "date":"2022-01-11",
 "total":2321
+},
+{
+"date":"2022-01-12",
+"total":2322
 }
 ],
 "package":"antismash",
@@ -478,6 +482,15 @@
 {
 "basename":"antismash-4.0.2-py27_2.tar.bz2",
 "total":796
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"antismash-4.0.2-py27_1.tar.bz2",
+"total":788
 }
 ]
 }

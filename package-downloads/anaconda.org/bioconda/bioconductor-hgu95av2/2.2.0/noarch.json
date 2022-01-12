@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-hgu95av2-2.2.0-r41hdfd78af_8.tar.bz2",
-"total":92
+"total":94
 },
 {
 "basename":"bioconductor-hgu95av2-2.2.0-r36_2.tar.bz2",
@@ -826,6 +826,10 @@
 {
 "date":"2022-01-11",
 "total":831
+},
+{
+"date":"2022-01-12",
+"total":833
 }
 ],
 "package":"bioconductor-hgu95av2",
@@ -1395,6 +1399,15 @@
 {
 "basename":"bioconductor-hgu95av2-2.2.0-r41hdfd78af_8.tar.bz2",
 "total":92
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hgu95av2-2.2.0-r41hdfd78af_8.tar.bz2",
+"total":94
 }
 ]
 }

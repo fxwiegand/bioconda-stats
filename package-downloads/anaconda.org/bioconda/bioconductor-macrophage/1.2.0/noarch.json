@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-macrophage-1.2.0-r36_0.tar.bz2",
-"total":333
+"total":335
 }
 ],
 "downloads_per_date":[
@@ -782,6 +782,10 @@
 {
 "date":"2022-01-11",
 "total":333
+},
+{
+"date":"2022-01-12",
+"total":335
 }
 ],
 "package":"bioconductor-macrophage",
@@ -1341,6 +1345,15 @@
 {
 "basename":"bioconductor-macrophage-1.2.0-r36_0.tar.bz2",
 "total":333
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-macrophage-1.2.0-r36_0.tar.bz2",
+"total":335
 }
 ]
 }

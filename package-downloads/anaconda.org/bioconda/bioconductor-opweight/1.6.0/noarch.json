@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-opweight-1.6.0-r36_1.tar.bz2",
-"total":353
+"total":355
 }
 ],
 "downloads_per_date":[
@@ -786,6 +786,10 @@
 {
 "date":"2022-01-11",
 "total":500
+},
+{
+"date":"2022-01-12",
+"total":502
 }
 ],
 "package":"bioconductor-opweight",
@@ -1372,6 +1376,15 @@
 {
 "basename":"bioconductor-opweight-1.6.0-r36_1.tar.bz2",
 "total":353
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-opweight-1.6.0-r36_1.tar.bz2",
+"total":355
 }
 ]
 }

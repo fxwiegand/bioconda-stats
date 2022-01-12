@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-pscbs-0.65.0-r41h3121a25_5.tar.bz2",
-"total":489
+"total":491
 },
 {
 "basename":"r-pscbs-0.65.0-r40h6115d3f_3.tar.bz2",
@@ -930,6 +930,10 @@
 {
 "date":"2022-01-11",
 "total":1600
+},
+{
+"date":"2022-01-12",
+"total":1602
 }
 ],
 "package":"r-pscbs",
@@ -1628,6 +1632,15 @@
 {
 "basename":"r-pscbs-0.65.0-r41h3121a25_5.tar.bz2",
 "total":489
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"r-pscbs-0.65.0-r41h3121a25_5.tar.bz2",
+"total":491
 }
 ]
 }

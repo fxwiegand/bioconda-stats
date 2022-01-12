@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-bioccheck-1.26.0-r40hdfd78af_1.tar.bz2",
-"total":320
+"total":322
 }
 ],
 "downloads_per_date":[
@@ -822,6 +822,10 @@
 {
 "date":"2022-01-11",
 "total":432
+},
+{
+"date":"2022-01-12",
+"total":434
 }
 ],
 "package":"bioconductor-bioccheck",
@@ -1399,6 +1403,15 @@
 {
 "basename":"bioconductor-bioccheck-1.26.0-r40hdfd78af_1.tar.bz2",
 "total":320
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bioccheck-1.26.0-r40hdfd78af_1.tar.bz2",
+"total":322
 }
 ]
 }

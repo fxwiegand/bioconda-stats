@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-ipac-1.26.0-r351_1.tar.bz2",
-"total":366
+"total":368
 }
 ],
 "downloads_per_date":[
@@ -774,6 +774,10 @@
 {
 "date":"2022-01-11",
 "total":528
+},
+{
+"date":"2022-01-12",
+"total":530
 }
 ],
 "package":"bioconductor-ipac",
@@ -1225,6 +1229,15 @@
 {
 "basename":"bioconductor-ipac-1.26.0-r351_1.tar.bz2",
 "total":366
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ipac-1.26.0-r351_1.tar.bz2",
+"total":368
 }
 ]
 }

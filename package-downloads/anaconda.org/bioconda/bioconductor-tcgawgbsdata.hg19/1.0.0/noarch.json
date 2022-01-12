@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-tcgawgbsdata.hg19-1.0.0-r351_1.tar.bz2",
-"total":363
+"total":365
 }
 ],
 "downloads_per_date":[
@@ -774,6 +774,10 @@
 {
 "date":"2022-01-11",
 "total":500
+},
+{
+"date":"2022-01-12",
+"total":502
 }
 ],
 "package":"bioconductor-tcgawgbsdata.hg19",
@@ -1241,6 +1245,15 @@
 {
 "basename":"bioconductor-tcgawgbsdata.hg19-1.0.0-r351_1.tar.bz2",
 "total":363
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-tcgawgbsdata.hg19-1.0.0-r351_1.tar.bz2",
+"total":365
 }
 ]
 }

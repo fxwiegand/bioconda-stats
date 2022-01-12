@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-dep-1.6.0-r36_1.tar.bz2",
-"total":385
+"total":387
 }
 ],
 "downloads_per_date":[
@@ -802,6 +802,10 @@
 {
 "date":"2022-01-11",
 "total":385
+},
+{
+"date":"2022-01-12",
+"total":387
 }
 ],
 "package":"bioconductor-dep",
@@ -1343,6 +1347,15 @@
 {
 "basename":"bioconductor-dep-1.6.0-r36_1.tar.bz2",
 "total":385
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-dep-1.6.0-r36_1.tar.bz2",
+"total":387
 }
 ]
 }

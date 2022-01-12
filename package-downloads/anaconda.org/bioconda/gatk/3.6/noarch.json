@@ -19,7 +19,7 @@
 },
 {
 "basename":"gatk-3.6-hdfd78af_11.tar.bz2",
-"total":368
+"total":372
 }
 ],
 "downloads_per_date":[
@@ -878,6 +878,10 @@
 {
 "date":"2022-01-11",
 "total":964
+},
+{
+"date":"2022-01-12",
+"total":968
 }
 ],
 "package":"gatk",
@@ -1538,6 +1542,15 @@
 {
 "basename":"gatk-3.6-hdfd78af_11.tar.bz2",
 "total":368
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"gatk-3.6-hdfd78af_11.tar.bz2",
+"total":372
 }
 ]
 }

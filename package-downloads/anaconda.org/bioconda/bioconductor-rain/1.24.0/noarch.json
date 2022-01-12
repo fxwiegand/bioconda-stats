@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-rain-1.24.0-r40hdfd78af_1.tar.bz2",
-"total":288
+"total":290
 }
 ],
 "downloads_per_date":[
@@ -806,6 +806,10 @@
 {
 "date":"2022-01-11",
 "total":360
+},
+{
+"date":"2022-01-12",
+"total":362
 }
 ],
 "package":"bioconductor-rain",
@@ -1369,6 +1373,15 @@
 {
 "basename":"bioconductor-rain-1.24.0-r40hdfd78af_1.tar.bz2",
 "total":288
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rain-1.24.0-r40hdfd78af_1.tar.bz2",
+"total":290
 }
 ]
 }

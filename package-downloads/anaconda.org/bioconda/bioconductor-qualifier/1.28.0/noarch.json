@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-qualifier-1.28.0-r36_1.tar.bz2",
-"total":347
+"total":349
 }
 ],
 "downloads_per_date":[
@@ -782,6 +782,10 @@
 {
 "date":"2022-01-11",
 "total":347
+},
+{
+"date":"2022-01-12",
+"total":349
 }
 ],
 "package":"bioconductor-qualifier",
@@ -1296,6 +1300,15 @@
 {
 "basename":"bioconductor-qualifier-1.28.0-r36_1.tar.bz2",
 "total":347
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-qualifier-1.28.0-r36_1.tar.bz2",
+"total":349
 }
 ]
 }

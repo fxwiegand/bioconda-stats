@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-mguatlas5k.db-3.2.3-r41hdfd78af_8.tar.bz2",
-"total":132
+"total":134
 },
 {
 "basename":"bioconductor-mguatlas5k.db-3.2.3-r351_0.tar.bz2",
@@ -842,6 +842,10 @@
 {
 "date":"2022-01-11",
 "total":783
+},
+{
+"date":"2022-01-12",
+"total":785
 }
 ],
 "package":"bioconductor-mguatlas5k.db",
@@ -1572,6 +1576,15 @@
 {
 "basename":"bioconductor-mguatlas5k.db-3.2.3-r41hdfd78af_8.tar.bz2",
 "total":132
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mguatlas5k.db-3.2.3-r41hdfd78af_8.tar.bz2",
+"total":134
 }
 ]
 }

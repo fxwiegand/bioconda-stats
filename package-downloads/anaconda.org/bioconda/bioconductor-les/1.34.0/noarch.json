@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-les-1.34.0-r36_1.tar.bz2",
-"total":368
+"total":370
 }
 ],
 "downloads_per_date":[
@@ -798,6 +798,10 @@
 {
 "date":"2022-01-11",
 "total":527
+},
+{
+"date":"2022-01-12",
+"total":529
 }
 ],
 "package":"bioconductor-les",
@@ -1375,6 +1379,15 @@
 {
 "basename":"bioconductor-les-1.34.0-r36_1.tar.bz2",
 "total":368
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-les-1.34.0-r36_1.tar.bz2",
+"total":370
 }
 ]
 }

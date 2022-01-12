@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-mesh.mmu.eg.db-1.13.0-r40hdfd78af_3.tar.bz2",
-"total":239
+"total":241
 }
 ],
 "downloads_per_date":[
@@ -778,6 +778,10 @@
 {
 "date":"2022-01-11",
 "total":446
+},
+{
+"date":"2022-01-12",
+"total":448
 }
 ],
 "package":"bioconductor-mesh.mmu.eg.db",
@@ -1290,6 +1294,15 @@
 {
 "basename":"bioconductor-mesh.mmu.eg.db-1.13.0-r40hdfd78af_3.tar.bz2",
 "total":239
+}
+]
+},
+{
+"date":"2022-01-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mesh.mmu.eg.db-1.13.0-r40hdfd78af_3.tar.bz2",
+"total":241
 }
 ]
 }
