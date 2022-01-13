@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-wheatprobe-2.18.0-r41hdfd78af_9.tar.bz2",
-"total":124
+"total":126
 },
 {
 "basename":"bioconductor-wheatprobe-2.18.0-r351_0.tar.bz2",
@@ -846,6 +846,10 @@
 {
 "date":"2022-01-12",
 "total":909
+},
+{
+"date":"2022-01-13",
+"total":911
 }
 ],
 "package":"bioconductor-wheatprobe",
@@ -1614,6 +1618,15 @@
 {
 "basename":"bioconductor-wheatprobe-2.18.0-r41hdfd78af_9.tar.bz2",
 "total":124
+}
+]
+},
+{
+"date":"2022-01-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-wheatprobe-2.18.0-r41hdfd78af_9.tar.bz2",
+"total":126
 }
 ]
 }

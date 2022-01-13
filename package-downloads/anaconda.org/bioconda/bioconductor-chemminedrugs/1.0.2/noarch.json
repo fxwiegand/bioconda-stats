@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-chemminedrugs-1.0.2-r41hdfd78af_8.tar.bz2",
-"total":130
+"total":132
 },
 {
 "basename":"bioconductor-chemminedrugs-1.0.2-r351_0.tar.bz2",
@@ -846,6 +846,10 @@
 {
 "date":"2022-01-12",
 "total":788
+},
+{
+"date":"2022-01-13",
+"total":790
 }
 ],
 "package":"bioconductor-chemminedrugs",
@@ -1471,6 +1475,15 @@
 {
 "basename":"bioconductor-chemminedrugs-1.0.2-r41hdfd78af_8.tar.bz2",
 "total":130
+}
+]
+},
+{
+"date":"2022-01-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-chemminedrugs-1.0.2-r41hdfd78af_8.tar.bz2",
+"total":132
 }
 ]
 }

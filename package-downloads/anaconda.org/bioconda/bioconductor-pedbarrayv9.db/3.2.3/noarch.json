@@ -27,7 +27,7 @@
 },
 {
 "basename":"bioconductor-pedbarrayv9.db-3.2.3-r41hdfd78af_8.tar.bz2",
-"total":126
+"total":128
 },
 {
 "basename":"bioconductor-pedbarrayv9.db-3.2.3-r41hdfd78af_7.tar.bz2",
@@ -826,6 +826,10 @@
 {
 "date":"2022-01-12",
 "total":739
+},
+{
+"date":"2022-01-13",
+"total":741
 }
 ],
 "package":"bioconductor-pedbarrayv9.db",
@@ -1558,6 +1562,15 @@
 {
 "basename":"bioconductor-pedbarrayv9.db-3.2.3-r41hdfd78af_8.tar.bz2",
 "total":126
+}
+]
+},
+{
+"date":"2022-01-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pedbarrayv9.db-3.2.3-r41hdfd78af_8.tar.bz2",
+"total":128
 }
 ]
 }

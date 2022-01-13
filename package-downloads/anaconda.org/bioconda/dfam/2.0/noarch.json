@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"dfam-2.0-2.tar.bz2",
-"total":364
+"total":366
 }
 ],
 "downloads_per_date":[
@@ -762,6 +762,10 @@
 {
 "date":"2022-01-12",
 "total":364
+},
+{
+"date":"2022-01-13",
+"total":366
 }
 ],
 "package":"dfam",
@@ -1186,6 +1190,15 @@
 {
 "basename":"dfam-2.0-2.tar.bz2",
 "total":364
+}
+]
+},
+{
+"date":"2022-01-13",
+"downloads_per_basename":[
+{
+"basename":"dfam-2.0-2.tar.bz2",
+"total":366
 }
 ]
 }

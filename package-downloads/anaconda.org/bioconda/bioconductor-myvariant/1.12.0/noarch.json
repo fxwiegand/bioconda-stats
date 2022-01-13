@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-myvariant-1.12.0-r351_1.tar.bz2",
-"total":440
+"total":442
 }
 ],
 "downloads_per_date":[
@@ -798,6 +798,10 @@
 {
 "date":"2022-01-12",
 "total":600
+},
+{
+"date":"2022-01-13",
+"total":602
 }
 ],
 "package":"bioconductor-myvariant",
@@ -1299,6 +1303,15 @@
 {
 "basename":"bioconductor-myvariant-1.12.0-r351_1.tar.bz2",
 "total":440
+}
+]
+},
+{
+"date":"2022-01-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-myvariant-1.12.0-r351_1.tar.bz2",
+"total":442
 }
 ]
 }

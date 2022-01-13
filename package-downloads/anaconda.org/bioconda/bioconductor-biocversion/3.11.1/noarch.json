@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-biocversion-3.11.1-r40_0.tar.bz2",
-"total":5081
+"total":5083
 }
 ],
 "downloads_per_date":[
@@ -798,6 +798,10 @@
 {
 "date":"2022-01-12",
 "total":5081
+},
+{
+"date":"2022-01-13",
+"total":5083
 }
 ],
 "package":"bioconductor-biocversion",
@@ -1240,6 +1244,15 @@
 {
 "basename":"bioconductor-biocversion-3.11.1-r40_0.tar.bz2",
 "total":5081
+}
+]
+},
+{
+"date":"2022-01-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-biocversion-3.11.1-r40_0.tar.bz2",
+"total":5083
 }
 ]
 }

@@ -27,7 +27,7 @@
 },
 {
 "basename":"bioconductor-mouse4302.db-3.2.3-r41hdfd78af_7.tar.bz2",
-"total":269
+"total":271
 }
 ],
 "downloads_per_date":[
@@ -822,6 +822,10 @@
 {
 "date":"2022-01-12",
 "total":809
+},
+{
+"date":"2022-01-13",
+"total":811
 }
 ],
 "package":"bioconductor-mouse4302.db",
@@ -1425,6 +1429,15 @@
 {
 "basename":"bioconductor-mouse4302.db-3.2.3-r41hdfd78af_7.tar.bz2",
 "total":269
+}
+]
+},
+{
+"date":"2022-01-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mouse4302.db-3.2.3-r41hdfd78af_7.tar.bz2",
+"total":271
 }
 ]
 }

@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-mm24kresogen.db-2.5.0-r41hdfd78af_8.tar.bz2",
-"total":96
+"total":98
 },
 {
 "basename":"bioconductor-mm24kresogen.db-2.5.0-r36_2.tar.bz2",
@@ -826,6 +826,10 @@
 {
 "date":"2022-01-12",
 "total":754
+},
+{
+"date":"2022-01-13",
+"total":756
 }
 ],
 "package":"bioconductor-mm24kresogen.db",
@@ -1419,6 +1423,15 @@
 {
 "basename":"bioconductor-mm24kresogen.db-2.5.0-r41hdfd78af_8.tar.bz2",
 "total":96
+}
+]
+},
+{
+"date":"2022-01-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mm24kresogen.db-2.5.0-r41hdfd78af_8.tar.bz2",
+"total":98
 }
 ]
 }

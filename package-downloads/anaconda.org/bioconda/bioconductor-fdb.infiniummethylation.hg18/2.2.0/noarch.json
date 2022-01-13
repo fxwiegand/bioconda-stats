@@ -27,7 +27,7 @@
 },
 {
 "basename":"bioconductor-fdb.infiniummethylation.hg18-2.2.0-r41hdfd78af_8.tar.bz2",
-"total":126
+"total":128
 },
 {
 "basename":"bioconductor-fdb.infiniummethylation.hg18-2.2.0-r41hdfd78af_7.tar.bz2",
@@ -834,6 +834,10 @@
 {
 "date":"2022-01-12",
 "total":765
+},
+{
+"date":"2022-01-13",
+"total":767
 }
 ],
 "package":"bioconductor-fdb.infiniummethylation.hg18",
@@ -1484,6 +1488,15 @@
 {
 "basename":"bioconductor-fdb.infiniummethylation.hg18-2.2.0-r41hdfd78af_8.tar.bz2",
 "total":126
+}
+]
+},
+{
+"date":"2022-01-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-fdb.infiniummethylation.hg18-2.2.0-r41hdfd78af_8.tar.bz2",
+"total":128
 }
 ]
 }

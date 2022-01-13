@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-rat2302cdf-2.18.0-r41hdfd78af_9.tar.bz2",
-"total":126
+"total":128
 },
 {
 "basename":"bioconductor-rat2302cdf-2.18.0-r351_0.tar.bz2",
@@ -842,6 +842,10 @@
 {
 "date":"2022-01-12",
 "total":893
+},
+{
+"date":"2022-01-13",
+"total":895
 }
 ],
 "package":"bioconductor-rat2302cdf",
@@ -1556,6 +1560,15 @@
 {
 "basename":"bioconductor-rat2302cdf-2.18.0-r41hdfd78af_9.tar.bz2",
 "total":126
+}
+]
+},
+{
+"date":"2022-01-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rat2302cdf-2.18.0-r41hdfd78af_9.tar.bz2",
+"total":128
 }
 ]
 }

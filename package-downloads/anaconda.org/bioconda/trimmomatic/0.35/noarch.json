@@ -7,7 +7,7 @@
 },
 {
 "basename":"trimmomatic-0.35-hdfd78af_7.tar.bz2",
-"total":273
+"total":275
 }
 ],
 "downloads_per_date":[
@@ -806,6 +806,10 @@
 {
 "date":"2022-01-12",
 "total":455
+},
+{
+"date":"2022-01-13",
+"total":457
 }
 ],
 "package":"trimmomatic",
@@ -1253,6 +1257,15 @@
 {
 "basename":"trimmomatic-0.35-hdfd78af_7.tar.bz2",
 "total":273
+}
+]
+},
+{
+"date":"2022-01-13",
+"downloads_per_basename":[
+{
+"basename":"trimmomatic-0.35-hdfd78af_7.tar.bz2",
+"total":275
 }
 ]
 }

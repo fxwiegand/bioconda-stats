@@ -15,7 +15,7 @@
 },
 {
 "basename":"ray-2.3.1-ha44abe0_2.tar.bz2",
-"total":1631
+"total":1632
 }
 ],
 "downloads_per_date":[
@@ -898,6 +898,10 @@
 {
 "date":"2022-01-12",
 "total":3748
+},
+{
+"date":"2022-01-13",
+"total":3749
 }
 ],
 "package":"ray",
@@ -1365,6 +1369,15 @@
 {
 "basename":"ray-2.3.1-ha44abe0_2.tar.bz2",
 "total":1631
+}
+]
+},
+{
+"date":"2022-01-13",
+"downloads_per_basename":[
+{
+"basename":"ray-2.3.1-ha44abe0_2.tar.bz2",
+"total":1632
 }
 ]
 }

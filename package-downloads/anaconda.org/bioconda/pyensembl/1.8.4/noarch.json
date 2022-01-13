@@ -7,7 +7,7 @@
 },
 {
 "basename":"pyensembl-1.8.4-py_1.tar.bz2",
-"total":368
+"total":370
 }
 ],
 "downloads_per_date":[
@@ -806,6 +806,10 @@
 {
 "date":"2022-01-12",
 "total":459
+},
+{
+"date":"2022-01-13",
+"total":461
 }
 ],
 "package":"pyensembl",
@@ -1374,6 +1378,15 @@
 {
 "basename":"pyensembl-1.8.4-py_1.tar.bz2",
 "total":368
+}
+]
+},
+{
+"date":"2022-01-13",
+"downloads_per_basename":[
+{
+"basename":"pyensembl-1.8.4-py_1.tar.bz2",
+"total":370
 }
 ]
 }

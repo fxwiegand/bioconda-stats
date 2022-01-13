@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-cand-1.14.0-r351_0.tar.bz2",
-"total":391
+"total":393
 }
 ],
 "downloads_per_date":[
@@ -782,6 +782,10 @@
 {
 "date":"2022-01-12",
 "total":391
+},
+{
+"date":"2022-01-13",
+"total":393
 }
 ],
 "package":"bioconductor-cand",
@@ -1314,6 +1318,15 @@
 {
 "basename":"bioconductor-cand-1.14.0-r351_0.tar.bz2",
 "total":391
+}
+]
+},
+{
+"date":"2022-01-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cand-1.14.0-r351_0.tar.bz2",
+"total":393
 }
 ]
 }

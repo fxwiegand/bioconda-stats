@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-mu22v3.db-3.2.3-r41hdfd78af_8.tar.bz2",
-"total":131
+"total":133
 },
 {
 "basename":"bioconductor-mu22v3.db-3.2.3-r351_0.tar.bz2",
@@ -830,6 +830,10 @@
 {
 "date":"2022-01-12",
 "total":771
+},
+{
+"date":"2022-01-13",
+"total":773
 }
 ],
 "package":"bioconductor-mu22v3.db",
@@ -1534,6 +1538,15 @@
 {
 "basename":"bioconductor-mu22v3.db-3.2.3-r41hdfd78af_8.tar.bz2",
 "total":131
+}
+]
+},
+{
+"date":"2022-01-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mu22v3.db-3.2.3-r41hdfd78af_8.tar.bz2",
+"total":133
 }
 ]
 }
