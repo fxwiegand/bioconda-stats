@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-methylmix-2.14.0-r36_1.tar.bz2",
-"total":331
+"total":333
 }
 ],
 "downloads_per_date":[
@@ -778,6 +778,10 @@
 {
 "date":"2022-01-13",
 "total":501
+},
+{
+"date":"2022-01-14",
+"total":503
 }
 ],
 "package":"bioconductor-methylmix",
@@ -1238,6 +1242,15 @@
 {
 "basename":"bioconductor-methylmix-2.14.0-r36_1.tar.bz2",
 "total":331
+}
+]
+},
+{
+"date":"2022-01-14",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-methylmix-2.14.0-r36_1.tar.bz2",
+"total":333
 }
 ]
 }

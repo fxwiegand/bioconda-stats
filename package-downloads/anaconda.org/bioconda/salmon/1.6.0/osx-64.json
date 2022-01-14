@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"salmon-1.6.0-hbc7aaa1_0.tar.bz2",
-"total":252
+"total":256
 }
 ],
 "downloads_per_date":[
@@ -210,6 +210,10 @@
 {
 "date":"2022-01-13",
 "total":252
+},
+{
+"date":"2022-01-14",
+"total":256
 }
 ],
 "package":"salmon",
@@ -670,6 +674,15 @@
 {
 "basename":"salmon-1.6.0-hbc7aaa1_0.tar.bz2",
 "total":252
+}
+]
+},
+{
+"date":"2022-01-14",
+"downloads_per_basename":[
+{
+"basename":"salmon-1.6.0-hbc7aaa1_0.tar.bz2",
+"total":256
 }
 ]
 }

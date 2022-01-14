@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-indac.db-3.2.3-r41hdfd78af_8.tar.bz2",
-"total":94
+"total":96
 },
 {
 "basename":"bioconductor-indac.db-3.2.3-r351_0.tar.bz2",
@@ -822,6 +822,10 @@
 {
 "date":"2022-01-13",
 "total":752
+},
+{
+"date":"2022-01-14",
+"total":754
 }
 ],
 "package":"bioconductor-indac.db",
@@ -1464,6 +1468,15 @@
 {
 "basename":"bioconductor-indac.db-3.2.3-r41hdfd78af_8.tar.bz2",
 "total":94
+}
+]
+},
+{
+"date":"2022-01-14",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-indac.db-3.2.3-r41hdfd78af_8.tar.bz2",
+"total":96
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"ibdseq-r1206-hdfd78af_3.tar.bz2",
-"total":248
+"total":250
 }
 ],
 "downloads_per_date":[
@@ -770,6 +770,10 @@
 {
 "date":"2022-01-13",
 "total":360
+},
+{
+"date":"2022-01-14",
+"total":362
 }
 ],
 "package":"ibdseq",
@@ -1231,6 +1235,15 @@
 {
 "basename":"ibdseq-r1206-hdfd78af_3.tar.bz2",
 "total":248
+}
+]
+},
+{
+"date":"2022-01-14",
+"downloads_per_basename":[
+{
+"basename":"ibdseq-r1206-hdfd78af_3.tar.bz2",
+"total":250
 }
 ]
 }

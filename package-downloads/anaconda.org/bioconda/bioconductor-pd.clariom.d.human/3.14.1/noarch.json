@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-pd.clariom.d.human-3.14.1-r41hdfd78af_8.tar.bz2",
-"total":103
+"total":105
 },
 {
 "basename":"bioconductor-pd.clariom.d.human-3.14.1-r351_0.tar.bz2",
@@ -814,6 +814,10 @@
 {
 "date":"2022-01-13",
 "total":788
+},
+{
+"date":"2022-01-14",
+"total":790
 }
 ],
 "package":"bioconductor-pd.clariom.d.human",
@@ -1437,6 +1441,15 @@
 {
 "basename":"bioconductor-pd.clariom.d.human-3.14.1-r41hdfd78af_8.tar.bz2",
 "total":103
+}
+]
+},
+{
+"date":"2022-01-14",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pd.clariom.d.human-3.14.1-r41hdfd78af_8.tar.bz2",
+"total":105
 }
 ]
 }

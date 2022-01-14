@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-redseq-1.32.0-r36_0.tar.bz2",
-"total":301
+"total":303
 }
 ],
 "downloads_per_date":[
@@ -770,6 +770,10 @@
 {
 "date":"2022-01-13",
 "total":301
+},
+{
+"date":"2022-01-14",
+"total":303
 }
 ],
 "package":"bioconductor-redseq",
@@ -1203,6 +1207,15 @@
 {
 "basename":"bioconductor-redseq-1.32.0-r36_0.tar.bz2",
 "total":301
+}
+]
+},
+{
+"date":"2022-01-14",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-redseq-1.32.0-r36_0.tar.bz2",
+"total":303
 }
 ]
 }

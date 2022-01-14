@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"hmftools-amber-2.3-0.tar.bz2",
-"total":1000
+"total":1002
 }
 ],
 "downloads_per_date":[
@@ -778,6 +778,10 @@
 {
 "date":"2022-01-13",
 "total":1000
+},
+{
+"date":"2022-01-14",
+"total":1002
 }
 ],
 "package":"hmftools-amber",
@@ -1202,6 +1206,15 @@
 {
 "basename":"hmftools-amber-2.3-0.tar.bz2",
 "total":1000
+}
+]
+},
+{
+"date":"2022-01-14",
+"downloads_per_basename":[
+{
+"basename":"hmftools-amber-2.3-0.tar.bz2",
+"total":1002
 }
 ]
 }

@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-pd.charm.hg18.example-0.99.4-r41hdfd78af_8.tar.bz2",
-"total":89
+"total":91
 },
 {
 "basename":"bioconductor-pd.charm.hg18.example-0.99.4-r36_3.tar.bz2",
@@ -810,6 +810,10 @@
 {
 "date":"2022-01-13",
 "total":745
+},
+{
+"date":"2022-01-14",
+"total":747
 }
 ],
 "package":"bioconductor-pd.charm.hg18.example",
@@ -1479,6 +1483,15 @@
 {
 "basename":"bioconductor-pd.charm.hg18.example-0.99.4-r41hdfd78af_8.tar.bz2",
 "total":89
+}
+]
+},
+{
+"date":"2022-01-14",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pd.charm.hg18.example-0.99.4-r41hdfd78af_8.tar.bz2",
+"total":91
 }
 ]
 }

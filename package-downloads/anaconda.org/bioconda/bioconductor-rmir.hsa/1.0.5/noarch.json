@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-rmir.hsa-1.0.5-r41hdfd78af_8.tar.bz2",
-"total":95
+"total":97
 },
 {
 "basename":"bioconductor-rmir.hsa-1.0.5-r36_2.tar.bz2",
@@ -818,6 +818,10 @@
 {
 "date":"2022-01-13",
 "total":760
+},
+{
+"date":"2022-01-14",
+"total":762
 }
 ],
 "package":"bioconductor-rmir.hsa",
@@ -1472,6 +1476,15 @@
 {
 "basename":"bioconductor-rmir.hsa-1.0.5-r41hdfd78af_8.tar.bz2",
 "total":95
+}
+]
+},
+{
+"date":"2022-01-14",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rmir.hsa-1.0.5-r41hdfd78af_8.tar.bz2",
+"total":97
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"unifrac-1.0.0-py38hc37a69a_0.tar.bz2",
-"total":8
+"total":9
 },
 {
 "basename":"unifrac-1.0.0-py39h8f06ca0_0.tar.bz2",
@@ -42,6 +42,10 @@
 {
 "date":"2022-01-13",
 "total":35
+},
+{
+"date":"2022-01-14",
+"total":36
 }
 ],
 "package":"unifrac",
@@ -133,6 +137,15 @@
 {
 "basename":"unifrac-1.0.0-py36hff8b118_0.tar.bz2",
 "total":11
+}
+]
+},
+{
+"date":"2022-01-14",
+"downloads_per_basename":[
+{
+"basename":"unifrac-1.0.0-py38hc37a69a_0.tar.bz2",
+"total":9
 }
 ]
 }
