@@ -938,6 +938,10 @@
 {
 "date":"2022-01-14",
 "total":2900
+},
+{
+"date":"2022-01-15",
+"total":2900
 }
 ],
 "package":"pomegranate",
@@ -1360,6 +1364,15 @@
 "date":"2022-01-14",
 "downloads_per_basename":[
 {
+"basename":"pomegranate-0.3.7-py36_2.tar.bz2",
+"total":2127
+}
+]
+},
+{
+"date":"2022-01-15",
+"downloads_per_basename":[
+{
 "basename":"pomegranate-0.3.7-py35_2.tar.bz2",
 "total":72
 },
@@ -1382,10 +1395,6 @@
 {
 "basename":"pomegranate-0.3.7-py36_1.tar.bz2",
 "total":214
-},
-{
-"basename":"pomegranate-0.3.7-py36_2.tar.bz2",
-"total":2127
 }
 ]
 }

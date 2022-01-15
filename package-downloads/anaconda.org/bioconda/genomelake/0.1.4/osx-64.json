@@ -978,6 +978,10 @@
 {
 "date":"2022-01-14",
 "total":2631
+},
+{
+"date":"2022-01-15",
+"total":2631
 }
 ],
 "package":"genomelake",
@@ -1438,6 +1442,15 @@
 "date":"2022-01-14",
 "downloads_per_basename":[
 {
+"basename":"genomelake-0.1.4-py38h771b250_4.tar.bz2",
+"total":917
+}
+]
+},
+{
+"date":"2022-01-15",
+"downloads_per_basename":[
+{
 "basename":"genomelake-0.1.4-py36h37b9a7d_3.tar.bz2",
 "total":14
 },
@@ -1476,10 +1489,6 @@
 {
 "basename":"genomelake-0.1.4-py36h24bf2e0_1.tar.bz2",
 "total":585
-},
-{
-"basename":"genomelake-0.1.4-py38h771b250_4.tar.bz2",
-"total":917
 }
 ]
 }

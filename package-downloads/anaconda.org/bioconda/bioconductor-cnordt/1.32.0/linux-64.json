@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-cnordt-1.32.0-r40hd029910_1.tar.bz2",
-"total":40
+"total":41
 },
 {
 "basename":"bioconductor-cnordt-1.32.0-r40h037d062_0.tar.bz2",
@@ -198,6 +198,10 @@
 {
 "date":"2022-01-14",
 "total":102
+},
+{
+"date":"2022-01-15",
+"total":103
 }
 ],
 "package":"bioconductor-cnordt",
@@ -304,6 +308,15 @@
 {
 "basename":"bioconductor-cnordt-1.32.0-r40h037d062_0.tar.bz2",
 "total":62
+}
+]
+},
+{
+"date":"2022-01-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cnordt-1.32.0-r40hd029910_1.tar.bz2",
+"total":41
 }
 ]
 }

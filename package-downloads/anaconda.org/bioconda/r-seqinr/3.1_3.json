@@ -912,6 +912,10 @@
 {
 "date":"2022-01-14",
 "total":6755
+},
+{
+"date":"2022-01-15",
+"total":6755
 }
 ],
 "downloads_per_subdir":[
@@ -927,15 +931,6 @@
 "package":"r-seqinr",
 "recent_downloads":[
 {
-"date":"2021-11-13",
-"downloads_per_subdir":[
-{
-"subdir":"linux-64",
-"total":4163
-}
-]
-},
-{
 "date":"2021-11-14",
 "downloads_per_subdir":[
 {
@@ -950,6 +945,10 @@
 {
 "subdir":"osx-64",
 "total":2493
+},
+{
+"subdir":"linux-64",
+"total":4163
 }
 ]
 },

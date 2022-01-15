@@ -11,7 +11,7 @@
 },
 {
 "basename":"gembs-3.5.0-py38h941eeea_0.tar.bz2",
-"total":6
+"total":8
 },
 {
 "basename":"gembs-3.5.0-py36h3c38c53_0.tar.bz2",
@@ -30,6 +30,10 @@
 {
 "date":"2022-01-14",
 "total":25
+},
+{
+"date":"2022-01-15",
+"total":27
 }
 ],
 "package":"gembs",
@@ -74,6 +78,15 @@
 {
 "basename":"gembs-3.5.0-py39hd1907be_0.tar.bz2",
 "total":6
+}
+]
+},
+{
+"date":"2022-01-15",
+"downloads_per_basename":[
+{
+"basename":"gembs-3.5.0-py38h941eeea_0.tar.bz2",
+"total":8
 }
 ]
 }

@@ -934,6 +934,10 @@
 {
 "date":"2022-01-14",
 "total":2291
+},
+{
+"date":"2022-01-15",
+"total":2291
 }
 ],
 "package":"r-rrbgen",
@@ -1356,6 +1360,15 @@
 "date":"2022-01-14",
 "downloads_per_basename":[
 {
+"basename":"r-rrbgen-0.0.6-r41hb280591_5.tar.bz2",
+"total":419
+}
+]
+},
+{
+"date":"2022-01-15",
+"downloads_per_basename":[
+{
 "basename":"r-rrbgen-0.0.6-r40hb280591_4.tar.bz2",
 "total":151
 },
@@ -1366,10 +1379,6 @@
 {
 "basename":"r-rrbgen-0.0.6-r351_1.tar.bz2",
 "total":331
-},
-{
-"basename":"r-rrbgen-0.0.6-r41hb280591_5.tar.bz2",
-"total":419
 },
 {
 "basename":"r-rrbgen-0.0.6-r36h770b8ee_2.tar.bz2",

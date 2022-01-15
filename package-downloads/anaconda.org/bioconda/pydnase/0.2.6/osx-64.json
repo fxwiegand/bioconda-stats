@@ -926,6 +926,10 @@
 {
 "date":"2022-01-14",
 "total":2255
+},
+{
+"date":"2022-01-15",
+"total":2255
 }
 ],
 "package":"pydnase",
@@ -1339,6 +1343,15 @@
 "date":"2022-01-14",
 "downloads_per_basename":[
 {
+"basename":"pydnase-0.2.6-py36_1.tar.bz2",
+"total":1913
+}
+]
+},
+{
+"date":"2022-01-15",
+"downloads_per_basename":[
+{
 "basename":"pydnase-0.2.6-py36_0.tar.bz2",
 "total":37
 },
@@ -1349,10 +1362,6 @@
 {
 "basename":"pydnase-0.2.6-py35_1.tar.bz2",
 "total":268
-},
-{
-"basename":"pydnase-0.2.6-py36_1.tar.bz2",
-"total":1913
 }
 ]
 }

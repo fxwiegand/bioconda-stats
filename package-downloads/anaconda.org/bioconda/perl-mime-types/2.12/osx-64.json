@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-mime-types-2.12-0.tar.bz2",
-"total":1429
+"total":1430
 },
 {
 "basename":"perl-mime-types-2.12-pl526_1.tar.bz2",
@@ -922,6 +922,10 @@
 {
 "date":"2022-01-14",
 "total":4096
+},
+{
+"date":"2022-01-15",
+"total":4097
 }
 ],
 "package":"perl-mime-types",
@@ -1388,6 +1392,15 @@
 {
 "basename":"perl-mime-types-2.12-pl526_1.tar.bz2",
 "total":2667
+}
+]
+},
+{
+"date":"2022-01-15",
+"downloads_per_basename":[
+{
+"basename":"perl-mime-types-2.12-0.tar.bz2",
+"total":1430
 }
 ]
 }

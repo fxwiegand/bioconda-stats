@@ -934,6 +934,10 @@
 {
 "date":"2022-01-14",
 "total":3114
+},
+{
+"date":"2022-01-15",
+"total":3114
 }
 ],
 "package":"pybigwig",
@@ -1347,6 +1351,15 @@
 "date":"2022-01-14",
 "downloads_per_basename":[
 {
+"basename":"pybigwig-0.3.4-np112py36_0.tar.bz2",
+"total":2026
+}
+]
+},
+{
+"date":"2022-01-15",
+"downloads_per_basename":[
+{
 "basename":"pybigwig-0.3.4-np110py34_0.tar.bz2",
 "total":33
 },
@@ -1365,10 +1378,6 @@
 {
 "basename":"pybigwig-0.3.4-np112py35_0.tar.bz2",
 "total":425
-},
-{
-"basename":"pybigwig-0.3.4-np112py36_0.tar.bz2",
-"total":2026
 }
 ]
 }

@@ -926,6 +926,10 @@
 {
 "date":"2022-01-14",
 "total":2273
+},
+{
+"date":"2022-01-15",
+"total":2273
 }
 ],
 "package":"rapid",
@@ -1339,6 +1343,15 @@
 "date":"2022-01-14",
 "downloads_per_basename":[
 {
+"basename":"rapid-0.2-pl5.22.0_3.tar.bz2",
+"total":2076
+}
+]
+},
+{
+"date":"2022-01-15",
+"downloads_per_basename":[
+{
 "basename":"rapid-0.2-pl5.22.0_1.tar.bz2",
 "total":39
 },
@@ -1349,10 +1362,6 @@
 {
 "basename":"rapid-0.2-0.tar.bz2",
 "total":118
-},
-{
-"basename":"rapid-0.2-pl5.22.0_3.tar.bz2",
-"total":2076
 }
 ]
 }

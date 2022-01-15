@@ -938,6 +938,10 @@
 {
 "date":"2022-01-14",
 "total":2453
+},
+{
+"date":"2022-01-15",
+"total":2453
 }
 ],
 "package":"mobster",
@@ -1351,6 +1355,15 @@
 "date":"2022-01-14",
 "downloads_per_basename":[
 {
+"basename":"mobster-0.2.2-py36_1.tar.bz2",
+"total":1921
+}
+]
+},
+{
+"date":"2022-01-15",
+"downloads_per_basename":[
+{
 "basename":"mobster-0.2.2-py27_0.tar.bz2",
 "total":46
 },
@@ -1373,10 +1386,6 @@
 {
 "basename":"mobster-0.2.2-py34_0.tar.bz2",
 "total":298
-},
-{
-"basename":"mobster-0.2.2-py36_1.tar.bz2",
-"total":1921
 }
 ]
 }

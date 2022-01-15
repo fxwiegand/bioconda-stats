@@ -15,7 +15,7 @@
 },
 {
 "basename":"genometools-genometools-1.6.2-py36hdb134e0_0.tar.bz2",
-"total":22
+"total":25
 },
 {
 "basename":"genometools-genometools-1.6.2-py39h95ed972_0.tar.bz2",
@@ -122,6 +122,10 @@
 {
 "date":"2022-01-14",
 "total":95
+},
+{
+"date":"2022-01-15",
+"total":98
 }
 ],
 "package":"genometools-genometools",
@@ -489,6 +493,15 @@
 {
 "basename":"genometools-genometools-1.6.2-py37h6c4617c_0.tar.bz2",
 "total":21
+}
+]
+},
+{
+"date":"2022-01-15",
+"downloads_per_basename":[
+{
+"basename":"genometools-genometools-1.6.2-py36hdb134e0_0.tar.bz2",
+"total":25
 }
 ]
 }

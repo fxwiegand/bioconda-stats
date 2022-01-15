@@ -920,6 +920,10 @@
 {
 "date":"2022-01-14",
 "total":2736
+},
+{
+"date":"2022-01-15",
+"total":2736
 }
 ],
 "downloads_per_subdir":[
@@ -934,15 +938,6 @@
 ],
 "package":"dr-disco",
 "recent_downloads":[
-{
-"date":"2021-11-13",
-"downloads_per_subdir":[
-{
-"subdir":"linux-64",
-"total":589
-}
-]
-},
 {
 "date":"2021-11-14",
 "downloads_per_subdir":[
@@ -1099,6 +1094,10 @@
 {
 "date":"2021-12-02",
 "downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":589
+},
 {
 "subdir":"osx-64",
 "total":2088
