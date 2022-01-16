@@ -7,7 +7,7 @@
 },
 {
 "basename":"avro-cwl-1.8.4-py27_1.tar.bz2",
-"total":274
+"total":275
 },
 {
 "basename":"avro-cwl-1.8.4-py35_0.tar.bz2",
@@ -406,6 +406,10 @@
 {
 "date":"2022-01-15",
 "total":2129
+},
+{
+"date":"2022-01-16",
+"total":2130
 }
 ],
 "package":"avro-cwl",
@@ -689,6 +693,15 @@
 {
 "basename":"avro-cwl-1.8.4-py35_1.tar.bz2",
 "total":259
+}
+]
+},
+{
+"date":"2022-01-16",
+"downloads_per_basename":[
+{
+"basename":"avro-cwl-1.8.4-py27_1.tar.bz2",
+"total":275
 }
 ]
 }

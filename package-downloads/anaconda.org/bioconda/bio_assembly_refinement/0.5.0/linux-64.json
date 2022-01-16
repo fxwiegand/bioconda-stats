@@ -7,7 +7,7 @@
 },
 {
 "basename":"bio_assembly_refinement-0.5.0-py34_0.tar.bz2",
-"total":527
+"total":528
 },
 {
 "basename":"bio_assembly_refinement-0.5.0-py36_1.tar.bz2",
@@ -270,6 +270,10 @@
 {
 "date":"2022-01-15",
 "total":3102
+},
+{
+"date":"2022-01-16",
+"total":3103
 }
 ],
 "package":"bio_assembly_refinement",
@@ -415,6 +419,15 @@
 {
 "basename":"bio_assembly_refinement-0.5.0-py35_1.tar.bz2",
 "total":850
+}
+]
+},
+{
+"date":"2022-01-16",
+"downloads_per_basename":[
+{
+"basename":"bio_assembly_refinement-0.5.0-py34_0.tar.bz2",
+"total":528
 }
 ]
 }

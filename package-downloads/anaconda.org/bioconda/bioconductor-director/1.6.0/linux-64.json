@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-director-1.6.0-r351_0.tar.bz2",
-"total":196
+"total":197
 },
 {
 "basename":"bioconductor-director-1.6.0-r341_0.tar.bz2",
@@ -198,6 +198,10 @@
 {
 "date":"2022-01-15",
 "total":508
+},
+{
+"date":"2022-01-16",
+"total":509
 }
 ],
 "package":"bioconductor-director",
@@ -290,6 +294,15 @@
 {
 "basename":"bioconductor-director-1.6.0-r341_0.tar.bz2",
 "total":312
+}
+]
+},
+{
+"date":"2022-01-16",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-director-1.6.0-r351_0.tar.bz2",
+"total":197
 }
 ]
 }

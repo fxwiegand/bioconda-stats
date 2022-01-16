@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-massarray-1.32.0-r341_0.tar.bz2",
-"total":173
+"total":174
 },
 {
 "basename":"bioconductor-massarray-1.32.0-r351_0.tar.bz2",
@@ -162,6 +162,10 @@
 {
 "date":"2022-01-15",
 "total":471
+},
+{
+"date":"2022-01-16",
+"total":472
 }
 ],
 "package":"bioconductor-massarray",
@@ -251,6 +255,15 @@
 {
 "basename":"bioconductor-massarray-1.32.0-r351_0.tar.bz2",
 "total":298
+}
+]
+},
+{
+"date":"2022-01-16",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-massarray-1.32.0-r341_0.tar.bz2",
+"total":174
 }
 ]
 }

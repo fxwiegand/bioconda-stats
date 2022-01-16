@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-bayseq-2.14.0-r341_0.tar.bz2",
-"total":247
+"total":248
 },
 {
 "basename":"bioconductor-bayseq-2.14.0-r351_0.tar.bz2",
@@ -226,6 +226,10 @@
 {
 "date":"2022-01-15",
 "total":633
+},
+{
+"date":"2022-01-16",
+"total":634
 }
 ],
 "package":"bioconductor-bayseq",
@@ -314,6 +318,15 @@
 {
 "basename":"bioconductor-bayseq-2.14.0-r351_0.tar.bz2",
 "total":386
+}
+]
+},
+{
+"date":"2022-01-16",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bayseq-2.14.0-r341_0.tar.bz2",
+"total":248
 }
 ]
 }

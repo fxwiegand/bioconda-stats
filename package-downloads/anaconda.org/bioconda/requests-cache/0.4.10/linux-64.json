@@ -574,6 +574,10 @@
 {
 "date":"2022-01-15",
 "total":8250
+},
+{
+"date":"2022-01-16",
+"total":8250
 }
 ],
 "package":"requests-cache",
@@ -780,7 +784,12 @@
 {
 "basename":"requests-cache-0.4.10-py36_0.tar.bz2",
 "total":2132
+}
+]
 },
+{
+"date":"2022-01-16",
+"downloads_per_basename":[
 {
 "basename":"requests-cache-0.4.10-py35_0.tar.bz2",
 "total":3725

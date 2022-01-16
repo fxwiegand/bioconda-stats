@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"cgat-apps-0.6.5-py37h80fa574_0.tar.bz2",
-"total":15
+"total":16
 },
 {
 "basename":"cgat-apps-0.6.5-py38hc5b2f15_0.tar.bz2",
@@ -130,6 +130,10 @@
 {
 "date":"2022-01-15",
 "total":39
+},
+{
+"date":"2022-01-16",
+"total":40
 }
 ],
 "package":"cgat-apps",
@@ -333,6 +337,15 @@
 {
 "basename":"cgat-apps-0.6.5-py38hc5b2f15_0.tar.bz2",
 "total":24
+}
+]
+},
+{
+"date":"2022-01-16",
+"downloads_per_basename":[
+{
+"basename":"cgat-apps-0.6.5-py37h80fa574_0.tar.bz2",
+"total":16
 }
 ]
 }

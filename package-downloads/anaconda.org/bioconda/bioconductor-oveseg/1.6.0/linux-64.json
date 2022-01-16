@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-oveseg-1.6.0-r40h5f743cb_0.tar.bz2",
-"total":64
+"total":65
 }
 ],
 "downloads_per_date":[
@@ -194,6 +194,10 @@
 {
 "date":"2022-01-15",
 "total":110
+},
+{
+"date":"2022-01-16",
+"total":111
 }
 ],
 "package":"bioconductor-oveseg",
@@ -274,6 +278,15 @@
 {
 "basename":"bioconductor-oveseg-1.6.0-r40h399db7b_1.tar.bz2",
 "total":46
+}
+]
+},
+{
+"date":"2022-01-16",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-oveseg-1.6.0-r40h5f743cb_0.tar.bz2",
+"total":65
 }
 ]
 }

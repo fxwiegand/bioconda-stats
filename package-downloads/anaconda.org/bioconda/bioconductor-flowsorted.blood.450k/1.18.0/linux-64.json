@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-flowsorted.blood.450k-1.18.0-r341_0.tar.bz2",
-"total":158
+"total":159
 },
 {
 "basename":"bioconductor-flowsorted.blood.450k-1.18.0-r351_0.tar.bz2",
@@ -138,6 +138,10 @@
 {
 "date":"2022-01-15",
 "total":450
+},
+{
+"date":"2022-01-16",
+"total":451
 }
 ],
 "package":"bioconductor-flowsorted.blood.450k",
@@ -218,6 +222,15 @@
 {
 "basename":"bioconductor-flowsorted.blood.450k-1.18.0-r351_0.tar.bz2",
 "total":292
+}
+]
+},
+{
+"date":"2022-01-16",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-flowsorted.blood.450k-1.18.0-r341_0.tar.bz2",
+"total":159
 }
 ]
 }

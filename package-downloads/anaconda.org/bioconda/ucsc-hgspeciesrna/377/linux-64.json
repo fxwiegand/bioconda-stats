@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-hgspeciesrna-377-ha8a8165_3.tar.bz2",
-"total":1
+"total":6
 },
 {
 "basename":"ucsc-hgspeciesrna-377-h0b8a92a_2.tar.bz2",
@@ -226,6 +226,10 @@
 {
 "date":"2022-01-15",
 "total":230
+},
+{
+"date":"2022-01-16",
+"total":235
 }
 ],
 "package":"ucsc-hgspeciesrna",
@@ -340,6 +344,15 @@
 {
 "basename":"ucsc-hgspeciesrna-377-ha8a8165_3.tar.bz2",
 "total":1
+}
+]
+},
+{
+"date":"2022-01-16",
+"downloads_per_basename":[
+{
+"basename":"ucsc-hgspeciesrna-377-ha8a8165_3.tar.bz2",
+"total":6
 }
 ]
 }

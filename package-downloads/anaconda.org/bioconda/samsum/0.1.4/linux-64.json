@@ -15,7 +15,7 @@
 },
 {
 "basename":"samsum-0.1.4-py36ha6c1a3c_1.tar.bz2",
-"total":39
+"total":40
 },
 {
 "basename":"samsum-0.1.4-py37h4458d4e_1.tar.bz2",
@@ -318,6 +318,10 @@
 {
 "date":"2022-01-15",
 "total":302
+},
+{
+"date":"2022-01-16",
+"total":303
 }
 ],
 "package":"samsum",
@@ -530,6 +534,15 @@
 {
 "basename":"samsum-0.1.4-py37h4458d4e_1.tar.bz2",
 "total":50
+}
+]
+},
+{
+"date":"2022-01-16",
+"downloads_per_basename":[
+{
+"basename":"samsum-0.1.4-py36ha6c1a3c_1.tar.bz2",
+"total":40
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-pslswap-377-ha8a8165_3.tar.bz2",
-"total":4
+"total":6
 },
 {
 "basename":"ucsc-pslswap-377-h446ed27_1.tar.bz2",
@@ -446,6 +446,10 @@
 {
 "date":"2022-01-15",
 "total":320
+},
+{
+"date":"2022-01-16",
+"total":322
 }
 ],
 "package":"ucsc-pslswap",
@@ -641,6 +645,15 @@
 {
 "basename":"ucsc-pslswap-377-ha8a8165_3.tar.bz2",
 "total":4
+}
+]
+},
+{
+"date":"2022-01-16",
+"downloads_per_basename":[
+{
+"basename":"ucsc-pslswap-377-ha8a8165_3.tar.bz2",
+"total":6
 }
 ]
 }

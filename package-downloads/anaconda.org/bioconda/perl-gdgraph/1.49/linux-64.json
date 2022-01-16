@@ -19,7 +19,7 @@
 },
 {
 "basename":"perl-gdgraph-1.49-pl5.22.0_3.tar.bz2",
-"total":6376
+"total":6379
 }
 ],
 "downloads_per_date":[
@@ -618,6 +618,10 @@
 {
 "date":"2022-01-15",
 "total":10527
+},
+{
+"date":"2022-01-16",
+"total":10530
 }
 ],
 "package":"perl-gdgraph",
@@ -894,6 +898,15 @@
 {
 "basename":"perl-gdgraph-1.49-2.tar.bz2",
 "total":2451
+}
+]
+},
+{
+"date":"2022-01-16",
+"downloads_per_basename":[
+{
+"basename":"perl-gdgraph-1.49-pl5.22.0_3.tar.bz2",
+"total":6379
 }
 ]
 }

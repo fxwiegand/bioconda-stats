@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rtcga.mrna-1.8.0-r341_0.tar.bz2",
-"total":140
+"total":141
 },
 {
 "basename":"bioconductor-rtcga.mrna-1.8.0-r351_0.tar.bz2",
@@ -130,6 +130,10 @@
 {
 "date":"2022-01-15",
 "total":409
+},
+{
+"date":"2022-01-16",
+"total":410
 }
 ],
 "package":"bioconductor-rtcga.mrna",
@@ -189,6 +193,15 @@
 {
 "basename":"bioconductor-rtcga.mrna-1.8.0-r351_0.tar.bz2",
 "total":269
+}
+]
+},
+{
+"date":"2022-01-16",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rtcga.mrna-1.8.0-r341_0.tar.bz2",
+"total":141
 }
 ]
 }
