@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-mozilla-ca-20160104-0.tar.bz2",
-"total":840
+"total":841
 },
 {
 "basename":"perl-mozilla-ca-20160104-pl526_2.tar.bz2",
@@ -326,6 +326,10 @@
 {
 "date":"2022-01-16",
 "total":2469
+},
+{
+"date":"2022-01-17",
+"total":2470
 }
 ],
 "package":"perl-mozilla-ca",
@@ -454,6 +458,15 @@
 {
 "basename":"perl-mozilla-ca-20160104-pl526_1.tar.bz2",
 "total":660
+}
+]
+},
+{
+"date":"2022-01-17",
+"downloads_per_basename":[
+{
+"basename":"perl-mozilla-ca-20160104-0.tar.bz2",
+"total":841
 }
 ]
 }

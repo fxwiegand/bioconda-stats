@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-clone-pp-1.06-pl526_1.tar.bz2",
-"total":191
+"total":192
 },
 {
 "basename":"perl-clone-pp-1.06-pl5.22.0_0.tar.bz2",
@@ -202,6 +202,10 @@
 {
 "date":"2022-01-16",
 "total":830
+},
+{
+"date":"2022-01-17",
+"total":831
 }
 ],
 "package":"perl-clone-pp",
@@ -269,6 +273,15 @@
 {
 "basename":"perl-clone-pp-1.06-pl5.22.0_0.tar.bz2",
 "total":639
+}
+]
+},
+{
+"date":"2022-01-17",
+"downloads_per_basename":[
+{
+"basename":"perl-clone-pp-1.06-pl526_1.tar.bz2",
+"total":192
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-test-pod-1.51-pl5.22.0_0.tar.bz2",
-"total":681
+"total":682
 },
 {
 "basename":"perl-test-pod-1.51-0.tar.bz2",
@@ -714,6 +714,10 @@
 {
 "date":"2022-01-16",
 "total":13599
+},
+{
+"date":"2022-01-17",
+"total":13600
 }
 ],
 "package":"perl-test-pod",
@@ -1003,6 +1007,15 @@
 {
 "basename":"perl-test-pod-1.51-0.tar.bz2",
 "total":12395
+}
+]
+},
+{
+"date":"2022-01-17",
+"downloads_per_basename":[
+{
+"basename":"perl-test-pod-1.51-pl5.22.0_0.tar.bz2",
+"total":682
 }
 ]
 }

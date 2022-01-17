@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-test-yaml-1.06-0.tar.bz2",
-"total":630
+"total":631
 }
 ],
 "downloads_per_date":[
@@ -186,6 +186,10 @@
 {
 "date":"2022-01-16",
 "total":1346
+},
+{
+"date":"2022-01-17",
+"total":1347
 }
 ],
 "package":"perl-test-yaml",
@@ -260,6 +264,15 @@
 {
 "basename":"perl-test-yaml-1.06-pl5.22.0_1.tar.bz2",
 "total":554
+}
+]
+},
+{
+"date":"2022-01-17",
+"downloads_per_basename":[
+{
+"basename":"perl-test-yaml-1.06-0.tar.bz2",
+"total":631
 }
 ]
 }
