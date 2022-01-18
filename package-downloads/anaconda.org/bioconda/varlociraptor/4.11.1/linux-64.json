@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"varlociraptor-4.11.1-h9cc6cb9_1.tar.bz2",
-"total":8
+"total":10
 },
 {
 "basename":"varlociraptor-4.11.1-h500cd08_0.tar.bz2",
@@ -34,6 +34,10 @@
 {
 "date":"2022-01-17",
 "total":22
+},
+{
+"date":"2022-01-18",
+"total":24
 }
 ],
 "package":"varlociraptor",
@@ -101,6 +105,15 @@
 {
 "basename":"varlociraptor-4.11.1-h500cd08_0.tar.bz2",
 "total":14
+}
+]
+},
+{
+"date":"2022-01-18",
+"downloads_per_basename":[
+{
+"basename":"varlociraptor-4.11.1-h9cc6cb9_1.tar.bz2",
+"total":10
 }
 ]
 }

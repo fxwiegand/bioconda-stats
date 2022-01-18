@@ -11,7 +11,7 @@
 },
 {
 "basename":"taxmapper-1.0.2-py35_0.tar.bz2",
-"total":415
+"total":416
 },
 {
 "basename":"taxmapper-1.0.2-py36h24bf2e0_2.tar.bz2",
@@ -730,6 +730,10 @@
 {
 "date":"2022-01-17",
 "total":3240
+},
+{
+"date":"2022-01-18",
+"total":3241
 }
 ],
 "package":"taxmapper",
@@ -834,6 +838,15 @@
 {
 "basename":"taxmapper-1.0.2-py36h24bf2e0_2.tar.bz2",
 "total":2283
+}
+]
+},
+{
+"date":"2022-01-18",
+"downloads_per_basename":[
+{
+"basename":"taxmapper-1.0.2-py35_0.tar.bz2",
+"total":416
 }
 ]
 }
