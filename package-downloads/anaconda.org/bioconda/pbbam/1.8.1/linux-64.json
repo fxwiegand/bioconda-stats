@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"pbbam-1.8.1-h7bbc14f_1.tar.bz2",
-"total":2
+"total":4
 },
 {
 "basename":"pbbam-1.8.1-h058f120_0.tar.bz2",
@@ -46,6 +46,10 @@
 {
 "date":"2022-01-18",
 "total":20
+},
+{
+"date":"2022-01-19",
+"total":22
 }
 ],
 "package":"pbbam",
@@ -114,6 +118,15 @@
 {
 "basename":"pbbam-1.8.1-h058f120_0.tar.bz2",
 "total":18
+}
+]
+},
+{
+"date":"2022-01-19",
+"downloads_per_basename":[
+{
+"basename":"pbbam-1.8.1-h7bbc14f_1.tar.bz2",
+"total":4
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test2-1.302075-pl5321hdfd78af_2.tar.bz2",
-"total":7
+"total":9
 }
 ],
 "downloads_per_date":[
@@ -14,6 +14,10 @@
 {
 "date":"2022-01-18",
 "total":7
+},
+{
+"date":"2022-01-19",
+"total":9
 }
 ],
 "package":"perl-test2",
@@ -33,6 +37,15 @@
 {
 "basename":"perl-test2-1.302075-pl5321hdfd78af_2.tar.bz2",
 "total":7
+}
+]
+},
+{
+"date":"2022-01-19",
+"downloads_per_basename":[
+{
+"basename":"perl-test2-1.302075-pl5321hdfd78af_2.tar.bz2",
+"total":9
 }
 ]
 }

@@ -35,7 +35,7 @@
 },
 {
 "basename":"python-libsbml-5.18.0-py37hdb03443_3.tar.bz2",
-"total":151
+"total":152
 },
 {
 "basename":"python-libsbml-5.18.0-py38hdc1b752_2.tar.bz2",
@@ -702,6 +702,10 @@
 {
 "date":"2022-01-18",
 "total":2089
+},
+{
+"date":"2022-01-19",
+"total":2090
 }
 ],
 "package":"python-libsbml",
@@ -1274,6 +1278,15 @@
 {
 "basename":"python-libsbml-5.18.0-py36hff43929_0.tar.bz2",
 "total":347
+}
+]
+},
+{
+"date":"2022-01-19",
+"downloads_per_basename":[
+{
+"basename":"python-libsbml-5.18.0-py37hdb03443_3.tar.bz2",
+"total":152
 }
 ]
 }

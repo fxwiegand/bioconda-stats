@@ -190,6 +190,10 @@
 {
 "date":"2022-01-18",
 "total":1726
+},
+{
+"date":"2022-01-19",
+"total":1726
 }
 ],
 "package":"uniprot",
@@ -245,7 +249,12 @@
 {
 "basename":"uniprot-1.3-py34_0.tar.bz2",
 "total":375
+}
+]
 },
+{
+"date":"2022-01-19",
+"downloads_per_basename":[
 {
 "basename":"uniprot-1.3-py27_0.tar.bz2",
 "total":406

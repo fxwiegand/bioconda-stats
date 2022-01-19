@@ -216,6 +216,10 @@
 {
 "date":"2022-01-18",
 "total":108
+},
+{
+"date":"2022-01-19",
+"total":112
 }
 ],
 "downloads_per_subdir":[
@@ -225,7 +229,7 @@
 },
 {
 "subdir":"osx-64",
-"total":84
+"total":88
 }
 ],
 "package":"sdm",
@@ -689,6 +693,15 @@
 {
 "subdir":"linux-64",
 "total":24
+}
+]
+},
+{
+"date":"2022-01-19",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":88
 }
 ]
 }

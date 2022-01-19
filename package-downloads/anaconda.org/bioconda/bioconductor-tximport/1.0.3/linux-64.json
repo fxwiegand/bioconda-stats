@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-tximport-1.0.3-r3.3.2_1.tar.bz2",
-"total":2115
+"total":2116
 },
 {
 "basename":"bioconductor-tximport-1.0.3-r3.3.1_0.tar.bz2",
@@ -390,6 +390,10 @@
 {
 "date":"2022-01-18",
 "total":9069
+},
+{
+"date":"2022-01-19",
+"total":9070
 }
 ],
 "package":"bioconductor-tximport",
@@ -572,6 +576,15 @@
 {
 "basename":"bioconductor-tximport-1.0.3-r3.3.1_0.tar.bz2",
 "total":4287
+}
+]
+},
+{
+"date":"2022-01-19",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-tximport-1.0.3-r3.3.2_1.tar.bz2",
+"total":2116
 }
 ]
 }

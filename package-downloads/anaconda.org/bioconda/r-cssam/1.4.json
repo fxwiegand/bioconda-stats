@@ -132,6 +132,10 @@
 {
 "date":"2022-01-18",
 "total":95
+},
+{
+"date":"2022-01-19",
+"total":99
 }
 ],
 "downloads_per_subdir":[
@@ -141,7 +145,7 @@
 },
 {
 "subdir":"osx-64",
-"total":71
+"total":75
 }
 ],
 "package":"r-cssam",
@@ -405,6 +409,15 @@
 {
 "subdir":"linux-64",
 "total":24
+}
+]
+},
+{
+"date":"2022-01-19",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":75
 }
 ]
 }

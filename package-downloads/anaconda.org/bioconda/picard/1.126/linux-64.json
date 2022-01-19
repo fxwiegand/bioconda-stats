@@ -7,7 +7,7 @@
 },
 {
 "basename":"picard-1.126-2.tar.bz2",
-"total":1104
+"total":1107
 },
 {
 "basename":"picard-1.126-3.tar.bz2",
@@ -574,6 +574,10 @@
 {
 "date":"2022-01-18",
 "total":6648
+},
+{
+"date":"2022-01-19",
+"total":6651
 }
 ],
 "package":"picard",
@@ -943,6 +947,15 @@
 {
 "basename":"picard-1.126-4.tar.bz2",
 "total":3184
+}
+]
+},
+{
+"date":"2022-01-19",
+"downloads_per_basename":[
+{
+"basename":"picard-1.126-2.tar.bz2",
+"total":1107
 }
 ]
 }

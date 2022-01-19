@@ -172,6 +172,10 @@
 {
 "date":"2022-01-18",
 "total":102
+},
+{
+"date":"2022-01-19",
+"total":106
 }
 ],
 "downloads_per_subdir":[
@@ -181,7 +185,7 @@
 },
 {
 "subdir":"osx-64",
-"total":74
+"total":78
 }
 ],
 "package":"seqfu",
@@ -538,6 +542,15 @@
 {
 "subdir":"linux-64",
 "total":28
+}
+]
+},
+{
+"date":"2022-01-19",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":78
 }
 ]
 }

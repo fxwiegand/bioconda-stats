@@ -11,7 +11,7 @@
 },
 {
 "basename":"iqtree-1.5.5-he941832_2.tar.bz2",
-"total":2013
+"total":2014
 }
 ],
 "downloads_per_date":[
@@ -426,6 +426,10 @@
 {
 "date":"2022-01-18",
 "total":3701
+},
+{
+"date":"2022-01-19",
+"total":3702
 }
 ],
 "package":"iqtree",
@@ -591,6 +595,15 @@
 {
 "basename":"iqtree-1.5.5-1.tar.bz2",
 "total":866
+}
+]
+},
+{
+"date":"2022-01-19",
+"downloads_per_basename":[
+{
+"basename":"iqtree-1.5.5-he941832_2.tar.bz2",
+"total":2014
 }
 ]
 }
