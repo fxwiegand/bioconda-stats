@@ -168,6 +168,10 @@
 {
 "date":"2022-01-19",
 "total":526
+},
+{
+"date":"2022-01-20",
+"total":537
 }
 ],
 "downloads_per_subdir":[
@@ -177,7 +181,7 @@
 },
 {
 "subdir":"linux-64",
-"total":384
+"total":395
 }
 ],
 "package":"cyvcf2",
@@ -700,6 +704,15 @@
 {
 "subdir":"linux-64",
 "total":384
+}
+]
+},
+{
+"date":"2022-01-20",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":395
 }
 ]
 }

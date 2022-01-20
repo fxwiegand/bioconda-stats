@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"trinity-2.13.2-h00214ad_1.tar.bz2",
-"total":10
+"total":12
 },
 {
 "basename":"trinity-2.13.2-ha140323_0.tar.bz2",
@@ -254,6 +254,10 @@
 {
 "date":"2022-01-19",
 "total":248
+},
+{
+"date":"2022-01-20",
+"total":250
 }
 ],
 "package":"trinity",
@@ -772,6 +776,15 @@
 {
 "basename":"trinity-2.13.2-ha140323_0.tar.bz2",
 "total":238
+}
+]
+},
+{
+"date":"2022-01-20",
+"downloads_per_basename":[
+{
+"basename":"trinity-2.13.2-h00214ad_1.tar.bz2",
+"total":12
 }
 ]
 }
