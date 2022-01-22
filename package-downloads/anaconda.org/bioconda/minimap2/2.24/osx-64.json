@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"minimap2-2.24-h188c3c3_0.tar.bz2",
-"total":121
+"total":131
 }
 ],
 "downloads_per_date":[
@@ -102,6 +102,10 @@
 {
 "date":"2022-01-20",
 "total":121
+},
+{
+"date":"2022-01-22",
+"total":131
 }
 ],
 "package":"minimap2",
@@ -310,6 +314,15 @@
 {
 "basename":"minimap2-2.24-h188c3c3_0.tar.bz2",
 "total":121
+}
+]
+},
+{
+"date":"2022-01-22",
+"downloads_per_basename":[
+{
+"basename":"minimap2-2.24-h188c3c3_0.tar.bz2",
+"total":131
 }
 ]
 }

@@ -52,6 +52,10 @@
 {
 "date":"2022-01-20",
 "total":62
+},
+{
+"date":"2022-01-22",
+"total":66
 }
 ],
 "downloads_per_subdir":[
@@ -61,7 +65,7 @@
 },
 {
 "subdir":"osx-64",
-"total":40
+"total":44
 }
 ],
 "package":"pyopenms",
@@ -195,6 +199,15 @@
 {
 "subdir":"osx-64",
 "total":40
+}
+]
+},
+{
+"date":"2022-01-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":44
 }
 ]
 }

@@ -88,6 +88,10 @@
 {
 "date":"2022-01-20",
 "total":80
+},
+{
+"date":"2022-01-22",
+"total":84
 }
 ],
 "downloads_per_subdir":[
@@ -97,7 +101,7 @@
 },
 {
 "subdir":"osx-64",
-"total":55
+"total":59
 }
 ],
 "package":"gubbins",
@@ -319,6 +323,15 @@
 {
 "subdir":"osx-64",
 "total":55
+}
+]
+},
+{
+"date":"2022-01-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":59
 }
 ]
 }
