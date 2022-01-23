@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-biostrings-2.42.1-r3.3.1_0.tar.bz2",
-"total":9407
+"total":9408
 },
 {
 "basename":"bioconductor-biostrings-2.42.1-r3.3.2_0.tar.bz2",
@@ -866,6 +866,10 @@
 {
 "date":"2022-01-22",
 "total":27215
+},
+{
+"date":"2022-01-23",
+"total":27216
 }
 ],
 "package":"bioconductor-biostrings",
@@ -1203,6 +1207,15 @@
 {
 "basename":"bioconductor-biostrings-2.42.1-r3.3.2_0.tar.bz2",
 "total":16244
+}
+]
+},
+{
+"date":"2022-01-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-biostrings-2.42.1-r3.3.1_0.tar.bz2",
+"total":9408
 }
 ]
 }

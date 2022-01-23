@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"libsequence-1.8.4-hf3238ad_5.tar.bz2",
-"total":8
+"total":10
 },
 {
 "basename":"libsequence-1.8.4-h1fccb34_4.tar.bz2",
@@ -322,6 +322,10 @@
 {
 "date":"2022-01-22",
 "total":1108
+},
+{
+"date":"2022-01-23",
+"total":1110
 }
 ],
 "package":"libsequence",
@@ -525,6 +529,15 @@
 {
 "basename":"libsequence-1.8.4-hf3238ad_5.tar.bz2",
 "total":8
+}
+]
+},
+{
+"date":"2022-01-23",
+"downloads_per_basename":[
+{
+"basename":"libsequence-1.8.4-hf3238ad_5.tar.bz2",
+"total":10
 }
 ]
 }

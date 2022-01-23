@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-genepredsinglecover-377-ha8a8165_3.tar.bz2",
-"total":8
+"total":10
 },
 {
 "basename":"ucsc-genepredsinglecover-377-h446ed27_1.tar.bz2",
@@ -390,6 +390,10 @@
 {
 "date":"2022-01-22",
 "total":312
+},
+{
+"date":"2022-01-23",
+"total":314
 }
 ],
 "package":"ucsc-genepredsinglecover",
@@ -563,6 +567,15 @@
 {
 "basename":"ucsc-genepredsinglecover-377-ha8a8165_3.tar.bz2",
 "total":8
+}
+]
+},
+{
+"date":"2022-01-23",
+"downloads_per_basename":[
+{
+"basename":"ucsc-genepredsinglecover-377-ha8a8165_3.tar.bz2",
+"total":10
 }
 ]
 }

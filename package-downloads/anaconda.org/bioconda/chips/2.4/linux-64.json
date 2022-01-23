@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"chips-2.4-h00214ad_2.tar.bz2",
-"total":7
+"total":9
 },
 {
 "basename":"chips-2.4-h5ef6573_0.tar.bz2",
@@ -314,6 +314,10 @@
 {
 "date":"2022-01-22",
 "total":122
+},
+{
+"date":"2022-01-23",
+"total":124
 }
 ],
 "package":"chips",
@@ -433,6 +437,15 @@
 {
 "basename":"chips-2.4-h00214ad_2.tar.bz2",
 "total":7
+}
+]
+},
+{
+"date":"2022-01-23",
+"downloads_per_basename":[
+{
+"basename":"chips-2.4-h00214ad_2.tar.bz2",
+"total":9
 }
 ]
 }

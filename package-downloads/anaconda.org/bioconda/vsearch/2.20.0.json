@@ -44,6 +44,10 @@
 {
 "date":"2022-01-22",
 "total":39
+},
+{
+"date":"2022-01-23",
+"total":43
 }
 ],
 "downloads_per_subdir":[
@@ -53,7 +57,7 @@
 },
 {
 "subdir":"osx-64",
-"total":27
+"total":31
 }
 ],
 "package":"vsearch",
@@ -139,6 +143,15 @@
 {
 "subdir":"osx-64",
 "total":27
+}
+]
+},
+{
+"date":"2022-01-23",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":31
 }
 ]
 }

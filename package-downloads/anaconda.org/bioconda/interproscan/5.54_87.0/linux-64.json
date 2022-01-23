@@ -7,7 +7,7 @@
 },
 {
 "basename":"interproscan-5.54_87.0-h779adbc_1.tar.bz2",
-"total":42
+"total":44
 }
 ],
 "downloads_per_date":[
@@ -50,6 +50,10 @@
 {
 "date":"2022-01-22",
 "total":58
+},
+{
+"date":"2022-01-23",
+"total":60
 }
 ],
 "package":"interproscan",
@@ -157,6 +161,15 @@
 {
 "basename":"interproscan-5.54_87.0-h779adbc_1.tar.bz2",
 "total":42
+}
+]
+},
+{
+"date":"2022-01-23",
+"downloads_per_basename":[
+{
+"basename":"interproscan-5.54_87.0-h779adbc_1.tar.bz2",
+"total":44
 }
 ]
 }

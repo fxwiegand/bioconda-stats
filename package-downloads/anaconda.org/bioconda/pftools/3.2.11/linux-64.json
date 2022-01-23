@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"pftools-3.2.11-pl5321r41hd764cca_1.tar.bz2",
-"total":12
+"total":16
 },
 {
 "basename":"pftools-3.2.11-pl5262r41hd764cca_0.tar.bz2",
@@ -226,6 +226,10 @@
 {
 "date":"2022-01-22",
 "total":233
+},
+{
+"date":"2022-01-23",
+"total":237
 }
 ],
 "package":"pftools",
@@ -699,6 +703,15 @@
 {
 "basename":"pftools-3.2.11-pl5262r41hd764cca_0.tar.bz2",
 "total":221
+}
+]
+},
+{
+"date":"2022-01-23",
+"downloads_per_basename":[
+{
+"basename":"pftools-3.2.11-pl5321r41hd764cca_1.tar.bz2",
+"total":16
 }
 ]
 }

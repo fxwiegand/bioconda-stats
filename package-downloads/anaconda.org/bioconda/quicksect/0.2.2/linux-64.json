@@ -47,7 +47,7 @@
 },
 {
 "basename":"quicksect-0.2.2-py37h73a75cf_4.tar.bz2",
-"total":174
+"total":175
 },
 {
 "basename":"quicksect-0.2.2-py38h4a8c8d9_4.tar.bz2",
@@ -734,6 +734,10 @@
 {
 "date":"2022-01-22",
 "total":2569
+},
+{
+"date":"2022-01-23",
+"total":2570
 }
 ],
 "package":"quicksect",
@@ -1370,6 +1374,15 @@
 {
 "basename":"quicksect-0.2.2-py38h0213d0e_3.tar.bz2",
 "total":389
+}
+]
+},
+{
+"date":"2022-01-23",
+"downloads_per_basename":[
+{
+"basename":"quicksect-0.2.2-py37h73a75cf_4.tar.bz2",
+"total":175
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"rustybam-0.1.25-hca2ee45_0.tar.bz2",
-"total":40
+"total":42
 }
 ],
 "downloads_per_date":[
@@ -70,6 +70,10 @@
 {
 "date":"2022-01-22",
 "total":40
+},
+{
+"date":"2022-01-23",
+"total":42
 }
 ],
 "package":"rustybam",
@@ -215,6 +219,15 @@
 {
 "basename":"rustybam-0.1.25-hca2ee45_0.tar.bz2",
 "total":40
+}
+]
+},
+{
+"date":"2022-01-23",
+"downloads_per_basename":[
+{
+"basename":"rustybam-0.1.25-hca2ee45_0.tar.bz2",
+"total":42
 }
 ]
 }

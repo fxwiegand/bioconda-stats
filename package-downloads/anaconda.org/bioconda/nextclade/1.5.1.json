@@ -212,6 +212,10 @@
 {
 "date":"2022-01-22",
 "total":206
+},
+{
+"date":"2022-01-23",
+"total":208
 }
 ],
 "downloads_per_subdir":[
@@ -221,7 +225,7 @@
 },
 {
 "subdir":"osx-64",
-"total":103
+"total":105
 }
 ],
 "package":"nextclade",
@@ -794,6 +798,15 @@
 {
 "subdir":"osx-64",
 "total":103
+}
+]
+},
+{
+"date":"2022-01-23",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":105
 }
 ]
 }

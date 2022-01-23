@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-fasplit-332-0.tar.bz2",
-"total":1025
+"total":1026
 }
 ],
 "downloads_per_date":[
@@ -142,6 +142,10 @@
 {
 "date":"2022-01-22",
 "total":1025
+},
+{
+"date":"2022-01-23",
+"total":1026
 }
 ],
 "package":"ucsc-fasplit",
@@ -179,6 +183,15 @@
 {
 "basename":"ucsc-fasplit-332-0.tar.bz2",
 "total":1025
+}
+]
+},
+{
+"date":"2022-01-23",
+"downloads_per_basename":[
+{
+"basename":"ucsc-fasplit-332-0.tar.bz2",
+"total":1026
 }
 ]
 }

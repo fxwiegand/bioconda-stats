@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"gargammel-1.1.2-h427467e_4.tar.bz2",
-"total":8
+"total":10
 },
 {
 "basename":"gargammel-1.1.2-hc6adf06_3.tar.bz2",
@@ -326,6 +326,10 @@
 {
 "date":"2022-01-22",
 "total":254
+},
+{
+"date":"2022-01-23",
+"total":256
 }
 ],
 "package":"gargammel",
@@ -521,6 +525,15 @@
 {
 "basename":"gargammel-1.1.2-h427467e_4.tar.bz2",
 "total":8
+}
+]
+},
+{
+"date":"2022-01-23",
+"downloads_per_basename":[
+{
+"basename":"gargammel-1.1.2-h427467e_4.tar.bz2",
+"total":10
 }
 ]
 }

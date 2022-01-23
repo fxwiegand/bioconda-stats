@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"glimpse-bio-1.1.1-hce55b13_1.tar.bz2",
-"total":8
+"total":10
 },
 {
 "basename":"glimpse-bio-1.1.1-hd3cd7f2_0.tar.bz2",
@@ -130,6 +130,10 @@
 {
 "date":"2022-01-22",
 "total":39
+},
+{
+"date":"2022-01-23",
+"total":41
 }
 ],
 "package":"glimpse-bio",
@@ -243,6 +247,15 @@
 {
 "basename":"glimpse-bio-1.1.1-hce55b13_1.tar.bz2",
 "total":8
+}
+]
+},
+{
+"date":"2022-01-23",
+"downloads_per_basename":[
+{
+"basename":"glimpse-bio-1.1.1-hce55b13_1.tar.bz2",
+"total":10
 }
 ]
 }

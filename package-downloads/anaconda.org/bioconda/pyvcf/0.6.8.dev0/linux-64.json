@@ -7,7 +7,7 @@
 },
 {
 "basename":"pyvcf-0.6.8.dev0-py35_0.tar.bz2",
-"total":658
+"total":659
 },
 {
 "basename":"pyvcf-0.6.8.dev0-py27_0.tar.bz2",
@@ -198,6 +198,10 @@
 {
 "date":"2022-01-22",
 "total":4098
+},
+{
+"date":"2022-01-23",
+"total":4099
 }
 ],
 "package":"pyvcf",
@@ -251,6 +255,15 @@
 {
 "basename":"pyvcf-0.6.8.dev0-py27_0.tar.bz2",
 "total":2959
+}
+]
+},
+{
+"date":"2022-01-23",
+"downloads_per_basename":[
+{
+"basename":"pyvcf-0.6.8.dev0-py35_0.tar.bz2",
+"total":659
 }
 ]
 }

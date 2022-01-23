@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"hmmer-3.3-he1b5a44_0.tar.bz2",
-"total":3886
+"total":3887
 },
 {
 "basename":"hmmer-3.3-he1b5a44_1.tar.bz2",
@@ -878,6 +878,10 @@
 {
 "date":"2022-01-22",
 "total":16924
+},
+{
+"date":"2022-01-23",
+"total":16925
 }
 ],
 "package":"hmmer",
@@ -1152,6 +1156,15 @@
 {
 "basename":"hmmer-3.3-he1b5a44_1.tar.bz2",
 "total":13038
+}
+]
+},
+{
+"date":"2022-01-23",
+"downloads_per_basename":[
+{
+"basename":"hmmer-3.3-he1b5a44_0.tar.bz2",
+"total":3887
 }
 ]
 }

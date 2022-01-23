@@ -15,7 +15,7 @@
 },
 {
 "basename":"perl-json-2.90-1.tar.bz2",
-"total":15485
+"total":15486
 }
 ],
 "downloads_per_date":[
@@ -962,6 +962,10 @@
 {
 "date":"2022-01-22",
 "total":23406
+},
+{
+"date":"2022-01-23",
+"total":23407
 }
 ],
 "package":"perl-json",
@@ -1447,6 +1451,15 @@
 {
 "basename":"perl-json-2.90-1.tar.bz2",
 "total":15485
+}
+]
+},
+{
+"date":"2022-01-23",
+"downloads_per_basename":[
+{
+"basename":"perl-json-2.90-1.tar.bz2",
+"total":15486
 }
 ]
 }

@@ -15,7 +15,7 @@
 },
 {
 "basename":"oauth2client-1.5.2-py27_0.tar.bz2",
-"total":9838
+"total":9839
 }
 ],
 "downloads_per_date":[
@@ -802,6 +802,10 @@
 {
 "date":"2022-01-22",
 "total":16342
+},
+{
+"date":"2022-01-23",
+"total":16343
 }
 ],
 "package":"oauth2client",
@@ -1152,6 +1156,15 @@
 {
 "basename":"oauth2client-1.5.2-py36_0.tar.bz2",
 "total":5434
+}
+]
+},
+{
+"date":"2022-01-23",
+"downloads_per_basename":[
+{
+"basename":"oauth2client-1.5.2-py27_0.tar.bz2",
+"total":9839
 }
 ]
 }

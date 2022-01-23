@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-clustergenes-377-ha8a8165_3.tar.bz2",
-"total":5
+"total":6
 },
 {
 "basename":"ucsc-clustergenes-377-h0b8a92a_2.tar.bz2",
@@ -258,6 +258,10 @@
 {
 "date":"2022-01-22",
 "total":290
+},
+{
+"date":"2022-01-23",
+"total":291
 }
 ],
 "package":"ucsc-clustergenes",
@@ -372,6 +376,15 @@
 {
 "basename":"ucsc-clustergenes-377-h199ee4e_0.tar.bz2",
 "total":184
+}
+]
+},
+{
+"date":"2022-01-23",
+"downloads_per_basename":[
+{
+"basename":"ucsc-clustergenes-377-ha8a8165_3.tar.bz2",
+"total":6
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-amountain-1.20.0-r41h524e24a_1.tar.bz2",
-"total":7
+"total":9
 },
 {
 "basename":"bioconductor-amountain-1.20.0-r41ha4a0bc2_0.tar.bz2",
@@ -134,6 +134,10 @@
 {
 "date":"2022-01-22",
 "total":36
+},
+{
+"date":"2022-01-23",
+"total":38
 }
 ],
 "package":"bioconductor-amountain",
@@ -234,6 +238,15 @@
 {
 "basename":"bioconductor-amountain-1.20.0-r41h524e24a_1.tar.bz2",
 "total":7
+}
+]
+},
+{
+"date":"2022-01-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-amountain-1.20.0-r41h524e24a_1.tar.bz2",
+"total":9
 }
 ]
 }

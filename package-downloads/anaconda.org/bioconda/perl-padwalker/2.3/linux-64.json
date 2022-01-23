@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-padwalker-2.3-pl5321h7d875b9_2.tar.bz2",
-"total":10
+"total":12
 },
 {
 "basename":"perl-padwalker-2.3-pl526h6bb024c_1.tar.bz2",
@@ -382,6 +382,10 @@
 {
 "date":"2022-01-22",
 "total":648
+},
+{
+"date":"2022-01-23",
+"total":650
 }
 ],
 "package":"perl-padwalker",
@@ -522,6 +526,15 @@
 {
 "basename":"perl-padwalker-2.3-pl5321h7d875b9_2.tar.bz2",
 "total":10
+}
+]
+},
+{
+"date":"2022-01-23",
+"downloads_per_basename":[
+{
+"basename":"perl-padwalker-2.3-pl5321h7d875b9_2.tar.bz2",
+"total":12
 }
 ]
 }

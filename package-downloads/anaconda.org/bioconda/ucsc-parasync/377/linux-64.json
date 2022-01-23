@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-parasync-377-ha8a8165_3.tar.bz2",
-"total":9
+"total":10
 },
 {
 "basename":"ucsc-parasync-377-h446ed27_1.tar.bz2",
@@ -378,6 +378,10 @@
 {
 "date":"2022-01-22",
 "total":312
+},
+{
+"date":"2022-01-23",
+"total":313
 }
 ],
 "package":"ucsc-parasync",
@@ -524,6 +528,15 @@
 {
 "basename":"ucsc-parasync-377-h199ee4e_0.tar.bz2",
 "total":167
+}
+]
+},
+{
+"date":"2022-01-23",
+"downloads_per_basename":[
+{
+"basename":"ucsc-parasync-377-ha8a8165_3.tar.bz2",
+"total":10
 }
 ]
 }

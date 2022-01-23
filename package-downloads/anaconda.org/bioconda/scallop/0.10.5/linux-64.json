@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"scallop-0.10.5-h4ddc2ac_2.tar.bz2",
-"total":9
+"total":12
 },
 {
 "basename":"scallop-0.10.5-hbce0939_1.tar.bz2",
@@ -550,6 +550,10 @@
 {
 "date":"2022-01-22",
 "total":1063
+},
+{
+"date":"2022-01-23",
+"total":1066
 }
 ],
 "package":"scallop",
@@ -800,6 +804,15 @@
 {
 "basename":"scallop-0.10.5-hbce0939_1.tar.bz2",
 "total":291
+}
+]
+},
+{
+"date":"2022-01-23",
+"downloads_per_basename":[
+{
+"basename":"scallop-0.10.5-h4ddc2ac_2.tar.bz2",
+"total":12
 }
 ]
 }

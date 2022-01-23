@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"rxdock-2013.1.1_148c5bd1-he1b5a44_0.tar.bz2",
-"total":196
+"total":197
 },
 {
 "basename":"rxdock-2013.1.1_148c5bd1-pl526he1b5a44_1.tar.bz2",
@@ -906,6 +906,10 @@
 {
 "date":"2022-01-22",
 "total":2015
+},
+{
+"date":"2022-01-23",
+"total":2016
 }
 ],
 "package":"rxdock",
@@ -1331,6 +1335,15 @@
 {
 "basename":"rxdock-2013.1.1_148c5bd1-pl526he1b5a44_1.tar.bz2",
 "total":1819
+}
+]
+},
+{
+"date":"2022-01-23",
+"downloads_per_basename":[
+{
+"basename":"rxdock-2013.1.1_148c5bd1-he1b5a44_0.tar.bz2",
+"total":197
 }
 ]
 }
