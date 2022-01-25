@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-harness-3.42-pl5321hdfd78af_1.tar.bz2",
-"total":60
+"total":82
 }
 ],
 "downloads_per_date":[
@@ -18,6 +18,10 @@
 {
 "date":"2022-01-23",
 "total":60
+},
+{
+"date":"2022-01-25",
+"total":82
 }
 ],
 "package":"perl-test-harness",
@@ -46,6 +50,15 @@
 {
 "basename":"perl-test-harness-3.42-pl5321hdfd78af_1.tar.bz2",
 "total":60
+}
+]
+},
+{
+"date":"2022-01-25",
+"downloads_per_basename":[
+{
+"basename":"perl-test-harness-3.42-pl5321hdfd78af_1.tar.bz2",
+"total":82
 }
 ]
 }

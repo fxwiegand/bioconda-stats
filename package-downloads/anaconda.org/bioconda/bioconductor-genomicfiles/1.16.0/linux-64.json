@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-genomicfiles-1.16.0-r341_0.tar.bz2",
-"total":234
+"total":235
 },
 {
 "basename":"bioconductor-genomicfiles-1.16.0-r351_0.tar.bz2",
@@ -242,6 +242,10 @@
 {
 "date":"2022-01-23",
 "total":616
+},
+{
+"date":"2022-01-25",
+"total":617
 }
 ],
 "package":"bioconductor-genomicfiles",
@@ -313,6 +317,15 @@
 {
 "basename":"bioconductor-genomicfiles-1.16.0-r351_0.tar.bz2",
 "total":382
+}
+]
+},
+{
+"date":"2022-01-25",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-genomicfiles-1.16.0-r341_0.tar.bz2",
+"total":235
 }
 ]
 }

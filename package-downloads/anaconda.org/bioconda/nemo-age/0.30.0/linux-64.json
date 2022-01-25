@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"nemo-age-0.30.0-h183c9db_1.tar.bz2",
-"total":9
+"total":10
 },
 {
 "basename":"nemo-age-0.30.0-h08b4c99_0.tar.bz2",
@@ -158,6 +158,10 @@
 {
 "date":"2022-01-23",
 "total":41
+},
+{
+"date":"2022-01-25",
+"total":42
 }
 ],
 "package":"nemo-age",
@@ -235,6 +239,15 @@
 {
 "basename":"nemo-age-0.30.0-h183c9db_1.tar.bz2",
 "total":9
+}
+]
+},
+{
+"date":"2022-01-25",
+"downloads_per_basename":[
+{
+"basename":"nemo-age-0.30.0-h183c9db_1.tar.bz2",
+"total":10
 }
 ]
 }

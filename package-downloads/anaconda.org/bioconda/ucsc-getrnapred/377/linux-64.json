@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-getrnapred-377-ha8a8165_3.tar.bz2",
-"total":11
+"total":12
 },
 {
 "basename":"ucsc-getrnapred-377-h446ed27_1.tar.bz2",
@@ -402,6 +402,10 @@
 {
 "date":"2022-01-23",
 "total":329
+},
+{
+"date":"2022-01-25",
+"total":330
 }
 ],
 "package":"ucsc-getrnapred",
@@ -552,6 +556,15 @@
 {
 "basename":"ucsc-getrnapred-377-h199ee4e_0.tar.bz2",
 "total":156
+}
+]
+},
+{
+"date":"2022-01-25",
+"downloads_per_basename":[
+{
+"basename":"ucsc-getrnapred-377-ha8a8165_3.tar.bz2",
+"total":12
 }
 ]
 }

@@ -19,7 +19,7 @@
 },
 {
 "basename":"perl-cgi-4.22-3.tar.bz2",
-"total":22699
+"total":22704
 }
 ],
 "downloads_per_date":[
@@ -902,6 +902,10 @@
 {
 "date":"2022-01-23",
 "total":30075
+},
+{
+"date":"2022-01-25",
+"total":30080
 }
 ],
 "package":"perl-cgi",
@@ -1333,6 +1337,15 @@
 {
 "basename":"perl-cgi-4.22-3.tar.bz2",
 "total":22699
+}
+]
+},
+{
+"date":"2022-01-25",
+"downloads_per_basename":[
+{
+"basename":"perl-cgi-4.22-3.tar.bz2",
+"total":22704
 }
 ]
 }

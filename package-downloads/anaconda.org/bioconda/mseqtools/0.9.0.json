@@ -188,6 +188,10 @@
 {
 "date":"2022-01-23",
 "total":102
+},
+{
+"date":"2022-01-25",
+"total":106
 }
 ],
 "downloads_per_subdir":[
@@ -197,7 +201,7 @@
 },
 {
 "subdir":"osx-64",
-"total":90
+"total":94
 }
 ],
 "package":"mseqtools",
@@ -610,6 +614,15 @@
 {
 "subdir":"osx-64",
 "total":90
+}
+]
+},
+{
+"date":"2022-01-25",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":94
 }
 ]
 }

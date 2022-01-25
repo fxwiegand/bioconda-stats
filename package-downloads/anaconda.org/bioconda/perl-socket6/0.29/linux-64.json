@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-socket6-0.29-pl5321h779adbc_1.tar.bz2",
-"total":12
+"total":16
 },
 {
 "basename":"perl-socket6-0.29-pl526_0.tar.bz2",
@@ -210,6 +210,10 @@
 {
 "date":"2022-01-23",
 "total":318
+},
+{
+"date":"2022-01-25",
+"total":322
 }
 ],
 "package":"perl-socket6",
@@ -292,6 +296,15 @@
 {
 "basename":"perl-socket6-0.29-pl5321h779adbc_1.tar.bz2",
 "total":12
+}
+]
+},
+{
+"date":"2022-01-25",
+"downloads_per_basename":[
+{
+"basename":"perl-socket6-0.29-pl5321h779adbc_1.tar.bz2",
+"total":16
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-hgloadchain-377-ha8a8165_3.tar.bz2",
-"total":9
+"total":10
 },
 {
 "basename":"ucsc-hgloadchain-377-h446ed27_1.tar.bz2",
@@ -418,6 +418,10 @@
 {
 "date":"2022-01-23",
 "total":328
+},
+{
+"date":"2022-01-25",
+"total":329
 }
 ],
 "package":"ucsc-hgloadchain",
@@ -573,6 +577,15 @@
 {
 "basename":"ucsc-hgloadchain-377-h199ee4e_0.tar.bz2",
 "total":163
+}
+]
+},
+{
+"date":"2022-01-25",
+"downloads_per_basename":[
+{
+"basename":"ucsc-hgloadchain-377-ha8a8165_3.tar.bz2",
+"total":10
 }
 ]
 }

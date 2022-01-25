@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-axtsort-377-h0b8a92a_2.tar.bz2",
-"total":102
+"total":103
 },
 {
 "basename":"ucsc-axtsort-377-h199ee4e_0.tar.bz2",
@@ -450,6 +450,10 @@
 {
 "date":"2022-01-23",
 "total":344
+},
+{
+"date":"2022-01-25",
+"total":345
 }
 ],
 "package":"ucsc-axtsort",
@@ -629,6 +633,15 @@
 {
 "basename":"ucsc-axtsort-377-h199ee4e_0.tar.bz2",
 "total":170
+}
+]
+},
+{
+"date":"2022-01-25",
+"downloads_per_basename":[
+{
+"basename":"ucsc-axtsort-377-h0b8a92a_2.tar.bz2",
+"total":103
 }
 ]
 }

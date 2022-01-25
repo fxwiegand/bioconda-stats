@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-psych-1.5.8-r3.4.1_0.tar.bz2",
-"total":2314
+"total":2315
 },
 {
 "basename":"r-psych-1.5.8-r3.3.2_0.tar.bz2",
@@ -434,6 +434,10 @@
 {
 "date":"2022-01-23",
 "total":6818
+},
+{
+"date":"2022-01-25",
+"total":6819
 }
 ],
 "package":"r-psych",
@@ -651,6 +655,15 @@
 {
 "basename":"r-psych-1.5.8-r3.3.2_0.tar.bz2",
 "total":2870
+}
+]
+},
+{
+"date":"2022-01-25",
+"downloads_per_basename":[
+{
+"basename":"r-psych-1.5.8-r3.4.1_0.tar.bz2",
+"total":2315
 }
 ]
 }

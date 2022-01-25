@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-affy-1.70.0-r41hd029910_0.tar.bz2",
-"total":960
+"total":961
 }
 ],
 "downloads_per_date":[
@@ -782,6 +782,10 @@
 {
 "date":"2022-01-23",
 "total":960
+},
+{
+"date":"2022-01-25",
+"total":961
 }
 ],
 "package":"bioconductor-affy",
@@ -963,6 +967,15 @@
 {
 "basename":"bioconductor-affy-1.70.0-r41hd029910_0.tar.bz2",
 "total":960
+}
+]
+},
+{
+"date":"2022-01-25",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-affy-1.70.0-r41hd029910_0.tar.bz2",
+"total":961
 }
 ]
 }

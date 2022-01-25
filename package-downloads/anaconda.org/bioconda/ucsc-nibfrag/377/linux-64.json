@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-nibfrag-377-ha8a8165_3.tar.bz2",
-"total":8
+"total":9
 },
 {
 "basename":"ucsc-nibfrag-377-h446ed27_1.tar.bz2",
@@ -374,6 +374,10 @@
 {
 "date":"2022-01-23",
 "total":303
+},
+{
+"date":"2022-01-25",
+"total":304
 }
 ],
 "package":"ucsc-nibfrag",
@@ -521,6 +525,15 @@
 {
 "basename":"ucsc-nibfrag-377-h199ee4e_0.tar.bz2",
 "total":161
+}
+]
+},
+{
+"date":"2022-01-25",
+"downloads_per_basename":[
+{
+"basename":"ucsc-nibfrag-377-ha8a8165_3.tar.bz2",
+"total":9
 }
 ]
 }
