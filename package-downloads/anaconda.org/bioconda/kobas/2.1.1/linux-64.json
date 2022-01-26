@@ -15,7 +15,7 @@
 },
 {
 "basename":"kobas-2.1.1-py27r3.3.2_2.tar.bz2",
-"total":575
+"total":576
 },
 {
 "basename":"kobas-2.1.1-py27r3.4.1_2.tar.bz2",
@@ -282,6 +282,10 @@
 {
 "date":"2022-01-25",
 "total":2755
+},
+{
+"date":"2022-01-26",
+"total":2756
 }
 ],
 "package":"kobas",
@@ -405,6 +409,15 @@
 {
 "basename":"kobas-2.1.1-py27r3.4.1_2.tar.bz2",
 "total":755
+}
+]
+},
+{
+"date":"2022-01-26",
+"downloads_per_basename":[
+{
+"basename":"kobas-2.1.1-py27r3.3.2_2.tar.bz2",
+"total":576
 }
 ]
 }

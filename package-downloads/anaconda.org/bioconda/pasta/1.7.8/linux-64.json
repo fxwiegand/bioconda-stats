@@ -31,7 +31,7 @@
 },
 {
 "basename":"pasta-1.7.8-py36h470a237_2.tar.bz2",
-"total":952
+"total":953
 },
 {
 "basename":"pasta-1.7.8-0.tar.bz2",
@@ -622,6 +622,10 @@
 {
 "date":"2022-01-25",
 "total":5628
+},
+{
+"date":"2022-01-26",
+"total":5629
 }
 ],
 "package":"pasta",
@@ -891,6 +895,15 @@
 {
 "basename":"pasta-1.7.8-py37h8f50634_4.tar.bz2",
 "total":266
+}
+]
+},
+{
+"date":"2022-01-26",
+"downloads_per_basename":[
+{
+"basename":"pasta-1.7.8-py36h470a237_2.tar.bz2",
+"total":953
 }
 ]
 }

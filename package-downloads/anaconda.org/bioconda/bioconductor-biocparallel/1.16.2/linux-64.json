@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-biocparallel-1.16.2-r351h1c2f66e_1.tar.bz2",
-"total":8330
+"total":8331
 }
 ],
 "downloads_per_date":[
@@ -506,6 +506,10 @@
 {
 "date":"2022-01-25",
 "total":10243
+},
+{
+"date":"2022-01-26",
+"total":10244
 }
 ],
 "package":"bioconductor-biocparallel",
@@ -662,6 +666,15 @@
 {
 "basename":"bioconductor-biocparallel-1.16.2-r351hf484d3e_0.tar.bz2",
 "total":1913
+}
+]
+},
+{
+"date":"2022-01-26",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-biocparallel-1.16.2-r351h1c2f66e_1.tar.bz2",
+"total":8331
 }
 ]
 }

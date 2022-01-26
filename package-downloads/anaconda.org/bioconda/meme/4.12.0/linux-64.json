@@ -27,7 +27,7 @@
 },
 {
 "basename":"meme-4.12.0-py36pl5.22.0_1.tar.bz2",
-"total":1046
+"total":1047
 },
 {
 "basename":"meme-4.12.0-py36pl526h96dd833_2.tar.bz2",
@@ -706,6 +706,10 @@
 {
 "date":"2022-01-25",
 "total":6777
+},
+{
+"date":"2022-01-26",
+"total":6778
 }
 ],
 "package":"meme",
@@ -1096,6 +1100,15 @@
 {
 "basename":"meme-4.12.0-py35pl5.22.0_0.tar.bz2",
 "total":475
+}
+]
+},
+{
+"date":"2022-01-26",
+"downloads_per_basename":[
+{
+"basename":"meme-4.12.0-py36pl5.22.0_1.tar.bz2",
+"total":1047
 }
 ]
 }

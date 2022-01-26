@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"transit-2.3.3-py27_1.tar.bz2",
-"total":205
+"total":206
 },
 {
 "basename":"transit-2.3.3-py27_0.tar.bz2",
@@ -250,6 +250,10 @@
 {
 "date":"2022-01-25",
 "total":479
+},
+{
+"date":"2022-01-26",
+"total":480
 }
 ],
 "package":"transit",
@@ -335,6 +339,15 @@
 {
 "basename":"transit-2.3.3-py27_0.tar.bz2",
 "total":274
+}
+]
+},
+{
+"date":"2022-01-26",
+"downloads_per_basename":[
+{
+"basename":"transit-2.3.3-py27_1.tar.bz2",
+"total":206
 }
 ]
 }
