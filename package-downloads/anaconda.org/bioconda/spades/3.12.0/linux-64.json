@@ -7,7 +7,7 @@
 },
 {
 "basename":"spades-3.12.0-h9ee0642_2.tar.bz2",
-"total":406
+"total":407
 },
 {
 "basename":"spades-3.12.0-py27_0.tar.bz2",
@@ -854,6 +854,10 @@
 {
 "date":"2022-01-26",
 "total":14279
+},
+{
+"date":"2022-01-27",
+"total":14280
 }
 ],
 "package":"spades",
@@ -1207,6 +1211,15 @@
 {
 "basename":"spades-3.12.0-py27_0.tar.bz2",
 "total":663
+}
+]
+},
+{
+"date":"2022-01-27",
+"downloads_per_basename":[
+{
+"basename":"spades-3.12.0-h9ee0642_2.tar.bz2",
+"total":407
 }
 ]
 }

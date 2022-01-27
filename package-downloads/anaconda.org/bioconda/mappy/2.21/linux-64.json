@@ -11,7 +11,7 @@
 },
 {
 "basename":"mappy-2.21-py37h190e900_0.tar.bz2",
-"total":100
+"total":101
 },
 {
 "basename":"mappy-2.21-py36h30a8e3e_0.tar.bz2",
@@ -650,6 +650,10 @@
 {
 "date":"2022-01-26",
 "total":1069
+},
+{
+"date":"2022-01-27",
+"total":1070
 }
 ],
 "package":"mappy",
@@ -1056,6 +1060,15 @@
 {
 "basename":"mappy-2.21-py36h30a8e3e_0.tar.bz2",
 "total":235
+}
+]
+},
+{
+"date":"2022-01-27",
+"downloads_per_basename":[
+{
+"basename":"mappy-2.21-py37h190e900_0.tar.bz2",
+"total":101
 }
 ]
 }

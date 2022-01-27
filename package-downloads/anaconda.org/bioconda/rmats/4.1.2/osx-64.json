@@ -31,7 +31,7 @@
 },
 {
 "basename":"rmats-4.1.2-py39h614e756_2.tar.bz2",
-"total":27
+"total":29
 },
 {
 "basename":"rmats-4.1.2-py38hfca8362_1.tar.bz2",
@@ -178,6 +178,10 @@
 {
 "date":"2022-01-26",
 "total":179
+},
+{
+"date":"2022-01-27",
+"total":181
 }
 ],
 "package":"rmats",
@@ -660,6 +664,15 @@
 {
 "basename":"rmats-4.1.2-py38h6f1e7ff_2.tar.bz2",
 "total":20
+}
+]
+},
+{
+"date":"2022-01-27",
+"downloads_per_basename":[
+{
+"basename":"rmats-4.1.2-py39h614e756_2.tar.bz2",
+"total":29
 }
 ]
 }

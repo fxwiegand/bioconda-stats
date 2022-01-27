@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ngs-bits-2021_12-hed8dc7e_1.tar.bz2",
-"total":12
+"total":15
 },
 {
 "basename":"ngs-bits-2021_12-py310h2e286d8_0.tar.bz2",
@@ -110,6 +110,10 @@
 {
 "date":"2022-01-26",
 "total":30
+},
+{
+"date":"2022-01-27",
+"total":33
 }
 ],
 "package":"ngs-bits",
@@ -273,6 +277,15 @@
 {
 "basename":"ngs-bits-2021_12-hed8dc7e_1.tar.bz2",
 "total":12
+}
+]
+},
+{
+"date":"2022-01-27",
+"downloads_per_basename":[
+{
+"basename":"ngs-bits-2021_12-hed8dc7e_1.tar.bz2",
+"total":15
 }
 ]
 }

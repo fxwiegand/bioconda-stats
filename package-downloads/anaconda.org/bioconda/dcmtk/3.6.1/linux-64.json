@@ -19,7 +19,7 @@
 },
 {
 "basename":"dcmtk-3.6.1-4.tar.bz2",
-"total":920
+"total":930
 }
 ],
 "downloads_per_date":[
@@ -462,6 +462,10 @@
 {
 "date":"2022-01-26",
 "total":2358
+},
+{
+"date":"2022-01-27",
+"total":2368
 }
 ],
 "package":"dcmtk",
@@ -774,6 +778,15 @@
 {
 "basename":"dcmtk-3.6.1-4.tar.bz2",
 "total":920
+}
+]
+},
+{
+"date":"2022-01-27",
+"downloads_per_basename":[
+{
+"basename":"dcmtk-3.6.1-4.tar.bz2",
+"total":930
 }
 ]
 }
