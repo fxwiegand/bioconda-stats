@@ -11,7 +11,7 @@
 },
 {
 "basename":"metaphlan2-2.7.7-py27h24bf2e0_3.tar.bz2",
-"total":6194
+"total":6195
 },
 {
 "basename":"metaphlan2-2.7.7-py27_1.tar.bz2",
@@ -582,6 +582,10 @@
 {
 "date":"2022-01-27",
 "total":17308
+},
+{
+"date":"2022-01-28",
+"total":17309
 }
 ],
 "package":"metaphlan2",
@@ -745,6 +749,15 @@
 {
 "basename":"metaphlan2-2.7.7-py27_1.tar.bz2",
 "total":8325
+}
+]
+},
+{
+"date":"2022-01-28",
+"downloads_per_basename":[
+{
+"basename":"metaphlan2-2.7.7-py27h24bf2e0_3.tar.bz2",
+"total":6195
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-vegan-2.3_4-r3.2.2_1.tar.bz2",
-"total":1205
+"total":1208
 },
 {
 "basename":"r-vegan-2.3_4-r3.3.1_2.tar.bz2",
@@ -570,6 +570,10 @@
 {
 "date":"2022-01-27",
 "total":5286
+},
+{
+"date":"2022-01-28",
+"total":5289
 }
 ],
 "package":"r-vegan",
@@ -768,6 +772,15 @@
 {
 "basename":"r-vegan-2.3_4-r3.3.2_2.tar.bz2",
 "total":1471
+}
+]
+},
+{
+"date":"2022-01-28",
+"downloads_per_basename":[
+{
+"basename":"r-vegan-2.3_4-r3.2.2_1.tar.bz2",
+"total":1208
 }
 ]
 }

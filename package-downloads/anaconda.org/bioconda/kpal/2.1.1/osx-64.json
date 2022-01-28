@@ -11,7 +11,7 @@
 },
 {
 "basename":"kpal-2.1.1-py27_0.tar.bz2",
-"total":279
+"total":280
 },
 {
 "basename":"kpal-2.1.1-py36_0.tar.bz2",
@@ -714,6 +714,10 @@
 {
 "date":"2022-01-27",
 "total":2163
+},
+{
+"date":"2022-01-28",
+"total":2164
 }
 ],
 "package":"kpal",
@@ -775,6 +779,15 @@
 {
 "basename":"kpal-2.1.1-py34_0.tar.bz2",
 "total":45
+}
+]
+},
+{
+"date":"2022-01-28",
+"downloads_per_basename":[
+{
+"basename":"kpal-2.1.1-py27_0.tar.bz2",
+"total":280
 }
 ]
 }

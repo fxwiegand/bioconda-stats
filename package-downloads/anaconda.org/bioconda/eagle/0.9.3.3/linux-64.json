@@ -19,7 +19,7 @@
 },
 {
 "basename":"eagle-0.9.3.3-py35_0.tar.bz2",
-"total":484
+"total":485
 },
 {
 "basename":"eagle-0.9.3.3-py36_0.tar.bz2",
@@ -354,6 +354,10 @@
 {
 "date":"2022-01-27",
 "total":1904
+},
+{
+"date":"2022-01-28",
+"total":1905
 }
 ],
 "package":"eagle",
@@ -588,6 +592,15 @@
 {
 "basename":"eagle-0.9.3.3-py37h24bf2e0_3.tar.bz2",
 "total":166
+}
+]
+},
+{
+"date":"2022-01-28",
+"downloads_per_basename":[
+{
+"basename":"eagle-0.9.3.3-py35_0.tar.bz2",
+"total":485
 }
 ]
 }

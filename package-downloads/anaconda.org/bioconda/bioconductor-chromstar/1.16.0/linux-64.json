@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-chromstar-1.16.0-r40h399db7b_2.tar.bz2",
-"total":65
+"total":66
 },
 {
 "basename":"bioconductor-chromstar-1.16.0-r40h5f743cb_1.tar.bz2",
@@ -270,6 +270,10 @@
 {
 "date":"2022-01-27",
 "total":154
+},
+{
+"date":"2022-01-28",
+"total":155
 }
 ],
 "package":"bioconductor-chromstar",
@@ -358,6 +362,15 @@
 {
 "basename":"bioconductor-chromstar-1.16.0-r40h5f743cb_1.tar.bz2",
 "total":89
+}
+]
+},
+{
+"date":"2022-01-28",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-chromstar-1.16.0-r40h399db7b_2.tar.bz2",
+"total":66
 }
 ]
 }

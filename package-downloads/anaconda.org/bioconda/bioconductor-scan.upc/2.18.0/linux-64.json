@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-scan.upc-2.18.0-r3.3.1_0.tar.bz2",
-"total":511
+"total":512
 },
 {
 "basename":"bioconductor-scan.upc-2.18.0-r3.3.2_0.tar.bz2",
@@ -290,6 +290,10 @@
 {
 "date":"2022-01-27",
 "total":1600
+},
+{
+"date":"2022-01-28",
+"total":1601
 }
 ],
 "package":"bioconductor-scan.upc",
@@ -412,6 +416,15 @@
 {
 "basename":"bioconductor-scan.upc-2.18.0-r3.4.1_0.tar.bz2",
 "total":454
+}
+]
+},
+{
+"date":"2022-01-28",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-scan.upc-2.18.0-r3.3.1_0.tar.bz2",
+"total":512
 }
 ]
 }

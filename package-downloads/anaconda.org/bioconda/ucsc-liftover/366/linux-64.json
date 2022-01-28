@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-liftover-366-h5eb252a_0.tar.bz2",
-"total":1026
+"total":1027
 },
 {
 "basename":"ucsc-liftover-366-hdd26221_0.tar.bz2",
@@ -486,6 +486,10 @@
 {
 "date":"2022-01-27",
 "total":2268
+},
+{
+"date":"2022-01-28",
+"total":2269
 }
 ],
 "package":"ucsc-liftover",
@@ -647,6 +651,15 @@
 {
 "basename":"ucsc-liftover-366-hdd26221_0.tar.bz2",
 "total":1242
+}
+]
+},
+{
+"date":"2022-01-28",
+"downloads_per_basename":[
+{
+"basename":"ucsc-liftover-366-h5eb252a_0.tar.bz2",
+"total":1027
 }
 ]
 }
