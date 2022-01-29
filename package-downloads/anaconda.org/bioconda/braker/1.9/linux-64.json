@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"braker-1.9-1.tar.bz2",
-"total":850
+"total":851
 },
 {
 "basename":"braker-1.9-2.tar.bz2",
@@ -774,6 +774,10 @@
 {
 "date":"2022-01-28",
 "total":4002
+},
+{
+"date":"2022-01-29",
+"total":4003
 }
 ],
 "package":"braker",
@@ -891,6 +895,15 @@
 {
 "basename":"braker-1.9-3.tar.bz2",
 "total":1908
+}
+]
+},
+{
+"date":"2022-01-29",
+"downloads_per_basename":[
+{
+"basename":"braker-1.9-1.tar.bz2",
+"total":851
 }
 ]
 }

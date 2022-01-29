@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-impute-1.64.0-r40hacda110_1.tar.bz2",
-"total":663
+"total":664
 },
 {
 "basename":"bioconductor-impute-1.64.0-r40h323e27b_0.tar.bz2",
@@ -818,6 +818,10 @@
 {
 "date":"2022-01-28",
 "total":1416
+},
+{
+"date":"2022-01-29",
+"total":1417
 }
 ],
 "package":"bioconductor-impute",
@@ -1100,6 +1104,15 @@
 {
 "basename":"bioconductor-impute-1.64.0-r40h323e27b_0.tar.bz2",
 "total":753
+}
+]
+},
+{
+"date":"2022-01-29",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-impute-1.64.0-r40hacda110_1.tar.bz2",
+"total":664
 }
 ]
 }

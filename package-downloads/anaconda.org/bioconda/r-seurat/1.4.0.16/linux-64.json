@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-seurat-1.4.0.16-r3.4.1_0.tar.bz2",
-"total":227
+"total":228
 },
 {
 "basename":"r-seurat-1.4.0.16-r351h2d50403_1.tar.bz2",
@@ -326,6 +326,10 @@
 {
 "date":"2022-01-28",
 "total":795
+},
+{
+"date":"2022-01-29",
+"total":796
 }
 ],
 "package":"r-seurat",
@@ -470,6 +474,15 @@
 {
 "basename":"r-seurat-1.4.0.16-r351h2d50403_1.tar.bz2",
 "total":361
+}
+]
+},
+{
+"date":"2022-01-29",
+"downloads_per_basename":[
+{
+"basename":"r-seurat-1.4.0.16-r3.4.1_0.tar.bz2",
+"total":228
 }
 ]
 }

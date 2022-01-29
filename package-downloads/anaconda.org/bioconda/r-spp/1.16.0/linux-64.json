@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-spp-1.16.0-r40h52a8340_4.tar.bz2",
-"total":158
+"total":159
 },
 {
 "basename":"r-spp-1.16.0-r40h0357c0b_3.tar.bz2",
@@ -810,6 +810,10 @@
 {
 "date":"2022-01-28",
 "total":1529
+},
+{
+"date":"2022-01-29",
+"total":1530
 }
 ],
 "package":"r-spp",
@@ -1248,6 +1252,15 @@
 {
 "basename":"r-spp-1.16.0-r41h52a8340_5.tar.bz2",
 "total":113
+}
+]
+},
+{
+"date":"2022-01-29",
+"downloads_per_basename":[
+{
+"basename":"r-spp-1.16.0-r40h52a8340_4.tar.bz2",
+"total":159
 }
 ]
 }

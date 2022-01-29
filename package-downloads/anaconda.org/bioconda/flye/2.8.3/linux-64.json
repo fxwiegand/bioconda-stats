@@ -27,7 +27,7 @@
 },
 {
 "basename":"flye-2.8.3-py38h69e0bdc_1.tar.bz2",
-"total":596
+"total":597
 },
 {
 "basename":"flye-2.8.3-py38h1c8e9b9_0.tar.bz2",
@@ -970,6 +970,10 @@
 {
 "date":"2022-01-28",
 "total":4215
+},
+{
+"date":"2022-01-29",
+"total":4216
 }
 ],
 "package":"flye",
@@ -1697,6 +1701,15 @@
 {
 "basename":"flye-2.8.3-py37hccf3b7b_1.tar.bz2",
 "total":359
+}
+]
+},
+{
+"date":"2022-01-29",
+"downloads_per_basename":[
+{
+"basename":"flye-2.8.3-py38h69e0bdc_1.tar.bz2",
+"total":597
 }
 ]
 }

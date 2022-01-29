@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"socru-1.0.0-py37h24bf2e0_0.tar.bz2",
-"total":200
+"total":201
 },
 {
 "basename":"socru-1.0.0-py36h24bf2e0_0.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2022-01-28",
 "total":601
+},
+{
+"date":"2022-01-29",
+"total":602
 }
 ],
 "package":"socru",
@@ -342,6 +346,15 @@
 {
 "basename":"socru-1.0.0-py36h24bf2e0_0.tar.bz2",
 "total":401
+}
+]
+},
+{
+"date":"2022-01-29",
+"downloads_per_basename":[
+{
+"basename":"socru-1.0.0-py37h24bf2e0_0.tar.bz2",
+"total":201
 }
 ]
 }

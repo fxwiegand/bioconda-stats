@@ -15,7 +15,7 @@
 },
 {
 "basename":"platypus-variant-0.8.1.1-htslib1.6_0.tar.bz2",
-"total":1429
+"total":1430
 },
 {
 "basename":"platypus-variant-0.8.1.1-htslib1.7_1.tar.bz2",
@@ -370,6 +370,10 @@
 {
 "date":"2022-01-28",
 "total":6167
+},
+{
+"date":"2022-01-29",
+"total":6168
 }
 ],
 "package":"platypus-variant",
@@ -572,6 +576,15 @@
 {
 "basename":"platypus-variant-0.8.1.1-htslib1.7_1.tar.bz2",
 "total":1431
+}
+]
+},
+{
+"date":"2022-01-29",
+"downloads_per_basename":[
+{
+"basename":"platypus-variant-0.8.1.1-htslib1.6_0.tar.bz2",
+"total":1430
 }
 ]
 }

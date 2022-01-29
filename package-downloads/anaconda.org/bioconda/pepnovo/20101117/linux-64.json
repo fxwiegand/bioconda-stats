@@ -11,7 +11,7 @@
 },
 {
 "basename":"pepnovo-20101117-h7d875b9_3.tar.bz2",
-"total":4077
+"total":4080
 },
 {
 "basename":"pepnovo-20101117-hc9558a2_2.tar.bz2",
@@ -842,6 +842,10 @@
 {
 "date":"2022-01-28",
 "total":16006
+},
+{
+"date":"2022-01-29",
+"total":16009
 }
 ],
 "package":"pepnovo",
@@ -1304,6 +1308,15 @@
 {
 "basename":"pepnovo-20101117-h7d875b9_3.tar.bz2",
 "total":4077
+}
+]
+},
+{
+"date":"2022-01-29",
+"downloads_per_basename":[
+{
+"basename":"pepnovo-20101117-h7d875b9_3.tar.bz2",
+"total":4080
 }
 ]
 }

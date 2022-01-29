@@ -7,7 +7,7 @@
 },
 {
 "basename":"intarna-2.0.3-boost1.61_1.tar.bz2",
-"total":566
+"total":567
 },
 {
 "basename":"intarna-2.0.3-boost1.64_1.tar.bz2",
@@ -250,6 +250,10 @@
 {
 "date":"2022-01-28",
 "total":1577
+},
+{
+"date":"2022-01-29",
+"total":1578
 }
 ],
 "package":"intarna",
@@ -346,6 +350,15 @@
 "downloads_per_basename":[
 {
 "basename":"intarna-2.0.3-boost1.64_1.tar.bz2",
+"total":567
+}
+]
+},
+{
+"date":"2022-01-29",
+"downloads_per_basename":[
+{
+"basename":"intarna-2.0.3-boost1.61_1.tar.bz2",
 "total":567
 }
 ]

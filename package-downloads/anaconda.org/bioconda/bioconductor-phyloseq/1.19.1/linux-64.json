@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-phyloseq-1.19.1-r3.4.1_0.tar.bz2",
-"total":610
+"total":611
 },
 {
 "basename":"bioconductor-phyloseq-1.19.1-r3.3.1_0.tar.bz2",
@@ -274,6 +274,10 @@
 {
 "date":"2022-01-28",
 "total":2009
+},
+{
+"date":"2022-01-29",
+"total":2010
 }
 ],
 "package":"bioconductor-phyloseq",
@@ -378,6 +382,15 @@
 {
 "basename":"bioconductor-phyloseq-1.19.1-r3.3.2_0.tar.bz2",
 "total":754
+}
+]
+},
+{
+"date":"2022-01-29",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-phyloseq-1.19.1-r3.4.1_0.tar.bz2",
+"total":611
 }
 ]
 }

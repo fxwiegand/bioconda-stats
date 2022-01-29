@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-digest-sha-5.88-pl526_1.tar.bz2",
-"total":315
+"total":319
 },
 {
 "basename":"perl-digest-sha-5.88-pl5.22.0_0.tar.bz2",
@@ -194,6 +194,10 @@
 {
 "date":"2022-01-28",
 "total":771
+},
+{
+"date":"2022-01-29",
+"total":775
 }
 ],
 "package":"perl-digest-sha",
@@ -275,6 +279,15 @@
 {
 "basename":"perl-digest-sha-5.88-pl5.22.0_0.tar.bz2",
 "total":456
+}
+]
+},
+{
+"date":"2022-01-29",
+"downloads_per_basename":[
+{
+"basename":"perl-digest-sha-5.88-pl526_1.tar.bz2",
+"total":319
 }
 ]
 }

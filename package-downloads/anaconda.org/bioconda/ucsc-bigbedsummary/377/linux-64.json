@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-bigbedsummary-377-ha8a8165_3.tar.bz2",
-"total":10
+"total":12
 },
 {
 "basename":"ucsc-bigbedsummary-377-h199ee4e_0.tar.bz2",
@@ -758,6 +758,10 @@
 {
 "date":"2022-01-28",
 "total":1127
+},
+{
+"date":"2022-01-29",
+"total":1129
 }
 ],
 "package":"ucsc-bigbedsummary",
@@ -1016,6 +1020,15 @@
 {
 "basename":"ucsc-bigbedsummary-377-ha8a8165_3.tar.bz2",
 "total":10
+}
+]
+},
+{
+"date":"2022-01-29",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bigbedsummary-377-ha8a8165_3.tar.bz2",
+"total":12
 }
 ]
 }

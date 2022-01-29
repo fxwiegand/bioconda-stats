@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-dbi-1.634-2.tar.bz2",
-"total":3438
+"total":3439
 }
 ],
 "downloads_per_date":[
@@ -242,6 +242,10 @@
 {
 "date":"2022-01-28",
 "total":4828
+},
+{
+"date":"2022-01-29",
+"total":4829
 }
 ],
 "package":"perl-dbi",
@@ -349,6 +353,15 @@
 {
 "basename":"perl-dbi-1.634-1.tar.bz2",
 "total":513
+}
+]
+},
+{
+"date":"2022-01-29",
+"downloads_per_basename":[
+{
+"basename":"perl-dbi-1.634-2.tar.bz2",
+"total":3439
 }
 ]
 }

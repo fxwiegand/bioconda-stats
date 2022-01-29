@@ -35,7 +35,7 @@
 },
 {
 "basename":"ruby-2.2.2-py27_1.tar.bz2",
-"total":1501
+"total":1502
 }
 ],
 "downloads_per_date":[
@@ -294,6 +294,10 @@
 {
 "date":"2022-01-28",
 "total":7000
+},
+{
+"date":"2022-01-29",
+"total":7001
 }
 ],
 "package":"ruby",
@@ -500,6 +504,15 @@
 {
 "basename":"ruby-2.2.2-py27_2.tar.bz2",
 "total":1163
+}
+]
+},
+{
+"date":"2022-01-29",
+"downloads_per_basename":[
+{
+"basename":"ruby-2.2.2-py27_1.tar.bz2",
+"total":1502
 }
 ]
 }

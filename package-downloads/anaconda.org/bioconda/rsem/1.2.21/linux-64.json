@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"rsem-1.2.21-boost1.64_3.tar.bz2",
-"total":221
+"total":222
 },
 {
 "basename":"rsem-1.2.21-pl526r341hf9d1ead_5.tar.bz2",
@@ -302,6 +302,10 @@
 {
 "date":"2022-01-28",
 "total":771
+},
+{
+"date":"2022-01-29",
+"total":772
 }
 ],
 "package":"rsem",
@@ -432,6 +436,15 @@
 {
 "basename":"rsem-1.2.21-boost1.64_4.tar.bz2",
 "total":325
+}
+]
+},
+{
+"date":"2022-01-29",
+"downloads_per_basename":[
+{
+"basename":"rsem-1.2.21-boost1.64_3.tar.bz2",
+"total":222
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"jaffa-1.09-0.tar.bz2",
-"total":500
+"total":501
 }
 ],
 "downloads_per_date":[
@@ -210,6 +210,10 @@
 {
 "date":"2022-01-28",
 "total":841
+},
+{
+"date":"2022-01-29",
+"total":842
 }
 ],
 "package":"jaffa",
@@ -282,6 +286,15 @@
 {
 "basename":"jaffa-1.09-1.tar.bz2",
 "total":341
+}
+]
+},
+{
+"date":"2022-01-29",
+"downloads_per_basename":[
+{
+"basename":"jaffa-1.09-0.tar.bz2",
+"total":501
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"abyss-2.0.2-boost1.64_4.tar.bz2",
-"total":704
+"total":705
 },
 {
 "basename":"abyss-2.0.2-boost1.64_0.tar.bz2",
@@ -958,6 +958,10 @@
 {
 "date":"2022-01-28",
 "total":5780
+},
+{
+"date":"2022-01-29",
+"total":5781
 }
 ],
 "package":"abyss",
@@ -1448,6 +1452,15 @@
 {
 "basename":"abyss-2.0.2-h51208dd_5.tar.bz2",
 "total":2134
+}
+]
+},
+{
+"date":"2022-01-29",
+"downloads_per_basename":[
+{
+"basename":"abyss-2.0.2-boost1.64_4.tar.bz2",
+"total":705
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-tie-refhash-weak-0.09-0.tar.bz2",
-"total":240
+"total":241
 },
 {
 "basename":"perl-tie-refhash-weak-0.09-pl526_1.tar.bz2",
@@ -310,6 +310,10 @@
 {
 "date":"2022-01-28",
 "total":759
+},
+{
+"date":"2022-01-29",
+"total":760
 }
 ],
 "package":"perl-tie-refhash-weak",
@@ -376,6 +380,15 @@
 {
 "basename":"perl-tie-refhash-weak-0.09-pl526_1.tar.bz2",
 "total":297
+}
+]
+},
+{
+"date":"2022-01-29",
+"downloads_per_basename":[
+{
+"basename":"perl-tie-refhash-weak-0.09-0.tar.bz2",
+"total":241
 }
 ]
 }
