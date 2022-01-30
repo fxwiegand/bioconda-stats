@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioblend-0.7.0-py27_0.tar.bz2",
-"total":4213
+"total":4214
 }
 ],
 "downloads_per_date":[
@@ -342,6 +342,10 @@
 {
 "date":"2022-01-29",
 "total":6012
+},
+{
+"date":"2022-01-30",
+"total":6013
 }
 ],
 "package":"bioblend",
@@ -526,6 +530,15 @@
 {
 "basename":"bioblend-0.7.0-py36_0.tar.bz2",
 "total":549
+}
+]
+},
+{
+"date":"2022-01-30",
+"downloads_per_basename":[
+{
+"basename":"bioblend-0.7.0-py27_0.tar.bz2",
+"total":4214
 }
 ]
 }

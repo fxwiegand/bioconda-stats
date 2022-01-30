@@ -7,7 +7,7 @@
 },
 {
 "basename":"control-freec-10.6-pl5.22.0r3.4.1_0.tar.bz2",
-"total":536
+"total":537
 },
 {
 "basename":"control-freec-10.6-pl5.22.0r3.3.2_0.tar.bz2",
@@ -246,6 +246,10 @@
 {
 "date":"2022-01-29",
 "total":1624
+},
+{
+"date":"2022-01-30",
+"total":1625
 }
 ],
 "package":"control-freec",
@@ -341,6 +345,15 @@
 {
 "basename":"control-freec-10.6-pl5.22.0r3.3.1_0.tar.bz2",
 "total":482
+}
+]
+},
+{
+"date":"2022-01-30",
+"downloads_per_basename":[
+{
+"basename":"control-freec-10.6-pl5.22.0r3.4.1_0.tar.bz2",
+"total":537
 }
 ]
 }

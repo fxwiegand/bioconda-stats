@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-poppr-2.8.1-r341h470a237_0.tar.bz2",
-"total":161
+"total":162
 },
 {
 "basename":"r-poppr-2.8.1-r351h14c3975_1.tar.bz2",
@@ -290,6 +290,10 @@
 {
 "date":"2022-01-29",
 "total":663
+},
+{
+"date":"2022-01-30",
+"total":664
 }
 ],
 "package":"r-poppr",
@@ -427,6 +431,15 @@
 {
 "basename":"r-poppr-2.8.1-r351h470a237_0.tar.bz2",
 "total":315
+}
+]
+},
+{
+"date":"2022-01-30",
+"downloads_per_basename":[
+{
+"basename":"r-poppr-2.8.1-r341h470a237_0.tar.bz2",
+"total":162
 }
 ]
 }

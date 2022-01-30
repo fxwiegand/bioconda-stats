@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rsamtools-1.26.1-r3.4.1_0.tar.bz2",
-"total":1393
+"total":1394
 },
 {
 "basename":"bioconductor-rsamtools-1.26.1-r3.3.1_0.tar.bz2",
@@ -754,6 +754,10 @@
 {
 "date":"2022-01-29",
 "total":19178
+},
+{
+"date":"2022-01-30",
+"total":19179
 }
 ],
 "package":"bioconductor-rsamtools",
@@ -1005,6 +1009,15 @@
 {
 "basename":"bioconductor-rsamtools-1.26.1-r3.3.2_0.tar.bz2",
 "total":14010
+}
+]
+},
+{
+"date":"2022-01-30",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rsamtools-1.26.1-r3.4.1_0.tar.bz2",
+"total":1394
 }
 ]
 }

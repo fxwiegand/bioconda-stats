@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-file-remove-1.57-0.tar.bz2",
-"total":223
+"total":229
 },
 {
 "basename":"perl-file-remove-1.57-pl526_1.tar.bz2",
@@ -210,6 +210,10 @@
 {
 "date":"2022-01-29",
 "total":747
+},
+{
+"date":"2022-01-30",
+"total":753
 }
 ],
 "package":"perl-file-remove",
@@ -303,6 +307,15 @@
 {
 "basename":"perl-file-remove-1.57-pl526h2d50403_2.tar.bz2",
 "total":197
+}
+]
+},
+{
+"date":"2022-01-30",
+"downloads_per_basename":[
+{
+"basename":"perl-file-remove-1.57-0.tar.bz2",
+"total":229
 }
 ]
 }

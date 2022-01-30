@@ -19,7 +19,7 @@
 },
 {
 "basename":"bwa-0.7.8-h84994c4_3.tar.bz2",
-"total":303
+"total":304
 },
 {
 "basename":"bwa-0.7.8-ha92aebf_2.tar.bz2",
@@ -634,6 +634,10 @@
 {
 "date":"2022-01-29",
 "total":2607
+},
+{
+"date":"2022-01-30",
+"total":2608
 }
 ],
 "package":"bwa",
@@ -982,6 +986,15 @@
 {
 "basename":"bwa-0.7.8-ha92aebf_2.tar.bz2",
 "total":545
+}
+]
+},
+{
+"date":"2022-01-30",
+"downloads_per_basename":[
+{
+"basename":"bwa-0.7.8-h84994c4_3.tar.bz2",
+"total":304
 }
 ]
 }
