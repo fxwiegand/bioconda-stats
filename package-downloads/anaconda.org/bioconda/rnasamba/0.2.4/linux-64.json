@@ -11,7 +11,7 @@
 },
 {
 "basename":"rnasamba-0.2.4-py36h516909a_0.tar.bz2",
-"total":97
+"total":98
 },
 {
 "basename":"rnasamba-0.2.4-py37h516909a_0.tar.bz2",
@@ -294,6 +294,10 @@
 {
 "date":"2022-01-30",
 "total":359
+},
+{
+"date":"2022-01-31",
+"total":360
 }
 ],
 "package":"rnasamba",
@@ -436,6 +440,15 @@
 {
 "basename":"rnasamba-0.2.4-py36h4c5857e_1.tar.bz2",
 "total":79
+}
+]
+},
+{
+"date":"2022-01-31",
+"downloads_per_basename":[
+{
+"basename":"rnasamba-0.2.4-py36h516909a_0.tar.bz2",
+"total":98
 }
 ]
 }

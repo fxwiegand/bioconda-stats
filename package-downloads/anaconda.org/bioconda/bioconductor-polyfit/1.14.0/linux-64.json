@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-polyfit-1.14.0-r341_0.tar.bz2",
-"total":175
+"total":176
 },
 {
 "basename":"bioconductor-polyfit-1.14.0-r351_0.tar.bz2",
@@ -214,6 +214,10 @@
 {
 "date":"2022-01-30",
 "total":467
+},
+{
+"date":"2022-01-31",
+"total":468
 }
 ],
 "package":"bioconductor-polyfit",
@@ -293,6 +297,15 @@
 {
 "basename":"bioconductor-polyfit-1.14.0-r351_0.tar.bz2",
 "total":292
+}
+]
+},
+{
+"date":"2022-01-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-polyfit-1.14.0-r341_0.tar.bz2",
+"total":176
 }
 ]
 }

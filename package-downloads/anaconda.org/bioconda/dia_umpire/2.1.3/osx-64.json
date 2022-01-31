@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"dia_umpire-2.1.3-py35_0.tar.bz2",
-"total":63
+"total":64
 },
 {
 "basename":"dia_umpire-2.1.3-py27_0.tar.bz2",
@@ -718,6 +718,10 @@
 {
 "date":"2022-01-30",
 "total":2120
+},
+{
+"date":"2022-01-31",
+"total":2121
 }
 ],
 "package":"dia_umpire",
@@ -797,6 +801,15 @@
 {
 "basename":"dia_umpire-2.1.3-py27_0.tar.bz2",
 "total":300
+}
+]
+},
+{
+"date":"2022-01-31",
+"downloads_per_basename":[
+{
+"basename":"dia_umpire-2.1.3-py35_0.tar.bz2",
+"total":64
 }
 ]
 }

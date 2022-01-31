@@ -15,7 +15,7 @@
 },
 {
 "basename":"krona-2.7-pl5.22.0_1.tar.bz2",
-"total":12232
+"total":12233
 }
 ],
 "downloads_per_date":[
@@ -794,6 +794,10 @@
 {
 "date":"2022-01-30",
 "total":22997
+},
+{
+"date":"2022-01-31",
+"total":22998
 }
 ],
 "package":"krona",
@@ -1097,6 +1101,15 @@
 {
 "basename":"krona-2.7-0.tar.bz2",
 "total":6139
+}
+]
+},
+{
+"date":"2022-01-31",
+"downloads_per_basename":[
+{
+"basename":"krona-2.7-pl5.22.0_1.tar.bz2",
+"total":12233
 }
 ]
 }

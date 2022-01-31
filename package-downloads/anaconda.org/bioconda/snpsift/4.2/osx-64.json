@@ -7,7 +7,7 @@
 },
 {
 "basename":"snpsift-4.2-py27_1.tar.bz2",
-"total":48
+"total":49
 },
 {
 "basename":"snpsift-4.2-3.tar.bz2",
@@ -750,6 +750,10 @@
 {
 "date":"2022-01-30",
 "total":2350
+},
+{
+"date":"2022-01-31",
+"total":2351
 }
 ],
 "package":"snpsift",
@@ -839,6 +843,15 @@
 {
 "basename":"snpsift-4.2-py36_2.tar.bz2",
 "total":1772
+}
+]
+},
+{
+"date":"2022-01-31",
+"downloads_per_basename":[
+{
+"basename":"snpsift-4.2-py27_1.tar.bz2",
+"total":49
 }
 ]
 }

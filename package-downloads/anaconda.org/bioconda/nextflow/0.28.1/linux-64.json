@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"nextflow-0.28.1-0.tar.bz2",
-"total":400
+"total":401
 }
 ],
 "downloads_per_date":[
@@ -234,6 +234,10 @@
 {
 "date":"2022-01-30",
 "total":400
+},
+{
+"date":"2022-01-31",
+"total":401
 }
 ],
 "package":"nextflow",
@@ -298,6 +302,15 @@
 {
 "basename":"nextflow-0.28.1-0.tar.bz2",
 "total":400
+}
+]
+},
+{
+"date":"2022-01-31",
+"downloads_per_basename":[
+{
+"basename":"nextflow-0.28.1-0.tar.bz2",
+"total":401
 }
 ]
 }

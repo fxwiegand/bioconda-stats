@@ -7,7 +7,7 @@
 },
 {
 "basename":"mygene-2.2.0-py35_0.tar.bz2",
-"total":694
+"total":695
 },
 {
 "basename":"mygene-2.2.0-py27_0.tar.bz2",
@@ -222,6 +222,10 @@
 {
 "date":"2022-01-30",
 "total":2220
+},
+{
+"date":"2022-01-31",
+"total":2221
 }
 ],
 "package":"mygene",
@@ -307,6 +311,15 @@
 {
 "basename":"mygene-2.2.0-py27_0.tar.bz2",
 "total":922
+}
+]
+},
+{
+"date":"2022-01-31",
+"downloads_per_basename":[
+{
+"basename":"mygene-2.2.0-py35_0.tar.bz2",
+"total":695
 }
 ]
 }

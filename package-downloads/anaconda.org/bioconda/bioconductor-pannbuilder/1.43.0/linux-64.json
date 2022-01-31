@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-pannbuilder-1.43.0-r341_0.tar.bz2",
-"total":183
+"total":184
 },
 {
 "basename":"bioconductor-pannbuilder-1.43.0-r351_0.tar.bz2",
@@ -234,6 +234,10 @@
 {
 "date":"2022-01-30",
 "total":504
+},
+{
+"date":"2022-01-31",
+"total":505
 }
 ],
 "package":"bioconductor-pannbuilder",
@@ -297,6 +301,15 @@
 {
 "basename":"bioconductor-pannbuilder-1.43.0-r351_0.tar.bz2",
 "total":321
+}
+]
+},
+{
+"date":"2022-01-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pannbuilder-1.43.0-r341_0.tar.bz2",
+"total":184
 }
 ]
 }

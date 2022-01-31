@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-org.mm.eg.db-3.4.0-r3.4.1_0.tar.bz2",
-"total":904
+"total":905
 },
 {
 "basename":"bioconductor-org.mm.eg.db-3.4.0-r3.3.1_0.tar.bz2",
@@ -294,6 +294,10 @@
 {
 "date":"2022-01-30",
 "total":3406
+},
+{
+"date":"2022-01-31",
+"total":3407
 }
 ],
 "package":"bioconductor-org.mm.eg.db",
@@ -424,6 +428,15 @@
 {
 "basename":"bioconductor-org.mm.eg.db-3.4.0-r3.4.1_0.tar.bz2",
 "total":904
+}
+]
+},
+{
+"date":"2022-01-31",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-org.mm.eg.db-3.4.0-r3.4.1_0.tar.bz2",
+"total":905
 }
 ]
 }
