@@ -60,6 +60,10 @@
 {
 "date":"2022-01-31",
 "total":62
+},
+{
+"date":"2022-02-01",
+"total":64
 }
 ],
 "downloads_per_subdir":[
@@ -69,7 +73,7 @@
 },
 {
 "subdir":"osx-64",
-"total":40
+"total":42
 }
 ],
 "package":"parsnp",
@@ -242,6 +246,15 @@
 {
 "subdir":"osx-64",
 "total":40
+}
+]
+},
+{
+"date":"2022-02-01",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":42
 }
 ]
 }

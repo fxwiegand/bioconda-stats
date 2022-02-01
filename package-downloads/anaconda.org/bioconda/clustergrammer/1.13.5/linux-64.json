@@ -11,7 +11,7 @@
 },
 {
 "basename":"clustergrammer-1.13.5-py36h24bf2e0_2.tar.bz2",
-"total":178
+"total":179
 },
 {
 "basename":"clustergrammer-1.13.5-py35h24bf2e0_1.tar.bz2",
@@ -326,6 +326,10 @@
 {
 "date":"2022-01-31",
 "total":2773
+},
+{
+"date":"2022-02-01",
+"total":2774
 }
 ],
 "package":"clustergrammer",
@@ -632,6 +636,15 @@
 {
 "basename":"clustergrammer-1.13.5-py35_0.tar.bz2",
 "total":472
+}
+]
+},
+{
+"date":"2022-02-01",
+"downloads_per_basename":[
+{
+"basename":"clustergrammer-1.13.5-py36h24bf2e0_2.tar.bz2",
+"total":179
 }
 ]
 }

@@ -15,7 +15,7 @@
 },
 {
 "basename":"maaslin-0.04-r3.3.1_0.tar.bz2",
-"total":460
+"total":461
 },
 {
 "basename":"maaslin-0.04-r3.3.2_0.tar.bz2",
@@ -278,6 +278,10 @@
 {
 "date":"2022-01-31",
 "total":1814
+},
+{
+"date":"2022-02-01",
+"total":1815
 }
 ],
 "package":"maaslin",
@@ -410,6 +414,15 @@
 {
 "basename":"maaslin-0.04-r3.3.2_0.tar.bz2",
 "total":590
+}
+]
+},
+{
+"date":"2022-02-01",
+"downloads_per_basename":[
+{
+"basename":"maaslin-0.04-r3.3.1_0.tar.bz2",
+"total":461
 }
 ]
 }

@@ -31,7 +31,7 @@
 },
 {
 "basename":"freebayes-1.1.0-py27_1.tar.bz2",
-"total":2443
+"total":2444
 },
 {
 "basename":"freebayes-1.1.0-py36_3.tar.bz2",
@@ -562,6 +562,10 @@
 {
 "date":"2022-01-31",
 "total":21869
+},
+{
+"date":"2022-02-01",
+"total":21870
 }
 ],
 "package":"freebayes",
@@ -987,6 +991,15 @@
 {
 "basename":"freebayes-1.1.0-py35_0.tar.bz2",
 "total":1282
+}
+]
+},
+{
+"date":"2022-02-01",
+"downloads_per_basename":[
+{
+"basename":"freebayes-1.1.0-py27_1.tar.bz2",
+"total":2444
 }
 ]
 }

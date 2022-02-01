@@ -11,7 +11,7 @@
 },
 {
 "basename":"scrublet-0.2.3-py37hf01694f_0.tar.bz2",
-"total":142
+"total":143
 },
 {
 "basename":"scrublet-0.2.3-py38h0213d0e_0.tar.bz2",
@@ -390,6 +390,10 @@
 {
 "date":"2022-01-31",
 "total":433
+},
+{
+"date":"2022-02-01",
+"total":434
 }
 ],
 "package":"scrublet",
@@ -534,6 +538,15 @@
 {
 "basename":"scrublet-0.2.3-py38h0213d0e_0.tar.bz2",
 "total":189
+}
+]
+},
+{
+"date":"2022-02-01",
+"downloads_per_basename":[
+{
+"basename":"scrublet-0.2.3-py37hf01694f_0.tar.bz2",
+"total":143
 }
 ]
 }

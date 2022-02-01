@@ -7,7 +7,7 @@
 },
 {
 "basename":"rgi-4.2.2-py35ha92aebf_1.tar.bz2",
-"total":265
+"total":266
 },
 {
 "basename":"rgi-4.2.2-py36ha92aebf_0.tar.bz2",
@@ -390,6 +390,10 @@
 {
 "date":"2022-01-31",
 "total":1487
+},
+{
+"date":"2022-02-01",
+"total":1488
 }
 ],
 "package":"rgi",
@@ -549,6 +553,15 @@
 {
 "basename":"rgi-4.2.2-py35ha92aebf_1.tar.bz2",
 "total":265
+}
+]
+},
+{
+"date":"2022-02-01",
+"downloads_per_basename":[
+{
+"basename":"rgi-4.2.2-py35ha92aebf_1.tar.bz2",
+"total":266
 }
 ]
 }

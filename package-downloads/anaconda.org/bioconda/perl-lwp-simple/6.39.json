@@ -12,6 +12,10 @@
 {
 "date":"2022-01-31",
 "total":62
+},
+{
+"date":"2022-02-01",
+"total":74
 }
 ],
 "downloads_per_subdir":[
@@ -21,7 +25,7 @@
 },
 {
 "subdir":"linux-64",
-"total":48
+"total":60
 }
 ],
 "package":"perl-lwp-simple",
@@ -62,6 +66,15 @@
 {
 "subdir":"linux-64",
 "total":48
+}
+]
+},
+{
+"date":"2022-02-01",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":60
 }
 ]
 }

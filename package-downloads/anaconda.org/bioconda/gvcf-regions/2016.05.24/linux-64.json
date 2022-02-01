@@ -198,6 +198,10 @@
 {
 "date":"2022-01-31",
 "total":1636
+},
+{
+"date":"2022-02-01",
+"total":1636
 }
 ],
 "package":"gvcf-regions",
@@ -266,7 +270,12 @@
 {
 "basename":"gvcf-regions-2016.05.24-py34_0.tar.bz2",
 "total":423
+}
+]
 },
+{
+"date":"2022-02-01",
+"downloads_per_basename":[
 {
 "basename":"gvcf-regions-2016.05.24-py27_0.tar.bz2",
 "total":801

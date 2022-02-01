@@ -7,7 +7,7 @@
 },
 {
 "basename":"solvebio-2.5.1-py27_0.tar.bz2",
-"total":66
+"total":67
 },
 {
 "basename":"solvebio-2.5.1-py36_0.tar.bz2",
@@ -718,6 +718,10 @@
 {
 "date":"2022-01-31",
 "total":2092
+},
+{
+"date":"2022-02-01",
+"total":2093
 }
 ],
 "package":"solvebio",
@@ -789,6 +793,15 @@
 {
 "basename":"solvebio-2.5.1-py36_0.tar.bz2",
 "total":1962
+}
+]
+},
+{
+"date":"2022-02-01",
+"downloads_per_basename":[
+{
+"basename":"solvebio-2.5.1-py27_0.tar.bz2",
+"total":67
 }
 ]
 }

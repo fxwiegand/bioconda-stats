@@ -51,7 +51,7 @@
 },
 {
 "basename":"gembs-3.2.0-py36h4da6232_3.tar.bz2",
-"total":226
+"total":227
 },
 {
 "basename":"gembs-3.2.0-py36h4da6232_0.tar.bz2",
@@ -490,6 +490,10 @@
 {
 "date":"2022-01-31",
 "total":1727
+},
+{
+"date":"2022-02-01",
+"total":1728
 }
 ],
 "package":"gembs",
@@ -1007,6 +1011,15 @@
 {
 "basename":"gembs-3.2.0-py36h4da6232_0.tar.bz2",
 "total":296
+}
+]
+},
+{
+"date":"2022-02-01",
+"downloads_per_basename":[
+{
+"basename":"gembs-3.2.0-py36h4da6232_3.tar.bz2",
+"total":227
 }
 ]
 }

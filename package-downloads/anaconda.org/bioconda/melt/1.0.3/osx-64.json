@@ -11,7 +11,7 @@
 },
 {
 "basename":"melt-1.0.3-py35_1.tar.bz2",
-"total":102
+"total":103
 },
 {
 "basename":"melt-1.0.3-py36_1.tar.bz2",
@@ -766,6 +766,10 @@
 {
 "date":"2022-01-31",
 "total":2455
+},
+{
+"date":"2022-02-01",
+"total":2456
 }
 ],
 "package":"melt",
@@ -904,6 +908,15 @@
 {
 "basename":"melt-1.0.3-py36_2.tar.bz2",
 "total":1757
+}
+]
+},
+{
+"date":"2022-02-01",
+"downloads_per_basename":[
+{
+"basename":"melt-1.0.3-py35_1.tar.bz2",
+"total":103
 }
 ]
 }
