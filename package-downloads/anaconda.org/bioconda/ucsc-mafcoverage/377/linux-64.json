@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-mafcoverage-377-ha8a8165_3.tar.bz2",
-"total":11
+"total":12
 },
 {
 "basename":"ucsc-mafcoverage-377-h446ed27_1.tar.bz2",
@@ -414,6 +414,10 @@
 {
 "date":"2022-02-01",
 "total":330
+},
+{
+"date":"2022-02-02",
+"total":331
 }
 ],
 "package":"ucsc-mafcoverage",
@@ -551,6 +555,15 @@
 {
 "basename":"ucsc-mafcoverage-377-ha8a8165_3.tar.bz2",
 "total":11
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-mafcoverage-377-ha8a8165_3.tar.bz2",
+"total":12
 }
 ]
 }

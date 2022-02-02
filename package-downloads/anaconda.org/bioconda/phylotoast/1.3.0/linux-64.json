@@ -7,7 +7,7 @@
 },
 {
 "basename":"phylotoast-1.3.0-py36_1.tar.bz2",
-"total":431
+"total":432
 },
 {
 "basename":"phylotoast-1.3.0-py34_1.tar.bz2",
@@ -282,6 +282,10 @@
 {
 "date":"2022-02-01",
 "total":3239
+},
+{
+"date":"2022-02-02",
+"total":3240
 }
 ],
 "package":"phylotoast",
@@ -410,6 +414,15 @@
 {
 "basename":"phylotoast-1.3.0-py34_0.tar.bz2",
 "total":536
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_basename":[
+{
+"basename":"phylotoast-1.3.0-py36_1.tar.bz2",
+"total":432
 }
 ]
 }

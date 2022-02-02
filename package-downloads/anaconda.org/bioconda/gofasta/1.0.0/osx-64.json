@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"gofasta-1.0.0-h527b516_0.tar.bz2",
-"total":30
+"total":33
 }
 ],
 "downloads_per_date":[
@@ -26,6 +26,10 @@
 {
 "date":"2022-02-01",
 "total":30
+},
+{
+"date":"2022-02-02",
+"total":33
 }
 ],
 "package":"gofasta",
@@ -72,6 +76,15 @@
 {
 "basename":"gofasta-1.0.0-h527b516_0.tar.bz2",
 "total":30
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_basename":[
+{
+"basename":"gofasta-1.0.0-h527b516_0.tar.bz2",
+"total":33
 }
 ]
 }

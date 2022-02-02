@@ -36,6 +36,10 @@
 {
 "date":"2022-02-01",
 "total":37
+},
+{
+"date":"2022-02-02",
+"total":39
 }
 ],
 "downloads_per_subdir":[
@@ -45,7 +49,7 @@
 },
 {
 "subdir":"osx-64",
-"total":25
+"total":27
 }
 ],
 "package":"arriba",
@@ -148,6 +152,15 @@
 {
 "subdir":"linux-64",
 "total":12
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":27
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-oligomatch-357-0.tar.bz2",
-"total":912
+"total":913
 }
 ],
 "downloads_per_date":[
@@ -302,6 +302,10 @@
 {
 "date":"2022-02-01",
 "total":1461
+},
+{
+"date":"2022-02-02",
+"total":1462
 }
 ],
 "package":"ucsc-oligomatch",
@@ -405,6 +409,15 @@
 {
 "basename":"ucsc-oligomatch-357-1.tar.bz2",
 "total":549
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-oligomatch-357-0.tar.bz2",
+"total":913
 }
 ]
 }

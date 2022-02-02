@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"pmx_biobb-1.0.0-py37h9b36ec5_2.tar.bz2",
-"total":10
+"total":11
 },
 {
 "basename":"pmx_biobb-1.0.0-py37h9d97f00_1.tar.bz2",
@@ -598,6 +598,10 @@
 {
 "date":"2022-02-01",
 "total":395
+},
+{
+"date":"2022-02-02",
+"total":396
 }
 ],
 "package":"pmx_biobb",
@@ -798,6 +802,15 @@
 {
 "basename":"pmx_biobb-1.0.0-py37h9b36ec5_2.tar.bz2",
 "total":10
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_basename":[
+{
+"basename":"pmx_biobb-1.0.0-py37h9b36ec5_2.tar.bz2",
+"total":11
 }
 ]
 }

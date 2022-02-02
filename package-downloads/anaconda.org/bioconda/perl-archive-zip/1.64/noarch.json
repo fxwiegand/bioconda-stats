@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-archive-zip-1.64-pl5321hdfd78af_1.tar.bz2",
-"total":55
+"total":62
 }
 ],
 "downloads_per_date":[
@@ -38,6 +38,10 @@
 {
 "date":"2022-02-01",
 "total":55
+},
+{
+"date":"2022-02-02",
+"total":62
 }
 ],
 "package":"perl-archive-zip",
@@ -111,6 +115,15 @@
 {
 "basename":"perl-archive-zip-1.64-pl5321hdfd78af_1.tar.bz2",
 "total":55
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_basename":[
+{
+"basename":"perl-archive-zip-1.64-pl5321hdfd78af_1.tar.bz2",
+"total":62
 }
 ]
 }

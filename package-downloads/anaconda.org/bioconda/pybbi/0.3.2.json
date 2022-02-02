@@ -132,6 +132,10 @@
 {
 "date":"2022-02-01",
 "total":136
+},
+{
+"date":"2022-02-02",
+"total":138
 }
 ],
 "downloads_per_subdir":[
@@ -141,7 +145,7 @@
 },
 {
 "subdir":"osx-64",
-"total":94
+"total":96
 }
 ],
 "package":"pybbi",
@@ -434,6 +438,15 @@
 {
 "subdir":"osx-64",
 "total":94
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":96
 }
 ]
 }

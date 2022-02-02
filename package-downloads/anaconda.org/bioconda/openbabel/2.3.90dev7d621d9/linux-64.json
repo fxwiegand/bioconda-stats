@@ -11,7 +11,7 @@
 },
 {
 "basename":"openbabel-2.3.90dev7d621d9-py27_0.tar.bz2",
-"total":1042
+"total":1043
 }
 ],
 "downloads_per_date":[
@@ -458,6 +458,10 @@
 {
 "date":"2022-02-01",
 "total":2401
+},
+{
+"date":"2022-02-02",
+"total":2402
 }
 ],
 "package":"openbabel",
@@ -645,6 +649,15 @@
 {
 "basename":"openbabel-2.3.90dev7d621d9-py34_0.tar.bz2",
 "total":521
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_basename":[
+{
+"basename":"openbabel-2.3.90dev7d621d9-py27_0.tar.bz2",
+"total":1043
 }
 ]
 }

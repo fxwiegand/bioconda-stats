@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ngs-bits-2021_12-h52b8193_1.tar.bz2",
-"total":43
+"total":45
 },
 {
 "basename":"ngs-bits-2021_12-h02321a4_0.tar.bz2",
@@ -226,6 +226,10 @@
 {
 "date":"2022-02-01",
 "total":123
+},
+{
+"date":"2022-02-02",
+"total":125
 }
 ],
 "package":"ngs-bits",
@@ -708,6 +712,15 @@
 {
 "basename":"ngs-bits-2021_12-h52b8193_1.tar.bz2",
 "total":43
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_basename":[
+{
+"basename":"ngs-bits-2021_12-h52b8193_1.tar.bz2",
+"total":45
 }
 ]
 }

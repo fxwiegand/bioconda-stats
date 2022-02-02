@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-hgloadout-377-ha8a8165_3.tar.bz2",
-"total":12
+"total":13
 },
 {
 "basename":"ucsc-hgloadout-377-h0b8a92a_2.tar.bz2",
@@ -278,6 +278,10 @@
 {
 "date":"2022-02-01",
 "total":274
+},
+{
+"date":"2022-02-02",
+"total":275
 }
 ],
 "package":"ucsc-hgloadout",
@@ -432,6 +436,15 @@
 {
 "basename":"ucsc-hgloadout-377-ha8a8165_3.tar.bz2",
 "total":12
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-hgloadout-377-ha8a8165_3.tar.bz2",
+"total":13
 }
 ]
 }

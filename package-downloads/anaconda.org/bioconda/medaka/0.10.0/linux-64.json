@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"medaka-0.10.0-py36hbcae180_1.tar.bz2",
-"total":238
+"total":240
 },
 {
 "basename":"medaka-0.10.0-py36hda2845c_0.tar.bz2",
@@ -358,6 +358,10 @@
 {
 "date":"2022-02-01",
 "total":863
+},
+{
+"date":"2022-02-02",
+"total":865
 }
 ],
 "package":"medaka",
@@ -455,6 +459,15 @@
 {
 "basename":"medaka-0.10.0-py36hda2845c_0.tar.bz2",
 "total":625
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_basename":[
+{
+"basename":"medaka-0.10.0-py36hbcae180_1.tar.bz2",
+"total":240
 }
 ]
 }

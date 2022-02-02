@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-pod-elemental-0.103004-pl5321h779adbc_4.tar.bz2",
-"total":17
+"total":25
 },
 {
 "basename":"perl-pod-elemental-0.103004-pl526h470a237_2.tar.bz2",
@@ -658,6 +658,10 @@
 {
 "date":"2022-02-01",
 "total":3964
+},
+{
+"date":"2022-02-02",
+"total":3972
 }
 ],
 "package":"perl-pod-elemental",
@@ -983,6 +987,15 @@
 {
 "basename":"perl-pod-elemental-0.103004-pl526h470a237_2.tar.bz2",
 "total":400
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_basename":[
+{
+"basename":"perl-pod-elemental-0.103004-pl5321h779adbc_4.tar.bz2",
+"total":25
 }
 ]
 }

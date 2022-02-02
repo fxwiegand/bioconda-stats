@@ -19,7 +19,7 @@
 },
 {
 "basename":"swarm-2.2.2-h6bb024c_2.tar.bz2",
-"total":1359
+"total":1360
 }
 ],
 "downloads_per_date":[
@@ -410,6 +410,10 @@
 {
 "date":"2022-02-01",
 "total":3322
+},
+{
+"date":"2022-02-02",
+"total":3323
 }
 ],
 "package":"swarm",
@@ -539,6 +543,15 @@
 {
 "basename":"swarm-2.2.2-h6bb024c_2.tar.bz2",
 "total":1359
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_basename":[
+{
+"basename":"swarm-2.2.2-h6bb024c_2.tar.bz2",
+"total":1360
 }
 ]
 }

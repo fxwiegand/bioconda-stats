@@ -11,7 +11,7 @@
 },
 {
 "basename":"pyega3-3.0.21-py36_1.tar.bz2",
-"total":205
+"total":206
 },
 {
 "basename":"pyega3-3.0.21-py36_0.tar.bz2",
@@ -230,6 +230,10 @@
 {
 "date":"2022-02-01",
 "total":815
+},
+{
+"date":"2022-02-02",
+"total":816
 }
 ],
 "package":"pyega3",
@@ -323,6 +327,15 @@
 {
 "basename":"pyega3-3.0.21-py35_0.tar.bz2",
 "total":125
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_basename":[
+{
+"basename":"pyega3-3.0.21-py36_1.tar.bz2",
+"total":206
 }
 ]
 }

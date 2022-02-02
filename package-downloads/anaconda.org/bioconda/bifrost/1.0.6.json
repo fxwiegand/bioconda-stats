@@ -68,6 +68,10 @@
 {
 "date":"2022-02-01",
 "total":62
+},
+{
+"date":"2022-02-02",
+"total":64
 }
 ],
 "downloads_per_subdir":[
@@ -77,7 +81,7 @@
 },
 {
 "subdir":"osx-64",
-"total":46
+"total":48
 }
 ],
 "package":"bifrost",
@@ -256,6 +260,15 @@
 {
 "subdir":"osx-64",
 "total":46
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":48
 }
 ]
 }

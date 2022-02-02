@@ -11,7 +11,7 @@
 },
 {
 "basename":"tgt-1.4.2-py35_0.tar.bz2",
-"total":435
+"total":436
 },
 {
 "basename":"tgt-1.4.2-py34_0.tar.bz2",
@@ -190,6 +190,10 @@
 {
 "date":"2022-02-01",
 "total":1770
+},
+{
+"date":"2022-02-02",
+"total":1771
 }
 ],
 "package":"tgt",
@@ -256,11 +260,15 @@
 ]
 },
 {
-"date":"2022-02-01",
+"date":"2022-02-02",
 "downloads_per_basename":[
 {
 "basename":"tgt-1.4.2-py36_0.tar.bz2",
 "total":402
+},
+{
+"basename":"tgt-1.4.2-py35_0.tar.bz2",
+"total":436
 }
 ]
 }

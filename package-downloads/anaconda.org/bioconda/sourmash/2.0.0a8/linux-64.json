@@ -19,7 +19,7 @@
 },
 {
 "basename":"sourmash-2.0.0a8-py35hfc679d8_1.tar.bz2",
-"total":163
+"total":164
 },
 {
 "basename":"sourmash-2.0.0a8-py36hfc679d8_1.tar.bz2",
@@ -314,6 +314,10 @@
 {
 "date":"2022-02-01",
 "total":1742
+},
+{
+"date":"2022-02-02",
+"total":1743
 }
 ],
 "package":"sourmash",
@@ -575,6 +579,15 @@
 {
 "basename":"sourmash-2.0.0a8-py27hfc679d8_2.tar.bz2",
 "total":229
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_basename":[
+{
+"basename":"sourmash-2.0.0a8-py35hfc679d8_1.tar.bz2",
+"total":164
 }
 ]
 }

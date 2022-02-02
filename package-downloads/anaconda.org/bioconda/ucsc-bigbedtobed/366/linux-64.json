@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-bigbedtobed-366-hdd26221_0.tar.bz2",
-"total":1221
+"total":1222
 }
 ],
 "downloads_per_date":[
@@ -330,6 +330,10 @@
 {
 "date":"2022-02-01",
 "total":2191
+},
+{
+"date":"2022-02-02",
+"total":2192
 }
 ],
 "package":"ucsc-bigbedtobed",
@@ -451,6 +455,15 @@
 {
 "basename":"ucsc-bigbedtobed-366-h5eb252a_0.tar.bz2",
 "total":970
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bigbedtobed-366-hdd26221_0.tar.bz2",
+"total":1222
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-bigwigmerge-366-hdd26221_0.tar.bz2",
-"total":177
+"total":178
 },
 {
 "basename":"ucsc-bigwigmerge-366-h5eb252a_0.tar.bz2",
@@ -294,6 +294,10 @@
 {
 "date":"2022-02-01",
 "total":1014
+},
+{
+"date":"2022-02-02",
+"total":1015
 }
 ],
 "package":"ucsc-bigwigmerge",
@@ -388,6 +392,15 @@
 {
 "basename":"ucsc-bigwigmerge-366-h5eb252a_0.tar.bz2",
 "total":837
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bigwigmerge-366-hdd26221_0.tar.bz2",
+"total":178
 }
 ]
 }

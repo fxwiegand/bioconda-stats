@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-featurebits-357-0.tar.bz2",
-"total":590
+"total":591
 }
 ],
 "downloads_per_date":[
@@ -330,6 +330,10 @@
 {
 "date":"2022-02-01",
 "total":920
+},
+{
+"date":"2022-02-02",
+"total":921
 }
 ],
 "package":"ucsc-featurebits",
@@ -446,6 +450,15 @@
 {
 "basename":"ucsc-featurebits-357-1.tar.bz2",
 "total":330
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-featurebits-357-0.tar.bz2",
+"total":591
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-moosex-nonmoose-0.26-pl5.22.0_0.tar.bz2",
-"total":240
+"total":241
 },
 {
 "basename":"perl-moosex-nonmoose-0.26-pl526_1.tar.bz2",
@@ -298,6 +298,10 @@
 {
 "date":"2022-02-01",
 "total":887
+},
+{
+"date":"2022-02-02",
+"total":888
 }
 ],
 "package":"perl-moosex-nonmoose",
@@ -416,6 +420,15 @@
 {
 "basename":"perl-moosex-nonmoose-0.26-pl526_1.tar.bz2",
 "total":282
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_basename":[
+{
+"basename":"perl-moosex-nonmoose-0.26-pl5.22.0_0.tar.bz2",
+"total":241
 }
 ]
 }

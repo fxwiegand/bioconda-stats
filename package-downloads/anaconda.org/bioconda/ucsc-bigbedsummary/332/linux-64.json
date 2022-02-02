@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-bigbedsummary-332-0.tar.bz2",
-"total":3201
+"total":3202
 }
 ],
 "downloads_per_date":[
@@ -162,6 +162,10 @@
 {
 "date":"2022-02-01",
 "total":3201
+},
+{
+"date":"2022-02-02",
+"total":3202
 }
 ],
 "package":"ucsc-bigbedsummary",
@@ -208,6 +212,15 @@
 {
 "basename":"ucsc-bigbedsummary-332-0.tar.bz2",
 "total":3201
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bigbedsummary-332-0.tar.bz2",
+"total":3202
 }
 ]
 }

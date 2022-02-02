@@ -11,7 +11,7 @@
 },
 {
 "basename":"pymvpa-2.6.0-py27_1.tar.bz2",
-"total":220
+"total":221
 },
 {
 "basename":"pymvpa-2.6.0-py35_0.tar.bz2",
@@ -298,6 +298,10 @@
 {
 "date":"2022-02-01",
 "total":2586
+},
+{
+"date":"2022-02-02",
+"total":2587
 }
 ],
 "package":"pymvpa",
@@ -467,6 +471,15 @@
 {
 "basename":"pymvpa-2.6.0-py34_0.tar.bz2",
 "total":556
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_basename":[
+{
+"basename":"pymvpa-2.6.0-py27_1.tar.bz2",
+"total":221
 }
 ]
 }

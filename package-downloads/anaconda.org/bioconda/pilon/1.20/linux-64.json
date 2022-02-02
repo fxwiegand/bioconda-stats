@@ -7,7 +7,7 @@
 },
 {
 "basename":"pilon-1.20-py35_0.tar.bz2",
-"total":497
+"total":498
 },
 {
 "basename":"pilon-1.20-py34_1.tar.bz2",
@@ -362,6 +362,10 @@
 {
 "date":"2022-02-01",
 "total":3573
+},
+{
+"date":"2022-02-02",
+"total":3574
 }
 ],
 "package":"pilon",
@@ -485,6 +489,15 @@
 {
 "basename":"pilon-1.20-py35_1.tar.bz2",
 "total":815
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_basename":[
+{
+"basename":"pilon-1.20-py35_0.tar.bz2",
+"total":498
 }
 ]
 }

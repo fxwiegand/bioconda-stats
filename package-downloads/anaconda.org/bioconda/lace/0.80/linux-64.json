@@ -7,7 +7,7 @@
 },
 {
 "basename":"lace-0.80-py34_0.tar.bz2",
-"total":416
+"total":417
 },
 {
 "basename":"lace-0.80-py27_0.tar.bz2",
@@ -218,6 +218,10 @@
 {
 "date":"2022-02-01",
 "total":1808
+},
+{
+"date":"2022-02-02",
+"total":1809
 }
 ],
 "package":"lace",
@@ -295,6 +299,15 @@
 {
 "basename":"lace-0.80-py36_0.tar.bz2",
 "total":546
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_basename":[
+{
+"basename":"lace-0.80-py34_0.tar.bz2",
+"total":417
 }
 ]
 }

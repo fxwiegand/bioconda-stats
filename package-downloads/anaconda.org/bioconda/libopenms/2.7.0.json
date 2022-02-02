@@ -92,6 +92,10 @@
 {
 "date":"2022-02-01",
 "total":94
+},
+{
+"date":"2022-02-02",
+"total":96
 }
 ],
 "downloads_per_subdir":[
@@ -101,7 +105,7 @@
 },
 {
 "subdir":"osx-64",
-"total":55
+"total":57
 }
 ],
 "package":"libopenms",
@@ -318,6 +322,15 @@
 {
 "subdir":"linux-64",
 "total":39
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":57
 }
 ]
 }

@@ -19,7 +19,7 @@
 },
 {
 "basename":"r-probmetab-1.1-r3.2.2_0.tar.bz2",
-"total":526
+"total":527
 },
 {
 "basename":"r-probmetab-1.1-r3.3.2_0.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2022-02-01",
 "total":2113
+},
+{
+"date":"2022-02-02",
+"total":2114
 }
 ],
 "package":"r-probmetab",
@@ -402,6 +406,15 @@
 {
 "basename":"r-probmetab-1.1-r3.3.2_0.tar.bz2",
 "total":563
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_basename":[
+{
+"basename":"r-probmetab-1.1-r3.2.2_0.tar.bz2",
+"total":527
 }
 ]
 }

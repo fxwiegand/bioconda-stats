@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-more-1.001002-pl5321hdfd78af_2.tar.bz2",
-"total":97
+"total":107
 }
 ],
 "downloads_per_date":[
@@ -46,6 +46,10 @@
 {
 "date":"2022-02-01",
 "total":97
+},
+{
+"date":"2022-02-02",
+"total":107
 }
 ],
 "package":"perl-test-more",
@@ -137,6 +141,15 @@
 {
 "basename":"perl-test-more-1.001002-pl5321hdfd78af_2.tar.bz2",
 "total":97
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_basename":[
+{
+"basename":"perl-test-more-1.001002-pl5321hdfd78af_2.tar.bz2",
+"total":107
 }
 ]
 }

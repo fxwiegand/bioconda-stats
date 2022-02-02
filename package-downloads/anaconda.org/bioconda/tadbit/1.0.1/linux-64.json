@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"tadbit-1.0.1-py36hf0b53f7_0.tar.bz2",
-"total":67
+"total":68
 },
 {
 "basename":"tadbit-1.0.1-py27h877ad6c_0.tar.bz2",
@@ -442,6 +442,10 @@
 {
 "date":"2022-02-01",
 "total":313
+},
+{
+"date":"2022-02-02",
+"total":314
 }
 ],
 "package":"tadbit",
@@ -599,6 +603,15 @@
 {
 "basename":"tadbit-1.0.1-py38h6ed170a_0.tar.bz2",
 "total":80
+}
+]
+},
+{
+"date":"2022-02-02",
+"downloads_per_basename":[
+{
+"basename":"tadbit-1.0.1-py36hf0b53f7_0.tar.bz2",
+"total":68
 }
 ]
 }
