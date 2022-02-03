@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test2-suite-0.000115-pl526_0.tar.bz2",
-"total":1700
+"total":1701
 }
 ],
 "downloads_per_date":[
@@ -178,6 +178,10 @@
 {
 "date":"2022-02-02",
 "total":1700
+},
+{
+"date":"2022-02-03",
+"total":1701
 }
 ],
 "package":"perl-test2-suite",
@@ -224,6 +228,15 @@
 {
 "basename":"perl-test2-suite-0.000115-pl526_0.tar.bz2",
 "total":1700
+}
+]
+},
+{
+"date":"2022-02-03",
+"downloads_per_basename":[
+{
+"basename":"perl-test2-suite-0.000115-pl526_0.tar.bz2",
+"total":1701
 }
 ]
 }

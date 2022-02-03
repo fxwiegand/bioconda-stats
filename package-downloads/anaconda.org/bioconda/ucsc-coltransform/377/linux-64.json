@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-coltransform-377-ha8a8165_3.tar.bz2",
-"total":9
+"total":10
 },
 {
 "basename":"ucsc-coltransform-377-h0b8a92a_2.tar.bz2",
@@ -362,6 +362,10 @@
 {
 "date":"2022-02-02",
 "total":294
+},
+{
+"date":"2022-02-03",
+"total":295
 }
 ],
 "package":"ucsc-coltransform",
@@ -494,6 +498,15 @@
 {
 "basename":"ucsc-coltransform-377-h0b8a92a_2.tar.bz2",
 "total":64
+}
+]
+},
+{
+"date":"2022-02-03",
+"downloads_per_basename":[
+{
+"basename":"ucsc-coltransform-377-ha8a8165_3.tar.bz2",
+"total":10
 }
 ]
 }

@@ -80,6 +80,10 @@
 {
 "date":"2022-02-02",
 "total":89
+},
+{
+"date":"2022-02-03",
+"total":91
 }
 ],
 "downloads_per_subdir":[
@@ -89,7 +93,7 @@
 },
 {
 "subdir":"osx-64",
-"total":64
+"total":66
 }
 ],
 "package":"metagraph",
@@ -295,6 +299,15 @@
 {
 "subdir":"osx-64",
 "total":64
+}
+]
+},
+{
+"date":"2022-02-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":66
 }
 ]
 }

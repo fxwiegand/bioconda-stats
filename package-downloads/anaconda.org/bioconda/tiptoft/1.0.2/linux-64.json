@@ -234,6 +234,10 @@
 {
 "date":"2022-02-02",
 "total":325
+},
+{
+"date":"2022-02-03",
+"total":325
 }
 ],
 "package":"tiptoft",
@@ -408,7 +412,12 @@
 {
 "basename":"tiptoft-1.0.2-py39h38f01e4_2.tar.bz2",
 "total":40
+}
+]
 },
+{
+"date":"2022-02-03",
+"downloads_per_basename":[
 {
 "basename":"tiptoft-1.0.2-py37hf01694f_1.tar.bz2",
 "total":47

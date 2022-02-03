@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-string-approx-3.27-pl5321h779adbc_2.tar.bz2",
-"total":12
+"total":23
 },
 {
 "basename":"perl-string-approx-3.27-pl526_1.tar.bz2",
@@ -486,6 +486,10 @@
 {
 "date":"2022-02-02",
 "total":1489
+},
+{
+"date":"2022-02-03",
+"total":1500
 }
 ],
 "package":"perl-string-approx",
@@ -656,6 +660,15 @@
 {
 "basename":"perl-string-approx-3.27-pl5321h779adbc_2.tar.bz2",
 "total":12
+}
+]
+},
+{
+"date":"2022-02-03",
+"downloads_per_basename":[
+{
+"basename":"perl-string-approx-3.27-pl5321h779adbc_2.tar.bz2",
+"total":23
 }
 ]
 }

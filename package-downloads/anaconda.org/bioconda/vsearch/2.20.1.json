@@ -84,6 +84,10 @@
 {
 "date":"2022-02-02",
 "total":76
+},
+{
+"date":"2022-02-03",
+"total":78
 }
 ],
 "downloads_per_subdir":[
@@ -93,7 +97,7 @@
 },
 {
 "subdir":"osx-64",
-"total":48
+"total":50
 }
 ],
 "package":"vsearch",
@@ -276,6 +280,15 @@
 {
 "subdir":"osx-64",
 "total":48
+}
+]
+},
+{
+"date":"2022-02-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":50
 }
 ]
 }

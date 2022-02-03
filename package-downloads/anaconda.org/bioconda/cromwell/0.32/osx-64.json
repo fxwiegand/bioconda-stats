@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"cromwell-0.32-py27_1.tar.bz2",
-"total":61
+"total":62
 },
 {
 "basename":"cromwell-0.32-py35_1.tar.bz2",
@@ -718,6 +718,10 @@
 {
 "date":"2022-02-02",
 "total":2128
+},
+{
+"date":"2022-02-03",
+"total":2129
 }
 ],
 "package":"cromwell",
@@ -762,6 +766,15 @@
 {
 "basename":"cromwell-0.32-py36_1.tar.bz2",
 "total":1854
+}
+]
+},
+{
+"date":"2022-02-03",
+"downloads_per_basename":[
+{
+"basename":"cromwell-0.32-py27_1.tar.bz2",
+"total":62
 }
 ]
 }
