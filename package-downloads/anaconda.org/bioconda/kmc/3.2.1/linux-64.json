@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"kmc-3.2.1-h95f258a_1.tar.bz2",
-"total":41
+"total":43
 },
 {
 "basename":"kmc-3.2.1-h9ee0642_0.tar.bz2",
@@ -122,6 +122,10 @@
 {
 "date":"2022-02-03",
 "total":186
+},
+{
+"date":"2022-02-04",
+"total":188
 }
 ],
 "package":"kmc",
@@ -389,6 +393,15 @@
 {
 "basename":"kmc-3.2.1-h9ee0642_0.tar.bz2",
 "total":145
+}
+]
+},
+{
+"date":"2022-02-04",
+"downloads_per_basename":[
+{
+"basename":"kmc-3.2.1-h95f258a_1.tar.bz2",
+"total":43
 }
 ]
 }

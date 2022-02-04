@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-bedremoveoverlap-357-1.tar.bz2",
-"total":328
+"total":329
 },
 {
 "basename":"ucsc-bedremoveoverlap-357-0.tar.bz2",
@@ -286,6 +286,10 @@
 {
 "date":"2022-02-03",
 "total":898
+},
+{
+"date":"2022-02-04",
+"total":899
 }
 ],
 "package":"ucsc-bedremoveoverlap",
@@ -376,6 +380,15 @@
 {
 "basename":"ucsc-bedremoveoverlap-357-1.tar.bz2",
 "total":328
+}
+]
+},
+{
+"date":"2022-02-04",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bedremoveoverlap-357-1.tar.bz2",
+"total":329
 }
 ]
 }
