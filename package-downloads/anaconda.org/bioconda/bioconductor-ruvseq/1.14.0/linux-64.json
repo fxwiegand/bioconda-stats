@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-ruvseq-1.14.0-r351_0.tar.bz2",
-"total":201
+"total":202
 },
 {
 "basename":"bioconductor-ruvseq-1.14.0-r341_0.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2022-02-04",
 "total":505
+},
+{
+"date":"2022-02-05",
+"total":506
 }
 ],
 "package":"bioconductor-ruvseq",
@@ -356,6 +360,15 @@
 {
 "basename":"bioconductor-ruvseq-1.14.0-r341_0.tar.bz2",
 "total":304
+}
+]
+},
+{
+"date":"2022-02-05",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ruvseq-1.14.0-r351_0.tar.bz2",
+"total":202
 }
 ]
 }

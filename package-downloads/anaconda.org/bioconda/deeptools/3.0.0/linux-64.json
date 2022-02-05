@@ -7,7 +7,7 @@
 },
 {
 "basename":"deeptools-3.0.0-py35_0.tar.bz2",
-"total":374
+"total":375
 },
 {
 "basename":"deeptools-3.0.0-py36_0.tar.bz2",
@@ -270,6 +270,10 @@
 {
 "date":"2022-02-04",
 "total":1123
+},
+{
+"date":"2022-02-05",
+"total":1124
 }
 ],
 "package":"deeptools",
@@ -365,6 +369,15 @@
 {
 "basename":"deeptools-3.0.0-py36_0.tar.bz2",
 "total":400
+}
+]
+},
+{
+"date":"2022-02-05",
+"downloads_per_basename":[
+{
+"basename":"deeptools-3.0.0-py35_0.tar.bz2",
+"total":375
 }
 ]
 }

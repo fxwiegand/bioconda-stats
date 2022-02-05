@@ -44,6 +44,10 @@
 {
 "date":"2022-02-04",
 "total":47
+},
+{
+"date":"2022-02-05",
+"total":49
 }
 ],
 "downloads_per_subdir":[
@@ -53,7 +57,7 @@
 },
 {
 "subdir":"osx-64",
-"total":25
+"total":27
 }
 ],
 "package":"rasusa",
@@ -182,6 +186,15 @@
 {
 "subdir":"linux-64",
 "total":22
+}
+]
+},
+{
+"date":"2022-02-05",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":27
 }
 ]
 }

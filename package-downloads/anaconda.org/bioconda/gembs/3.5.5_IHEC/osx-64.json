@@ -35,7 +35,7 @@
 },
 {
 "basename":"gembs-3.5.5_IHEC-py39heafa5a2_2.tar.bz2",
-"total":8
+"total":10
 },
 {
 "basename":"gembs-3.5.5_IHEC-py39heafa5a2_0.tar.bz2",
@@ -78,6 +78,10 @@
 {
 "date":"2022-02-04",
 "total":68
+},
+{
+"date":"2022-02-05",
+"total":70
 }
 ],
 "package":"gembs",
@@ -211,6 +215,15 @@
 {
 "basename":"gembs-3.5.5_IHEC-py39heafa5a2_2.tar.bz2",
 "total":8
+}
+]
+},
+{
+"date":"2022-02-05",
+"downloads_per_basename":[
+{
+"basename":"gembs-3.5.5_IHEC-py39heafa5a2_2.tar.bz2",
+"total":10
 }
 ]
 }

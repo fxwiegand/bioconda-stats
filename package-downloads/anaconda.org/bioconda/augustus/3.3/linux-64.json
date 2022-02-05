@@ -15,7 +15,7 @@
 },
 {
 "basename":"augustus-3.3-pl526hcfae127_4.tar.bz2",
-"total":3905
+"total":3906
 }
 ],
 "downloads_per_date":[
@@ -750,6 +750,10 @@
 {
 "date":"2022-02-04",
 "total":7186
+},
+{
+"date":"2022-02-05",
+"total":7187
 }
 ],
 "package":"augustus",
@@ -1045,6 +1049,15 @@
 {
 "basename":"augustus-3.3-boost1.64_bamtools2.4.1_0.tar.bz2",
 "total":1066
+}
+]
+},
+{
+"date":"2022-02-05",
+"downloads_per_basename":[
+{
+"basename":"augustus-3.3-pl526hcfae127_4.tar.bz2",
+"total":3906
 }
 ]
 }

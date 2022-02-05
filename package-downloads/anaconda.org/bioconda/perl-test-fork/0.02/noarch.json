@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-fork-0.02-pl5321hdfd78af_1.tar.bz2",
-"total":42
+"total":44
 }
 ],
 "downloads_per_date":[
@@ -50,6 +50,10 @@
 {
 "date":"2022-02-04",
 "total":42
+},
+{
+"date":"2022-02-05",
+"total":44
 }
 ],
 "package":"perl-test-fork",
@@ -141,6 +145,15 @@
 {
 "basename":"perl-test-fork-0.02-pl5321hdfd78af_1.tar.bz2",
 "total":42
+}
+]
+},
+{
+"date":"2022-02-05",
+"downloads_per_basename":[
+{
+"basename":"perl-test-fork-0.02-pl5321hdfd78af_1.tar.bz2",
+"total":44
 }
 ]
 }
