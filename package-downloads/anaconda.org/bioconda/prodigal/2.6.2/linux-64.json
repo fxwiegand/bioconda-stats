@@ -7,7 +7,7 @@
 },
 {
 "basename":"prodigal-2.6.2-2.tar.bz2",
-"total":558
+"total":559
 },
 {
 "basename":"prodigal-2.6.2-3.tar.bz2",
@@ -350,6 +350,10 @@
 {
 "date":"2022-02-05",
 "total":1849
+},
+{
+"date":"2022-02-06",
+"total":1850
 }
 ],
 "package":"prodigal",
@@ -457,6 +461,15 @@
 {
 "basename":"prodigal-2.6.2-3.tar.bz2",
 "total":852
+}
+]
+},
+{
+"date":"2022-02-06",
+"downloads_per_basename":[
+{
+"basename":"prodigal-2.6.2-2.tar.bz2",
+"total":559
 }
 ]
 }

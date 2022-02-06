@@ -402,6 +402,10 @@
 {
 "date":"2022-02-05",
 "total":721
+},
+{
+"date":"2022-02-06",
+"total":721
 }
 ],
 "package":"squid",
@@ -522,7 +526,12 @@
 {
 "basename":"squid-1.5-haac9b31_4.tar.bz2",
 "total":57
+}
+]
 },
+{
+"date":"2022-02-06",
+"downloads_per_basename":[
 {
 "basename":"squid-1.5-h6fa9f75_0.tar.bz2",
 "total":324

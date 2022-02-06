@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-pod-1.52-pl5321hdfd78af_1.tar.bz2",
-"total":143
+"total":151
 }
 ],
 "downloads_per_date":[
@@ -70,6 +70,10 @@
 {
 "date":"2022-02-05",
 "total":143
+},
+{
+"date":"2022-02-06",
+"total":151
 }
 ],
 "package":"perl-test-pod",
@@ -215,6 +219,15 @@
 {
 "basename":"perl-test-pod-1.52-pl5321hdfd78af_1.tar.bz2",
 "total":143
+}
+]
+},
+{
+"date":"2022-02-06",
+"downloads_per_basename":[
+{
+"basename":"perl-test-pod-1.52-pl5321hdfd78af_1.tar.bz2",
+"total":151
 }
 ]
 }
