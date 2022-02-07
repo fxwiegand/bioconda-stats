@@ -27,7 +27,7 @@
 },
 {
 "basename":"anise_basil-1.2.0-py27h6dcb523_0.tar.bz2",
-"total":199
+"total":200
 },
 {
 "basename":"anise_basil-1.2.0-py35h6dcb523_0.tar.bz2",
@@ -438,6 +438,10 @@
 {
 "date":"2022-02-06",
 "total":1381
+},
+{
+"date":"2022-02-07",
+"total":1382
 }
 ],
 "package":"anise_basil",
@@ -644,6 +648,15 @@
 {
 "basename":"anise_basil-1.2.0-py36h6dcb523_0.tar.bz2",
 "total":254
+}
+]
+},
+{
+"date":"2022-02-07",
+"downloads_per_basename":[
+{
+"basename":"anise_basil-1.2.0-py27h6dcb523_0.tar.bz2",
+"total":200
 }
 ]
 }

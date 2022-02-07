@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-rsamtools-1.32.3-r341hfc679d8_0.tar.bz2",
-"total":11640
+"total":11641
 }
 ],
 "downloads_per_date":[
@@ -838,6 +838,10 @@
 {
 "date":"2022-02-06",
 "total":18065
+},
+{
+"date":"2022-02-07",
+"total":18066
 }
 ],
 "package":"bioconductor-rsamtools",
@@ -1105,6 +1109,15 @@
 {
 "basename":"bioconductor-rsamtools-1.32.3-r351hfc679d8_0.tar.bz2",
 "total":6425
+}
+]
+},
+{
+"date":"2022-02-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rsamtools-1.32.3-r341hfc679d8_0.tar.bz2",
+"total":11641
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"cromwell-0.32a-py36_1.tar.bz2",
-"total":292
+"total":293
 },
 {
 "basename":"cromwell-0.32a-py27_1.tar.bz2",
@@ -334,6 +334,10 @@
 {
 "date":"2022-02-06",
 "total":3449
+},
+{
+"date":"2022-02-07",
+"total":3450
 }
 ],
 "package":"cromwell",
@@ -469,6 +473,15 @@
 {
 "basename":"cromwell-0.32a-py27_0.tar.bz2",
 "total":2004
+}
+]
+},
+{
+"date":"2022-02-07",
+"downloads_per_basename":[
+{
+"basename":"cromwell-0.32a-py36_1.tar.bz2",
+"total":293
 }
 ]
 }

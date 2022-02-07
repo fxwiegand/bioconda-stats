@@ -120,6 +120,10 @@
 {
 "date":"2022-02-06",
 "total":81
+},
+{
+"date":"2022-02-07",
+"total":83
 }
 ],
 "downloads_per_subdir":[
@@ -129,7 +133,7 @@
 },
 {
 "subdir":"osx-64",
-"total":68
+"total":70
 }
 ],
 "package":"rustybam",
@@ -420,6 +424,15 @@
 {
 "subdir":"osx-64",
 "total":68
+}
+]
+},
+{
+"date":"2022-02-07",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":70
 }
 ]
 }

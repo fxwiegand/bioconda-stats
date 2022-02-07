@@ -15,7 +15,7 @@
 },
 {
 "basename":"perl-time-hires-1.9728-2.tar.bz2",
-"total":4809
+"total":4810
 },
 {
 "basename":"perl-time-hires-1.9728-pl5.22.0_4.tar.bz2",
@@ -582,6 +582,10 @@
 {
 "date":"2022-02-06",
 "total":12160
+},
+{
+"date":"2022-02-07",
+"total":12161
 }
 ],
 "package":"perl-time-hires",
@@ -858,6 +862,15 @@
 {
 "basename":"perl-time-hires-1.9728-2.tar.bz2",
 "total":4809
+}
+]
+},
+{
+"date":"2022-02-07",
+"downloads_per_basename":[
+{
+"basename":"perl-time-hires-1.9728-2.tar.bz2",
+"total":4810
 }
 ]
 }
