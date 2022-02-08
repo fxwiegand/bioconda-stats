@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-maffilter-377-ha8a8165_3.tar.bz2",
-"total":10
+"total":11
 },
 {
 "basename":"ucsc-maffilter-377-h0b8a92a_2.tar.bz2",
@@ -522,6 +522,10 @@
 {
 "date":"2022-02-07",
 "total":366
+},
+{
+"date":"2022-02-08",
+"total":367
 }
 ],
 "package":"ucsc-maffilter",
@@ -708,6 +712,15 @@
 {
 "basename":"ucsc-maffilter-377-h0b8a92a_2.tar.bz2",
 "total":89
+}
+]
+},
+{
+"date":"2022-02-08",
+"downloads_per_basename":[
+{
+"basename":"ucsc-maffilter-377-ha8a8165_3.tar.bz2",
+"total":11
 }
 ]
 }

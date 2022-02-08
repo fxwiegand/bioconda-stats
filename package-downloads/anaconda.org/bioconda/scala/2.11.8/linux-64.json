@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"scala-2.11.8-1.tar.bz2",
-"total":1004
+"total":1005
 },
 {
 "basename":"scala-2.11.8-0.tar.bz2",
@@ -390,6 +390,10 @@
 {
 "date":"2022-02-07",
 "total":2218
+},
+{
+"date":"2022-02-08",
+"total":2219
 }
 ],
 "package":"scala",
@@ -497,6 +501,15 @@
 {
 "basename":"scala-2.11.8-1.tar.bz2",
 "total":1004
+}
+]
+},
+{
+"date":"2022-02-08",
+"downloads_per_basename":[
+{
+"basename":"scala-2.11.8-1.tar.bz2",
+"total":1005
 }
 ]
 }

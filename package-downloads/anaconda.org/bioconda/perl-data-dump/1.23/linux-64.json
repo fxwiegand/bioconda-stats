@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-data-dump-1.23-pl526h14c3975_5.tar.bz2",
-"total":297
+"total":298
 },
 {
 "basename":"perl-data-dump-1.23-pl526h470a237_4.tar.bz2",
@@ -410,6 +410,10 @@
 {
 "date":"2022-02-07",
 "total":1538
+},
+{
+"date":"2022-02-08",
+"total":1539
 }
 ],
 "package":"perl-data-dump",
@@ -567,8 +571,12 @@
 ]
 },
 {
-"date":"2022-02-07",
+"date":"2022-02-08",
 "downloads_per_basename":[
+{
+"basename":"perl-data-dump-1.23-pl526h14c3975_5.tar.bz2",
+"total":298
+},
 {
 "basename":"perl-data-dump-1.23-pl5.22.0_3.tar.bz2",
 "total":688

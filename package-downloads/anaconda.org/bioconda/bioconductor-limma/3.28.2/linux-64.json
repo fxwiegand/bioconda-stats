@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-limma-3.28.2-r351_1.tar.bz2",
-"total":228
+"total":229
 },
 {
 "basename":"bioconductor-limma-3.28.2-r3.3.2_0.tar.bz2",
@@ -374,6 +374,10 @@
 {
 "date":"2022-02-07",
 "total":2267
+},
+{
+"date":"2022-02-08",
+"total":2268
 }
 ],
 "package":"bioconductor-limma",
@@ -533,6 +537,15 @@
 {
 "basename":"bioconductor-limma-3.28.2-r3.3.2_0.tar.bz2",
 "total":507
+}
+]
+},
+{
+"date":"2022-02-08",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-limma-3.28.2-r351_1.tar.bz2",
+"total":229
 }
 ]
 }
