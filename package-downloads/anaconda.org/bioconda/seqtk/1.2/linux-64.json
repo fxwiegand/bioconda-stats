@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"seqtk-1.2-1.tar.bz2",
-"total":9901
+"total":9903
 },
 {
 "basename":"seqtk-1.2-0.tar.bz2",
@@ -902,6 +902,10 @@
 {
 "date":"2022-02-08",
 "total":21970
+},
+{
+"date":"2022-02-09",
+"total":21972
 }
 ],
 "package":"seqtk",
@@ -1157,6 +1161,15 @@
 {
 "basename":"seqtk-1.2-0.tar.bz2",
 "total":12069
+}
+]
+},
+{
+"date":"2022-02-09",
+"downloads_per_basename":[
+{
+"basename":"seqtk-1.2-1.tar.bz2",
+"total":9903
 }
 ]
 }

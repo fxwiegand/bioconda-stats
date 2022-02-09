@@ -742,6 +742,10 @@
 {
 "date":"2022-02-08",
 "total":476
+},
+{
+"date":"2022-02-09",
+"total":476
 }
 ],
 "package":"rmats2sashimiplot",
@@ -757,6 +761,15 @@
 },
 {
 "date":"2022-02-08",
+"downloads_per_basename":[
+{
+"basename":"rmats2sashimiplot-2.0.4-py39h76d3f67_2.tar.bz2",
+"total":330
+}
+]
+},
+{
+"date":"2022-02-09",
 "downloads_per_basename":[
 {
 "basename":"rmats2sashimiplot-2.0.4-py37hd9614f4_2.tar.bz2",
@@ -789,10 +802,6 @@
 {
 "basename":"rmats2sashimiplot-2.0.4-py38h3252c3a_1.tar.bz2",
 "total":24
-},
-{
-"basename":"rmats2sashimiplot-2.0.4-py39h76d3f67_2.tar.bz2",
-"total":330
 }
 ]
 }

@@ -35,7 +35,7 @@
 },
 {
 "basename":"bracken-2.6.0-py38hed8969a_2.tar.bz2",
-"total":352
+"total":353
 }
 ],
 "downloads_per_date":[
@@ -718,6 +718,10 @@
 {
 "date":"2022-02-08",
 "total":1500
+},
+{
+"date":"2022-02-09",
+"total":1501
 }
 ],
 "package":"bracken",
@@ -1093,6 +1097,15 @@
 {
 "basename":"bracken-2.6.0-py37h99015e2_1.tar.bz2",
 "total":128
+}
+]
+},
+{
+"date":"2022-02-09",
+"downloads_per_basename":[
+{
+"basename":"bracken-2.6.0-py38hed8969a_2.tar.bz2",
+"total":353
 }
 ]
 }

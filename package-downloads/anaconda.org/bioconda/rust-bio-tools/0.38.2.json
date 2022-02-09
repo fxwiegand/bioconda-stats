@@ -92,6 +92,10 @@
 {
 "date":"2022-02-08",
 "total":326
+},
+{
+"date":"2022-02-09",
+"total":329
 }
 ],
 "downloads_per_subdir":[
@@ -101,7 +105,7 @@
 },
 {
 "subdir":"linux-64",
-"total":260
+"total":263
 }
 ],
 "package":"rust-bio-tools",
@@ -381,6 +385,15 @@
 {
 "subdir":"linux-64",
 "total":260
+}
+]
+},
+{
+"date":"2022-02-09",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":263
 }
 ]
 }

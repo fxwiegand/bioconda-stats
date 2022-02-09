@@ -23,7 +23,7 @@
 },
 {
 "basename":"bracken-2.5-py27hc9558a2_2.tar.bz2",
-"total":165
+"total":166
 },
 {
 "basename":"bracken-2.5-py37hc9558a2_2.tar.bz2",
@@ -582,6 +582,10 @@
 {
 "date":"2022-02-08",
 "total":1437
+},
+{
+"date":"2022-02-09",
+"total":1438
 }
 ],
 "package":"bracken",
@@ -839,6 +843,15 @@
 {
 "basename":"bracken-2.5-py37hc9558a2_2.tar.bz2",
 "total":628
+}
+]
+},
+{
+"date":"2022-02-09",
+"downloads_per_basename":[
+{
+"basename":"bracken-2.5-py27hc9558a2_2.tar.bz2",
+"total":166
 }
 ]
 }

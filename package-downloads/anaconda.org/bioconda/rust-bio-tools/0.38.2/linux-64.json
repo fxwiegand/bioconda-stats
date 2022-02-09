@@ -7,7 +7,7 @@
 },
 {
 "basename":"rust-bio-tools-0.38.2-hb2fa02a_1.tar.bz2",
-"total":69
+"total":72
 },
 {
 "basename":"rust-bio-tools-0.38.2-hb2fa02a_0.tar.bz2",
@@ -106,6 +106,10 @@
 {
 "date":"2022-02-08",
 "total":260
+},
+{
+"date":"2022-02-09",
+"total":263
 }
 ],
 "package":"rust-bio-tools",
@@ -353,6 +357,15 @@
 {
 "basename":"rust-bio-tools-0.38.2-hb2fa02a_0.tar.bz2",
 "total":161
+}
+]
+},
+{
+"date":"2022-02-09",
+"downloads_per_basename":[
+{
+"basename":"rust-bio-tools-0.38.2-hb2fa02a_1.tar.bz2",
+"total":72
 }
 ]
 }

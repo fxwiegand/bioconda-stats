@@ -212,6 +212,10 @@
 {
 "date":"2022-02-08",
 "total":123
+},
+{
+"date":"2022-02-09",
+"total":125
 }
 ],
 "downloads_per_subdir":[
@@ -221,7 +225,7 @@
 },
 {
 "subdir":"osx-64",
-"total":112
+"total":114
 }
 ],
 "package":"r-sigminer",
@@ -728,6 +732,15 @@
 {
 "subdir":"osx-64",
 "total":112
+}
+]
+},
+{
+"date":"2022-02-09",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":114
 }
 ]
 }

@@ -23,7 +23,7 @@
 },
 {
 "basename":"fastqsplitter-1.2.0-py39h38f01e4_2.tar.bz2",
-"total":57
+"total":58
 },
 {
 "basename":"fastqsplitter-1.2.0-py36h516909a_0.tar.bz2",
@@ -430,6 +430,10 @@
 {
 "date":"2022-02-08",
 "total":503
+},
+{
+"date":"2022-02-09",
+"total":504
 }
 ],
 "package":"fastqsplitter",
@@ -629,11 +633,15 @@
 ]
 },
 {
-"date":"2022-02-08",
+"date":"2022-02-09",
 "downloads_per_basename":[
 {
 "basename":"fastqsplitter-1.2.0-py37hf01694f_1.tar.bz2",
 "total":52
+},
+{
+"basename":"fastqsplitter-1.2.0-py39h38f01e4_2.tar.bz2",
+"total":58
 }
 ]
 }

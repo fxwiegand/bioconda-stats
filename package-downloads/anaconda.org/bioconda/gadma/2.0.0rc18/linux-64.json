@@ -11,7 +11,7 @@
 },
 {
 "basename":"gadma-2.0.0rc18-py37h6851754_1.tar.bz2",
-"total":10
+"total":11
 },
 {
 "basename":"gadma-2.0.0rc18-py38h27d93b4_0.tar.bz2",
@@ -242,6 +242,10 @@
 {
 "date":"2022-02-08",
 "total":87
+},
+{
+"date":"2022-02-09",
+"total":88
 }
 ],
 "package":"gadma",
@@ -404,6 +408,15 @@
 {
 "basename":"gadma-2.0.0rc18-py38hbfa1688_1.tar.bz2",
 "total":10
+}
+]
+},
+{
+"date":"2022-02-09",
+"downloads_per_basename":[
+{
+"basename":"gadma-2.0.0rc18-py37h6851754_1.tar.bz2",
+"total":11
 }
 ]
 }
