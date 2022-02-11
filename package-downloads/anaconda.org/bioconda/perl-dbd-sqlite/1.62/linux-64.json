@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-dbd-sqlite-1.62-pl526h14c3975_0.tar.bz2",
-"total":175
+"total":176
 },
 {
 "basename":"perl-dbd-sqlite-1.62-pl526h14c3975_1.tar.bz2",
@@ -306,6 +306,10 @@
 {
 "date":"2022-02-10",
 "total":6289
+},
+{
+"date":"2022-02-11",
+"total":6290
 }
 ],
 "package":"perl-dbd-sqlite",
@@ -383,6 +387,15 @@
 {
 "basename":"perl-dbd-sqlite-1.62-pl526h14c3975_0.tar.bz2",
 "total":175
+}
+]
+},
+{
+"date":"2022-02-11",
+"downloads_per_basename":[
+{
+"basename":"perl-dbd-sqlite-1.62-pl526h14c3975_0.tar.bz2",
+"total":176
 }
 ]
 }

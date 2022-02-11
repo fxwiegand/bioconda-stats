@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-test-classapi-1.06-0.tar.bz2",
-"total":479
+"total":480
 }
 ],
 "downloads_per_date":[
@@ -186,6 +186,10 @@
 {
 "date":"2022-02-10",
 "total":781
+},
+{
+"date":"2022-02-11",
+"total":782
 }
 ],
 "package":"perl-test-classapi",
@@ -262,6 +266,15 @@
 {
 "basename":"perl-test-classapi-1.06-pl526_1.tar.bz2",
 "total":302
+}
+]
+},
+{
+"date":"2022-02-11",
+"downloads_per_basename":[
+{
+"basename":"perl-test-classapi-1.06-0.tar.bz2",
+"total":480
 }
 ]
 }

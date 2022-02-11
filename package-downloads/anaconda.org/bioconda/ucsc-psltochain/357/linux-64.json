@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-psltochain-357-0.tar.bz2",
-"total":425
+"total":426
 },
 {
 "basename":"ucsc-psltochain-357-1.tar.bz2",
@@ -286,6 +286,10 @@
 {
 "date":"2022-02-10",
 "total":900
+},
+{
+"date":"2022-02-11",
+"total":901
 }
 ],
 "package":"ucsc-psltochain",
@@ -376,6 +380,15 @@
 {
 "basename":"ucsc-psltochain-357-1.tar.bz2",
 "total":475
+}
+]
+},
+{
+"date":"2022-02-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-psltochain-357-0.tar.bz2",
+"total":426
 }
 ]
 }

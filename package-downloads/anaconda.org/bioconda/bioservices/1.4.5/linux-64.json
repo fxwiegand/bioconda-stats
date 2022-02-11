@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioservices-1.4.5-py27_0.tar.bz2",
-"total":504
+"total":505
 },
 {
 "basename":"bioservices-1.4.5-py35_0.tar.bz2",
@@ -234,6 +234,10 @@
 {
 "date":"2022-02-10",
 "total":1624
+},
+{
+"date":"2022-02-11",
+"total":1625
 }
 ],
 "package":"bioservices",
@@ -338,6 +342,15 @@
 {
 "basename":"bioservices-1.4.5-py35_0.tar.bz2",
 "total":621
+}
+]
+},
+{
+"date":"2022-02-11",
+"downloads_per_basename":[
+{
+"basename":"bioservices-1.4.5-py27_0.tar.bz2",
+"total":505
 }
 ]
 }

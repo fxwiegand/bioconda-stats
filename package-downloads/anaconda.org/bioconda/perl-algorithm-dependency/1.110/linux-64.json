@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-algorithm-dependency-1.110-pl526_1.tar.bz2",
-"total":170
+"total":171
 },
 {
 "basename":"perl-algorithm-dependency-1.110-0.tar.bz2",
@@ -226,6 +226,10 @@
 {
 "date":"2022-02-10",
 "total":1241
+},
+{
+"date":"2022-02-11",
+"total":1242
 }
 ],
 "package":"perl-algorithm-dependency",
@@ -300,6 +304,15 @@
 {
 "basename":"perl-algorithm-dependency-1.110-0.tar.bz2",
 "total":912
+}
+]
+},
+{
+"date":"2022-02-11",
+"downloads_per_basename":[
+{
+"basename":"perl-algorithm-dependency-1.110-pl526_1.tar.bz2",
+"total":171
 }
 ]
 }

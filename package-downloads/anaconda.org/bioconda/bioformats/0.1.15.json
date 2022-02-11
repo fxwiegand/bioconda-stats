@@ -1036,6 +1036,10 @@
 {
 "date":"2022-02-10",
 "total":3662
+},
+{
+"date":"2022-02-11",
+"total":3664
 }
 ],
 "downloads_per_subdir":[
@@ -1045,7 +1049,7 @@
 },
 {
 "subdir":"noarch",
-"total":895
+"total":897
 },
 {
 "subdir":"osx-64",
@@ -1055,7 +1059,7 @@
 "package":"bioformats",
 "recent_downloads":[
 {
-"date":"2021-12-10",
+"date":"2021-12-11",
 "downloads_per_subdir":[
 {
 "subdir":"noarch",
@@ -1533,6 +1537,15 @@
 {
 "subdir":"noarch",
 "total":895
+}
+]
+},
+{
+"date":"2022-02-11",
+"downloads_per_subdir":[
+{
+"subdir":"noarch",
+"total":897
 }
 ]
 }

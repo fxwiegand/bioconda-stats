@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"uscdc-datasets-sars-cov-2-0.6.2-hdfd78af_0.tar.bz2",
-"total":32
+"total":34
 }
 ],
 "downloads_per_date":[
@@ -58,6 +58,10 @@
 {
 "date":"2022-02-10",
 "total":32
+},
+{
+"date":"2022-02-11",
+"total":34
 }
 ],
 "package":"uscdc-datasets-sars-cov-2",
@@ -158,6 +162,15 @@
 {
 "basename":"uscdc-datasets-sars-cov-2-0.6.2-hdfd78af_0.tar.bz2",
 "total":32
+}
+]
+},
+{
+"date":"2022-02-11",
+"downloads_per_basename":[
+{
+"basename":"uscdc-datasets-sars-cov-2-0.6.2-hdfd78af_0.tar.bz2",
+"total":34
 }
 ]
 }

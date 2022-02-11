@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-nettobed-377-h446ed27_1.tar.bz2",
-"total":65
+"total":66
 },
 {
 "basename":"ucsc-nettobed-377-h0b8a92a_2.tar.bz2",
@@ -358,6 +358,10 @@
 {
 "date":"2022-02-10",
 "total":291
+},
+{
+"date":"2022-02-11",
+"total":292
 }
 ],
 "package":"ucsc-nettobed",
@@ -472,6 +476,15 @@
 {
 "basename":"ucsc-nettobed-377-ha8a8165_3.tar.bz2",
 "total":11
+}
+]
+},
+{
+"date":"2022-02-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-nettobed-377-h446ed27_1.tar.bz2",
+"total":66
 }
 ]
 }

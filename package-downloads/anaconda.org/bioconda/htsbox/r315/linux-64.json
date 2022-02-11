@@ -7,7 +7,7 @@
 },
 {
 "basename":"htsbox-r315-hed695b0_0.tar.bz2",
-"total":638
+"total":639
 }
 ],
 "downloads_per_date":[
@@ -722,6 +722,10 @@
 {
 "date":"2022-02-10",
 "total":1030
+},
+{
+"date":"2022-02-11",
+"total":1031
 }
 ],
 "package":"htsbox",
@@ -941,6 +945,15 @@
 {
 "basename":"htsbox-r315-h5bf99c6_1.tar.bz2",
 "total":392
+}
+]
+},
+{
+"date":"2022-02-11",
+"downloads_per_basename":[
+{
+"basename":"htsbox-r315-hed695b0_0.tar.bz2",
+"total":639
 }
 ]
 }

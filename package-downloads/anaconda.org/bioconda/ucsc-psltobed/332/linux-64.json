@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-psltobed-332-0.tar.bz2",
-"total":1010
+"total":1011
 }
 ],
 "downloads_per_date":[
@@ -138,6 +138,10 @@
 {
 "date":"2022-02-10",
 "total":1010
+},
+{
+"date":"2022-02-11",
+"total":1011
 }
 ],
 "package":"ucsc-psltobed",
@@ -175,6 +179,15 @@
 {
 "basename":"ucsc-psltobed-332-0.tar.bz2",
 "total":1010
+}
+]
+},
+{
+"date":"2022-02-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-psltobed-332-0.tar.bz2",
+"total":1011
 }
 ]
 }

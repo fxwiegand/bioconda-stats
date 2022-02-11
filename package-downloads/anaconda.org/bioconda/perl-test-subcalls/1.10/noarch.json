@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-subcalls-1.10-pl5321hdfd78af_3.tar.bz2",
-"total":53
+"total":55
 }
 ],
 "downloads_per_date":[
@@ -82,6 +82,10 @@
 {
 "date":"2022-02-10",
 "total":53
+},
+{
+"date":"2022-02-11",
+"total":55
 }
 ],
 "package":"perl-test-subcalls",
@@ -245,6 +249,15 @@
 {
 "basename":"perl-test-subcalls-1.10-pl5321hdfd78af_3.tar.bz2",
 "total":53
+}
+]
+},
+{
+"date":"2022-02-11",
+"downloads_per_basename":[
+{
+"basename":"perl-test-subcalls-1.10-pl5321hdfd78af_3.tar.bz2",
+"total":55
 }
 ]
 }
