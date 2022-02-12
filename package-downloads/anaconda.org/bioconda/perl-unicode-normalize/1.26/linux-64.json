@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-unicode-normalize-1.26-pl5321h7d875b9_2.tar.bz2",
-"total":15
+"total":16
 },
 {
 "basename":"perl-unicode-normalize-1.26-pl526h6bb024c_1.tar.bz2",
@@ -262,6 +262,10 @@
 {
 "date":"2022-02-11",
 "total":352
+},
+{
+"date":"2022-02-12",
+"total":353
 }
 ],
 "package":"perl-unicode-normalize",
@@ -400,6 +404,15 @@
 {
 "basename":"perl-unicode-normalize-1.26-pl526h2d50403_0.tar.bz2",
 "total":175
+}
+]
+},
+{
+"date":"2022-02-12",
+"downloads_per_basename":[
+{
+"basename":"perl-unicode-normalize-1.26-pl5321h7d875b9_2.tar.bz2",
+"total":16
 }
 ]
 }

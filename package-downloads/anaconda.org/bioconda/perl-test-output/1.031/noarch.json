@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-output-1.031-pl5321hdfd78af_1.tar.bz2",
-"total":55
+"total":60
 }
 ],
 "downloads_per_date":[
@@ -90,6 +90,10 @@
 {
 "date":"2022-02-11",
 "total":55
+},
+{
+"date":"2022-02-12",
+"total":60
 }
 ],
 "package":"perl-test-output",
@@ -244,6 +248,15 @@
 {
 "basename":"perl-test-output-1.031-pl5321hdfd78af_1.tar.bz2",
 "total":55
+}
+]
+},
+{
+"date":"2022-02-12",
+"downloads_per_basename":[
+{
+"basename":"perl-test-output-1.031-pl5321hdfd78af_1.tar.bz2",
+"total":60
 }
 ]
 }

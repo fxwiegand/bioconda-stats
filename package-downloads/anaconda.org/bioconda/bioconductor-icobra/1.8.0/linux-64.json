@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-icobra-1.8.0-r341_0.tar.bz2",
-"total":204
+"total":205
 },
 {
 "basename":"bioconductor-icobra-1.8.0-r351_0.tar.bz2",
@@ -254,6 +254,10 @@
 {
 "date":"2022-02-11",
 "total":551
+},
+{
+"date":"2022-02-12",
+"total":552
 }
 ],
 "package":"bioconductor-icobra",
@@ -342,6 +346,15 @@
 {
 "basename":"bioconductor-icobra-1.8.0-r351_0.tar.bz2",
 "total":347
+}
+]
+},
+{
+"date":"2022-02-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-icobra-1.8.0-r341_0.tar.bz2",
+"total":205
 }
 ]
 }

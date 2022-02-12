@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-quasr-1.30.0-r40h399db7b_2.tar.bz2",
-"total":71
+"total":72
 },
 {
 "basename":"bioconductor-quasr-1.30.0-r40h5f743cb_1.tar.bz2",
@@ -354,6 +354,10 @@
 {
 "date":"2022-02-11",
 "total":261
+},
+{
+"date":"2022-02-12",
+"total":262
 }
 ],
 "package":"bioconductor-quasr",
@@ -472,6 +476,15 @@
 {
 "basename":"bioconductor-quasr-1.30.0-r40h5f743cb_0.tar.bz2",
 "total":109
+}
+]
+},
+{
+"date":"2022-02-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-quasr-1.30.0-r40h399db7b_2.tar.bz2",
+"total":72
 }
 ]
 }

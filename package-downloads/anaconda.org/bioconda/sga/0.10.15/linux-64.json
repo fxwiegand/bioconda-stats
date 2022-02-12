@@ -23,7 +23,7 @@
 },
 {
 "basename":"sga-0.10.15-h970fe44_5.tar.bz2",
-"total":389
+"total":390
 },
 {
 "basename":"sga-0.10.15-0.tar.bz2",
@@ -750,6 +750,10 @@
 {
 "date":"2022-02-11",
 "total":2131
+},
+{
+"date":"2022-02-12",
+"total":2132
 }
 ],
 "package":"sga",
@@ -1073,6 +1077,15 @@
 {
 "basename":"sga-0.10.15-0.tar.bz2",
 "total":460
+}
+]
+},
+{
+"date":"2022-02-12",
+"downloads_per_basename":[
+{
+"basename":"sga-0.10.15-h970fe44_5.tar.bz2",
+"total":390
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"platypus-variant-0.8.1.2-py27ha70a282_1.tar.bz2",
-"total":1023
+"total":1035
 },
 {
 "basename":"platypus-variant-0.8.1.2-py27hb763d49_0.tar.bz2",
@@ -922,6 +922,10 @@
 {
 "date":"2022-02-11",
 "total":3199
+},
+{
+"date":"2022-02-12",
+"total":3211
 }
 ],
 "package":"platypus-variant",
@@ -1325,6 +1329,15 @@
 {
 "basename":"platypus-variant-0.8.1.2-py27hb763d49_0.tar.bz2",
 "total":2009
+}
+]
+},
+{
+"date":"2022-02-12",
+"downloads_per_basename":[
+{
+"basename":"platypus-variant-0.8.1.2-py27ha70a282_1.tar.bz2",
+"total":1035
 }
 ]
 }

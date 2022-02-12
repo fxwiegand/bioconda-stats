@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-readonly-1.04-pl526_2.tar.bz2",
-"total":2093
+"total":2094
 },
 {
 "basename":"perl-readonly-1.04-pl5.22.0_0.tar.bz2",
@@ -318,6 +318,10 @@
 {
 "date":"2022-02-11",
 "total":5326
+},
+{
+"date":"2022-02-12",
+"total":5327
 }
 ],
 "package":"perl-readonly",
@@ -427,6 +431,15 @@
 {
 "basename":"perl-readonly-1.04-pl5.22.0_0.tar.bz2",
 "total":3074
+}
+]
+},
+{
+"date":"2022-02-12",
+"downloads_per_basename":[
+{
+"basename":"perl-readonly-1.04-pl526_2.tar.bz2",
+"total":2094
 }
 ]
 }

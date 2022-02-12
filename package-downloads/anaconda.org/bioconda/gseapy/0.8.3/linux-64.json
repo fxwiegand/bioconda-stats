@@ -210,6 +210,10 @@
 {
 "date":"2022-02-11",
 "total":1463
+},
+{
+"date":"2022-02-12",
+"total":1463
 }
 ],
 "package":"gseapy",
@@ -260,7 +264,12 @@
 {
 "basename":"gseapy-0.8.3-py27_0.tar.bz2",
 "total":502
+}
+]
 },
+{
+"date":"2022-02-12",
+"downloads_per_basename":[
 {
 "basename":"gseapy-0.8.3-py35_0.tar.bz2",
 "total":512

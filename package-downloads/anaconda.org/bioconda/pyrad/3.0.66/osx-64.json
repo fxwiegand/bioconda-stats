@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"pyrad-3.0.66-py27_0.tar.bz2",
-"total":282
+"total":283
 },
 {
 "basename":"pyrad-3.0.66-py27_2.tar.bz2",
@@ -698,6 +698,10 @@
 {
 "date":"2022-02-11",
 "total":2007
+},
+{
+"date":"2022-02-12",
+"total":2008
 }
 ],
 "package":"pyrad",
@@ -734,6 +738,15 @@
 {
 "basename":"pyrad-3.0.66-py27_2.tar.bz2",
 "total":1725
+}
+]
+},
+{
+"date":"2022-02-12",
+"downloads_per_basename":[
+{
+"basename":"pyrad-3.0.66-py27_0.tar.bz2",
+"total":283
 }
 ]
 }

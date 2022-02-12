@@ -7,7 +7,7 @@
 },
 {
 "basename":"entrez-direct-11.0-pl526_0.tar.bz2",
-"total":14772
+"total":14774
 }
 ],
 "downloads_per_date":[
@@ -498,6 +498,10 @@
 {
 "date":"2022-02-11",
 "total":15387
+},
+{
+"date":"2022-02-12",
+"total":15389
 }
 ],
 "package":"entrez-direct",
@@ -645,6 +649,15 @@
 {
 "basename":"entrez-direct-11.0-pl526_0.tar.bz2",
 "total":14772
+}
+]
+},
+{
+"date":"2022-02-12",
+"downloads_per_basename":[
+{
+"basename":"entrez-direct-11.0-pl526_0.tar.bz2",
+"total":14774
 }
 ]
 }
