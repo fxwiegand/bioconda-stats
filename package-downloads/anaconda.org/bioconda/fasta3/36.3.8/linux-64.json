@@ -27,7 +27,7 @@
 },
 {
 "basename":"fasta3-36.3.8-h779adbc_6.tar.bz2",
-"total":3430
+"total":3431
 }
 ],
 "downloads_per_date":[
@@ -1074,6 +1074,10 @@
 {
 "date":"2022-02-12",
 "total":10500
+},
+{
+"date":"2022-02-13",
+"total":10501
 }
 ],
 "package":"fasta3",
@@ -1740,6 +1744,15 @@
 {
 "basename":"fasta3-36.3.8-h516909a_5.tar.bz2",
 "total":1707
+}
+]
+},
+{
+"date":"2022-02-13",
+"downloads_per_basename":[
+{
+"basename":"fasta3-36.3.8-h779adbc_6.tar.bz2",
+"total":3431
 }
 ]
 }

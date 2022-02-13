@@ -55,7 +55,7 @@
 },
 {
 "basename":"pp-sketchlib-1.1.0-py36hcb148d3_2.tar.bz2",
-"total":54
+"total":55
 },
 {
 "basename":"pp-sketchlib-1.1.0-py36hb4d53aa_0.tar.bz2",
@@ -410,6 +410,10 @@
 {
 "date":"2022-02-12",
 "total":649
+},
+{
+"date":"2022-02-13",
+"total":650
 }
 ],
 "package":"pp-sketchlib",
@@ -876,6 +880,15 @@
 {
 "basename":"pp-sketchlib-1.1.0-py38h54e43ac_4.tar.bz2",
 "total":14
+}
+]
+},
+{
+"date":"2022-02-13",
+"downloads_per_basename":[
+{
+"basename":"pp-sketchlib-1.1.0-py36hcb148d3_2.tar.bz2",
+"total":55
 }
 ]
 }

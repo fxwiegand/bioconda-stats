@@ -11,7 +11,7 @@
 },
 {
 "basename":"treemix-1.13-hb9596c7_3.tar.bz2",
-"total":168
+"total":169
 },
 {
 "basename":"treemix-1.13-boost1.64_gsl2.2_0.tar.bz2",
@@ -818,6 +818,10 @@
 {
 "date":"2022-02-12",
 "total":1296
+},
+{
+"date":"2022-02-13",
+"total":1297
 }
 ],
 "package":"treemix",
@@ -1134,6 +1138,15 @@
 {
 "basename":"treemix-1.13-hbbb361b_1.tar.bz2",
 "total":392
+}
+]
+},
+{
+"date":"2022-02-13",
+"downloads_per_basename":[
+{
+"basename":"treemix-1.13-hb9596c7_3.tar.bz2",
+"total":169
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-genomation-1.6.0-r3.3.2_0.tar.bz2",
-"total":639
+"total":640
 },
 {
 "basename":"bioconductor-genomation-1.6.0-r3.3.1_0.tar.bz2",
@@ -294,6 +294,10 @@
 {
 "date":"2022-02-12",
 "total":2407
+},
+{
+"date":"2022-02-13",
+"total":2408
 }
 ],
 "package":"bioconductor-genomation",
@@ -427,6 +431,15 @@
 {
 "basename":"bioconductor-genomation-1.6.0-r3.3.1_0.tar.bz2",
 "total":670
+}
+]
+},
+{
+"date":"2022-02-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-genomation-1.6.0-r3.3.2_0.tar.bz2",
+"total":640
 }
 ]
 }

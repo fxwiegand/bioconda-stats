@@ -11,7 +11,7 @@
 },
 {
 "basename":"quake-0.3.5-boost1.60_0.tar.bz2",
-"total":447
+"total":448
 },
 {
 "basename":"quake-0.3.5-boost1.61_0.tar.bz2",
@@ -302,6 +302,10 @@
 {
 "date":"2022-02-12",
 "total":1645
+},
+{
+"date":"2022-02-13",
+"total":1646
 }
 ],
 "package":"quake",
@@ -461,6 +465,15 @@
 {
 "basename":"quake-0.3.5-boost1.64_0.tar.bz2",
 "total":566
+}
+]
+},
+{
+"date":"2022-02-13",
+"downloads_per_basename":[
+{
+"basename":"quake-0.3.5-boost1.60_0.tar.bz2",
+"total":448
 }
 ]
 }
