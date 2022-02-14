@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-chipxpressdata-1.18.0-r341_0.tar.bz2",
-"total":255
+"total":256
 },
 {
 "basename":"bioconductor-chipxpressdata-1.18.0-r351_0.tar.bz2",
@@ -222,6 +222,10 @@
 {
 "date":"2022-02-13",
 "total":520
+},
+{
+"date":"2022-02-14",
+"total":521
 }
 ],
 "package":"bioconductor-chipxpressdata",
@@ -271,6 +275,15 @@
 {
 "basename":"bioconductor-chipxpressdata-1.18.0-r351_0.tar.bz2",
 "total":265
+}
+]
+},
+{
+"date":"2022-02-14",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-chipxpressdata-1.18.0-r341_0.tar.bz2",
+"total":256
 }
 ]
 }

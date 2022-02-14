@@ -15,7 +15,7 @@
 },
 {
 "basename":"perl-try-tiny-0.24-pl5.22.0_2.tar.bz2",
-"total":5181
+"total":5182
 }
 ],
 "downloads_per_date":[
@@ -686,6 +686,10 @@
 {
 "date":"2022-02-13",
 "total":10000
+},
+{
+"date":"2022-02-14",
+"total":10001
 }
 ],
 "package":"perl-try-tiny",
@@ -954,6 +958,15 @@
 {
 "basename":"perl-try-tiny-0.24-pl5.22.0_2.tar.bz2",
 "total":5181
+}
+]
+},
+{
+"date":"2022-02-14",
+"downloads_per_basename":[
+{
+"basename":"perl-try-tiny-0.24-pl5.22.0_2.tar.bz2",
+"total":5182
 }
 ]
 }

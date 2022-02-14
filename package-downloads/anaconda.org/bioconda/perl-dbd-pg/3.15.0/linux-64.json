@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-dbd-pg-3.15.0-pl5321h779adbc_2.tar.bz2",
-"total":8
+"total":10
 },
 {
 "basename":"perl-dbd-pg-3.15.0-pl5321h779adbc_0.tar.bz2",
@@ -58,6 +58,10 @@
 {
 "date":"2022-02-13",
 "total":53
+},
+{
+"date":"2022-02-14",
+"total":55
 }
 ],
 "package":"perl-dbd-pg",
@@ -166,6 +170,15 @@
 {
 "basename":"perl-dbd-pg-3.15.0-pl5321h779adbc_2.tar.bz2",
 "total":8
+}
+]
+},
+{
+"date":"2022-02-14",
+"downloads_per_basename":[
+{
+"basename":"perl-dbd-pg-3.15.0-pl5321h779adbc_2.tar.bz2",
+"total":10
 }
 ]
 }

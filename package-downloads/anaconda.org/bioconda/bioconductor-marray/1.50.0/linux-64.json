@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-marray-1.50.0-r3.4.1_1.tar.bz2",
-"total":685
+"total":686
 },
 {
 "basename":"bioconductor-marray-1.50.0-r3.3.2_1.tar.bz2",
@@ -334,6 +334,10 @@
 {
 "date":"2022-02-13",
 "total":3896
+},
+{
+"date":"2022-02-14",
+"total":3897
 }
 ],
 "package":"bioconductor-marray",
@@ -490,6 +494,15 @@
 {
 "basename":"bioconductor-marray-1.50.0-0.tar.bz2",
 "total":1381
+}
+]
+},
+{
+"date":"2022-02-14",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-marray-1.50.0-r3.4.1_1.tar.bz2",
+"total":686
 }
 ]
 }

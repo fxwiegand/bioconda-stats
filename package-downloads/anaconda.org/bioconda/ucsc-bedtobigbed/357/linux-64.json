@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-bedtobigbed-357-h446ed27_4.tar.bz2",
-"total":936
+"total":937
 },
 {
 "basename":"ucsc-bedtobigbed-357-h35c10e6_3.tar.bz2",
@@ -1026,6 +1026,10 @@
 {
 "date":"2022-02-13",
 "total":12407
+},
+{
+"date":"2022-02-14",
+"total":12408
 }
 ],
 "package":"ucsc-bedtobigbed",
@@ -1481,6 +1485,15 @@
 {
 "basename":"ucsc-bedtobigbed-357-1.tar.bz2",
 "total":6506
+}
+]
+},
+{
+"date":"2022-02-14",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bedtobigbed-357-h446ed27_4.tar.bz2",
+"total":937
 }
 ]
 }
