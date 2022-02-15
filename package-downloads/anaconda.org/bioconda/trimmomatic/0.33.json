@@ -1048,6 +1048,10 @@
 {
 "date":"2022-02-14",
 "total":3307
+},
+{
+"date":"2022-02-15",
+"total":3307
 }
 ],
 "downloads_per_subdir":[
@@ -1067,12 +1071,8 @@
 "package":"trimmomatic",
 "recent_downloads":[
 {
-"date":"2021-12-14",
+"date":"2021-12-16",
 "downloads_per_subdir":[
-{
-"subdir":"linux-64",
-"total":439
-},
 {
 "subdir":"noarch",
 "total":740
@@ -1091,6 +1091,10 @@
 {
 "date":"2021-12-18",
 "downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":439
+},
 {
 "subdir":"osx-64",
 "total":1993

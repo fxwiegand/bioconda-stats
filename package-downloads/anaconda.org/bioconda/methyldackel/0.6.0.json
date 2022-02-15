@@ -824,6 +824,10 @@
 {
 "date":"2022-02-14",
 "total":540
+},
+{
+"date":"2022-02-15",
+"total":540
 }
 ],
 "downloads_per_subdir":[
@@ -839,12 +843,8 @@
 "package":"methyldackel",
 "recent_downloads":[
 {
-"date":"2021-12-14",
+"date":"2021-12-15",
 "downloads_per_subdir":[
-{
-"subdir":"linux-64",
-"total":119
-},
 {
 "subdir":"osx-64",
 "total":296
@@ -863,6 +863,10 @@
 {
 "date":"2021-12-17",
 "downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":119
+},
 {
 "subdir":"osx-64",
 "total":298

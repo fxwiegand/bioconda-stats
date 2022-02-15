@@ -76,6 +76,10 @@
 {
 "date":"2022-02-14",
 "total":119
+},
+{
+"date":"2022-02-15",
+"total":120
 }
 ],
 "downloads_per_subdir":[
@@ -85,7 +89,7 @@
 },
 {
 "subdir":"linux-64",
-"total":68
+"total":69
 }
 ],
 "package":"perl-specio",
@@ -284,6 +288,15 @@
 {
 "subdir":"linux-64",
 "total":68
+}
+]
+},
+{
+"date":"2022-02-15",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":69
 }
 ]
 }

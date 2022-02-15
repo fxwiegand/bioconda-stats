@@ -972,6 +972,10 @@
 {
 "date":"2022-02-14",
 "total":3453
+},
+{
+"date":"2022-02-15",
+"total":3454
 }
 ],
 "downloads_per_version":[
@@ -980,7 +984,7 @@
 "version":"1.12.0"
 },
 {
-"total":363,
+"total":364,
 "version":"1.10.0"
 },
 {
@@ -1015,7 +1019,7 @@
 "package":"bioconductor-hpaanalyze",
 "recent_downloads":[
 {
-"date":"2021-12-14",
+"date":"2021-12-15",
 "downloads_per_version":[
 {
 "total":90,
@@ -1048,10 +1052,6 @@
 {
 "total":344,
 "version":"1.2.0"
-},
-{
-"total":345,
-"version":"1.0.0"
 }
 ]
 },
@@ -1235,6 +1235,10 @@
 {
 "total":256,
 "version":"1.10.0"
+},
+{
+"total":345,
+"version":"1.0.0"
 }
 ]
 },
@@ -3028,6 +3032,15 @@
 {
 "total":457,
 "version":"1.2.0"
+}
+]
+},
+{
+"date":"2022-02-15",
+"downloads_per_version":[
+{
+"total":364,
+"version":"1.10.0"
 }
 ]
 }

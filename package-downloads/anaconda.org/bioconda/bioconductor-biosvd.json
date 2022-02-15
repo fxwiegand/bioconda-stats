@@ -1056,6 +1056,10 @@
 {
 "date":"2022-02-14",
 "total":7407
+},
+{
+"date":"2022-02-15",
+"total":7408
 }
 ],
 "downloads_per_version":[
@@ -1068,7 +1072,7 @@
 "version":"2.22.0"
 },
 {
-"total":431,
+"total":432,
 "version":"2.20.0"
 },
 {
@@ -1087,7 +1091,7 @@
 "package":"bioconductor-biosvd",
 "recent_downloads":[
 {
-"date":"2021-12-14",
+"date":"2021-12-15",
 "downloads_per_version":[
 {
 "total":291,
@@ -1100,10 +1104,6 @@
 {
 "total":317,
 "version":"2.20.0"
-},
-{
-"total":489,
-"version":"2.18.0"
 },
 {
 "total":2552,
@@ -1214,6 +1214,10 @@
 {
 "total":323,
 "version":"2.20.0"
+},
+{
+"total":489,
+"version":"2.18.0"
 }
 ]
 },
@@ -2515,6 +2519,15 @@
 {
 "total":2894,
 "version":"2.16.0"
+}
+]
+},
+{
+"date":"2022-02-15",
+"downloads_per_version":[
+{
+"total":432,
+"version":"2.20.0"
 }
 ]
 }

@@ -1056,6 +1056,10 @@
 {
 "date":"2022-02-14",
 "total":12308
+},
+{
+"date":"2022-02-15",
+"total":12308
 }
 ],
 "downloads_per_subdir":[
@@ -1071,12 +1075,8 @@
 "package":"multiqc",
 "recent_downloads":[
 {
-"date":"2021-12-14",
+"date":"2021-12-15",
 "downloads_per_subdir":[
-{
-"subdir":"osx-64",
-"total":2656
-},
 {
 "subdir":"linux-64",
 "total":9467
@@ -1113,6 +1113,10 @@
 {
 "date":"2021-12-20",
 "downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2656
+},
 {
 "subdir":"linux-64",
 "total":9486

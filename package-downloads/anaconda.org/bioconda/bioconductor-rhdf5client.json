@@ -1056,6 +1056,10 @@
 {
 "date":"2022-02-14",
 "total":11377
+},
+{
+"date":"2022-02-15",
+"total":11379
 }
 ],
 "downloads_per_version":[
@@ -1076,7 +1080,7 @@
 "version":"1.10.0"
 },
 {
-"total":1786,
+"total":1788,
 "version":"1.8.0"
 },
 {
@@ -1095,7 +1099,7 @@
 "package":"bioconductor-rhdf5client",
 "recent_downloads":[
 {
-"date":"2021-12-14",
+"date":"2021-12-15",
 "downloads_per_version":[
 {
 "total":91,
@@ -1108,10 +1112,6 @@
 {
 "total":900,
 "version":"1.12.0"
-},
-{
-"total":1171,
-"version":"1.10.0"
 },
 {
 "total":1673,
@@ -1145,6 +1145,10 @@
 {
 "total":902,
 "version":"1.12.0"
+},
+{
+"total":1171,
+"version":"1.10.0"
 },
 {
 "total":1675,
@@ -2815,6 +2819,15 @@
 {
 "total":2394,
 "version":"1.4.0"
+}
+]
+},
+{
+"date":"2022-02-15",
+"downloads_per_version":[
+{
+"total":1788,
+"version":"1.8.0"
 }
 ]
 }

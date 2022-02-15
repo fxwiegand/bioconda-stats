@@ -944,6 +944,10 @@
 {
 "date":"2022-02-14",
 "total":1748
+},
+{
+"date":"2022-02-15",
+"total":1748
 }
 ],
 "downloads_per_version":[
@@ -971,7 +975,7 @@
 "package":"bioconductor-meb",
 "recent_downloads":[
 {
-"date":"2021-12-14",
+"date":"2021-12-15",
 "downloads_per_version":[
 {
 "total":83,
@@ -980,10 +984,6 @@
 {
 "total":241,
 "version":"1.6.0"
-},
-{
-"total":263,
-"version":"1.0.0"
 },
 {
 "total":274,
@@ -1076,6 +1076,15 @@
 {
 "total":322,
 "version":"1.4.0"
+}
+]
+},
+{
+"date":"2021-12-22",
+"downloads_per_version":[
+{
+"total":263,
+"version":"1.0.0"
 }
 ]
 },

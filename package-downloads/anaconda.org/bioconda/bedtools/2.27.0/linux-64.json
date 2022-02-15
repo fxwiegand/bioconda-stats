@@ -19,7 +19,7 @@
 },
 {
 "basename":"bedtools-2.27.0-he513fc3_4.tar.bz2",
-"total":2286
+"total":2289
 }
 ],
 "downloads_per_date":[
@@ -878,6 +878,10 @@
 {
 "date":"2022-02-14",
 "total":6338
+},
+{
+"date":"2022-02-15",
+"total":6341
 }
 ],
 "package":"bedtools",
@@ -1248,6 +1252,15 @@
 {
 "basename":"bedtools-2.27.0-he513fc3_4.tar.bz2",
 "total":2286
+}
+]
+},
+{
+"date":"2022-02-15",
+"downloads_per_basename":[
+{
+"basename":"bedtools-2.27.0-he513fc3_4.tar.bz2",
+"total":2289
 }
 ]
 }

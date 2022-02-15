@@ -932,6 +932,10 @@
 {
 "date":"2022-02-14",
 "total":1309
+},
+{
+"date":"2022-02-15",
+"total":1309
 }
 ],
 "downloads_per_version":[
@@ -951,7 +955,7 @@
 "package":"bioconductor-mtseeker",
 "recent_downloads":[
 {
-"date":"2021-12-14",
+"date":"2021-12-15",
 "downloads_per_version":[
 {
 "total":309,
@@ -960,10 +964,6 @@
 {
 "total":310,
 "version":"1.2.0"
-},
-{
-"total":353,
-"version":"1.0.6"
 }
 ]
 },
@@ -1008,6 +1008,15 @@
 {
 "total":314,
 "version":"1.2.0"
+}
+]
+},
+{
+"date":"2021-12-22",
+"downloads_per_version":[
+{
+"total":353,
+"version":"1.0.6"
 }
 ]
 },

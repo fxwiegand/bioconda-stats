@@ -11,7 +11,7 @@
 },
 {
 "basename":"pybbi-0.3.2-py38hba9f912_0.tar.bz2",
-"total":10
+"total":11
 },
 {
 "basename":"pybbi-0.3.2-py39h2c60801_0.tar.bz2",
@@ -202,6 +202,10 @@
 {
 "date":"2022-02-14",
 "total":122
+},
+{
+"date":"2022-02-15",
+"total":123
 }
 ],
 "package":"pybbi",
@@ -610,6 +614,15 @@
 {
 "basename":"pybbi-0.3.2-py39h2c60801_0.tar.bz2",
 "total":97
+}
+]
+},
+{
+"date":"2022-02-15",
+"downloads_per_basename":[
+{
+"basename":"pybbi-0.3.2-py38hba9f912_0.tar.bz2",
+"total":11
 }
 ]
 }

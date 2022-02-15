@@ -1028,6 +1028,10 @@
 {
 "date":"2022-02-14",
 "total":2337
+},
+{
+"date":"2022-02-15",
+"total":2337
 }
 ],
 "downloads_per_subdir":[
@@ -1047,7 +1051,7 @@
 "package":"r-minionqc",
 "recent_downloads":[
 {
-"date":"2021-12-14",
+"date":"2021-12-22",
 "downloads_per_subdir":[
 {
 "subdir":"noarch",
@@ -1450,7 +1454,12 @@
 {
 "subdir":"noarch",
 "total":472
+}
+]
 },
+{
+"date":"2022-02-15",
+"downloads_per_subdir":[
 {
 "subdir":"osx-64",
 "total":1711

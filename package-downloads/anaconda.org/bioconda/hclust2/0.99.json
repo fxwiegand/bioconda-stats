@@ -1048,6 +1048,10 @@
 {
 "date":"2022-02-14",
 "total":4094
+},
+{
+"date":"2022-02-15",
+"total":4094
 }
 ],
 "downloads_per_subdir":[
@@ -1067,7 +1071,7 @@
 "package":"hclust2",
 "recent_downloads":[
 {
-"date":"2021-12-14",
+"date":"2021-12-15",
 "downloads_per_subdir":[
 {
 "subdir":"noarch",
@@ -1076,10 +1080,6 @@
 {
 "subdir":"linux-64",
 "total":1238
-},
-{
-"subdir":"osx-64",
-"total":2163
 }
 ]
 },
@@ -1317,6 +1317,15 @@
 {
 "subdir":"noarch",
 "total":632
+}
+]
+},
+{
+"date":"2022-01-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2163
 }
 ]
 },

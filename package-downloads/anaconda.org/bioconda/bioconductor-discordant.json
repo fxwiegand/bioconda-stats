@@ -1056,6 +1056,10 @@
 {
 "date":"2022-02-14",
 "total":11205
+},
+{
+"date":"2022-02-15",
+"total":11207
 }
 ],
 "downloads_per_version":[
@@ -1076,7 +1080,7 @@
 "version":"1.12.0"
 },
 {
-"total":1787,
+"total":1789,
 "version":"1.10.0"
 },
 {
@@ -1095,7 +1099,7 @@
 "package":"bioconductor-discordant",
 "recent_downloads":[
 {
-"date":"2021-12-14",
+"date":"2021-12-15",
 "downloads_per_version":[
 {
 "total":112,
@@ -1116,10 +1120,6 @@
 {
 "total":1673,
 "version":"1.10.0"
-},
-{
-"total":1796,
-"version":"1.8.0"
 },
 {
 "total":2003,
@@ -1267,6 +1267,10 @@
 {
 "total":1682,
 "version":"1.10.0"
+},
+{
+"total":1796,
+"version":"1.8.0"
 }
 ]
 },
@@ -2828,6 +2832,15 @@
 {
 "total":2288,
 "version":"1.6.0"
+}
+]
+},
+{
+"date":"2022-02-15",
+"downloads_per_version":[
+{
+"total":1789,
+"version":"1.10.0"
 }
 ]
 }

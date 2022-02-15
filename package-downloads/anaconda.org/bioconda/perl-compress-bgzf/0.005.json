@@ -1028,6 +1028,10 @@
 {
 "date":"2022-02-14",
 "total":3016
+},
+{
+"date":"2022-02-15",
+"total":3016
 }
 ],
 "downloads_per_subdir":[
@@ -1047,12 +1051,8 @@
 "package":"perl-compress-bgzf",
 "recent_downloads":[
 {
-"date":"2021-12-14",
+"date":"2021-12-22",
 "downloads_per_subdir":[
-{
-"subdir":"linux-64",
-"total":742
-},
 {
 "subdir":"osx-64",
 "total":2129
@@ -1089,6 +1089,10 @@
 {
 "date":"2021-12-27",
 "downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":742
+},
 {
 "subdir":"osx-64",
 "total":2141

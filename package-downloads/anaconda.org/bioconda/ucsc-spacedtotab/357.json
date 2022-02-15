@@ -1028,6 +1028,10 @@
 {
 "date":"2022-02-14",
 "total":3202
+},
+{
+"date":"2022-02-15",
+"total":3202
 }
 ],
 "downloads_per_subdir":[
@@ -1043,12 +1047,8 @@
 "package":"ucsc-spacedtotab",
 "recent_downloads":[
 {
-"date":"2021-12-14",
+"date":"2021-12-22",
 "downloads_per_subdir":[
-{
-"subdir":"linux-64",
-"total":899
-},
 {
 "subdir":"osx-64",
 "total":2195
@@ -1229,6 +1229,10 @@
 {
 "date":"2022-01-17",
 "downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":899
+},
 {
 "subdir":"osx-64",
 "total":2245
