@@ -7,7 +7,7 @@
 },
 {
 "basename":"variant_tools-3.1.1-py37h205f93e_0.tar.bz2",
-"total":1564
+"total":1568
 }
 ],
 "downloads_per_date":[
@@ -1038,6 +1038,10 @@
 {
 "date":"2022-02-15",
 "total":1591
+},
+{
+"date":"2022-02-17",
+"total":1595
 }
 ],
 "package":"variant_tools",
@@ -1412,11 +1416,15 @@
 ]
 },
 {
-"date":"2022-02-15",
+"date":"2022-02-17",
 "downloads_per_basename":[
 {
 "basename":"variant_tools-3.1.1-py36h205f93e_0.tar.bz2",
 "total":27
+},
+{
+"basename":"variant_tools-3.1.1-py37h205f93e_0.tar.bz2",
+"total":1568
 }
 ]
 }

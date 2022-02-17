@@ -1028,6 +1028,10 @@
 {
 "date":"2022-02-15",
 "total":2952
+},
+{
+"date":"2022-02-17",
+"total":2956
 }
 ],
 "downloads_per_subdir":[
@@ -1037,7 +1041,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2281
+"total":2285
 }
 ],
 "package":"bioconductor-rgadem",
@@ -1441,6 +1445,15 @@
 {
 "subdir":"osx-64",
 "total":2281
+}
+]
+},
+{
+"date":"2022-02-17",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2285
 }
 ]
 }

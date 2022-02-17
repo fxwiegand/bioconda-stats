@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-farms-1.44.0-r41hdfd78af_0.tar.bz2",
-"total":311
+"total":315
 }
 ],
 "downloads_per_date":[
@@ -890,6 +890,10 @@
 {
 "date":"2022-02-15",
 "total":311
+},
+{
+"date":"2022-02-17",
+"total":315
 }
 ],
 "package":"bioconductor-farms",
@@ -1278,6 +1282,15 @@
 {
 "basename":"bioconductor-farms-1.44.0-r41hdfd78af_0.tar.bz2",
 "total":311
+}
+]
+},
+{
+"date":"2022-02-17",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-farms-1.44.0-r41hdfd78af_0.tar.bz2",
+"total":315
 }
 ]
 }

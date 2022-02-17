@@ -7,7 +7,7 @@
 },
 {
 "basename":"proda-1.0-h589c0e0_2.tar.bz2",
-"total":598
+"total":602
 },
 {
 "basename":"proda-1.0-h0a44026_0.tar.bz2",
@@ -1046,6 +1046,10 @@
 {
 "date":"2022-02-15",
 "total":2026
+},
+{
+"date":"2022-02-17",
+"total":2030
 }
 ],
 "package":"proda",
@@ -1428,8 +1432,12 @@
 ]
 },
 {
-"date":"2022-02-15",
+"date":"2022-02-17",
 "downloads_per_basename":[
+{
+"basename":"proda-1.0-h589c0e0_2.tar.bz2",
+"total":602
+},
 {
 "basename":"proda-1.0-h0a44026_0.tar.bz2",
 "total":986

@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-metaseq-1.30.0-r40h832b226_1.tar.bz2",
-"total":611
+"total":615
 }
 ],
 "downloads_per_date":[
@@ -1042,6 +1042,10 @@
 {
 "date":"2022-02-15",
 "total":911
+},
+{
+"date":"2022-02-17",
+"total":915
 }
 ],
 "package":"bioconductor-metaseq",
@@ -1416,11 +1420,15 @@
 ]
 },
 {
-"date":"2022-02-15",
+"date":"2022-02-17",
 "downloads_per_basename":[
 {
 "basename":"bioconductor-metaseq-1.30.0-r40h64ad5ed_0.tar.bz2",
 "total":300
+},
+{
+"basename":"bioconductor-metaseq-1.30.0-r40h832b226_1.tar.bz2",
+"total":615
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"vcf2db-2017.02.24-py27_1.tar.bz2",
-"total":2048
+"total":2052
 }
 ],
 "downloads_per_date":[
@@ -1038,6 +1038,10 @@
 {
 "date":"2022-02-15",
 "total":2240
+},
+{
+"date":"2022-02-17",
+"total":2244
 }
 ],
 "package":"vcf2db",
@@ -1412,11 +1416,15 @@
 ]
 },
 {
-"date":"2022-02-15",
+"date":"2022-02-17",
 "downloads_per_basename":[
 {
 "basename":"vcf2db-2017.02.24-py27_0.tar.bz2",
 "total":192
+},
+{
+"basename":"vcf2db-2017.02.24-py27_1.tar.bz2",
+"total":2052
 }
 ]
 }

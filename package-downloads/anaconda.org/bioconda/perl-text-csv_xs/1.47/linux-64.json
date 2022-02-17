@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-text-csv_xs-1.47-pl5262h779adbc_0.tar.bz2",
-"total":14
+"total":16
 },
 {
 "basename":"perl-text-csv_xs-1.47-pl5321h779adbc_1.tar.bz2",
@@ -94,6 +94,10 @@
 {
 "date":"2022-02-15",
 "total":43
+},
+{
+"date":"2022-02-17",
+"total":45
 }
 ],
 "package":"perl-text-csv_xs",
@@ -220,6 +224,15 @@
 {
 "basename":"perl-text-csv_xs-1.47-pl5321h779adbc_1.tar.bz2",
 "total":29
+}
+]
+},
+{
+"date":"2022-02-17",
+"downloads_per_basename":[
+{
+"basename":"perl-text-csv_xs-1.47-pl5262h779adbc_0.tar.bz2",
+"total":16
 }
 ]
 }

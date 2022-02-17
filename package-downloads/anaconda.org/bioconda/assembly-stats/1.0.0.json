@@ -1028,6 +1028,10 @@
 {
 "date":"2022-02-15",
 "total":2995
+},
+{
+"date":"2022-02-17",
+"total":2999
 }
 ],
 "downloads_per_subdir":[
@@ -1037,7 +1041,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2246
+"total":2250
 }
 ],
 "package":"assembly-stats",
@@ -1446,6 +1450,15 @@
 {
 "subdir":"osx-64",
 "total":2246
+}
+]
+},
+{
+"date":"2022-02-17",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2250
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"mmseqs2-3.be8f6-he4cf2ce_1.tar.bz2",
-"total":2008
+"total":2012
 }
 ],
 "downloads_per_date":[
@@ -1042,6 +1042,10 @@
 {
 "date":"2022-02-15",
 "total":2300
+},
+{
+"date":"2022-02-17",
+"total":2304
 }
 ],
 "package":"mmseqs2",
@@ -1416,11 +1420,15 @@
 ]
 },
 {
-"date":"2022-02-15",
+"date":"2022-02-17",
 "downloads_per_basename":[
 {
 "basename":"mmseqs2-3.be8f6-0.tar.bz2",
 "total":292
+},
+{
+"basename":"mmseqs2-3.be8f6-he4cf2ce_1.tar.bz2",
+"total":2012
 }
 ]
 }

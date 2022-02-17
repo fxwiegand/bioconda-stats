@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-adegenet-2.1.1-r351h96ca727_1.tar.bz2",
-"total":523
+"total":525
 },
 {
 "basename":"r-adegenet-2.1.1-r351hc070d10_0.tar.bz2",
@@ -350,6 +350,10 @@
 {
 "date":"2022-02-15",
 "total":1448
+},
+{
+"date":"2022-02-17",
+"total":1450
 }
 ],
 "package":"r-adegenet",
@@ -455,6 +459,15 @@
 {
 "basename":"r-adegenet-2.1.1-r351hc070d10_0.tar.bz2",
 "total":603
+}
+]
+},
+{
+"date":"2022-02-17",
+"downloads_per_basename":[
+{
+"basename":"r-adegenet-2.1.1-r351h96ca727_1.tar.bz2",
+"total":525
 }
 ]
 }

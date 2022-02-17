@@ -11,7 +11,7 @@
 },
 {
 "basename":"assembly-stats-1.0.1-hb280591_4.tar.bz2",
-"total":624
+"total":629
 },
 {
 "basename":"assembly-stats-1.0.1-h470a237_1.tar.bz2",
@@ -1054,6 +1054,10 @@
 {
 "date":"2022-02-15",
 "total":2487
+},
+{
+"date":"2022-02-17",
+"total":2492
 }
 ],
 "package":"assembly-stats",
@@ -1480,6 +1484,15 @@
 {
 "basename":"assembly-stats-1.0.1-h470a237_1.tar.bz2",
 "total":1339
+}
+]
+},
+{
+"date":"2022-02-17",
+"downloads_per_basename":[
+{
+"basename":"assembly-stats-1.0.1-hb280591_4.tar.bz2",
+"total":629
 }
 ]
 }

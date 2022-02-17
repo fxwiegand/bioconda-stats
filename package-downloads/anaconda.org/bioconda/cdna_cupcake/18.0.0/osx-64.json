@@ -7,7 +7,7 @@
 },
 {
 "basename":"cdna_cupcake-18.0.0-py38h41f2e2d_0.tar.bz2",
-"total":788
+"total":792
 }
 ],
 "downloads_per_date":[
@@ -1038,6 +1038,10 @@
 {
 "date":"2022-02-15",
 "total":805
+},
+{
+"date":"2022-02-17",
+"total":809
 }
 ],
 "package":"cdna_cupcake",
@@ -1412,11 +1416,15 @@
 ]
 },
 {
-"date":"2022-02-15",
+"date":"2022-02-17",
 "downloads_per_basename":[
 {
 "basename":"cdna_cupcake-18.0.0-py37h1d7ca0a_0.tar.bz2",
 "total":17
+},
+{
+"basename":"cdna_cupcake-18.0.0-py38h41f2e2d_0.tar.bz2",
+"total":792
 }
 ]
 }

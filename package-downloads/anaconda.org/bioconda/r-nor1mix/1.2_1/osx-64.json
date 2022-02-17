@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-nor1mix-1.2_1-r3.3.2_0.tar.bz2",
-"total":2027
+"total":2031
 }
 ],
 "downloads_per_date":[
@@ -1042,6 +1042,10 @@
 {
 "date":"2022-02-15",
 "total":2560
+},
+{
+"date":"2022-02-17",
+"total":2564
 }
 ],
 "package":"r-nor1mix",
@@ -1424,11 +1428,15 @@
 ]
 },
 {
-"date":"2022-02-15",
+"date":"2022-02-17",
 "downloads_per_basename":[
 {
 "basename":"r-nor1mix-1.2_1-r3.2.2_0.tar.bz2",
 "total":458
+},
+{
+"basename":"r-nor1mix-1.2_1-r3.3.2_0.tar.bz2",
+"total":2031
 }
 ]
 }

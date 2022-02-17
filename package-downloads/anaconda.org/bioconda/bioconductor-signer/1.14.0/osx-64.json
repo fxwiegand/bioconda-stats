@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-signer-1.14.0-r40h64ad5ed_0.tar.bz2",
-"total":1202
+"total":1206
 }
 ],
 "downloads_per_date":[
@@ -1034,6 +1034,10 @@
 {
 "date":"2022-02-15",
 "total":1202
+},
+{
+"date":"2022-02-17",
+"total":1206
 }
 ],
 "package":"bioconductor-signer",
@@ -1404,6 +1408,15 @@
 {
 "basename":"bioconductor-signer-1.14.0-r40h64ad5ed_0.tar.bz2",
 "total":1202
+}
+]
+},
+{
+"date":"2022-02-17",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-signer-1.14.0-r40h64ad5ed_0.tar.bz2",
+"total":1206
 }
 ]
 }

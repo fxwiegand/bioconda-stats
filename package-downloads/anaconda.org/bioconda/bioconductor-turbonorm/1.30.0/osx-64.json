@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-turbonorm-1.30.0-r351h1de35cc_1.tar.bz2",
-"total":1967
+"total":1971
 }
 ],
 "downloads_per_date":[
@@ -1038,6 +1038,10 @@
 {
 "date":"2022-02-15",
 "total":2186
+},
+{
+"date":"2022-02-17",
+"total":2190
 }
 ],
 "package":"bioconductor-turbonorm",
@@ -1412,11 +1416,15 @@
 ]
 },
 {
-"date":"2022-02-15",
+"date":"2022-02-17",
 "downloads_per_basename":[
 {
 "basename":"bioconductor-turbonorm-1.30.0-r351h1de35cc_0.tar.bz2",
 "total":219
+},
+{
+"basename":"bioconductor-turbonorm-1.30.0-r351h1de35cc_1.tar.bz2",
+"total":1971
 }
 ]
 }

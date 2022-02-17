@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-bignum-0.51-pl5321hdfd78af_1.tar.bz2",
-"total":60
+"total":64
 }
 ],
 "downloads_per_date":[
@@ -106,6 +106,10 @@
 {
 "date":"2022-02-15",
 "total":60
+},
+{
+"date":"2022-02-17",
+"total":64
 }
 ],
 "package":"perl-bignum",
@@ -287,6 +291,15 @@
 {
 "basename":"perl-bignum-0.51-pl5321hdfd78af_1.tar.bz2",
 "total":60
+}
+]
+},
+{
+"date":"2022-02-17",
+"downloads_per_basename":[
+{
+"basename":"perl-bignum-0.51-pl5321hdfd78af_1.tar.bz2",
+"total":64
 }
 ]
 }

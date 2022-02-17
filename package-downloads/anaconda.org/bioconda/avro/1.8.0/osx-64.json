@@ -11,7 +11,7 @@
 },
 {
 "basename":"avro-1.8.0-py35_0.tar.bz2",
-"total":2303
+"total":2307
 }
 ],
 "downloads_per_date":[
@@ -1042,6 +1042,10 @@
 {
 "date":"2022-02-15",
 "total":2943
+},
+{
+"date":"2022-02-17",
+"total":2947
 }
 ],
 "package":"avro",
@@ -1433,11 +1437,15 @@
 ]
 },
 {
-"date":"2022-02-15",
+"date":"2022-02-17",
 "downloads_per_basename":[
 {
 "basename":"avro-1.8.0-py27_0.tar.bz2",
 "total":542
+},
+{
+"basename":"avro-1.8.0-py35_0.tar.bz2",
+"total":2307
 }
 ]
 }

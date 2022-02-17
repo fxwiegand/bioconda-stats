@@ -15,7 +15,7 @@
 },
 {
 "basename":"urllib3-1.12-py36_0.tar.bz2",
-"total":6038
+"total":6044
 }
 ],
 "downloads_per_date":[
@@ -1066,12 +1066,16 @@
 {
 "date":"2022-02-15",
 "total":10344
+},
+{
+"date":"2022-02-17",
+"total":10350
 }
 ],
 "package":"urllib3",
 "recent_downloads":[
 {
-"date":"2021-12-15",
+"date":"2021-12-18",
 "downloads_per_basename":[
 {
 "basename":"urllib3-1.12-py36_0.tar.bz2",
@@ -1485,7 +1489,7 @@
 ]
 },
 {
-"date":"2022-02-15",
+"date":"2022-02-17",
 "downloads_per_basename":[
 {
 "basename":"urllib3-1.12-py34_0.tar.bz2",
@@ -1498,6 +1502,10 @@
 {
 "basename":"urllib3-1.12-py35_0.tar.bz2",
 "total":1976
+},
+{
+"basename":"urllib3-1.12-py36_0.tar.bz2",
+"total":6044
 }
 ]
 }

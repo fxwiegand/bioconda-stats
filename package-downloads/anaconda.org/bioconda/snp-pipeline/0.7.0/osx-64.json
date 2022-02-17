@@ -15,7 +15,7 @@
 },
 {
 "basename":"snp-pipeline-0.7.0-py36_0.tar.bz2",
-"total":2001
+"total":2005
 }
 ],
 "downloads_per_date":[
@@ -1046,6 +1046,10 @@
 {
 "date":"2022-02-15",
 "total":2425
+},
+{
+"date":"2022-02-17",
+"total":2429
 }
 ],
 "package":"snp-pipeline",
@@ -1436,11 +1440,15 @@
 ]
 },
 {
-"date":"2022-02-15",
+"date":"2022-02-17",
 "downloads_per_basename":[
 {
 "basename":"snp-pipeline-0.7.0-py35_0.tar.bz2",
 "total":62
+},
+{
+"basename":"snp-pipeline-0.7.0-py36_0.tar.bz2",
+"total":2005
 }
 ]
 }
