@@ -400,6 +400,10 @@
 {
 "date":"2022-02-17",
 "total":201
+},
+{
+"date":"2022-02-20",
+"total":208
 }
 ],
 "downloads_per_subdir":[
@@ -409,7 +413,7 @@
 },
 {
 "subdir":"osx-64",
-"total":174
+"total":181
 }
 ],
 "package":"bioconductor-lea",
@@ -818,6 +822,15 @@
 {
 "subdir":"osx-64",
 "total":174
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":181
 }
 ]
 }

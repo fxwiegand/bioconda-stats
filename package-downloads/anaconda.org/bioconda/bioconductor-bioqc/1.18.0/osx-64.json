@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-bioqc-1.18.0-r40h832b226_1.tar.bz2",
-"total":603
+"total":610
 }
 ],
 "downloads_per_date":[
@@ -1046,6 +1046,10 @@
 {
 "date":"2022-02-17",
 "total":904
+},
+{
+"date":"2022-02-20",
+"total":911
 }
 ],
 "package":"bioconductor-bioqc",
@@ -1438,6 +1442,15 @@
 {
 "basename":"bioconductor-bioqc-1.18.0-r40h832b226_1.tar.bz2",
 "total":603
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bioqc-1.18.0-r40h832b226_1.tar.bz2",
+"total":610
 }
 ]
 }

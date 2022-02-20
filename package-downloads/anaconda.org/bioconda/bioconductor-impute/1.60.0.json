@@ -1044,6 +1044,10 @@
 {
 "date":"2022-02-17",
 "total":3186
+},
+{
+"date":"2022-02-20",
+"total":3193
 }
 ],
 "downloads_per_subdir":[
@@ -1053,7 +1057,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1817
+"total":1824
 }
 ],
 "package":"bioconductor-impute",
@@ -1611,6 +1615,15 @@
 {
 "subdir":"osx-64",
 "total":1817
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1824
 }
 ]
 }

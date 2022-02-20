@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-qacagplift-332-0.tar.bz2",
-"total":4488
+"total":4502
 }
 ],
 "downloads_per_date":[
@@ -1042,6 +1042,10 @@
 {
 "date":"2022-02-17",
 "total":4488
+},
+{
+"date":"2022-02-20",
+"total":4502
 }
 ],
 "package":"ucsc-qacagplift",
@@ -1421,6 +1425,15 @@
 {
 "basename":"ucsc-qacagplift-332-0.tar.bz2",
 "total":4488
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
+"basename":"ucsc-qacagplift-332-0.tar.bz2",
+"total":4502
 }
 ]
 }

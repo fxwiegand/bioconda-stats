@@ -11,7 +11,7 @@
 },
 {
 "basename":"vardict-2018.10.18-pl526r351_0.tar.bz2",
-"total":2064
+"total":2071
 }
 ],
 "downloads_per_date":[
@@ -1050,6 +1050,10 @@
 {
 "date":"2022-02-17",
 "total":2315
+},
+{
+"date":"2022-02-20",
+"total":2322
 }
 ],
 "package":"vardict",
@@ -1427,6 +1431,15 @@
 "date":"2022-02-17",
 "downloads_per_basename":[
 {
+"basename":"vardict-2018.10.18-pl526r351_0.tar.bz2",
+"total":2064
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
 "basename":"vardict-2018.10.18-pl526_1.tar.bz2",
 "total":56
 },
@@ -1436,7 +1449,7 @@
 },
 {
 "basename":"vardict-2018.10.18-pl526r351_0.tar.bz2",
-"total":2064
+"total":2071
 }
 ]
 }

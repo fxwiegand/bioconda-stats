@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-genomationdata-1.16.0-r36_1.tar.bz2",
-"total":363
+"total":370
 }
 ],
 "downloads_per_date":[
@@ -902,6 +902,10 @@
 {
 "date":"2022-02-17",
 "total":489
+},
+{
+"date":"2022-02-20",
+"total":496
 }
 ],
 "package":"bioconductor-genomationdata",
@@ -1327,6 +1331,15 @@
 {
 "basename":"bioconductor-genomationdata-1.16.0-r36_1.tar.bz2",
 "total":363
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-genomationdata-1.16.0-r36_1.tar.bz2",
+"total":370
 }
 ]
 }

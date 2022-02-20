@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"atac-2008-py27pl5262h0fb69a6_3.tar.bz2",
-"total":74
+"total":75
 },
 {
 "basename":"atac-2008-py27pl526h9a8dbdc_2.tar.bz2",
@@ -542,6 +542,10 @@
 {
 "date":"2022-02-17",
 "total":1486
+},
+{
+"date":"2022-02-20",
+"total":1487
 }
 ],
 "package":"atac",
@@ -742,6 +746,15 @@
 {
 "basename":"atac-2008-py27pl526h9a8dbdc_2.tar.bz2",
 "total":96
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
+"basename":"atac-2008-py27pl5262h0fb69a6_3.tar.bz2",
+"total":75
 }
 ]
 }

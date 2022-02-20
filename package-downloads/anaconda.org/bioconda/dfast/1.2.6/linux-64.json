@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"dfast-1.2.6-py38h8b12597_0.tar.bz2",
-"total":122
+"total":123
 },
 {
 "basename":"dfast-1.2.6-h8b12597_1.tar.bz2",
@@ -270,6 +270,10 @@
 {
 "date":"2022-02-17",
 "total":432
+},
+{
+"date":"2022-02-20",
+"total":433
 }
 ],
 "package":"dfast",
@@ -332,6 +336,15 @@
 {
 "basename":"dfast-1.2.6-h8b12597_1.tar.bz2",
 "total":310
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
+"basename":"dfast-1.2.6-py38h8b12597_0.tar.bz2",
+"total":123
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ultraplex-1.2.5-py37h73a75cf_0.tar.bz2",
-"total":14
+"total":15
 },
 {
 "basename":"ultraplex-1.2.5-py38h4a8c8d9_0.tar.bz2",
@@ -106,6 +106,10 @@
 {
 "date":"2022-02-17",
 "total":49
+},
+{
+"date":"2022-02-20",
+"total":50
 }
 ],
 "package":"ultraplex",
@@ -274,6 +278,15 @@
 {
 "basename":"ultraplex-1.2.5-py39h38f01e4_0.tar.bz2",
 "total":19
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
+"basename":"ultraplex-1.2.5-py37h73a75cf_0.tar.bz2",
+"total":15
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"dsrc-2015.06.04-hc90279e_3.tar.bz2",
-"total":788
+"total":794
 },
 {
 "basename":"dsrc-2015.06.04-he70e187_1.tar.bz2",
@@ -850,6 +850,10 @@
 {
 "date":"2022-02-17",
 "total":2440
+},
+{
+"date":"2022-02-20",
+"total":2446
 }
 ],
 "package":"dsrc",
@@ -1186,6 +1190,15 @@
 {
 "basename":"dsrc-2015.06.04-hc90279e_3.tar.bz2",
 "total":788
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
+"basename":"dsrc-2015.06.04-hc90279e_3.tar.bz2",
+"total":794
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-signer-1.6.1-r351hfc679d8_0.tar.bz2",
-"total":2226
+"total":2233
 }
 ],
 "downloads_per_date":[
@@ -1042,6 +1042,10 @@
 {
 "date":"2022-02-17",
 "total":2279
+},
+{
+"date":"2022-02-20",
+"total":2286
 }
 ],
 "package":"bioconductor-signer",
@@ -1442,6 +1446,15 @@
 {
 "basename":"bioconductor-signer-1.6.1-r351hfc679d8_0.tar.bz2",
 "total":2226
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-signer-1.6.1-r351hfc679d8_0.tar.bz2",
+"total":2233
 }
 ]
 }

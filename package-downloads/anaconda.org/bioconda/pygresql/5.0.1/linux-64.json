@@ -23,7 +23,7 @@
 },
 {
 "basename":"pygresql-5.0.1-py36_1.tar.bz2",
-"total":869
+"total":871
 },
 {
 "basename":"pygresql-5.0.1-py35_0.tar.bz2",
@@ -482,6 +482,10 @@
 {
 "date":"2022-02-17",
 "total":4146
+},
+{
+"date":"2022-02-20",
+"total":4148
 }
 ],
 "package":"pygresql",
@@ -789,6 +793,15 @@
 {
 "basename":"pygresql-5.0.1-py35_0.tar.bz2",
 "total":1507
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
+"basename":"pygresql-5.0.1-py36_1.tar.bz2",
+"total":871
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-hggcpercent-357-1.tar.bz2",
-"total":1065
+"total":1066
 }
 ],
 "downloads_per_date":[
@@ -670,6 +670,10 @@
 {
 "date":"2022-02-17",
 "total":1664
+},
+{
+"date":"2022-02-20",
+"total":1665
 }
 ],
 "package":"ucsc-hggcpercent",
@@ -831,6 +835,15 @@
 {
 "basename":"ucsc-hggcpercent-357-1.tar.bz2",
 "total":1065
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
+"basename":"ucsc-hggcpercent-357-1.tar.bz2",
+"total":1066
 }
 ]
 }

@@ -984,6 +984,10 @@
 {
 "date":"2022-02-17",
 "total":523
+},
+{
+"date":"2022-02-20",
+"total":530
 }
 ],
 "downloads_per_subdir":[
@@ -993,7 +997,7 @@
 },
 {
 "subdir":"osx-64",
-"total":473
+"total":480
 }
 ],
 "package":"bioconductor-qckitfastq",
@@ -1393,6 +1397,15 @@
 {
 "subdir":"osx-64",
 "total":473
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":480
 }
 ]
 }

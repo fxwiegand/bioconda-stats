@@ -1040,6 +1040,10 @@
 {
 "date":"2022-02-17",
 "total":2662
+},
+{
+"date":"2022-02-20",
+"total":2669
 }
 ],
 "downloads_per_subdir":[
@@ -1049,7 +1053,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2235
+"total":2242
 }
 ],
 "package":"bioconductor-biosvd",
@@ -1445,6 +1449,15 @@
 {
 "subdir":"osx-64",
 "total":2235
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2242
 }
 ]
 }

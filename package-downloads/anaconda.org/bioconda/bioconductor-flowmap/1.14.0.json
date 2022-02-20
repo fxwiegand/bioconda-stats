@@ -1032,6 +1032,10 @@
 {
 "date":"2022-02-17",
 "total":2868
+},
+{
+"date":"2022-02-20",
+"total":2875
 }
 ],
 "downloads_per_subdir":[
@@ -1041,7 +1045,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2226
+"total":2233
 }
 ],
 "package":"bioconductor-flowmap",
@@ -1445,6 +1449,15 @@
 {
 "subdir":"osx-64",
 "total":2226
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2233
 }
 ]
 }

@@ -1032,6 +1032,10 @@
 {
 "date":"2022-02-17",
 "total":1297
+},
+{
+"date":"2022-02-20",
+"total":1304
 }
 ],
 "downloads_per_subdir":[
@@ -1041,7 +1045,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1206
+"total":1213
 }
 ],
 "package":"bioconductor-beaddatapackr",
@@ -1450,6 +1454,15 @@
 {
 "subdir":"osx-64",
 "total":1206
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1213
 }
 ]
 }

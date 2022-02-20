@@ -992,6 +992,10 @@
 {
 "date":"2022-02-17",
 "total":512
+},
+{
+"date":"2022-02-20",
+"total":519
 }
 ],
 "downloads_per_subdir":[
@@ -1001,7 +1005,7 @@
 },
 {
 "subdir":"osx-64",
-"total":469
+"total":476
 }
 ],
 "package":"bioconductor-nethet",
@@ -1401,6 +1405,15 @@
 {
 "subdir":"osx-64",
 "total":469
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":476
 }
 ]
 }

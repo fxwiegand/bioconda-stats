@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bbknn-1.3.6-py27h516909a_0.tar.bz2",
-"total":104
+"total":105
 },
 {
 "basename":"bbknn-1.3.6-py37h516909a_0.tar.bz2",
@@ -326,6 +326,10 @@
 {
 "date":"2022-02-17",
 "total":378
+},
+{
+"date":"2022-02-20",
+"total":379
 }
 ],
 "package":"bbknn",
@@ -401,6 +405,15 @@
 {
 "basename":"bbknn-1.3.6-py36h516909a_0.tar.bz2",
 "total":143
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
+"basename":"bbknn-1.3.6-py27h516909a_0.tar.bz2",
+"total":105
 }
 ]
 }

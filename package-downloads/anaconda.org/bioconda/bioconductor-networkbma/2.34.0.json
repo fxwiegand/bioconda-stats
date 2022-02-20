@@ -400,6 +400,10 @@
 {
 "date":"2022-02-17",
 "total":196
+},
+{
+"date":"2022-02-20",
+"total":203
 }
 ],
 "downloads_per_subdir":[
@@ -409,7 +413,7 @@
 },
 {
 "subdir":"osx-64",
-"total":172
+"total":179
 }
 ],
 "package":"bioconductor-networkbma",
@@ -822,6 +826,15 @@
 {
 "subdir":"osx-64",
 "total":172
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":179
 }
 ]
 }

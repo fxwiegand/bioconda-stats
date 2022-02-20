@@ -984,6 +984,10 @@
 {
 "date":"2022-02-17",
 "total":529
+},
+{
+"date":"2022-02-20",
+"total":536
 }
 ],
 "downloads_per_subdir":[
@@ -993,7 +997,7 @@
 },
 {
 "subdir":"osx-64",
-"total":472
+"total":479
 }
 ],
 "package":"bioconductor-dnashaper",
@@ -1401,6 +1405,15 @@
 {
 "subdir":"osx-64",
 "total":472
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":479
 }
 ]
 }

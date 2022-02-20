@@ -992,6 +992,10 @@
 {
 "date":"2022-02-17",
 "total":511
+},
+{
+"date":"2022-02-20",
+"total":518
 }
 ],
 "downloads_per_subdir":[
@@ -1001,7 +1005,7 @@
 },
 {
 "subdir":"osx-64",
-"total":465
+"total":472
 }
 ],
 "package":"bioconductor-bgx",
@@ -1401,6 +1405,15 @@
 {
 "subdir":"osx-64",
 "total":465
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":472
 }
 ]
 }

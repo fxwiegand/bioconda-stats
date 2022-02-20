@@ -368,6 +368,10 @@
 {
 "date":"2022-02-17",
 "total":184
+},
+{
+"date":"2022-02-20",
+"total":191
 }
 ],
 "downloads_per_subdir":[
@@ -377,7 +381,7 @@
 },
 {
 "subdir":"osx-64",
-"total":158
+"total":165
 }
 ],
 "package":"bioconductor-vanillaice",
@@ -781,6 +785,15 @@
 {
 "subdir":"osx-64",
 "total":158
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":165
 }
 ]
 }

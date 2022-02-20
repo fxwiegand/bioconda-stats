@@ -7,7 +7,7 @@
 },
 {
 "basename":"halla-0.8.17-py36_0.tar.bz2",
-"total":153
+"total":154
 },
 {
 "basename":"halla-0.8.17-py37_0.tar.bz2",
@@ -362,6 +362,10 @@
 {
 "date":"2022-02-17",
 "total":483
+},
+{
+"date":"2022-02-20",
+"total":484
 }
 ],
 "package":"halla",
@@ -454,6 +458,15 @@
 {
 "basename":"halla-0.8.17-py37_0.tar.bz2",
 "total":183
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
+"basename":"halla-0.8.17-py36_0.tar.bz2",
+"total":154
 }
 ]
 }

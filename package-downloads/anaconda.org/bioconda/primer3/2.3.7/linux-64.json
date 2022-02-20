@@ -7,7 +7,7 @@
 },
 {
 "basename":"primer3-2.3.7-0.tar.bz2",
-"total":1118
+"total":1119
 }
 ],
 "downloads_per_date":[
@@ -298,6 +298,10 @@
 {
 "date":"2022-02-17",
 "total":1897
+},
+{
+"date":"2022-02-20",
+"total":1898
 }
 ],
 "package":"primer3",
@@ -400,6 +404,15 @@
 {
 "basename":"primer3-2.3.7-pl526hfc679d8_1.tar.bz2",
 "total":779
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
+"basename":"primer3-2.3.7-0.tar.bz2",
+"total":1119
 }
 ]
 }

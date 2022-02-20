@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-bsgenome-1.42.0-r3.3.2_0.tar.bz2",
-"total":3071
+"total":3073
 }
 ],
 "downloads_per_date":[
@@ -538,6 +538,10 @@
 {
 "date":"2022-02-17",
 "total":6730
+},
+{
+"date":"2022-02-20",
+"total":6732
 }
 ],
 "package":"bioconductor-bsgenome",
@@ -701,6 +705,15 @@
 {
 "basename":"bioconductor-bsgenome-1.42.0-r3.3.1_0.tar.bz2",
 "total":2680
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bsgenome-1.42.0-r3.3.2_0.tar.bz2",
+"total":3073
 }
 ]
 }

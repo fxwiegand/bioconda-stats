@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-mafdb.1kgenomes.phase3.grch38-3.7.0-r36_2.tar.bz2",
-"total":358
+"total":365
 }
 ],
 "downloads_per_date":[
@@ -886,6 +886,10 @@
 {
 "date":"2022-02-17",
 "total":501
+},
+{
+"date":"2022-02-20",
+"total":508
 }
 ],
 "package":"bioconductor-mafdb.1kgenomes.phase3.grch38",
@@ -1312,6 +1316,15 @@
 {
 "basename":"bioconductor-mafdb.1kgenomes.phase3.grch38-3.7.0-r36_2.tar.bz2",
 "total":358
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mafdb.1kgenomes.phase3.grch38-3.7.0-r36_2.tar.bz2",
+"total":365
 }
 ]
 }

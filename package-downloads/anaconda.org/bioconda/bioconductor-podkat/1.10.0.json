@@ -1040,6 +1040,10 @@
 {
 "date":"2022-02-17",
 "total":2837
+},
+{
+"date":"2022-02-20",
+"total":2844
 }
 ],
 "downloads_per_subdir":[
@@ -1049,7 +1053,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2221
+"total":2228
 }
 ],
 "package":"bioconductor-podkat",
@@ -1450,6 +1454,15 @@
 {
 "subdir":"osx-64",
 "total":2221
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2228
 }
 ]
 }

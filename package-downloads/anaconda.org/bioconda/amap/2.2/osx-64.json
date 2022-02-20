@@ -7,7 +7,7 @@
 },
 {
 "basename":"amap-2.2-hb280591_2.tar.bz2",
-"total":608
+"total":616
 },
 {
 "basename":"amap-2.2-h04f5b5a_0.tar.bz2",
@@ -1046,6 +1046,10 @@
 {
 "date":"2022-02-17",
 "total":2060
+},
+{
+"date":"2022-02-20",
+"total":2068
 }
 ],
 "package":"amap",
@@ -1463,6 +1467,15 @@
 {
 "basename":"amap-2.2-h04f5b5a_0.tar.bz2",
 "total":951
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
+"basename":"amap-2.2-hb280591_2.tar.bz2",
+"total":616
 }
 ]
 }

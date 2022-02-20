@@ -11,7 +11,7 @@
 },
 {
 "basename":"ucsc-genepredhisto-357-h5eb252a_2.tar.bz2",
-"total":1972
+"total":1979
 }
 ],
 "downloads_per_date":[
@@ -1046,6 +1046,10 @@
 {
 "date":"2022-02-17",
 "total":2317
+},
+{
+"date":"2022-02-20",
+"total":2324
 }
 ],
 "package":"ucsc-genepredhisto",
@@ -1423,6 +1427,15 @@
 "date":"2022-02-17",
 "downloads_per_basename":[
 {
+"basename":"ucsc-genepredhisto-357-h5eb252a_2.tar.bz2",
+"total":1972
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
 "basename":"ucsc-genepredhisto-357-1.tar.bz2",
 "total":40
 },
@@ -1432,7 +1445,7 @@
 },
 {
 "basename":"ucsc-genepredhisto-357-h5eb252a_2.tar.bz2",
-"total":1972
+"total":1979
 }
 ]
 }

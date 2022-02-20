@@ -1048,6 +1048,10 @@
 {
 "date":"2022-02-17",
 "total":2369
+},
+{
+"date":"2022-02-20",
+"total":2376
 }
 ],
 "downloads_per_subdir":[
@@ -1057,7 +1061,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2175
+"total":2182
 }
 ],
 "package":"bioconductor-dexus",
@@ -1470,6 +1474,15 @@
 {
 "subdir":"osx-64",
 "total":2175
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2182
 }
 ]
 }

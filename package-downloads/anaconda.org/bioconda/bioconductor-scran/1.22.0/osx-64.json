@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-scran-1.22.0-r41h832b226_0.tar.bz2",
-"total":227
+"total":235
 }
 ],
 "downloads_per_date":[
@@ -406,6 +406,10 @@
 {
 "date":"2022-02-17",
 "total":227
+},
+{
+"date":"2022-02-20",
+"total":235
 }
 ],
 "package":"bioconductor-scran",
@@ -848,6 +852,15 @@
 {
 "basename":"bioconductor-scran-1.22.0-r41h832b226_0.tar.bz2",
 "total":227
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-scran-1.22.0-r41h832b226_0.tar.bz2",
+"total":235
 }
 ]
 }

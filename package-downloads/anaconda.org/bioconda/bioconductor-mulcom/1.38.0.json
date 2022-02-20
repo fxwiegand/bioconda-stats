@@ -1048,6 +1048,10 @@
 {
 "date":"2022-02-17",
 "total":1288
+},
+{
+"date":"2022-02-20",
+"total":1295
 }
 ],
 "downloads_per_subdir":[
@@ -1057,7 +1061,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1208
+"total":1215
 }
 ],
 "package":"bioconductor-mulcom",
@@ -1467,6 +1471,15 @@
 {
 "subdir":"osx-64",
 "total":1208
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1215
 }
 ]
 }

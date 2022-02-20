@@ -1044,6 +1044,10 @@
 {
 "date":"2022-02-17",
 "total":1757
+},
+{
+"date":"2022-02-20",
+"total":1764
 }
 ],
 "downloads_per_subdir":[
@@ -1053,7 +1057,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1650
+"total":1657
 }
 ],
 "package":"bioconductor-chipcomp",
@@ -1462,6 +1466,15 @@
 {
 "subdir":"osx-64",
 "total":1650
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1657
 }
 ]
 }

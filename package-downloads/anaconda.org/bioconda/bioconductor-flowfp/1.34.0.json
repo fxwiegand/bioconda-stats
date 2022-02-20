@@ -1052,6 +1052,10 @@
 {
 "date":"2022-02-17",
 "total":2918
+},
+{
+"date":"2022-02-20",
+"total":2925
 }
 ],
 "downloads_per_subdir":[
@@ -1061,7 +1065,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2251
+"total":2258
 }
 ],
 "package":"bioconductor-flowfp",
@@ -1470,6 +1474,15 @@
 {
 "subdir":"osx-64",
 "total":2251
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2258
 }
 ]
 }

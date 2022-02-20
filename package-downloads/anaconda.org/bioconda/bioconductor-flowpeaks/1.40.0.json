@@ -408,6 +408,10 @@
 {
 "date":"2022-02-17",
 "total":233
+},
+{
+"date":"2022-02-20",
+"total":240
 }
 ],
 "downloads_per_subdir":[
@@ -417,7 +421,7 @@
 },
 {
 "subdir":"osx-64",
-"total":183
+"total":190
 }
 ],
 "package":"bioconductor-flowpeaks",
@@ -834,6 +838,15 @@
 {
 "subdir":"osx-64",
 "total":183
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":190
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-io-scalar-2.111-pl526_1.tar.bz2",
-"total":375
+"total":376
 },
 {
 "basename":"perl-io-scalar-2.111-pl5.22.0_0.tar.bz2",
@@ -314,6 +314,10 @@
 {
 "date":"2022-02-17",
 "total":841
+},
+{
+"date":"2022-02-20",
+"total":842
 }
 ],
 "package":"perl-io-scalar",
@@ -395,6 +399,15 @@
 {
 "basename":"perl-io-scalar-2.111-pl526_1.tar.bz2",
 "total":375
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
+"basename":"perl-io-scalar-2.111-pl526_1.tar.bz2",
+"total":376
 }
 ]
 }

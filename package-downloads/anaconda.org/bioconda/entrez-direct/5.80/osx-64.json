@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"entrez-direct-5.80-0.tar.bz2",
-"total":2399
+"total":2406
 }
 ],
 "downloads_per_date":[
@@ -1042,6 +1042,10 @@
 {
 "date":"2022-02-17",
 "total":2399
+},
+{
+"date":"2022-02-20",
+"total":2406
 }
 ],
 "package":"entrez-direct",
@@ -1430,6 +1434,15 @@
 {
 "basename":"entrez-direct-5.80-0.tar.bz2",
 "total":2399
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
+"basename":"entrez-direct-5.80-0.tar.bz2",
+"total":2406
 }
 ]
 }

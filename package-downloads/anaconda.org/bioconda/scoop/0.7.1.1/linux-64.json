@@ -23,7 +23,7 @@
 },
 {
 "basename":"scoop-0.7.1.1-py36_1.tar.bz2",
-"total":752
+"total":754
 }
 ],
 "downloads_per_date":[
@@ -290,6 +290,10 @@
 {
 "date":"2022-02-17",
 "total":3336
+},
+{
+"date":"2022-02-20",
+"total":3338
 }
 ],
 "package":"scoop",
@@ -408,6 +412,15 @@
 {
 "basename":"scoop-0.7.1.1-py27_1.tar.bz2",
 "total":570
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
+"basename":"scoop-0.7.1.1-py36_1.tar.bz2",
+"total":754
 }
 ]
 }

@@ -1036,6 +1036,10 @@
 {
 "date":"2022-02-17",
 "total":1273
+},
+{
+"date":"2022-02-20",
+"total":1280
 }
 ],
 "downloads_per_subdir":[
@@ -1045,7 +1049,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1205
+"total":1212
 }
 ],
 "package":"bioconductor-runibic",
@@ -1442,6 +1446,15 @@
 {
 "subdir":"osx-64",
 "total":1205
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1212
 }
 ]
 }

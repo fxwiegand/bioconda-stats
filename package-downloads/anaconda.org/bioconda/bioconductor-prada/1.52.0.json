@@ -1040,6 +1040,10 @@
 {
 "date":"2022-02-17",
 "total":3390
+},
+{
+"date":"2022-02-20",
+"total":3397
 }
 ],
 "downloads_per_subdir":[
@@ -1049,7 +1053,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2306
+"total":2313
 }
 ],
 "package":"bioconductor-prada",
@@ -1445,6 +1449,15 @@
 {
 "subdir":"osx-64",
 "total":2306
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2313
 }
 ]
 }

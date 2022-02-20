@@ -11,7 +11,7 @@
 },
 {
 "basename":"galaxy-lib-18.5.4-py36_0.tar.bz2",
-"total":2232
+"total":2239
 }
 ],
 "downloads_per_date":[
@@ -1046,6 +1046,10 @@
 {
 "date":"2022-02-17",
 "total":2317
+},
+{
+"date":"2022-02-20",
+"total":2324
 }
 ],
 "package":"galaxy-lib",
@@ -1423,6 +1427,15 @@
 "date":"2022-02-17",
 "downloads_per_basename":[
 {
+"basename":"galaxy-lib-18.5.4-py36_0.tar.bz2",
+"total":2232
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
 "basename":"galaxy-lib-18.5.4-py35_0.tar.bz2",
 "total":42
 },
@@ -1432,7 +1445,7 @@
 },
 {
 "basename":"galaxy-lib-18.5.4-py36_0.tar.bz2",
-"total":2232
+"total":2239
 }
 ]
 }

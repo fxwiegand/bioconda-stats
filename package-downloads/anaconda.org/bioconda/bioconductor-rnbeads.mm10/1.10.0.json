@@ -1036,6 +1036,10 @@
 {
 "date":"2022-02-17",
 "total":2534
+},
+{
+"date":"2022-02-20",
+"total":2541
 }
 ],
 "downloads_per_subdir":[
@@ -1045,7 +1049,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2215
+"total":2222
 }
 ],
 "package":"bioconductor-rnbeads.mm10",
@@ -1437,6 +1441,15 @@
 {
 "subdir":"osx-64",
 "total":2215
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2222
 }
 ]
 }

@@ -1040,6 +1040,10 @@
 {
 "date":"2022-02-17",
 "total":2916
+},
+{
+"date":"2022-02-20",
+"total":2923
 }
 ],
 "downloads_per_subdir":[
@@ -1049,7 +1053,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2231
+"total":2238
 }
 ],
 "package":"bioconductor-birte",
@@ -1449,6 +1453,15 @@
 {
 "subdir":"osx-64",
 "total":2231
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2238
 }
 ]
 }

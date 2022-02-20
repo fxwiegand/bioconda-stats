@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-datetime-locale-1.12-pl5321hb280591_4.tar.bz2",
-"total":21
+"total":28
 },
 {
 "basename":"perl-datetime-locale-1.12-pl5.22.0_0.tar.bz2",
@@ -1050,6 +1050,10 @@
 {
 "date":"2022-02-17",
 "total":2901
+},
+{
+"date":"2022-02-20",
+"total":2908
 }
 ],
 "package":"perl-datetime-locale",
@@ -1441,6 +1445,15 @@
 {
 "basename":"perl-datetime-locale-1.12-pl5321hb280591_4.tar.bz2",
 "total":21
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
+"basename":"perl-datetime-locale-1.12-pl5321hb280591_4.tar.bz2",
+"total":28
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"extract_fullseq-3.101-h527b516_4.tar.bz2",
-"total":681
+"total":688
 },
 {
 "basename":"extract_fullseq-3.101-3.tar.bz2",
@@ -1066,6 +1066,10 @@
 {
 "date":"2022-02-17",
 "total":3672
+},
+{
+"date":"2022-02-20",
+"total":3679
 }
 ],
 "package":"extract_fullseq",
@@ -1487,6 +1491,15 @@
 {
 "basename":"extract_fullseq-3.101-h527b516_4.tar.bz2",
 "total":681
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
+"basename":"extract_fullseq-3.101-h527b516_4.tar.bz2",
+"total":688
 }
 ]
 }

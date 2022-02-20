@@ -400,6 +400,10 @@
 {
 "date":"2022-02-17",
 "total":213
+},
+{
+"date":"2022-02-20",
+"total":220
 }
 ],
 "downloads_per_subdir":[
@@ -409,7 +413,7 @@
 },
 {
 "subdir":"osx-64",
-"total":184
+"total":191
 }
 ],
 "package":"bioconductor-cnanorm",
@@ -813,6 +817,15 @@
 {
 "subdir":"osx-64",
 "total":184
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":191
 }
 ]
 }

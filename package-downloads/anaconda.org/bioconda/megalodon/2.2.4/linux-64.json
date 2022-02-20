@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"megalodon-2.2.4-py36h4c5857e_0.tar.bz2",
-"total":69
+"total":70
 },
 {
 "basename":"megalodon-2.2.4-py38h0213d0e_0.tar.bz2",
@@ -254,6 +254,10 @@
 {
 "date":"2022-02-17",
 "total":218
+},
+{
+"date":"2022-02-20",
+"total":219
 }
 ],
 "package":"megalodon",
@@ -358,6 +362,15 @@
 {
 "basename":"megalodon-2.2.4-py37hf01694f_0.tar.bz2",
 "total":75
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
+"basename":"megalodon-2.2.4-py36h4c5857e_0.tar.bz2",
+"total":70
 }
 ]
 }

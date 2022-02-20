@@ -1032,6 +1032,10 @@
 {
 "date":"2022-02-17",
 "total":3163
+},
+{
+"date":"2022-02-20",
+"total":3170
 }
 ],
 "downloads_per_subdir":[
@@ -1041,7 +1045,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2236
+"total":2243
 }
 ],
 "package":"bioconductor-regioner",
@@ -1459,6 +1463,15 @@
 {
 "subdir":"osx-64",
 "total":2236
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2243
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"peptide-shaker-1.16.17-py27_0.tar.bz2",
-"total":343
+"total":344
 }
 ],
 "downloads_per_date":[
@@ -250,6 +250,10 @@
 {
 "date":"2022-02-17",
 "total":921
+},
+{
+"date":"2022-02-20",
+"total":922
 }
 ],
 "package":"peptide-shaker",
@@ -350,6 +354,15 @@
 {
 "basename":"peptide-shaker-1.16.17-py36_0.tar.bz2",
 "total":315
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
+"basename":"peptide-shaker-1.16.17-py27_0.tar.bz2",
+"total":344
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-blasttopsl-357-0.tar.bz2",
-"total":439
+"total":440
 },
 {
 "basename":"ucsc-blasttopsl-357-1.tar.bz2",
@@ -290,6 +290,10 @@
 {
 "date":"2022-02-17",
 "total":903
+},
+{
+"date":"2022-02-20",
+"total":904
 }
 ],
 "package":"ucsc-blasttopsl",
@@ -374,6 +378,15 @@
 {
 "basename":"ucsc-blasttopsl-357-1.tar.bz2",
 "total":464
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
+"basename":"ucsc-blasttopsl-357-0.tar.bz2",
+"total":440
 }
 ]
 }

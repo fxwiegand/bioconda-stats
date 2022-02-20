@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bedtools-2.29.2-h37cfd92_0.tar.bz2",
-"total":6807
+"total":6815
 }
 ],
 "downloads_per_date":[
@@ -1050,6 +1050,10 @@
 {
 "date":"2022-02-17",
 "total":6807
+},
+{
+"date":"2022-02-20",
+"total":6815
 }
 ],
 "package":"bedtools",
@@ -1474,6 +1478,15 @@
 {
 "basename":"bedtools-2.29.2-h37cfd92_0.tar.bz2",
 "total":6807
+}
+]
+},
+{
+"date":"2022-02-20",
+"downloads_per_basename":[
+{
+"basename":"bedtools-2.29.2-h37cfd92_0.tar.bz2",
+"total":6815
 }
 ]
 }
