@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"mothur-1.47.0-h3213eb0_1.tar.bz2",
-"total":20
+"total":21
 },
 {
 "basename":"mothur-1.47.0-h7165306_0.tar.bz2",
@@ -74,6 +74,10 @@
 {
 "date":"2022-02-20",
 "total":64
+},
+{
+"date":"2022-02-21",
+"total":65
 }
 ],
 "package":"mothur",
@@ -234,6 +238,15 @@
 {
 "basename":"mothur-1.47.0-h7165306_0.tar.bz2",
 "total":44
+}
+]
+},
+{
+"date":"2022-02-21",
+"downloads_per_basename":[
+{
+"basename":"mothur-1.47.0-h3213eb0_1.tar.bz2",
+"total":21
 }
 ]
 }

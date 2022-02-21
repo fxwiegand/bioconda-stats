@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-notabs-2.02-pl5321hdfd78af_1.tar.bz2",
-"total":78
+"total":80
 }
 ],
 "downloads_per_date":[
@@ -122,6 +122,10 @@
 {
 "date":"2022-02-20",
 "total":78
+},
+{
+"date":"2022-02-21",
+"total":80
 }
 ],
 "package":"perl-test-notabs",
@@ -384,6 +388,15 @@
 {
 "basename":"perl-test-notabs-2.02-pl5321hdfd78af_1.tar.bz2",
 "total":78
+}
+]
+},
+{
+"date":"2022-02-21",
+"downloads_per_basename":[
+{
+"basename":"perl-test-notabs-2.02-pl5321hdfd78af_1.tar.bz2",
+"total":80
 }
 ]
 }

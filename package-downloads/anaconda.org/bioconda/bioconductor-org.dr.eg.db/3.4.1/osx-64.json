@@ -1054,6 +1054,10 @@
 {
 "date":"2022-02-20",
 "total":2389
+},
+{
+"date":"2022-02-21",
+"total":2389
 }
 ],
 "package":"bioconductor-org.dr.eg.db",
@@ -1440,6 +1444,15 @@
 "date":"2022-02-20",
 "downloads_per_basename":[
 {
+"basename":"bioconductor-org.dr.eg.db-3.4.1-r3.4.1_1.tar.bz2",
+"total":1987
+}
+]
+},
+{
+"date":"2022-02-21",
+"downloads_per_basename":[
+{
 "basename":"bioconductor-org.dr.eg.db-3.4.1-r3.4.1_0.tar.bz2",
 "total":51
 },
@@ -1450,10 +1463,6 @@
 {
 "basename":"bioconductor-org.dr.eg.db-3.4.1-r3.3.2_0.tar.bz2",
 "total":292
-},
-{
-"basename":"bioconductor-org.dr.eg.db-3.4.1-r3.4.1_1.tar.bz2",
-"total":1987
 }
 ]
 }

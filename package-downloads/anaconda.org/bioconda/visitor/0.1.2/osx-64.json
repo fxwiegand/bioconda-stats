@@ -1054,6 +1054,10 @@
 {
 "date":"2022-02-20",
 "total":2924
+},
+{
+"date":"2022-02-21",
+"total":2924
 }
 ],
 "package":"visitor",
@@ -1440,6 +1444,15 @@
 "date":"2022-02-20",
 "downloads_per_basename":[
 {
+"basename":"visitor-0.1.2-py36_0.tar.bz2",
+"total":2103
+}
+]
+},
+{
+"date":"2022-02-21",
+"downloads_per_basename":[
+{
 "basename":"visitor-0.1.2-py35_0.tar.bz2",
 "total":219
 },
@@ -1450,10 +1463,6 @@
 {
 "basename":"visitor-0.1.2-py34_0.tar.bz2",
 "total":352
-},
-{
-"basename":"visitor-0.1.2-py36_0.tar.bz2",
-"total":2103
 }
 ]
 }

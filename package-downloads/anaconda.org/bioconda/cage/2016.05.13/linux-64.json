@@ -7,7 +7,7 @@
 },
 {
 "basename":"cage-2016.05.13-hbb7d00b_4.tar.bz2",
-"total":144
+"total":145
 },
 {
 "basename":"cage-2016.05.13-hc035a8a_2.tar.bz2",
@@ -1090,6 +1090,10 @@
 {
 "date":"2022-02-20",
 "total":11502
+},
+{
+"date":"2022-02-21",
+"total":11503
 }
 ],
 "package":"cage",
@@ -1689,6 +1693,15 @@
 {
 "basename":"cage-2016.05.13-py36_0.tar.bz2",
 "total":4435
+}
+]
+},
+{
+"date":"2022-02-21",
+"downloads_per_basename":[
+{
+"basename":"cage-2016.05.13-hbb7d00b_4.tar.bz2",
+"total":145
 }
 ]
 }

@@ -1064,6 +1064,10 @@
 {
 "date":"2022-02-20",
 "total":3761
+},
+{
+"date":"2022-02-21",
+"total":3763
 }
 ],
 "downloads_per_subdir":[
@@ -1073,7 +1077,7 @@
 },
 {
 "subdir":"noarch",
-"total":965
+"total":967
 },
 {
 "subdir":"osx-64",
@@ -1083,7 +1087,7 @@
 "package":"bioconductor-hgu95av2.db",
 "recent_downloads":[
 {
-"date":"2021-12-20",
+"date":"2021-12-21",
 "downloads_per_subdir":[
 {
 "subdir":"noarch",
@@ -1605,6 +1609,15 @@
 {
 "subdir":"osx-64",
 "total":2074
+}
+]
+},
+{
+"date":"2022-02-21",
+"downloads_per_subdir":[
+{
+"subdir":"noarch",
+"total":967
 }
 ]
 }

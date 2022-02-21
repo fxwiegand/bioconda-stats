@@ -1078,6 +1078,10 @@
 {
 "date":"2022-02-20",
 "total":2467
+},
+{
+"date":"2022-02-21",
+"total":2467
 }
 ],
 "package":"novobreak",
@@ -1506,10 +1510,6 @@
 "date":"2022-02-20",
 "downloads_per_basename":[
 {
-"basename":"novobreak-1.1.3rc-h188c3c3_7.tar.bz2",
-"total":18
-},
-{
 "basename":"novobreak-1.1.3rc-h2573ce8_5.tar.bz2",
 "total":30
 },
@@ -1532,6 +1532,15 @@
 {
 "basename":"novobreak-1.1.3rc-ha92aebf_2.tar.bz2",
 "total":1980
+}
+]
+},
+{
+"date":"2022-02-21",
+"downloads_per_basename":[
+{
+"basename":"novobreak-1.1.3rc-h188c3c3_7.tar.bz2",
+"total":18
 }
 ]
 }

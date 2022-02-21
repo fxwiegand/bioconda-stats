@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-zlibbioc-1.20.0-r3.3.2_1.tar.bz2",
-"total":16526
+"total":16528
 }
 ],
 "downloads_per_date":[
@@ -886,6 +886,10 @@
 {
 "date":"2022-02-20",
 "total":30547
+},
+{
+"date":"2022-02-21",
+"total":30549
 }
 ],
 "package":"bioconductor-zlibbioc",
@@ -1178,6 +1182,15 @@
 {
 "basename":"bioconductor-zlibbioc-1.20.0-r3.3.2_1.tar.bz2",
 "total":16526
+}
+]
+},
+{
+"date":"2022-02-21",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-zlibbioc-1.20.0-r3.3.2_1.tar.bz2",
+"total":16528
 }
 ]
 }

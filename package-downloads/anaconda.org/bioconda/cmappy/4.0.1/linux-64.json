@@ -23,7 +23,7 @@
 },
 {
 "basename":"cmappy-4.0.1-py38h8c62d01_2.tar.bz2",
-"total":67
+"total":68
 },
 {
 "basename":"cmappy-4.0.1-py37h9a982cc_1.tar.bz2",
@@ -586,6 +586,10 @@
 {
 "date":"2022-02-20",
 "total":610
+},
+{
+"date":"2022-02-21",
+"total":611
 }
 ],
 "package":"cmappy",
@@ -921,6 +925,15 @@
 {
 "basename":"cmappy-4.0.1-py37h6bb024c_0.tar.bz2",
 "total":190
+}
+]
+},
+{
+"date":"2022-02-21",
+"downloads_per_basename":[
+{
+"basename":"cmappy-4.0.1-py38h8c62d01_2.tar.bz2",
+"total":68
 }
 ]
 }

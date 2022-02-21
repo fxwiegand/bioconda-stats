@@ -16,6 +16,10 @@
 {
 "date":"2022-02-20",
 "total":43
+},
+{
+"date":"2022-02-21",
+"total":44
 }
 ],
 "downloads_per_subdir":[
@@ -25,7 +29,7 @@
 },
 {
 "subdir":"linux-64",
-"total":22
+"total":23
 }
 ],
 "package":"perl-datetime",
@@ -79,6 +83,15 @@
 {
 "subdir":"linux-64",
 "total":22
+}
+]
+},
+{
+"date":"2022-02-21",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":23
 }
 ]
 }

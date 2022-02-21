@@ -64,6 +64,10 @@
 {
 "date":"2022-02-20",
 "total":158
+},
+{
+"date":"2022-02-21",
+"total":160
 }
 ],
 "downloads_per_subdir":[
@@ -73,7 +77,7 @@
 },
 {
 "subdir":"linux-64",
-"total":97
+"total":99
 }
 ],
 "package":"nextclade",
@@ -279,6 +283,15 @@
 {
 "subdir":"linux-64",
 "total":97
+}
+]
+},
+{
+"date":"2022-02-21",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":99
 }
 ]
 }

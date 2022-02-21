@@ -956,6 +956,10 @@
 {
 "date":"2022-02-20",
 "total":1038
+},
+{
+"date":"2022-02-21",
+"total":1039
 }
 ],
 "downloads_per_version":[
@@ -964,7 +968,7 @@
 "version":"1.4.0"
 },
 {
-"total":372,
+"total":373,
 "version":"1.2.0"
 },
 {
@@ -975,7 +979,7 @@
 "package":"bioconductor-rtpca",
 "recent_downloads":[
 {
-"date":"2021-12-20",
+"date":"2021-12-21",
 "downloads_per_version":[
 {
 "total":91,
@@ -984,10 +988,6 @@
 {
 "total":251,
 "version":"1.2.0"
-},
-{
-"total":326,
-"version":"1.0.0"
 }
 ]
 },
@@ -1001,6 +1001,10 @@
 {
 "total":253,
 "version":"1.2.0"
+},
+{
+"total":326,
+"version":"1.0.0"
 }
 ]
 },
@@ -1849,6 +1853,15 @@
 {
 "total":453,
 "version":"1.0.0"
+}
+]
+},
+{
+"date":"2022-02-21",
+"downloads_per_version":[
+{
+"total":373,
+"version":"1.2.0"
 }
 ]
 }

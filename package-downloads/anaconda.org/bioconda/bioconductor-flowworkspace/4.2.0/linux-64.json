@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-flowworkspace-4.2.0-r40h399db7b_2.tar.bz2",
-"total":148
+"total":149
 },
 {
 "basename":"bioconductor-flowworkspace-4.2.0-r40h5f743cb_0.tar.bz2",
@@ -498,6 +498,10 @@
 {
 "date":"2022-02-20",
 "total":442
+},
+{
+"date":"2022-02-21",
+"total":443
 }
 ],
 "package":"bioconductor-flowworkspace",
@@ -629,6 +633,15 @@
 {
 "basename":"bioconductor-flowworkspace-4.2.0-r40h5f743cb_0.tar.bz2",
 "total":154
+}
+]
+},
+{
+"date":"2022-02-21",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-flowworkspace-4.2.0-r40h399db7b_2.tar.bz2",
+"total":149
 }
 ]
 }

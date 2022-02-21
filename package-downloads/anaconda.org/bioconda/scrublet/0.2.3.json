@@ -1068,6 +1068,10 @@
 {
 "date":"2022-02-20",
 "total":1690
+},
+{
+"date":"2022-02-21",
+"total":1690
 }
 ],
 "downloads_per_subdir":[
@@ -1087,12 +1091,8 @@
 "package":"scrublet",
 "recent_downloads":[
 {
-"date":"2021-12-20",
+"date":"2021-12-21",
 "downloads_per_subdir":[
-{
-"subdir":"linux-64",
-"total":423
-},
 {
 "subdir":"noarch",
 "total":495
@@ -1138,6 +1138,10 @@
 {
 "date":"2021-12-26",
 "downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":423
+},
 {
 "subdir":"noarch",
 "total":506

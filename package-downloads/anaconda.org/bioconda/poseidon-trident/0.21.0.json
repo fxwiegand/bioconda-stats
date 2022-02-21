@@ -584,6 +584,10 @@
 {
 "date":"2022-02-20",
 "total":357
+},
+{
+"date":"2022-02-21",
+"total":357
 }
 ],
 "downloads_per_subdir":[
@@ -599,12 +603,8 @@
 "package":"poseidon-trident",
 "recent_downloads":[
 {
-"date":"2021-12-20",
+"date":"2021-12-21",
 "downloads_per_subdir":[
-{
-"subdir":"linux-64",
-"total":51
-},
 {
 "subdir":"osx-64",
 "total":188
@@ -614,6 +614,10 @@
 {
 "date":"2021-12-22",
 "downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":51
+},
 {
 "subdir":"osx-64",
 "total":190

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"galaxy-ops-1.0.0-py27_0.tar.bz2",
-"total":4000
+"total":4023
 }
 ],
 "downloads_per_date":[
@@ -294,6 +294,10 @@
 {
 "date":"2022-02-20",
 "total":4000
+},
+{
+"date":"2022-02-21",
+"total":4023
 }
 ],
 "package":"galaxy-ops",
@@ -349,6 +353,15 @@
 {
 "basename":"galaxy-ops-1.0.0-py27_0.tar.bz2",
 "total":4000
+}
+]
+},
+{
+"date":"2022-02-21",
+"downloads_per_basename":[
+{
+"basename":"galaxy-ops-1.0.0-py27_0.tar.bz2",
+"total":4023
 }
 ]
 }

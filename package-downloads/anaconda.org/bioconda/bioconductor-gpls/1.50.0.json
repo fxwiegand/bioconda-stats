@@ -1052,6 +1052,10 @@
 {
 "date":"2022-02-20",
 "total":2565
+},
+{
+"date":"2022-02-21",
+"total":2565
 }
 ],
 "downloads_per_subdir":[
@@ -1067,12 +1071,8 @@
 "package":"bioconductor-gpls",
 "recent_downloads":[
 {
-"date":"2021-12-20",
+"date":"2021-12-22",
 "downloads_per_subdir":[
-{
-"subdir":"linux-64",
-"total":355
-},
 {
 "subdir":"osx-64",
 "total":2094
@@ -1091,6 +1091,10 @@
 {
 "date":"2021-12-25",
 "downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":355
+},
 {
 "subdir":"osx-64",
 "total":2100

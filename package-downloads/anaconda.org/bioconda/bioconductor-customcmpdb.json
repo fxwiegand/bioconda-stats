@@ -960,6 +960,10 @@
 {
 "date":"2022-02-20",
 "total":1005
+},
+{
+"date":"2022-02-21",
+"total":1006
 }
 ],
 "downloads_per_version":[
@@ -968,7 +972,7 @@
 "version":"1.4.0"
 },
 {
-"total":369,
+"total":370,
 "version":"1.2.0"
 },
 {
@@ -979,7 +983,7 @@
 "package":"bioconductor-customcmpdb",
 "recent_downloads":[
 {
-"date":"2021-12-20",
+"date":"2021-12-21",
 "downloads_per_version":[
 {
 "total":84,
@@ -1885,6 +1889,15 @@
 {
 "total":430,
 "version":"1.0.0"
+}
+]
+},
+{
+"date":"2022-02-21",
+"downloads_per_version":[
+{
+"total":370,
+"version":"1.2.0"
 }
 ]
 }

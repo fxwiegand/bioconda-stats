@@ -1070,6 +1070,10 @@
 {
 "date":"2022-02-20",
 "total":2107
+},
+{
+"date":"2022-02-21",
+"total":2107
 }
 ],
 "package":"pytabix",
@@ -1493,6 +1497,15 @@
 "date":"2022-02-20",
 "downloads_per_basename":[
 {
+"basename":"pytabix-0.0.2-py37hd9629dc_6.tar.bz2",
+"total":1890
+}
+]
+},
+{
+"date":"2022-02-21",
+"downloads_per_basename":[
+{
 "basename":"pytabix-0.0.2-py36hdea28d2_7.tar.bz2",
 "total":18
 },
@@ -1503,10 +1516,6 @@
 {
 "basename":"pytabix-0.0.2-py27hd9629dc_6.tar.bz2",
 "total":46
-},
-{
-"basename":"pytabix-0.0.2-py37hd9629dc_6.tar.bz2",
-"total":1890
 }
 ]
 }

@@ -1054,6 +1054,10 @@
 {
 "date":"2022-02-20",
 "total":2362
+},
+{
+"date":"2022-02-21",
+"total":2362
 }
 ],
 "package":"schema",
@@ -1440,6 +1444,15 @@
 "date":"2022-02-20",
 "downloads_per_basename":[
 {
+"basename":"schema-0.4.0-py36_0.tar.bz2",
+"total":2233
+}
+]
+},
+{
+"date":"2022-02-21",
+"downloads_per_basename":[
+{
 "basename":"schema-0.4.0-py27_0.tar.bz2",
 "total":35
 },
@@ -1450,10 +1463,6 @@
 {
 "basename":"schema-0.4.0-py35_0.tar.bz2",
 "total":56
-},
-{
-"basename":"schema-0.4.0-py36_0.tar.bz2",
-"total":2233
 }
 ]
 }

@@ -1068,6 +1068,10 @@
 {
 "date":"2022-02-20",
 "total":3406
+},
+{
+"date":"2022-02-21",
+"total":3406
 }
 ],
 "downloads_per_subdir":[
@@ -1087,12 +1091,8 @@
 "package":"perl-text-ansitable",
 "recent_downloads":[
 {
-"date":"2021-12-20",
+"date":"2021-12-21",
 "downloads_per_subdir":[
-{
-"subdir":"linux-64",
-"total":1036
-},
 {
 "subdir":"osx-64",
 "total":2229
@@ -1138,6 +1138,10 @@
 {
 "date":"2021-12-26",
 "downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":1036
+},
 {
 "subdir":"osx-64",
 "total":2239

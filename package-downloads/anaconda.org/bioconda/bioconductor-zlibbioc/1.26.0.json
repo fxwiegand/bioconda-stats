@@ -1060,6 +1060,10 @@
 {
 "date":"2022-02-20",
 "total":28977
+},
+{
+"date":"2022-02-21",
+"total":28979
 }
 ],
 "downloads_per_subdir":[
@@ -1069,7 +1073,7 @@
 },
 {
 "subdir":"linux-64",
-"total":25177
+"total":25179
 }
 ],
 "package":"bioconductor-zlibbioc",
@@ -1689,6 +1693,15 @@
 {
 "subdir":"linux-64",
 "total":25177
+}
+]
+},
+{
+"date":"2022-02-21",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":25179
 }
 ]
 }

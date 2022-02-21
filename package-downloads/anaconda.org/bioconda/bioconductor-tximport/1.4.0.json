@@ -1048,6 +1048,10 @@
 {
 "date":"2022-02-20",
 "total":7373
+},
+{
+"date":"2022-02-21",
+"total":7374
 }
 ],
 "downloads_per_subdir":[
@@ -1057,7 +1061,7 @@
 },
 {
 "subdir":"linux-64",
-"total":4765
+"total":4766
 }
 ],
 "package":"bioconductor-tximport",
@@ -1504,6 +1508,15 @@
 {
 "subdir":"linux-64",
 "total":4765
+}
+]
+},
+{
+"date":"2022-02-21",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":4766
 }
 ]
 }

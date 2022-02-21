@@ -1064,6 +1064,10 @@
 {
 "date":"2022-02-20",
 "total":6416
+},
+{
+"date":"2022-02-21",
+"total":6416
 }
 ],
 "downloads_per_subdir":[
@@ -1083,7 +1087,7 @@
 "package":"bioconductor-fdb.infiniummethylation.hg19",
 "recent_downloads":[
 {
-"date":"2021-12-20",
+"date":"2021-12-22",
 "downloads_per_subdir":[
 {
 "subdir":"noarch",
@@ -1523,7 +1527,12 @@
 {
 "subdir":"noarch",
 "total":2190
+}
+]
 },
+{
+"date":"2022-02-21",
+"downloads_per_subdir":[
 {
 "subdir":"osx-64",
 "total":2244

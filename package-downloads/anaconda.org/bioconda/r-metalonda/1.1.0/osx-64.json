@@ -1074,6 +1074,10 @@
 {
 "date":"2022-02-20",
 "total":2431
+},
+{
+"date":"2022-02-21",
+"total":2431
 }
 ],
 "package":"r-metalonda",
@@ -1460,6 +1464,15 @@
 "date":"2022-02-20",
 "downloads_per_basename":[
 {
+"basename":"r-metalonda-1.1.0-r351h6115d3f_5.tar.bz2",
+"total":1979
+}
+]
+},
+{
+"date":"2022-02-21",
+"downloads_per_basename":[
+{
 "basename":"r-metalonda-1.1.0-r351h6115d3f_3.tar.bz2",
 "total":33
 },
@@ -1482,10 +1495,6 @@
 {
 "basename":"r-metalonda-1.1.0-r341h6115d3f_2.tar.bz2",
 "total":157
-},
-{
-"basename":"r-metalonda-1.1.0-r351h6115d3f_5.tar.bz2",
-"total":1979
 }
 ]
 }

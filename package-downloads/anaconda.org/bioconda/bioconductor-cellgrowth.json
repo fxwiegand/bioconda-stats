@@ -1064,6 +1064,10 @@
 {
 "date":"2022-02-20",
 "total":10681
+},
+{
+"date":"2022-02-21",
+"total":10681
 }
 ],
 "downloads_per_version":[
@@ -1095,7 +1099,7 @@
 "package":"bioconductor-cellgrowth",
 "recent_downloads":[
 {
-"date":"2021-12-20",
+"date":"2021-12-22",
 "downloads_per_version":[
 {
 "total":304,
@@ -1105,15 +1109,6 @@
 "total":308,
 "version":"1.26.1"
 },
-{
-"total":3484,
-"version":"1.20.0"
-}
-]
-},
-{
-"date":"2021-12-22",
-"downloads_per_version":[
 {
 "total":401,
 "version":"1.28.0"
@@ -1125,6 +1120,10 @@
 {
 "total":2784,
 "version":"1.22.0"
+},
+{
+"total":3484,
+"version":"1.20.0"
 }
 ]
 },

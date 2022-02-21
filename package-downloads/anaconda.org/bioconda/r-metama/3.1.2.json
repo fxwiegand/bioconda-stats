@@ -1068,6 +1068,10 @@
 {
 "date":"2022-02-20",
 "total":4080
+},
+{
+"date":"2022-02-21",
+"total":4080
 }
 ],
 "downloads_per_subdir":[
@@ -1087,7 +1091,7 @@
 "package":"r-metama",
 "recent_downloads":[
 {
-"date":"2021-12-20",
+"date":"2021-12-21",
 "downloads_per_subdir":[
 {
 "subdir":"noarch",
@@ -1553,7 +1557,12 @@
 {
 "subdir":"noarch",
 "total":990
+}
+]
 },
+{
+"date":"2022-02-21",
+"downloads_per_subdir":[
 {
 "subdir":"osx-64",
 "total":2076

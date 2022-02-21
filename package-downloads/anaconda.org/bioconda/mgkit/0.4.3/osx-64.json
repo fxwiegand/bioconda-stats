@@ -1074,6 +1074,10 @@
 {
 "date":"2022-02-20",
 "total":1306
+},
+{
+"date":"2022-02-21",
+"total":1306
 }
 ],
 "package":"mgkit",
@@ -1460,6 +1464,15 @@
 "date":"2022-02-20",
 "downloads_per_basename":[
 {
+"basename":"mgkit-0.4.3-py37hea0d0e9_1.tar.bz2",
+"total":1061
+}
+]
+},
+{
+"date":"2022-02-21",
+"downloads_per_basename":[
+{
 "basename":"mgkit-0.4.3-py36h01d97ff_0.tar.bz2",
 "total":17
 },
@@ -1470,10 +1483,6 @@
 {
 "basename":"mgkit-0.4.3-py37h01d97ff_0.tar.bz2",
 "total":211
-},
-{
-"basename":"mgkit-0.4.3-py37hea0d0e9_1.tar.bz2",
-"total":1061
 }
 ]
 }

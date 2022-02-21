@@ -80,6 +80,10 @@
 {
 "date":"2022-02-20",
 "total":481
+},
+{
+"date":"2022-02-21",
+"total":488
 }
 ],
 "downloads_per_subdir":[
@@ -89,7 +93,7 @@
 },
 {
 "subdir":"linux-64",
-"total":440
+"total":447
 }
 ],
 "package":"perl-moose",
@@ -291,6 +295,15 @@
 {
 "subdir":"linux-64",
 "total":440
+}
+]
+},
+{
+"date":"2022-02-21",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":447
 }
 ]
 }
