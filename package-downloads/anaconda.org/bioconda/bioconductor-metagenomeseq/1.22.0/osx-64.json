@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-metagenomeseq-1.22.0-r351_0.tar.bz2",
-"total":2418
+"total":2419
 }
 ],
 "downloads_per_date":[
@@ -1078,6 +1078,10 @@
 {
 "date":"2022-02-21",
 "total":2499
+},
+{
+"date":"2022-02-22",
+"total":2500
 }
 ],
 "package":"bioconductor-metagenomeseq",
@@ -1470,11 +1474,15 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
 {
 "basename":"bioconductor-metagenomeseq-1.22.0-r341_0.tar.bz2",
 "total":81
+},
+{
+"basename":"bioconductor-metagenomeseq-1.22.0-r351_0.tar.bz2",
+"total":2419
 }
 ]
 }

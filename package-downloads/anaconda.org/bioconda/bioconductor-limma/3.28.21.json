@@ -1060,6 +1060,10 @@
 {
 "date":"2022-02-21",
 "total":3007
+},
+{
+"date":"2022-02-22",
+"total":3008
 }
 ],
 "downloads_per_subdir":[
@@ -1069,7 +1073,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2314
+"total":2315
 }
 ],
 "package":"bioconductor-limma",
@@ -1482,6 +1486,15 @@
 {
 "subdir":"osx-64",
 "total":2314
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2315
 }
 ]
 }

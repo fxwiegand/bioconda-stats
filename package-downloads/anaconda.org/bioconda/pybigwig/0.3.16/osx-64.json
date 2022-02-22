@@ -11,7 +11,7 @@
 },
 {
 "basename":"pybigwig-0.3.16-py37ha1385ca_0.tar.bz2",
-"total":2360
+"total":2361
 }
 ],
 "downloads_per_date":[
@@ -1054,6 +1054,10 @@
 {
 "date":"2022-02-21",
 "total":3128
+},
+{
+"date":"2022-02-22",
+"total":3129
 }
 ],
 "package":"pybigwig",
@@ -1468,11 +1472,15 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
 {
 "basename":"pybigwig-0.3.16-py27ha1385ca_0.tar.bz2",
 "total":109
+},
+{
+"basename":"pybigwig-0.3.16-py37ha1385ca_0.tar.bz2",
+"total":2361
 }
 ]
 }

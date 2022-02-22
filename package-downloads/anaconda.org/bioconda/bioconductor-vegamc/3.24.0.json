@@ -1056,6 +1056,10 @@
 {
 "date":"2022-02-21",
 "total":1755
+},
+{
+"date":"2022-02-22",
+"total":1756
 }
 ],
 "downloads_per_subdir":[
@@ -1065,7 +1069,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1651
+"total":1652
 }
 ],
 "package":"bioconductor-vegamc",
@@ -1470,6 +1474,15 @@
 {
 "subdir":"osx-64",
 "total":1651
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1652
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-cve-1.4.0-r3.4.1_0.tar.bz2",
-"total":421
+"total":422
 }
 ],
 "downloads_per_date":[
@@ -214,6 +214,10 @@
 {
 "date":"2022-02-21",
 "total":421
+},
+{
+"date":"2022-02-22",
+"total":422
 }
 ],
 "package":"bioconductor-cve",
@@ -251,6 +255,15 @@
 {
 "basename":"bioconductor-cve-1.4.0-r3.4.1_0.tar.bz2",
 "total":421
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cve-1.4.0-r3.4.1_0.tar.bz2",
+"total":422
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-fastseg-1.26.0-r351hfc679d8_0.tar.bz2",
-"total":2241
+"total":2242
 }
 ],
 "downloads_per_date":[
@@ -1054,6 +1054,10 @@
 {
 "date":"2022-02-21",
 "total":2291
+},
+{
+"date":"2022-02-22",
+"total":2292
 }
 ],
 "package":"bioconductor-fastseg",
@@ -1446,11 +1450,15 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
 {
 "basename":"bioconductor-fastseg-1.26.0-r341hfc679d8_0.tar.bz2",
 "total":50
+},
+{
+"basename":"bioconductor-fastseg-1.26.0-r351hfc679d8_0.tar.bz2",
+"total":2242
 }
 ]
 }

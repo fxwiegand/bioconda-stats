@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-mafdb.topmed.freeze5.hg19-3.10.0-r41hdfd78af_5.tar.bz2",
-"total":165
+"total":166
 }
 ],
 "downloads_per_date":[
@@ -934,6 +934,10 @@
 {
 "date":"2022-02-21",
 "total":550
+},
+{
+"date":"2022-02-22",
+"total":551
 }
 ],
 "package":"bioconductor-mafdb.topmed.freeze5.hg19",
@@ -1448,6 +1452,15 @@
 {
 "basename":"bioconductor-mafdb.topmed.freeze5.hg19-3.10.0-r41hdfd78af_5.tar.bz2",
 "total":165
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mafdb.topmed.freeze5.hg19-3.10.0-r41hdfd78af_5.tar.bz2",
+"total":166
 }
 ]
 }

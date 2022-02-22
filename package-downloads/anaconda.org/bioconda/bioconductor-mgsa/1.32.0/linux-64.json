@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-mgsa-1.32.0-r36h516909a_1.tar.bz2",
-"total":126
+"total":127
 },
 {
 "basename":"bioconductor-mgsa-1.32.0-r351h14c3975_0.tar.bz2",
@@ -242,6 +242,10 @@
 {
 "date":"2022-02-21",
 "total":270
+},
+{
+"date":"2022-02-22",
+"total":271
 }
 ],
 "package":"bioconductor-mgsa",
@@ -308,6 +312,15 @@
 {
 "basename":"bioconductor-mgsa-1.32.0-r351h14c3975_0.tar.bz2",
 "total":144
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mgsa-1.32.0-r36h516909a_1.tar.bz2",
+"total":127
 }
 ]
 }

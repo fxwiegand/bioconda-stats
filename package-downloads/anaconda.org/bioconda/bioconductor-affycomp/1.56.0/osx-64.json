@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-affycomp-1.56.0-r351_0.tar.bz2",
-"total":2301
+"total":2302
 }
 ],
 "downloads_per_date":[
@@ -1078,6 +1078,10 @@
 {
 "date":"2022-02-21",
 "total":2349
+},
+{
+"date":"2022-02-22",
+"total":2350
 }
 ],
 "package":"bioconductor-affycomp",
@@ -1470,11 +1474,15 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
 {
 "basename":"bioconductor-affycomp-1.56.0-r341_0.tar.bz2",
 "total":48
+},
+{
+"basename":"bioconductor-affycomp-1.56.0-r351_0.tar.bz2",
+"total":2302
 }
 ]
 }

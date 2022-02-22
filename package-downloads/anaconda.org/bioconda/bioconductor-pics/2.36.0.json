@@ -1016,6 +1016,10 @@
 {
 "date":"2022-02-21",
 "total":588
+},
+{
+"date":"2022-02-22",
+"total":589
 }
 ],
 "downloads_per_subdir":[
@@ -1025,7 +1029,7 @@
 },
 {
 "subdir":"osx-64",
-"total":528
+"total":529
 }
 ],
 "package":"bioconductor-pics",
@@ -1438,6 +1442,15 @@
 {
 "subdir":"osx-64",
 "total":528
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":529
 }
 ]
 }

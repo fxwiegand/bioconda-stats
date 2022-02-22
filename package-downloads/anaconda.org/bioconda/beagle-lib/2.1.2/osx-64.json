@@ -23,7 +23,7 @@
 },
 {
 "basename":"beagle-lib-2.1.2-7.tar.bz2",
-"total":2401
+"total":2402
 }
 ],
 "downloads_per_date":[
@@ -1066,6 +1066,10 @@
 {
 "date":"2022-02-21",
 "total":3000
+},
+{
+"date":"2022-02-22",
+"total":3001
 }
 ],
 "package":"beagle-lib",
@@ -1511,6 +1515,15 @@
 {
 "basename":"beagle-lib-2.1.2-7.tar.bz2",
 "total":2401
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"beagle-lib-2.1.2-7.tar.bz2",
+"total":2402
 }
 ]
 }

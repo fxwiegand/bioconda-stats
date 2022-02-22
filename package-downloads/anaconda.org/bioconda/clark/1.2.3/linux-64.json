@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"clark-1.2.3-2.tar.bz2",
-"total":509
+"total":510
 },
 {
 "basename":"clark-1.2.3-1.tar.bz2",
@@ -222,6 +222,10 @@
 {
 "date":"2022-02-21",
 "total":1208
+},
+{
+"date":"2022-02-22",
+"total":1209
 }
 ],
 "package":"clark",
@@ -275,6 +279,15 @@
 {
 "basename":"clark-1.2.3-1.tar.bz2",
 "total":699
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"clark-1.2.3-2.tar.bz2",
+"total":510
 }
 ]
 }

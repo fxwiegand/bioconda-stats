@@ -15,7 +15,7 @@
 },
 {
 "basename":"qorts-1.1.8-py36_0.tar.bz2",
-"total":2300
+"total":2301
 }
 ],
 "downloads_per_date":[
@@ -1086,6 +1086,10 @@
 {
 "date":"2022-02-21",
 "total":2471
+},
+{
+"date":"2022-02-22",
+"total":2472
 }
 ],
 "package":"qorts",
@@ -1499,11 +1503,15 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
 {
 "basename":"qorts-1.1.8-py35_0.tar.bz2",
 "total":59
+},
+{
+"basename":"qorts-1.1.8-py36_0.tar.bz2",
+"total":2301
 }
 ]
 }

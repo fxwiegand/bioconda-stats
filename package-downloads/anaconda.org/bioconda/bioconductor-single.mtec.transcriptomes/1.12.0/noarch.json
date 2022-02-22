@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-single.mtec.transcriptomes-1.12.0-r36_1.tar.bz2",
-"total":375
+"total":376
 }
 ],
 "downloads_per_date":[
@@ -894,6 +894,10 @@
 {
 "date":"2022-02-21",
 "total":500
+},
+{
+"date":"2022-02-22",
+"total":501
 }
 ],
 "package":"bioconductor-single.mtec.transcriptomes",
@@ -1319,6 +1323,15 @@
 {
 "basename":"bioconductor-single.mtec.transcriptomes-1.12.0-r36_1.tar.bz2",
 "total":375
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-single.mtec.transcriptomes-1.12.0-r36_1.tar.bz2",
+"total":376
 }
 ]
 }

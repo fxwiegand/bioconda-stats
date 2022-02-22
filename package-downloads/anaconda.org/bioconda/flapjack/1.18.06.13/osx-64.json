@@ -7,7 +7,7 @@
 },
 {
 "basename":"flapjack-1.18.06.13-2.tar.bz2",
-"total":2000
+"total":2001
 }
 ],
 "downloads_per_date":[
@@ -1050,6 +1050,10 @@
 {
 "date":"2022-02-21",
 "total":2293
+},
+{
+"date":"2022-02-22",
+"total":2294
 }
 ],
 "package":"flapjack",
@@ -1442,11 +1446,15 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
 {
 "basename":"flapjack-1.18.06.13-1.tar.bz2",
 "total":293
+},
+{
+"basename":"flapjack-1.18.06.13-2.tar.bz2",
+"total":2001
 }
 ]
 }

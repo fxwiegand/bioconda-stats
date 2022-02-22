@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-org.sc.sgd.db-3.6.0-r351_0.tar.bz2",
-"total":2217
+"total":2218
 }
 ],
 "downloads_per_date":[
@@ -1050,6 +1050,10 @@
 {
 "date":"2022-02-21",
 "total":2251
+},
+{
+"date":"2022-02-22",
+"total":2252
 }
 ],
 "package":"bioconductor-org.sc.sgd.db",
@@ -1442,11 +1446,15 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
 {
 "basename":"bioconductor-org.sc.sgd.db-3.6.0-r341_0.tar.bz2",
 "total":34
+},
+{
+"basename":"bioconductor-org.sc.sgd.db-3.6.0-r351_0.tar.bz2",
+"total":2218
 }
 ]
 }

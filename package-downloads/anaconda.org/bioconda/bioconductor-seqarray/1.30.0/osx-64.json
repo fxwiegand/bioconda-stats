@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-seqarray-1.30.0-r40h832b226_1.tar.bz2",
-"total":607
+"total":608
 }
 ],
 "downloads_per_date":[
@@ -1050,6 +1050,10 @@
 {
 "date":"2022-02-21",
 "total":910
+},
+{
+"date":"2022-02-22",
+"total":911
 }
 ],
 "package":"bioconductor-seqarray",
@@ -1442,11 +1446,15 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
 {
 "basename":"bioconductor-seqarray-1.30.0-r40h64ad5ed_0.tar.bz2",
 "total":303
+},
+{
+"basename":"bioconductor-seqarray-1.30.0-r40h832b226_1.tar.bz2",
+"total":608
 }
 ]
 }

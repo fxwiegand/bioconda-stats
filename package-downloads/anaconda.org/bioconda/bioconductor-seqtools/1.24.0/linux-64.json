@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-seqtools-1.24.0-r40hd029910_1.tar.bz2",
-"total":50
+"total":51
 },
 {
 "basename":"bioconductor-seqtools-1.24.0-r40h037d062_0.tar.bz2",
@@ -210,6 +210,10 @@
 {
 "date":"2022-02-21",
 "total":122
+},
+{
+"date":"2022-02-22",
+"total":123
 }
 ],
 "package":"bioconductor-seqtools",
@@ -286,6 +290,15 @@
 {
 "basename":"bioconductor-seqtools-1.24.0-r40h037d062_0.tar.bz2",
 "total":72
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-seqtools-1.24.0-r40hd029910_1.tar.bz2",
+"total":51
 }
 ]
 }

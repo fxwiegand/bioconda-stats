@@ -15,7 +15,7 @@
 },
 {
 "basename":"ucsc-farc-377-h199ee4e_0.tar.bz2",
-"total":165
+"total":166
 }
 ],
 "downloads_per_date":[
@@ -434,6 +434,10 @@
 {
 "date":"2022-02-21",
 "total":322
+},
+{
+"date":"2022-02-22",
+"total":323
 }
 ],
 "package":"ucsc-farc",
@@ -584,6 +588,15 @@
 {
 "basename":"ucsc-farc-377-ha8a8165_3.tar.bz2",
 "total":15
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"ucsc-farc-377-h199ee4e_0.tar.bz2",
+"total":166
 }
 ]
 }

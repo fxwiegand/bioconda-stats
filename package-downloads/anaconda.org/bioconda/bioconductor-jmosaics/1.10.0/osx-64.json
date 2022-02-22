@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-jmosaics-1.10.0-r3.4.1_0.tar.bz2",
-"total":2017
+"total":2018
 }
 ],
 "downloads_per_date":[
@@ -1078,6 +1078,10 @@
 {
 "date":"2022-02-21",
 "total":2610
+},
+{
+"date":"2022-02-22",
+"total":2611
 }
 ],
 "package":"bioconductor-jmosaics",
@@ -1491,11 +1495,15 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
 {
 "basename":"bioconductor-jmosaics-1.10.0-0.tar.bz2",
 "total":461
+},
+{
+"basename":"bioconductor-jmosaics-1.10.0-r3.4.1_0.tar.bz2",
+"total":2018
 }
 ]
 }

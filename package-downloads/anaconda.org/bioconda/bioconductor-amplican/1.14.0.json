@@ -1020,6 +1020,10 @@
 {
 "date":"2022-02-21",
 "total":624
+},
+{
+"date":"2022-02-22",
+"total":625
 }
 ],
 "downloads_per_subdir":[
@@ -1029,7 +1033,7 @@
 },
 {
 "subdir":"osx-64",
-"total":524
+"total":525
 }
 ],
 "package":"bioconductor-amplican",
@@ -1447,6 +1451,15 @@
 {
 "subdir":"linux-64",
 "total":100
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":525
 }
 ]
 }

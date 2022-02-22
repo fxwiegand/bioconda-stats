@@ -15,7 +15,7 @@
 },
 {
 "basename":"rseqc-3.0.0-py36hf8a1672_0.tar.bz2",
-"total":11725
+"total":11726
 }
 ],
 "downloads_per_date":[
@@ -354,6 +354,10 @@
 {
 "date":"2022-02-21",
 "total":12650
+},
+{
+"date":"2022-02-22",
+"total":12651
 }
 ],
 "package":"rseqc",
@@ -507,6 +511,15 @@
 {
 "basename":"rseqc-3.0.0-py36h637b7d7_1.tar.bz2",
 "total":359
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"rseqc-3.0.0-py36hf8a1672_0.tar.bz2",
+"total":11726
 }
 ]
 }

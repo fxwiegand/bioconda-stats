@@ -416,6 +416,10 @@
 {
 "date":"2022-02-21",
 "total":262
+},
+{
+"date":"2022-02-22",
+"total":263
 }
 ],
 "downloads_per_subdir":[
@@ -425,7 +429,7 @@
 },
 {
 "subdir":"osx-64",
-"total":218
+"total":219
 }
 ],
 "package":"bioconductor-affyplm",
@@ -851,6 +855,15 @@
 {
 "subdir":"osx-64",
 "total":218
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":219
 }
 ]
 }

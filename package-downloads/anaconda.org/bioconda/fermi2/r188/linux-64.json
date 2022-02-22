@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"fermi2-r188-0.tar.bz2",
-"total":3001
+"total":3002
 }
 ],
 "downloads_per_date":[
@@ -1074,6 +1074,10 @@
 {
 "date":"2022-02-21",
 "total":3001
+},
+{
+"date":"2022-02-22",
+"total":3002
 }
 ],
 "package":"fermi2",
@@ -1462,6 +1466,15 @@
 {
 "basename":"fermi2-r188-0.tar.bz2",
 "total":3001
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"fermi2-r188-0.tar.bz2",
+"total":3002
 }
 ]
 }

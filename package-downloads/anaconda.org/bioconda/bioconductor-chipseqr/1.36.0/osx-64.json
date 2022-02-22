@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-chipseqr-1.36.0-r351h1de35cc_1.tar.bz2",
-"total":2054
+"total":2055
 }
 ],
 "downloads_per_date":[
@@ -1078,6 +1078,10 @@
 {
 "date":"2022-02-21",
 "total":2278
+},
+{
+"date":"2022-02-22",
+"total":2279
 }
 ],
 "package":"bioconductor-chipseqr",
@@ -1470,11 +1474,15 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
 {
 "basename":"bioconductor-chipseqr-1.36.0-r351h1de35cc_0.tar.bz2",
 "total":224
+},
+{
+"basename":"bioconductor-chipseqr-1.36.0-r351h1de35cc_1.tar.bz2",
+"total":2055
 }
 ]
 }

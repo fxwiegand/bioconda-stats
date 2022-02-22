@@ -11,7 +11,7 @@
 },
 {
 "basename":"backports.unittest_mock-1.1.1-py36_0.tar.bz2",
-"total":556
+"total":557
 },
 {
 "basename":"backports.unittest_mock-1.1.1-py27_0.tar.bz2",
@@ -326,6 +326,10 @@
 {
 "date":"2022-02-21",
 "total":2628
+},
+{
+"date":"2022-02-22",
+"total":2629
 }
 ],
 "package":"backports.unittest_mock",
@@ -438,6 +442,15 @@
 {
 "basename":"backports.unittest_mock-1.1.1-py36_0.tar.bz2",
 "total":556
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"backports.unittest_mock-1.1.1-py36_0.tar.bz2",
+"total":557
 }
 ]
 }

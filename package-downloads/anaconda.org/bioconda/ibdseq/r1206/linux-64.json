@@ -7,7 +7,7 @@
 },
 {
 "basename":"ibdseq-r1206-0.tar.bz2",
-"total":614
+"total":615
 }
 ],
 "downloads_per_date":[
@@ -270,6 +270,10 @@
 {
 "date":"2022-02-21",
 "total":829
+},
+{
+"date":"2022-02-22",
+"total":830
 }
 ],
 "package":"ibdseq",
@@ -372,6 +376,15 @@
 {
 "basename":"ibdseq-r1206-1.tar.bz2",
 "total":215
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"ibdseq-r1206-0.tar.bz2",
+"total":615
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-fafilter-377-h0b8a92a_2.tar.bz2",
-"total":85
+"total":86
 },
 {
 "basename":"ucsc-fafilter-377-h446ed27_1.tar.bz2",
@@ -442,6 +442,10 @@
 {
 "date":"2022-02-21",
 "total":366
+},
+{
+"date":"2022-02-22",
+"total":367
 }
 ],
 "package":"ucsc-fafilter",
@@ -610,6 +614,15 @@
 {
 "basename":"ucsc-fafilter-377-h199ee4e_0.tar.bz2",
 "total":161
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"ucsc-fafilter-377-h0b8a92a_2.tar.bz2",
+"total":86
 }
 ]
 }

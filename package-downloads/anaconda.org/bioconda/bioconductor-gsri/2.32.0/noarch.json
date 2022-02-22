@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-gsri-2.32.0-r36_1.tar.bz2",
-"total":403
+"total":404
 }
 ],
 "downloads_per_date":[
@@ -910,6 +910,10 @@
 {
 "date":"2022-02-21",
 "total":403
+},
+{
+"date":"2022-02-22",
+"total":404
 }
 ],
 "package":"bioconductor-gsri",
@@ -1307,6 +1311,15 @@
 {
 "basename":"bioconductor-gsri-2.32.0-r36_1.tar.bz2",
 "total":403
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-gsri-2.32.0-r36_1.tar.bz2",
+"total":404
 }
 ]
 }

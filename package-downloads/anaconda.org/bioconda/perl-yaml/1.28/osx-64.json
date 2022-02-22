@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-yaml-1.28-pl526_0.tar.bz2",
-"total":2016
+"total":2020
 }
 ],
 "downloads_per_date":[
@@ -1046,6 +1046,10 @@
 {
 "date":"2022-02-21",
 "total":2016
+},
+{
+"date":"2022-02-22",
+"total":2020
 }
 ],
 "package":"perl-yaml",
@@ -1434,6 +1438,15 @@
 {
 "basename":"perl-yaml-1.28-pl526_0.tar.bz2",
 "total":2016
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"perl-yaml-1.28-pl526_0.tar.bz2",
+"total":2020
 }
 ]
 }

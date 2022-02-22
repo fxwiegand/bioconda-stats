@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"psass-3.1.0-hc088bd4_0.tar.bz2",
-"total":34
+"total":35
 },
 {
 "basename":"psass-3.1.0-h7d7f7ad_1.tar.bz2",
@@ -254,6 +254,10 @@
 {
 "date":"2022-02-21",
 "total":86
+},
+{
+"date":"2022-02-22",
+"total":87
 }
 ],
 "package":"psass",
@@ -333,6 +337,15 @@
 {
 "basename":"psass-3.1.0-h7d7f7ad_1.tar.bz2",
 "total":52
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"psass-3.1.0-hc088bd4_0.tar.bz2",
+"total":35
 }
 ]
 }

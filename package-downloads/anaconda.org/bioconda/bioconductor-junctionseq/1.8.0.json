@@ -1068,6 +1068,10 @@
 {
 "date":"2022-02-21",
 "total":2729
+},
+{
+"date":"2022-02-22",
+"total":2730
 }
 ],
 "downloads_per_subdir":[
@@ -1077,7 +1081,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2324
+"total":2325
 }
 ],
 "package":"bioconductor-junctionseq",
@@ -1482,6 +1486,15 @@
 {
 "subdir":"osx-64",
 "total":2324
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2325
 }
 ]
 }

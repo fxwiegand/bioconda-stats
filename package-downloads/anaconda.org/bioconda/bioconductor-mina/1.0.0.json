@@ -1004,6 +1004,10 @@
 {
 "date":"2022-02-21",
 "total":560
+},
+{
+"date":"2022-02-22",
+"total":561
 }
 ],
 "downloads_per_subdir":[
@@ -1013,7 +1017,7 @@
 },
 {
 "subdir":"osx-64",
-"total":503
+"total":504
 }
 ],
 "package":"bioconductor-mina",
@@ -1422,6 +1426,15 @@
 {
 "subdir":"osx-64",
 "total":503
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":504
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"gubbins-2.3.2-py35ha92aebf_0.tar.bz2",
-"total":157
+"total":158
 },
 {
 "basename":"gubbins-2.3.2-py36ha92aebf_0.tar.bz2",
@@ -186,6 +186,10 @@
 {
 "date":"2022-02-21",
 "total":495
+},
+{
+"date":"2022-02-22",
+"total":496
 }
 ],
 "package":"gubbins",
@@ -239,6 +243,15 @@
 {
 "basename":"gubbins-2.3.2-py36ha92aebf_0.tar.bz2",
 "total":338
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"gubbins-2.3.2-py35ha92aebf_0.tar.bz2",
+"total":158
 }
 ]
 }

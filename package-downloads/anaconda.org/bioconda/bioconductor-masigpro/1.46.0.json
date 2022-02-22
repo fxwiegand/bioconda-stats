@@ -1048,6 +1048,10 @@
 {
 "date":"2022-02-21",
 "total":3165
+},
+{
+"date":"2022-02-22",
+"total":3166
 }
 ],
 "downloads_per_subdir":[
@@ -1057,7 +1061,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2255
+"total":2256
 }
 ],
 "package":"bioconductor-masigpro",
@@ -1489,6 +1493,15 @@
 {
 "subdir":"osx-64",
 "total":2255
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2256
 }
 ]
 }

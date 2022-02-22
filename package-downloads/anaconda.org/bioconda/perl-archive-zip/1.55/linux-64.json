@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-archive-zip-1.55-pl526_4.tar.bz2",
-"total":272
+"total":273
 },
 {
 "basename":"perl-archive-zip-1.55-1.tar.bz2",
@@ -362,6 +362,10 @@
 {
 "date":"2022-02-21",
 "total":11378
+},
+{
+"date":"2022-02-22",
+"total":11379
 }
 ],
 "package":"perl-archive-zip",
@@ -530,8 +534,12 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
+{
+"basename":"perl-archive-zip-1.55-pl526_4.tar.bz2",
+"total":273
+},
 {
 "basename":"perl-archive-zip-1.55-1.tar.bz2",
 "total":451

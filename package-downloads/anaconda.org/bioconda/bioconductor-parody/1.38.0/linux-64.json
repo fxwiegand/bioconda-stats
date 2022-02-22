@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-parody-1.38.0-r341_0.tar.bz2",
-"total":207
+"total":208
 },
 {
 "basename":"bioconductor-parody-1.38.0-r351_0.tar.bz2",
@@ -218,6 +218,10 @@
 {
 "date":"2022-02-21",
 "total":542
+},
+{
+"date":"2022-02-22",
+"total":543
 }
 ],
 "package":"bioconductor-parody",
@@ -272,6 +276,15 @@
 {
 "basename":"bioconductor-parody-1.38.0-r351_0.tar.bz2",
 "total":335
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-parody-1.38.0-r341_0.tar.bz2",
+"total":208
 }
 ]
 }

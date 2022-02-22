@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-dfp-1.38.0-r351_0.tar.bz2",
-"total":195
+"total":196
 },
 {
 "basename":"bioconductor-dfp-1.38.0-r341_0.tar.bz2",
@@ -198,6 +198,10 @@
 {
 "date":"2022-02-21",
 "total":510
+},
+{
+"date":"2022-02-22",
+"total":511
 }
 ],
 "package":"bioconductor-dfp",
@@ -251,6 +255,15 @@
 {
 "basename":"bioconductor-dfp-1.38.0-r341_0.tar.bz2",
 "total":315
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-dfp-1.38.0-r351_0.tar.bz2",
+"total":196
 }
 ]
 }

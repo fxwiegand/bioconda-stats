@@ -404,6 +404,10 @@
 {
 "date":"2022-02-21",
 "total":205
+},
+{
+"date":"2022-02-22",
+"total":206
 }
 ],
 "downloads_per_subdir":[
@@ -413,7 +417,7 @@
 },
 {
 "subdir":"osx-64",
-"total":176
+"total":177
 }
 ],
 "package":"bioconductor-rmassbank",
@@ -826,6 +830,15 @@
 {
 "subdir":"osx-64",
 "total":176
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":177
 }
 ]
 }

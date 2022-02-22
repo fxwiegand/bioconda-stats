@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-flowmap-1.18.0-r351_0.tar.bz2",
-"total":2061
+"total":2062
 }
 ],
 "downloads_per_date":[
@@ -1050,6 +1050,10 @@
 {
 "date":"2022-02-21",
 "total":2261
+},
+{
+"date":"2022-02-22",
+"total":2262
 }
 ],
 "package":"bioconductor-flowmap",
@@ -1442,11 +1446,15 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
 {
 "basename":"bioconductor-flowmap-1.18.0-r341_0.tar.bz2",
 "total":200
+},
+{
+"basename":"bioconductor-flowmap-1.18.0-r351_0.tar.bz2",
+"total":2062
 }
 ]
 }

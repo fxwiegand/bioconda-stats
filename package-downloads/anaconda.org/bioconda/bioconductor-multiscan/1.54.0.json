@@ -392,6 +392,10 @@
 {
 "date":"2022-02-21",
 "total":200
+},
+{
+"date":"2022-02-22",
+"total":201
 }
 ],
 "downloads_per_subdir":[
@@ -401,7 +405,7 @@
 },
 {
 "subdir":"osx-64",
-"total":177
+"total":178
 }
 ],
 "package":"bioconductor-multiscan",
@@ -806,6 +810,15 @@
 {
 "subdir":"osx-64",
 "total":177
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":178
 }
 ]
 }

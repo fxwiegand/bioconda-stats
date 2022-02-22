@@ -11,7 +11,7 @@
 },
 {
 "basename":"ucsc-hgtrackdb-377-h446ed27_1.tar.bz2",
-"total":53
+"total":54
 },
 {
 "basename":"ucsc-hgtrackdb-377-h199ee4e_0.tar.bz2",
@@ -262,6 +262,10 @@
 {
 "date":"2022-02-21",
 "total":260
+},
+{
+"date":"2022-02-22",
+"total":261
 }
 ],
 "package":"ucsc-hgtrackdb",
@@ -371,6 +375,15 @@
 {
 "basename":"ucsc-hgtrackdb-377-h199ee4e_0.tar.bz2",
 "total":152
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"ucsc-hgtrackdb-377-h446ed27_1.tar.bz2",
+"total":54
 }
 ]
 }

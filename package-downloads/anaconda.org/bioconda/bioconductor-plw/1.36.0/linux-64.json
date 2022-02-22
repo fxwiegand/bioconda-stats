@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-plw-1.36.0-r3.3.2_0.tar.bz2",
-"total":472
+"total":473
 },
 {
 "basename":"bioconductor-plw-1.36.0-r3.4.1_0.tar.bz2",
@@ -214,6 +214,10 @@
 {
 "date":"2022-02-21",
 "total":1049
+},
+{
+"date":"2022-02-22",
+"total":1050
 }
 ],
 "package":"bioconductor-plw",
@@ -263,6 +267,15 @@
 {
 "basename":"bioconductor-plw-1.36.0-r3.4.1_0.tar.bz2",
 "total":577
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-plw-1.36.0-r3.3.2_0.tar.bz2",
+"total":473
 }
 ]
 }

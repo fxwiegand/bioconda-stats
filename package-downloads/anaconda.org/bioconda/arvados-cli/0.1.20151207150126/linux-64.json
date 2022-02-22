@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"arvados-cli-0.1.20151207150126-0.tar.bz2",
-"total":3125
+"total":3126
 }
 ],
 "downloads_per_date":[
@@ -1058,6 +1058,10 @@
 {
 "date":"2022-02-21",
 "total":3125
+},
+{
+"date":"2022-02-22",
+"total":3126
 }
 ],
 "package":"arvados-cli",
@@ -1446,6 +1450,15 @@
 {
 "basename":"arvados-cli-0.1.20151207150126-0.tar.bz2",
 "total":3125
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"arvados-cli-0.1.20151207150126-0.tar.bz2",
+"total":3126
 }
 ]
 }

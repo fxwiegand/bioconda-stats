@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-bbmle-1.0.18-r3.3.2_0.tar.bz2",
-"total":486
+"total":487
 },
 {
 "basename":"r-bbmle-1.0.18-r3.3.1_0.tar.bz2",
@@ -190,6 +190,10 @@
 {
 "date":"2022-02-21",
 "total":1337
+},
+{
+"date":"2022-02-22",
+"total":1338
 }
 ],
 "package":"r-bbmle",
@@ -258,6 +262,15 @@
 {
 "basename":"r-bbmle-1.0.18-r3.3.1_0.tar.bz2",
 "total":851
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"r-bbmle-1.0.18-r3.3.2_0.tar.bz2",
+"total":487
 }
 ]
 }

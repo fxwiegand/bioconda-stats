@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-proloc-1.28.0-r40h5f743cb_0.tar.bz2",
-"total":100
+"total":101
 }
 ],
 "downloads_per_date":[
@@ -214,6 +214,10 @@
 {
 "date":"2022-02-21",
 "total":100
+},
+{
+"date":"2022-02-22",
+"total":101
 }
 ],
 "package":"bioconductor-proloc",
@@ -251,6 +255,15 @@
 {
 "basename":"bioconductor-proloc-1.28.0-r40h5f743cb_0.tar.bz2",
 "total":100
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-proloc-1.28.0-r40h5f743cb_0.tar.bz2",
+"total":101
 }
 ]
 }

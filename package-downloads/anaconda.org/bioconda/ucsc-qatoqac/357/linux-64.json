@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-qatoqac-357-0.tar.bz2",
-"total":444
+"total":445
 },
 {
 "basename":"ucsc-qatoqac-357-1.tar.bz2",
@@ -306,6 +306,10 @@
 {
 "date":"2022-02-21",
 "total":907
+},
+{
+"date":"2022-02-22",
+"total":908
 }
 ],
 "package":"ucsc-qatoqac",
@@ -396,6 +400,15 @@
 {
 "basename":"ucsc-qatoqac-357-1.tar.bz2",
 "total":463
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"ucsc-qatoqac-357-0.tar.bz2",
+"total":445
 }
 ]
 }

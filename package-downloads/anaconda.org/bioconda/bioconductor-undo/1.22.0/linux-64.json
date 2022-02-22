@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-undo-1.22.0-r351_0.tar.bz2",
-"total":191
+"total":192
 },
 {
 "basename":"bioconductor-undo-1.22.0-r341_0.tar.bz2",
@@ -238,6 +238,10 @@
 {
 "date":"2022-02-21",
 "total":500
+},
+{
+"date":"2022-02-22",
+"total":501
 }
 ],
 "package":"bioconductor-undo",
@@ -304,6 +308,15 @@
 {
 "basename":"bioconductor-undo-1.22.0-r341_0.tar.bz2",
 "total":309
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-undo-1.22.0-r351_0.tar.bz2",
+"total":192
 }
 ]
 }

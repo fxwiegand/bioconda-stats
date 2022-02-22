@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-arraytools-1.36.0-r3.4.1_0.tar.bz2",
-"total":2065
+"total":2066
 }
 ],
 "downloads_per_date":[
@@ -1050,6 +1050,10 @@
 {
 "date":"2022-02-21",
 "total":2312
+},
+{
+"date":"2022-02-22",
+"total":2313
 }
 ],
 "package":"bioconductor-arraytools",
@@ -1442,11 +1446,15 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
 {
 "basename":"bioconductor-arraytools-1.36.0-r3.3.2_0.tar.bz2",
 "total":247
+},
+{
+"basename":"bioconductor-arraytools-1.36.0-r3.4.1_0.tar.bz2",
+"total":2066
 }
 ]
 }

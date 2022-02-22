@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-greengenes13.5mgdb-2.0.0-r40hdfd78af_6.tar.bz2",
-"total":321
+"total":322
 }
 ],
 "downloads_per_date":[
@@ -938,6 +938,10 @@
 {
 "date":"2022-02-21",
 "total":788
+},
+{
+"date":"2022-02-22",
+"total":789
 }
 ],
 "package":"bioconductor-greengenes13.5mgdb",
@@ -1444,6 +1448,15 @@
 {
 "basename":"bioconductor-greengenes13.5mgdb-2.0.0-r40hdfd78af_6.tar.bz2",
 "total":321
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-greengenes13.5mgdb-2.0.0-r40hdfd78af_6.tar.bz2",
+"total":322
 }
 ]
 }

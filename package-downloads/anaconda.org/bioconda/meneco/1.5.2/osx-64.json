@@ -7,7 +7,7 @@
 },
 {
 "basename":"meneco-1.5.2-py36_0.tar.bz2",
-"total":2112
+"total":2113
 }
 ],
 "downloads_per_date":[
@@ -1074,6 +1074,10 @@
 {
 "date":"2022-02-21",
 "total":2305
+},
+{
+"date":"2022-02-22",
+"total":2306
 }
 ],
 "package":"meneco",
@@ -1466,11 +1470,15 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
 {
 "basename":"meneco-1.5.2-py35_0.tar.bz2",
 "total":193
+},
+{
+"basename":"meneco-1.5.2-py36_0.tar.bz2",
+"total":2113
 }
 ]
 }

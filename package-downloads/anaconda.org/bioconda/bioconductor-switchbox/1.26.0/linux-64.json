@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-switchbox-1.26.0-r40h399db7b_1.tar.bz2",
-"total":43
+"total":44
 },
 {
 "basename":"bioconductor-switchbox-1.26.0-r40h5f743cb_0.tar.bz2",
@@ -222,6 +222,10 @@
 {
 "date":"2022-02-21",
 "total":101
+},
+{
+"date":"2022-02-22",
+"total":102
 }
 ],
 "package":"bioconductor-switchbox",
@@ -298,6 +302,15 @@
 {
 "basename":"bioconductor-switchbox-1.26.0-r40h5f743cb_0.tar.bz2",
 "total":58
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-switchbox-1.26.0-r40h399db7b_1.tar.bz2",
+"total":44
 }
 ]
 }

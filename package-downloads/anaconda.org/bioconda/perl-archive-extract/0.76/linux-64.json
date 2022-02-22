@@ -19,7 +19,7 @@
 },
 {
 "basename":"perl-archive-extract-0.76-3.tar.bz2",
-"total":7426
+"total":7427
 }
 ],
 "downloads_per_date":[
@@ -322,6 +322,10 @@
 {
 "date":"2022-02-21",
 "total":9790
+},
+{
+"date":"2022-02-22",
+"total":9791
 }
 ],
 "package":"perl-archive-extract",
@@ -456,6 +460,15 @@
 {
 "basename":"perl-archive-extract-0.76-pl5.22.0_0.tar.bz2",
 "total":732
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"perl-archive-extract-0.76-3.tar.bz2",
+"total":7427
 }
 ]
 }

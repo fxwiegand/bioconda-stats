@@ -1068,6 +1068,10 @@
 {
 "date":"2022-02-21",
 "total":3852
+},
+{
+"date":"2022-02-22",
+"total":3853
 }
 ],
 "downloads_per_subdir":[
@@ -1077,7 +1081,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2390
+"total":2391
 }
 ],
 "package":"bioconductor-genomicranges",
@@ -1499,6 +1503,15 @@
 {
 "subdir":"osx-64",
 "total":2390
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2391
 }
 ]
 }

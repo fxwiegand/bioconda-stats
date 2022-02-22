@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-lea-2.6.0-r36h01d97ff_1.tar.bz2",
-"total":1829
+"total":1830
 }
 ],
 "downloads_per_date":[
@@ -1062,6 +1062,10 @@
 {
 "date":"2022-02-21",
 "total":2007
+},
+{
+"date":"2022-02-22",
+"total":2008
 }
 ],
 "package":"bioconductor-lea",
@@ -1454,11 +1458,15 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
 {
 "basename":"bioconductor-lea-2.6.0-r351h1de35cc_0.tar.bz2",
 "total":178
+},
+{
+"basename":"bioconductor-lea-2.6.0-r36h01d97ff_1.tar.bz2",
+"total":1830
 }
 ]
 }

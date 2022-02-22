@@ -1056,6 +1056,10 @@
 {
 "date":"2022-02-21",
 "total":995
+},
+{
+"date":"2022-02-22",
+"total":996
 }
 ],
 "downloads_per_subdir":[
@@ -1065,7 +1069,7 @@
 },
 {
 "subdir":"osx-64",
-"total":897
+"total":898
 }
 ],
 "package":"bioconductor-smad",
@@ -1478,6 +1482,15 @@
 {
 "subdir":"osx-64",
 "total":897
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":898
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-shinymethyl-1.16.0-r351_0.tar.bz2",
-"total":2260
+"total":2261
 }
 ],
 "downloads_per_date":[
@@ -1078,6 +1078,10 @@
 {
 "date":"2022-02-21",
 "total":2324
+},
+{
+"date":"2022-02-22",
+"total":2325
 }
 ],
 "package":"bioconductor-shinymethyl",
@@ -1470,11 +1474,15 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
 {
 "basename":"bioconductor-shinymethyl-1.16.0-r341_0.tar.bz2",
 "total":64
+},
+{
+"basename":"bioconductor-shinymethyl-1.16.0-r351_0.tar.bz2",
+"total":2261
 }
 ]
 }

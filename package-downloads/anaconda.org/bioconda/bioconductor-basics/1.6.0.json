@@ -1048,6 +1048,10 @@
 {
 "date":"2022-02-21",
 "total":1923
+},
+{
+"date":"2022-02-22",
+"total":1924
 }
 ],
 "downloads_per_subdir":[
@@ -1057,7 +1061,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1797
+"total":1798
 }
 ],
 "package":"bioconductor-basics",
@@ -1466,6 +1470,15 @@
 {
 "subdir":"osx-64",
 "total":1797
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1798
 }
 ]
 }

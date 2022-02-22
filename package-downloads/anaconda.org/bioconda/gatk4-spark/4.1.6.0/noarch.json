@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"gatk4-spark-4.1.6.0-0.tar.bz2",
-"total":457
+"total":458
 }
 ],
 "downloads_per_date":[
@@ -910,6 +910,10 @@
 {
 "date":"2022-02-21",
 "total":457
+},
+{
+"date":"2022-02-22",
+"total":458
 }
 ],
 "package":"gatk4-spark",
@@ -1307,6 +1311,15 @@
 {
 "basename":"gatk4-spark-4.1.6.0-0.tar.bz2",
 "total":457
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"gatk4-spark-4.1.6.0-0.tar.bz2",
+"total":458
 }
 ]
 }

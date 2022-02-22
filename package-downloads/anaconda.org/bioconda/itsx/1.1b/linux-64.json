@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"itsx-1.1b-pl5.22.0_0.tar.bz2",
-"total":823
+"total":824
 },
 {
 "basename":"itsx-1.1b-1.tar.bz2",
@@ -486,6 +486,10 @@
 {
 "date":"2022-02-21",
 "total":2041
+},
+{
+"date":"2022-02-22",
+"total":2042
 }
 ],
 "package":"itsx",
@@ -718,6 +722,15 @@
 {
 "basename":"itsx-1.1b-1.tar.bz2",
 "total":1218
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"itsx-1.1b-pl5.22.0_0.tar.bz2",
+"total":824
 }
 ]
 }

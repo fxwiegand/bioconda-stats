@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-genomicfeatures-1.24.5-r3.3.1_2.tar.bz2",
-"total":2113
+"total":2114
 }
 ],
 "downloads_per_date":[
@@ -282,6 +282,10 @@
 {
 "date":"2022-02-21",
 "total":3320
+},
+{
+"date":"2022-02-22",
+"total":3321
 }
 ],
 "package":"bioconductor-genomicfeatures",
@@ -375,6 +379,15 @@
 {
 "basename":"bioconductor-genomicfeatures-1.24.5-r3.3.1_0.tar.bz2",
 "total":673
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-genomicfeatures-1.24.5-r3.3.1_2.tar.bz2",
+"total":2114
 }
 ]
 }

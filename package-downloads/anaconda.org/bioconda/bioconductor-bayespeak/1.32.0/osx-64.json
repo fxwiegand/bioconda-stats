@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-bayespeak-1.32.0-r351h470a237_0.tar.bz2",
-"total":2215
+"total":2216
 }
 ],
 "downloads_per_date":[
@@ -1050,6 +1050,10 @@
 {
 "date":"2022-02-21",
 "total":2267
+},
+{
+"date":"2022-02-22",
+"total":2268
 }
 ],
 "package":"bioconductor-bayespeak",
@@ -1442,11 +1446,15 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
 {
 "basename":"bioconductor-bayespeak-1.32.0-r341h470a237_0.tar.bz2",
 "total":52
+},
+{
+"basename":"bioconductor-bayespeak-1.32.0-r351h470a237_0.tar.bz2",
+"total":2216
 }
 ]
 }

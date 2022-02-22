@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-bus-1.40.0-r36he1b5a44_1.tar.bz2",
-"total":135
+"total":136
 },
 {
 "basename":"bioconductor-bus-1.40.0-r351hf484d3e_0.tar.bz2",
@@ -254,6 +254,10 @@
 {
 "date":"2022-02-21",
 "total":306
+},
+{
+"date":"2022-02-22",
+"total":307
 }
 ],
 "package":"bioconductor-bus",
@@ -329,6 +333,15 @@
 {
 "basename":"bioconductor-bus-1.40.0-r351hf484d3e_0.tar.bz2",
 "total":171
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bus-1.40.0-r36he1b5a44_1.tar.bz2",
+"total":136
 }
 ]
 }

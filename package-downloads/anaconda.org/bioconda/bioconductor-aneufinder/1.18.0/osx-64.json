@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-aneufinder-1.18.0-r40h832b226_1.tar.bz2",
-"total":642
+"total":643
 }
 ],
 "downloads_per_date":[
@@ -1078,6 +1078,10 @@
 {
 "date":"2022-02-21",
 "total":944
+},
+{
+"date":"2022-02-22",
+"total":945
 }
 ],
 "package":"bioconductor-aneufinder",
@@ -1470,11 +1474,15 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
 {
 "basename":"bioconductor-aneufinder-1.18.0-r40h64ad5ed_0.tar.bz2",
 "total":302
+},
+{
+"basename":"bioconductor-aneufinder-1.18.0-r40h832b226_1.tar.bz2",
+"total":643
 }
 ]
 }

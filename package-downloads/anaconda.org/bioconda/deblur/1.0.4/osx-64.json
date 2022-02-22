@@ -19,7 +19,7 @@
 },
 {
 "basename":"deblur-1.0.4-py36_2.tar.bz2",
-"total":2219
+"total":2220
 },
 {
 "basename":"deblur-1.0.4-py35_2.tar.bz2",
@@ -1094,6 +1094,10 @@
 {
 "date":"2022-02-21",
 "total":5904
+},
+{
+"date":"2022-02-22",
+"total":5905
 }
 ],
 "package":"deblur",
@@ -1527,6 +1531,15 @@
 {
 "basename":"deblur-1.0.4-py36_2.tar.bz2",
 "total":2219
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"deblur-1.0.4-py36_2.tar.bz2",
+"total":2220
 }
 ]
 }

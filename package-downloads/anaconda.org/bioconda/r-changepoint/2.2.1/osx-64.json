@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-changepoint-2.2.1-r3.3.1_0.tar.bz2",
-"total":2058
+"total":2059
 }
 ],
 "downloads_per_date":[
@@ -1078,6 +1078,10 @@
 {
 "date":"2022-02-21",
 "total":2503
+},
+{
+"date":"2022-02-22",
+"total":2504
 }
 ],
 "package":"r-changepoint",
@@ -1470,11 +1474,15 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
 {
 "basename":"r-changepoint-2.2.1-r3.2.2_0.tar.bz2",
 "total":445
+},
+{
+"basename":"r-changepoint-2.2.1-r3.3.1_0.tar.bz2",
+"total":2059
 }
 ]
 }

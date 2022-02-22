@@ -1040,6 +1040,10 @@
 {
 "date":"2022-02-21",
 "total":1331
+},
+{
+"date":"2022-02-22",
+"total":1332
 }
 ],
 "downloads_per_subdir":[
@@ -1049,7 +1053,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1225
+"total":1226
 }
 ],
 "package":"bioconductor-chimera",
@@ -1471,6 +1475,15 @@
 {
 "subdir":"osx-64",
 "total":1225
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1226
 }
 ]
 }

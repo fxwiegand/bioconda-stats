@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-hgloadbed-357-0.tar.bz2",
-"total":441
+"total":442
 },
 {
 "basename":"ucsc-hgloadbed-357-1.tar.bz2",
@@ -314,6 +314,10 @@
 {
 "date":"2022-02-21",
 "total":899
+},
+{
+"date":"2022-02-22",
+"total":900
 }
 ],
 "package":"ucsc-hgloadbed",
@@ -416,6 +420,15 @@
 {
 "basename":"ucsc-hgloadbed-357-1.tar.bz2",
 "total":458
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"ucsc-hgloadbed-357-0.tar.bz2",
+"total":442
 }
 ]
 }

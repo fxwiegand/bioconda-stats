@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-trio-3.18.0-r351_0.tar.bz2",
-"total":2245
+"total":2246
 }
 ],
 "downloads_per_date":[
@@ -1054,6 +1054,10 @@
 {
 "date":"2022-02-21",
 "total":2284
+},
+{
+"date":"2022-02-22",
+"total":2285
 }
 ],
 "package":"bioconductor-trio",
@@ -1446,11 +1450,15 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
 {
 "basename":"bioconductor-trio-3.18.0-r341_0.tar.bz2",
 "total":39
+},
+{
+"basename":"bioconductor-trio-3.18.0-r351_0.tar.bz2",
+"total":2246
 }
 ]
 }

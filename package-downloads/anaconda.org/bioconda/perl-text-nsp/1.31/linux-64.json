@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-text-nsp-1.31-pl526_1.tar.bz2",
-"total":161
+"total":162
 },
 {
 "basename":"perl-text-nsp-1.31-pl526_2.tar.bz2",
@@ -362,6 +362,10 @@
 {
 "date":"2022-02-21",
 "total":1235
+},
+{
+"date":"2022-02-22",
+"total":1236
 }
 ],
 "package":"perl-text-nsp",
@@ -481,6 +485,15 @@
 {
 "basename":"perl-text-nsp-1.31-pl526_2.tar.bz2",
 "total":361
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"perl-text-nsp-1.31-pl526_1.tar.bz2",
+"total":162
 }
 ]
 }

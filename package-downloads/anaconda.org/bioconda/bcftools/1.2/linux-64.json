@@ -15,7 +15,7 @@
 },
 {
 "basename":"bcftools-1.2-1.tar.bz2",
-"total":1056
+"total":1057
 },
 {
 "basename":"bcftools-1.2-2.tar.bz2",
@@ -786,6 +786,10 @@
 {
 "date":"2022-02-21",
 "total":5003
+},
+{
+"date":"2022-02-22",
+"total":5004
 }
 ],
 "package":"bcftools",
@@ -1109,6 +1113,15 @@
 {
 "basename":"bcftools-1.2-h02bfda8_4.tar.bz2",
 "total":1027
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"bcftools-1.2-1.tar.bz2",
+"total":1057
 }
 ]
 }

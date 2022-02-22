@@ -7,7 +7,7 @@
 },
 {
 "basename":"jcvi-1.1.8-py38hd504320_0.tar.bz2",
-"total":60
+"total":62
 },
 {
 "basename":"jcvi-1.1.8-py36h29c9776_0.tar.bz2",
@@ -274,6 +274,10 @@
 {
 "date":"2022-02-21",
 "total":195
+},
+{
+"date":"2022-02-22",
+"total":197
 }
 ],
 "package":"jcvi",
@@ -382,6 +386,15 @@
 {
 "basename":"jcvi-1.1.8-py36h29c9776_0.tar.bz2",
 "total":76
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"jcvi-1.1.8-py38hd504320_0.tar.bz2",
+"total":62
 }
 ]
 }

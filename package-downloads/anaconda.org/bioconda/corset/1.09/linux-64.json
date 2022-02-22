@@ -7,7 +7,7 @@
 },
 {
 "basename":"corset-1.09-he513fc3_0.tar.bz2",
-"total":125
+"total":126
 },
 {
 "basename":"corset-1.09-he513fc3_1.tar.bz2",
@@ -502,6 +502,10 @@
 {
 "date":"2022-02-21",
 "total":470
+},
+{
+"date":"2022-02-22",
+"total":471
 }
 ],
 "package":"corset",
@@ -662,6 +666,15 @@
 {
 "basename":"corset-1.09-he513fc3_1.tar.bz2",
 "total":260
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"corset-1.09-he513fc3_0.tar.bz2",
+"total":126
 }
 ]
 }

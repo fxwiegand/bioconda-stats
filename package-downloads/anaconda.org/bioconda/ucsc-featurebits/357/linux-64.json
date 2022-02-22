@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-featurebits-357-1.tar.bz2",
-"total":331
+"total":332
 },
 {
 "basename":"ucsc-featurebits-357-0.tar.bz2",
@@ -346,6 +346,10 @@
 {
 "date":"2022-02-21",
 "total":923
+},
+{
+"date":"2022-02-22",
+"total":924
 }
 ],
 "package":"ucsc-featurebits",
@@ -444,6 +448,15 @@
 {
 "basename":"ucsc-featurebits-357-0.tar.bz2",
 "total":592
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"ucsc-featurebits-357-1.tar.bz2",
+"total":332
 }
 ]
 }

@@ -1004,6 +1004,10 @@
 {
 "date":"2022-02-21",
 "total":550
+},
+{
+"date":"2022-02-22",
+"total":551
 }
 ],
 "downloads_per_subdir":[
@@ -1013,7 +1017,7 @@
 },
 {
 "subdir":"osx-64",
-"total":489
+"total":490
 }
 ],
 "package":"bioconductor-samspectral",
@@ -1422,6 +1426,15 @@
 {
 "subdir":"osx-64",
 "total":489
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":490
 }
 ]
 }

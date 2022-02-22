@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-baynorm-1.10.0-r41h832b226_0.tar.bz2",
-"total":512
+"total":513
 }
 ],
 "downloads_per_date":[
@@ -1022,6 +1022,10 @@
 {
 "date":"2022-02-21",
 "total":512
+},
+{
+"date":"2022-02-22",
+"total":513
 }
 ],
 "package":"bioconductor-baynorm",
@@ -1419,6 +1423,15 @@
 {
 "basename":"bioconductor-baynorm-1.10.0-r41h832b226_0.tar.bz2",
 "total":512
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-baynorm-1.10.0-r41h832b226_0.tar.bz2",
+"total":513
 }
 ]
 }

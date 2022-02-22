@@ -1052,6 +1052,10 @@
 {
 "date":"2022-02-21",
 "total":2692
+},
+{
+"date":"2022-02-22",
+"total":2693
 }
 ],
 "downloads_per_subdir":[
@@ -1061,7 +1065,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2278
+"total":2279
 }
 ],
 "package":"bioconductor-chromheatmap",
@@ -1470,6 +1474,15 @@
 {
 "subdir":"osx-64",
 "total":2278
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2279
 }
 ]
 }

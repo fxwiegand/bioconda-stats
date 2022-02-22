@@ -7,7 +7,7 @@
 },
 {
 "basename":"jemalloc-3.6.0-1.tar.bz2",
-"total":1334
+"total":1335
 }
 ],
 "downloads_per_date":[
@@ -234,6 +234,10 @@
 {
 "date":"2022-02-21",
 "total":2041
+},
+{
+"date":"2022-02-22",
+"total":2042
 }
 ],
 "package":"jemalloc",
@@ -287,6 +291,15 @@
 {
 "basename":"jemalloc-3.6.0-1.tar.bz2",
 "total":1334
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"jemalloc-3.6.0-1.tar.bz2",
+"total":1335
 }
 ]
 }

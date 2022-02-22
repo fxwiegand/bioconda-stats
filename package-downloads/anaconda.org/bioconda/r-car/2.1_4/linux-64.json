@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-car-2.1_4-r3.3.1_0.tar.bz2",
-"total":2120
+"total":2121
 },
 {
 "basename":"r-car-2.1_4-r3.3.2_0.tar.bz2",
@@ -274,6 +274,10 @@
 {
 "date":"2022-02-21",
 "total":5267
+},
+{
+"date":"2022-02-22",
+"total":5268
 }
 ],
 "package":"r-car",
@@ -332,6 +336,15 @@
 {
 "basename":"r-car-2.1_4-r3.3.1_0.tar.bz2",
 "total":2120
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"r-car-2.1_4-r3.3.1_0.tar.bz2",
+"total":2121
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-bufferedmatrixmethods-1.48.0-r36h01d97ff_1.tar.bz2",
-"total":1815
+"total":1816
 }
 ],
 "downloads_per_date":[
@@ -1058,6 +1058,10 @@
 {
 "date":"2022-02-21",
 "total":1998
+},
+{
+"date":"2022-02-22",
+"total":1999
 }
 ],
 "package":"bioconductor-bufferedmatrixmethods",
@@ -1450,11 +1454,15 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
 {
 "basename":"bioconductor-bufferedmatrixmethods-1.48.0-r351h1de35cc_0.tar.bz2",
 "total":183
+},
+{
+"basename":"bioconductor-bufferedmatrixmethods-1.48.0-r36h01d97ff_1.tar.bz2",
+"total":1816
 }
 ]
 }

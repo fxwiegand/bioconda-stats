@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-ringo-1.54.0-r40h399db7b_1.tar.bz2",
-"total":110
+"total":111
 },
 {
 "basename":"bioconductor-ringo-1.54.0-r40h5f743cb_0.tar.bz2",
@@ -390,6 +390,10 @@
 {
 "date":"2022-02-21",
 "total":263
+},
+{
+"date":"2022-02-22",
+"total":264
 }
 ],
 "package":"bioconductor-ringo",
@@ -511,6 +515,15 @@
 {
 "basename":"bioconductor-ringo-1.54.0-r40h5f743cb_0.tar.bz2",
 "total":153
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ringo-1.54.0-r40h399db7b_1.tar.bz2",
+"total":111
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"squid-1.4-h6fa9f75_0.tar.bz2",
-"total":304
+"total":305
 }
 ],
 "downloads_per_date":[
@@ -214,6 +214,10 @@
 {
 "date":"2022-02-21",
 "total":304
+},
+{
+"date":"2022-02-22",
+"total":305
 }
 ],
 "package":"squid",
@@ -260,6 +264,15 @@
 {
 "basename":"squid-1.4-h6fa9f75_0.tar.bz2",
 "total":304
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"squid-1.4-h6fa9f75_0.tar.bz2",
+"total":305
 }
 ]
 }

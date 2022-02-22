@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"faqcs-2.10-r41h87af4ef_2.tar.bz2",
-"total":75
+"total":76
 },
 {
 "basename":"faqcs-2.10-r40h7475705_0.tar.bz2",
@@ -1054,6 +1054,10 @@
 {
 "date":"2022-02-21",
 "total":1035
+},
+{
+"date":"2022-02-22",
+"total":1036
 }
 ],
 "package":"faqcs",
@@ -1459,8 +1463,12 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
+{
+"basename":"faqcs-2.10-r41h87af4ef_2.tar.bz2",
+"total":76
+},
 {
 "basename":"faqcs-2.10-r40h7475705_0.tar.bz2",
 "total":418

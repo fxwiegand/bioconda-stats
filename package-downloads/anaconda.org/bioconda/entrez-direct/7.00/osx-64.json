@@ -7,7 +7,7 @@
 },
 {
 "basename":"entrez-direct-7.00-pl5.22.0_1.tar.bz2",
-"total":2278
+"total":2279
 }
 ],
 "downloads_per_date":[
@@ -1054,6 +1054,10 @@
 {
 "date":"2022-02-21",
 "total":2499
+},
+{
+"date":"2022-02-22",
+"total":2500
 }
 ],
 "package":"entrez-direct",
@@ -1446,11 +1450,15 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
 {
 "basename":"entrez-direct-7.00-pl5.22.0_0.tar.bz2",
 "total":221
+},
+{
+"basename":"entrez-direct-7.00-pl5.22.0_1.tar.bz2",
+"total":2279
 }
 ]
 }

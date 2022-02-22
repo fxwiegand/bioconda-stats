@@ -7,7 +7,7 @@
 },
 {
 "basename":"hatchet-0.4.5-py38h8c62d01_0.tar.bz2",
-"total":40
+"total":41
 },
 {
 "basename":"hatchet-0.4.5-py39h7cff6ad_0.tar.bz2",
@@ -186,6 +186,10 @@
 {
 "date":"2022-02-21",
 "total":121
+},
+{
+"date":"2022-02-22",
+"total":122
 }
 ],
 "package":"hatchet",
@@ -272,6 +276,15 @@
 {
 "basename":"hatchet-0.4.5-py39h7cff6ad_0.tar.bz2",
 "total":43
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"hatchet-0.4.5-py38h8c62d01_0.tar.bz2",
+"total":41
 }
 ]
 }

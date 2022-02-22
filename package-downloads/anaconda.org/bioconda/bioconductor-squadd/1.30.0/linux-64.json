@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-squadd-1.30.0-r351_0.tar.bz2",
-"total":168
+"total":169
 },
 {
 "basename":"bioconductor-squadd-1.30.0-r341_0.tar.bz2",
@@ -254,6 +254,10 @@
 {
 "date":"2022-02-21",
 "total":464
+},
+{
+"date":"2022-02-22",
+"total":465
 }
 ],
 "package":"bioconductor-squadd",
@@ -330,6 +334,15 @@
 {
 "basename":"bioconductor-squadd-1.30.0-r341_0.tar.bz2",
 "total":296
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-squadd-1.30.0-r351_0.tar.bz2",
+"total":169
 }
 ]
 }

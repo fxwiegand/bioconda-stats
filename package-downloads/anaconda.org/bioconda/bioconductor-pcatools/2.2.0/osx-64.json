@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-pcatools-2.2.0-r40h832b226_1.tar.bz2",
-"total":599
+"total":600
 }
 ],
 "downloads_per_date":[
@@ -1058,6 +1058,10 @@
 {
 "date":"2022-02-21",
 "total":922
+},
+{
+"date":"2022-02-22",
+"total":923
 }
 ],
 "package":"bioconductor-pcatools",
@@ -1450,11 +1454,15 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
 {
 "basename":"bioconductor-pcatools-2.2.0-r40h64ad5ed_0.tar.bz2",
 "total":323
+},
+{
+"basename":"bioconductor-pcatools-2.2.0-r40h832b226_1.tar.bz2",
+"total":600
 }
 ]
 }

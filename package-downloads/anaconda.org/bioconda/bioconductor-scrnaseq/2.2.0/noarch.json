@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-scrnaseq-2.2.0-r40_0.tar.bz2",
-"total":400
+"total":401
 }
 ],
 "downloads_per_date":[
@@ -914,6 +914,10 @@
 {
 "date":"2022-02-21",
 "total":400
+},
+{
+"date":"2022-02-22",
+"total":401
 }
 ],
 "package":"bioconductor-scrnaseq",
@@ -1302,6 +1306,15 @@
 {
 "basename":"bioconductor-scrnaseq-2.2.0-r40_0.tar.bz2",
 "total":400
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-scrnaseq-2.2.0-r40_0.tar.bz2",
+"total":401
 }
 ]
 }

@@ -23,7 +23,7 @@
 },
 {
 "basename":"fermi2-r193-pl5.22.0_1.tar.bz2",
-"total":2040
+"total":2041
 }
 ],
 "downloads_per_date":[
@@ -1094,6 +1094,10 @@
 {
 "date":"2022-02-21",
 "total":2420
+},
+{
+"date":"2022-02-22",
+"total":2421
 }
 ],
 "package":"fermi2",
@@ -1486,7 +1490,7 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
 {
 "basename":"fermi2-r193-h2573ce8_4.tar.bz2",
@@ -1507,6 +1511,10 @@
 {
 "basename":"fermi2-r193-ha92aebf_2.tar.bz2",
 "total":273
+},
+{
+"basename":"fermi2-r193-pl5.22.0_1.tar.bz2",
+"total":2041
 }
 ]
 }

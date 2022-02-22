@@ -7,7 +7,7 @@
 },
 {
 "basename":"ont-tombo-1.2.1.2-py27r3.4.1_0.tar.bz2",
-"total":194
+"total":195
 },
 {
 "basename":"ont-tombo-1.2.1.2-py36r3.4.1_0.tar.bz2",
@@ -202,6 +202,10 @@
 {
 "date":"2022-02-21",
 "total":725
+},
+{
+"date":"2022-02-22",
+"total":726
 }
 ],
 "package":"ont-tombo",
@@ -290,6 +294,15 @@
 {
 "basename":"ont-tombo-1.2.1.2-py36r3.4.1_0.tar.bz2",
 "total":350
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"ont-tombo-1.2.1.2-py27r3.4.1_0.tar.bz2",
+"total":195
 }
 ]
 }

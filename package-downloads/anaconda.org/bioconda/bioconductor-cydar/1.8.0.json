@@ -1048,6 +1048,10 @@
 {
 "date":"2022-02-21",
 "total":1905
+},
+{
+"date":"2022-02-22",
+"total":1906
 }
 ],
 "downloads_per_subdir":[
@@ -1057,7 +1061,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1788
+"total":1789
 }
 ],
 "package":"bioconductor-cydar",
@@ -1462,6 +1466,15 @@
 {
 "subdir":"osx-64",
 "total":1788
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1789
 }
 ]
 }

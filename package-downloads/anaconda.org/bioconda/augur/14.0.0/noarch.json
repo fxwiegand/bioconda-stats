@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"augur-14.0.0-pyhdfd78af_0.tar.bz2",
-"total":104
+"total":123
 }
 ],
 "downloads_per_date":[
@@ -42,6 +42,10 @@
 {
 "date":"2022-02-21",
 "total":104
+},
+{
+"date":"2022-02-22",
+"total":123
 }
 ],
 "package":"augur",
@@ -115,6 +119,15 @@
 {
 "basename":"augur-14.0.0-pyhdfd78af_0.tar.bz2",
 "total":104
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"augur-14.0.0-pyhdfd78af_0.tar.bz2",
+"total":123
 }
 ]
 }

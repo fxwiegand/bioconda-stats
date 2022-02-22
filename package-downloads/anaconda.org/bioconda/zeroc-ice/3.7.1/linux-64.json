@@ -15,7 +15,7 @@
 },
 {
 "basename":"zeroc-ice-3.7.1-py27hd0a1c67_0.tar.bz2",
-"total":289
+"total":290
 },
 {
 "basename":"zeroc-ice-3.7.1-py35hd0a1c67_0.tar.bz2",
@@ -806,6 +806,10 @@
 {
 "date":"2022-02-21",
 "total":1883
+},
+{
+"date":"2022-02-22",
+"total":1884
 }
 ],
 "package":"zeroc-ice",
@@ -1159,6 +1163,15 @@
 {
 "basename":"zeroc-ice-3.7.1-py35hd0a1c67_0.tar.bz2",
 "total":1030
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"zeroc-ice-3.7.1-py27hd0a1c67_0.tar.bz2",
+"total":290
 }
 ]
 }

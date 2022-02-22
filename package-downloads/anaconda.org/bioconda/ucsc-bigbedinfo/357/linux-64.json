@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-bigbedinfo-357-0.tar.bz2",
-"total":1234
+"total":1235
 },
 {
 "basename":"ucsc-bigbedinfo-357-1.tar.bz2",
@@ -418,6 +418,10 @@
 {
 "date":"2022-02-21",
 "total":4219
+},
+{
+"date":"2022-02-22",
+"total":4220
 }
 ],
 "package":"ucsc-bigbedinfo",
@@ -493,6 +497,15 @@
 {
 "basename":"ucsc-bigbedinfo-357-1.tar.bz2",
 "total":2985
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bigbedinfo-357-0.tar.bz2",
+"total":1235
 }
 ]
 }

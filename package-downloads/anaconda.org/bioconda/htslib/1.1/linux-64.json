@@ -7,7 +7,7 @@
 },
 {
 "basename":"htslib-1.1-h18ffd7a_1.tar.bz2",
-"total":77
+"total":78
 },
 {
 "basename":"htslib-1.1-hcad73aa_0.tar.bz2",
@@ -374,6 +374,10 @@
 {
 "date":"2022-02-21",
 "total":231
+},
+{
+"date":"2022-02-22",
+"total":232
 }
 ],
 "package":"htslib",
@@ -506,6 +510,15 @@
 {
 "basename":"htslib-1.1-hcad73aa_0.tar.bz2",
 "total":90
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"htslib-1.1-h18ffd7a_1.tar.bz2",
+"total":78
 }
 ]
 }

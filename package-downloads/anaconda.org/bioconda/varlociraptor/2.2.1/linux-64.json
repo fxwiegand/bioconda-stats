@@ -7,7 +7,7 @@
 },
 {
 "basename":"varlociraptor-2.2.1-hd5fb649_2.tar.bz2",
-"total":78
+"total":79
 },
 {
 "basename":"varlociraptor-2.2.1-h7cb8cc3_0.tar.bz2",
@@ -222,6 +222,10 @@
 {
 "date":"2022-02-21",
 "total":234
+},
+{
+"date":"2022-02-22",
+"total":235
 }
 ],
 "package":"varlociraptor",
@@ -313,6 +317,15 @@
 {
 "basename":"varlociraptor-2.2.1-h7cb8cc3_0.tar.bz2",
 "total":82
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"varlociraptor-2.2.1-hd5fb649_2.tar.bz2",
+"total":79
 }
 ]
 }

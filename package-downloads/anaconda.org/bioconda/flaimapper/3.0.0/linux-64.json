@@ -11,7 +11,7 @@
 },
 {
 "basename":"flaimapper-3.0.0-py35_1.tar.bz2",
-"total":283
+"total":284
 },
 {
 "basename":"flaimapper-3.0.0-py36_1.tar.bz2",
@@ -214,6 +214,10 @@
 {
 "date":"2022-02-21",
 "total":1095
+},
+{
+"date":"2022-02-22",
+"total":1096
 }
 ],
 "package":"flaimapper",
@@ -320,6 +324,15 @@
 {
 "basename":"flaimapper-3.0.0-py36_1.tar.bz2",
 "total":456
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"flaimapper-3.0.0-py35_1.tar.bz2",
+"total":284
 }
 ]
 }

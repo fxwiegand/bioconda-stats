@@ -1048,6 +1048,10 @@
 {
 "date":"2022-02-21",
 "total":3500
+},
+{
+"date":"2022-02-22",
+"total":3501
 }
 ],
 "downloads_per_subdir":[
@@ -1057,7 +1061,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2306
+"total":2307
 }
 ],
 "package":"bioconductor-calib",
@@ -1466,6 +1470,15 @@
 {
 "subdir":"osx-64",
 "total":2306
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2307
 }
 ]
 }

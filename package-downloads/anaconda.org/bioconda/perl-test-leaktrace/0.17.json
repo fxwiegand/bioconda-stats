@@ -20,6 +20,10 @@
 {
 "date":"2022-02-21",
 "total":43
+},
+{
+"date":"2022-02-22",
+"total":45
 }
 ],
 "downloads_per_subdir":[
@@ -29,7 +33,7 @@
 },
 {
 "subdir":"osx-64",
-"total":26
+"total":28
 }
 ],
 "package":"perl-test-leaktrace",
@@ -96,6 +100,15 @@
 {
 "subdir":"osx-64",
 "total":26
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":28
 }
 ]
 }

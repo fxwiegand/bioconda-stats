@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-doqtl-1.16.2-r351h470a237_0.tar.bz2",
-"total":2098
+"total":2099
 }
 ],
 "downloads_per_date":[
@@ -1050,6 +1050,10 @@
 {
 "date":"2022-02-21",
 "total":2280
+},
+{
+"date":"2022-02-22",
+"total":2281
 }
 ],
 "package":"bioconductor-doqtl",
@@ -1442,11 +1446,15 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
 {
 "basename":"bioconductor-doqtl-1.16.2-r341h470a237_0.tar.bz2",
 "total":182
+},
+{
+"basename":"bioconductor-doqtl-1.16.2-r351h470a237_0.tar.bz2",
+"total":2099
 }
 ]
 }

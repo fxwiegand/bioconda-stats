@@ -7,7 +7,7 @@
 },
 {
 "basename":"biobb_cmip-3.7.5-pyhdfd78af_1.tar.bz2",
-"total":62
+"total":64
 }
 ],
 "downloads_per_date":[
@@ -102,6 +102,10 @@
 {
 "date":"2022-02-21",
 "total":78
+},
+{
+"date":"2022-02-22",
+"total":80
 }
 ],
 "package":"biobb_cmip",
@@ -326,6 +330,15 @@
 {
 "basename":"biobb_cmip-3.7.5-pyhdfd78af_1.tar.bz2",
 "total":62
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"biobb_cmip-3.7.5-pyhdfd78af_1.tar.bz2",
+"total":64
 }
 ]
 }

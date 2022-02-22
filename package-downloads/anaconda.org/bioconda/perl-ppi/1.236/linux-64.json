@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-ppi-1.236-0.tar.bz2",
-"total":239
+"total":240
 },
 {
 "basename":"perl-ppi-1.236-pl526_2.tar.bz2",
@@ -210,6 +210,10 @@
 {
 "date":"2022-02-21",
 "total":674
+},
+{
+"date":"2022-02-22",
+"total":675
 }
 ],
 "package":"perl-ppi",
@@ -285,6 +289,15 @@
 {
 "basename":"perl-ppi-1.236-pl526_2.tar.bz2",
 "total":435
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"perl-ppi-1.236-0.tar.bz2",
+"total":240
 }
 ]
 }

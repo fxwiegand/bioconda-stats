@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-bigwigaverageoverbed-377-h8b15c51_0.tar.bz2",
-"total":2210
+"total":2211
 }
 ],
 "downloads_per_date":[
@@ -1078,6 +1078,10 @@
 {
 "date":"2022-02-21",
 "total":2297
+},
+{
+"date":"2022-02-22",
+"total":2298
 }
 ],
 "package":"ucsc-bigwigaverageoverbed",
@@ -1517,6 +1521,15 @@
 {
 "basename":"ucsc-bigwigaverageoverbed-377-h516baf0_1.tar.bz2",
 "total":87
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bigwigaverageoverbed-377-h8b15c51_0.tar.bz2",
+"total":2211
 }
 ]
 }

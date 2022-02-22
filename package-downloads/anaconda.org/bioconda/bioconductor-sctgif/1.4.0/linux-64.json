@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-sctgif-1.4.0-r40h399db7b_1.tar.bz2",
-"total":55
+"total":56
 },
 {
 "basename":"bioconductor-sctgif-1.4.0-r40h5f743cb_0.tar.bz2",
@@ -246,6 +246,10 @@
 {
 "date":"2022-02-21",
 "total":125
+},
+{
+"date":"2022-02-22",
+"total":126
 }
 ],
 "package":"bioconductor-sctgif",
@@ -309,6 +313,15 @@
 {
 "basename":"bioconductor-sctgif-1.4.0-r40h5f743cb_0.tar.bz2",
 "total":70
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-sctgif-1.4.0-r40h399db7b_1.tar.bz2",
+"total":56
 }
 ]
 }

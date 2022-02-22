@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-mce-1.835-pl526_1.tar.bz2",
-"total":170
+"total":171
 },
 {
 "basename":"perl-mce-1.835-pl5.22.0_0.tar.bz2",
@@ -198,6 +198,10 @@
 {
 "date":"2022-02-21",
 "total":504
+},
+{
+"date":"2022-02-22",
+"total":505
 }
 ],
 "package":"perl-mce",
@@ -269,6 +273,15 @@
 {
 "basename":"perl-mce-1.835-pl526_1.tar.bz2",
 "total":170
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"perl-mce-1.835-pl526_1.tar.bz2",
+"total":171
 }
 ]
 }

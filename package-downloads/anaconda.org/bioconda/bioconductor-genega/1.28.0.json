@@ -1048,6 +1048,10 @@
 {
 "date":"2022-02-21",
 "total":2628
+},
+{
+"date":"2022-02-22",
+"total":2629
 }
 ],
 "downloads_per_subdir":[
@@ -1057,7 +1061,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2241
+"total":2242
 }
 ],
 "package":"bioconductor-genega",
@@ -1470,6 +1474,15 @@
 {
 "subdir":"osx-64",
 "total":2241
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2242
 }
 ]
 }

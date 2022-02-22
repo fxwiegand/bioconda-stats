@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-hgspeciesrna-357-1.tar.bz2",
-"total":339
+"total":340
 },
 {
 "basename":"ucsc-hgspeciesrna-357-0.tar.bz2",
@@ -186,6 +186,10 @@
 {
 "date":"2022-02-21",
 "total":740
+},
+{
+"date":"2022-02-22",
+"total":741
 }
 ],
 "package":"ucsc-hgspeciesrna",
@@ -252,6 +256,15 @@
 {
 "basename":"ucsc-hgspeciesrna-357-0.tar.bz2",
 "total":401
+}
+]
+},
+{
+"date":"2022-02-22",
+"downloads_per_basename":[
+{
+"basename":"ucsc-hgspeciesrna-357-1.tar.bz2",
+"total":340
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-rhisat2-1.6.0-r40h832b226_1.tar.bz2",
-"total":595
+"total":596
 }
 ],
 "downloads_per_date":[
@@ -1050,6 +1050,10 @@
 {
 "date":"2022-02-21",
 "total":900
+},
+{
+"date":"2022-02-22",
+"total":901
 }
 ],
 "package":"bioconductor-rhisat2",
@@ -1442,11 +1446,15 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rhisat2-1.6.0-r40h64ad5ed_0.tar.bz2",
 "total":305
+},
+{
+"basename":"bioconductor-rhisat2-1.6.0-r40h832b226_1.tar.bz2",
+"total":596
 }
 ]
 }

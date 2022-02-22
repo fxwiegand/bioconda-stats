@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-amplican-1.12.0-r40h832b226_1.tar.bz2",
-"total":642
+"total":643
 }
 ],
 "downloads_per_date":[
@@ -1078,6 +1078,10 @@
 {
 "date":"2022-02-21",
 "total":949
+},
+{
+"date":"2022-02-22",
+"total":950
 }
 ],
 "package":"bioconductor-amplican",
@@ -1470,11 +1474,15 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
 {
 "basename":"bioconductor-amplican-1.12.0-r40h64ad5ed_0.tar.bz2",
 "total":307
+},
+{
+"basename":"bioconductor-amplican-1.12.0-r40h832b226_1.tar.bz2",
+"total":643
 }
 ]
 }

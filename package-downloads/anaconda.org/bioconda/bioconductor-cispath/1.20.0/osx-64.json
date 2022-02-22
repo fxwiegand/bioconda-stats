@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-cispath-1.20.0-r351hfc679d8_0.tar.bz2",
-"total":2003
+"total":2004
 }
 ],
 "downloads_per_date":[
@@ -1058,6 +1058,10 @@
 {
 "date":"2022-02-21",
 "total":2293
+},
+{
+"date":"2022-02-22",
+"total":2294
 }
 ],
 "package":"bioconductor-cispath",
@@ -1450,11 +1454,15 @@
 ]
 },
 {
-"date":"2022-02-21",
+"date":"2022-02-22",
 "downloads_per_basename":[
 {
 "basename":"bioconductor-cispath-1.20.0-r341hfc679d8_0.tar.bz2",
 "total":290
+},
+{
+"basename":"bioconductor-cispath-1.20.0-r351hfc679d8_0.tar.bz2",
+"total":2004
 }
 ]
 }
