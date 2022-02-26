@@ -23,7 +23,7 @@
 },
 {
 "basename":"ete3-3.0.0b35-py36_1.tar.bz2",
-"total":1262
+"total":1263
 },
 {
 "basename":"ete3-3.0.0b35-py35_1.tar.bz2",
@@ -590,6 +590,10 @@
 {
 "date":"2022-02-22",
 "total":6003
+},
+{
+"date":"2022-02-26",
+"total":6004
 }
 ],
 "package":"ete3",
@@ -820,6 +824,15 @@
 {
 "basename":"ete3-3.0.0b35-py35_1.tar.bz2",
 "total":1489
+}
+]
+},
+{
+"date":"2022-02-26",
+"downloads_per_basename":[
+{
+"basename":"ete3-3.0.0b35-py36_1.tar.bz2",
+"total":1263
 }
 ]
 }

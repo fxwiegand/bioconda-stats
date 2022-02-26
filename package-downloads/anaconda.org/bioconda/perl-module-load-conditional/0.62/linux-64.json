@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-module-load-conditional-0.62-pl526_1.tar.bz2",
-"total":298
+"total":299
 },
 {
 "basename":"perl-module-load-conditional-0.62-pl5.22.0_0.tar.bz2",
@@ -222,6 +222,10 @@
 {
 "date":"2022-02-22",
 "total":733
+},
+{
+"date":"2022-02-26",
+"total":734
 }
 ],
 "package":"perl-module-load-conditional",
@@ -355,6 +359,15 @@
 {
 "basename":"perl-module-load-conditional-0.62-pl5.22.0_0.tar.bz2",
 "total":435
+}
+]
+},
+{
+"date":"2022-02-26",
+"downloads_per_basename":[
+{
+"basename":"perl-module-load-conditional-0.62-pl526_1.tar.bz2",
+"total":299
 }
 ]
 }

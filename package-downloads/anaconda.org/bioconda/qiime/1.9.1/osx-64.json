@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"qiime-1.9.1-np110py27_1.tar.bz2",
-"total":947
+"total":948
 },
 {
 "basename":"qiime-1.9.1-np112py27_1.tar.bz2",
@@ -806,6 +806,10 @@
 {
 "date":"2022-02-22",
 "total":7487
+},
+{
+"date":"2022-02-26",
+"total":7488
 }
 ],
 "package":"qiime",
@@ -957,6 +961,15 @@
 {
 "basename":"qiime-1.9.1-np110py27_0.tar.bz2",
 "total":3929
+}
+]
+},
+{
+"date":"2022-02-26",
+"downloads_per_basename":[
+{
+"basename":"qiime-1.9.1-np110py27_1.tar.bz2",
+"total":948
 }
 ]
 }

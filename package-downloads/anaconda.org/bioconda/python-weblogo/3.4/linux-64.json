@@ -15,7 +15,7 @@
 },
 {
 "basename":"python-weblogo-3.4-py27_0.tar.bz2",
-"total":4363
+"total":4364
 }
 ],
 "downloads_per_date":[
@@ -326,6 +326,10 @@
 {
 "date":"2022-02-22",
 "total":11284
+},
+{
+"date":"2022-02-26",
+"total":11285
 }
 ],
 "package":"python-weblogo",
@@ -456,6 +460,15 @@
 {
 "basename":"python-weblogo-3.4-py36_0.tar.bz2",
 "total":2503
+}
+]
+},
+{
+"date":"2022-02-26",
+"downloads_per_basename":[
+{
+"basename":"python-weblogo-3.4-py27_0.tar.bz2",
+"total":4364
 }
 ]
 }

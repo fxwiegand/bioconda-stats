@@ -15,7 +15,7 @@
 },
 {
 "basename":"pysam-0.9.1.4-py35_1.tar.bz2",
-"total":2973
+"total":2974
 },
 {
 "basename":"pysam-0.9.1.4-py27_1.tar.bz2",
@@ -506,6 +506,10 @@
 {
 "date":"2022-02-22",
 "total":16551
+},
+{
+"date":"2022-02-26",
+"total":16552
 }
 ],
 "package":"pysam",
@@ -712,6 +716,15 @@
 {
 "basename":"pysam-0.9.1.4-py27_1.tar.bz2",
 "total":4764
+}
+]
+},
+{
+"date":"2022-02-26",
+"downloads_per_basename":[
+{
+"basename":"pysam-0.9.1.4-py35_1.tar.bz2",
+"total":2974
 }
 ]
 }

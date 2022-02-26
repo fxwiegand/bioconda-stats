@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-test-warnings-0.021-1.tar.bz2",
-"total":3650
+"total":3654
 }
 ],
 "downloads_per_date":[
@@ -566,6 +566,10 @@
 {
 "date":"2022-02-22",
 "total":4290
+},
+{
+"date":"2022-02-26",
+"total":4294
 }
 ],
 "package":"perl-test-warnings",
@@ -735,6 +739,15 @@
 {
 "basename":"perl-test-warnings-0.021-pl526_3.tar.bz2",
 "total":315
+}
+]
+},
+{
+"date":"2022-02-26",
+"downloads_per_basename":[
+{
+"basename":"perl-test-warnings-0.021-1.tar.bz2",
+"total":3654
 }
 ]
 }

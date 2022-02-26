@@ -7,7 +7,7 @@
 },
 {
 "basename":"das_tool-1.1.1-py36r351_1.tar.bz2",
-"total":930
+"total":931
 },
 {
 "basename":"das_tool-1.1.1-r351_2.tar.bz2",
@@ -850,6 +850,10 @@
 {
 "date":"2022-02-22",
 "total":3611
+},
+{
+"date":"2022-02-26",
+"total":3612
 }
 ],
 "package":"das_tool",
@@ -1004,6 +1008,15 @@
 {
 "basename":"das_tool-1.1.1-r351_2.tar.bz2",
 "total":2211
+}
+]
+},
+{
+"date":"2022-02-26",
+"downloads_per_basename":[
+{
+"basename":"das_tool-1.1.1-py36r351_1.tar.bz2",
+"total":931
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"rgi-3.2.0-py27_2.tar.bz2",
-"total":195
+"total":196
 },
 {
 "basename":"rgi-3.2.0-py27_1.tar.bz2",
@@ -250,6 +250,10 @@
 {
 "date":"2022-02-22",
 "total":1059
+},
+{
+"date":"2022-02-26",
+"total":1060
 }
 ],
 "package":"rgi",
@@ -359,6 +363,15 @@
 {
 "basename":"rgi-3.2.0-py27_1.tar.bz2",
 "total":672
+}
+]
+},
+{
+"date":"2022-02-26",
+"downloads_per_basename":[
+{
+"basename":"rgi-3.2.0-py27_2.tar.bz2",
+"total":196
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-importer-0.024-0.tar.bz2",
-"total":2713
+"total":2715
 },
 {
 "basename":"perl-importer-0.024-pl526_1.tar.bz2",
@@ -374,6 +374,10 @@
 {
 "date":"2022-02-22",
 "total":6244
+},
+{
+"date":"2022-02-26",
+"total":6246
 }
 ],
 "package":"perl-importer",
@@ -518,6 +522,15 @@
 {
 "basename":"perl-importer-0.024-pl526_1.tar.bz2",
 "total":3531
+}
+]
+},
+{
+"date":"2022-02-26",
+"downloads_per_basename":[
+{
+"basename":"perl-importer-0.024-0.tar.bz2",
+"total":2715
 }
 ]
 }

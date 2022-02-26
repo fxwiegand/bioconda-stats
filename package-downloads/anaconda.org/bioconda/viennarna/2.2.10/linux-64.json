@@ -7,7 +7,7 @@
 },
 {
 "basename":"viennarna-2.2.10-1.tar.bz2",
-"total":5596
+"total":5603
 }
 ],
 "downloads_per_date":[
@@ -338,6 +338,10 @@
 {
 "date":"2022-02-22",
 "total":6312
+},
+{
+"date":"2022-02-26",
+"total":6319
 }
 ],
 "package":"viennarna",
@@ -476,6 +480,15 @@
 {
 "basename":"viennarna-2.2.10-0.tar.bz2",
 "total":716
+}
+]
+},
+{
+"date":"2022-02-26",
+"downloads_per_basename":[
+{
+"basename":"viennarna-2.2.10-1.tar.bz2",
+"total":5603
 }
 ]
 }

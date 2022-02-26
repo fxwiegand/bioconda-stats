@@ -56,6 +56,10 @@
 {
 "date":"2022-02-22",
 "total":57
+},
+{
+"date":"2022-02-26",
+"total":65
 }
 ],
 "downloads_per_subdir":[
@@ -65,7 +69,7 @@
 },
 {
 "subdir":"osx-64",
-"total":44
+"total":52
 }
 ],
 "package":"bioconductor-bambu",
@@ -221,6 +225,15 @@
 {
 "subdir":"osx-64",
 "total":44
+}
+]
+},
+{
+"date":"2022-02-26",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":52
 }
 ]
 }

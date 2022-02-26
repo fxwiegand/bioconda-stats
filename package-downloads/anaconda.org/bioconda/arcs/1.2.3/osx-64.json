@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"arcs-1.2.3-hebe948a_1.tar.bz2",
-"total":5
+"total":15
 },
 {
 "basename":"arcs-1.2.3-ha5961c5_0.tar.bz2",
@@ -42,6 +42,10 @@
 {
 "date":"2022-02-22",
 "total":28
+},
+{
+"date":"2022-02-26",
+"total":38
 }
 ],
 "package":"arcs",
@@ -110,6 +114,15 @@
 {
 "basename":"arcs-1.2.3-ha5961c5_0.tar.bz2",
 "total":23
+}
+]
+},
+{
+"date":"2022-02-26",
+"downloads_per_basename":[
+{
+"basename":"arcs-1.2.3-hebe948a_1.tar.bz2",
+"total":15
 }
 ]
 }

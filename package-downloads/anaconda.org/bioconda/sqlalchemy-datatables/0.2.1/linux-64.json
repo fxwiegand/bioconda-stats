@@ -202,6 +202,10 @@
 {
 "date":"2022-02-22",
 "total":1306
+},
+{
+"date":"2022-02-26",
+"total":1306
 }
 ],
 "package":"sqlalchemy-datatables",
@@ -251,7 +255,12 @@
 {
 "basename":"sqlalchemy-datatables-0.2.1-py35_0.tar.bz2",
 "total":391
+}
+]
 },
+{
+"date":"2022-02-26",
+"downloads_per_basename":[
 {
 "basename":"sqlalchemy-datatables-0.2.1-py27_0.tar.bz2",
 "total":396

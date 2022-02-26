@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-popgenome-2.6.1-r351h9d2a408_1.tar.bz2",
-"total":170
+"total":171
 },
 {
 "basename":"r-popgenome-2.6.1-r351h29659fb_2.tar.bz2",
@@ -274,6 +274,10 @@
 {
 "date":"2022-02-22",
 "total":1005
+},
+{
+"date":"2022-02-26",
+"total":1006
 }
 ],
 "package":"r-popgenome",
@@ -444,6 +448,15 @@
 {
 "basename":"r-popgenome-2.6.1-r351h9d2a408_0.tar.bz2",
 "total":301
+}
+]
+},
+{
+"date":"2022-02-26",
+"downloads_per_basename":[
+{
+"basename":"r-popgenome-2.6.1-r351h9d2a408_1.tar.bz2",
+"total":171
 }
 ]
 }

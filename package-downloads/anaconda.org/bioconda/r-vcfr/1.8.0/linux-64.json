@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-vcfr-1.8.0-r36h0357c0b_3.tar.bz2",
-"total":357
+"total":359
 },
 {
 "basename":"r-vcfr-1.8.0-r351h29659fb_1.tar.bz2",
@@ -522,6 +522,10 @@
 {
 "date":"2022-02-22",
 "total":1823
+},
+{
+"date":"2022-02-26",
+"total":1825
 }
 ],
 "package":"r-vcfr",
@@ -807,6 +811,15 @@
 {
 "basename":"r-vcfr-1.8.0-r341h9d2a408_0.tar.bz2",
 "total":560
+}
+]
+},
+{
+"date":"2022-02-26",
+"downloads_per_basename":[
+{
+"basename":"r-vcfr-1.8.0-r36h0357c0b_3.tar.bz2",
+"total":359
 }
 ]
 }

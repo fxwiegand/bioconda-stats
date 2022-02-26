@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-abind-1.4.3-r3.2.2_0.tar.bz2",
-"total":686
+"total":687
 },
 {
 "basename":"r-abind-1.4.3-r3.3.2_0.tar.bz2",
@@ -186,6 +186,10 @@
 {
 "date":"2022-02-22",
 "total":2329
+},
+{
+"date":"2022-02-26",
+"total":2330
 }
 ],
 "package":"r-abind",
@@ -265,6 +269,15 @@
 {
 "basename":"r-abind-1.4.3-r3.3.2_0.tar.bz2",
 "total":1063
+}
+]
+},
+{
+"date":"2022-02-26",
+"downloads_per_basename":[
+{
+"basename":"r-abind-1.4.3-r3.2.2_0.tar.bz2",
+"total":687
 }
 ]
 }

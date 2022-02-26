@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-app-cpanminus-1.7039-2.tar.bz2",
-"total":8643
+"total":8664
 },
 {
 "basename":"perl-app-cpanminus-1.7039-pl5.22.0_3.tar.bz2",
@@ -806,6 +806,10 @@
 {
 "date":"2022-02-22",
 "total":23087
+},
+{
+"date":"2022-02-26",
+"total":23108
 }
 ],
 "package":"perl-app-cpanminus",
@@ -1137,6 +1141,15 @@
 {
 "basename":"perl-app-cpanminus-1.7039-pl5.22.0_3.tar.bz2",
 "total":13111
+}
+]
+},
+{
+"date":"2022-02-26",
+"downloads_per_basename":[
+{
+"basename":"perl-app-cpanminus-1.7039-2.tar.bz2",
+"total":8664
 }
 ]
 }
