@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-hom.hs.inp.db-3.1.2-r3.3.2_0.tar.bz2",
-"total":60
+"total":61
 },
 {
 "basename":"bioconductor-hom.hs.inp.db-3.1.2-r3.4.1_0.tar.bz2",
@@ -730,6 +730,10 @@
 {
 "date":"2022-02-26",
 "total":2244
+},
+{
+"date":"2022-03-02",
+"total":2245
 }
 ],
 "package":"bioconductor-hom.hs.inp.db",
@@ -814,6 +818,15 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-hom.hs.inp.db-3.1.2-r3.4.1_0.tar.bz2",
+"total":61
+}
+]
+},
+{
+"date":"2022-03-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hom.hs.inp.db-3.1.2-r3.3.2_0.tar.bz2",
 "total":61
 }
 ]

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-compress-raw-zlib-2.101-pl5321h87f3376_2.tar.bz2",
-"total":1577
+"total":2853
 },
 {
 "basename":"perl-compress-raw-zlib-2.101-pl5321h1b792b2_1.tar.bz2",
@@ -110,6 +110,10 @@
 {
 "date":"2022-02-26",
 "total":6897
+},
+{
+"date":"2022-03-02",
+"total":8173
 }
 ],
 "package":"perl-compress-raw-zlib",
@@ -340,6 +344,15 @@
 {
 "basename":"perl-compress-raw-zlib-2.101-pl5321h1b792b2_1.tar.bz2",
 "total":5320
+}
+]
+},
+{
+"date":"2022-03-02",
+"downloads_per_basename":[
+{
+"basename":"perl-compress-raw-zlib-2.101-pl5321h87f3376_2.tar.bz2",
+"total":2853
 }
 ]
 }

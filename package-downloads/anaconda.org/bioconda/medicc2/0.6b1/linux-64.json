@@ -7,7 +7,7 @@
 },
 {
 "basename":"medicc2-0.6b1-py38hc37a69a_0.tar.bz2",
-"total":13
+"total":14
 },
 {
 "basename":"medicc2-0.6b1-py39h8f06ca0_0.tar.bz2",
@@ -114,6 +114,10 @@
 {
 "date":"2022-02-26",
 "total":46
+},
+{
+"date":"2022-03-02",
+"total":47
 }
 ],
 "package":"medicc2",
@@ -281,6 +285,15 @@
 {
 "basename":"medicc2-0.6b1-py39h8f06ca0_0.tar.bz2",
 "total":22
+}
+]
+},
+{
+"date":"2022-03-02",
+"downloads_per_basename":[
+{
+"basename":"medicc2-0.6b1-py38hc37a69a_0.tar.bz2",
+"total":14
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-datetime-1.55-pl5321hcd10b59_1.tar.bz2",
-"total":8
+"total":13
 },
 {
 "basename":"perl-datetime-1.55-pl5321hb280591_0.tar.bz2",
@@ -38,6 +38,10 @@
 {
 "date":"2022-02-26",
 "total":34
+},
+{
+"date":"2022-03-02",
+"total":39
 }
 ],
 "package":"perl-datetime",
@@ -97,6 +101,15 @@
 {
 "basename":"perl-datetime-1.55-pl5321hb280591_0.tar.bz2",
 "total":26
+}
+]
+},
+{
+"date":"2022-03-02",
+"downloads_per_basename":[
+{
+"basename":"perl-datetime-1.55-pl5321hcd10b59_1.tar.bz2",
+"total":13
 }
 ]
 }

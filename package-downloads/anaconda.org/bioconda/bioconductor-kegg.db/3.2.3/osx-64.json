@@ -710,6 +710,10 @@
 {
 "date":"2022-02-26",
 "total":2287
+},
+{
+"date":"2022-03-02",
+"total":2287
 }
 ],
 "package":"bioconductor-kegg.db",
@@ -727,6 +731,15 @@
 "date":"2022-02-26",
 "downloads_per_basename":[
 {
+"basename":"bioconductor-kegg.db-3.2.3-r3.3.2_0.tar.bz2",
+"total":81
+}
+]
+},
+{
+"date":"2022-03-02",
+"downloads_per_basename":[
+{
 "basename":"bioconductor-kegg.db-3.2.3-r341_3.tar.bz2",
 "total":45
 },
@@ -737,10 +750,6 @@
 {
 "basename":"bioconductor-kegg.db-3.2.3-r3.4.1_0.tar.bz2",
 "total":61
-},
-{
-"basename":"bioconductor-kegg.db-3.2.3-r3.3.2_0.tar.bz2",
-"total":81
 },
 {
 "basename":"bioconductor-kegg.db-3.2.3-r3.3.1_0.tar.bz2",

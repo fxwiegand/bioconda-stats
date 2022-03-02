@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-mime-base64-3.16-pl5321hec16e2b_2.tar.bz2",
-"total":259
+"total":452
 },
 {
 "basename":"perl-mime-base64-3.16-pl5321h779adbc_1.tar.bz2",
@@ -50,6 +50,10 @@
 {
 "date":"2022-02-26",
 "total":1133
+},
+{
+"date":"2022-03-02",
+"total":1326
 }
 ],
 "package":"perl-mime-base64",
@@ -145,6 +149,15 @@
 {
 "basename":"perl-mime-base64-3.16-pl5321h779adbc_1.tar.bz2",
 "total":874
+}
+]
+},
+{
+"date":"2022-03-02",
+"downloads_per_basename":[
+{
+"basename":"perl-mime-base64-3.16-pl5321hec16e2b_2.tar.bz2",
+"total":452
 }
 ]
 }

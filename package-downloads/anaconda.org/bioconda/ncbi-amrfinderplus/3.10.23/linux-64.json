@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ncbi-amrfinderplus-3.10.23-h6e70893_1.tar.bz2",
-"total":25
+"total":47
 },
 {
 "basename":"ncbi-amrfinderplus-3.10.23-h17dc2d4_0.tar.bz2",
@@ -30,6 +30,10 @@
 {
 "date":"2022-02-26",
 "total":141
+},
+{
+"date":"2022-03-02",
+"total":163
 }
 ],
 "package":"ncbi-amrfinderplus",
@@ -80,6 +84,15 @@
 {
 "basename":"ncbi-amrfinderplus-3.10.23-h17dc2d4_0.tar.bz2",
 "total":116
+}
+]
+},
+{
+"date":"2022-03-02",
+"downloads_per_basename":[
+{
+"basename":"ncbi-amrfinderplus-3.10.23-h6e70893_1.tar.bz2",
+"total":47
 }
 ]
 }

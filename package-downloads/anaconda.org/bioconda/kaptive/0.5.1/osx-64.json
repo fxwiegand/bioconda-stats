@@ -7,7 +7,7 @@
 },
 {
 "basename":"kaptive-0.5.1-py35_0.tar.bz2",
-"total":167
+"total":168
 },
 {
 "basename":"kaptive-0.5.1-py36_0.tar.bz2",
@@ -722,6 +722,10 @@
 {
 "date":"2022-02-26",
 "total":2102
+},
+{
+"date":"2022-03-02",
+"total":2103
 }
 ],
 "package":"kaptive",
@@ -763,8 +767,12 @@
 ]
 },
 {
-"date":"2022-02-26",
+"date":"2022-03-02",
 "downloads_per_basename":[
+{
+"basename":"kaptive-0.5.1-py35_0.tar.bz2",
+"total":168
+},
 {
 "basename":"kaptive-0.5.1-py36_0.tar.bz2",
 "total":1886

@@ -742,6 +742,10 @@
 {
 "date":"2022-02-26",
 "total":2337
+},
+{
+"date":"2022-03-02",
+"total":2337
 }
 ],
 "package":"screamingbackpack",
@@ -759,6 +763,15 @@
 "date":"2022-02-26",
 "downloads_per_basename":[
 {
+"basename":"screamingbackpack-0.2.333-py36_0.tar.bz2",
+"total":1764
+}
+]
+},
+{
+"date":"2022-03-02",
+"downloads_per_basename":[
+{
 "basename":"screamingbackpack-0.2.333-py34_0.tar.bz2",
 "total":68
 },
@@ -769,10 +782,6 @@
 {
 "basename":"screamingbackpack-0.2.333-py27_0.tar.bz2",
 "total":399
-},
-{
-"basename":"screamingbackpack-0.2.333-py36_0.tar.bz2",
-"total":1764
 }
 ]
 }

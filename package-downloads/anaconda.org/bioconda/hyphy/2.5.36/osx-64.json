@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"hyphy-2.5.36-ha272830_1.tar.bz2",
-"total":18
+"total":25
 },
 {
 "basename":"hyphy-2.5.36-h7df61f3_0.tar.bz2",
@@ -82,6 +82,10 @@
 {
 "date":"2022-02-26",
 "total":64
+},
+{
+"date":"2022-03-02",
+"total":71
 }
 ],
 "package":"hyphy",
@@ -240,6 +244,15 @@
 {
 "basename":"hyphy-2.5.36-h7df61f3_0.tar.bz2",
 "total":46
+}
+]
+},
+{
+"date":"2022-03-02",
+"downloads_per_basename":[
+{
+"basename":"hyphy-2.5.36-ha272830_1.tar.bz2",
+"total":25
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"fastq-scan-1.0.0-hcd10b59_1.tar.bz2",
-"total":11
+"total":17
 },
 {
 "basename":"fastq-scan-1.0.0-hb280591_0.tar.bz2",
@@ -50,6 +50,10 @@
 {
 "date":"2022-02-26",
 "total":41
+},
+{
+"date":"2022-03-02",
+"total":47
 }
 ],
 "package":"fastq-scan",
@@ -136,6 +140,15 @@
 {
 "basename":"fastq-scan-1.0.0-hb280591_0.tar.bz2",
 "total":30
+}
+]
+},
+{
+"date":"2022-03-02",
+"downloads_per_basename":[
+{
+"basename":"fastq-scan-1.0.0-hcd10b59_1.tar.bz2",
+"total":17
 }
 ]
 }

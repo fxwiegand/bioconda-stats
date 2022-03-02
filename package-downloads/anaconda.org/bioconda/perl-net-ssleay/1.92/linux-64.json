@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-net-ssleay-1.92-pl5321h0e0aaa8_1.tar.bz2",
-"total":204
+"total":368
 },
 {
 "basename":"perl-net-ssleay-1.92-pl5321he7163dc_0.tar.bz2",
@@ -50,6 +50,10 @@
 {
 "date":"2022-02-26",
 "total":936
+},
+{
+"date":"2022-03-02",
+"total":1100
 }
 ],
 "package":"perl-net-ssleay",
@@ -145,6 +149,15 @@
 {
 "basename":"perl-net-ssleay-1.92-pl5321he7163dc_0.tar.bz2",
 "total":732
+}
+]
+},
+{
+"date":"2022-03-02",
+"downloads_per_basename":[
+{
+"basename":"perl-net-ssleay-1.92-pl5321h0e0aaa8_1.tar.bz2",
+"total":368
 }
 ]
 }

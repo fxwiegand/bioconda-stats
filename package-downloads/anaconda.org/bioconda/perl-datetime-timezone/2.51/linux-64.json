@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-datetime-timezone-2.51-pl5321h9f5acd7_1.tar.bz2",
-"total":9
+"total":11
 },
 {
 "basename":"perl-datetime-timezone-2.51-pl5321h7d875b9_0.tar.bz2",
@@ -38,6 +38,10 @@
 {
 "date":"2022-02-26",
 "total":35
+},
+{
+"date":"2022-03-02",
+"total":37
 }
 ],
 "package":"perl-datetime-timezone",
@@ -88,6 +92,15 @@
 {
 "basename":"perl-datetime-timezone-2.51-pl5321h7d875b9_0.tar.bz2",
 "total":26
+}
+]
+},
+{
+"date":"2022-03-02",
+"downloads_per_basename":[
+{
+"basename":"perl-datetime-timezone-2.51-pl5321h9f5acd7_1.tar.bz2",
+"total":11
 }
 ]
 }
