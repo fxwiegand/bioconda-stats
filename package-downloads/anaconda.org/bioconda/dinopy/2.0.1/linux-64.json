@@ -11,7 +11,7 @@
 },
 {
 "basename":"dinopy-2.0.1-py35h470a237_0.tar.bz2",
-"total":350
+"total":351
 },
 {
 "basename":"dinopy-2.0.1-py37h6bb024c_1.tar.bz2",
@@ -382,6 +382,10 @@
 {
 "date":"2022-03-02",
 "total":1381
+},
+{
+"date":"2022-03-04",
+"total":1382
 }
 ],
 "package":"dinopy",
@@ -505,6 +509,15 @@
 {
 "basename":"dinopy-2.0.1-py36h470a237_0.tar.bz2",
 "total":347
+}
+]
+},
+{
+"date":"2022-03-04",
+"downloads_per_basename":[
+{
+"basename":"dinopy-2.0.1-py35h470a237_0.tar.bz2",
+"total":351
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-ihwpaper-1.22.0-r41h399db7b_0.tar.bz2",
-"total":16
+"total":17
 }
 ],
 "downloads_per_date":[
@@ -82,6 +82,10 @@
 {
 "date":"2022-03-02",
 "total":21
+},
+{
+"date":"2022-03-04",
+"total":22
 }
 ],
 "package":"bioconductor-ihwpaper",
@@ -110,6 +114,15 @@
 {
 "basename":"bioconductor-ihwpaper-1.22.0-r41h619a076_1.tar.bz2",
 "total":5
+}
+]
+},
+{
+"date":"2022-03-04",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ihwpaper-1.22.0-r41h399db7b_0.tar.bz2",
+"total":17
 }
 ]
 }

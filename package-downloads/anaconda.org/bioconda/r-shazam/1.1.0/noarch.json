@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-shazam-1.1.0-r41h3121a25_0.tar.bz2",
-"total":99
+"total":101
 }
 ],
 "downloads_per_date":[
@@ -130,6 +130,10 @@
 {
 "date":"2022-03-02",
 "total":99
+},
+{
+"date":"2022-03-04",
+"total":101
 }
 ],
 "package":"r-shazam",
@@ -401,6 +405,15 @@
 {
 "basename":"r-shazam-1.1.0-r41h3121a25_0.tar.bz2",
 "total":99
+}
+]
+},
+{
+"date":"2022-03-04",
+"downloads_per_basename":[
+{
+"basename":"r-shazam-1.1.0-r41h3121a25_0.tar.bz2",
+"total":101
 }
 ]
 }

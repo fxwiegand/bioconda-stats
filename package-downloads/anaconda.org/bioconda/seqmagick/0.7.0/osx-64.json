@@ -742,6 +742,10 @@
 {
 "date":"2022-03-02",
 "total":2250
+},
+{
+"date":"2022-03-04",
+"total":2250
 }
 ],
 "package":"seqmagick",
@@ -835,10 +839,6 @@
 "total":52
 },
 {
-"basename":"seqmagick-0.7.0-py36_2.tar.bz2",
-"total":52
-},
-{
 "basename":"seqmagick-0.7.0-py35_0.tar.bz2",
 "total":53
 },
@@ -853,6 +853,15 @@
 {
 "basename":"seqmagick-0.7.0-py37_2.tar.bz2",
 "total":1734
+}
+]
+},
+{
+"date":"2022-03-04",
+"downloads_per_basename":[
+{
+"basename":"seqmagick-0.7.0-py36_2.tar.bz2",
+"total":52
 }
 ]
 }

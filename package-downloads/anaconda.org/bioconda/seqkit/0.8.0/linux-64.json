@@ -7,7 +7,7 @@
 },
 {
 "basename":"seqkit-0.8.0-2.tar.bz2",
-"total":539
+"total":540
 },
 {
 "basename":"seqkit-0.8.0-1.tar.bz2",
@@ -358,6 +358,10 @@
 {
 "date":"2022-03-02",
 "total":1957
+},
+{
+"date":"2022-03-04",
+"total":1958
 }
 ],
 "package":"seqkit",
@@ -489,6 +493,15 @@
 {
 "basename":"seqkit-0.8.0-1.tar.bz2",
 "total":1080
+}
+]
+},
+{
+"date":"2022-03-04",
+"downloads_per_basename":[
+{
+"basename":"seqkit-0.8.0-2.tar.bz2",
+"total":540
 }
 ]
 }

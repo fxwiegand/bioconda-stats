@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-qusage-2.14.0-r341_0.tar.bz2",
-"total":219
+"total":220
 },
 {
 "basename":"bioconductor-qusage-2.14.0-r351_0.tar.bz2",
@@ -238,6 +238,10 @@
 {
 "date":"2022-03-02",
 "total":564
+},
+{
+"date":"2022-03-04",
+"total":565
 }
 ],
 "package":"bioconductor-qusage",
@@ -291,6 +295,15 @@
 {
 "basename":"bioconductor-qusage-2.14.0-r351_0.tar.bz2",
 "total":345
+}
+]
+},
+{
+"date":"2022-03-04",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-qusage-2.14.0-r341_0.tar.bz2",
+"total":220
 }
 ]
 }

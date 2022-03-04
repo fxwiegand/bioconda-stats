@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-pslpostarget-377-ha8a8165_3.tar.bz2",
-"total":16
+"total":17
 },
 {
 "basename":"ucsc-pslpostarget-377-h446ed27_1.tar.bz2",
@@ -526,6 +526,10 @@
 {
 "date":"2022-03-02",
 "total":403
+},
+{
+"date":"2022-03-04",
+"total":404
 }
 ],
 "package":"ucsc-pslpostarget",
@@ -662,6 +666,15 @@
 {
 "basename":"ucsc-pslpostarget-377-ha8a8165_3.tar.bz2",
 "total":16
+}
+]
+},
+{
+"date":"2022-03-04",
+"downloads_per_basename":[
+{
+"basename":"ucsc-pslpostarget-377-ha8a8165_3.tar.bz2",
+"total":17
 }
 ]
 }

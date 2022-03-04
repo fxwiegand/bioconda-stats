@@ -35,7 +35,7 @@
 },
 {
 "basename":"sistr_cmd-1.0.2-py37_3.tar.bz2",
-"total":2083
+"total":2084
 }
 ],
 "downloads_per_date":[
@@ -934,6 +934,10 @@
 {
 "date":"2022-03-02",
 "total":6162
+},
+{
+"date":"2022-03-04",
+"total":6163
 }
 ],
 "package":"sistr_cmd",
@@ -1204,6 +1208,15 @@
 {
 "basename":"sistr_cmd-1.0.2-py35_0.tar.bz2",
 "total":1335
+}
+]
+},
+{
+"date":"2022-03-04",
+"downloads_per_basename":[
+{
+"basename":"sistr_cmd-1.0.2-py37_3.tar.bz2",
+"total":2084
 }
 ]
 }

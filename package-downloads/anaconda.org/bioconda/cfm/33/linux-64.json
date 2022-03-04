@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"cfm-33-hce8bdc1_3.tar.bz2",
-"total":11
+"total":12
 },
 {
 "basename":"cfm-33-heebf52c_1.tar.bz2",
@@ -450,6 +450,10 @@
 {
 "date":"2022-03-02",
 "total":409
+},
+{
+"date":"2022-03-04",
+"total":410
 }
 ],
 "package":"cfm",
@@ -560,6 +564,15 @@
 {
 "basename":"cfm-33-hce8bdc1_3.tar.bz2",
 "total":11
+}
+]
+},
+{
+"date":"2022-03-04",
+"downloads_per_basename":[
+{
+"basename":"cfm-33-hce8bdc1_3.tar.bz2",
+"total":12
 }
 ]
 }

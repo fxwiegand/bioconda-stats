@@ -44,6 +44,10 @@
 {
 "date":"2022-03-02",
 "total":154
+},
+{
+"date":"2022-03-04",
+"total":173
 }
 ],
 "downloads_per_subdir":[
@@ -53,7 +57,7 @@
 },
 {
 "subdir":"linux-64",
-"total":100
+"total":119
 }
 ],
 "package":"perl-algorithm-cluster",
@@ -198,6 +202,15 @@
 {
 "subdir":"linux-64",
 "total":100
+}
+]
+},
+{
+"date":"2022-03-04",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":119
 }
 ]
 }

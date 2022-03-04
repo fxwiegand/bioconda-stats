@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"diamond-2.0.14-h9d1909e_1.tar.bz2",
-"total":32
+"total":45
 },
 {
 "basename":"diamond-2.0.14-h4de6764_0.tar.bz2",
@@ -158,6 +158,10 @@
 {
 "date":"2022-03-02",
 "total":430
+},
+{
+"date":"2022-03-04",
+"total":443
 }
 ],
 "package":"diamond",
@@ -500,6 +504,15 @@
 {
 "basename":"diamond-2.0.14-h4de6764_0.tar.bz2",
 "total":398
+}
+]
+},
+{
+"date":"2022-03-04",
+"downloads_per_basename":[
+{
+"basename":"diamond-2.0.14-h9d1909e_1.tar.bz2",
+"total":45
 }
 ]
 }

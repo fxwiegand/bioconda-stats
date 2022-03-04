@@ -19,7 +19,7 @@
 },
 {
 "basename":"pygtftk-1.2.7-py37h20eb745_1.tar.bz2",
-"total":87
+"total":88
 },
 {
 "basename":"pygtftk-1.2.7-py36h4edd4cd_1.tar.bz2",
@@ -310,6 +310,10 @@
 {
 "date":"2022-03-02",
 "total":464
+},
+{
+"date":"2022-03-04",
+"total":465
 }
 ],
 "package":"pygtftk",
@@ -425,6 +429,15 @@
 {
 "basename":"pygtftk-1.2.7-py37h20eb745_0.tar.bz2",
 "total":79
+}
+]
+},
+{
+"date":"2022-03-04",
+"downloads_per_basename":[
+{
+"basename":"pygtftk-1.2.7-py37h20eb745_1.tar.bz2",
+"total":88
 }
 ]
 }

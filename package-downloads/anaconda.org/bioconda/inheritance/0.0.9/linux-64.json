@@ -206,6 +206,10 @@
 {
 "date":"2022-03-02",
 "total":1902
+},
+{
+"date":"2022-03-04",
+"total":1902
 }
 ],
 "package":"inheritance",
@@ -270,7 +274,12 @@
 {
 "basename":"inheritance-0.0.9-py34_0.tar.bz2",
 "total":409
+}
+]
 },
+{
+"date":"2022-03-04",
+"downloads_per_basename":[
 {
 "basename":"inheritance-0.0.9-py27_0.tar.bz2",
 "total":847

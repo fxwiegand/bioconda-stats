@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-pslpretty-357-1.tar.bz2",
-"total":365
+"total":366
 },
 {
 "basename":"ucsc-pslpretty-357-0.tar.bz2",
@@ -350,6 +350,10 @@
 {
 "date":"2022-03-02",
 "total":920
+},
+{
+"date":"2022-03-04",
+"total":921
 }
 ],
 "package":"ucsc-pslpretty",
@@ -430,6 +434,15 @@
 {
 "basename":"ucsc-pslpretty-357-1.tar.bz2",
 "total":365
+}
+]
+},
+{
+"date":"2022-03-04",
+"downloads_per_basename":[
+{
+"basename":"ucsc-pslpretty-357-1.tar.bz2",
+"total":366
 }
 ]
 }

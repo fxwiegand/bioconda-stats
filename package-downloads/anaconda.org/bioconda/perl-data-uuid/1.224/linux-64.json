@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-data-uuid-1.224-pl5321h7d875b9_1.tar.bz2",
-"total":34
+"total":35
 },
 {
 "basename":"perl-data-uuid-1.224-pl526h6bb024c_0.tar.bz2",
@@ -806,6 +806,10 @@
 {
 "date":"2022-03-02",
 "total":1889
+},
+{
+"date":"2022-03-04",
+"total":1890
 }
 ],
 "package":"perl-data-uuid",
@@ -1013,6 +1017,15 @@
 {
 "basename":"perl-data-uuid-1.224-pl526h6bb024c_0.tar.bz2",
 "total":1855
+}
+]
+},
+{
+"date":"2022-03-04",
+"downloads_per_basename":[
+{
+"basename":"perl-data-uuid-1.224-pl5321h7d875b9_1.tar.bz2",
+"total":35
 }
 ]
 }

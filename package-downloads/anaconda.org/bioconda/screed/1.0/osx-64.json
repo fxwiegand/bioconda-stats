@@ -710,6 +710,10 @@
 {
 "date":"2022-03-02",
 "total":2353
+},
+{
+"date":"2022-03-04",
+"total":2353
 }
 ],
 "package":"screed",
@@ -729,7 +733,12 @@
 {
 "basename":"screed-1.0-py27_0.tar.bz2",
 "total":118
+}
+]
 },
+{
+"date":"2022-03-04",
+"downloads_per_basename":[
 {
 "basename":"screed-1.0-py35_0.tar.bz2",
 "total":218

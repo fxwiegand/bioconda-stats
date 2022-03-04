@@ -7,7 +7,7 @@
 },
 {
 "basename":"vamb-3.0.2-py37h8902056_2.tar.bz2",
-"total":12
+"total":14
 },
 {
 "basename":"vamb-3.0.2-py36hc5360cc_1.tar.bz2",
@@ -690,6 +690,10 @@
 {
 "date":"2022-03-02",
 "total":412
+},
+{
+"date":"2022-03-04",
+"total":414
 }
 ],
 "package":"vamb",
@@ -986,6 +990,15 @@
 {
 "basename":"vamb-3.0.2-py37h73a75cf_1.tar.bz2",
 "total":181
+}
+]
+},
+{
+"date":"2022-03-04",
+"downloads_per_basename":[
+{
+"basename":"vamb-3.0.2-py37h8902056_2.tar.bz2",
+"total":14
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"cuttlefish-2.0.0-h1a264f4_1.tar.bz2",
-"total":22
+"total":24
 },
 {
 "basename":"cuttlefish-2.0.0-h14b862d_0.tar.bz2",
@@ -86,6 +86,10 @@
 {
 "date":"2022-03-02",
 "total":61
+},
+{
+"date":"2022-03-04",
+"total":63
 }
 ],
 "package":"cuttlefish",
@@ -244,6 +248,15 @@
 {
 "basename":"cuttlefish-2.0.0-h1a264f4_1.tar.bz2",
 "total":22
+}
+]
+},
+{
+"date":"2022-03-04",
+"downloads_per_basename":[
+{
+"basename":"cuttlefish-2.0.0-h1a264f4_1.tar.bz2",
+"total":24
 }
 ]
 }

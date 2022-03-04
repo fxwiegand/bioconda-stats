@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-isolde-1.8.0-r341h470a237_0.tar.bz2",
-"total":196
+"total":197
 },
 {
 "basename":"bioconductor-isolde-1.8.0-r351h470a237_0.tar.bz2",
@@ -218,6 +218,10 @@
 {
 "date":"2022-03-02",
 "total":508
+},
+{
+"date":"2022-03-04",
+"total":509
 }
 ],
 "package":"bioconductor-isolde",
@@ -284,6 +288,15 @@
 {
 "basename":"bioconductor-isolde-1.8.0-r351h470a237_0.tar.bz2",
 "total":312
+}
+]
+},
+{
+"date":"2022-03-04",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-isolde-1.8.0-r341h470a237_0.tar.bz2",
+"total":197
 }
 ]
 }

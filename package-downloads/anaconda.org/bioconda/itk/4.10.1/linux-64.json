@@ -7,7 +7,7 @@
 },
 {
 "basename":"itk-4.10.1-py27_2.tar.bz2",
-"total":319
+"total":320
 },
 {
 "basename":"itk-4.10.1-py34_1.tar.bz2",
@@ -346,6 +346,10 @@
 {
 "date":"2022-03-02",
 "total":3539
+},
+{
+"date":"2022-03-04",
+"total":3540
 }
 ],
 "package":"itk",
@@ -549,6 +553,15 @@
 {
 "basename":"itk-4.10.1-py27_1.tar.bz2",
 "total":517
+}
+]
+},
+{
+"date":"2022-03-04",
+"downloads_per_basename":[
+{
+"basename":"itk-4.10.1-py27_2.tar.bz2",
+"total":320
 }
 ]
 }

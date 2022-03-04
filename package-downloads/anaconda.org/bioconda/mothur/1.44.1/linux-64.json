@@ -7,7 +7,7 @@
 },
 {
 "basename":"mothur-1.44.1-hf0cea05_2.tar.bz2",
-"total":103
+"total":104
 },
 {
 "basename":"mothur-1.44.1-h59c8b9c_1.tar.bz2",
@@ -546,6 +546,10 @@
 {
 "date":"2022-03-02",
 "total":395
+},
+{
+"date":"2022-03-04",
+"total":396
 }
 ],
 "package":"mothur",
@@ -701,6 +705,15 @@
 {
 "basename":"mothur-1.44.1-hf0cea05_2.tar.bz2",
 "total":103
+}
+]
+},
+{
+"date":"2022-03-04",
+"downloads_per_basename":[
+{
+"basename":"mothur-1.44.1-hf0cea05_2.tar.bz2",
+"total":104
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"weblogo-3.6.0-py35_0.tar.bz2",
-"total":119
+"total":121
 },
 {
 "basename":"weblogo-3.6.0-py36_0.tar.bz2",
@@ -690,6 +690,10 @@
 {
 "date":"2022-03-02",
 "total":2117
+},
+{
+"date":"2022-03-04",
+"total":2119
 }
 ],
 "package":"weblogo",
@@ -725,6 +729,15 @@
 {
 "basename":"weblogo-3.6.0-py36_0.tar.bz2",
 "total":1892
+}
+]
+},
+{
+"date":"2022-03-04",
+"downloads_per_basename":[
+{
+"basename":"weblogo-3.6.0-py35_0.tar.bz2",
+"total":121
 }
 ]
 }

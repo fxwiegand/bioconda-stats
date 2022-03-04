@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-encode-3.16-pl5321hec16e2b_1.tar.bz2",
-"total":48
+"total":1065
 },
 {
 "basename":"perl-encode-3.16-pl5321h779adbc_0.tar.bz2",
@@ -114,6 +114,10 @@
 {
 "date":"2022-03-02",
 "total":7169
+},
+{
+"date":"2022-03-04",
+"total":8186
 }
 ],
 "package":"perl-encode",
@@ -353,6 +357,15 @@
 {
 "basename":"perl-encode-3.16-pl5321h779adbc_0.tar.bz2",
 "total":7121
+}
+]
+},
+{
+"date":"2022-03-04",
+"downloads_per_basename":[
+{
+"basename":"perl-encode-3.16-pl5321hec16e2b_1.tar.bz2",
+"total":1065
 }
 ]
 }

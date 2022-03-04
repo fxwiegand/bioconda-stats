@@ -274,6 +274,10 @@
 {
 "date":"2022-03-02",
 "total":1826
+},
+{
+"date":"2022-03-04",
+"total":1826
 }
 ],
 "package":"minimock",
@@ -378,7 +382,12 @@
 {
 "basename":"minimock-1.2.8-py36_1.tar.bz2",
 "total":158
+}
+]
 },
+{
+"date":"2022-03-04",
+"downloads_per_basename":[
 {
 "basename":"minimock-1.2.8-py27_0.tar.bz2",
 "total":426

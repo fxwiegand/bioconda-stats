@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"biscuit-1.0.2.20220113-he272189_1.tar.bz2",
-"total":12
+"total":20
 },
 {
 "basename":"biscuit-1.0.2.20220113-h81a5ba2_0.tar.bz2",
@@ -90,6 +90,10 @@
 {
 "date":"2022-03-02",
 "total":34
+},
+{
+"date":"2022-03-04",
+"total":42
 }
 ],
 "package":"biscuit",
@@ -212,6 +216,15 @@
 {
 "basename":"biscuit-1.0.2.20220113-h81a5ba2_0.tar.bz2",
 "total":22
+}
+]
+},
+{
+"date":"2022-03-04",
+"downloads_per_basename":[
+{
+"basename":"biscuit-1.0.2.20220113-he272189_1.tar.bz2",
+"total":20
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-massir-1.16.0-r351_0.tar.bz2",
-"total":209
+"total":210
 },
 {
 "basename":"bioconductor-massir-1.16.0-r341_0.tar.bz2",
@@ -242,6 +242,10 @@
 {
 "date":"2022-03-02",
 "total":532
+},
+{
+"date":"2022-03-04",
+"total":533
 }
 ],
 "package":"bioconductor-massir",
@@ -291,6 +295,15 @@
 {
 "basename":"bioconductor-massir-1.16.0-r341_0.tar.bz2",
 "total":323
+}
+]
+},
+{
+"date":"2022-03-04",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-massir-1.16.0-r351_0.tar.bz2",
+"total":210
 }
 ]
 }
