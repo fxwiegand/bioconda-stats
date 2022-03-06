@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-net-ssleay-1.92-pl5321hb613cfa_0.tar.bz2",
-"total":45
+"total":49
 }
 ],
 "downloads_per_date":[
@@ -58,6 +58,10 @@
 {
 "date":"2022-03-04",
 "total":61
+},
+{
+"date":"2022-03-06",
+"total":65
 }
 ],
 "package":"perl-net-ssleay",
@@ -165,6 +169,15 @@
 {
 "basename":"perl-net-ssleay-1.92-pl5321hb613cfa_0.tar.bz2",
 "total":45
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"perl-net-ssleay-1.92-pl5321hb613cfa_0.tar.bz2",
+"total":49
 }
 ]
 }

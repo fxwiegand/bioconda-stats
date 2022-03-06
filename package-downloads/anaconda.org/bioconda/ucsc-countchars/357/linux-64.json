@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-countchars-357-0.tar.bz2",
-"total":579
+"total":580
 }
 ],
 "downloads_per_date":[
@@ -310,6 +310,10 @@
 {
 "date":"2022-03-04",
 "total":885
+},
+{
+"date":"2022-03-06",
+"total":886
 }
 ],
 "package":"ucsc-countchars",
@@ -378,6 +382,15 @@
 {
 "basename":"ucsc-countchars-357-1.tar.bz2",
 "total":306
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"ucsc-countchars-357-0.tar.bz2",
+"total":580
 }
 ]
 }

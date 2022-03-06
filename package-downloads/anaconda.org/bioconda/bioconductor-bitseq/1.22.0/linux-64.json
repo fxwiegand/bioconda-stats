@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-bitseq-1.22.0-r3.4.1_0.tar.bz2",
-"total":723
+"total":725
 }
 ],
 "downloads_per_date":[
@@ -270,6 +270,10 @@
 {
 "date":"2022-03-04",
 "total":723
+},
+{
+"date":"2022-03-06",
+"total":725
 }
 ],
 "package":"bioconductor-bitseq",
@@ -325,6 +329,15 @@
 {
 "basename":"bioconductor-bitseq-1.22.0-r3.4.1_0.tar.bz2",
 "total":723
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bitseq-1.22.0-r3.4.1_0.tar.bz2",
+"total":725
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-pgsea-1.54.0-r341_0.tar.bz2",
-"total":182
+"total":183
 },
 {
 "basename":"bioconductor-pgsea-1.54.0-r351_0.tar.bz2",
@@ -206,6 +206,10 @@
 {
 "date":"2022-03-04",
 "total":492
+},
+{
+"date":"2022-03-06",
+"total":493
 }
 ],
 "package":"bioconductor-pgsea",
@@ -268,6 +272,15 @@
 {
 "basename":"bioconductor-pgsea-1.54.0-r351_0.tar.bz2",
 "total":310
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pgsea-1.54.0-r341_0.tar.bz2",
+"total":183
 }
 ]
 }

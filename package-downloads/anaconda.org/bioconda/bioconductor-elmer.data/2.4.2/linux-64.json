@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-elmer.data-2.4.2-r351_0.tar.bz2",
-"total":177
+"total":179
 },
 {
 "basename":"bioconductor-elmer.data-2.4.2-r341_0.tar.bz2",
@@ -186,6 +186,10 @@
 {
 "date":"2022-03-04",
 "total":492
+},
+{
+"date":"2022-03-06",
+"total":494
 }
 ],
 "package":"bioconductor-elmer.data",
@@ -227,6 +231,15 @@
 {
 "basename":"bioconductor-elmer.data-2.4.2-r341_0.tar.bz2",
 "total":315
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-elmer.data-2.4.2-r351_0.tar.bz2",
+"total":179
 }
 ]
 }

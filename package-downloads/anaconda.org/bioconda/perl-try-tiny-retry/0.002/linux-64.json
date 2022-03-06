@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-try-tiny-retry-0.002-pl526_1.tar.bz2",
-"total":284
+"total":285
 },
 {
 "basename":"perl-try-tiny-retry-0.002-pl5.22.0_0.tar.bz2",
@@ -186,6 +186,10 @@
 {
 "date":"2022-03-04",
 "total":744
+},
+{
+"date":"2022-03-06",
+"total":745
 }
 ],
 "package":"perl-try-tiny-retry",
@@ -236,6 +240,15 @@
 {
 "basename":"perl-try-tiny-retry-0.002-pl5.22.0_0.tar.bz2",
 "total":460
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"perl-try-tiny-retry-0.002-pl526_1.tar.bz2",
+"total":285
 }
 ]
 }

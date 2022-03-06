@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-preprocesscore-1.46.0-r351h14c3975_0.tar.bz2",
-"total":597
+"total":601
 },
 {
 "basename":"bioconductor-preprocesscore-1.46.0-r36h516909a_1.tar.bz2",
@@ -510,6 +510,10 @@
 {
 "date":"2022-03-04",
 "total":2113
+},
+{
+"date":"2022-03-06",
+"total":2117
 }
 ],
 "package":"bioconductor-preprocesscore",
@@ -621,6 +625,15 @@
 {
 "basename":"bioconductor-preprocesscore-1.46.0-r351h14c3975_0.tar.bz2",
 "total":597
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-preprocesscore-1.46.0-r351h14c3975_0.tar.bz2",
+"total":601
 }
 ]
 }

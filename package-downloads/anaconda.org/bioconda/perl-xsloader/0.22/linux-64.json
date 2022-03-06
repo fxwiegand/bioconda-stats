@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-xsloader-0.22-pl526_1.tar.bz2",
-"total":285
+"total":286
 },
 {
 "basename":"perl-xsloader-0.22-pl5.22.0_0.tar.bz2",
@@ -770,6 +770,10 @@
 {
 "date":"2022-03-04",
 "total":13191
+},
+{
+"date":"2022-03-06",
+"total":13192
 }
 ],
 "package":"perl-xsloader",
@@ -1062,6 +1066,15 @@
 {
 "basename":"perl-xsloader-0.22-pl5.22.0_0.tar.bz2",
 "total":12906
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"perl-xsloader-0.22-pl526_1.tar.bz2",
+"total":286
 }
 ]
 }

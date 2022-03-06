@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ansible-1.9.4-py27_0.tar.bz2",
-"total":4390
+"total":4392
 }
 ],
 "downloads_per_date":[
@@ -282,6 +282,10 @@
 {
 "date":"2022-03-04",
 "total":4390
+},
+{
+"date":"2022-03-06",
+"total":4392
 }
 ],
 "package":"ansible",
@@ -364,6 +368,15 @@
 {
 "basename":"ansible-1.9.4-py27_0.tar.bz2",
 "total":4390
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"ansible-1.9.4-py27_0.tar.bz2",
+"total":4392
 }
 ]
 }

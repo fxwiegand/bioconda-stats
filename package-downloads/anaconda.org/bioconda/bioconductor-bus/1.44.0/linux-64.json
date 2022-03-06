@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-bus-1.44.0-r40h5f743cb_0.tar.bz2",
-"total":96
+"total":98
 }
 ],
 "downloads_per_date":[
@@ -214,6 +214,10 @@
 {
 "date":"2022-03-04",
 "total":96
+},
+{
+"date":"2022-03-06",
+"total":98
 }
 ],
 "package":"bioconductor-bus",
@@ -251,6 +255,15 @@
 {
 "basename":"bioconductor-bus-1.44.0-r40h5f743cb_0.tar.bz2",
 "total":96
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bus-1.44.0-r40h5f743cb_0.tar.bz2",
+"total":98
 }
 ]
 }

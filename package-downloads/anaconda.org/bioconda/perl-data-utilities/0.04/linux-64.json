@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-data-utilities-0.04-pl526_1.tar.bz2",
-"total":191
+"total":192
 },
 {
 "basename":"perl-data-utilities-0.04-pl5.22.0_0.tar.bz2",
@@ -270,6 +270,10 @@
 {
 "date":"2022-03-04",
 "total":799
+},
+{
+"date":"2022-03-06",
+"total":800
 }
 ],
 "package":"perl-data-utilities",
@@ -324,6 +328,15 @@
 {
 "basename":"perl-data-utilities-0.04-pl5.22.0_0.tar.bz2",
 "total":608
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"perl-data-utilities-0.04-pl526_1.tar.bz2",
+"total":192
 }
 ]
 }

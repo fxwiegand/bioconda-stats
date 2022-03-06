@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-dss-2.32.0-r36h516909a_1.tar.bz2",
-"total":175
+"total":177
 }
 ],
 "downloads_per_date":[
@@ -210,6 +210,10 @@
 {
 "date":"2022-03-04",
 "total":175
+},
+{
+"date":"2022-03-06",
+"total":177
 }
 ],
 "package":"bioconductor-dss",
@@ -247,6 +251,15 @@
 {
 "basename":"bioconductor-dss-2.32.0-r36h516909a_1.tar.bz2",
 "total":175
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-dss-2.32.0-r36h516909a_1.tar.bz2",
+"total":177
 }
 ]
 }

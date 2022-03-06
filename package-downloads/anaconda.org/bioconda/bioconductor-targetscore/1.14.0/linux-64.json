@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-targetscore-1.14.0-r3.3.2_0.tar.bz2",
-"total":437
+"total":439
 },
 {
 "basename":"bioconductor-targetscore-1.14.0-r3.4.1_0.tar.bz2",
@@ -210,6 +210,10 @@
 {
 "date":"2022-03-04",
 "total":1046
+},
+{
+"date":"2022-03-06",
+"total":1048
 }
 ],
 "package":"bioconductor-targetscore",
@@ -250,6 +254,15 @@
 {
 "basename":"bioconductor-targetscore-1.14.0-r3.4.1_0.tar.bz2",
 "total":609
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-targetscore-1.14.0-r3.3.2_0.tar.bz2",
+"total":439
 }
 ]
 }

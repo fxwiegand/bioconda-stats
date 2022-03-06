@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-triform-1.22.0-r351_0.tar.bz2",
-"total":173
+"total":175
 },
 {
 "basename":"bioconductor-triform-1.22.0-r341_0.tar.bz2",
@@ -202,6 +202,10 @@
 {
 "date":"2022-03-04",
 "total":478
+},
+{
+"date":"2022-03-06",
+"total":480
 }
 ],
 "package":"bioconductor-triform",
@@ -255,6 +259,15 @@
 {
 "basename":"bioconductor-triform-1.22.0-r341_0.tar.bz2",
 "total":305
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-triform-1.22.0-r351_0.tar.bz2",
+"total":175
 }
 ]
 }

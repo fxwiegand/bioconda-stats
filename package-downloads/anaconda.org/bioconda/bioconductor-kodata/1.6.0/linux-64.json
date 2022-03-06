@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-kodata-1.6.0-r341_0.tar.bz2",
-"total":180
+"total":182
 },
 {
 "basename":"bioconductor-kodata-1.6.0-r351_0.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2022-03-04",
 "total":497
+},
+{
+"date":"2022-03-06",
+"total":499
 }
 ],
 "package":"bioconductor-kodata",
@@ -343,6 +347,15 @@
 {
 "basename":"bioconductor-kodata-1.6.0-r351_0.tar.bz2",
 "total":317
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-kodata-1.6.0-r341_0.tar.bz2",
+"total":182
 }
 ]
 }

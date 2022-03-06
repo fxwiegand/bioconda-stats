@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-nowarnings-1.06-pl5321hdfd78af_0.tar.bz2",
-"total":42
+"total":46
 }
 ],
 "downloads_per_date":[
@@ -42,6 +42,10 @@
 {
 "date":"2022-03-04",
 "total":42
+},
+{
+"date":"2022-03-06",
+"total":46
 }
 ],
 "package":"perl-test-nowarnings",
@@ -115,6 +119,15 @@
 {
 "basename":"perl-test-nowarnings-1.06-pl5321hdfd78af_0.tar.bz2",
 "total":42
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"perl-test-nowarnings-1.06-pl5321hdfd78af_0.tar.bz2",
+"total":46
 }
 ]
 }

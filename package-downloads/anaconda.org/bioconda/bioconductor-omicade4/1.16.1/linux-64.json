@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-omicade4-1.16.1-r3.3.2_0.tar.bz2",
-"total":477
+"total":478
 },
 {
 "basename":"bioconductor-omicade4-1.16.1-r3.4.1_0.tar.bz2",
@@ -190,6 +190,10 @@
 {
 "date":"2022-03-04",
 "total":1067
+},
+{
+"date":"2022-03-06",
+"total":1068
 }
 ],
 "package":"bioconductor-omicade4",
@@ -230,6 +234,15 @@
 {
 "basename":"bioconductor-omicade4-1.16.1-r3.4.1_0.tar.bz2",
 "total":590
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-omicade4-1.16.1-r3.3.2_0.tar.bz2",
+"total":478
 }
 ]
 }

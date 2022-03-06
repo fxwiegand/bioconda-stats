@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-iterativebma-1.38.0-r341_0.tar.bz2",
-"total":200
+"total":202
 },
 {
 "basename":"bioconductor-iterativebma-1.38.0-r351_0.tar.bz2",
@@ -234,6 +234,10 @@
 {
 "date":"2022-03-04",
 "total":538
+},
+{
+"date":"2022-03-06",
+"total":540
 }
 ],
 "package":"bioconductor-iterativebma",
@@ -288,6 +292,15 @@
 {
 "basename":"bioconductor-iterativebma-1.38.0-r351_0.tar.bz2",
 "total":338
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-iterativebma-1.38.0-r341_0.tar.bz2",
+"total":202
 }
 ]
 }

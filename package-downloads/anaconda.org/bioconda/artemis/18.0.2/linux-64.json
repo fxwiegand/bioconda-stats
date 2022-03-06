@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"artemis-18.0.2-0.tar.bz2",
-"total":964
+"total":966
 }
 ],
 "downloads_per_date":[
@@ -318,6 +318,10 @@
 {
 "date":"2022-03-04",
 "total":964
+},
+{
+"date":"2022-03-06",
+"total":966
 }
 ],
 "package":"artemis",
@@ -400,6 +404,15 @@
 {
 "basename":"artemis-18.0.2-0.tar.bz2",
 "total":964
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"artemis-18.0.2-0.tar.bz2",
+"total":966
 }
 ]
 }

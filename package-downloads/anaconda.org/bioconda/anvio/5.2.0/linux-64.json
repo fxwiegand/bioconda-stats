@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"anvio-5.2.0-0.tar.bz2",
-"total":800
+"total":801
 }
 ],
 "downloads_per_date":[
@@ -238,6 +238,10 @@
 {
 "date":"2022-03-04",
 "total":800
+},
+{
+"date":"2022-03-06",
+"total":801
 }
 ],
 "package":"anvio",
@@ -329,6 +333,15 @@
 {
 "basename":"anvio-5.2.0-0.tar.bz2",
 "total":800
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"anvio-5.2.0-0.tar.bz2",
+"total":801
 }
 ]
 }

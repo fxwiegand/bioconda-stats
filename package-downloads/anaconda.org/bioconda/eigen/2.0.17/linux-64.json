@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"eigen-2.0.17-2.tar.bz2",
-"total":768
+"total":770
 }
 ],
 "downloads_per_date":[
@@ -186,6 +186,10 @@
 {
 "date":"2022-03-04",
 "total":768
+},
+{
+"date":"2022-03-06",
+"total":770
 }
 ],
 "package":"eigen",
@@ -232,6 +236,15 @@
 {
 "basename":"eigen-2.0.17-2.tar.bz2",
 "total":768
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"eigen-2.0.17-2.tar.bz2",
+"total":770
 }
 ]
 }

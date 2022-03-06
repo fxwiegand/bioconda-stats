@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-test-inter-1.06-0.tar.bz2",
-"total":480
+"total":481
 }
 ],
 "downloads_per_date":[
@@ -222,6 +222,10 @@
 {
 "date":"2022-03-04",
 "total":768
+},
+{
+"date":"2022-03-06",
+"total":769
 }
 ],
 "package":"perl-test-inter",
@@ -321,6 +325,15 @@
 {
 "basename":"perl-test-inter-1.06-0.tar.bz2",
 "total":480
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"perl-test-inter-1.06-0.tar.bz2",
+"total":481
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-logitt-1.52.0-r41hd029910_0.tar.bz2",
-"total":24
+"total":26
 }
 ],
 "downloads_per_date":[
@@ -126,6 +126,10 @@
 {
 "date":"2022-03-04",
 "total":34
+},
+{
+"date":"2022-03-06",
+"total":36
 }
 ],
 "package":"bioconductor-logitt",
@@ -181,6 +185,15 @@
 {
 "basename":"bioconductor-logitt-1.52.0-r41h5c21468_1.tar.bz2",
 "total":10
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-logitt-1.52.0-r41hd029910_0.tar.bz2",
+"total":26
 }
 ]
 }

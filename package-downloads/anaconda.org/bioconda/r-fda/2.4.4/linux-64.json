@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-fda-2.4.4-r3.3.1_0.tar.bz2",
-"total":496
+"total":497
 },
 {
 "basename":"r-fda-2.4.4-r3.3.2_0.tar.bz2",
@@ -282,6 +282,10 @@
 {
 "date":"2022-03-04",
 "total":1792
+},
+{
+"date":"2022-03-06",
+"total":1793
 }
 ],
 "package":"r-fda",
@@ -382,6 +386,15 @@
 {
 "basename":"r-fda-2.4.4-r3.2.2_0.tar.bz2",
 "total":665
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"r-fda-2.4.4-r3.3.1_0.tar.bz2",
+"total":497
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"rust-bio-tools-0.38.2-hd401799_1.tar.bz2",
-"total":64
+"total":68
 }
 ],
 "downloads_per_date":[
@@ -158,6 +158,10 @@
 {
 "date":"2022-03-04",
 "total":104
+},
+{
+"date":"2022-03-06",
+"total":108
 }
 ],
 "package":"rust-bio-tools",
@@ -446,6 +450,15 @@
 {
 "basename":"rust-bio-tools-0.38.2-hd401799_1.tar.bz2",
 "total":64
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"rust-bio-tools-0.38.2-hd401799_1.tar.bz2",
+"total":68
 }
 ]
 }

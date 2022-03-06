@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-xml-0.08-pl526_1.tar.bz2",
-"total":315
+"total":316
 },
 {
 "basename":"perl-test-xml-0.08-0.tar.bz2",
@@ -238,6 +238,10 @@
 {
 "date":"2022-03-04",
 "total":1029
+},
+{
+"date":"2022-03-06",
+"total":1030
 }
 ],
 "package":"perl-test-xml",
@@ -279,6 +283,15 @@
 {
 "basename":"perl-test-xml-0.08-0.tar.bz2",
 "total":714
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"perl-test-xml-0.08-pl526_1.tar.bz2",
+"total":316
 }
 ]
 }

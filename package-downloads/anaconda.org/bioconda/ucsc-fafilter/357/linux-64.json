@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-fafilter-357-0.tar.bz2",
-"total":582
+"total":583
 }
 ],
 "downloads_per_date":[
@@ -306,6 +306,10 @@
 {
 "date":"2022-03-04",
 "total":933
+},
+{
+"date":"2022-03-06",
+"total":934
 }
 ],
 "package":"ucsc-fafilter",
@@ -413,6 +417,15 @@
 {
 "basename":"ucsc-fafilter-357-1.tar.bz2",
 "total":351
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"ucsc-fafilter-357-0.tar.bz2",
+"total":583
 }
 ]
 }

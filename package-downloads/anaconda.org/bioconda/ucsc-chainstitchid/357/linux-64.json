@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-chainstitchid-357-1.tar.bz2",
-"total":324
+"total":325
 },
 {
 "basename":"ucsc-chainstitchid-357-0.tar.bz2",
@@ -318,6 +318,10 @@
 {
 "date":"2022-03-04",
 "total":906
+},
+{
+"date":"2022-03-06",
+"total":907
 }
 ],
 "package":"ucsc-chainstitchid",
@@ -376,6 +380,15 @@
 {
 "basename":"ucsc-chainstitchid-357-1.tar.bz2",
 "total":324
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"ucsc-chainstitchid-357-1.tar.bz2",
+"total":325
 }
 ]
 }

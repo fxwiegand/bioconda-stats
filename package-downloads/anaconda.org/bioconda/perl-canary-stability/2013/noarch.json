@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-canary-stability-2013-pl5321hdfd78af_1.tar.bz2",
-"total":97
+"total":101
 }
 ],
 "downloads_per_date":[
@@ -138,6 +138,10 @@
 {
 "date":"2022-03-04",
 "total":97
+},
+{
+"date":"2022-03-06",
+"total":101
 }
 ],
 "package":"perl-canary-stability",
@@ -382,6 +386,15 @@
 {
 "basename":"perl-canary-stability-2013-pl5321hdfd78af_1.tar.bz2",
 "total":97
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"perl-canary-stability-2013-pl5321hdfd78af_1.tar.bz2",
+"total":101
 }
 ]
 }

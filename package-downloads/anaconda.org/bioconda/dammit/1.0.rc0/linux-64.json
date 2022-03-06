@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"dammit-1.0.rc0-py36_0.tar.bz2",
-"total":248
+"total":250
 },
 {
 "basename":"dammit-1.0.rc0-py35_0.tar.bz2",
@@ -258,6 +258,10 @@
 {
 "date":"2022-03-04",
 "total":575
+},
+{
+"date":"2022-03-06",
+"total":577
 }
 ],
 "package":"dammit",
@@ -330,6 +334,15 @@
 {
 "basename":"dammit-1.0.rc0-py35_0.tar.bz2",
 "total":327
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"dammit-1.0.rc0-py36_0.tar.bz2",
+"total":250
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-getrna-366-h5eb252a_0.tar.bz2",
-"total":365
+"total":366
 }
 ],
 "downloads_per_date":[
@@ -190,6 +190,10 @@
 {
 "date":"2022-03-04",
 "total":365
+},
+{
+"date":"2022-03-06",
+"total":366
 }
 ],
 "package":"ucsc-getrna",
@@ -227,6 +231,15 @@
 {
 "basename":"ucsc-getrna-366-h5eb252a_0.tar.bz2",
 "total":365
+}
+]
+},
+{
+"date":"2022-03-06",
+"downloads_per_basename":[
+{
+"basename":"ucsc-getrna-366-h5eb252a_0.tar.bz2",
+"total":366
 }
 ]
 }
