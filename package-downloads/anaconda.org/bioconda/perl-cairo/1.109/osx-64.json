@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-cairo-1.109-pl5321hdd5511e_1.tar.bz2",
-"total":23
+"total":25
 },
 {
 "basename":"perl-cairo-1.109-pl5321h9891f83_0.tar.bz2",
@@ -66,6 +66,10 @@
 {
 "date":"2022-03-06",
 "total":62
+},
+{
+"date":"2022-03-07",
+"total":64
 }
 ],
 "package":"perl-cairo",
@@ -197,6 +201,15 @@
 {
 "basename":"perl-cairo-1.109-pl5321hdd5511e_1.tar.bz2",
 "total":23
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"perl-cairo-1.109-pl5321hdd5511e_1.tar.bz2",
+"total":25
 }
 ]
 }

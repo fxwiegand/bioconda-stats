@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"kmer-db-1.7.6-h9a82719_1.tar.bz2",
-"total":40
+"total":41
 },
 {
 "basename":"kmer-db-1.7.6-he513fc3_0.tar.bz2",
@@ -270,6 +270,10 @@
 {
 "date":"2022-03-06",
 "total":111
+},
+{
+"date":"2022-03-07",
+"total":112
 }
 ],
 "package":"kmer-db",
@@ -332,6 +336,15 @@
 {
 "basename":"kmer-db-1.7.6-he513fc3_0.tar.bz2",
 "total":71
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"kmer-db-1.7.6-h9a82719_1.tar.bz2",
+"total":41
 }
 ]
 }

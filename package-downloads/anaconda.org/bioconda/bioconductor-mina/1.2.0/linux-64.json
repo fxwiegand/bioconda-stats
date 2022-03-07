@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-mina-1.2.0-r41h619a076_1.tar.bz2",
-"total":9
+"total":10
 },
 {
 "basename":"bioconductor-mina-1.2.0-r41h399db7b_0.tar.bz2",
@@ -158,6 +158,10 @@
 {
 "date":"2022-03-06",
 "total":45
+},
+{
+"date":"2022-03-07",
+"total":46
 }
 ],
 "package":"bioconductor-mina",
@@ -226,6 +230,15 @@
 {
 "basename":"bioconductor-mina-1.2.0-r41h399db7b_0.tar.bz2",
 "total":36
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mina-1.2.0-r41h619a076_1.tar.bz2",
+"total":10
 }
 ]
 }

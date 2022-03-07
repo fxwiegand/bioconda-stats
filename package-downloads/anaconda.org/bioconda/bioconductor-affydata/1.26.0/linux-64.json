@@ -198,6 +198,10 @@
 {
 "date":"2022-03-06",
 "total":1129
+},
+{
+"date":"2022-03-07",
+"total":1129
 }
 ],
 "package":"bioconductor-affydata",
@@ -235,7 +239,12 @@
 {
 "basename":"bioconductor-affydata-1.26.0-r3.4.1_0.tar.bz2",
 "total":505
+}
+]
 },
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
 {
 "basename":"bioconductor-affydata-1.26.0-r3.4.1_1.tar.bz2",
 "total":624

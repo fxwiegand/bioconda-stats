@@ -11,7 +11,7 @@
 },
 {
 "basename":"kraken-1.1-h470a237_2.tar.bz2",
-"total":6000
+"total":6001
 }
 ],
 "downloads_per_date":[
@@ -1002,6 +1002,10 @@
 {
 "date":"2022-03-06",
 "total":8378
+},
+{
+"date":"2022-03-07",
+"total":8379
 }
 ],
 "package":"kraken",
@@ -1357,6 +1361,15 @@
 {
 "basename":"kraken-1.1-h470a237_2.tar.bz2",
 "total":6000
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"kraken-1.1-h470a237_2.tar.bz2",
+"total":6001
 }
 ]
 }

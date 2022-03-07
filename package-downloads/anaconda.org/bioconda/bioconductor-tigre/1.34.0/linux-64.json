@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-tigre-1.34.0-r351h470a237_0.tar.bz2",
-"total":179
+"total":180
 },
 {
 "basename":"bioconductor-tigre-1.34.0-r341h470a237_0.tar.bz2",
@@ -226,6 +226,10 @@
 {
 "date":"2022-03-06",
 "total":479
+},
+{
+"date":"2022-03-07",
+"total":480
 }
 ],
 "package":"bioconductor-tigre",
@@ -288,6 +292,15 @@
 {
 "basename":"bioconductor-tigre-1.34.0-r341h470a237_0.tar.bz2",
 "total":300
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-tigre-1.34.0-r351h470a237_0.tar.bz2",
+"total":180
 }
 ]
 }

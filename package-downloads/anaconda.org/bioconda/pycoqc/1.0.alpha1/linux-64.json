@@ -7,7 +7,7 @@
 },
 {
 "basename":"pycoqc-1.0.alpha1-py35_0.tar.bz2",
-"total":598
+"total":599
 },
 {
 "basename":"pycoqc-1.0.alpha1-py36_0.tar.bz2",
@@ -718,6 +718,10 @@
 {
 "date":"2022-03-06",
 "total":2057
+},
+{
+"date":"2022-03-07",
+"total":2058
 }
 ],
 "package":"pycoqc",
@@ -948,6 +952,15 @@
 {
 "basename":"pycoqc-1.0.alpha1-py36_0.tar.bz2",
 "total":904
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"pycoqc-1.0.alpha1-py35_0.tar.bz2",
+"total":599
 }
 ]
 }

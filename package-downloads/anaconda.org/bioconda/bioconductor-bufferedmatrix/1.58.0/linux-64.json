@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-bufferedmatrix-1.58.0-r41h5c21468_1.tar.bz2",
-"total":14
+"total":15
 },
 {
 "basename":"bioconductor-bufferedmatrix-1.58.0-r41hd029910_0.tar.bz2",
@@ -150,6 +150,10 @@
 {
 "date":"2022-03-06",
 "total":48
+},
+{
+"date":"2022-03-07",
+"total":49
 }
 ],
 "package":"bioconductor-bufferedmatrix",
@@ -227,6 +231,15 @@
 {
 "basename":"bioconductor-bufferedmatrix-1.58.0-r41hd029910_0.tar.bz2",
 "total":34
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bufferedmatrix-1.58.0-r41h5c21468_1.tar.bz2",
+"total":15
 }
 ]
 }

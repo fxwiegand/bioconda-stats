@@ -11,7 +11,7 @@
 },
 {
 "basename":"ucsc-pslrc-377-h446ed27_1.tar.bz2",
-"total":51
+"total":52
 },
 {
 "basename":"ucsc-pslrc-377-h199ee4e_0.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2022-03-06",
 "total":254
+},
+{
+"date":"2022-03-07",
+"total":255
 }
 ],
 "package":"ucsc-pslrc",
@@ -396,6 +400,15 @@
 {
 "basename":"ucsc-pslrc-377-h199ee4e_0.tar.bz2",
 "total":144
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"ucsc-pslrc-377-h446ed27_1.tar.bz2",
+"total":52
 }
 ]
 }

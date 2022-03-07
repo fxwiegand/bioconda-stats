@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"stream-0.4.1-py36r36hc99cbb1_0.tar.bz2",
-"total":211
+"total":212
 },
 {
 "basename":"stream-0.4.1-py37r36hc99cbb1_0.tar.bz2",
@@ -322,6 +322,10 @@
 {
 "date":"2022-03-06",
 "total":471
+},
+{
+"date":"2022-03-07",
+"total":472
 }
 ],
 "package":"stream",
@@ -447,6 +451,15 @@
 {
 "basename":"stream-0.4.1-py37r36hc99cbb1_0.tar.bz2",
 "total":260
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"stream-0.4.1-py36r36hc99cbb1_0.tar.bz2",
+"total":212
 }
 ]
 }

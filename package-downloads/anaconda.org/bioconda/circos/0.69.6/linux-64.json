@@ -11,7 +11,7 @@
 },
 {
 "basename":"circos-0.69.6-2.tar.bz2",
-"total":2572
+"total":2573
 },
 {
 "basename":"circos-0.69.6-4.tar.bz2",
@@ -794,6 +794,10 @@
 {
 "date":"2022-03-06",
 "total":7268
+},
+{
+"date":"2022-03-07",
+"total":7269
 }
 ],
 "package":"circos",
@@ -1080,6 +1084,15 @@
 {
 "basename":"circos-0.69.6-4.tar.bz2",
 "total":3450
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"circos-0.69.6-2.tar.bz2",
+"total":2573
 }
 ]
 }

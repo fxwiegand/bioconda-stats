@@ -210,6 +210,10 @@
 {
 "date":"2022-03-06",
 "total":1066
+},
+{
+"date":"2022-03-07",
+"total":1066
 }
 ],
 "package":"bioconductor-gagedata",
@@ -247,7 +251,12 @@
 {
 "basename":"bioconductor-gagedata-2.16.0-r3.4.1_1.tar.bz2",
 "total":460
+}
+]
 },
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
 {
 "basename":"bioconductor-gagedata-2.16.0-r3.4.1_0.tar.bz2",
 "total":606

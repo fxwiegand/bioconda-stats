@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-motiv-1.30.0-gsl1.16_0.tar.bz2",
-"total":493
+"total":494
 },
 {
 "basename":"bioconductor-motiv-1.30.0-bioconductor_3.3.2_gsl1.16_0.tar.bz2",
@@ -214,6 +214,10 @@
 {
 "date":"2022-03-06",
 "total":1600
+},
+{
+"date":"2022-03-07",
+"total":1601
 }
 ],
 "package":"bioconductor-motiv",
@@ -292,6 +296,15 @@
 {
 "basename":"bioconductor-motiv-1.30.0-bioconductor_3.3.2_gsl1.16_0.tar.bz2",
 "total":640
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-motiv-1.30.0-gsl1.16_0.tar.bz2",
+"total":494
 }
 ]
 }

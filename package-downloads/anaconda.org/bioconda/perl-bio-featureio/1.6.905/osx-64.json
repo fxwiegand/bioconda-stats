@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-bio-featureio-1.6.905-pl526_1.tar.bz2",
-"total":4082
+"total":4085
 }
 ],
 "downloads_per_date":[
@@ -998,6 +998,10 @@
 {
 "date":"2022-03-06",
 "total":5425
+},
+{
+"date":"2022-03-07",
+"total":5428
 }
 ],
 "package":"perl-bio-featureio",
@@ -1262,6 +1266,15 @@
 {
 "basename":"perl-bio-featureio-1.6.905-0.tar.bz2",
 "total":1343
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"perl-bio-featureio-1.6.905-pl526_1.tar.bz2",
+"total":4085
 }
 ]
 }

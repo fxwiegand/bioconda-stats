@@ -694,6 +694,10 @@
 {
 "date":"2022-03-06",
 "total":2050
+},
+{
+"date":"2022-03-07",
+"total":2050
 }
 ],
 "package":"tadtool",
@@ -713,7 +717,12 @@
 {
 "basename":"tadtool-0.75-py35_0.tar.bz2",
 "total":46
+}
+]
 },
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
 {
 "basename":"tadtool-0.75-py27_0.tar.bz2",
 "total":47

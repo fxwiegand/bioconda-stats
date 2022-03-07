@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-hem-1.66.0-r41h5c21468_1.tar.bz2",
-"total":9
+"total":10
 },
 {
 "basename":"bioconductor-hem-1.66.0-r41hd029910_0.tar.bz2",
@@ -130,6 +130,10 @@
 {
 "date":"2022-03-06",
 "total":36
+},
+{
+"date":"2022-03-07",
+"total":37
 }
 ],
 "package":"bioconductor-hem",
@@ -202,6 +206,15 @@
 {
 "basename":"bioconductor-hem-1.66.0-r41hd029910_0.tar.bz2",
 "total":27
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hem-1.66.0-r41h5c21468_1.tar.bz2",
+"total":10
 }
 ]
 }

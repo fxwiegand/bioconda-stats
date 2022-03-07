@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"fastq_utils-0.25.1-h20b1175_1.tar.bz2",
-"total":9
+"total":11
 },
 {
 "basename":"fastq_utils-0.25.1-h270b39a_0.tar.bz2",
@@ -758,6 +758,10 @@
 {
 "date":"2022-03-06",
 "total":250
+},
+{
+"date":"2022-03-07",
+"total":252
 }
 ],
 "package":"fastq_utils",
@@ -1019,6 +1023,15 @@
 {
 "basename":"fastq_utils-0.25.1-h270b39a_0.tar.bz2",
 "total":241
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"fastq_utils-0.25.1-h20b1175_1.tar.bz2",
+"total":11
 }
 ]
 }

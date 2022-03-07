@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-validatefiles-357-1.tar.bz2",
-"total":406
+"total":407
 },
 {
 "basename":"ucsc-validatefiles-357-0.tar.bz2",
@@ -338,6 +338,10 @@
 {
 "date":"2022-03-06",
 "total":942
+},
+{
+"date":"2022-03-07",
+"total":943
 }
 ],
 "package":"ucsc-validatefiles",
@@ -427,6 +431,15 @@
 {
 "basename":"ucsc-validatefiles-357-0.tar.bz2",
 "total":536
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"ucsc-validatefiles-357-1.tar.bz2",
+"total":407
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-girafe-1.46.0-r41h619a076_1.tar.bz2",
-"total":9
+"total":11
 },
 {
 "basename":"bioconductor-girafe-1.46.0-r41h399db7b_0.tar.bz2",
@@ -122,6 +122,10 @@
 {
 "date":"2022-03-06",
 "total":39
+},
+{
+"date":"2022-03-07",
+"total":41
 }
 ],
 "package":"bioconductor-girafe",
@@ -190,6 +194,15 @@
 {
 "basename":"bioconductor-girafe-1.46.0-r41h399db7b_0.tar.bz2",
 "total":30
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-girafe-1.46.0-r41h619a076_1.tar.bz2",
+"total":11
 }
 ]
 }

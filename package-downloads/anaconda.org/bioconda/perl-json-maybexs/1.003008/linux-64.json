@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-json-maybexs-1.003008-pl526_1.tar.bz2",
-"total":174
+"total":175
 },
 {
 "basename":"perl-json-maybexs-1.003008-pl5.22.0_0.tar.bz2",
@@ -218,6 +218,10 @@
 {
 "date":"2022-03-06",
 "total":1074
+},
+{
+"date":"2022-03-07",
+"total":1075
 }
 ],
 "package":"perl-json-maybexs",
@@ -284,6 +288,15 @@
 {
 "basename":"perl-json-maybexs-1.003008-pl5.22.0_0.tar.bz2",
 "total":900
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"perl-json-maybexs-1.003008-pl526_1.tar.bz2",
+"total":175
 }
 ]
 }

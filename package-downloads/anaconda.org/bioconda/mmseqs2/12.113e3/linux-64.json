@@ -7,7 +7,7 @@
 },
 {
 "basename":"mmseqs2-12.113e3-h2d02072_0.tar.bz2",
-"total":1066
+"total":1067
 },
 {
 "basename":"mmseqs2-12.113e3-h2d02072_2.tar.bz2",
@@ -922,6 +922,10 @@
 {
 "date":"2022-03-06",
 "total":3120
+},
+{
+"date":"2022-03-07",
+"total":3121
 }
 ],
 "package":"mmseqs2",
@@ -1214,6 +1218,15 @@
 {
 "basename":"mmseqs2-12.113e3-h2d02072_2.tar.bz2",
 "total":1449
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"mmseqs2-12.113e3-h2d02072_0.tar.bz2",
+"total":1067
 }
 ]
 }

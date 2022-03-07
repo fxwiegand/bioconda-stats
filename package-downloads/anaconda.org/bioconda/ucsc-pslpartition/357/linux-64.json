@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-pslpartition-357-0.tar.bz2",
-"total":578
+"total":579
 }
 ],
 "downloads_per_date":[
@@ -278,6 +278,10 @@
 {
 "date":"2022-03-06",
 "total":882
+},
+{
+"date":"2022-03-07",
+"total":883
 }
 ],
 "package":"ucsc-pslpartition",
@@ -355,6 +359,15 @@
 {
 "basename":"ucsc-pslpartition-357-0.tar.bz2",
 "total":578
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"ucsc-pslpartition-357-0.tar.bz2",
+"total":579
 }
 ]
 }

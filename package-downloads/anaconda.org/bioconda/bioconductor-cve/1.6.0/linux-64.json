@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-cve-1.6.0-r351_0.tar.bz2",
-"total":351
+"total":352
 }
 ],
 "downloads_per_date":[
@@ -238,6 +238,10 @@
 {
 "date":"2022-03-06",
 "total":577
+},
+{
+"date":"2022-03-07",
+"total":578
 }
 ],
 "package":"bioconductor-cve",
@@ -300,6 +304,15 @@
 {
 "basename":"bioconductor-cve-1.6.0-r351_0.tar.bz2",
 "total":351
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cve-1.6.0-r351_0.tar.bz2",
+"total":352
 }
 ]
 }

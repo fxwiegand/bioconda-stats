@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-recount-1.6.3-r341_0.tar.bz2",
-"total":250
+"total":251
 },
 {
 "basename":"bioconductor-recount-1.6.3-r351_0.tar.bz2",
@@ -298,6 +298,10 @@
 {
 "date":"2022-03-06",
 "total":618
+},
+{
+"date":"2022-03-07",
+"total":619
 }
 ],
 "package":"bioconductor-recount",
@@ -378,6 +382,15 @@
 {
 "basename":"bioconductor-recount-1.6.3-r351_0.tar.bz2",
 "total":368
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-recount-1.6.3-r341_0.tar.bz2",
+"total":251
 }
 ]
 }

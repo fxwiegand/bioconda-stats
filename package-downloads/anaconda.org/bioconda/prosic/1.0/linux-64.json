@@ -7,7 +7,7 @@
 },
 {
 "basename":"prosic-1.0-py34_gsl1.16_gmp5.1_1.tar.bz2",
-"total":525
+"total":526
 },
 {
 "basename":"prosic-1.0-gsl1.16_gmp5.1_0.tar.bz2",
@@ -246,6 +246,10 @@
 {
 "date":"2022-03-06",
 "total":1664
+},
+{
+"date":"2022-03-07",
+"total":1665
 }
 ],
 "package":"prosic",
@@ -344,6 +348,15 @@
 {
 "basename":"prosic-1.0-py34_gsl1.16_gmp5.1_1.tar.bz2",
 "total":525
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"prosic-1.0-py34_gsl1.16_gmp5.1_1.tar.bz2",
+"total":526
 }
 ]
 }

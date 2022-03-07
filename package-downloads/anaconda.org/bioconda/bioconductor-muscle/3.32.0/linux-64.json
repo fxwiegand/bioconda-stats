@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-muscle-3.32.0-r40h399db7b_1.tar.bz2",
-"total":47
+"total":48
 },
 {
 "basename":"bioconductor-muscle-3.32.0-r40h5f743cb_0.tar.bz2",
@@ -214,6 +214,10 @@
 {
 "date":"2022-03-06",
 "total":111
+},
+{
+"date":"2022-03-07",
+"total":112
 }
 ],
 "package":"bioconductor-muscle",
@@ -276,6 +280,15 @@
 {
 "basename":"bioconductor-muscle-3.32.0-r40h5f743cb_0.tar.bz2",
 "total":64
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-muscle-3.32.0-r40h399db7b_1.tar.bz2",
+"total":48
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-rsm-2.7_4-r3.3.1_0.tar.bz2",
-"total":548
+"total":549
 },
 {
 "basename":"r-rsm-2.7_4-r3.2.2_0.tar.bz2",
@@ -202,6 +202,10 @@
 {
 "date":"2022-03-06",
 "total":1881
+},
+{
+"date":"2022-03-07",
+"total":1882
 }
 ],
 "package":"r-rsm",
@@ -280,6 +284,15 @@
 {
 "basename":"r-rsm-2.7_4-r3.2.2_0.tar.bz2",
 "total":862
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"r-rsm-2.7_4-r3.3.1_0.tar.bz2",
+"total":549
 }
 ]
 }

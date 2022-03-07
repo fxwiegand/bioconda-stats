@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-scater-1.4.0-r3.3.2_0.tar.bz2",
-"total":625
+"total":626
 },
 {
 "basename":"bioconductor-scater-1.4.0-0.tar.bz2",
@@ -430,6 +430,10 @@
 {
 "date":"2022-03-06",
 "total":1854
+},
+{
+"date":"2022-03-07",
+"total":1855
 }
 ],
 "package":"bioconductor-scater",
@@ -548,6 +552,15 @@
 {
 "basename":"bioconductor-scater-1.4.0-0.tar.bz2",
 "total":717
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-scater-1.4.0-r3.3.2_0.tar.bz2",
+"total":626
 }
 ]
 }

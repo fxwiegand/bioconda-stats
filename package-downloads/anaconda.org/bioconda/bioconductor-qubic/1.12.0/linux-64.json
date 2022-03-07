@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-qubic-1.12.0-r36he1b5a44_1.tar.bz2",
-"total":135
+"total":136
 },
 {
 "basename":"bioconductor-qubic-1.12.0-r351hf484d3e_0.tar.bz2",
@@ -294,6 +294,10 @@
 {
 "date":"2022-03-06",
 "total":288
+},
+{
+"date":"2022-03-07",
+"total":289
 }
 ],
 "package":"bioconductor-qubic",
@@ -369,6 +373,15 @@
 {
 "basename":"bioconductor-qubic-1.12.0-r351hf484d3e_0.tar.bz2",
 "total":153
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-qubic-1.12.0-r36he1b5a44_1.tar.bz2",
+"total":136
 }
 ]
 }

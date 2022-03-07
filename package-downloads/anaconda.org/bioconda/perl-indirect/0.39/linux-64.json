@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-indirect-0.39-pl5321h779adbc_1.tar.bz2",
-"total":8
+"total":10
 },
 {
 "basename":"perl-indirect-0.39-pl5321hec16e2b_2.tar.bz2",
@@ -50,6 +50,10 @@
 {
 "date":"2022-03-06",
 "total":18
+},
+{
+"date":"2022-03-07",
+"total":20
 }
 ],
 "package":"perl-indirect",
@@ -123,6 +127,15 @@
 {
 "basename":"perl-indirect-0.39-pl5321h779adbc_1.tar.bz2",
 "total":8
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"perl-indirect-0.39-pl5321h779adbc_1.tar.bz2",
+"total":10
 }
 ]
 }

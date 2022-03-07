@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-msa-1.22.0-r40h5f743cb_0.tar.bz2",
-"total":107
+"total":108
 },
 {
 "basename":"bioconductor-msa-1.22.0-r40h399db7b_1.tar.bz2",
@@ -422,6 +422,10 @@
 {
 "date":"2022-03-06",
 "total":261
+},
+{
+"date":"2022-03-07",
+"total":262
 }
 ],
 "package":"bioconductor-msa",
@@ -556,6 +560,15 @@
 {
 "basename":"bioconductor-msa-1.22.0-r40h399db7b_1.tar.bz2",
 "total":154
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-msa-1.22.0-r40h5f743cb_0.tar.bz2",
+"total":108
 }
 ]
 }

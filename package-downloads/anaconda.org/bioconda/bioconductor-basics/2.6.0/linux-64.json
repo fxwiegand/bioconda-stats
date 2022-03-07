@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-basics-2.6.0-r41h619a076_1.tar.bz2",
-"total":11
+"total":12
 },
 {
 "basename":"bioconductor-basics-2.6.0-r41h399db7b_0.tar.bz2",
@@ -106,6 +106,10 @@
 {
 "date":"2022-03-06",
 "total":40
+},
+{
+"date":"2022-03-07",
+"total":41
 }
 ],
 "package":"bioconductor-basics",
@@ -156,6 +160,15 @@
 {
 "basename":"bioconductor-basics-2.6.0-r41h399db7b_0.tar.bz2",
 "total":29
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-basics-2.6.0-r41h619a076_1.tar.bz2",
+"total":12
 }
 ]
 }

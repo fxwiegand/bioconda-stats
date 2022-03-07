@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-basic4cseq-1.6.0-r3.3.1_0.tar.bz2",
-"total":564
+"total":565
 },
 {
 "basename":"bioconductor-basic4cseq-1.6.0-r3.2.2_0.tar.bz2",
@@ -286,6 +286,10 @@
 {
 "date":"2022-03-06",
 "total":2412
+},
+{
+"date":"2022-03-07",
+"total":2413
 }
 ],
 "package":"bioconductor-basic4cseq",
@@ -398,6 +402,15 @@
 {
 "basename":"bioconductor-basic4cseq-1.6.0-r3.2.2_0.tar.bz2",
 "total":794
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-basic4cseq-1.6.0-r3.3.1_0.tar.bz2",
+"total":565
 }
 ]
 }

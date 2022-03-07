@@ -15,7 +15,7 @@
 },
 {
 "basename":"htseq-0.6.1-np17py27_0.tar.bz2",
-"total":601
+"total":602
 },
 {
 "basename":"htseq-0.6.1-py27h470a237_2.tar.bz2",
@@ -358,6 +358,10 @@
 {
 "date":"2022-03-06",
 "total":2376
+},
+{
+"date":"2022-03-07",
+"total":2377
 }
 ],
 "package":"htseq",
@@ -503,6 +507,15 @@
 {
 "basename":"htseq-0.6.1-py27h470a237_2.tar.bz2",
 "total":1111
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"htseq-0.6.1-np17py27_0.tar.bz2",
+"total":602
 }
 ]
 }

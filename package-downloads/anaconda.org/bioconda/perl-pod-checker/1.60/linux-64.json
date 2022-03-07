@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-pod-checker-1.60-pl526_2.tar.bz2",
-"total":142
+"total":143
 },
 {
 "basename":"perl-pod-checker-1.60-pl5.22.0_0.tar.bz2",
@@ -270,6 +270,10 @@
 {
 "date":"2022-03-06",
 "total":735
+},
+{
+"date":"2022-03-07",
+"total":736
 }
 ],
 "package":"perl-pod-checker",
@@ -350,6 +354,15 @@
 {
 "basename":"perl-pod-checker-1.60-pl5.22.0_0.tar.bz2",
 "total":593
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"perl-pod-checker-1.60-pl526_2.tar.bz2",
+"total":143
 }
 ]
 }

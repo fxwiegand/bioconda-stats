@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-fmcsr-1.36.0-r41h619a076_1.tar.bz2",
-"total":9
+"total":10
 },
 {
 "basename":"bioconductor-fmcsr-1.36.0-r41h399db7b_0.tar.bz2",
@@ -110,6 +110,10 @@
 {
 "date":"2022-03-06",
 "total":37
+},
+{
+"date":"2022-03-07",
+"total":38
 }
 ],
 "package":"bioconductor-fmcsr",
@@ -169,6 +173,15 @@
 {
 "basename":"bioconductor-fmcsr-1.36.0-r41h399db7b_0.tar.bz2",
 "total":28
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-fmcsr-1.36.0-r41h619a076_1.tar.bz2",
+"total":10
 }
 ]
 }

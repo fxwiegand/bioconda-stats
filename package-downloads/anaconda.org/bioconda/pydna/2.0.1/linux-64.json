@@ -11,7 +11,7 @@
 },
 {
 "basename":"pydna-2.0.1-py36_1.tar.bz2",
-"total":170
+"total":172
 },
 {
 "basename":"pydna-2.0.1-py36_0.tar.bz2",
@@ -238,6 +238,10 @@
 {
 "date":"2022-03-06",
 "total":775
+},
+{
+"date":"2022-03-07",
+"total":777
 }
 ],
 "package":"pydna",
@@ -337,6 +341,15 @@
 {
 "basename":"pydna-2.0.1-py36_0.tar.bz2",
 "total":321
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"pydna-2.0.1-py36_1.tar.bz2",
+"total":172
 }
 ]
 }

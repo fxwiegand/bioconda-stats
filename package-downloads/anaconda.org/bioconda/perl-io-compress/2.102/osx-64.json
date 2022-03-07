@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-io-compress-2.102-pl5321h9722bc1_1.tar.bz2",
-"total":1188
+"total":1330
 },
 {
 "basename":"perl-io-compress-2.102-pl5321h589c0e0_0.tar.bz2",
@@ -46,6 +46,10 @@
 {
 "date":"2022-03-06",
 "total":2576
+},
+{
+"date":"2022-03-07",
+"total":2718
 }
 ],
 "package":"perl-io-compress",
@@ -144,6 +148,15 @@
 {
 "basename":"perl-io-compress-2.102-pl5321h589c0e0_0.tar.bz2",
 "total":1388
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"perl-io-compress-2.102-pl5321h9722bc1_1.tar.bz2",
+"total":1330
 }
 ]
 }

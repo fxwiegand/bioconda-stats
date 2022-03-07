@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-genomation-1.26.0-r41h619a076_1.tar.bz2",
-"total":13
+"total":14
 },
 {
 "basename":"bioconductor-genomation-1.26.0-r41h399db7b_0.tar.bz2",
@@ -250,6 +250,10 @@
 {
 "date":"2022-03-06",
 "total":73
+},
+{
+"date":"2022-03-07",
+"total":74
 }
 ],
 "package":"bioconductor-genomation",
@@ -403,6 +407,15 @@
 {
 "basename":"bioconductor-genomation-1.26.0-r41h399db7b_0.tar.bz2",
 "total":60
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-genomation-1.26.0-r41h619a076_1.tar.bz2",
+"total":14
 }
 ]
 }

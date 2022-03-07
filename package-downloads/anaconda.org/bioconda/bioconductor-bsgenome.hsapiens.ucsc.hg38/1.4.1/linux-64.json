@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-bsgenome.hsapiens.ucsc.hg38-1.4.1-r351_4.tar.bz2",
-"total":612
+"total":613
 },
 {
 "basename":"bioconductor-bsgenome.hsapiens.ucsc.hg38-1.4.1-r3.4.1_0.tar.bz2",
@@ -354,6 +354,10 @@
 {
 "date":"2022-03-06",
 "total":4349
+},
+{
+"date":"2022-03-07",
+"total":4350
 }
 ],
 "package":"bioconductor-bsgenome.hsapiens.ucsc.hg38",
@@ -504,6 +508,15 @@
 {
 "basename":"bioconductor-bsgenome.hsapiens.ucsc.hg38-1.4.1-r3.4.1_0.tar.bz2",
 "total":664
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bsgenome.hsapiens.ucsc.hg38-1.4.1-r351_4.tar.bz2",
+"total":613
 }
 ]
 }

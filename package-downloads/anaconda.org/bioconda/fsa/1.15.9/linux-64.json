@@ -7,7 +7,7 @@
 },
 {
 "basename":"fsa-1.15.9-h2e03b76_2.tar.bz2",
-"total":71
+"total":72
 },
 {
 "basename":"fsa-1.15.9-h8b12597_1.tar.bz2",
@@ -490,6 +490,10 @@
 {
 "date":"2022-03-06",
 "total":383
+},
+{
+"date":"2022-03-07",
+"total":384
 }
 ],
 "package":"fsa",
@@ -654,6 +658,15 @@
 {
 "basename":"fsa-1.15.9-hdbcaa40_0.tar.bz2",
 "total":200
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"fsa-1.15.9-h2e03b76_2.tar.bz2",
+"total":72
 }
 ]
 }

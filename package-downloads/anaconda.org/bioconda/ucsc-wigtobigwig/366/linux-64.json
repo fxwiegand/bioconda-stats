@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-wigtobigwig-366-h5eb252a_0.tar.bz2",
-"total":2080
+"total":2081
 },
 {
 "basename":"ucsc-wigtobigwig-366-hdd26221_0.tar.bz2",
@@ -670,6 +670,10 @@
 {
 "date":"2022-03-06",
 "total":5376
+},
+{
+"date":"2022-03-07",
+"total":5377
 }
 ],
 "package":"ucsc-wigtobigwig",
@@ -1037,6 +1041,15 @@
 {
 "basename":"ucsc-wigtobigwig-366-hdd26221_0.tar.bz2",
 "total":3296
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"ucsc-wigtobigwig-366-h5eb252a_0.tar.bz2",
+"total":2081
 }
 ]
 }

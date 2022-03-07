@@ -19,7 +19,7 @@
 },
 {
 "basename":"meme-5.1.1-py27pl526h53063a7_3.tar.bz2",
-"total":178
+"total":179
 },
 {
 "basename":"meme-5.1.1-py27pl526hcc46b46_0.tar.bz2",
@@ -602,6 +602,10 @@
 {
 "date":"2022-03-06",
 "total":2802
+},
+{
+"date":"2022-03-07",
+"total":2803
 }
 ],
 "package":"meme",
@@ -1049,6 +1053,15 @@
 {
 "basename":"meme-5.1.1-py37pl526h072abfd_3.tar.bz2",
 "total":684
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"meme-5.1.1-py27pl526h53063a7_3.tar.bz2",
+"total":179
 }
 ]
 }

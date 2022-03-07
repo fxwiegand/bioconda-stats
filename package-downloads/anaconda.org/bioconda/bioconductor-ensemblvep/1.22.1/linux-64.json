@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-ensemblvep-1.22.1-r341_0.tar.bz2",
-"total":204
+"total":205
 },
 {
 "basename":"bioconductor-ensemblvep-1.22.1-r351_0.tar.bz2",
@@ -202,6 +202,10 @@
 {
 "date":"2022-03-06",
 "total":539
+},
+{
+"date":"2022-03-07",
+"total":540
 }
 ],
 "package":"bioconductor-ensemblvep",
@@ -261,6 +265,15 @@
 {
 "basename":"bioconductor-ensemblvep-1.22.1-r351_0.tar.bz2",
 "total":335
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ensemblvep-1.22.1-r341_0.tar.bz2",
+"total":205
 }
 ]
 }

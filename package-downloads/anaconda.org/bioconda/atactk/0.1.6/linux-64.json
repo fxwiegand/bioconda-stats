@@ -19,7 +19,7 @@
 },
 {
 "basename":"atactk-0.1.6-py35r3.4.1_0.tar.bz2",
-"total":600
+"total":601
 },
 {
 "basename":"atactk-0.1.6-py36r3.4.1_0.tar.bz2",
@@ -834,6 +834,10 @@
 {
 "date":"2022-03-06",
 "total":3600
+},
+{
+"date":"2022-03-07",
+"total":3601
 }
 ],
 "package":"atactk",
@@ -1046,6 +1050,15 @@
 {
 "basename":"atactk-0.1.6-py36r3.4.1_0.tar.bz2",
 "total":1951
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"atactk-0.1.6-py35r3.4.1_0.tar.bz2",
+"total":601
 }
 ]
 }

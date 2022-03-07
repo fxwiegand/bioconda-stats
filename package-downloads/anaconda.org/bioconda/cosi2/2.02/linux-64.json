@@ -7,7 +7,7 @@
 },
 {
 "basename":"cosi2-2.02-py27h2d50403_1.tar.bz2",
-"total":206
+"total":207
 },
 {
 "basename":"cosi2-2.02-py35h2d50403_1.tar.bz2",
@@ -362,6 +362,10 @@
 {
 "date":"2022-03-06",
 "total":3258
+},
+{
+"date":"2022-03-07",
+"total":3259
 }
 ],
 "package":"cosi2",
@@ -586,6 +590,15 @@
 {
 "basename":"cosi2-2.02-py35_0.tar.bz2",
 "total":756
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"cosi2-2.02-py27h2d50403_1.tar.bz2",
+"total":207
 }
 ]
 }

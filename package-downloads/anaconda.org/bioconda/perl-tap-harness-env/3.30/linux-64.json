@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-tap-harness-env-3.30-pl526_1.tar.bz2",
-"total":282
+"total":283
 },
 {
 "basename":"perl-tap-harness-env-3.30-pl5.22.0_0.tar.bz2",
@@ -222,6 +222,10 @@
 {
 "date":"2022-03-06",
 "total":738
+},
+{
+"date":"2022-03-07",
+"total":739
 }
 ],
 "package":"perl-tap-harness-env",
@@ -289,6 +293,15 @@
 {
 "basename":"perl-tap-harness-env-3.30-pl5.22.0_0.tar.bz2",
 "total":456
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"perl-tap-harness-env-3.30-pl526_1.tar.bz2",
+"total":283
 }
 ]
 }

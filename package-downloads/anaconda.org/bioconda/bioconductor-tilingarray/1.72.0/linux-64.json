@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-tilingarray-1.72.0-r41h5c21468_1.tar.bz2",
-"total":14
+"total":15
 },
 {
 "basename":"bioconductor-tilingarray-1.72.0-r41hd029910_0.tar.bz2",
@@ -142,6 +142,10 @@
 {
 "date":"2022-03-06",
 "total":63
+},
+{
+"date":"2022-03-07",
+"total":64
 }
 ],
 "package":"bioconductor-tilingarray",
@@ -210,6 +214,15 @@
 {
 "basename":"bioconductor-tilingarray-1.72.0-r41hd029910_0.tar.bz2",
 "total":49
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-tilingarray-1.72.0-r41h5c21468_1.tar.bz2",
+"total":15
 }
 ]
 }

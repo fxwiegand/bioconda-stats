@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-nupop-2.2.0-r41h77f299f_1.tar.bz2",
-"total":13
+"total":14
 },
 {
 "basename":"bioconductor-nupop-2.2.0-r41hacda110_0.tar.bz2",
@@ -138,6 +138,10 @@
 {
 "date":"2022-03-06",
 "total":45
+},
+{
+"date":"2022-03-07",
+"total":46
 }
 ],
 "package":"bioconductor-nupop",
@@ -206,6 +210,15 @@
 {
 "basename":"bioconductor-nupop-2.2.0-r41hacda110_0.tar.bz2",
 "total":32
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-nupop-2.2.0-r41h77f299f_1.tar.bz2",
+"total":14
 }
 ]
 }

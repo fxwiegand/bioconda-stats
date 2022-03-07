@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-bbcanalyzer-1.10.0-r351_0.tar.bz2",
-"total":240
+"total":241
 },
 {
 "basename":"bioconductor-bbcanalyzer-1.10.0-r341_0.tar.bz2",
@@ -242,6 +242,10 @@
 {
 "date":"2022-03-06",
 "total":610
+},
+{
+"date":"2022-03-07",
+"total":611
 }
 ],
 "package":"bioconductor-bbcanalyzer",
@@ -308,6 +312,15 @@
 {
 "basename":"bioconductor-bbcanalyzer-1.10.0-r341_0.tar.bz2",
 "total":370
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bbcanalyzer-1.10.0-r351_0.tar.bz2",
+"total":241
 }
 ]
 }

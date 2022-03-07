@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"openms-2.2.0-py27h932d754_2.tar.bz2",
-"total":270
+"total":271
 },
 {
 "basename":"openms-2.2.0-py27_boost1.64_1.tar.bz2",
@@ -278,6 +278,10 @@
 {
 "date":"2022-03-06",
 "total":1434
+},
+{
+"date":"2022-03-07",
+"total":1435
 }
 ],
 "package":"openms",
@@ -377,6 +381,15 @@
 {
 "basename":"openms-2.2.0-py27_boost1.64_0.tar.bz2",
 "total":691
+}
+]
+},
+{
+"date":"2022-03-07",
+"downloads_per_basename":[
+{
+"basename":"openms-2.2.0-py27h932d754_2.tar.bz2",
+"total":271
 }
 ]
 }
