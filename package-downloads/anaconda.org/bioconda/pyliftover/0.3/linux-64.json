@@ -11,7 +11,7 @@
 },
 {
 "basename":"pyliftover-0.3-py36_0.tar.bz2",
-"total":555
+"total":556
 },
 {
 "basename":"pyliftover-0.3-py35_0.tar.bz2",
@@ -250,6 +250,10 @@
 {
 "date":"2022-03-07",
 "total":2139
+},
+{
+"date":"2022-03-08",
+"total":2140
 }
 ],
 "package":"pyliftover",
@@ -355,6 +359,15 @@
 {
 "basename":"pyliftover-0.3-py35_0.tar.bz2",
 "total":590
+}
+]
+},
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
+{
+"basename":"pyliftover-0.3-py36_0.tar.bz2",
+"total":556
 }
 ]
 }

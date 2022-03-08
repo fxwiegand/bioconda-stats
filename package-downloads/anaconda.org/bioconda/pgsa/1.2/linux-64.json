@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"pgsa-1.2-h87f3376_4.tar.bz2",
-"total":15
+"total":16
 },
 {
 "basename":"pgsa-1.2-h1b792b2_3.tar.bz2",
@@ -494,6 +494,10 @@
 {
 "date":"2022-03-07",
 "total":1147
+},
+{
+"date":"2022-03-08",
+"total":1148
 }
 ],
 "package":"pgsa",
@@ -709,6 +713,15 @@
 {
 "basename":"pgsa-1.2-hfc679d8_1.tar.bz2",
 "total":370
+}
+]
+},
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
+{
+"basename":"pgsa-1.2-h87f3376_4.tar.bz2",
+"total":16
 }
 ]
 }

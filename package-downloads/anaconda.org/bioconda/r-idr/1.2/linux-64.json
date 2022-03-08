@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-idr-1.2-r3.3.2_0.tar.bz2",
-"total":593
+"total":594
 },
 {
 "basename":"r-idr-1.2-r3.4.1_0.tar.bz2",
@@ -194,6 +194,10 @@
 {
 "date":"2022-03-07",
 "total":2494
+},
+{
+"date":"2022-03-08",
+"total":2495
 }
 ],
 "package":"r-idr",
@@ -285,6 +289,15 @@
 {
 "basename":"r-idr-1.2-r3.4.1_0.tar.bz2",
 "total":744
+}
+]
+},
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
+{
+"basename":"r-idr-1.2-r3.3.2_0.tar.bz2",
+"total":594
 }
 ]
 }

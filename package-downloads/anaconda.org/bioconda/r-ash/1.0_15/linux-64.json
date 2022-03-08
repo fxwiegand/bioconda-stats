@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-ash-1.0_15-r3.3.2_0.tar.bz2",
-"total":979
+"total":980
 },
 {
 "basename":"r-ash-1.0_15-r3.2.2_0.tar.bz2",
@@ -178,6 +178,10 @@
 {
 "date":"2022-03-07",
 "total":5521
+},
+{
+"date":"2022-03-08",
+"total":5522
 }
 ],
 "package":"r-ash",
@@ -255,6 +259,15 @@
 {
 "basename":"r-ash-1.0_15-r3.2.2_0.tar.bz2",
 "total":3722
+}
+]
+},
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
+{
+"basename":"r-ash-1.0_15-r3.3.2_0.tar.bz2",
+"total":980
 }
 ]
 }

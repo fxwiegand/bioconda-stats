@@ -16,6 +16,10 @@
 {
 "date":"2022-03-07",
 "total":32
+},
+{
+"date":"2022-03-08",
+"total":34
 }
 ],
 "downloads_per_subdir":[
@@ -25,7 +29,7 @@
 },
 {
 "subdir":"osx-64",
-"total":21
+"total":23
 }
 ],
 "package":"bioconductor-plotgardener",
@@ -75,6 +79,15 @@
 {
 "subdir":"osx-64",
 "total":21
+}
+]
+},
+{
+"date":"2022-03-08",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":23
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-gff3topsl-357-1.tar.bz2",
-"total":309
+"total":310
 },
 {
 "basename":"ucsc-gff3topsl-357-0.tar.bz2",
@@ -314,6 +314,10 @@
 {
 "date":"2022-03-07",
 "total":888
+},
+{
+"date":"2022-03-08",
+"total":889
 }
 ],
 "package":"ucsc-gff3topsl",
@@ -408,6 +412,15 @@
 {
 "basename":"ucsc-gff3topsl-357-0.tar.bz2",
 "total":579
+}
+]
+},
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
+{
+"basename":"ucsc-gff3topsl-357-1.tar.bz2",
+"total":310
 }
 ]
 }

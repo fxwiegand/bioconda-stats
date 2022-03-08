@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-tcr-2.3.2-r41h52a8340_2.tar.bz2",
-"total":63
+"total":64
 },
 {
 "basename":"r-tcr-2.3.2-r40h52a8340_1.tar.bz2",
@@ -434,6 +434,10 @@
 {
 "date":"2022-03-07",
 "total":254
+},
+{
+"date":"2022-03-08",
+"total":255
 }
 ],
 "package":"r-tcr",
@@ -585,6 +589,15 @@
 {
 "basename":"r-tcr-2.3.2-r40h0357c0b_0.tar.bz2",
 "total":108
+}
+]
+},
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
+{
+"basename":"r-tcr-2.3.2-r41h52a8340_2.tar.bz2",
+"total":64
 }
 ]
 }

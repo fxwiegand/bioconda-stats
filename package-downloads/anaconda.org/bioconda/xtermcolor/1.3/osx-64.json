@@ -730,6 +730,10 @@
 {
 "date":"2022-03-07",
 "total":2128
+},
+{
+"date":"2022-03-08",
+"total":2128
 }
 ],
 "package":"xtermcolor",
@@ -747,6 +751,15 @@
 "date":"2022-03-07",
 "downloads_per_basename":[
 {
+"basename":"xtermcolor-1.3-py36_0.tar.bz2",
+"total":1751
+}
+]
+},
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
+{
 "basename":"xtermcolor-1.3-py35_0.tar.bz2",
 "total":49
 },
@@ -757,10 +770,6 @@
 {
 "basename":"xtermcolor-1.3-py34_0.tar.bz2",
 "total":278
-},
-{
-"basename":"xtermcolor-1.3-py36_0.tar.bz2",
-"total":1751
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-dada2-1.4.0-r3.3.2_0.tar.bz2",
-"total":4989
+"total":4990
 },
 {
 "basename":"bioconductor-dada2-1.4.0-r3.3.1_0.tar.bz2",
@@ -506,6 +506,10 @@
 {
 "date":"2022-03-07",
 "total":11965
+},
+{
+"date":"2022-03-08",
+"total":11966
 }
 ],
 "package":"bioconductor-dada2",
@@ -683,6 +687,15 @@
 {
 "basename":"bioconductor-dada2-1.4.0-r3.4.1_1.tar.bz2",
 "total":636
+}
+]
+},
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-dada2-1.4.0-r3.3.2_0.tar.bz2",
+"total":4990
 }
 ]
 }

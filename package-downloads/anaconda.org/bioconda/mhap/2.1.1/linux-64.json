@@ -7,7 +7,7 @@
 },
 {
 "basename":"mhap-2.1.1-py36_0.tar.bz2",
-"total":461
+"total":462
 },
 {
 "basename":"mhap-2.1.1-py35_0.tar.bz2",
@@ -286,6 +286,10 @@
 {
 "date":"2022-03-07",
 "total":1481
+},
+{
+"date":"2022-03-08",
+"total":1482
 }
 ],
 "package":"mhap",
@@ -386,6 +390,15 @@
 {
 "basename":"mhap-2.1.1-py35_0.tar.bz2",
 "total":575
+}
+]
+},
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
+{
+"basename":"mhap-2.1.1-py36_0.tar.bz2",
+"total":462
 }
 ]
 }

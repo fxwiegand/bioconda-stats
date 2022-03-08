@@ -706,6 +706,10 @@
 {
 "date":"2022-03-07",
 "total":2013
+},
+{
+"date":"2022-03-08",
+"total":2013
 }
 ],
 "package":"recycler",
@@ -725,7 +729,12 @@
 {
 "basename":"recycler-0.7-py27_0.tar.bz2",
 "total":277
+}
+]
 },
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
 {
 "basename":"recycler-0.7-py27h24bf2e0_2.tar.bz2",
 "total":1736

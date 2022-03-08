@@ -7,7 +7,7 @@
 },
 {
 "basename":"python-bioext-0.19.7-py37hc989a06_1.tar.bz2",
-"total":80
+"total":81
 },
 {
 "basename":"python-bioext-0.19.7-py37hc56bac0_0.tar.bz2",
@@ -402,6 +402,10 @@
 {
 "date":"2022-03-07",
 "total":427
+},
+{
+"date":"2022-03-08",
+"total":428
 }
 ],
 "package":"python-bioext",
@@ -618,6 +622,15 @@
 {
 "basename":"python-bioext-0.19.7-py38h7eb8666_1.tar.bz2",
 "total":93
+}
+]
+},
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
+{
+"basename":"python-bioext-0.19.7-py37hc989a06_1.tar.bz2",
+"total":81
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"bedtools-2.23.0-h8b12597_4.tar.bz2",
-"total":106
+"total":107
 },
 {
 "basename":"bedtools-2.23.0-hdbcaa40_3.tar.bz2",
@@ -546,6 +546,10 @@
 {
 "date":"2022-03-07",
 "total":2171
+},
+{
+"date":"2022-03-08",
+"total":2172
 }
 ],
 "package":"bedtools",
@@ -820,6 +824,15 @@
 {
 "basename":"bedtools-2.23.0-he860b03_2.tar.bz2",
 "total":215
+}
+]
+},
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
+{
+"basename":"bedtools-2.23.0-h8b12597_4.tar.bz2",
+"total":107
 }
 ]
 }

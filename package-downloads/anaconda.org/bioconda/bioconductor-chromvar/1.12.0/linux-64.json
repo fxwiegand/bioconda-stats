@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-chromvar-1.12.0-r40h399db7b_1.tar.bz2",
-"total":346
+"total":348
 },
 {
 "basename":"bioconductor-chromvar-1.12.0-r40h5f743cb_0.tar.bz2",
@@ -734,6 +734,10 @@
 {
 "date":"2022-03-07",
 "total":696
+},
+{
+"date":"2022-03-08",
+"total":698
 }
 ],
 "package":"bioconductor-chromvar",
@@ -904,6 +908,15 @@
 {
 "basename":"bioconductor-chromvar-1.12.0-r40h5f743cb_0.tar.bz2",
 "total":350
+}
+]
+},
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-chromvar-1.12.0-r40h399db7b_1.tar.bz2",
+"total":348
 }
 ]
 }

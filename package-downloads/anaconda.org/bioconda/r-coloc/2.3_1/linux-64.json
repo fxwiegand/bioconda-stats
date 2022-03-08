@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-coloc-2.3_1-r3.4.1_0.tar.bz2",
-"total":3238
+"total":3239
 },
 {
 "basename":"r-coloc-2.3_1-r3.3.1_0.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2022-03-07",
 "total":12354
+},
+{
+"date":"2022-03-08",
+"total":12355
 }
 ],
 "package":"r-coloc",
@@ -361,6 +365,15 @@
 {
 "basename":"r-coloc-2.3_1-r3.3.1_0.tar.bz2",
 "total":5226
+}
+]
+},
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
+{
+"basename":"r-coloc-2.3_1-r3.4.1_0.tar.bz2",
+"total":3239
 }
 ]
 }

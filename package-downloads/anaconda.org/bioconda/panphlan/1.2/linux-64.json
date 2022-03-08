@@ -15,7 +15,7 @@
 },
 {
 "basename":"panphlan-1.2-py36h24bf2e0_3.tar.bz2",
-"total":168
+"total":169
 },
 {
 "basename":"panphlan-1.2-py27h24bf2e0_4.tar.bz2",
@@ -858,6 +858,10 @@
 {
 "date":"2022-03-07",
 "total":2696
+},
+{
+"date":"2022-03-08",
+"total":2697
 }
 ],
 "package":"panphlan",
@@ -1057,6 +1061,15 @@
 {
 "basename":"panphlan-1.2-py37h24bf2e0_4.tar.bz2",
 "total":1932
+}
+]
+},
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
+{
+"basename":"panphlan-1.2-py36h24bf2e0_3.tar.bz2",
+"total":169
 }
 ]
 }

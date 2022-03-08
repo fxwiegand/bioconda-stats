@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-dbtrash-357-1.tar.bz2",
-"total":462
+"total":463
 }
 ],
 "downloads_per_date":[
@@ -366,6 +366,10 @@
 {
 "date":"2022-03-07",
 "total":922
+},
+{
+"date":"2022-03-08",
+"total":923
 }
 ],
 "package":"ucsc-dbtrash",
@@ -495,6 +499,15 @@
 {
 "basename":"ucsc-dbtrash-357-1.tar.bz2",
 "total":462
+}
+]
+},
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
+{
+"basename":"ucsc-dbtrash-357-1.tar.bz2",
+"total":463
 }
 ]
 }

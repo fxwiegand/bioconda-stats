@@ -7,7 +7,7 @@
 },
 {
 "basename":"ncbi-amrfinderplus-3.8.4-hf18293b_0.tar.bz2",
-"total":641
+"total":642
 }
 ],
 "downloads_per_date":[
@@ -446,6 +446,10 @@
 {
 "date":"2022-03-07",
 "total":814
+},
+{
+"date":"2022-03-08",
+"total":815
 }
 ],
 "package":"ncbi-amrfinderplus",
@@ -544,6 +548,15 @@
 {
 "basename":"ncbi-amrfinderplus-3.8.4-h671e170_1.tar.bz2",
 "total":173
+}
+]
+},
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
+{
+"basename":"ncbi-amrfinderplus-3.8.4-hf18293b_0.tar.bz2",
+"total":642
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"riboraptor-0.2.2-py36_1.tar.bz2",
-"total":199
+"total":200
 },
 {
 "basename":"riboraptor-0.2.2-py35_0.tar.bz2",
@@ -282,6 +282,10 @@
 {
 "date":"2022-03-07",
 "total":873
+},
+{
+"date":"2022-03-08",
+"total":874
 }
 ],
 "package":"riboraptor",
@@ -410,6 +414,15 @@
 {
 "basename":"riboraptor-0.2.2-py35_0.tar.bz2",
 "total":317
+}
+]
+},
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
+{
+"basename":"riboraptor-0.2.2-py36_1.tar.bz2",
+"total":200
 }
 ]
 }

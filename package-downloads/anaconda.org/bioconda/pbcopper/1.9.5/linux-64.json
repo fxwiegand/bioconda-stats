@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"pbcopper-1.9.5-ha04c180_1.tar.bz2",
-"total":24
+"total":26
 },
 {
 "basename":"pbcopper-1.9.5-h205c40f_0.tar.bz2",
@@ -186,6 +186,10 @@
 {
 "date":"2022-03-07",
 "total":98
+},
+{
+"date":"2022-03-08",
+"total":100
 }
 ],
 "package":"pbcopper",
@@ -510,6 +514,15 @@
 {
 "basename":"pbcopper-1.9.5-h205c40f_0.tar.bz2",
 "total":74
+}
+]
+},
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
+{
+"basename":"pbcopper-1.9.5-ha04c180_1.tar.bz2",
+"total":26
 }
 ]
 }

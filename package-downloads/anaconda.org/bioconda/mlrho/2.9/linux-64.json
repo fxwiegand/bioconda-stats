@@ -23,7 +23,7 @@
 },
 {
 "basename":"mlrho-2.9-0.tar.bz2",
-"total":295
+"total":296
 }
 ],
 "downloads_per_date":[
@@ -266,6 +266,10 @@
 {
 "date":"2022-03-07",
 "total":562
+},
+{
+"date":"2022-03-08",
+"total":563
 }
 ],
 "package":"mlrho",
@@ -421,6 +425,15 @@
 {
 "basename":"mlrho-2.9-ha3a0b15_4.tar.bz2",
 "total":15
+}
+]
+},
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
+{
+"basename":"mlrho-2.9-0.tar.bz2",
+"total":296
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"pyhmmer-0.4.7-py37h73a75cf_0.tar.bz2",
-"total":32
+"total":33
 },
 {
 "basename":"pyhmmer-0.4.7-py39h38f01e4_0.tar.bz2",
@@ -210,6 +210,10 @@
 {
 "date":"2022-03-07",
 "total":143
+},
+{
+"date":"2022-03-08",
+"total":144
 }
 ],
 "package":"pyhmmer",
@@ -325,6 +329,15 @@
 {
 "basename":"pyhmmer-0.4.7-py38h4a8c8d9_0.tar.bz2",
 "total":40
+}
+]
+},
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
+{
+"basename":"pyhmmer-0.4.7-py37h73a75cf_0.tar.bz2",
+"total":33
 }
 ]
 }

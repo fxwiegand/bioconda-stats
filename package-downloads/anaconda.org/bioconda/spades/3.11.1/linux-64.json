@@ -35,7 +35,7 @@
 },
 {
 "basename":"spades-3.11.1-py36_zlib1.2.8_0.tar.bz2",
-"total":4029
+"total":4030
 }
 ],
 "downloads_per_date":[
@@ -846,6 +846,10 @@
 {
 "date":"2022-03-07",
 "total":14573
+},
+{
+"date":"2022-03-08",
+"total":14574
 }
 ],
 "package":"spades",
@@ -1303,6 +1307,15 @@
 {
 "basename":"spades-3.11.1-py36_zlib1.2.8_0.tar.bz2",
 "total":4029
+}
+]
+},
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
+{
+"basename":"spades-3.11.1-py36_zlib1.2.8_0.tar.bz2",
+"total":4030
 }
 ]
 }

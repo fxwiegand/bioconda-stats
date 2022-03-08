@@ -730,6 +730,10 @@
 {
 "date":"2022-03-07",
 "total":2146
+},
+{
+"date":"2022-03-08",
+"total":2146
 }
 ],
 "package":"biopet-validatefastq",
@@ -757,7 +761,12 @@
 {
 "basename":"biopet-validatefastq-0.1.1-1.tar.bz2",
 "total":74
+}
+]
 },
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
 {
 "basename":"biopet-validatefastq-0.1.1-py35_0.tar.bz2",
 "total":280

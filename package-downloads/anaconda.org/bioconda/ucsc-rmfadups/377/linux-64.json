@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-rmfadups-377-ha8a8165_3.tar.bz2",
-"total":16
+"total":17
 },
 {
 "basename":"ucsc-rmfadups-377-h446ed27_1.tar.bz2",
@@ -430,6 +430,10 @@
 {
 "date":"2022-03-07",
 "total":314
+},
+{
+"date":"2022-03-08",
+"total":315
 }
 ],
 "package":"ucsc-rmfadups",
@@ -584,6 +588,15 @@
 {
 "basename":"ucsc-rmfadups-377-h446ed27_1.tar.bz2",
 "total":70
+}
+]
+},
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
+{
+"basename":"ucsc-rmfadups-377-ha8a8165_3.tar.bz2",
+"total":17
 }
 ]
 }

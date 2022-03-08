@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-test-subcalls-1.10-pl526_2.tar.bz2",
-"total":281
+"total":282
 }
 ],
 "downloads_per_date":[
@@ -186,6 +186,10 @@
 {
 "date":"2022-03-07",
 "total":671
+},
+{
+"date":"2022-03-08",
+"total":672
 }
 ],
 "package":"perl-test-subcalls",
@@ -221,6 +225,15 @@
 {
 "basename":"perl-test-subcalls-1.10-pl526_2.tar.bz2",
 "total":281
+}
+]
+},
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
+{
+"basename":"perl-test-subcalls-1.10-pl526_2.tar.bz2",
+"total":282
 }
 ]
 }

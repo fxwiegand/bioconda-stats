@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-bma-3.18.6-r3.3.1_0.tar.bz2",
-"total":5350
+"total":5351
 }
 ],
 "downloads_per_date":[
@@ -242,6 +242,10 @@
 {
 "date":"2022-03-07",
 "total":9239
+},
+{
+"date":"2022-03-08",
+"total":9240
 }
 ],
 "package":"r-bma",
@@ -322,6 +326,15 @@
 {
 "basename":"r-bma-3.18.6-r3.3.2_0.tar.bz2",
 "total":976
+}
+]
+},
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
+{
+"basename":"r-bma-3.18.6-r3.3.1_0.tar.bz2",
+"total":5351
 }
 ]
 }

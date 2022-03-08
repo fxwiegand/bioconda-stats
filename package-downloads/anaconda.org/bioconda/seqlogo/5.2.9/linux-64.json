@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"seqlogo-5.2.9-py35_1.tar.bz2",
-"total":120
+"total":121
 },
 {
 "basename":"seqlogo-5.2.9-py36_1.tar.bz2",
@@ -242,6 +242,10 @@
 {
 "date":"2022-03-07",
 "total":266
+},
+{
+"date":"2022-03-08",
+"total":267
 }
 ],
 "package":"seqlogo",
@@ -295,6 +299,15 @@
 {
 "basename":"seqlogo-5.2.9-py36_1.tar.bz2",
 "total":146
+}
+]
+},
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
+{
+"basename":"seqlogo-5.2.9-py35_1.tar.bz2",
+"total":121
 }
 ]
 }

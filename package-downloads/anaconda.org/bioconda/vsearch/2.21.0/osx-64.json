@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"vsearch-2.21.0-h14b862d_0.tar.bz2",
-"total":122
+"total":124
 }
 ],
 "downloads_per_date":[
@@ -170,6 +170,10 @@
 {
 "date":"2022-03-07",
 "total":122
+},
+{
+"date":"2022-03-08",
+"total":124
 }
 ],
 "package":"vsearch",
@@ -540,6 +544,15 @@
 {
 "basename":"vsearch-2.21.0-h14b862d_0.tar.bz2",
 "total":122
+}
+]
+},
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
+{
+"basename":"vsearch-2.21.0-h14b862d_0.tar.bz2",
+"total":124
 }
 ]
 }

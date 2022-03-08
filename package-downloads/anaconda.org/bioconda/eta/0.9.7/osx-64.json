@@ -750,6 +750,10 @@
 {
 "date":"2022-03-07",
 "total":2243
+},
+{
+"date":"2022-03-08",
+"total":2243
 }
 ],
 "package":"eta",
@@ -767,6 +771,15 @@
 "date":"2022-03-07",
 "downloads_per_basename":[
 {
+"basename":"eta-0.9.7-py27_1.tar.bz2",
+"total":149
+}
+]
+},
+{
+"date":"2022-03-08",
+"downloads_per_basename":[
+{
 "basename":"eta-0.9.7-py36_0.tar.bz2",
 "total":35
 },
@@ -781,10 +794,6 @@
 {
 "basename":"eta-0.9.7-py27_0.tar.bz2",
 "total":59
-},
-{
-"basename":"eta-0.9.7-py27_1.tar.bz2",
-"total":149
 },
 {
 "basename":"eta-0.9.7-py35_1.tar.bz2",
