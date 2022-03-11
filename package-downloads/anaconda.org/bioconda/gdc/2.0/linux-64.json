@@ -11,7 +11,7 @@
 },
 {
 "basename":"gdc-2.0-he513fc3_1.tar.bz2",
-"total":53
+"total":54
 },
 {
 "basename":"gdc-2.0-he941832_0.tar.bz2",
@@ -274,6 +274,10 @@
 {
 "date":"2022-03-08",
 "total":416
+},
+{
+"date":"2022-03-11",
+"total":417
 }
 ],
 "package":"gdc",
@@ -404,6 +408,15 @@
 {
 "basename":"gdc-2.0-he513fc3_1.tar.bz2",
 "total":53
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"gdc-2.0-he513fc3_1.tar.bz2",
+"total":54
 }
 ]
 }

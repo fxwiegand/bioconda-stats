@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-pslpartition-377-ha8a8165_3.tar.bz2",
-"total":17
+"total":18
 },
 {
 "basename":"ucsc-pslpartition-377-h446ed27_1.tar.bz2",
@@ -458,6 +458,10 @@
 {
 "date":"2022-03-08",
 "total":335
+},
+{
+"date":"2022-03-11",
+"total":336
 }
 ],
 "package":"ucsc-pslpartition",
@@ -632,6 +636,15 @@
 {
 "basename":"ucsc-pslpartition-377-h199ee4e_0.tar.bz2",
 "total":170
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-pslpartition-377-ha8a8165_3.tar.bz2",
+"total":18
 }
 ]
 }

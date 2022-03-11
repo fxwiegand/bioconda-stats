@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"logbook-0.12.2-py34_0.tar.bz2",
-"total":461
+"total":462
 },
 {
 "basename":"logbook-0.12.2-py35_0.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2022-03-08",
 "total":8823
+},
+{
+"date":"2022-03-11",
+"total":8824
 }
 ],
 "package":"logbook",
@@ -369,6 +373,15 @@
 {
 "basename":"logbook-0.12.2-py36_0.tar.bz2",
 "total":565
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"logbook-0.12.2-py34_0.tar.bz2",
+"total":462
 }
 ]
 }

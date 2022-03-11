@@ -7,7 +7,7 @@
 },
 {
 "basename":"screed-0.9-py35_0.tar.bz2",
-"total":80
+"total":81
 },
 {
 "basename":"screed-0.9-py27_0.tar.bz2",
@@ -734,6 +734,10 @@
 {
 "date":"2022-03-08",
 "total":2214
+},
+{
+"date":"2022-03-11",
+"total":2215
 }
 ],
 "package":"screed",
@@ -775,8 +779,12 @@
 ]
 },
 {
-"date":"2022-03-08",
+"date":"2022-03-11",
 "downloads_per_basename":[
+{
+"basename":"screed-0.9-py35_0.tar.bz2",
+"total":81
+},
 {
 "basename":"screed-0.9-py27_0.tar.bz2",
 "total":157

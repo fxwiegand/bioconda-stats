@@ -7,7 +7,7 @@
 },
 {
 "basename":"sepp-4.3.9-py36_0.tar.bz2",
-"total":120
+"total":121
 },
 {
 "basename":"sepp-4.3.9-py37_0.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2022-03-08",
 "total":353
+},
+{
+"date":"2022-03-11",
+"total":354
 }
 ],
 "package":"sepp",
@@ -387,6 +391,15 @@
 {
 "basename":"sepp-4.3.9-py37_0.tar.bz2",
 "total":123
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"sepp-4.3.9-py36_0.tar.bz2",
+"total":121
 }
 ]
 }

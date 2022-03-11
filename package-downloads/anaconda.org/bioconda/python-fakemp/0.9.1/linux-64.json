@@ -258,6 +258,10 @@
 {
 "date":"2022-03-08",
 "total":2528
+},
+{
+"date":"2022-03-11",
+"total":2528
 }
 ],
 "package":"python-fakemp",
@@ -401,7 +405,12 @@
 {
 "basename":"python-fakemp-0.9.1-py27_1.tar.bz2",
 "total":147
+}
+]
 },
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
 {
 "basename":"python-fakemp-0.9.1-py34_0.tar.bz2",
 "total":585

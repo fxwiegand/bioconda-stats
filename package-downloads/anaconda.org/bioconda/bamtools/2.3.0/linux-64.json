@@ -7,7 +7,7 @@
 },
 {
 "basename":"bamtools-2.3.0-he941832_2.tar.bz2",
-"total":384
+"total":385
 },
 {
 "basename":"bamtools-2.3.0-0.tar.bz2",
@@ -398,6 +398,10 @@
 {
 "date":"2022-03-08",
 "total":1740
+},
+{
+"date":"2022-03-11",
+"total":1741
 }
 ],
 "package":"bamtools",
@@ -548,6 +552,15 @@
 {
 "basename":"bamtools-2.3.0-0.tar.bz2",
 "total":1020
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"bamtools-2.3.0-he941832_2.tar.bz2",
+"total":385
 }
 ]
 }

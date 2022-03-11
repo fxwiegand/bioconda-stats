@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"scoop-0.7.1.1-py34_0.tar.bz2",
-"total":471
+"total":472
 },
 {
 "basename":"scoop-0.7.1.1-py35_1.tar.bz2",
@@ -326,6 +326,10 @@
 {
 "date":"2022-03-08",
 "total":3359
+},
+{
+"date":"2022-03-11",
+"total":3360
 }
 ],
 "package":"scoop",
@@ -544,6 +548,15 @@
 {
 "basename":"scoop-0.7.1.1-py35_1.tar.bz2",
 "total":494
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"scoop-0.7.1.1-py34_0.tar.bz2",
+"total":472
 }
 ]
 }

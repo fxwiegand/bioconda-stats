@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-dbsnoop-377-ha8a8165_3.tar.bz2",
-"total":17
+"total":18
 },
 {
 "basename":"ucsc-dbsnoop-377-h446ed27_1.tar.bz2",
@@ -454,6 +454,10 @@
 {
 "date":"2022-03-08",
 "total":321
+},
+{
+"date":"2022-03-11",
+"total":322
 }
 ],
 "package":"ucsc-dbsnoop",
@@ -629,6 +633,15 @@
 {
 "basename":"ucsc-dbsnoop-377-ha8a8165_3.tar.bz2",
 "total":17
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-dbsnoop-377-ha8a8165_3.tar.bz2",
+"total":18
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-pslscore-357-1.tar.bz2",
-"total":317
+"total":318
 },
 {
 "basename":"ucsc-pslscore-357-0.tar.bz2",
@@ -310,6 +310,10 @@
 {
 "date":"2022-03-08",
 "total":900
+},
+{
+"date":"2022-03-11",
+"total":901
 }
 ],
 "package":"ucsc-pslscore",
@@ -416,6 +420,15 @@
 {
 "basename":"ucsc-pslscore-357-0.tar.bz2",
 "total":583
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-pslscore-357-1.tar.bz2",
+"total":318
 }
 ]
 }

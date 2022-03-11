@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-pslsort-357-1.tar.bz2",
-"total":672
+"total":674
 }
 ],
 "downloads_per_date":[
@@ -614,6 +614,10 @@
 {
 "date":"2022-03-08",
 "total":1232
+},
+{
+"date":"2022-03-11",
+"total":1234
 }
 ],
 "package":"ucsc-pslsort",
@@ -815,6 +819,15 @@
 {
 "basename":"ucsc-pslsort-357-1.tar.bz2",
 "total":672
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-pslsort-357-1.tar.bz2",
+"total":674
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-biocparallel-1.28.3-r41h7cba510_0.tar.bz2",
-"total":509
+"total":928
 }
 ],
 "downloads_per_date":[
@@ -30,6 +30,10 @@
 {
 "date":"2022-03-08",
 "total":509
+},
+{
+"date":"2022-03-11",
+"total":928
 }
 ],
 "package":"bioconductor-biocparallel",
@@ -85,6 +89,15 @@
 {
 "basename":"bioconductor-biocparallel-1.28.3-r41h7cba510_0.tar.bz2",
 "total":509
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-biocparallel-1.28.3-r41h7cba510_0.tar.bz2",
+"total":928
 }
 ]
 }

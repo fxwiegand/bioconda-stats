@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-inline-0.80-pl526_2.tar.bz2",
-"total":219
+"total":220
 },
 {
 "basename":"perl-inline-0.80-pl526_3.tar.bz2",
@@ -510,6 +510,10 @@
 {
 "date":"2022-03-08",
 "total":3504
+},
+{
+"date":"2022-03-11",
+"total":3505
 }
 ],
 "package":"perl-inline",
@@ -715,6 +719,15 @@
 {
 "basename":"perl-inline-0.80-0.tar.bz2",
 "total":1681
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"perl-inline-0.80-pl526_2.tar.bz2",
+"total":220
 }
 ]
 }

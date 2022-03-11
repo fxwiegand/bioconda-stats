@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-scpipe-1.16.0-r41h619a076_1.tar.bz2",
-"total":10
+"total":11
 },
 {
 "basename":"bioconductor-scpipe-1.16.0-r41h399db7b_0.tar.bz2",
@@ -162,6 +162,10 @@
 {
 "date":"2022-03-08",
 "total":41
+},
+{
+"date":"2022-03-11",
+"total":42
 }
 ],
 "package":"bioconductor-scpipe",
@@ -239,6 +243,15 @@
 {
 "basename":"bioconductor-scpipe-1.16.0-r41h619a076_1.tar.bz2",
 "total":10
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-scpipe-1.16.0-r41h619a076_1.tar.bz2",
+"total":11
 }
 ]
 }

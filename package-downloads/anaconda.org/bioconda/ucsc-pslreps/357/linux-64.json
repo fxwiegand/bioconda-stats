@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-pslreps-357-1.tar.bz2",
-"total":330
+"total":331
 },
 {
 "basename":"ucsc-pslreps-357-0.tar.bz2",
@@ -334,6 +334,10 @@
 {
 "date":"2022-03-08",
 "total":908
+},
+{
+"date":"2022-03-11",
+"total":909
 }
 ],
 "package":"ucsc-pslreps",
@@ -432,6 +436,15 @@
 {
 "basename":"ucsc-pslreps-357-0.tar.bz2",
 "total":578
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-pslreps-357-1.tar.bz2",
+"total":331
 }
 ]
 }

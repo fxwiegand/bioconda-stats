@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"htslib-1.15-hc057d7f_0.tar.bz2",
-"total":623
+"total":1081
 }
 ],
 "downloads_per_date":[
@@ -30,6 +30,10 @@
 {
 "date":"2022-03-08",
 "total":623
+},
+{
+"date":"2022-03-11",
+"total":1081
 }
 ],
 "package":"htslib",
@@ -85,6 +89,15 @@
 {
 "basename":"htslib-1.15-hc057d7f_0.tar.bz2",
 "total":623
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"htslib-1.15-hc057d7f_0.tar.bz2",
+"total":1081
 }
 ]
 }

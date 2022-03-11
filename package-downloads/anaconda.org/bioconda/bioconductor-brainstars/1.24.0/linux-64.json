@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-brainstars-1.24.0-r341_0.tar.bz2",
-"total":208
+"total":209
 },
 {
 "basename":"bioconductor-brainstars-1.24.0-r351_0.tar.bz2",
@@ -230,6 +230,10 @@
 {
 "date":"2022-03-08",
 "total":551
+},
+{
+"date":"2022-03-11",
+"total":552
 }
 ],
 "package":"bioconductor-brainstars",
@@ -296,6 +300,15 @@
 {
 "basename":"bioconductor-brainstars-1.24.0-r351_0.tar.bz2",
 "total":343
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-brainstars-1.24.0-r341_0.tar.bz2",
+"total":209
 }
 ]
 }

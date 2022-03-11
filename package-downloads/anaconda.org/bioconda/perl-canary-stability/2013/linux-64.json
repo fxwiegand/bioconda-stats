@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-canary-stability-2013-pl526_0.tar.bz2",
-"total":164
+"total":165
 }
 ],
 "downloads_per_date":[
@@ -130,6 +130,10 @@
 {
 "date":"2022-03-08",
 "total":164
+},
+{
+"date":"2022-03-11",
+"total":165
 }
 ],
 "package":"perl-canary-stability",
@@ -176,6 +180,15 @@
 {
 "basename":"perl-canary-stability-2013-pl526_0.tar.bz2",
 "total":164
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"perl-canary-stability-2013-pl526_0.tar.bz2",
+"total":165
 }
 ]
 }

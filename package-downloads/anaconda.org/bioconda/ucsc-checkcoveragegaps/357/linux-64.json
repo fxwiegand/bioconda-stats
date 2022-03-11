@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-checkcoveragegaps-357-1.tar.bz2",
-"total":460
+"total":461
 },
 {
 "basename":"ucsc-checkcoveragegaps-357-0.tar.bz2",
@@ -354,6 +354,10 @@
 {
 "date":"2022-03-08",
 "total":922
+},
+{
+"date":"2022-03-11",
+"total":923
 }
 ],
 "package":"ucsc-checkcoveragegaps",
@@ -443,6 +447,15 @@
 {
 "basename":"ucsc-checkcoveragegaps-357-0.tar.bz2",
 "total":462
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-checkcoveragegaps-357-1.tar.bz2",
+"total":461
 }
 ]
 }

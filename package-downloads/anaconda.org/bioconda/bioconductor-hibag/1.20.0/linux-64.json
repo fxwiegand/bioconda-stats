@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-hibag-1.20.0-r36he1b5a44_1.tar.bz2",
-"total":133
+"total":134
 },
 {
 "basename":"bioconductor-hibag-1.20.0-r351hf484d3e_0.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2022-03-08",
 "total":319
+},
+{
+"date":"2022-03-11",
+"total":320
 }
 ],
 "package":"bioconductor-hibag",
@@ -346,6 +350,15 @@
 {
 "basename":"bioconductor-hibag-1.20.0-r351hf484d3e_0.tar.bz2",
 "total":186
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hibag-1.20.0-r36he1b5a44_1.tar.bz2",
+"total":134
 }
 ]
 }

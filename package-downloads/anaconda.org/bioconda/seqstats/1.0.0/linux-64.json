@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"seqstats-1.0.0-h7132678_2.tar.bz2",
-"total":12
+"total":14
 },
 {
 "basename":"seqstats-1.0.0-h5bf99c6_1.tar.bz2",
@@ -330,6 +330,10 @@
 {
 "date":"2022-03-08",
 "total":133
+},
+{
+"date":"2022-03-11",
+"total":135
 }
 ],
 "package":"seqstats",
@@ -469,6 +473,15 @@
 {
 "basename":"seqstats-1.0.0-h5bf99c6_1.tar.bz2",
 "total":48
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"seqstats-1.0.0-h7132678_2.tar.bz2",
+"total":14
 }
 ]
 }

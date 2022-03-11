@@ -7,7 +7,7 @@
 },
 {
 "basename":"gseapy-0.5.3-py34_0.tar.bz2",
-"total":599
+"total":600
 },
 {
 "basename":"gseapy-0.5.3-py35_0.tar.bz2",
@@ -226,6 +226,10 @@
 {
 "date":"2022-03-08",
 "total":1702
+},
+{
+"date":"2022-03-11",
+"total":1703
 }
 ],
 "package":"gseapy",
@@ -292,6 +296,15 @@
 {
 "basename":"gseapy-0.5.3-py35_0.tar.bz2",
 "total":685
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"gseapy-0.5.3-py34_0.tar.bz2",
+"total":600
 }
 ]
 }

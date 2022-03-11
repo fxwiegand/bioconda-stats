@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-beditemoverlapcount-357-1.tar.bz2",
-"total":368
+"total":369
 },
 {
 "basename":"ucsc-beditemoverlapcount-357-0.tar.bz2",
@@ -362,6 +362,10 @@
 {
 "date":"2022-03-08",
 "total":960
+},
+{
+"date":"2022-03-11",
+"total":961
 }
 ],
 "package":"ucsc-beditemoverlapcount",
@@ -472,6 +476,15 @@
 {
 "basename":"ucsc-beditemoverlapcount-357-0.tar.bz2",
 "total":592
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-beditemoverlapcount-357-1.tar.bz2",
+"total":369
 }
 ]
 }

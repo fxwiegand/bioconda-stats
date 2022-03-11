@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-file-pushd-1.016-pl526_1.tar.bz2",
-"total":168
+"total":169
 },
 {
 "basename":"perl-file-pushd-1.016-pl526_0.tar.bz2",
@@ -218,6 +218,10 @@
 {
 "date":"2022-03-08",
 "total":486
+},
+{
+"date":"2022-03-11",
+"total":487
 }
 ],
 "package":"perl-file-pushd",
@@ -293,6 +297,15 @@
 {
 "basename":"perl-file-pushd-1.016-pl526_0.tar.bz2",
 "total":318
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"perl-file-pushd-1.016-pl526_1.tar.bz2",
+"total":169
 }
 ]
 }

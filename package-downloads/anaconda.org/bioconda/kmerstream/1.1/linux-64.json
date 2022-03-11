@@ -7,7 +7,7 @@
 },
 {
 "basename":"kmerstream-1.1-h9a82719_2.tar.bz2",
-"total":41
+"total":42
 },
 {
 "basename":"kmerstream-1.1-he513fc3_1.tar.bz2",
@@ -354,6 +354,10 @@
 {
 "date":"2022-03-08",
 "total":214
+},
+{
+"date":"2022-03-11",
+"total":215
 }
 ],
 "package":"kmerstream",
@@ -489,6 +493,15 @@
 {
 "basename":"kmerstream-1.1-he513fc3_1.tar.bz2",
 "total":77
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"kmerstream-1.1-h9a82719_2.tar.bz2",
+"total":42
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"stacks-2.3-hd03093a_6.tar.bz2",
-"total":11
+"total":12
 },
 {
 "basename":"stacks-2.3-h9a82719_5.tar.bz2",
@@ -314,6 +314,10 @@
 {
 "date":"2022-03-08",
 "total":414
+},
+{
+"date":"2022-03-11",
+"total":415
 }
 ],
 "package":"stacks",
@@ -475,6 +479,15 @@
 {
 "basename":"stacks-2.3-h9a82719_5.tar.bz2",
 "total":55
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"stacks-2.3-hd03093a_6.tar.bz2",
+"total":12
 }
 ]
 }

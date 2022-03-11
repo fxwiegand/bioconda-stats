@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-requires-0.10-pl526_2.tar.bz2",
-"total":405
+"total":406
 },
 {
 "basename":"perl-test-requires-0.10-pl526_3.tar.bz2",
@@ -250,6 +250,10 @@
 {
 "date":"2022-03-08",
 "total":2184
+},
+{
+"date":"2022-03-11",
+"total":2185
 }
 ],
 "package":"perl-test-requires",
@@ -365,6 +369,15 @@
 {
 "basename":"perl-test-requires-0.10-0.tar.bz2",
 "total":448
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"perl-test-requires-0.10-pl526_2.tar.bz2",
+"total":406
 }
 ]
 }

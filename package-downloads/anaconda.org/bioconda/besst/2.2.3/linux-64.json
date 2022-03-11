@@ -11,7 +11,7 @@
 },
 {
 "basename":"besst-2.2.3-py27_0.tar.bz2",
-"total":595
+"total":596
 },
 {
 "basename":"besst-2.2.3-py35_0.tar.bz2",
@@ -314,6 +314,10 @@
 {
 "date":"2022-03-08",
 "total":2465
+},
+{
+"date":"2022-03-11",
+"total":2466
 }
 ],
 "package":"besst",
@@ -453,6 +457,15 @@
 {
 "basename":"besst-2.2.3-py36_0.tar.bz2",
 "total":547
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"besst-2.2.3-py27_0.tar.bz2",
+"total":596
 }
 ]
 }

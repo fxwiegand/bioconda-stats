@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"synapseclient-1.7.5-py27_0.tar.bz2",
-"total":87
+"total":88
 },
 {
 "basename":"synapseclient-1.7.5-py35_0.tar.bz2",
@@ -750,6 +750,10 @@
 {
 "date":"2022-03-08",
 "total":2179
+},
+{
+"date":"2022-03-11",
+"total":2180
 }
 ],
 "package":"synapseclient",
@@ -805,6 +809,15 @@
 {
 "basename":"synapseclient-1.7.5-py27_0.tar.bz2",
 "total":87
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"synapseclient-1.7.5-py27_0.tar.bz2",
+"total":88
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-bio-cigar-1.01-pl526_4.tar.bz2",
-"total":181
+"total":182
 },
 {
 "basename":"perl-bio-cigar-1.01-pl526_3.tar.bz2",
@@ -246,6 +246,10 @@
 {
 "date":"2022-03-08",
 "total":1301
+},
+{
+"date":"2022-03-11",
+"total":1302
 }
 ],
 "package":"perl-bio-cigar",
@@ -390,6 +394,15 @@
 {
 "basename":"perl-bio-cigar-1.01-pl526_4.tar.bz2",
 "total":181
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"perl-bio-cigar-1.01-pl526_4.tar.bz2",
+"total":182
 }
 ]
 }

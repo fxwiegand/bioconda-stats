@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-bedcommonregions-357-1.tar.bz2",
-"total":423
+"total":424
 },
 {
 "basename":"ucsc-bedcommonregions-357-0.tar.bz2",
@@ -314,6 +314,10 @@
 {
 "date":"2022-03-08",
 "total":859
+},
+{
+"date":"2022-03-11",
+"total":860
 }
 ],
 "package":"ucsc-bedcommonregions",
@@ -412,6 +416,15 @@
 {
 "basename":"ucsc-bedcommonregions-357-0.tar.bz2",
 "total":436
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bedcommonregions-357-1.tar.bz2",
+"total":424
 }
 ]
 }

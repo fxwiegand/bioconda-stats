@@ -11,7 +11,7 @@
 },
 {
 "basename":"dnapi-1.1-py35_0.tar.bz2",
-"total":427
+"total":428
 },
 {
 "basename":"dnapi-1.1-py35_2.tar.bz2",
@@ -322,6 +322,10 @@
 {
 "date":"2022-03-08",
 "total":9694
+},
+{
+"date":"2022-03-11",
+"total":9695
 }
 ],
 "package":"dnapi",
@@ -482,6 +486,15 @@
 {
 "basename":"dnapi-1.1-py27_2.tar.bz2",
 "total":4922
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"dnapi-1.1-py35_0.tar.bz2",
+"total":428
 }
 ]
 }

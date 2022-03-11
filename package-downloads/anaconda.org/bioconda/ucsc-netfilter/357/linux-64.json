@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-netfilter-357-1.tar.bz2",
-"total":328
+"total":329
 },
 {
 "basename":"ucsc-netfilter-357-0.tar.bz2",
@@ -290,6 +290,10 @@
 {
 "date":"2022-03-08",
 "total":917
+},
+{
+"date":"2022-03-11",
+"total":918
 }
 ],
 "package":"ucsc-netfilter",
@@ -389,6 +393,15 @@
 {
 "basename":"ucsc-netfilter-357-0.tar.bz2",
 "total":589
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-netfilter-357-1.tar.bz2",
+"total":329
 }
 ]
 }

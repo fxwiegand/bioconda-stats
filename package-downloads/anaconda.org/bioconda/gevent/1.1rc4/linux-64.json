@@ -7,7 +7,7 @@
 },
 {
 "basename":"gevent-1.1rc4-py35_0.tar.bz2",
-"total":4231
+"total":4233
 },
 {
 "basename":"gevent-1.1rc4-py36_0.tar.bz2",
@@ -650,6 +650,10 @@
 {
 "date":"2022-03-08",
 "total":14378
+},
+{
+"date":"2022-03-11",
+"total":14380
 }
 ],
 "package":"gevent",
@@ -894,6 +898,15 @@
 {
 "basename":"gevent-1.1rc4-py36_0.tar.bz2",
 "total":9570
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"gevent-1.1rc4-py35_0.tar.bz2",
+"total":4233
 }
 ]
 }

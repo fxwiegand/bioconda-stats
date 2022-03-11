@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-wordline-357-1.tar.bz2",
-"total":317
+"total":318
 },
 {
 "basename":"ucsc-wordline-357-0.tar.bz2",
@@ -298,6 +298,10 @@
 {
 "date":"2022-03-08",
 "total":883
+},
+{
+"date":"2022-03-11",
+"total":884
 }
 ],
 "package":"ucsc-wordline",
@@ -396,6 +400,15 @@
 {
 "basename":"ucsc-wordline-357-0.tar.bz2",
 "total":566
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-wordline-357-1.tar.bz2",
+"total":318
 }
 ]
 }

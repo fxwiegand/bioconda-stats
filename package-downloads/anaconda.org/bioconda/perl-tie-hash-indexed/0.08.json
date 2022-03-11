@@ -64,6 +64,10 @@
 {
 "date":"2022-03-08",
 "total":82
+},
+{
+"date":"2022-03-11",
+"total":88
 }
 ],
 "downloads_per_subdir":[
@@ -73,7 +77,7 @@
 },
 {
 "subdir":"osx-64",
-"total":59
+"total":65
 }
 ],
 "package":"perl-tie-hash-indexed",
@@ -233,6 +237,15 @@
 {
 "subdir":"osx-64",
 "total":59
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":65
 }
 ]
 }

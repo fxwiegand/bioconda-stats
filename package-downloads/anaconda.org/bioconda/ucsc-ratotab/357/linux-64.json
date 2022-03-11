@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-ratotab-357-1.tar.bz2",
-"total":459
+"total":460
 }
 ],
 "downloads_per_date":[
@@ -354,6 +354,10 @@
 {
 "date":"2022-03-08",
 "total":899
+},
+{
+"date":"2022-03-11",
+"total":900
 }
 ],
 "package":"ucsc-ratotab",
@@ -452,6 +456,15 @@
 {
 "basename":"ucsc-ratotab-357-0.tar.bz2",
 "total":440
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-ratotab-357-1.tar.bz2",
+"total":460
 }
 ]
 }

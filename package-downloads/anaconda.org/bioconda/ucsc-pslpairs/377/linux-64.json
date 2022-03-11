@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-pslpairs-377-ha8a8165_3.tar.bz2",
-"total":19
+"total":20
 },
 {
 "basename":"ucsc-pslpairs-377-h446ed27_1.tar.bz2",
@@ -466,6 +466,10 @@
 {
 "date":"2022-03-08",
 "total":329
+},
+{
+"date":"2022-03-11",
+"total":330
 }
 ],
 "package":"ucsc-pslpairs",
@@ -628,6 +632,15 @@
 {
 "basename":"ucsc-pslpairs-377-ha8a8165_3.tar.bz2",
 "total":19
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-pslpairs-377-ha8a8165_3.tar.bz2",
+"total":20
 }
 ]
 }

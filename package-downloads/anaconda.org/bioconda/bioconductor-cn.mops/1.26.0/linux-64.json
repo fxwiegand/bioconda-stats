@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-cn.mops-1.26.0-r351hfc679d8_0.tar.bz2",
-"total":349
+"total":350
 },
 {
 "basename":"bioconductor-cn.mops-1.26.0-r341hfc679d8_0.tar.bz2",
@@ -238,6 +238,10 @@
 {
 "date":"2022-03-08",
 "total":1224
+},
+{
+"date":"2022-03-11",
+"total":1225
 }
 ],
 "package":"bioconductor-cn.mops",
@@ -304,6 +308,15 @@
 {
 "basename":"bioconductor-cn.mops-1.26.0-r341hfc679d8_0.tar.bz2",
 "total":875
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cn.mops-1.26.0-r351hfc679d8_0.tar.bz2",
+"total":350
 }
 ]
 }

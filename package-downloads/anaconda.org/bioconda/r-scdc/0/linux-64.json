@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-scdc-0-r41h9f5acd7_2.tar.bz2",
-"total":11
+"total":12
 },
 {
 "basename":"r-scdc-0-r40h7d875b9_1.tar.bz2",
@@ -98,6 +98,10 @@
 {
 "date":"2022-03-08",
 "total":39
+},
+{
+"date":"2022-03-11",
+"total":40
 }
 ],
 "package":"r-scdc",
@@ -208,6 +212,15 @@
 {
 "basename":"r-scdc-0-r40h7d875b9_0.tar.bz2",
 "total":15
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"r-scdc-0-r41h9f5acd7_2.tar.bz2",
+"total":12
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"locarna-1.9.2-pl5.22.0_0.tar.bz2",
-"total":580
+"total":581
 },
 {
 "basename":"locarna-1.9.2-h2d50403_1.tar.bz2",
@@ -302,6 +302,10 @@
 {
 "date":"2022-03-08",
 "total":1201
+},
+{
+"date":"2022-03-11",
+"total":1202
 }
 ],
 "package":"locarna",
@@ -381,6 +385,15 @@
 {
 "basename":"locarna-1.9.2-h2d50403_1.tar.bz2",
 "total":621
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"locarna-1.9.2-pl5.22.0_0.tar.bz2",
+"total":581
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-catdir-357-1.tar.bz2",
-"total":377
+"total":378
 },
 {
 "basename":"ucsc-catdir-357-0.tar.bz2",
@@ -334,6 +334,10 @@
 {
 "date":"2022-03-08",
 "total":905
+},
+{
+"date":"2022-03-11",
+"total":906
 }
 ],
 "package":"ucsc-catdir",
@@ -450,6 +454,15 @@
 {
 "basename":"ucsc-catdir-357-0.tar.bz2",
 "total":528
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-catdir-357-1.tar.bz2",
+"total":378
 }
 ]
 }

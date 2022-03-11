@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-slalom-1.14.0-r41h399db7b_0.tar.bz2",
-"total":64
+"total":66
 }
 ],
 "downloads_per_date":[
@@ -302,6 +302,10 @@
 {
 "date":"2022-03-08",
 "total":64
+},
+{
+"date":"2022-03-11",
+"total":66
 }
 ],
 "package":"bioconductor-slalom",
@@ -357,6 +361,15 @@
 {
 "basename":"bioconductor-slalom-1.14.0-r41h399db7b_0.tar.bz2",
 "total":64
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-slalom-1.14.0-r41h399db7b_0.tar.bz2",
+"total":66
 }
 ]
 }

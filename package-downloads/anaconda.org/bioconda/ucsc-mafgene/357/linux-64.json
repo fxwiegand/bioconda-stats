@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-mafgene-357-1.tar.bz2",
-"total":353
+"total":354
 },
 {
 "basename":"ucsc-mafgene-357-0.tar.bz2",
@@ -338,6 +338,10 @@
 {
 "date":"2022-03-08",
 "total":907
+},
+{
+"date":"2022-03-11",
+"total":908
 }
 ],
 "package":"ucsc-mafgene",
@@ -436,6 +440,15 @@
 {
 "basename":"ucsc-mafgene-357-0.tar.bz2",
 "total":554
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-mafgene-357-1.tar.bz2",
+"total":354
 }
 ]
 }

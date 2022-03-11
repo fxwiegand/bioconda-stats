@@ -15,7 +15,7 @@
 },
 {
 "basename":"cooler-0.8.2-py36h1341992_0.tar.bz2",
-"total":344
+"total":345
 },
 {
 "basename":"cooler-0.8.2-py27h1341992_1.tar.bz2",
@@ -430,6 +430,10 @@
 {
 "date":"2022-03-08",
 "total":2235
+},
+{
+"date":"2022-03-11",
+"total":2236
 }
 ],
 "package":"cooler",
@@ -600,6 +604,15 @@
 {
 "basename":"cooler-0.8.2-py36h1341992_1.tar.bz2",
 "total":775
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"cooler-0.8.2-py36h1341992_0.tar.bz2",
+"total":345
 }
 ]
 }

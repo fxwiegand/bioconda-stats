@@ -43,7 +43,7 @@
 },
 {
 "basename":"multiqc-bcbio-0.2.0dev-py27_0.tar.bz2",
-"total":482
+"total":483
 },
 {
 "basename":"multiqc-bcbio-0.2.0dev-py34_1.tar.bz2",
@@ -462,6 +462,10 @@
 {
 "date":"2022-03-08",
 "total":7501
+},
+{
+"date":"2022-03-11",
+"total":7502
 }
 ],
 "package":"multiqc-bcbio",
@@ -818,6 +822,15 @@
 {
 "basename":"multiqc-bcbio-0.2.0dev-py34_1.tar.bz2",
 "total":558
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"multiqc-bcbio-0.2.0dev-py27_0.tar.bz2",
+"total":483
 }
 ]
 }

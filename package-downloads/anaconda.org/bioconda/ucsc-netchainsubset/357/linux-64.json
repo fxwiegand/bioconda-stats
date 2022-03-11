@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-netchainsubset-357-1.tar.bz2",
-"total":389
+"total":390
 },
 {
 "basename":"ucsc-netchainsubset-357-0.tar.bz2",
@@ -346,6 +346,10 @@
 {
 "date":"2022-03-08",
 "total":958
+},
+{
+"date":"2022-03-11",
+"total":959
 }
 ],
 "package":"ucsc-netchainsubset",
@@ -466,6 +470,15 @@
 {
 "basename":"ucsc-netchainsubset-357-1.tar.bz2",
 "total":389
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-netchainsubset-357-1.tar.bz2",
+"total":390
 }
 ]
 }

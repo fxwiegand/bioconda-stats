@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-pslmap-357-1.tar.bz2",
-"total":654
+"total":655
 }
 ],
 "downloads_per_date":[
@@ -610,6 +610,10 @@
 {
 "date":"2022-03-08",
 "total":1100
+},
+{
+"date":"2022-03-11",
+"total":1101
 }
 ],
 "package":"ucsc-pslmap",
@@ -726,6 +730,15 @@
 {
 "basename":"ucsc-pslmap-357-0.tar.bz2",
 "total":446
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-pslmap-357-1.tar.bz2",
+"total":655
 }
 ]
 }

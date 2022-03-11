@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-ihw-1.2.0-r3.4.1_0.tar.bz2",
-"total":772
+"total":773
 },
 {
 "basename":"bioconductor-ihw-1.2.0-r3.3.1_0.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2022-03-08",
 "total":2509
+},
+{
+"date":"2022-03-11",
+"total":2510
 }
 ],
 "package":"bioconductor-ihw",
@@ -348,6 +352,15 @@
 {
 "basename":"bioconductor-ihw-1.2.0-r3.3.1_0.tar.bz2",
 "total":1070
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ihw-1.2.0-r3.4.1_0.tar.bz2",
+"total":773
 }
 ]
 }

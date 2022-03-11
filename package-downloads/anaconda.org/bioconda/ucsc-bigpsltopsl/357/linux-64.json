@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-bigpsltopsl-357-1.tar.bz2",
-"total":354
+"total":355
 },
 {
 "basename":"ucsc-bigpsltopsl-357-0.tar.bz2",
@@ -338,6 +338,10 @@
 {
 "date":"2022-03-08",
 "total":898
+},
+{
+"date":"2022-03-11",
+"total":899
 }
 ],
 "package":"ucsc-bigpsltopsl",
@@ -463,6 +467,15 @@
 {
 "basename":"ucsc-bigpsltopsl-357-0.tar.bz2",
 "total":544
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bigpsltopsl-357-1.tar.bz2",
+"total":355
 }
 ]
 }

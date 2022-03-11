@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-sigminer-2.1.2-r41hecf12ef_1.tar.bz2",
-"total":11
+"total":12
 },
 {
 "basename":"r-sigminer-2.1.2-r41h52a8340_0.tar.bz2",
@@ -94,6 +94,10 @@
 {
 "date":"2022-03-08",
 "total":27
+},
+{
+"date":"2022-03-11",
+"total":28
 }
 ],
 "package":"r-sigminer",
@@ -179,6 +183,15 @@
 {
 "basename":"r-sigminer-2.1.2-r41h52a8340_0.tar.bz2",
 "total":16
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"r-sigminer-2.1.2-r41hecf12ef_1.tar.bz2",
+"total":12
 }
 ]
 }

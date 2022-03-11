@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-venn-1.2-r3.3.1_0.tar.bz2",
-"total":1009
+"total":1010
 },
 {
 "basename":"r-venn-1.2-r3.3.2_0.tar.bz2",
@@ -246,6 +246,10 @@
 {
 "date":"2022-03-08",
 "total":2049
+},
+{
+"date":"2022-03-11",
+"total":2050
 }
 ],
 "package":"r-venn",
@@ -326,6 +330,15 @@
 {
 "basename":"r-venn-1.2-r3.3.2_0.tar.bz2",
 "total":1040
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"r-venn-1.2-r3.3.1_0.tar.bz2",
+"total":1010
 }
 ]
 }

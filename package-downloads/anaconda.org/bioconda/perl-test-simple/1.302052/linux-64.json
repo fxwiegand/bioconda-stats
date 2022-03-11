@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-test-simple-1.302052-1.tar.bz2",
-"total":2076
+"total":2077
 }
 ],
 "downloads_per_date":[
@@ -458,6 +458,10 @@
 {
 "date":"2022-03-08",
 "total":3363
+},
+{
+"date":"2022-03-11",
+"total":3364
 }
 ],
 "package":"perl-test-simple",
@@ -680,6 +684,15 @@
 {
 "basename":"perl-test-simple-1.302052-0.tar.bz2",
 "total":858
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"perl-test-simple-1.302052-1.tar.bz2",
+"total":2077
 }
 ]
 }

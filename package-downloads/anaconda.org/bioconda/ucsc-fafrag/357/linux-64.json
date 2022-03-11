@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-fafrag-357-1.tar.bz2",
-"total":307
+"total":308
 },
 {
 "basename":"ucsc-fafrag-357-0.tar.bz2",
@@ -334,6 +334,10 @@
 {
 "date":"2022-03-08",
 "total":896
+},
+{
+"date":"2022-03-11",
+"total":897
 }
 ],
 "package":"ucsc-fafrag",
@@ -410,6 +414,15 @@
 {
 "basename":"ucsc-fafrag-357-0.tar.bz2",
 "total":589
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-fafrag-357-1.tar.bz2",
+"total":308
 }
 ]
 }

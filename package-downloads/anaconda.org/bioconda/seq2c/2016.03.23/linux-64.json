@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"seq2c-2016.03.23-pl526_1.tar.bz2",
-"total":861
+"total":862
 },
 {
 "basename":"seq2c-2016.03.23-0.tar.bz2",
@@ -242,6 +242,10 @@
 {
 "date":"2022-03-08",
 "total":5425
+},
+{
+"date":"2022-03-11",
+"total":5426
 }
 ],
 "package":"seq2c",
@@ -319,6 +323,15 @@
 {
 "basename":"seq2c-2016.03.23-pl526_1.tar.bz2",
 "total":861
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"seq2c-2016.03.23-pl526_1.tar.bz2",
+"total":862
 }
 ]
 }

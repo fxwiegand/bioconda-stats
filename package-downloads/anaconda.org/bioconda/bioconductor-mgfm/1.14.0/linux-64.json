@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-mgfm-1.14.0-r341_0.tar.bz2",
-"total":212
+"total":213
 },
 {
 "basename":"bioconductor-mgfm-1.14.0-r351_0.tar.bz2",
@@ -258,6 +258,10 @@
 {
 "date":"2022-03-08",
 "total":530
+},
+{
+"date":"2022-03-11",
+"total":531
 }
 ],
 "package":"bioconductor-mgfm",
@@ -329,6 +333,15 @@
 {
 "basename":"bioconductor-mgfm-1.14.0-r351_0.tar.bz2",
 "total":318
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mgfm-1.14.0-r341_0.tar.bz2",
+"total":213
 }
 ]
 }

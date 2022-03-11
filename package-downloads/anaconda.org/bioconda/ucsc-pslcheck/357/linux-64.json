@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-pslcheck-357-1.tar.bz2",
-"total":399
+"total":400
 },
 {
 "basename":"ucsc-pslcheck-357-0.tar.bz2",
@@ -342,6 +342,10 @@
 {
 "date":"2022-03-08",
 "total":969
+},
+{
+"date":"2022-03-11",
+"total":970
 }
 ],
 "package":"ucsc-pslcheck",
@@ -449,6 +453,15 @@
 {
 "basename":"ucsc-pslcheck-357-0.tar.bz2",
 "total":570
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-pslcheck-357-1.tar.bz2",
+"total":400
 }
 ]
 }

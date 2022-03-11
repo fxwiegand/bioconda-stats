@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-extutils-manifest-1.70-pl5.22.0_1.tar.bz2",
-"total":566
+"total":567
 },
 {
 "basename":"perl-extutils-manifest-1.70-0.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2022-03-08",
 "total":4492
+},
+{
+"date":"2022-03-11",
+"total":4493
 }
 ],
 "package":"perl-extutils-manifest",
@@ -397,6 +401,15 @@
 {
 "basename":"perl-extutils-manifest-1.70-0.tar.bz2",
 "total":1021
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"perl-extutils-manifest-1.70-pl5.22.0_1.tar.bz2",
+"total":567
 }
 ]
 }

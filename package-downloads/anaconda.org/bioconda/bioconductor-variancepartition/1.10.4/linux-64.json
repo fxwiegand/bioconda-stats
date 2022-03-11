@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-variancepartition-1.10.4-r341_0.tar.bz2",
-"total":200
+"total":201
 },
 {
 "basename":"bioconductor-variancepartition-1.10.4-r351_0.tar.bz2",
@@ -250,6 +250,10 @@
 {
 "date":"2022-03-08",
 "total":529
+},
+{
+"date":"2022-03-11",
+"total":530
 }
 ],
 "package":"bioconductor-variancepartition",
@@ -312,6 +316,15 @@
 {
 "basename":"bioconductor-variancepartition-1.10.4-r351_0.tar.bz2",
 "total":329
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-variancepartition-1.10.4-r341_0.tar.bz2",
+"total":201
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"galaxy-lib-18.5.13-py27_0.tar.bz2",
-"total":296
+"total":297
 },
 {
 "basename":"galaxy-lib-18.5.13-py35_0.tar.bz2",
@@ -238,6 +238,10 @@
 {
 "date":"2022-03-08",
 "total":1524
+},
+{
+"date":"2022-03-11",
+"total":1525
 }
 ],
 "package":"galaxy-lib",
@@ -330,6 +334,15 @@
 {
 "basename":"galaxy-lib-18.5.13-py36_0.tar.bz2",
 "total":909
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"galaxy-lib-18.5.13-py27_0.tar.bz2",
+"total":297
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-sleuth-0.30.0-r351_1.tar.bz2",
-"total":1889
+"total":1890
 }
 ],
 "downloads_per_date":[
@@ -706,6 +706,10 @@
 {
 "date":"2022-03-08",
 "total":2208
+},
+{
+"date":"2022-03-11",
+"total":2209
 }
 ],
 "package":"r-sleuth",
@@ -729,11 +733,15 @@
 ]
 },
 {
-"date":"2022-03-08",
+"date":"2022-03-11",
 "downloads_per_basename":[
 {
 "basename":"r-sleuth-0.30.0-r351_0.tar.bz2",
 "total":319
+},
+{
+"basename":"r-sleuth-0.30.0-r351_1.tar.bz2",
+"total":1890
 }
 ]
 }

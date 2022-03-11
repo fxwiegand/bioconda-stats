@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-titancna-1.28.0-r40hd029910_1.tar.bz2",
-"total":67
+"total":68
 },
 {
 "basename":"bioconductor-titancna-1.28.0-r40h037d062_0.tar.bz2",
@@ -306,6 +306,10 @@
 {
 "date":"2022-03-08",
 "total":150
+},
+{
+"date":"2022-03-11",
+"total":151
 }
 ],
 "package":"bioconductor-titancna",
@@ -395,6 +399,15 @@
 {
 "basename":"bioconductor-titancna-1.28.0-r40h037d062_0.tar.bz2",
 "total":83
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-titancna-1.28.0-r40hd029910_1.tar.bz2",
+"total":68
 }
 ]
 }

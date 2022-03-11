@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-bedgeneparts-357-1.tar.bz2",
-"total":297
+"total":298
 },
 {
 "basename":"ucsc-bedgeneparts-357-0.tar.bz2",
@@ -322,6 +322,10 @@
 {
 "date":"2022-03-08",
 "total":883
+},
+{
+"date":"2022-03-11",
+"total":884
 }
 ],
 "package":"ucsc-bedgeneparts",
@@ -402,6 +406,15 @@
 {
 "basename":"ucsc-bedgeneparts-357-0.tar.bz2",
 "total":586
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bedgeneparts-357-1.tar.bz2",
+"total":298
 }
 ]
 }

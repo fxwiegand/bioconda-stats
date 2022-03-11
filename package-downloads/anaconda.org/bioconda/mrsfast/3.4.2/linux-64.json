@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"mrsfast-3.4.2-h7132678_2.tar.bz2",
-"total":9
+"total":10
 },
 {
 "basename":"mrsfast-3.4.2-hed695b0_0.tar.bz2",
@@ -350,6 +350,10 @@
 {
 "date":"2022-03-08",
 "total":252
+},
+{
+"date":"2022-03-11",
+"total":253
 }
 ],
 "package":"mrsfast",
@@ -475,6 +479,15 @@
 {
 "basename":"mrsfast-3.4.2-hed695b0_0.tar.bz2",
 "total":105
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"mrsfast-3.4.2-h7132678_2.tar.bz2",
+"total":10
 }
 ]
 }

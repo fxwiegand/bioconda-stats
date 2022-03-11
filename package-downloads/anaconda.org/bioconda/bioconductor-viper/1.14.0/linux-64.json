@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-viper-1.14.0-r351_0.tar.bz2",
-"total":196
+"total":197
 },
 {
 "basename":"bioconductor-viper-1.14.0-r341_0.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2022-03-08",
 "total":508
+},
+{
+"date":"2022-03-11",
+"total":509
 }
 ],
 "package":"bioconductor-viper",
@@ -350,6 +354,15 @@
 {
 "basename":"bioconductor-viper-1.14.0-r341_0.tar.bz2",
 "total":312
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-viper-1.14.0-r351_0.tar.bz2",
+"total":197
 }
 ]
 }

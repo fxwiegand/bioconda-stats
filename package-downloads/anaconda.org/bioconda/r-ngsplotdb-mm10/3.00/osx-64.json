@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-ngsplotdb-mm10-3.00-4.tar.bz2",
-"total":45
+"total":47
 },
 {
 "basename":"r-ngsplotdb-mm10-3.00-r3.4.1_0.tar.bz2",
@@ -718,6 +718,10 @@
 {
 "date":"2022-03-08",
 "total":2080
+},
+{
+"date":"2022-03-11",
+"total":2082
 }
 ],
 "package":"r-ngsplotdb-mm10",
@@ -762,11 +766,15 @@
 ]
 },
 {
-"date":"2022-03-08",
+"date":"2022-03-11",
 "downloads_per_basename":[
 {
 "basename":"r-ngsplotdb-mm10-3.00-5.tar.bz2",
 "total":17
+},
+{
+"basename":"r-ngsplotdb-mm10-3.00-4.tar.bz2",
+"total":47
 }
 ]
 }

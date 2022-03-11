@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"seqfu-1.9.1-hbd632db_1.tar.bz2",
-"total":18
+"total":23
 },
 {
 "basename":"seqfu-1.9.1-h38613fd_0.tar.bz2",
@@ -118,6 +118,10 @@
 {
 "date":"2022-03-08",
 "total":64
+},
+{
+"date":"2022-03-11",
+"total":69
 }
 ],
 "package":"seqfu",
@@ -334,6 +338,15 @@
 {
 "basename":"seqfu-1.9.1-hbd632db_1.tar.bz2",
 "total":18
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"seqfu-1.9.1-hbd632db_1.tar.bz2",
+"total":23
 }
 ]
 }

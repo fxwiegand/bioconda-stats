@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-eol-2.00-pl526_0.tar.bz2",
-"total":240
+"total":241
 }
 ],
 "downloads_per_date":[
@@ -154,6 +154,10 @@
 {
 "date":"2022-03-08",
 "total":240
+},
+{
+"date":"2022-03-11",
+"total":241
 }
 ],
 "package":"perl-test-eol",
@@ -191,6 +195,15 @@
 {
 "basename":"perl-test-eol-2.00-pl526_0.tar.bz2",
 "total":240
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"perl-test-eol-2.00-pl526_0.tar.bz2",
+"total":241
 }
 ]
 }

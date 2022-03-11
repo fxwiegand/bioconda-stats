@@ -7,7 +7,7 @@
 },
 {
 "basename":"galaxy_sequence_utils-1.1.2-py35_0.tar.bz2",
-"total":596
+"total":597
 },
 {
 "basename":"galaxy_sequence_utils-1.1.2-py36_0.tar.bz2",
@@ -250,6 +250,10 @@
 {
 "date":"2022-03-08",
 "total":2162
+},
+{
+"date":"2022-03-11",
+"total":2163
 }
 ],
 "package":"galaxy_sequence_utils",
@@ -334,6 +338,15 @@
 {
 "basename":"galaxy_sequence_utils-1.1.2-py36_0.tar.bz2",
 "total":1084
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"galaxy_sequence_utils-1.1.2-py35_0.tar.bz2",
+"total":597
 }
 ]
 }

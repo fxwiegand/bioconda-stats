@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ruffus-2.6.3-py34_0.tar.bz2",
-"total":494
+"total":495
 },
 {
 "basename":"ruffus-2.6.3-py27_0.tar.bz2",
@@ -286,6 +286,10 @@
 {
 "date":"2022-03-08",
 "total":7599
+},
+{
+"date":"2022-03-11",
+"total":7600
 }
 ],
 "package":"ruffus",
@@ -415,6 +419,15 @@
 {
 "basename":"ruffus-2.6.3-py27_0.tar.bz2",
 "total":1994
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"ruffus-2.6.3-py34_0.tar.bz2",
+"total":495
 }
 ]
 }

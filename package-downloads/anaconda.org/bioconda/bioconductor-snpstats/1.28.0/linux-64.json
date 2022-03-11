@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-snpstats-1.28.0-r3.4.1_0.tar.bz2",
-"total":665
+"total":666
 }
 ],
 "downloads_per_date":[
@@ -298,6 +298,10 @@
 {
 "date":"2022-03-08",
 "total":1081
+},
+{
+"date":"2022-03-11",
+"total":1082
 }
 ],
 "package":"bioconductor-snpstats",
@@ -385,6 +389,15 @@
 {
 "basename":"bioconductor-snpstats-1.28.0-r351_1.tar.bz2",
 "total":213
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-snpstats-1.28.0-r3.4.1_0.tar.bz2",
+"total":666
 }
 ]
 }

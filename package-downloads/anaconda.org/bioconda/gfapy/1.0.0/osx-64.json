@@ -11,7 +11,7 @@
 },
 {
 "basename":"gfapy-1.0.0-py36_0.tar.bz2",
-"total":40
+"total":42
 },
 {
 "basename":"gfapy-1.0.0-py36_1.tar.bz2",
@@ -714,6 +714,10 @@
 {
 "date":"2022-03-08",
 "total":2150
+},
+{
+"date":"2022-03-11",
+"total":2152
 }
 ],
 "package":"gfapy",
@@ -740,6 +744,15 @@
 "date":"2022-03-08",
 "downloads_per_basename":[
 {
+"basename":"gfapy-1.0.0-py36_0.tar.bz2",
+"total":40
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
 "basename":"gfapy-1.0.0-py35_0.tar.bz2",
 "total":35
 },
@@ -749,7 +762,7 @@
 },
 {
 "basename":"gfapy-1.0.0-py36_0.tar.bz2",
-"total":40
+"total":42
 }
 ]
 }

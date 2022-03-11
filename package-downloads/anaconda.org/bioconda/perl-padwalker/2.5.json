@@ -64,6 +64,10 @@
 {
 "date":"2022-03-08",
 "total":91
+},
+{
+"date":"2022-03-11",
+"total":98
 }
 ],
 "downloads_per_subdir":[
@@ -73,7 +77,7 @@
 },
 {
 "subdir":"osx-64",
-"total":61
+"total":68
 }
 ],
 "package":"perl-padwalker",
@@ -250,6 +254,15 @@
 {
 "subdir":"osx-64",
 "total":61
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":68
 }
 ]
 }

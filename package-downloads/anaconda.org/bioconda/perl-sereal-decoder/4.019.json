@@ -64,6 +64,10 @@
 {
 "date":"2022-03-08",
 "total":101
+},
+{
+"date":"2022-03-11",
+"total":107
 }
 ],
 "downloads_per_subdir":[
@@ -73,7 +77,7 @@
 },
 {
 "subdir":"osx-64",
-"total":56
+"total":62
 }
 ],
 "package":"perl-sereal-decoder",
@@ -250,6 +254,15 @@
 {
 "subdir":"osx-64",
 "total":56
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":62
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-validatemanifest-357-1.tar.bz2",
-"total":318
+"total":319
 },
 {
 "basename":"ucsc-validatemanifest-357-0.tar.bz2",
@@ -278,6 +278,10 @@
 {
 "date":"2022-03-08",
 "total":904
+},
+{
+"date":"2022-03-11",
+"total":905
 }
 ],
 "package":"ucsc-validatemanifest",
@@ -380,6 +384,15 @@
 {
 "basename":"ucsc-validatemanifest-357-1.tar.bz2",
 "total":318
+}
+]
+},
+{
+"date":"2022-03-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-validatemanifest-357-1.tar.bz2",
+"total":319
 }
 ]
 }
