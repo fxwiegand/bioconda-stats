@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-liftover-324-0.tar.bz2",
-"total":3320
+"total":3321
 }
 ],
 "downloads_per_date":[
@@ -194,6 +194,10 @@
 {
 "date":"2022-03-11",
 "total":3320
+},
+{
+"date":"2022-03-13",
+"total":3321
 }
 ],
 "package":"ucsc-liftover",
@@ -249,6 +253,15 @@
 {
 "basename":"ucsc-liftover-324-0.tar.bz2",
 "total":3320
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"ucsc-liftover-324-0.tar.bz2",
+"total":3321
 }
 ]
 }

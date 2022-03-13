@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"entrez-direct-7.70-pl526_1.tar.bz2",
-"total":584
+"total":585
 },
 {
 "basename":"entrez-direct-7.70-pl526_2.tar.bz2",
@@ -498,6 +498,10 @@
 {
 "date":"2022-03-11",
 "total":4757
+},
+{
+"date":"2022-03-13",
+"total":4758
 }
 ],
 "package":"entrez-direct",
@@ -652,6 +656,15 @@
 {
 "basename":"entrez-direct-7.70-pl526_1.tar.bz2",
 "total":584
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"entrez-direct-7.70-pl526_1.tar.bz2",
+"total":585
 }
 ]
 }

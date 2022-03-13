@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-rwave-2.4-r3.2.2_0.tar.bz2",
-"total":741
+"total":742
 }
 ],
 "downloads_per_date":[
@@ -222,6 +222,10 @@
 {
 "date":"2022-03-11",
 "total":1895
+},
+{
+"date":"2022-03-13",
+"total":1896
 }
 ],
 "package":"r-rwave",
@@ -335,6 +339,15 @@
 {
 "basename":"r-rwave-2.4-r3.3.2_0.tar.bz2",
 "total":553
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"r-rwave-2.4-r3.2.2_0.tar.bz2",
+"total":742
 }
 ]
 }

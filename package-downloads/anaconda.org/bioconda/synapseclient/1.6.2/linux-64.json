@@ -15,7 +15,7 @@
 },
 {
 "basename":"synapseclient-1.6.2-py34_0.tar.bz2",
-"total":534
+"total":535
 }
 ],
 "downloads_per_date":[
@@ -306,6 +306,10 @@
 {
 "date":"2022-03-11",
 "total":1919
+},
+{
+"date":"2022-03-13",
+"total":1920
 }
 ],
 "package":"synapseclient",
@@ -482,6 +486,15 @@
 {
 "basename":"synapseclient-1.6.2-py27_0.tar.bz2",
 "total":529
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"synapseclient-1.6.2-py34_0.tar.bz2",
+"total":535
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-manor-1.56.0-r351h14c3975_0.tar.bz2",
-"total":158
+"total":159
 }
 ],
 "downloads_per_date":[
@@ -218,6 +218,10 @@
 {
 "date":"2022-03-11",
 "total":273
+},
+{
+"date":"2022-03-13",
+"total":274
 }
 ],
 "package":"bioconductor-manor",
@@ -271,6 +275,15 @@
 {
 "basename":"bioconductor-manor-1.56.0-r351h14c3975_0.tar.bz2",
 "total":158
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-manor-1.56.0-r351h14c3975_0.tar.bz2",
+"total":159
 }
 ]
 }

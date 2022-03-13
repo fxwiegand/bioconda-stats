@@ -718,6 +718,10 @@
 {
 "date":"2022-03-11",
 "total":2003
+},
+{
+"date":"2022-03-13",
+"total":2003
 }
 ],
 "package":"nanocomp",
@@ -737,7 +741,12 @@
 {
 "basename":"nanocomp-1.1.0-py35_0.tar.bz2",
 "total":45
+}
+]
 },
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
 {
 "basename":"nanocomp-1.1.0-py36_0.tar.bz2",
 "total":1958

@@ -15,7 +15,7 @@
 },
 {
 "basename":"r-biasedurn-1.07-r3.2.2_0.tar.bz2",
-"total":645
+"total":646
 },
 {
 "basename":"r-biasedurn-1.07-r3.3.2_2.tar.bz2",
@@ -330,6 +330,10 @@
 {
 "date":"2022-03-11",
 "total":2940
+},
+{
+"date":"2022-03-13",
+"total":2941
 }
 ],
 "package":"r-biasedurn",
@@ -498,6 +502,15 @@
 {
 "basename":"r-biasedurn-1.07-r3.2.2_0.tar.bz2",
 "total":645
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"r-biasedurn-1.07-r3.2.2_0.tar.bz2",
+"total":646
 }
 ]
 }

@@ -742,6 +742,10 @@
 {
 "date":"2022-03-11",
 "total":2127
+},
+{
+"date":"2022-03-13",
+"total":2127
 }
 ],
 "package":"r-phyext2",
@@ -759,6 +763,15 @@
 "date":"2022-03-11",
 "downloads_per_basename":[
 {
+"basename":"r-phyext2-0.0.4-r341h6115d3f_2.tar.bz2",
+"total":280
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
 "basename":"r-phyext2-0.0.4-r341_1.tar.bz2",
 "total":41
 },
@@ -769,10 +782,6 @@
 {
 "basename":"r-phyext2-0.0.4-r351h6115d3f_2.tar.bz2",
 "total":44
-},
-{
-"basename":"r-phyext2-0.0.4-r341h6115d3f_2.tar.bz2",
-"total":280
 },
 {
 "basename":"r-phyext2-0.0.4-r351h6115d3f_3.tar.bz2",

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"cafe-5.0.0-h5b5514e_1.tar.bz2",
-"total":48
+"total":52
 },
 {
 "basename":"cafe-5.0.0-h2e03b76_0.tar.bz2",
@@ -110,6 +110,10 @@
 {
 "date":"2022-03-11",
 "total":104
+},
+{
+"date":"2022-03-13",
+"total":108
 }
 ],
 "package":"cafe",
@@ -322,6 +326,15 @@
 {
 "basename":"cafe-5.0.0-h5b5514e_1.tar.bz2",
 "total":48
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"cafe-5.0.0-h5b5514e_1.tar.bz2",
+"total":52
 }
 ]
 }

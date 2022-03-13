@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"flapjack-1.16.10.31-1.tar.bz2",
-"total":575
+"total":576
 },
 {
 "basename":"flapjack-1.16.10.31-0.tar.bz2",
@@ -294,6 +294,10 @@
 {
 "date":"2022-03-11",
 "total":1237
+},
+{
+"date":"2022-03-13",
+"total":1238
 }
 ],
 "package":"flapjack",
@@ -374,6 +378,15 @@
 {
 "basename":"flapjack-1.16.10.31-0.tar.bz2",
 "total":662
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"flapjack-1.16.10.31-1.tar.bz2",
+"total":576
 }
 ]
 }

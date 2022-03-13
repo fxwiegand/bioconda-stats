@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-term-encoding-0.02-pl526_1.tar.bz2",
-"total":223
+"total":224
 },
 {
 "basename":"perl-term-encoding-0.02-pl5.22.0_0.tar.bz2",
@@ -222,6 +222,10 @@
 {
 "date":"2022-03-11",
 "total":1144
+},
+{
+"date":"2022-03-13",
+"total":1145
 }
 ],
 "package":"perl-term-encoding",
@@ -298,6 +302,15 @@
 {
 "basename":"perl-term-encoding-0.02-pl5.22.0_0.tar.bz2",
 "total":453
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"perl-term-encoding-0.02-pl526_1.tar.bz2",
+"total":224
 }
 ]
 }

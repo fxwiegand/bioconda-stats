@@ -19,7 +19,7 @@
 },
 {
 "basename":"gmap-2017.09.30-h98de208_3.tar.bz2",
-"total":198
+"total":199
 },
 {
 "basename":"gmap-2017.09.30-pl5.22.0_1.tar.bz2",
@@ -410,6 +410,10 @@
 {
 "date":"2022-03-11",
 "total":2052
+},
+{
+"date":"2022-03-13",
+"total":2053
 }
 ],
 "package":"gmap",
@@ -666,6 +670,15 @@
 {
 "basename":"gmap-2017.09.30-pl5.22.0_0.tar.bz2",
 "total":912
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"gmap-2017.09.30-h98de208_3.tar.bz2",
+"total":199
 }
 ]
 }

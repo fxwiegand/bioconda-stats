@@ -11,7 +11,7 @@
 },
 {
 "basename":"deap-1.0.2-py34_0.tar.bz2",
-"total":697
+"total":698
 },
 {
 "basename":"deap-1.0.2-py36_0.tar.bz2",
@@ -302,6 +302,10 @@
 {
 "date":"2022-03-11",
 "total":2555
+},
+{
+"date":"2022-03-13",
+"total":2556
 }
 ],
 "package":"deap",
@@ -453,6 +457,15 @@
 {
 "basename":"deap-1.0.2-py35_0.tar.bz2",
 "total":558
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"deap-1.0.2-py34_0.tar.bz2",
+"total":698
 }
 ]
 }

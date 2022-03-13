@@ -19,7 +19,7 @@
 },
 {
 "basename":"r-samr-3.0-r36h516909a_1.tar.bz2",
-"total":129
+"total":130
 },
 {
 "basename":"r-samr-3.0-r351h14c3975_0.tar.bz2",
@@ -434,6 +434,10 @@
 {
 "date":"2022-03-11",
 "total":618
+},
+{
+"date":"2022-03-13",
+"total":619
 }
 ],
 "package":"r-samr",
@@ -643,6 +647,15 @@
 {
 "basename":"r-samr-3.0-r41hec16e2b_5.tar.bz2",
 "total":13
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"r-samr-3.0-r36h516909a_1.tar.bz2",
+"total":130
 }
 ]
 }

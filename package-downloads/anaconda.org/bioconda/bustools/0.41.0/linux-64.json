@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bustools-0.41.0-h0d531b0_1.tar.bz2",
-"total":12
+"total":14
 },
 {
 "basename":"bustools-0.41.0-h60f4f9f_0.tar.bz2",
@@ -790,6 +790,10 @@
 {
 "date":"2022-03-11",
 "total":460
+},
+{
+"date":"2022-03-13",
+"total":462
 }
 ],
 "package":"bustools",
@@ -1069,6 +1073,15 @@
 {
 "basename":"bustools-0.41.0-h60f4f9f_0.tar.bz2",
 "total":448
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"bustools-0.41.0-h0d531b0_1.tar.bz2",
+"total":14
 }
 ]
 }

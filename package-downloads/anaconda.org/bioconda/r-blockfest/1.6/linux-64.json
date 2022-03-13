@@ -15,7 +15,7 @@
 },
 {
 "basename":"r-blockfest-1.6-r351hc070d10_0.tar.bz2",
-"total":157
+"total":158
 },
 {
 "basename":"r-blockfest-1.6-r341hc070d10_1.tar.bz2",
@@ -274,6 +274,10 @@
 {
 "date":"2022-03-11",
 "total":856
+},
+{
+"date":"2022-03-13",
+"total":857
 }
 ],
 "package":"r-blockfest",
@@ -412,6 +416,15 @@
 {
 "basename":"r-blockfest-1.6-r341hc070d10_1.tar.bz2",
 "total":258
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"r-blockfest-1.6-r351hc070d10_0.tar.bz2",
+"total":158
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-mipp-1.52.0-r341_0.tar.bz2",
-"total":192
+"total":193
 },
 {
 "basename":"bioconductor-mipp-1.52.0-r351_0.tar.bz2",
@@ -262,6 +262,10 @@
 {
 "date":"2022-03-11",
 "total":506
+},
+{
+"date":"2022-03-13",
+"total":507
 }
 ],
 "package":"bioconductor-mipp",
@@ -355,6 +359,15 @@
 {
 "basename":"bioconductor-mipp-1.52.0-r351_0.tar.bz2",
 "total":314
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mipp-1.52.0-r341_0.tar.bz2",
+"total":193
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"dbg2olc-20180222-hd03093a_3.tar.bz2",
-"total":15
+"total":16
 },
 {
 "basename":"dbg2olc-20180222-h9a82719_2.tar.bz2",
@@ -426,6 +426,10 @@
 {
 "date":"2022-03-11",
 "total":648
+},
+{
+"date":"2022-03-13",
+"total":649
 }
 ],
 "package":"dbg2olc",
@@ -645,6 +649,15 @@
 {
 "basename":"dbg2olc-20180222-h9a82719_2.tar.bz2",
 "total":64
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"dbg2olc-20180222-hd03093a_3.tar.bz2",
+"total":16
 }
 ]
 }

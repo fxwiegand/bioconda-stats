@@ -742,6 +742,10 @@
 {
 "date":"2022-03-11",
 "total":2375
+},
+{
+"date":"2022-03-13",
+"total":2375
 }
 ],
 "package":"pyfastaq",
@@ -779,7 +783,12 @@
 {
 "basename":"pyfastaq-3.17.0-py36_0.tar.bz2",
 "total":79
+}
+]
 },
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
 {
 "basename":"pyfastaq-3.17.0-py35_1.tar.bz2",
 "total":81

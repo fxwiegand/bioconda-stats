@@ -718,6 +718,10 @@
 {
 "date":"2022-03-11",
 "total":2064
+},
+{
+"date":"2022-03-13",
+"total":2064
 }
 ],
 "package":"genologics",
@@ -755,7 +759,12 @@
 {
 "basename":"genologics-0.3.12.post0-py27_0.tar.bz2",
 "total":63
+}
+]
 },
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
 {
 "basename":"genologics-0.3.12.post0-py35_0.tar.bz2",
 "total":101

@@ -40,6 +40,10 @@
 {
 "date":"2022-03-11",
 "total":60
+},
+{
+"date":"2022-03-13",
+"total":62
 }
 ],
 "downloads_per_subdir":[
@@ -49,7 +53,7 @@
 },
 {
 "subdir":"osx-64",
-"total":44
+"total":46
 }
 ],
 "package":"perl-sereal-encoder",
@@ -153,6 +157,15 @@
 {
 "subdir":"osx-64",
 "total":44
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":46
 }
 ]
 }

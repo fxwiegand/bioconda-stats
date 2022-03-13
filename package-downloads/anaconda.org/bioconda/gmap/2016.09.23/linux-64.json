@@ -7,7 +7,7 @@
 },
 {
 "basename":"gmap-2016.09.23-pl526_3.tar.bz2",
-"total":274
+"total":275
 },
 {
 "basename":"gmap-2016.09.23-0.tar.bz2",
@@ -426,6 +426,10 @@
 {
 "date":"2022-03-11",
 "total":1897
+},
+{
+"date":"2022-03-13",
+"total":1898
 }
 ],
 "package":"gmap",
@@ -551,6 +555,15 @@
 {
 "basename":"gmap-2016.09.23-pl526_3.tar.bz2",
 "total":274
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"gmap-2016.09.23-pl526_3.tar.bz2",
+"total":275
 }
 ]
 }

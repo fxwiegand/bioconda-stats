@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"tassel-5.2.40-1.tar.bz2",
-"total":903
+"total":905
 },
 {
 "basename":"tassel-5.2.40-pl5.22.0_0.tar.bz2",
@@ -870,6 +870,10 @@
 {
 "date":"2022-03-11",
 "total":3172
+},
+{
+"date":"2022-03-13",
+"total":3174
 }
 ],
 "package":"tassel",
@@ -1112,6 +1116,15 @@
 {
 "basename":"tassel-5.2.40-1.tar.bz2",
 "total":903
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"tassel-5.2.40-1.tar.bz2",
+"total":905
 }
 ]
 }

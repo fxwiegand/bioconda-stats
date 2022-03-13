@@ -702,6 +702,10 @@
 {
 "date":"2022-03-11",
 "total":2054
+},
+{
+"date":"2022-03-13",
+"total":2054
 }
 ],
 "package":"biopet-seqstat",
@@ -721,7 +725,12 @@
 {
 "basename":"biopet-seqstat-0.1-py27_0.tar.bz2",
 "total":127
+}
+]
 },
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
 {
 "basename":"biopet-seqstat-0.1-py35_0.tar.bz2",
 "total":206

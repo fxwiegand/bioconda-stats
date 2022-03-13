@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"kallisto-0.48.0-h0d531b0_1.tar.bz2",
-"total":131
+"total":143
 },
 {
 "basename":"kallisto-0.48.0-h60f4f9f_0.tar.bz2",
@@ -162,6 +162,10 @@
 {
 "date":"2022-03-11",
 "total":988
+},
+{
+"date":"2022-03-13",
+"total":1000
 }
 ],
 "package":"kallisto",
@@ -508,6 +512,15 @@
 {
 "basename":"kallisto-0.48.0-h0d531b0_1.tar.bz2",
 "total":131
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"kallisto-0.48.0-h0d531b0_1.tar.bz2",
+"total":143
 }
 ]
 }

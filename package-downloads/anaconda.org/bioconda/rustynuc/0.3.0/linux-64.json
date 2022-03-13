@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"rustynuc-0.3.0-h7132678_2.tar.bz2",
-"total":8
+"total":10
 },
 {
 "basename":"rustynuc-0.3.0-hed695b0_0.tar.bz2",
@@ -270,6 +270,10 @@
 {
 "date":"2022-03-11",
 "total":120
+},
+{
+"date":"2022-03-13",
+"total":122
 }
 ],
 "package":"rustynuc",
@@ -375,6 +379,15 @@
 {
 "basename":"rustynuc-0.3.0-h7132678_2.tar.bz2",
 "total":8
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"rustynuc-0.3.0-h7132678_2.tar.bz2",
+"total":10
 }
 ]
 }

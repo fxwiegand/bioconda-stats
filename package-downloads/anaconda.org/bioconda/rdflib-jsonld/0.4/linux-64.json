@@ -7,7 +7,7 @@
 },
 {
 "basename":"rdflib-jsonld-0.4-py35_0.tar.bz2",
-"total":620
+"total":621
 },
 {
 "basename":"rdflib-jsonld-0.4-py36_0.tar.bz2",
@@ -426,6 +426,10 @@
 {
 "date":"2022-03-11",
 "total":7245
+},
+{
+"date":"2022-03-13",
+"total":7246
 }
 ],
 "package":"rdflib-jsonld",
@@ -558,6 +562,15 @@
 {
 "basename":"rdflib-jsonld-0.4-py36_0.tar.bz2",
 "total":1641
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"rdflib-jsonld-0.4-py35_0.tar.bz2",
+"total":621
 }
 ]
 }

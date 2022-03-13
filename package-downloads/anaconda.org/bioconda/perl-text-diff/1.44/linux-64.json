@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-text-diff-1.44-pl526_1.tar.bz2",
-"total":243
+"total":244
 },
 {
 "basename":"perl-text-diff-1.44-pl5.22.0_0.tar.bz2",
@@ -610,6 +610,10 @@
 {
 "date":"2022-03-11",
 "total":9171
+},
+{
+"date":"2022-03-13",
+"total":9172
 }
 ],
 "package":"perl-text-diff",
@@ -883,6 +887,15 @@
 {
 "basename":"perl-text-diff-1.44-0.tar.bz2",
 "total":4544
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"perl-text-diff-1.44-pl526_1.tar.bz2",
+"total":244
 }
 ]
 }

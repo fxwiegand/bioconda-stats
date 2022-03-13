@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-gothic-1.16.0-r341_0.tar.bz2",
-"total":272
+"total":273
 },
 {
 "basename":"bioconductor-gothic-1.16.0-r351_0.tar.bz2",
@@ -258,6 +258,10 @@
 {
 "date":"2022-03-11",
 "total":560
+},
+{
+"date":"2022-03-13",
+"total":561
 }
 ],
 "package":"bioconductor-gothic",
@@ -338,6 +342,15 @@
 {
 "basename":"bioconductor-gothic-1.16.0-r351_0.tar.bz2",
 "total":288
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-gothic-1.16.0-r341_0.tar.bz2",
+"total":273
 }
 ]
 }

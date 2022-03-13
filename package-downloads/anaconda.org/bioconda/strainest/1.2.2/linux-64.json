@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"strainest-1.2.2-py35_0.tar.bz2",
-"total":403
+"total":404
 },
 {
 "basename":"strainest-1.2.2-py36_0.tar.bz2",
@@ -238,6 +238,10 @@
 {
 "date":"2022-03-11",
 "total":1426
+},
+{
+"date":"2022-03-13",
+"total":1427
 }
 ],
 "package":"strainest",
@@ -356,6 +360,15 @@
 {
 "basename":"strainest-1.2.2-py27_0.tar.bz2",
 "total":563
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"strainest-1.2.2-py35_0.tar.bz2",
+"total":404
 }
 ]
 }

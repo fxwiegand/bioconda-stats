@@ -718,6 +718,10 @@
 {
 "date":"2022-03-11",
 "total":2105
+},
+{
+"date":"2022-03-13",
+"total":2105
 }
 ],
 "package":"metametamerge",
@@ -735,6 +739,15 @@
 "date":"2022-03-11",
 "downloads_per_basename":[
 {
+"basename":"metametamerge-1.1-py36_1.tar.bz2",
+"total":1747
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
 "basename":"metametamerge-1.1-py36_0.tar.bz2",
 "total":40
 },
@@ -745,10 +758,6 @@
 {
 "basename":"metametamerge-1.1-py35_1.tar.bz2",
 "total":276
-},
-{
-"basename":"metametamerge-1.1-py36_1.tar.bz2",
-"total":1747
 }
 ]
 }

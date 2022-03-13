@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-soggi-1.12.0-r351_0.tar.bz2",
-"total":215
+"total":216
 },
 {
 "basename":"bioconductor-soggi-1.12.0-r341_0.tar.bz2",
@@ -290,6 +290,10 @@
 {
 "date":"2022-03-11",
 "total":550
+},
+{
+"date":"2022-03-13",
+"total":551
 }
 ],
 "package":"bioconductor-soggi",
@@ -365,6 +369,15 @@
 {
 "basename":"bioconductor-soggi-1.12.0-r341_0.tar.bz2",
 "total":335
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-soggi-1.12.0-r351_0.tar.bz2",
+"total":216
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-monocle-2.22.0-r41h619a076_1.tar.bz2",
-"total":18
+"total":20
 },
 {
 "basename":"bioconductor-monocle-2.22.0-r41h399db7b_0.tar.bz2",
@@ -382,6 +382,10 @@
 {
 "date":"2022-03-11",
 "total":148
+},
+{
+"date":"2022-03-13",
+"total":150
 }
 ],
 "package":"bioconductor-monocle",
@@ -665,6 +669,15 @@
 {
 "basename":"bioconductor-monocle-2.22.0-r41h399db7b_0.tar.bz2",
 "total":130
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-monocle-2.22.0-r41h619a076_1.tar.bz2",
+"total":20
 }
 ]
 }

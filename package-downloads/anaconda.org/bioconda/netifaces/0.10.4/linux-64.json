@@ -15,7 +15,7 @@
 },
 {
 "basename":"netifaces-0.10.4-py27_1.tar.bz2",
-"total":14115
+"total":14116
 }
 ],
 "downloads_per_date":[
@@ -510,6 +510,10 @@
 {
 "date":"2022-03-11",
 "total":19282
+},
+{
+"date":"2022-03-13",
+"total":19283
 }
 ],
 "package":"netifaces",
@@ -679,6 +683,15 @@
 {
 "basename":"netifaces-0.10.4-py36_1.tar.bz2",
 "total":2598
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"netifaces-0.10.4-py27_1.tar.bz2",
+"total":14116
 }
 ]
 }

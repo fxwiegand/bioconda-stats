@@ -7,7 +7,7 @@
 },
 {
 "basename":"stringtie-2.2.1-he901cdd_2.tar.bz2",
-"total":40
+"total":43
 },
 {
 "basename":"stringtie-2.2.1-h9954cba_0.tar.bz2",
@@ -134,6 +134,10 @@
 {
 "date":"2022-03-11",
 "total":121
+},
+{
+"date":"2022-03-13",
+"total":124
 }
 ],
 "package":"stringtie",
@@ -448,6 +452,15 @@
 {
 "basename":"stringtie-2.2.1-h9954cba_0.tar.bz2",
 "total":66
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"stringtie-2.2.1-he901cdd_2.tar.bz2",
+"total":43
 }
 ]
 }

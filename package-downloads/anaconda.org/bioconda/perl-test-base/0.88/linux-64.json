@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-base-0.88-pl526_2.tar.bz2",
-"total":296
+"total":297
 },
 {
 "basename":"perl-test-base-0.88-pl5.22.0_1.tar.bz2",
@@ -226,6 +226,10 @@
 {
 "date":"2022-03-11",
 "total":1327
+},
+{
+"date":"2022-03-13",
+"total":1328
 }
 ],
 "package":"perl-test-base",
@@ -301,6 +305,15 @@
 {
 "basename":"perl-test-base-0.88-0.tar.bz2",
 "total":582
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"perl-test-base-0.88-pl526_2.tar.bz2",
+"total":297
 }
 ]
 }

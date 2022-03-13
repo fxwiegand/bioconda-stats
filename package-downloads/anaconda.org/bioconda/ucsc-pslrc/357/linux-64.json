@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-pslrc-357-0.tar.bz2",
-"total":550
+"total":551
 }
 ],
 "downloads_per_date":[
@@ -230,6 +230,10 @@
 {
 "date":"2022-03-11",
 "total":762
+},
+{
+"date":"2022-03-13",
+"total":763
 }
 ],
 "package":"ucsc-pslrc",
@@ -288,6 +292,15 @@
 {
 "basename":"ucsc-pslrc-357-1.tar.bz2",
 "total":212
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"ucsc-pslrc-357-0.tar.bz2",
+"total":551
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"divvier-1.01-h2e03b76_1.tar.bz2",
-"total":69
+"total":70
 },
 {
 "basename":"divvier-1.01-h8b12597_0.tar.bz2",
@@ -362,6 +362,10 @@
 {
 "date":"2022-03-11",
 "total":201
+},
+{
+"date":"2022-03-13",
+"total":202
 }
 ],
 "package":"divvier",
@@ -486,6 +490,15 @@
 {
 "basename":"divvier-1.01-h8b12597_0.tar.bz2",
 "total":122
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"divvier-1.01-h2e03b76_1.tar.bz2",
+"total":70
 }
 ]
 }

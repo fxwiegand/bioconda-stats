@@ -694,6 +694,10 @@
 {
 "date":"2022-03-11",
 "total":2128
+},
+{
+"date":"2022-03-13",
+"total":2128
 }
 ],
 "package":"picard",
@@ -713,7 +717,12 @@
 {
 "basename":"picard-2.13-py35_0.tar.bz2",
 "total":47
+}
+]
 },
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
 {
 "basename":"picard-2.13-py27_0.tar.bz2",
 "total":295

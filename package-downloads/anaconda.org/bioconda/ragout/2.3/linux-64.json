@@ -7,7 +7,7 @@
 },
 {
 "basename":"ragout-2.3-py27hc30c61c_4.tar.bz2",
-"total":15
+"total":16
 },
 {
 "basename":"ragout-2.3-py37h96cfd12_4.tar.bz2",
@@ -886,6 +886,10 @@
 {
 "date":"2022-03-11",
 "total":1599
+},
+{
+"date":"2022-03-13",
+"total":1600
 }
 ],
 "package":"ragout",
@@ -1609,6 +1613,15 @@
 {
 "basename":"ragout-2.3-py38h8c62d01_3.tar.bz2",
 "total":144
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"ragout-2.3-py27hc30c61c_4.tar.bz2",
+"total":16
 }
 ]
 }

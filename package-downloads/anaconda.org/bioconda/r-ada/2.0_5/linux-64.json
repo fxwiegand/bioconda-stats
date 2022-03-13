@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-ada-2.0_5-r3.3.1_0.tar.bz2",
-"total":627
+"total":628
 },
 {
 "basename":"r-ada-2.0_5-r3.3.2_0.tar.bz2",
@@ -242,6 +242,10 @@
 {
 "date":"2022-03-11",
 "total":1671
+},
+{
+"date":"2022-03-13",
+"total":1672
 }
 ],
 "package":"r-ada",
@@ -313,6 +317,15 @@
 {
 "basename":"r-ada-2.0_5-r3.3.2_0.tar.bz2",
 "total":1044
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"r-ada-2.0_5-r3.3.1_0.tar.bz2",
+"total":628
 }
 ]
 }

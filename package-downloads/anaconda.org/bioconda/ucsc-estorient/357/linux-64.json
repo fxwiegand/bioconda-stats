@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-estorient-357-0.tar.bz2",
-"total":567
+"total":568
 }
 ],
 "downloads_per_date":[
@@ -350,6 +350,10 @@
 {
 "date":"2022-03-11",
 "total":921
+},
+{
+"date":"2022-03-13",
+"total":922
 }
 ],
 "package":"ucsc-estorient",
@@ -461,6 +465,15 @@
 {
 "basename":"ucsc-estorient-357-1.tar.bz2",
 "total":354
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"ucsc-estorient-357-0.tar.bz2",
+"total":568
 }
 ]
 }

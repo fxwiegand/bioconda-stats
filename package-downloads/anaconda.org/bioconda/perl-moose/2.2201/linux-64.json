@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-moose-2.2201-pl5321hec16e2b_2.tar.bz2",
-"total":161
+"total":171
 },
 {
 "basename":"perl-moose-2.2201-pl5321h779adbc_0.tar.bz2",
@@ -130,6 +130,10 @@
 {
 "date":"2022-03-11",
 "total":723
+},
+{
+"date":"2022-03-13",
+"total":733
 }
 ],
 "package":"perl-moose",
@@ -428,6 +432,15 @@
 {
 "basename":"perl-moose-2.2201-pl5321h779adbc_1.tar.bz2",
 "total":287
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"perl-moose-2.2201-pl5321hec16e2b_2.tar.bz2",
+"total":171
 }
 ]
 }

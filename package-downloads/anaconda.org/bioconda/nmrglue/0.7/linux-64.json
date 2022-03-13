@@ -27,7 +27,7 @@
 },
 {
 "basename":"nmrglue-0.7-py27h3010b51_0.tar.bz2",
-"total":171
+"total":172
 },
 {
 "basename":"nmrglue-0.7-py36h3010b51_0.tar.bz2",
@@ -390,6 +390,10 @@
 {
 "date":"2022-03-11",
 "total":975
+},
+{
+"date":"2022-03-13",
+"total":976
 }
 ],
 "package":"nmrglue",
@@ -676,6 +680,15 @@
 {
 "basename":"nmrglue-0.7-py37h3010b51_0.tar.bz2",
 "total":220
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"nmrglue-0.7-py27h3010b51_0.tar.bz2",
+"total":172
 }
 ]
 }

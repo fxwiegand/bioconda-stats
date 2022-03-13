@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-qckitfastq-1.6.0-r40h399db7b_2.tar.bz2",
-"total":54
+"total":55
 },
 {
 "basename":"bioconductor-qckitfastq-1.6.0-r40h5f743cb_1.tar.bz2",
@@ -270,6 +270,10 @@
 {
 "date":"2022-03-11",
 "total":226
+},
+{
+"date":"2022-03-13",
+"total":227
 }
 ],
 "package":"bioconductor-qckitfastq",
@@ -362,6 +366,15 @@
 {
 "basename":"bioconductor-qckitfastq-1.6.0-r40h5f743cb_0.tar.bz2",
 "total":102
+}
+]
+},
+{
+"date":"2022-03-13",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-qckitfastq-1.6.0-r40h399db7b_2.tar.bz2",
+"total":55
 }
 ]
 }
