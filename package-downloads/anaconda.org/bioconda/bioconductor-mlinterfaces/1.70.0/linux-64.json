@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-mlinterfaces-1.70.0-r40h399db7b_1.tar.bz2",
-"total":64
+"total":65
 },
 {
 "basename":"bioconductor-mlinterfaces-1.70.0-r40h5f743cb_0.tar.bz2",
@@ -246,6 +246,10 @@
 {
 "date":"2022-03-13",
 "total":146
+},
+{
+"date":"2022-03-15",
+"total":147
 }
 ],
 "package":"bioconductor-mlinterfaces",
@@ -313,6 +317,15 @@
 {
 "basename":"bioconductor-mlinterfaces-1.70.0-r40h399db7b_1.tar.bz2",
 "total":64
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mlinterfaces-1.70.0-r40h399db7b_1.tar.bz2",
+"total":65
 }
 ]
 }

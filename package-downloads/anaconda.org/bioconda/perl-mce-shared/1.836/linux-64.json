@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-mce-shared-1.836-pl526_1.tar.bz2",
-"total":233
+"total":234
 },
 {
 "basename":"perl-mce-shared-1.836-pl5.22.0_0.tar.bz2",
@@ -210,6 +210,10 @@
 {
 "date":"2022-03-13",
 "total":493
+},
+{
+"date":"2022-03-15",
+"total":494
 }
 ],
 "package":"perl-mce-shared",
@@ -294,6 +298,15 @@
 {
 "basename":"perl-mce-shared-1.836-pl5.22.0_0.tar.bz2",
 "total":260
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"perl-mce-shared-1.836-pl526_1.tar.bz2",
+"total":234
 }
 ]
 }

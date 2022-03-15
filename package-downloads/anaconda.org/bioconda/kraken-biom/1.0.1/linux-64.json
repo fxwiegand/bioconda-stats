@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"kraken-biom-1.0.1-py34_0.tar.bz2",
-"total":400
+"total":401
 },
 {
 "basename":"kraken-biom-1.0.1-py27_0.tar.bz2",
@@ -318,6 +318,10 @@
 {
 "date":"2022-03-13",
 "total":2410
+},
+{
+"date":"2022-03-15",
+"total":2411
 }
 ],
 "package":"kraken-biom",
@@ -438,6 +442,15 @@
 {
 "basename":"kraken-biom-1.0.1-py34_0.tar.bz2",
 "total":400
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"kraken-biom-1.0.1-py34_0.tar.bz2",
+"total":401
 }
 ]
 }

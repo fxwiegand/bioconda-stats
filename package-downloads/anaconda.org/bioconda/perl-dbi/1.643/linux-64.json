@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-dbi-1.643-pl5321hec16e2b_1.tar.bz2",
-"total":331
+"total":378
 },
 {
 "basename":"perl-dbi-1.643-pl5321h779adbc_0.tar.bz2",
@@ -74,6 +74,10 @@
 {
 "date":"2022-03-13",
 "total":711
+},
+{
+"date":"2022-03-15",
+"total":758
 }
 ],
 "package":"perl-dbi",
@@ -239,6 +243,15 @@
 {
 "basename":"perl-dbi-1.643-pl5321h779adbc_0.tar.bz2",
 "total":380
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"perl-dbi-1.643-pl5321hec16e2b_1.tar.bz2",
+"total":378
 }
 ]
 }

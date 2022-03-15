@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-cogena-1.14.0-r351_0.tar.bz2",
-"total":231
+"total":232
 },
 {
 "basename":"bioconductor-cogena-1.14.0-r341_0.tar.bz2",
@@ -234,6 +234,10 @@
 {
 "date":"2022-03-13",
 "total":590
+},
+{
+"date":"2022-03-15",
+"total":591
 }
 ],
 "package":"bioconductor-cogena",
@@ -300,6 +304,15 @@
 {
 "basename":"bioconductor-cogena-1.14.0-r341_0.tar.bz2",
 "total":359
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cogena-1.14.0-r351_0.tar.bz2",
+"total":232
 }
 ]
 }

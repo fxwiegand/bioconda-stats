@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-chainsort-357-0.tar.bz2",
-"total":445
+"total":446
 },
 {
 "basename":"ucsc-chainsort-357-1.tar.bz2",
@@ -322,6 +322,10 @@
 {
 "date":"2022-03-13",
 "total":912
+},
+{
+"date":"2022-03-15",
+"total":913
 }
 ],
 "package":"ucsc-chainsort",
@@ -433,6 +437,15 @@
 {
 "basename":"ucsc-chainsort-357-1.tar.bz2",
 "total":467
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"ucsc-chainsort-357-0.tar.bz2",
+"total":446
 }
 ]
 }

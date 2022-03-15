@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-solarius-0.3.0.2-r3.2.2_0.tar.bz2",
-"total":474
+"total":475
 },
 {
 "basename":"r-solarius-0.3.0.2-r3.3.2_0.tar.bz2",
@@ -246,6 +246,10 @@
 {
 "date":"2022-03-13",
 "total":2219
+},
+{
+"date":"2022-03-15",
+"total":2220
 }
 ],
 "package":"r-solarius",
@@ -341,6 +345,15 @@
 {
 "basename":"r-solarius-0.3.0.2-r3.3.2_0.tar.bz2",
 "total":585
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"r-solarius-0.3.0.2-r3.2.2_0.tar.bz2",
+"total":475
 }
 ]
 }

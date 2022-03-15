@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-fastseg-1.40.0-r41h619a076_1.tar.bz2",
-"total":16
+"total":17
 },
 {
 "basename":"bioconductor-fastseg-1.40.0-r41h399db7b_0.tar.bz2",
@@ -270,6 +270,10 @@
 {
 "date":"2022-03-13",
 "total":76
+},
+{
+"date":"2022-03-15",
+"total":77
 }
 ],
 "package":"bioconductor-fastseg",
@@ -427,6 +431,15 @@
 {
 "basename":"bioconductor-fastseg-1.40.0-r41h619a076_1.tar.bz2",
 "total":16
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-fastseg-1.40.0-r41h619a076_1.tar.bz2",
+"total":17
 }
 ]
 }

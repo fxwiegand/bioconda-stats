@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-netreg-1.8.0-r36he1b5a44_1.tar.bz2",
-"total":127
+"total":128
 },
 {
 "basename":"bioconductor-netreg-1.8.0-r351hf484d3e_0.tar.bz2",
@@ -258,6 +258,10 @@
 {
 "date":"2022-03-13",
 "total":292
+},
+{
+"date":"2022-03-15",
+"total":293
 }
 ],
 "package":"bioconductor-netreg",
@@ -333,6 +337,15 @@
 {
 "basename":"bioconductor-netreg-1.8.0-r351hf484d3e_0.tar.bz2",
 "total":165
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-netreg-1.8.0-r36he1b5a44_1.tar.bz2",
+"total":128
 }
 ]
 }

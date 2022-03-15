@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-edge-2.22.0-r40hd029910_1.tar.bz2",
-"total":61
+"total":62
 },
 {
 "basename":"bioconductor-edge-2.22.0-r40h037d062_0.tar.bz2",
@@ -250,6 +250,10 @@
 {
 "date":"2022-03-13",
 "total":136
+},
+{
+"date":"2022-03-15",
+"total":137
 }
 ],
 "package":"bioconductor-edge",
@@ -329,6 +333,15 @@
 {
 "basename":"bioconductor-edge-2.22.0-r40h037d062_0.tar.bz2",
 "total":75
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-edge-2.22.0-r40hd029910_1.tar.bz2",
+"total":62
 }
 ]
 }

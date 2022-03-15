@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-warnings-0.026-pl526_1.tar.bz2",
-"total":291
+"total":292
 },
 {
 "basename":"perl-test-warnings-0.026-pl526_0.tar.bz2",
@@ -346,6 +346,10 @@
 {
 "date":"2022-03-13",
 "total":599
+},
+{
+"date":"2022-03-15",
+"total":600
 }
 ],
 "package":"perl-test-warnings",
@@ -481,6 +485,15 @@
 {
 "basename":"perl-test-warnings-0.026-pl526_0.tar.bz2",
 "total":308
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"perl-test-warnings-0.026-pl526_1.tar.bz2",
+"total":292
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-nnnorm-2.44.0-r341_0.tar.bz2",
-"total":167
+"total":168
 },
 {
 "basename":"bioconductor-nnnorm-2.44.0-r351_0.tar.bz2",
@@ -202,6 +202,10 @@
 {
 "date":"2022-03-13",
 "total":471
+},
+{
+"date":"2022-03-15",
+"total":472
 }
 ],
 "package":"bioconductor-nnnorm",
@@ -273,6 +277,15 @@
 {
 "basename":"bioconductor-nnnorm-2.44.0-r351_0.tar.bz2",
 "total":304
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-nnnorm-2.44.0-r341_0.tar.bz2",
+"total":168
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"shiver-1.1.0-py35_4.tar.bz2",
-"total":409
+"total":410
 },
 {
 "basename":"shiver-1.1.0-py36_4.tar.bz2",
@@ -234,6 +234,10 @@
 {
 "date":"2022-03-13",
 "total":2155
+},
+{
+"date":"2022-03-15",
+"total":2156
 }
 ],
 "package":"shiver",
@@ -368,6 +372,15 @@
 {
 "basename":"shiver-1.1.0-py27_4.tar.bz2",
 "total":520
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"shiver-1.1.0-py35_4.tar.bz2",
+"total":410
 }
 ]
 }

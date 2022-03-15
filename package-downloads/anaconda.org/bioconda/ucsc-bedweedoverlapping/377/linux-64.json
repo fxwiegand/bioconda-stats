@@ -15,7 +15,7 @@
 },
 {
 "basename":"ucsc-bedweedoverlapping-377-h199ee4e_0.tar.bz2",
-"total":159
+"total":160
 }
 ],
 "downloads_per_date":[
@@ -450,6 +450,10 @@
 {
 "date":"2022-03-13",
 "total":325
+},
+{
+"date":"2022-03-15",
+"total":326
 }
 ],
 "package":"ucsc-bedweedoverlapping",
@@ -613,6 +617,15 @@
 {
 "basename":"ucsc-bedweedoverlapping-377-ha8a8165_3.tar.bz2",
 "total":22
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bedweedoverlapping-377-h199ee4e_0.tar.bz2",
+"total":160
 }
 ]
 }

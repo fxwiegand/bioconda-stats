@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"stream_atac-0.1.0-py35pl526h26a2512_0.tar.bz2",
-"total":116
+"total":117
 },
 {
 "basename":"stream_atac-0.1.0-py36pl526h26a2512_0.tar.bz2",
@@ -238,6 +238,10 @@
 {
 "date":"2022-03-13",
 "total":255
+},
+{
+"date":"2022-03-15",
+"total":256
 }
 ],
 "package":"stream_atac",
@@ -331,6 +335,15 @@
 {
 "basename":"stream_atac-0.1.0-py35pl526h26a2512_0.tar.bz2",
 "total":116
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"stream_atac-0.1.0-py35pl526h26a2512_0.tar.bz2",
+"total":117
 }
 ]
 }

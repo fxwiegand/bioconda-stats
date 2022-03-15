@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-maigespack-1.54.0-r40hd029910_1.tar.bz2",
-"total":52
+"total":53
 },
 {
 "basename":"bioconductor-maigespack-1.54.0-r40h037d062_0.tar.bz2",
@@ -254,6 +254,10 @@
 {
 "date":"2022-03-13",
 "total":126
+},
+{
+"date":"2022-03-15",
+"total":127
 }
 ],
 "package":"bioconductor-maigespack",
@@ -316,6 +320,15 @@
 {
 "basename":"bioconductor-maigespack-1.54.0-r40h037d062_0.tar.bz2",
 "total":74
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-maigespack-1.54.0-r40hd029910_1.tar.bz2",
+"total":53
 }
 ]
 }

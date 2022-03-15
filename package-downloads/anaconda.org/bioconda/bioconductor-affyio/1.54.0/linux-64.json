@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-affyio-1.54.0-r351h14c3975_0.tar.bz2",
-"total":148
+"total":149
 },
 {
 "basename":"bioconductor-affyio-1.54.0-r36h516909a_1.tar.bz2",
@@ -310,6 +310,10 @@
 {
 "date":"2022-03-13",
 "total":1398
+},
+{
+"date":"2022-03-15",
+"total":1399
 }
 ],
 "package":"bioconductor-affyio",
@@ -385,6 +389,15 @@
 {
 "basename":"bioconductor-affyio-1.54.0-r36h516909a_1.tar.bz2",
 "total":1250
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-affyio-1.54.0-r351h14c3975_0.tar.bz2",
+"total":149
 }
 ]
 }

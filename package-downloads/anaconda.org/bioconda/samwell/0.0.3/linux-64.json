@@ -23,7 +23,7 @@
 },
 {
 "basename":"samwell-0.0.3-py38hbff2b2d_1.tar.bz2",
-"total":24
+"total":26
 },
 {
 "basename":"samwell-0.0.3-py39h38f01e4_0.tar.bz2",
@@ -146,6 +146,10 @@
 {
 "date":"2022-03-13",
 "total":168
+},
+{
+"date":"2022-03-15",
+"total":170
 }
 ],
 "package":"samwell",
@@ -533,6 +537,15 @@
 {
 "basename":"samwell-0.0.3-py36hc5360cc_0.tar.bz2",
 "total":58
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"samwell-0.0.3-py38hbff2b2d_1.tar.bz2",
+"total":26
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-txdb.dmelanogaster.ucsc.dm3.ensgene-3.2.2-r3.3.1_0.tar.bz2",
-"total":486
+"total":487
 },
 {
 "basename":"bioconductor-txdb.dmelanogaster.ucsc.dm3.ensgene-3.2.2-r3.3.2_0.tar.bz2",
@@ -378,6 +378,10 @@
 {
 "date":"2022-03-13",
 "total":4651
+},
+{
+"date":"2022-03-15",
+"total":4652
 }
 ],
 "package":"bioconductor-txdb.dmelanogaster.ucsc.dm3.ensgene",
@@ -577,6 +581,15 @@
 {
 "basename":"bioconductor-txdb.dmelanogaster.ucsc.dm3.ensgene-3.2.2-r3.4.1_2.tar.bz2",
 "total":1321
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-txdb.dmelanogaster.ucsc.dm3.ensgene-3.2.2-r3.3.1_0.tar.bz2",
+"total":487
 }
 ]
 }

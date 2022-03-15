@@ -7,7 +7,7 @@
 },
 {
 "basename":"presto-0.5.4-py36_1.tar.bz2",
-"total":427
+"total":428
 },
 {
 "basename":"presto-0.5.4-py36_0.tar.bz2",
@@ -322,6 +322,10 @@
 {
 "date":"2022-03-13",
 "total":1707
+},
+{
+"date":"2022-03-15",
+"total":1708
 }
 ],
 "package":"presto",
@@ -488,6 +492,15 @@
 {
 "basename":"presto-0.5.4-py35_0.tar.bz2",
 "total":627
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"presto-0.5.4-py36_1.tar.bz2",
+"total":428
 }
 ]
 }

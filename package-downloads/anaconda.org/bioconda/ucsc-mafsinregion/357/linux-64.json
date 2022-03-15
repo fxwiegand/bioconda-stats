@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-mafsinregion-357-0.tar.bz2",
-"total":435
+"total":436
 },
 {
 "basename":"ucsc-mafsinregion-357-1.tar.bz2",
@@ -370,6 +370,10 @@
 {
 "date":"2022-03-13",
 "total":968
+},
+{
+"date":"2022-03-15",
+"total":969
 }
 ],
 "package":"ucsc-mafsinregion",
@@ -485,6 +489,15 @@
 {
 "basename":"ucsc-mafsinregion-357-1.tar.bz2",
 "total":533
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"ucsc-mafsinregion-357-0.tar.bz2",
+"total":436
 }
 ]
 }

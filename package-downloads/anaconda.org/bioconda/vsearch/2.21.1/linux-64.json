@@ -7,7 +7,7 @@
 },
 {
 "basename":"vsearch-2.21.1-hf1761c0_1.tar.bz2",
-"total":416
+"total":423
 }
 ],
 "downloads_per_date":[
@@ -162,6 +162,10 @@
 {
 "date":"2022-03-13",
 "total":706
+},
+{
+"date":"2022-03-15",
+"total":713
 }
 ],
 "package":"vsearch",
@@ -521,6 +525,15 @@
 {
 "basename":"vsearch-2.21.1-hf1761c0_1.tar.bz2",
 "total":416
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"vsearch-2.21.1-hf1761c0_1.tar.bz2",
+"total":423
 }
 ]
 }

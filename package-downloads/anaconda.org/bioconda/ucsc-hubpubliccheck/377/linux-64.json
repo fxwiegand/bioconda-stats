@@ -11,7 +11,7 @@
 },
 {
 "basename":"ucsc-hubpubliccheck-377-h446ed27_1.tar.bz2",
-"total":51
+"total":52
 },
 {
 "basename":"ucsc-hubpubliccheck-377-h199ee4e_0.tar.bz2",
@@ -270,6 +270,10 @@
 {
 "date":"2022-03-13",
 "total":274
+},
+{
+"date":"2022-03-15",
+"total":275
 }
 ],
 "package":"ucsc-hubpubliccheck",
@@ -404,6 +408,15 @@
 {
 "basename":"ucsc-hubpubliccheck-377-h0b8a92a_2.tar.bz2",
 "total":47
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"ucsc-hubpubliccheck-377-h446ed27_1.tar.bz2",
+"total":52
 }
 ]
 }

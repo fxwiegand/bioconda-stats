@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-traser-1.10.0-r341_0.tar.bz2",
-"total":205
+"total":206
 },
 {
 "basename":"bioconductor-traser-1.10.0-r351_0.tar.bz2",
@@ -270,6 +270,10 @@
 {
 "date":"2022-03-13",
 "total":528
+},
+{
+"date":"2022-03-15",
+"total":529
 }
 ],
 "package":"bioconductor-traser",
@@ -336,6 +340,15 @@
 {
 "basename":"bioconductor-traser-1.10.0-r351_0.tar.bz2",
 "total":323
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-traser-1.10.0-r341_0.tar.bz2",
+"total":206
 }
 ]
 }

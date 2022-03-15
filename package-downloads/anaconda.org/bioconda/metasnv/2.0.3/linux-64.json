@@ -7,7 +7,7 @@
 },
 {
 "basename":"metasnv-2.0.3-py38hf2c6c0c_0.tar.bz2",
-"total":42
+"total":43
 },
 {
 "basename":"metasnv-2.0.3-py37ha4a337c_0.tar.bz2",
@@ -222,6 +222,10 @@
 {
 "date":"2022-03-13",
 "total":130
+},
+{
+"date":"2022-03-15",
+"total":131
 }
 ],
 "package":"metasnv",
@@ -321,6 +325,15 @@
 {
 "basename":"metasnv-2.0.3-py37ha4a337c_0.tar.bz2",
 "total":46
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"metasnv-2.0.3-py38hf2c6c0c_0.tar.bz2",
+"total":43
 }
 ]
 }

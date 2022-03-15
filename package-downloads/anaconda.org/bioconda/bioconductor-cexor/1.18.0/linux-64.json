@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-cexor-1.18.0-r341_0.tar.bz2",
-"total":229
+"total":230
 },
 {
 "basename":"bioconductor-cexor-1.18.0-r351_0.tar.bz2",
@@ -230,6 +230,10 @@
 {
 "date":"2022-03-13",
 "total":586
+},
+{
+"date":"2022-03-15",
+"total":587
 }
 ],
 "package":"bioconductor-cexor",
@@ -296,6 +300,15 @@
 {
 "basename":"bioconductor-cexor-1.18.0-r351_0.tar.bz2",
 "total":357
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cexor-1.18.0-r341_0.tar.bz2",
+"total":230
 }
 ]
 }

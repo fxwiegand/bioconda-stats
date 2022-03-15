@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-degreport-1.8.2-r3.4.1_1.tar.bz2",
-"total":639
+"total":640
 },
 {
 "basename":"bioconductor-degreport-1.8.2-r3.3.2_1.tar.bz2",
@@ -330,6 +330,10 @@
 {
 "date":"2022-03-13",
 "total":4571
+},
+{
+"date":"2022-03-15",
+"total":4572
 }
 ],
 "package":"bioconductor-degreport",
@@ -459,6 +463,15 @@
 {
 "basename":"bioconductor-degreport-1.8.2-0.tar.bz2",
 "total":2258
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-degreport-1.8.2-r3.4.1_1.tar.bz2",
+"total":640
 }
 ]
 }

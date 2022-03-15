@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"kma-1.4.0-h7132678_1.tar.bz2",
-"total":5
+"total":13
 },
 {
 "basename":"kma-1.4.0-h7132678_0.tar.bz2",
@@ -34,6 +34,10 @@
 {
 "date":"2022-03-13",
 "total":34
+},
+{
+"date":"2022-03-15",
+"total":42
 }
 ],
 "package":"kma",
@@ -89,6 +93,15 @@
 {
 "basename":"kma-1.4.0-h7132678_1.tar.bz2",
 "total":5
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"kma-1.4.0-h7132678_1.tar.bz2",
+"total":13
 }
 ]
 }

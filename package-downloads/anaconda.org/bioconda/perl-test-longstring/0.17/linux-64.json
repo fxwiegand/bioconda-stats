@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-longstring-0.17-pl526_2.tar.bz2",
-"total":160
+"total":161
 },
 {
 "basename":"perl-test-longstring-0.17-pl526_1.tar.bz2",
@@ -246,6 +246,10 @@
 {
 "date":"2022-03-13",
 "total":947
+},
+{
+"date":"2022-03-15",
+"total":948
 }
 ],
 "package":"perl-test-longstring",
@@ -334,6 +338,15 @@
 {
 "basename":"perl-test-longstring-0.17-0.tar.bz2",
 "total":462
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"perl-test-longstring-0.17-pl526_2.tar.bz2",
+"total":161
 }
 ]
 }

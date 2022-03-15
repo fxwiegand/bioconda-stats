@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-harshlight-1.62.0-r40hd029910_1.tar.bz2",
-"total":43
+"total":44
 },
 {
 "basename":"bioconductor-harshlight-1.62.0-r40h037d062_0.tar.bz2",
@@ -234,6 +234,10 @@
 {
 "date":"2022-03-13",
 "total":105
+},
+{
+"date":"2022-03-15",
+"total":106
 }
 ],
 "package":"bioconductor-harshlight",
@@ -309,6 +313,15 @@
 {
 "basename":"bioconductor-harshlight-1.62.0-r40h037d062_0.tar.bz2",
 "total":62
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-harshlight-1.62.0-r40hd029910_1.tar.bz2",
+"total":44
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-test-file-contents-0.23-0.tar.bz2",
-"total":233
+"total":234
 },
 {
 "basename":"perl-test-file-contents-0.23-pl526_1.tar.bz2",
@@ -298,6 +298,10 @@
 {
 "date":"2022-03-13",
 "total":720
+},
+{
+"date":"2022-03-15",
+"total":721
 }
 ],
 "package":"perl-test-file-contents",
@@ -374,6 +378,15 @@
 {
 "basename":"perl-test-file-contents-0.23-pl526_2.tar.bz2",
 "total":200
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"perl-test-file-contents-0.23-0.tar.bz2",
+"total":234
 }
 ]
 }

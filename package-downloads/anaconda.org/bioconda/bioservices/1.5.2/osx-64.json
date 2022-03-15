@@ -730,6 +730,10 @@
 {
 "date":"2022-03-13",
 "total":2135
+},
+{
+"date":"2022-03-15",
+"total":2135
 }
 ],
 "package":"bioservices",
@@ -749,7 +753,12 @@
 {
 "basename":"bioservices-1.5.2-py27_0.tar.bz2",
 "total":70
+}
+]
 },
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
 {
 "basename":"bioservices-1.5.2-py35_0.tar.bz2",
 "total":74

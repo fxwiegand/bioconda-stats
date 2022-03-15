@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-masigpro-1.52.0-r341_0.tar.bz2",
-"total":253
+"total":254
 },
 {
 "basename":"bioconductor-masigpro-1.52.0-r351_0.tar.bz2",
@@ -242,6 +242,10 @@
 {
 "date":"2022-03-13",
 "total":529
+},
+{
+"date":"2022-03-15",
+"total":530
 }
 ],
 "package":"bioconductor-masigpro",
@@ -308,6 +312,15 @@
 {
 "basename":"bioconductor-masigpro-1.52.0-r351_0.tar.bz2",
 "total":276
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-masigpro-1.52.0-r341_0.tar.bz2",
+"total":254
 }
 ]
 }

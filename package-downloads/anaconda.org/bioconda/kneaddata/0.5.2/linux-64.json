@@ -11,7 +11,7 @@
 },
 {
 "basename":"kneaddata-0.5.2-py35_0.tar.bz2",
-"total":448
+"total":449
 },
 {
 "basename":"kneaddata-0.5.2-py27_0.tar.bz2",
@@ -274,6 +274,10 @@
 {
 "date":"2022-03-13",
 "total":2203
+},
+{
+"date":"2022-03-15",
+"total":2204
 }
 ],
 "package":"kneaddata",
@@ -408,6 +412,15 @@
 {
 "basename":"kneaddata-0.5.2-py27_0.tar.bz2",
 "total":895
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"kneaddata-0.5.2-py35_0.tar.bz2",
+"total":449
 }
 ]
 }

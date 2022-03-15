@@ -32,6 +32,10 @@
 {
 "date":"2022-03-13",
 "total":48
+},
+{
+"date":"2022-03-15",
+"total":52
 }
 ],
 "downloads_per_subdir":[
@@ -41,7 +45,7 @@
 },
 {
 "subdir":"osx-64",
-"total":37
+"total":41
 }
 ],
 "package":"bioconductor-survcomp",
@@ -131,6 +135,15 @@
 {
 "subdir":"osx-64",
 "total":37
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":41
 }
 ]
 }

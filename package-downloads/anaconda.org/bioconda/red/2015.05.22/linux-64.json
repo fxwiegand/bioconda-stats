@@ -15,7 +15,7 @@
 },
 {
 "basename":"red-2015.05.22-h2d50403_0.tar.bz2",
-"total":324
+"total":325
 }
 ],
 "downloads_per_date":[
@@ -434,6 +434,10 @@
 {
 "date":"2022-03-13",
 "total":494
+},
+{
+"date":"2022-03-15",
+"total":495
 }
 ],
 "package":"red",
@@ -583,6 +587,15 @@
 {
 "basename":"red-2015.05.22-hc9558a2_1.tar.bz2",
 "total":89
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"red-2015.05.22-h2d50403_0.tar.bz2",
+"total":325
 }
 ]
 }

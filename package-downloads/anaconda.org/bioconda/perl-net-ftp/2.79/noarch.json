@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-net-ftp-2.79-pl5321hdfd78af_2.tar.bz2",
-"total":121
+"total":125
 }
 ],
 "downloads_per_date":[
@@ -166,6 +166,10 @@
 {
 "date":"2022-03-13",
 "total":121
+},
+{
+"date":"2022-03-15",
+"total":125
 }
 ],
 "package":"perl-net-ftp",
@@ -518,6 +522,15 @@
 {
 "basename":"perl-net-ftp-2.79-pl5321hdfd78af_2.tar.bz2",
 "total":121
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"perl-net-ftp-2.79-pl5321hdfd78af_2.tar.bz2",
+"total":125
 }
 ]
 }

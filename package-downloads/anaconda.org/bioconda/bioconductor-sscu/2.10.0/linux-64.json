@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-sscu-2.10.0-r341_0.tar.bz2",
-"total":185
+"total":186
 },
 {
 "basename":"bioconductor-sscu-2.10.0-r351_0.tar.bz2",
@@ -274,6 +274,10 @@
 {
 "date":"2022-03-13",
 "total":485
+},
+{
+"date":"2022-03-15",
+"total":486
 }
 ],
 "package":"bioconductor-sscu",
@@ -359,6 +363,15 @@
 {
 "basename":"bioconductor-sscu-2.10.0-r351_0.tar.bz2",
 "total":300
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-sscu-2.10.0-r341_0.tar.bz2",
+"total":186
 }
 ]
 }

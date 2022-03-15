@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-lpsymphony-1.12.0-r36he1b5a44_1.tar.bz2",
-"total":275
+"total":277
 },
 {
 "basename":"bioconductor-lpsymphony-1.12.0-r351hf484d3e_0.tar.bz2",
@@ -274,6 +274,10 @@
 {
 "date":"2022-03-13",
 "total":701
+},
+{
+"date":"2022-03-15",
+"total":703
 }
 ],
 "package":"bioconductor-lpsymphony",
@@ -336,6 +340,15 @@
 {
 "basename":"bioconductor-lpsymphony-1.12.0-r351hf484d3e_0.tar.bz2",
 "total":426
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-lpsymphony-1.12.0-r36he1b5a44_1.tar.bz2",
+"total":277
 }
 ]
 }

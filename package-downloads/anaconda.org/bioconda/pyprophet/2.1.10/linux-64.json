@@ -35,7 +35,7 @@
 },
 {
 "basename":"pyprophet-2.1.10-py38h0213d0e_0.tar.bz2",
-"total":42
+"total":43
 },
 {
 "basename":"pyprophet-2.1.10-py39h38f01e4_1.tar.bz2",
@@ -378,6 +378,10 @@
 {
 "date":"2022-03-13",
 "total":338
+},
+{
+"date":"2022-03-15",
+"total":339
 }
 ],
 "package":"pyprophet",
@@ -645,6 +649,15 @@
 {
 "basename":"pyprophet-2.1.10-py36h4c5857e_0.tar.bz2",
 "total":40
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"pyprophet-2.1.10-py38h0213d0e_0.tar.bz2",
+"total":43
 }
 ]
 }

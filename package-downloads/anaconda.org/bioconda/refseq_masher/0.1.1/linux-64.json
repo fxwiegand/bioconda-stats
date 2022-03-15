@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"refseq_masher-0.1.1-py35_1.tar.bz2",
-"total":191
+"total":192
 },
 {
 "basename":"refseq_masher-0.1.1-py36_1.tar.bz2",
@@ -262,6 +262,10 @@
 {
 "date":"2022-03-13",
 "total":1172
+},
+{
+"date":"2022-03-15",
+"total":1173
 }
 ],
 "package":"refseq_masher",
@@ -381,6 +385,15 @@
 {
 "basename":"refseq_masher-0.1.1-py36_0.tar.bz2",
 "total":328
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"refseq_masher-0.1.1-py35_1.tar.bz2",
+"total":192
 }
 ]
 }

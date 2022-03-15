@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-gbm-2.1.1-r3.4.1_0.tar.bz2",
-"total":431
+"total":432
 },
 {
 "basename":"r-gbm-2.1.1-r3.3.2_0.tar.bz2",
@@ -230,6 +230,10 @@
 {
 "date":"2022-03-13",
 "total":1530
+},
+{
+"date":"2022-03-15",
+"total":1531
 }
 ],
 "package":"r-gbm",
@@ -300,6 +304,15 @@
 {
 "basename":"r-gbm-2.1.1-r3.3.2_0.tar.bz2",
 "total":499
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"r-gbm-2.1.1-r3.4.1_0.tar.bz2",
+"total":432
 }
 ]
 }

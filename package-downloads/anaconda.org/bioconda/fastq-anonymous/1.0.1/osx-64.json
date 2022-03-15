@@ -710,6 +710,10 @@
 {
 "date":"2022-03-13",
 "total":2061
+},
+{
+"date":"2022-03-15",
+"total":2061
 }
 ],
 "package":"fastq-anonymous",
@@ -727,6 +731,15 @@
 "date":"2022-03-13",
 "downloads_per_basename":[
 {
+"basename":"fastq-anonymous-1.0.1-py36_1.tar.bz2",
+"total":1721
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
 "basename":"fastq-anonymous-1.0.1-py35_0.tar.bz2",
 "total":33
 },
@@ -737,10 +750,6 @@
 {
 "basename":"fastq-anonymous-1.0.1-py36_0.tar.bz2",
 "total":194
-},
-{
-"basename":"fastq-anonymous-1.0.1-py36_1.tar.bz2",
-"total":1721
 }
 ]
 }

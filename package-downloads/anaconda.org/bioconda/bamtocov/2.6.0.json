@@ -84,6 +84,10 @@
 {
 "date":"2022-03-13",
 "total":80
+},
+{
+"date":"2022-03-15",
+"total":83
 }
 ],
 "downloads_per_subdir":[
@@ -93,7 +97,7 @@
 },
 {
 "subdir":"osx-64",
-"total":65
+"total":68
 }
 ],
 "package":"bamtocov",
@@ -298,6 +302,15 @@
 {
 "subdir":"osx-64",
 "total":65
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":68
 }
 ]
 }

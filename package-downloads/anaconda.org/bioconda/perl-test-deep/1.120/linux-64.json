@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-deep-1.120-pl526_2.tar.bz2",
-"total":494
+"total":495
 },
 {
 "basename":"perl-test-deep-1.120-pl526_3.tar.bz2",
@@ -638,6 +638,10 @@
 {
 "date":"2022-03-13",
 "total":9998
+},
+{
+"date":"2022-03-15",
+"total":9999
 }
 ],
 "package":"perl-test-deep",
@@ -902,6 +906,15 @@
 {
 "basename":"perl-test-deep-1.120-1.tar.bz2",
 "total":5604
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"perl-test-deep-1.120-pl526_2.tar.bz2",
+"total":495
 }
 ]
 }

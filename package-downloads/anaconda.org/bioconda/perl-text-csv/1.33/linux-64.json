@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-text-csv-1.33-pl526_1.tar.bz2",
-"total":505
+"total":506
 },
 {
 "basename":"perl-text-csv-1.33-0.tar.bz2",
@@ -706,6 +706,10 @@
 {
 "date":"2022-03-13",
 "total":3613
+},
+{
+"date":"2022-03-15",
+"total":3614
 }
 ],
 "package":"perl-text-csv",
@@ -961,6 +965,15 @@
 {
 "basename":"perl-text-csv-1.33-0.tar.bz2",
 "total":3108
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"perl-text-csv-1.33-pl526_1.tar.bz2",
+"total":506
 }
 ]
 }

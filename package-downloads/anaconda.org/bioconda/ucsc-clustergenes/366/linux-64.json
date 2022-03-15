@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-clustergenes-366-hdd26221_0.tar.bz2",
-"total":305
+"total":306
 }
 ],
 "downloads_per_date":[
@@ -202,6 +202,10 @@
 {
 "date":"2022-03-13",
 "total":489
+},
+{
+"date":"2022-03-15",
+"total":490
 }
 ],
 "package":"ucsc-clustergenes",
@@ -273,6 +277,15 @@
 {
 "basename":"ucsc-clustergenes-366-hdd26221_0.tar.bz2",
 "total":305
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"ucsc-clustergenes-366-hdd26221_0.tar.bz2",
+"total":306
 }
 ]
 }

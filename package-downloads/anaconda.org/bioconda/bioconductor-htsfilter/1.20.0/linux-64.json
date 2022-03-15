@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-htsfilter-1.20.0-r351_0.tar.bz2",
-"total":214
+"total":215
 },
 {
 "basename":"bioconductor-htsfilter-1.20.0-r341_0.tar.bz2",
@@ -290,6 +290,10 @@
 {
 "date":"2022-03-13",
 "total":547
+},
+{
+"date":"2022-03-15",
+"total":548
 }
 ],
 "package":"bioconductor-htsfilter",
@@ -397,6 +401,15 @@
 {
 "basename":"bioconductor-htsfilter-1.20.0-r341_0.tar.bz2",
 "total":333
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-htsfilter-1.20.0-r351_0.tar.bz2",
+"total":215
 }
 ]
 }

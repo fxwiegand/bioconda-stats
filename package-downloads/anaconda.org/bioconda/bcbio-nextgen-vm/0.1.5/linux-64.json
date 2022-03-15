@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bcbio-nextgen-vm-0.1.5-py36_0.tar.bz2",
-"total":169
+"total":170
 },
 {
 "basename":"bcbio-nextgen-vm-0.1.5-py37_0.tar.bz2",
@@ -330,6 +330,10 @@
 {
 "date":"2022-03-13",
 "total":703
+},
+{
+"date":"2022-03-15",
+"total":704
 }
 ],
 "package":"bcbio-nextgen-vm",
@@ -476,6 +480,15 @@
 {
 "basename":"bcbio-nextgen-vm-0.1.5-py27_0.tar.bz2",
 "total":347
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bcbio-nextgen-vm-0.1.5-py36_0.tar.bz2",
+"total":170
 }
 ]
 }

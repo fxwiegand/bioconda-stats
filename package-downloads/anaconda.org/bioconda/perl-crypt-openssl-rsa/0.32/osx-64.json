@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-crypt-openssl-rsa-0.32-pl5321hb66f939_1.tar.bz2",
-"total":47
+"total":51
 },
 {
 "basename":"perl-crypt-openssl-rsa-0.32-pl5321h77e11e1_0.tar.bz2",
@@ -122,6 +122,10 @@
 {
 "date":"2022-03-13",
 "total":100
+},
+{
+"date":"2022-03-15",
+"total":104
 }
 ],
 "package":"perl-crypt-openssl-rsa",
@@ -366,6 +370,15 @@
 {
 "basename":"perl-crypt-openssl-rsa-0.32-pl5321hb66f939_1.tar.bz2",
 "total":47
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"perl-crypt-openssl-rsa-0.32-pl5321hb66f939_1.tar.bz2",
+"total":51
 }
 ]
 }

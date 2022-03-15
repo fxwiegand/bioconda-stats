@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-ippd-1.28.0-r351h470a237_0.tar.bz2",
-"total":207
+"total":208
 },
 {
 "basename":"bioconductor-ippd-1.28.0-r341h470a237_0.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2022-03-13",
 "total":535
+},
+{
+"date":"2022-03-15",
+"total":536
 }
 ],
 "package":"bioconductor-ippd",
@@ -320,6 +324,15 @@
 {
 "basename":"bioconductor-ippd-1.28.0-r341h470a237_0.tar.bz2",
 "total":328
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ippd-1.28.0-r351h470a237_0.tar.bz2",
+"total":208
 }
 ]
 }

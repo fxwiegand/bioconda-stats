@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-gseabase-1.34.1-r3.4.1_0.tar.bz2",
-"total":647
+"total":648
 },
 {
 "basename":"bioconductor-gseabase-1.34.1-r3.3.1_0.tar.bz2",
@@ -338,6 +338,10 @@
 {
 "date":"2022-03-13",
 "total":3079
+},
+{
+"date":"2022-03-15",
+"total":3080
 }
 ],
 "package":"bioconductor-gseabase",
@@ -460,6 +464,15 @@
 {
 "basename":"bioconductor-gseabase-1.34.1-r3.3.2_0.tar.bz2",
 "total":1439
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-gseabase-1.34.1-r3.4.1_0.tar.bz2",
+"total":648
 }
 ]
 }

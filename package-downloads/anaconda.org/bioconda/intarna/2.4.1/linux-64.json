@@ -11,7 +11,7 @@
 },
 {
 "basename":"intarna-2.4.1-pl526hfac12b2_0.tar.bz2",
-"total":214
+"total":215
 }
 ],
 "downloads_per_date":[
@@ -286,6 +286,10 @@
 {
 "date":"2022-03-13",
 "total":246
+},
+{
+"date":"2022-03-15",
+"total":247
 }
 ],
 "package":"intarna",
@@ -438,6 +442,15 @@
 {
 "basename":"intarna-2.4.1-hc90279e_1.tar.bz2",
 "total":20
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"intarna-2.4.1-pl526hfac12b2_0.tar.bz2",
+"total":215
 }
 ]
 }

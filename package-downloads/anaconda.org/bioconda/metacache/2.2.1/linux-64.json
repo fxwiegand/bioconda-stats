@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"metacache-2.2.1-hd03093a_1.tar.bz2",
-"total":58
+"total":65
 },
 {
 "basename":"metacache-2.2.1-h9a82719_0.tar.bz2",
@@ -186,6 +186,10 @@
 {
 "date":"2022-03-13",
 "total":158
+},
+{
+"date":"2022-03-15",
+"total":165
 }
 ],
 "package":"metacache",
@@ -591,6 +595,15 @@
 {
 "basename":"metacache-2.2.1-hd03093a_1.tar.bz2",
 "total":58
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"metacache-2.2.1-hd03093a_1.tar.bz2",
+"total":65
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"cwltest-1.0.20160907111242-py27_0.tar.bz2",
-"total":562
+"total":563
 },
 {
 "basename":"cwltest-1.0.20160907111242-py27_1.tar.bz2",
@@ -206,6 +206,10 @@
 {
 "date":"2022-03-13",
 "total":1219
+},
+{
+"date":"2022-03-15",
+"total":1220
 }
 ],
 "package":"cwltest",
@@ -265,6 +269,15 @@
 {
 "basename":"cwltest-1.0.20160907111242-py27_1.tar.bz2",
 "total":657
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"cwltest-1.0.20160907111242-py27_0.tar.bz2",
+"total":563
 }
 ]
 }

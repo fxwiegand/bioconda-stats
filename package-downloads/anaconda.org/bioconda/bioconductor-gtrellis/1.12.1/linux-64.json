@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-gtrellis-1.12.1-r341_0.tar.bz2",
-"total":218
+"total":219
 },
 {
 "basename":"bioconductor-gtrellis-1.12.1-r351_0.tar.bz2",
@@ -298,6 +298,10 @@
 {
 "date":"2022-03-13",
 "total":582
+},
+{
+"date":"2022-03-15",
+"total":583
 }
 ],
 "package":"bioconductor-gtrellis",
@@ -383,6 +387,15 @@
 {
 "basename":"bioconductor-gtrellis-1.12.1-r351_0.tar.bz2",
 "total":364
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-gtrellis-1.12.1-r341_0.tar.bz2",
+"total":219
 }
 ]
 }

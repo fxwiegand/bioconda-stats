@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-garfield-1.22.0-r41h399db7b_0.tar.bz2",
-"total":31
+"total":32
 }
 ],
 "downloads_per_date":[
@@ -150,6 +150,10 @@
 {
 "date":"2022-03-13",
 "total":43
+},
+{
+"date":"2022-03-15",
+"total":44
 }
 ],
 "package":"bioconductor-garfield",
@@ -227,6 +231,15 @@
 {
 "basename":"bioconductor-garfield-1.22.0-r41h619a076_1.tar.bz2",
 "total":12
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-garfield-1.22.0-r41h399db7b_0.tar.bz2",
+"total":32
 }
 ]
 }

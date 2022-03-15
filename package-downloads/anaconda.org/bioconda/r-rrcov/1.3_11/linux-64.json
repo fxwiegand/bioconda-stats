@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-rrcov-1.3_11-r3.2.2_0.tar.bz2",
-"total":2772
+"total":2773
 },
 {
 "basename":"r-rrcov-1.3_11-r3.3.1_0.tar.bz2",
@@ -250,6 +250,10 @@
 {
 "date":"2022-03-13",
 "total":9762
+},
+{
+"date":"2022-03-15",
+"total":9763
 }
 ],
 "package":"r-rrcov",
@@ -338,6 +342,15 @@
 {
 "basename":"r-rrcov-1.3_11-r3.3.1_0.tar.bz2",
 "total":5519
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"r-rrcov-1.3_11-r3.2.2_0.tar.bz2",
+"total":2773
 }
 ]
 }

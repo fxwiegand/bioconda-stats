@@ -19,7 +19,7 @@
 },
 {
 "basename":"moments-1.0.8-py38h0a581ac_1.tar.bz2",
-"total":48
+"total":49
 },
 {
 "basename":"moments-1.0.8-py37h97743b1_0.tar.bz2",
@@ -290,6 +290,10 @@
 {
 "date":"2022-03-13",
 "total":331
+},
+{
+"date":"2022-03-15",
+"total":332
 }
 ],
 "package":"moments",
@@ -454,6 +458,15 @@
 {
 "basename":"moments-1.0.8-py37h97743b1_0.tar.bz2",
 "total":51
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"moments-1.0.8-py38h0a581ac_1.tar.bz2",
+"total":49
 }
 ]
 }

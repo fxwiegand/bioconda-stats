@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-gaga-2.40.0-r41h5c21468_1.tar.bz2",
-"total":12
+"total":13
 },
 {
 "basename":"bioconductor-gaga-2.40.0-r41hd029910_0.tar.bz2",
@@ -158,6 +158,10 @@
 {
 "date":"2022-03-13",
 "total":60
+},
+{
+"date":"2022-03-15",
+"total":61
 }
 ],
 "package":"bioconductor-gaga",
@@ -266,6 +270,15 @@
 {
 "basename":"bioconductor-gaga-2.40.0-r41h5c21468_1.tar.bz2",
 "total":12
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-gaga-2.40.0-r41h5c21468_1.tar.bz2",
+"total":13
 }
 ]
 }

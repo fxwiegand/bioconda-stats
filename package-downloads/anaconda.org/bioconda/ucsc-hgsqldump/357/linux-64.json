@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-hgsqldump-357-0.tar.bz2",
-"total":425
+"total":426
 }
 ],
 "downloads_per_date":[
@@ -202,6 +202,10 @@
 {
 "date":"2022-03-13",
 "total":733
+},
+{
+"date":"2022-03-15",
+"total":734
 }
 ],
 "package":"ucsc-hgsqldump",
@@ -269,6 +273,15 @@
 {
 "basename":"ucsc-hgsqldump-357-1.tar.bz2",
 "total":308
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"ucsc-hgsqldump-357-0.tar.bz2",
+"total":426
 }
 ]
 }

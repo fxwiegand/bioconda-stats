@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-isogenegui-2.26.0-r40h399db7b_1.tar.bz2",
-"total":58
+"total":59
 },
 {
 "basename":"bioconductor-isogenegui-2.26.0-r40h5f743cb_0.tar.bz2",
@@ -262,6 +262,10 @@
 {
 "date":"2022-03-13",
 "total":135
+},
+{
+"date":"2022-03-15",
+"total":136
 }
 ],
 "package":"bioconductor-isogenegui",
@@ -333,6 +337,15 @@
 {
 "basename":"bioconductor-isogenegui-2.26.0-r40h5f743cb_0.tar.bz2",
 "total":77
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-isogenegui-2.26.0-r40h399db7b_1.tar.bz2",
+"total":59
 }
 ]
 }

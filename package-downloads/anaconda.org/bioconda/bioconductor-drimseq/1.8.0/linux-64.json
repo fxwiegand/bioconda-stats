@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-drimseq-1.8.0-r341_0.tar.bz2",
-"total":381
+"total":382
 }
 ],
 "downloads_per_date":[
@@ -306,6 +306,10 @@
 {
 "date":"2022-03-13",
 "total":643
+},
+{
+"date":"2022-03-15",
+"total":644
 }
 ],
 "package":"bioconductor-drimseq",
@@ -390,6 +394,15 @@
 {
 "basename":"bioconductor-drimseq-1.8.0-r351_0.tar.bz2",
 "total":262
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-drimseq-1.8.0-r341_0.tar.bz2",
+"total":382
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-hdtd-1.24.0-r40h399db7b_1.tar.bz2",
-"total":43
+"total":44
 },
 {
 "basename":"bioconductor-hdtd-1.24.0-r40h5f743cb_0.tar.bz2",
@@ -198,6 +198,10 @@
 {
 "date":"2022-03-13",
 "total":98
+},
+{
+"date":"2022-03-15",
+"total":99
 }
 ],
 "package":"bioconductor-hdtd",
@@ -260,6 +264,15 @@
 {
 "basename":"bioconductor-hdtd-1.24.0-r40h5f743cb_0.tar.bz2",
 "total":55
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hdtd-1.24.0-r40h399db7b_1.tar.bz2",
+"total":44
 }
 ]
 }

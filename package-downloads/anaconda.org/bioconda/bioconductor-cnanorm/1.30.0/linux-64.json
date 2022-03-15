@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-cnanorm-1.30.0-r36h6e990d7_1.tar.bz2",
-"total":121
+"total":122
 },
 {
 "basename":"bioconductor-cnanorm-1.30.0-r351h9ac9557_0.tar.bz2",
@@ -242,6 +242,10 @@
 {
 "date":"2022-03-13",
 "total":264
+},
+{
+"date":"2022-03-15",
+"total":265
 }
 ],
 "package":"bioconductor-cnanorm",
@@ -317,6 +321,15 @@
 {
 "basename":"bioconductor-cnanorm-1.30.0-r351h9ac9557_0.tar.bz2",
 "total":143
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cnanorm-1.30.0-r36h6e990d7_1.tar.bz2",
+"total":122
 }
 ]
 }

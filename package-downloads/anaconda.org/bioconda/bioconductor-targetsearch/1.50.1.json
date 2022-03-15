@@ -32,6 +32,10 @@
 {
 "date":"2022-03-13",
 "total":44
+},
+{
+"date":"2022-03-15",
+"total":48
 }
 ],
 "downloads_per_subdir":[
@@ -41,7 +45,7 @@
 },
 {
 "subdir":"osx-64",
-"total":34
+"total":38
 }
 ],
 "package":"bioconductor-targetsearch",
@@ -122,6 +126,15 @@
 {
 "subdir":"osx-64",
 "total":34
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":38
 }
 ]
 }

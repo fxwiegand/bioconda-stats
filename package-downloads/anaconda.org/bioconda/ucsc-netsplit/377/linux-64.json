@@ -11,7 +11,7 @@
 },
 {
 "basename":"ucsc-netsplit-377-h446ed27_1.tar.bz2",
-"total":46
+"total":47
 },
 {
 "basename":"ucsc-netsplit-377-h199ee4e_0.tar.bz2",
@@ -258,6 +258,10 @@
 {
 "date":"2022-03-13",
 "total":251
+},
+{
+"date":"2022-03-15",
+"total":252
 }
 ],
 "package":"ucsc-netsplit",
@@ -396,6 +400,15 @@
 {
 "basename":"ucsc-netsplit-377-h446ed27_1.tar.bz2",
 "total":46
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"ucsc-netsplit-377-h446ed27_1.tar.bz2",
+"total":47
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"gubbins-3.2.0-py39pl5321h66c2135_1.tar.bz2",
-"total":5
+"total":8
 },
 {
 "basename":"gubbins-3.2.0-py38pl5321hc0a6b99_0.tar.bz2",
@@ -42,6 +42,10 @@
 {
 "date":"2022-03-13",
 "total":43
+},
+{
+"date":"2022-03-15",
+"total":46
 }
 ],
 "package":"gubbins",
@@ -121,6 +125,15 @@
 {
 "basename":"gubbins-3.2.0-py39pl5321h66c2135_0.tar.bz2",
 "total":24
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"gubbins-3.2.0-py39pl5321h66c2135_1.tar.bz2",
+"total":8
 }
 ]
 }

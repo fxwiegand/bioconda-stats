@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-biobase-2.36.2-r3.4.1_0.tar.bz2",
-"total":2019
+"total":2020
 }
 ],
 "downloads_per_date":[
@@ -306,6 +306,10 @@
 {
 "date":"2022-03-13",
 "total":2019
+},
+{
+"date":"2022-03-15",
+"total":2020
 }
 ],
 "package":"bioconductor-biobase",
@@ -361,6 +365,15 @@
 {
 "basename":"bioconductor-biobase-2.36.2-r3.4.1_0.tar.bz2",
 "total":2019
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-biobase-2.36.2-r3.4.1_0.tar.bz2",
+"total":2020
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"samtools-1.2.rglab-0.tar.bz2",
-"total":367
+"total":368
 }
 ],
 "downloads_per_date":[
@@ -270,6 +270,10 @@
 {
 "date":"2022-03-13",
 "total":367
+},
+{
+"date":"2022-03-15",
+"total":368
 }
 ],
 "package":"samtools",
@@ -325,6 +329,15 @@
 {
 "basename":"samtools-1.2.rglab-0.tar.bz2",
 "total":367
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"samtools-1.2.rglab-0.tar.bz2",
+"total":368
 }
 ]
 }

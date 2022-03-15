@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"neptune-1.2.5-py27h24bf2e0_2.tar.bz2",
-"total":228
+"total":229
 },
 {
 "basename":"neptune-1.2.5-py27_0.tar.bz2",
@@ -262,6 +262,10 @@
 {
 "date":"2022-03-13",
 "total":1337
+},
+{
+"date":"2022-03-15",
+"total":1338
 }
 ],
 "package":"neptune",
@@ -368,6 +372,15 @@
 {
 "basename":"neptune-1.2.5-py27_1.tar.bz2",
 "total":632
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"neptune-1.2.5-py27h24bf2e0_2.tar.bz2",
+"total":229
 }
 ]
 }

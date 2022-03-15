@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-pcan-1.8.0-r351_0.tar.bz2",
-"total":196
+"total":197
 },
 {
 "basename":"bioconductor-pcan-1.8.0-r341_0.tar.bz2",
@@ -246,6 +246,10 @@
 {
 "date":"2022-03-13",
 "total":516
+},
+{
+"date":"2022-03-15",
+"total":517
 }
 ],
 "package":"bioconductor-pcan",
@@ -321,6 +325,15 @@
 {
 "basename":"bioconductor-pcan-1.8.0-r341_0.tar.bz2",
 "total":320
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pcan-1.8.0-r351_0.tar.bz2",
+"total":197
 }
 ]
 }

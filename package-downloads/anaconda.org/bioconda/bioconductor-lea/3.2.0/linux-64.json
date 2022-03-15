@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-lea-3.2.0-r40h037d062_0.tar.bz2",
-"total":72
+"total":73
 }
 ],
 "downloads_per_date":[
@@ -250,6 +250,10 @@
 {
 "date":"2022-03-13",
 "total":121
+},
+{
+"date":"2022-03-15",
+"total":122
 }
 ],
 "package":"bioconductor-lea",
@@ -335,6 +339,15 @@
 {
 "basename":"bioconductor-lea-3.2.0-r40hd029910_1.tar.bz2",
 "total":49
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-lea-3.2.0-r40h037d062_0.tar.bz2",
+"total":73
 }
 ]
 }

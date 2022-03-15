@@ -11,7 +11,7 @@
 },
 {
 "basename":"ucsc-qacagplift-377-h0b8a92a_2.tar.bz2",
-"total":86
+"total":87
 },
 {
 "basename":"ucsc-qacagplift-377-h199ee4e_0.tar.bz2",
@@ -522,6 +522,10 @@
 {
 "date":"2022-03-13",
 "total":331
+},
+{
+"date":"2022-03-15",
+"total":332
 }
 ],
 "package":"ucsc-qacagplift",
@@ -735,6 +739,15 @@
 {
 "basename":"ucsc-qacagplift-377-ha8a8165_3.tar.bz2",
 "total":23
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"ucsc-qacagplift-377-h0b8a92a_2.tar.bz2",
+"total":87
 }
 ]
 }

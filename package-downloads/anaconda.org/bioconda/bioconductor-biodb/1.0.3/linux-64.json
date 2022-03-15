@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-biodb-1.0.3-r41h399db7b_0.tar.bz2",
-"total":64
+"total":65
 }
 ],
 "downloads_per_date":[
@@ -290,6 +290,10 @@
 {
 "date":"2022-03-13",
 "total":64
+},
+{
+"date":"2022-03-15",
+"total":65
 }
 ],
 "package":"bioconductor-biodb",
@@ -336,6 +340,15 @@
 {
 "basename":"bioconductor-biodb-1.0.3-r41h399db7b_0.tar.bz2",
 "total":64
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-biodb-1.0.3-r41h399db7b_0.tar.bz2",
+"total":65
 }
 ]
 }

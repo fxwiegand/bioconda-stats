@@ -706,6 +706,10 @@
 {
 "date":"2022-03-13",
 "total":2096
+},
+{
+"date":"2022-03-15",
+"total":2096
 }
 ],
 "package":"cwltool",
@@ -743,7 +747,12 @@
 {
 "basename":"cwltool-1.0.20180225105849-py27_0.tar.bz2",
 "total":49
+}
+]
 },
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
 {
 "basename":"cwltool-1.0.20180225105849-py36_0.tar.bz2",
 "total":1998

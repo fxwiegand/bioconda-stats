@@ -23,7 +23,7 @@
 },
 {
 "basename":"rad_haplotyper-1.1.9-pl526h470a237_1.tar.bz2",
-"total":536
+"total":537
 },
 {
 "basename":"rad_haplotyper-1.1.9-pl5.22.0_0.tar.bz2",
@@ -462,6 +462,10 @@
 {
 "date":"2022-03-13",
 "total":1624
+},
+{
+"date":"2022-03-15",
+"total":1625
 }
 ],
 "package":"rad_haplotyper",
@@ -698,6 +702,15 @@
 {
 "basename":"rad_haplotyper-1.1.9-pl5.22.0_0.tar.bz2",
 "total":561
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"rad_haplotyper-1.1.9-pl526h470a237_1.tar.bz2",
+"total":537
 }
 ]
 }

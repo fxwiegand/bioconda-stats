@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-genomeintervals-1.36.0-r341_0.tar.bz2",
-"total":339
+"total":340
 }
 ],
 "downloads_per_date":[
@@ -322,6 +322,10 @@
 {
 "date":"2022-03-13",
 "total":580
+},
+{
+"date":"2022-03-15",
+"total":581
 }
 ],
 "package":"bioconductor-genomeintervals",
@@ -402,6 +406,15 @@
 {
 "basename":"bioconductor-genomeintervals-1.36.0-r351_0.tar.bz2",
 "total":241
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-genomeintervals-1.36.0-r341_0.tar.bz2",
+"total":340
 }
 ]
 }

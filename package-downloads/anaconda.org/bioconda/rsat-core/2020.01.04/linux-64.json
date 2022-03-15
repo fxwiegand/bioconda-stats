@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"rsat-core-2020.01.04-py37pl526r36hc99cbb1_0.tar.bz2",
-"total":96
+"total":97
 },
 {
 "basename":"rsat-core-2020.01.04-py36pl526r36hc99cbb1_0.tar.bz2",
@@ -258,6 +258,10 @@
 {
 "date":"2022-03-13",
 "total":204
+},
+{
+"date":"2022-03-15",
+"total":205
 }
 ],
 "package":"rsat-core",
@@ -346,6 +350,15 @@
 {
 "basename":"rsat-core-2020.01.04-py36pl526r36hc99cbb1_0.tar.bz2",
 "total":108
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"rsat-core-2020.01.04-py37pl526r36hc99cbb1_0.tar.bz2",
+"total":97
 }
 ]
 }

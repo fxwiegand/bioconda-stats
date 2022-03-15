@@ -15,7 +15,7 @@
 },
 {
 "basename":"seroba-1.0.0-py36_1.tar.bz2",
-"total":351
+"total":352
 }
 ],
 "downloads_per_date":[
@@ -342,6 +342,10 @@
 {
 "date":"2022-03-13",
 "total":1124
+},
+{
+"date":"2022-03-15",
+"total":1125
 }
 ],
 "package":"seroba",
@@ -479,11 +483,15 @@
 ]
 },
 {
-"date":"2022-03-13",
+"date":"2022-03-15",
 "downloads_per_basename":[
 {
 "basename":"seroba-1.0.0-py35_0.tar.bz2",
 "total":295
+},
+{
+"basename":"seroba-1.0.0-py36_1.tar.bz2",
+"total":352
 }
 ]
 }

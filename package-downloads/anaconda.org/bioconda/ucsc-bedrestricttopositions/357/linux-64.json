@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-bedrestricttopositions-357-1.tar.bz2",
-"total":449
+"total":450
 }
 ],
 "downloads_per_date":[
@@ -298,6 +298,10 @@
 {
 "date":"2022-03-13",
 "total":875
+},
+{
+"date":"2022-03-15",
+"total":876
 }
 ],
 "package":"ucsc-bedrestricttopositions",
@@ -405,6 +409,15 @@
 {
 "basename":"ucsc-bedrestricttopositions-357-1.tar.bz2",
 "total":449
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bedrestricttopositions-357-1.tar.bz2",
+"total":450
 }
 ]
 }

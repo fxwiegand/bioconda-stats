@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-ampvis-1.27.0-r40h9ee0642_3.tar.bz2",
-"total":56
+"total":57
 },
 {
 "basename":"r-ampvis-1.27.0-r41h9ee0642_4.tar.bz2",
@@ -402,6 +402,10 @@
 {
 "date":"2022-03-13",
 "total":1856
+},
+{
+"date":"2022-03-15",
+"total":1857
 }
 ],
 "package":"r-ampvis",
@@ -596,6 +600,15 @@
 {
 "basename":"r-ampvis-1.27.0-r40_2.tar.bz2",
 "total":82
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"r-ampvis-1.27.0-r40h9ee0642_3.tar.bz2",
+"total":57
 }
 ]
 }

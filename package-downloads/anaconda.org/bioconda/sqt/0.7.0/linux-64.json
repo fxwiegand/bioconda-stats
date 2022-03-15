@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"sqt-0.7.0-py35_0.tar.bz2",
-"total":400
+"total":401
 },
 {
 "basename":"sqt-0.7.0-py34_2.tar.bz2",
@@ -294,6 +294,10 @@
 {
 "date":"2022-03-13",
 "total":3011
+},
+{
+"date":"2022-03-15",
+"total":3012
 }
 ],
 "package":"sqt",
@@ -497,6 +501,15 @@
 {
 "basename":"sqt-0.7.0-py34_0.tar.bz2",
 "total":405
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"sqt-0.7.0-py35_0.tar.bz2",
+"total":401
 }
 ]
 }

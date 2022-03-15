@@ -11,7 +11,7 @@
 },
 {
 "basename":"mace-1.2-py27h99da42f_0.tar.bz2",
-"total":108
+"total":109
 },
 {
 "basename":"mace-1.2-py27h99da42f_1.tar.bz2",
@@ -318,6 +318,10 @@
 {
 "date":"2022-03-13",
 "total":395
+},
+{
+"date":"2022-03-15",
+"total":396
 }
 ],
 "package":"mace",
@@ -439,6 +443,15 @@
 {
 "basename":"mace-1.2-py27h99da42f_1.tar.bz2",
 "total":136
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"mace-1.2-py27h99da42f_0.tar.bz2",
+"total":109
 }
 ]
 }

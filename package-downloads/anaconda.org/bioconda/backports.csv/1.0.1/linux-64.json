@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"backports.csv-1.0.1-py34_0.tar.bz2",
-"total":611
+"total":612
 },
 {
 "basename":"backports.csv-1.0.1-py35_0.tar.bz2",
@@ -522,6 +522,10 @@
 {
 "date":"2022-03-13",
 "total":3568
+},
+{
+"date":"2022-03-15",
+"total":3569
 }
 ],
 "package":"backports.csv",
@@ -708,6 +712,15 @@
 {
 "basename":"backports.csv-1.0.1-py36_0.tar.bz2",
 "total":947
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"backports.csv-1.0.1-py34_0.tar.bz2",
+"total":612
 }
 ]
 }

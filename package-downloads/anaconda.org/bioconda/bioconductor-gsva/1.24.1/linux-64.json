@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-gsva-1.24.1-r3.3.2_0.tar.bz2",
-"total":546
+"total":547
 },
 {
 "basename":"bioconductor-gsva-1.24.1-r3.3.1_0.tar.bz2",
@@ -334,6 +334,10 @@
 {
 "date":"2022-03-13",
 "total":1681
+},
+{
+"date":"2022-03-15",
+"total":1682
 }
 ],
 "package":"bioconductor-gsva",
@@ -469,6 +473,15 @@
 {
 "basename":"bioconductor-gsva-1.24.1-r3.4.1_0.tar.bz2",
 "total":493
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-gsva-1.24.1-r3.3.2_0.tar.bz2",
+"total":547
 }
 ]
 }

@@ -19,7 +19,7 @@
 },
 {
 "basename":"logbook-1.0.0-py27h470a237_1.tar.bz2",
-"total":1489
+"total":1491
 },
 {
 "basename":"logbook-1.0.0-py27_0.tar.bz2",
@@ -290,6 +290,10 @@
 {
 "date":"2022-03-13",
 "total":8727
+},
+{
+"date":"2022-03-15",
+"total":8729
 }
 ],
 "package":"logbook",
@@ -438,6 +442,15 @@
 {
 "basename":"logbook-1.0.0-py27_0.tar.bz2",
 "total":5439
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"logbook-1.0.0-py27h470a237_1.tar.bz2",
+"total":1491
 }
 ]
 }

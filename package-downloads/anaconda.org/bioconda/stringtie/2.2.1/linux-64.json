@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"stringtie-2.2.1-hecb563c_2.tar.bz2",
-"total":45
+"total":49
 },
 {
 "basename":"stringtie-2.2.1-ha025227_1.tar.bz2",
@@ -138,6 +138,10 @@
 {
 "date":"2022-03-13",
 "total":223
+},
+{
+"date":"2022-03-15",
+"total":227
 }
 ],
 "package":"stringtie",
@@ -514,6 +518,15 @@
 {
 "basename":"stringtie-2.2.1-h3198e80_0.tar.bz2",
 "total":128
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"stringtie-2.2.1-hecb563c_2.tar.bz2",
+"total":49
 }
 ]
 }

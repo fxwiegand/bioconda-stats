@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-xde-2.26.0-r341hfc679d8_0.tar.bz2",
-"total":177
+"total":178
 },
 {
 "basename":"bioconductor-xde-2.26.0-r351hfc679d8_0.tar.bz2",
@@ -254,6 +254,10 @@
 {
 "date":"2022-03-13",
 "total":491
+},
+{
+"date":"2022-03-15",
+"total":492
 }
 ],
 "package":"bioconductor-xde",
@@ -316,6 +320,15 @@
 {
 "basename":"bioconductor-xde-2.26.0-r351hfc679d8_0.tar.bz2",
 "total":314
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-xde-2.26.0-r341hfc679d8_0.tar.bz2",
+"total":178
 }
 ]
 }

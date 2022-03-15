@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"intarna-3.1.0.2-pl526h78a066a_0.tar.bz2",
-"total":100
+"total":101
 },
 {
 "basename":"intarna-3.1.0.2-h176a8bc_1.tar.bz2",
@@ -246,6 +246,10 @@
 {
 "date":"2022-03-13",
 "total":209
+},
+{
+"date":"2022-03-15",
+"total":210
 }
 ],
 "package":"intarna",
@@ -308,6 +312,15 @@
 {
 "basename":"intarna-3.1.0.2-h176a8bc_1.tar.bz2",
 "total":109
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"intarna-3.1.0.2-pl526h78a066a_0.tar.bz2",
+"total":101
 }
 ]
 }

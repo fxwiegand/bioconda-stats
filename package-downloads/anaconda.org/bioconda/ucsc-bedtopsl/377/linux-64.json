@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-bedtopsl-377-ha8a8165_3.tar.bz2",
-"total":18
+"total":19
 },
 {
 "basename":"ucsc-bedtopsl-377-h446ed27_1.tar.bz2",
@@ -438,6 +438,10 @@
 {
 "date":"2022-03-13",
 "total":328
+},
+{
+"date":"2022-03-15",
+"total":329
 }
 ],
 "package":"ucsc-bedtopsl",
@@ -639,6 +643,15 @@
 {
 "basename":"ucsc-bedtopsl-377-h446ed27_1.tar.bz2",
 "total":65
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bedtopsl-377-ha8a8165_3.tar.bz2",
+"total":19
 }
 ]
 }

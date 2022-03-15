@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-time-hires-1.9764-pl5321hec16e2b_2.tar.bz2",
-"total":422
+"total":463
 },
 {
 "basename":"perl-time-hires-1.9764-pl5321h779adbc_1.tar.bz2",
@@ -78,6 +78,10 @@
 {
 "date":"2022-03-13",
 "total":932
+},
+{
+"date":"2022-03-15",
+"total":973
 }
 ],
 "package":"perl-time-hires",
@@ -248,6 +252,15 @@
 {
 "basename":"perl-time-hires-1.9764-pl5321hec16e2b_2.tar.bz2",
 "total":422
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"perl-time-hires-1.9764-pl5321hec16e2b_2.tar.bz2",
+"total":463
 }
 ]
 }

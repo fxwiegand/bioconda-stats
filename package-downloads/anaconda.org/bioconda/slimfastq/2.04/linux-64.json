@@ -11,7 +11,7 @@
 },
 {
 "basename":"slimfastq-2.04-he1b5a44_0.tar.bz2",
-"total":43
+"total":44
 }
 ],
 "downloads_per_date":[
@@ -222,6 +222,10 @@
 {
 "date":"2022-03-13",
 "total":100
+},
+{
+"date":"2022-03-15",
+"total":101
 }
 ],
 "package":"slimfastq",
@@ -327,6 +331,15 @@
 {
 "basename":"slimfastq-2.04-h1b792b2_1.tar.bz2",
 "total":41
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"slimfastq-2.04-he1b5a44_0.tar.bz2",
+"total":44
 }
 ]
 }

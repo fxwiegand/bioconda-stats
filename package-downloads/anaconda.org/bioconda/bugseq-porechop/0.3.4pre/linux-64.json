@@ -35,7 +35,7 @@
 },
 {
 "basename":"bugseq-porechop-0.3.4pre-py36hf1ae8f4_0.tar.bz2",
-"total":47
+"total":48
 },
 {
 "basename":"bugseq-porechop-0.3.4pre-py37h9a982cc_0.tar.bz2",
@@ -314,6 +314,10 @@
 {
 "date":"2022-03-13",
 "total":374
+},
+{
+"date":"2022-03-15",
+"total":375
 }
 ],
 "package":"bugseq-porechop",
@@ -536,6 +540,15 @@
 {
 "basename":"bugseq-porechop-0.3.4pre-py38h4a32c8e_2.tar.bz2",
 "total":13
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bugseq-porechop-0.3.4pre-py36hf1ae8f4_0.tar.bz2",
+"total":48
 }
 ]
 }

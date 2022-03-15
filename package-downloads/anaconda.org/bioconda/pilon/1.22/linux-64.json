@@ -15,7 +15,7 @@
 },
 {
 "basename":"pilon-1.22-py36_0.tar.bz2",
-"total":1452
+"total":1453
 }
 ],
 "downloads_per_date":[
@@ -422,6 +422,10 @@
 {
 "date":"2022-03-13",
 "total":4154
+},
+{
+"date":"2022-03-15",
+"total":4155
 }
 ],
 "package":"pilon",
@@ -630,6 +634,15 @@
 {
 "basename":"pilon-1.22-py34_0.tar.bz2",
 "total":638
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"pilon-1.22-py36_0.tar.bz2",
+"total":1453
 }
 ]
 }

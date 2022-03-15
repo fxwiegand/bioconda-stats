@@ -15,7 +15,7 @@
 },
 {
 "basename":"perl-perl-version-1.013-0.tar.bz2",
-"total":1859
+"total":1860
 }
 ],
 "downloads_per_date":[
@@ -386,6 +386,10 @@
 {
 "date":"2022-03-13",
 "total":2717
+},
+{
+"date":"2022-03-15",
+"total":2718
 }
 ],
 "package":"perl-perl-version",
@@ -552,6 +556,15 @@
 {
 "basename":"perl-perl-version-1.013-pl526_1.tar.bz2",
 "total":388
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"perl-perl-version-1.013-0.tar.bz2",
+"total":1860
 }
 ]
 }

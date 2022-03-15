@@ -7,7 +7,7 @@
 },
 {
 "basename":"sorted_nearest-0.0.19-py27h3010b51_1.tar.bz2",
-"total":118
+"total":119
 },
 {
 "basename":"sorted_nearest-0.0.19-py36h3010b51_1.tar.bz2",
@@ -214,6 +214,10 @@
 {
 "date":"2022-03-13",
 "total":340
+},
+{
+"date":"2022-03-15",
+"total":341
 }
 ],
 "package":"sorted_nearest",
@@ -300,6 +304,15 @@
 "downloads_per_basename":[
 {
 "basename":"sorted_nearest-0.0.19-py36h3010b51_1.tar.bz2",
+"total":119
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"sorted_nearest-0.0.19-py27h3010b51_1.tar.bz2",
 "total":119
 }
 ]

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-psicquic-1.18.1-r341_0.tar.bz2",
-"total":184
+"total":185
 },
 {
 "basename":"bioconductor-psicquic-1.18.1-r351_0.tar.bz2",
@@ -234,6 +234,10 @@
 {
 "date":"2022-03-13",
 "total":492
+},
+{
+"date":"2022-03-15",
+"total":493
 }
 ],
 "package":"bioconductor-psicquic",
@@ -300,6 +304,15 @@
 {
 "basename":"bioconductor-psicquic-1.18.1-r351_0.tar.bz2",
 "total":308
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-psicquic-1.18.1-r341_0.tar.bz2",
+"total":185
 }
 ]
 }

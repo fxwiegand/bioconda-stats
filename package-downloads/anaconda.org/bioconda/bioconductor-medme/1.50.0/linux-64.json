@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-medme-1.50.0-r40hd029910_1.tar.bz2",
-"total":52
+"total":53
 },
 {
 "basename":"bioconductor-medme-1.50.0-r40h037d062_0.tar.bz2",
@@ -270,6 +270,10 @@
 {
 "date":"2022-03-13",
 "total":120
+},
+{
+"date":"2022-03-15",
+"total":121
 }
 ],
 "package":"bioconductor-medme",
@@ -346,6 +350,15 @@
 {
 "basename":"bioconductor-medme-1.50.0-r40h037d062_0.tar.bz2",
 "total":68
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-medme-1.50.0-r40hd029910_1.tar.bz2",
+"total":53
 }
 ]
 }

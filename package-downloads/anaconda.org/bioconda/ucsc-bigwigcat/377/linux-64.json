@@ -11,7 +11,7 @@
 },
 {
 "basename":"ucsc-bigwigcat-377-h0b8a92a_2.tar.bz2",
-"total":123
+"total":125
 },
 {
 "basename":"ucsc-bigwigcat-377-h199ee4e_0.tar.bz2",
@@ -606,6 +606,10 @@
 {
 "date":"2022-03-13",
 "total":404
+},
+{
+"date":"2022-03-15",
+"total":406
 }
 ],
 "package":"ucsc-bigwigcat",
@@ -884,6 +888,15 @@
 {
 "basename":"ucsc-bigwigcat-377-ha8a8165_3.tar.bz2",
 "total":18
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bigwigcat-377-h0b8a92a_2.tar.bz2",
+"total":125
 }
 ]
 }

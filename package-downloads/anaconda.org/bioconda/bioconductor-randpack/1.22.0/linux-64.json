@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-randpack-1.22.0-r3.3.2_0.tar.bz2",
-"total":447
+"total":448
 },
 {
 "basename":"bioconductor-randpack-1.22.0-r3.4.1_0.tar.bz2",
@@ -234,6 +234,10 @@
 {
 "date":"2022-03-13",
 "total":1048
+},
+{
+"date":"2022-03-15",
+"total":1049
 }
 ],
 "package":"bioconductor-randpack",
@@ -305,6 +309,15 @@
 {
 "basename":"bioconductor-randpack-1.22.0-r3.3.2_0.tar.bz2",
 "total":447
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-randpack-1.22.0-r3.3.2_0.tar.bz2",
+"total":448
 }
 ]
 }

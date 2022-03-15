@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-batchjobs-1.6-r3.2.2_0.tar.bz2",
-"total":1024
+"total":1025
 }
 ],
 "downloads_per_date":[
@@ -430,6 +430,10 @@
 {
 "date":"2022-03-13",
 "total":2478
+},
+{
+"date":"2022-03-15",
+"total":2479
 }
 ],
 "package":"r-batchjobs",
@@ -541,6 +545,15 @@
 {
 "basename":"r-batchjobs-1.6-r3.2.2_0.tar.bz2",
 "total":1024
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"r-batchjobs-1.6-r3.2.2_0.tar.bz2",
+"total":1025
 }
 ]
 }

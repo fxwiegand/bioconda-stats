@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-hgloadoutjoined-357-1.tar.bz2",
-"total":188
+"total":189
 },
 {
 "basename":"ucsc-hgloadoutjoined-357-0.tar.bz2",
@@ -198,6 +198,10 @@
 {
 "date":"2022-03-13",
 "total":770
+},
+{
+"date":"2022-03-15",
+"total":771
 }
 ],
 "package":"ucsc-hgloadoutjoined",
@@ -273,6 +277,15 @@
 {
 "basename":"ucsc-hgloadoutjoined-357-0.tar.bz2",
 "total":582
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"ucsc-hgloadoutjoined-357-1.tar.bz2",
+"total":189
 }
 ]
 }

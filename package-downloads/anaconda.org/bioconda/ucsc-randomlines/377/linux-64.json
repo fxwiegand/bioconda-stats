@@ -11,7 +11,7 @@
 },
 {
 "basename":"ucsc-randomlines-377-h0b8a92a_2.tar.bz2",
-"total":88
+"total":89
 },
 {
 "basename":"ucsc-randomlines-377-h199ee4e_0.tar.bz2",
@@ -486,6 +486,10 @@
 {
 "date":"2022-03-13",
 "total":338
+},
+{
+"date":"2022-03-15",
+"total":339
 }
 ],
 "package":"ucsc-randomlines",
@@ -688,6 +692,15 @@
 {
 "basename":"ucsc-randomlines-377-ha8a8165_3.tar.bz2",
 "total":23
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"ucsc-randomlines-377-h0b8a92a_2.tar.bz2",
+"total":89
 }
 ]
 }

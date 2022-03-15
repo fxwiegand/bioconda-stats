@@ -19,7 +19,7 @@
 },
 {
 "basename":"libsequence-1.8.4-htslib1.6_0.tar.bz2",
-"total":214
+"total":215
 },
 {
 "basename":"libsequence-1.8.4-htslib1.7_0.tar.bz2",
@@ -378,6 +378,10 @@
 {
 "date":"2022-03-13",
 "total":1157
+},
+{
+"date":"2022-03-15",
+"total":1158
 }
 ],
 "package":"libsequence",
@@ -640,6 +644,15 @@
 {
 "basename":"libsequence-1.8.4-hf50d5a6_2.tar.bz2",
 "total":318
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"libsequence-1.8.4-htslib1.6_0.tar.bz2",
+"total":215
 }
 ]
 }

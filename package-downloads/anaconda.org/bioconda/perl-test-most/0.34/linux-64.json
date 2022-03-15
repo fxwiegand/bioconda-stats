@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-most-0.34-pl526_2.tar.bz2",
-"total":3806
+"total":3807
 },
 {
 "basename":"perl-test-most-0.34-1.tar.bz2",
@@ -558,6 +558,10 @@
 {
 "date":"2022-03-13",
 "total":8371
+},
+{
+"date":"2022-03-15",
+"total":8372
 }
 ],
 "package":"perl-test-most",
@@ -795,6 +799,15 @@
 {
 "basename":"perl-test-most-0.34-1.tar.bz2",
 "total":4565
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"perl-test-most-0.34-pl526_2.tar.bz2",
+"total":3807
 }
 ]
 }

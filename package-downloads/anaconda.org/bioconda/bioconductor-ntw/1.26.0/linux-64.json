@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-ntw-1.26.0-r3.3.2_0.tar.bz2",
-"total":483
+"total":484
 },
 {
 "basename":"bioconductor-ntw-1.26.0-r3.4.1_0.tar.bz2",
@@ -286,6 +286,10 @@
 {
 "date":"2022-03-13",
 "total":1109
+},
+{
+"date":"2022-03-15",
+"total":1110
 }
 ],
 "package":"bioconductor-ntw",
@@ -353,6 +357,15 @@
 {
 "basename":"bioconductor-ntw-1.26.0-r3.3.2_0.tar.bz2",
 "total":483
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ntw-1.26.0-r3.3.2_0.tar.bz2",
+"total":484
 }
 ]
 }

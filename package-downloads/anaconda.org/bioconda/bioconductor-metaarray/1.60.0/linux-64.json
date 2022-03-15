@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-metaarray-1.60.0-r351h14c3975_1.tar.bz2",
-"total":170
+"total":171
 },
 {
 "basename":"bioconductor-metaarray-1.60.0-r351h14c3975_0.tar.bz2",
@@ -254,6 +254,10 @@
 {
 "date":"2022-03-13",
 "total":344
+},
+{
+"date":"2022-03-15",
+"total":345
 }
 ],
 "package":"bioconductor-metaarray",
@@ -326,6 +330,15 @@
 {
 "basename":"bioconductor-metaarray-1.60.0-r351h14c3975_0.tar.bz2",
 "total":174
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-metaarray-1.60.0-r351h14c3975_1.tar.bz2",
+"total":171
 }
 ]
 }

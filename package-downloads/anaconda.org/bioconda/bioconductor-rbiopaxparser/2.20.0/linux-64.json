@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rbiopaxparser-2.20.0-r351_0.tar.bz2",
-"total":205
+"total":206
 },
 {
 "basename":"bioconductor-rbiopaxparser-2.20.0-r341_0.tar.bz2",
@@ -218,6 +218,10 @@
 {
 "date":"2022-03-13",
 "total":509
+},
+{
+"date":"2022-03-15",
+"total":510
 }
 ],
 "package":"bioconductor-rbiopaxparser",
@@ -294,6 +298,15 @@
 {
 "basename":"bioconductor-rbiopaxparser-2.20.0-r341_0.tar.bz2",
 "total":304
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rbiopaxparser-2.20.0-r351_0.tar.bz2",
+"total":206
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"python-tripal-3.0-py36_0.tar.bz2",
-"total":148
+"total":149
 },
 {
 "basename":"python-tripal-3.0-py35_0.tar.bz2",
@@ -222,6 +222,10 @@
 {
 "date":"2022-03-13",
 "total":567
+},
+{
+"date":"2022-03-15",
+"total":568
 }
 ],
 "package":"python-tripal",
@@ -314,6 +318,15 @@
 {
 "basename":"python-tripal-3.0-py27_0.tar.bz2",
 "total":268
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"python-tripal-3.0-py36_0.tar.bz2",
+"total":149
 }
 ]
 }

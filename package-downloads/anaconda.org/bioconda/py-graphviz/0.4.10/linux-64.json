@@ -11,7 +11,7 @@
 },
 {
 "basename":"py-graphviz-0.4.10-py35_0.tar.bz2",
-"total":574
+"total":576
 },
 {
 "basename":"py-graphviz-0.4.10-py27_0.tar.bz2",
@@ -290,6 +290,10 @@
 {
 "date":"2022-03-13",
 "total":3056
+},
+{
+"date":"2022-03-15",
+"total":3058
 }
 ],
 "package":"py-graphviz",
@@ -408,6 +412,15 @@
 {
 "basename":"py-graphviz-0.4.10-py27_0.tar.bz2",
 "total":1625
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"py-graphviz-0.4.10-py35_0.tar.bz2",
+"total":576
 }
 ]
 }

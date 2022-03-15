@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-beadarray-2.30.0-r351h470a237_0.tar.bz2",
-"total":331
+"total":332
 },
 {
 "basename":"bioconductor-beadarray-2.30.0-r341h470a237_0.tar.bz2",
@@ -282,6 +282,10 @@
 {
 "date":"2022-03-13",
 "total":674
+},
+{
+"date":"2022-03-15",
+"total":675
 }
 ],
 "package":"bioconductor-beadarray",
@@ -348,6 +352,15 @@
 {
 "basename":"bioconductor-beadarray-2.30.0-r341h470a237_0.tar.bz2",
 "total":343
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-beadarray-2.30.0-r351h470a237_0.tar.bz2",
+"total":332
 }
 ]
 }

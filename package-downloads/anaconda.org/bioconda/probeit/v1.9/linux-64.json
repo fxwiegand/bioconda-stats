@@ -15,7 +15,7 @@
 },
 {
 "basename":"probeit-v1.9-py38hc37a69a_0.tar.bz2",
-"total":36
+"total":37
 },
 {
 "basename":"probeit-v1.9-py39h8f06ca0_0.tar.bz2",
@@ -262,6 +262,10 @@
 {
 "date":"2022-03-13",
 "total":252
+},
+{
+"date":"2022-03-15",
+"total":253
 }
 ],
 "package":"probeit",
@@ -442,6 +446,15 @@
 {
 "basename":"probeit-v1.9-py36hff8b118_0.tar.bz2",
 "total":38
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"probeit-v1.9-py38hc37a69a_0.tar.bz2",
+"total":37
 }
 ]
 }

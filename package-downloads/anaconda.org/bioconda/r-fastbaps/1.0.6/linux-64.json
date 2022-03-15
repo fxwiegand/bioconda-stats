@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-fastbaps-1.0.6-r41h5b5514e_1.tar.bz2",
-"total":10
+"total":12
 },
 {
 "basename":"r-fastbaps-1.0.6-r41h2e03b76_0.tar.bz2",
@@ -82,6 +82,10 @@
 {
 "date":"2022-03-13",
 "total":30
+},
+{
+"date":"2022-03-15",
+"total":32
 }
 ],
 "package":"r-fastbaps",
@@ -217,6 +221,15 @@
 {
 "basename":"r-fastbaps-1.0.6-r41h5b5514e_1.tar.bz2",
 "total":10
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"r-fastbaps-1.0.6-r41h5b5514e_1.tar.bz2",
+"total":12
 }
 ]
 }

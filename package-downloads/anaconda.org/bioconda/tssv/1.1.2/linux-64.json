@@ -27,7 +27,7 @@
 },
 {
 "basename":"tssv-1.1.2-py37h22450f8_0.tar.bz2",
-"total":17
+"total":18
 },
 {
 "basename":"tssv-1.1.2-py36hae55d0a_0.tar.bz2",
@@ -134,6 +134,10 @@
 {
 "date":"2022-03-13",
 "total":104
+},
+{
+"date":"2022-03-15",
+"total":105
 }
 ],
 "package":"tssv",
@@ -290,6 +294,15 @@
 {
 "basename":"tssv-1.1.2-py39hc16433a_1.tar.bz2",
 "total":10
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"tssv-1.1.2-py37h22450f8_0.tar.bz2",
+"total":18
 }
 ]
 }

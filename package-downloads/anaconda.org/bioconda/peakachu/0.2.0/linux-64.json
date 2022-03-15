@@ -31,7 +31,7 @@
 },
 {
 "basename":"peakachu-0.2.0-py36hc5360cc_0.tar.bz2",
-"total":37
+"total":38
 },
 {
 "basename":"peakachu-0.2.0-py38h4a8c8d9_0.tar.bz2",
@@ -398,6 +398,10 @@
 {
 "date":"2022-03-13",
 "total":277
+},
+{
+"date":"2022-03-15",
+"total":278
 }
 ],
 "package":"peakachu",
@@ -685,6 +689,15 @@
 {
 "basename":"peakachu-0.2.0-py38h4a8c8d9_0.tar.bz2",
 "total":56
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"peakachu-0.2.0-py36hc5360cc_0.tar.bz2",
+"total":38
 }
 ]
 }

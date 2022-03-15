@@ -15,7 +15,7 @@
 },
 {
 "basename":"perl-test-nowarnings-1.04-1.tar.bz2",
-"total":1672
+"total":1673
 }
 ],
 "downloads_per_date":[
@@ -518,6 +518,10 @@
 {
 "date":"2022-03-13",
 "total":3368
+},
+{
+"date":"2022-03-15",
+"total":3369
 }
 ],
 "package":"perl-test-nowarnings",
@@ -671,6 +675,15 @@
 {
 "basename":"perl-test-nowarnings-1.04-1.tar.bz2",
 "total":1672
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"perl-test-nowarnings-1.04-1.tar.bz2",
+"total":1673
 }
 ]
 }

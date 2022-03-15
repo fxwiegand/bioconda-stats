@@ -11,7 +11,7 @@
 },
 {
 "basename":"simple_sv_annotation-2015.11.24-py27_0.tar.bz2",
-"total":1462
+"total":1463
 }
 ],
 "downloads_per_date":[
@@ -226,6 +226,10 @@
 {
 "date":"2022-03-13",
 "total":2397
+},
+{
+"date":"2022-03-15",
+"total":2398
 }
 ],
 "package":"simple_sv_annotation",
@@ -310,6 +314,15 @@
 {
 "basename":"simple_sv_annotation-2015.11.24-py35_0.tar.bz2",
 "total":549
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"simple_sv_annotation-2015.11.24-py27_0.tar.bz2",
+"total":1463
 }
 ]
 }

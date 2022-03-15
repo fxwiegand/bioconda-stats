@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-apache-test-1.43-pl5321hdfd78af_0.tar.bz2",
-"total":600
+"total":635
 }
 ],
 "downloads_per_date":[
@@ -78,6 +78,10 @@
 {
 "date":"2022-03-13",
 "total":600
+},
+{
+"date":"2022-03-15",
+"total":635
 }
 ],
 "package":"perl-apache-test",
@@ -241,6 +245,15 @@
 {
 "basename":"perl-apache-test-1.43-pl5321hdfd78af_0.tar.bz2",
 "total":600
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"perl-apache-test-1.43-pl5321hdfd78af_0.tar.bz2",
+"total":635
 }
 ]
 }

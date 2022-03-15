@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-dmrcate-1.16.0-r341_0.tar.bz2",
-"total":211
+"total":212
 },
 {
 "basename":"bioconductor-dmrcate-1.16.0-r351_0.tar.bz2",
@@ -246,6 +246,10 @@
 {
 "date":"2022-03-13",
 "total":565
+},
+{
+"date":"2022-03-15",
+"total":566
 }
 ],
 "package":"bioconductor-dmrcate",
@@ -335,6 +339,15 @@
 {
 "basename":"bioconductor-dmrcate-1.16.0-r351_0.tar.bz2",
 "total":354
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-dmrcate-1.16.0-r341_0.tar.bz2",
+"total":212
 }
 ]
 }

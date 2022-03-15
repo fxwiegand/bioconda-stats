@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"tobias-0.12.3-py36h29c9776_0.tar.bz2",
-"total":49
+"total":50
 },
 {
 "basename":"tobias-0.12.3-py37h97743b1_0.tar.bz2",
@@ -186,6 +186,10 @@
 {
 "date":"2022-03-13",
 "total":102
+},
+{
+"date":"2022-03-15",
+"total":103
 }
 ],
 "package":"tobias",
@@ -257,6 +261,15 @@
 {
 "basename":"tobias-0.12.3-py37h97743b1_0.tar.bz2",
 "total":53
+}
+]
+},
+{
+"date":"2022-03-15",
+"downloads_per_basename":[
+{
+"basename":"tobias-0.12.3-py36h29c9776_0.tar.bz2",
+"total":50
 }
 ]
 }
