@@ -23,7 +23,7 @@
 },
 {
 "basename":"stringtie-1.3.3-py27_2.tar.bz2",
-"total":1936
+"total":1937
 }
 ],
 "downloads_per_date":[
@@ -822,6 +822,10 @@
 {
 "date":"2022-03-15",
 "total":7069
+},
+{
+"date":"2022-03-16",
+"total":7070
 }
 ],
 "package":"stringtie",
@@ -1142,6 +1146,15 @@
 {
 "basename":"stringtie-1.3.3-py35_2.tar.bz2",
 "total":465
+}
+]
+},
+{
+"date":"2022-03-16",
+"downloads_per_basename":[
+{
+"basename":"stringtie-1.3.3-py27_2.tar.bz2",
+"total":1937
 }
 ]
 }

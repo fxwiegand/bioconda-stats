@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-addcols-377-h0b8a92a_2.tar.bz2",
-"total":83
+"total":85
 },
 {
 "basename":"ucsc-addcols-377-h199ee4e_0.tar.bz2",
@@ -446,6 +446,10 @@
 {
 "date":"2022-03-15",
 "total":311
+},
+{
+"date":"2022-03-16",
+"total":313
 }
 ],
 "package":"ucsc-addcols",
@@ -597,6 +601,15 @@
 {
 "basename":"ucsc-addcols-377-h199ee4e_0.tar.bz2",
 "total":163
+}
+]
+},
+{
+"date":"2022-03-16",
+"downloads_per_basename":[
+{
+"basename":"ucsc-addcols-377-h0b8a92a_2.tar.bz2",
+"total":85
 }
 ]
 }

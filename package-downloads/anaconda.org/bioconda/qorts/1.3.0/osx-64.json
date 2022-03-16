@@ -706,6 +706,10 @@
 {
 "date":"2022-03-15",
 "total":2110
+},
+{
+"date":"2022-03-16",
+"total":2110
 }
 ],
 "package":"qorts",
@@ -725,7 +729,12 @@
 {
 "basename":"qorts-1.3.0-py35_0.tar.bz2",
 "total":58
+}
+]
 },
+{
+"date":"2022-03-16",
+"downloads_per_basename":[
 {
 "basename":"qorts-1.3.0-py27_0.tar.bz2",
 "total":292

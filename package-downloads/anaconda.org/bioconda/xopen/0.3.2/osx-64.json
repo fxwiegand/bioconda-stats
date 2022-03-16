@@ -11,7 +11,7 @@
 },
 {
 "basename":"xopen-0.3.2-py35_0.tar.bz2",
-"total":3293
+"total":3294
 }
 ],
 "downloads_per_date":[
@@ -734,6 +734,10 @@
 {
 "date":"2022-03-15",
 "total":6449
+},
+{
+"date":"2022-03-16",
+"total":6450
 }
 ],
 "package":"xopen",
@@ -779,11 +783,15 @@
 ]
 },
 {
-"date":"2022-03-15",
+"date":"2022-03-16",
 "downloads_per_basename":[
 {
 "basename":"xopen-0.3.2-py36_0.tar.bz2",
 "total":2515
+},
+{
+"basename":"xopen-0.3.2-py35_0.tar.bz2",
+"total":3294
 }
 ]
 }

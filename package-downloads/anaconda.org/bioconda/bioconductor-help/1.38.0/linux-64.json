@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-help-1.38.0-r341_0.tar.bz2",
-"total":213
+"total":215
 },
 {
 "basename":"bioconductor-help-1.38.0-r351_0.tar.bz2",
@@ -274,6 +274,10 @@
 {
 "date":"2022-03-15",
 "total":549
+},
+{
+"date":"2022-03-16",
+"total":551
 }
 ],
 "package":"bioconductor-help",
@@ -363,6 +367,15 @@
 {
 "basename":"bioconductor-help-1.38.0-r351_0.tar.bz2",
 "total":336
+}
+]
+},
+{
+"date":"2022-03-16",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-help-1.38.0-r341_0.tar.bz2",
+"total":215
 }
 ]
 }

@@ -31,7 +31,7 @@
 },
 {
 "basename":"pyopenms-2.5.0-py36hf9801de_2.tar.bz2",
-"total":95
+"total":96
 },
 {
 "basename":"pyopenms-2.5.0-py27hf9801de_1.tar.bz2",
@@ -458,6 +458,10 @@
 {
 "date":"2022-03-15",
 "total":5176
+},
+{
+"date":"2022-03-16",
+"total":5177
 }
 ],
 "package":"pyopenms",
@@ -1055,6 +1059,15 @@
 {
 "basename":"pyopenms-2.5.0-py37h46aec2b_6.tar.bz2",
 "total":90
+}
+]
+},
+{
+"date":"2022-03-16",
+"downloads_per_basename":[
+{
+"basename":"pyopenms-2.5.0-py36hf9801de_2.tar.bz2",
+"total":96
 }
 ]
 }

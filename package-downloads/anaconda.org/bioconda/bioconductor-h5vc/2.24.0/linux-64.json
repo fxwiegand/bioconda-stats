@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-h5vc-2.24.0-r40h399db7b_1.tar.bz2",
-"total":56
+"total":57
 },
 {
 "basename":"bioconductor-h5vc-2.24.0-r40h5f743cb_0.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2022-03-15",
 "total":128
+},
+{
+"date":"2022-03-16",
+"total":129
 }
 ],
 "package":"bioconductor-h5vc",
@@ -360,6 +364,15 @@
 {
 "basename":"bioconductor-h5vc-2.24.0-r40h5f743cb_0.tar.bz2",
 "total":72
+}
+]
+},
+{
+"date":"2022-03-16",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-h5vc-2.24.0-r40h399db7b_1.tar.bz2",
+"total":57
 }
 ]
 }

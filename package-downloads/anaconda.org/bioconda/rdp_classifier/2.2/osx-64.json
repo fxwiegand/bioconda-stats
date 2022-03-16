@@ -710,6 +710,10 @@
 {
 "date":"2022-03-15",
 "total":2072
+},
+{
+"date":"2022-03-16",
+"total":2072
 }
 ],
 "package":"rdp_classifier",
@@ -729,7 +733,12 @@
 {
 "basename":"rdp_classifier-2.2-0.tar.bz2",
 "total":289
+}
+]
 },
+{
+"date":"2022-03-16",
+"downloads_per_basename":[
 {
 "basename":"rdp_classifier-2.2-1.tar.bz2",
 "total":1783

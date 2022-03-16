@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"vardict-2018.04.27-1.tar.bz2",
-"total":204
+"total":205
 },
 {
 "basename":"vardict-2018.04.27-pl5.22.0r3.4.1_0.tar.bz2",
@@ -194,6 +194,10 @@
 {
 "date":"2022-03-15",
 "total":801
+},
+{
+"date":"2022-03-16",
+"total":802
 }
 ],
 "package":"vardict",
@@ -256,6 +260,15 @@
 {
 "basename":"vardict-2018.04.27-pl5.22.0r3.4.1_0.tar.bz2",
 "total":597
+}
+]
+},
+{
+"date":"2022-03-16",
+"downloads_per_basename":[
+{
+"basename":"vardict-2018.04.27-1.tar.bz2",
+"total":205
 }
 ]
 }

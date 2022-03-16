@@ -198,6 +198,10 @@
 {
 "date":"2022-03-15",
 "total":4497
+},
+{
+"date":"2022-03-16",
+"total":4497
 }
 ],
 "package":"retry_decorator",
@@ -269,7 +273,12 @@
 {
 "basename":"retry_decorator-1.1.0-py35_0.tar.bz2",
 "total":381
+}
+]
 },
+{
+"date":"2022-03-16",
+"downloads_per_basename":[
 {
 "basename":"retry_decorator-1.1.0-py34_0.tar.bz2",
 "total":561

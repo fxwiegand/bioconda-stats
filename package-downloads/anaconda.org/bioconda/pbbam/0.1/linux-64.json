@@ -7,7 +7,7 @@
 },
 {
 "basename":"pbbam-0.1-boost1.60_0.tar.bz2",
-"total":473
+"total":474
 },
 {
 "basename":"pbbam-0.1-boost1.64_1.tar.bz2",
@@ -406,6 +406,10 @@
 {
 "date":"2022-03-15",
 "total":3040
+},
+{
+"date":"2022-03-16",
+"total":3041
 }
 ],
 "package":"pbbam",
@@ -597,6 +601,15 @@
 {
 "basename":"pbbam-0.1-boost1.61_1.tar.bz2",
 "total":558
+}
+]
+},
+{
+"date":"2022-03-16",
+"downloads_per_basename":[
+{
+"basename":"pbbam-0.1-boost1.60_0.tar.bz2",
+"total":474
 }
 ]
 }

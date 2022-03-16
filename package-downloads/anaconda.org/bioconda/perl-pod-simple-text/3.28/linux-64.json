@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-pod-simple-text-3.28-pl526_1.tar.bz2",
-"total":278
+"total":279
 },
 {
 "basename":"perl-pod-simple-text-3.28-pl5.22.0_0.tar.bz2",
@@ -214,6 +214,10 @@
 {
 "date":"2022-03-15",
 "total":751
+},
+{
+"date":"2022-03-16",
+"total":752
 }
 ],
 "package":"perl-pod-simple-text",
@@ -282,6 +286,15 @@
 {
 "basename":"perl-pod-simple-text-3.28-pl5.22.0_0.tar.bz2",
 "total":473
+}
+]
+},
+{
+"date":"2022-03-16",
+"downloads_per_basename":[
+{
+"basename":"perl-pod-simple-text-3.28-pl526_1.tar.bz2",
+"total":279
 }
 ]
 }

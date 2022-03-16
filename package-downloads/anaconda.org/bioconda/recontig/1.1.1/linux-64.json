@@ -15,7 +15,7 @@
 },
 {
 "basename":"recontig-1.1.1-py38h17613cd_0.tar.bz2",
-"total":62
+"total":63
 },
 {
 "basename":"recontig-1.1.1-py39hceff724_0.tar.bz2",
@@ -298,6 +298,10 @@
 {
 "date":"2022-03-15",
 "total":304
+},
+{
+"date":"2022-03-16",
+"total":305
 }
 ],
 "package":"recontig",
@@ -460,6 +464,15 @@
 {
 "basename":"recontig-1.1.1-py37h72a600a_0.tar.bz2",
 "total":61
+}
+]
+},
+{
+"date":"2022-03-16",
+"downloads_per_basename":[
+{
+"basename":"recontig-1.1.1-py38h17613cd_0.tar.bz2",
+"total":63
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-text-template-1.46-pl526_1.tar.bz2",
-"total":210
+"total":211
 },
 {
 "basename":"perl-text-template-1.46-pl5.22.0_0.tar.bz2",
@@ -278,6 +278,10 @@
 {
 "date":"2022-03-15",
 "total":952
+},
+{
+"date":"2022-03-16",
+"total":953
 }
 ],
 "package":"perl-text-template",
@@ -359,6 +363,15 @@
 {
 "basename":"perl-text-template-1.46-pl5.22.0_0.tar.bz2",
 "total":742
+}
+]
+},
+{
+"date":"2022-03-16",
+"downloads_per_basename":[
+{
+"basename":"perl-text-template-1.46-pl526_1.tar.bz2",
+"total":211
 }
 ]
 }

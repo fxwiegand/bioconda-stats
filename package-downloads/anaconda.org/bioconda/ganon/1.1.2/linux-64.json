@@ -27,7 +27,7 @@
 },
 {
 "basename":"ganon-1.1.2-py39h65541a6_1.tar.bz2",
-"total":54
+"total":56
 },
 {
 "basename":"ganon-1.1.2-py39h12f99d0_0.tar.bz2",
@@ -154,6 +154,10 @@
 {
 "date":"2022-03-15",
 "total":190
+},
+{
+"date":"2022-03-16",
+"total":192
 }
 ],
 "package":"ganon",
@@ -560,6 +564,15 @@
 {
 "basename":"ganon-1.1.2-py39h65541a6_1.tar.bz2",
 "total":54
+}
+]
+},
+{
+"date":"2022-03-16",
+"downloads_per_basename":[
+{
+"basename":"ganon-1.1.2-py39h65541a6_1.tar.bz2",
+"total":56
 }
 ]
 }

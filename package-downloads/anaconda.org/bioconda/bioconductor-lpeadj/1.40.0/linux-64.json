@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-lpeadj-1.40.0-r341_0.tar.bz2",
-"total":184
+"total":185
 },
 {
 "basename":"bioconductor-lpeadj-1.40.0-r351_0.tar.bz2",
@@ -214,6 +214,10 @@
 {
 "date":"2022-03-15",
 "total":502
+},
+{
+"date":"2022-03-16",
+"total":503
 }
 ],
 "package":"bioconductor-lpeadj",
@@ -280,6 +284,15 @@
 {
 "basename":"bioconductor-lpeadj-1.40.0-r351_0.tar.bz2",
 "total":318
+}
+]
+},
+{
+"date":"2022-03-16",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-lpeadj-1.40.0-r341_0.tar.bz2",
+"total":185
 }
 ]
 }

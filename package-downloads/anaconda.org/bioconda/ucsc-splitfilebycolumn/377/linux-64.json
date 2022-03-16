@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-splitfilebycolumn-377-ha8a8165_3.tar.bz2",
-"total":21
+"total":22
 },
 {
 "basename":"ucsc-splitfilebycolumn-377-h446ed27_1.tar.bz2",
@@ -474,6 +474,10 @@
 {
 "date":"2022-03-15",
 "total":336
+},
+{
+"date":"2022-03-16",
+"total":337
 }
 ],
 "package":"ucsc-splitfilebycolumn",
@@ -680,6 +684,15 @@
 {
 "basename":"ucsc-splitfilebycolumn-377-h446ed27_1.tar.bz2",
 "total":66
+}
+]
+},
+{
+"date":"2022-03-16",
+"downloads_per_basename":[
+{
+"basename":"ucsc-splitfilebycolumn-377-ha8a8165_3.tar.bz2",
+"total":22
 }
 ]
 }

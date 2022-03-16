@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-tie-hash-1.05-pl526_1.tar.bz2",
-"total":291
+"total":292
 },
 {
 "basename":"perl-tie-hash-1.05-pl5.22.0_0.tar.bz2",
@@ -206,6 +206,10 @@
 {
 "date":"2022-03-15",
 "total":754
+},
+{
+"date":"2022-03-16",
+"total":755
 }
 ],
 "package":"perl-tie-hash",
@@ -260,6 +264,15 @@
 {
 "basename":"perl-tie-hash-1.05-pl5.22.0_0.tar.bz2",
 "total":463
+}
+]
+},
+{
+"date":"2022-03-16",
+"downloads_per_basename":[
+{
+"basename":"perl-tie-hash-1.05-pl526_1.tar.bz2",
+"total":292
 }
 ]
 }

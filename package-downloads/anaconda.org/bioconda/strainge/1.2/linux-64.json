@@ -7,7 +7,7 @@
 },
 {
 "basename":"strainge-1.2-py39hcaef8bb_1.tar.bz2",
-"total":9
+"total":10
 },
 {
 "basename":"strainge-1.2-py38hf57257e_1.tar.bz2",
@@ -182,6 +182,10 @@
 {
 "date":"2022-03-15",
 "total":81
+},
+{
+"date":"2022-03-16",
+"total":82
 }
 ],
 "package":"strainge",
@@ -383,6 +387,15 @@
 {
 "basename":"strainge-1.2-py38h407f3b0_0.tar.bz2",
 "total":16
+}
+]
+},
+{
+"date":"2022-03-16",
+"downloads_per_basename":[
+{
+"basename":"strainge-1.2-py39hcaef8bb_1.tar.bz2",
+"total":10
 }
 ]
 }

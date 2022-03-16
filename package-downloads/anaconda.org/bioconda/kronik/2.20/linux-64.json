@@ -15,7 +15,7 @@
 },
 {
 "basename":"kronik-2.20-h2d50403_1.tar.bz2",
-"total":379
+"total":380
 },
 {
 "basename":"kronik-2.20-0.tar.bz2",
@@ -362,6 +362,10 @@
 {
 "date":"2022-03-15",
 "total":1219
+},
+{
+"date":"2022-03-16",
+"total":1220
 }
 ],
 "package":"kronik",
@@ -538,6 +542,15 @@
 {
 "basename":"kronik-2.20-0.tar.bz2",
 "total":643
+}
+]
+},
+{
+"date":"2022-03-16",
+"downloads_per_basename":[
+{
+"basename":"kronik-2.20-h2d50403_1.tar.bz2",
+"total":380
 }
 ]
 }

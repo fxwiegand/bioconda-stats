@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-module-build-tiny-0.039-pl526_3.tar.bz2",
-"total":447
+"total":449
 },
 {
 "basename":"perl-module-build-tiny-0.039-pl5.22.0_1.tar.bz2",
@@ -386,6 +386,10 @@
 {
 "date":"2022-03-15",
 "total":2222
+},
+{
+"date":"2022-03-16",
+"total":2224
 }
 ],
 "package":"perl-module-build-tiny",
@@ -575,6 +579,15 @@
 {
 "basename":"perl-module-build-tiny-0.039-pl526_2.tar.bz2",
 "total":215
+}
+]
+},
+{
+"date":"2022-03-16",
+"downloads_per_basename":[
+{
+"basename":"perl-module-build-tiny-0.039-pl526_3.tar.bz2",
+"total":449
 }
 ]
 }

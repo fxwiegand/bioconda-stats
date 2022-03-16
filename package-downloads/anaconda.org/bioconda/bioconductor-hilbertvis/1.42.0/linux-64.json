@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-hilbertvis-1.42.0-r36h516909a_1.tar.bz2",
-"total":122
+"total":124
 },
 {
 "basename":"bioconductor-hilbertvis-1.42.0-r351h14c3975_0.tar.bz2",
@@ -214,6 +214,10 @@
 {
 "date":"2022-03-15",
 "total":273
+},
+{
+"date":"2022-03-16",
+"total":275
 }
 ],
 "package":"bioconductor-hilbertvis",
@@ -267,6 +271,15 @@
 {
 "basename":"bioconductor-hilbertvis-1.42.0-r351h14c3975_0.tar.bz2",
 "total":151
+}
+]
+},
+{
+"date":"2022-03-16",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hilbertvis-1.42.0-r36h516909a_1.tar.bz2",
+"total":124
 }
 ]
 }

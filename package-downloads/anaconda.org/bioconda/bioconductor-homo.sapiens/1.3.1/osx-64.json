@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-homo.sapiens-1.3.1-r3.4.1_0.tar.bz2",
-"total":259
+"total":260
 },
 {
 "basename":"bioconductor-homo.sapiens-1.3.1-r3.4.1_1.tar.bz2",
@@ -718,6 +718,10 @@
 {
 "date":"2022-03-15",
 "total":2026
+},
+{
+"date":"2022-03-16",
+"total":2027
 }
 ],
 "package":"bioconductor-homo.sapiens",
@@ -750,6 +754,15 @@
 {
 "basename":"bioconductor-homo.sapiens-1.3.1-r3.4.1_1.tar.bz2",
 "total":1767
+}
+]
+},
+{
+"date":"2022-03-16",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-homo.sapiens-1.3.1-r3.4.1_0.tar.bz2",
+"total":260
 }
 ]
 }
