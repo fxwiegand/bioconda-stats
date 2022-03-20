@@ -7,7 +7,7 @@
 },
 {
 "basename":"pyteomics-3.5.1-py35_0.tar.bz2",
-"total":295
+"total":296
 },
 {
 "basename":"pyteomics-3.5.1-py36_0.tar.bz2",
@@ -758,6 +758,10 @@
 {
 "date":"2022-03-16",
 "total":2114
+},
+{
+"date":"2022-03-20",
+"total":2115
 }
 ],
 "package":"pyteomics",
@@ -813,6 +817,15 @@
 {
 "basename":"pyteomics-3.5.1-py35_0.tar.bz2",
 "total":295
+}
+]
+},
+{
+"date":"2022-03-20",
+"downloads_per_basename":[
+{
+"basename":"pyteomics-3.5.1-py35_0.tar.bz2",
+"total":296
 }
 ]
 }

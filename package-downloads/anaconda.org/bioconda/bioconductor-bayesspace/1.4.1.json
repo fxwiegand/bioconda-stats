@@ -40,6 +40,10 @@
 {
 "date":"2022-03-16",
 "total":52
+},
+{
+"date":"2022-03-20",
+"total":58
 }
 ],
 "downloads_per_subdir":[
@@ -49,7 +53,7 @@
 },
 {
 "subdir":"osx-64",
-"total":38
+"total":44
 }
 ],
 "package":"bioconductor-bayesspace",
@@ -161,6 +165,15 @@
 {
 "subdir":"osx-64",
 "total":38
+}
+]
+},
+{
+"date":"2022-03-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":44
 }
 ]
 }

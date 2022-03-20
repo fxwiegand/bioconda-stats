@@ -27,7 +27,7 @@
 },
 {
 "basename":"immuneml-2.1.2-py39ha492530_1.tar.bz2",
-"total":70
+"total":76
 }
 ],
 "downloads_per_date":[
@@ -134,6 +134,10 @@
 {
 "date":"2022-03-16",
 "total":127
+},
+{
+"date":"2022-03-20",
+"total":133
 }
 ],
 "package":"immuneml",
@@ -415,6 +419,15 @@
 {
 "basename":"immuneml-2.1.2-py39ha492530_1.tar.bz2",
 "total":70
+}
+]
+},
+{
+"date":"2022-03-20",
+"downloads_per_basename":[
+{
+"basename":"immuneml-2.1.2-py39ha492530_1.tar.bz2",
+"total":76
 }
 ]
 }

@@ -40,6 +40,10 @@
 {
 "date":"2022-03-16",
 "total":55
+},
+{
+"date":"2022-03-20",
+"total":63
 }
 ],
 "downloads_per_subdir":[
@@ -49,7 +53,7 @@
 },
 {
 "subdir":"osx-64",
-"total":42
+"total":50
 }
 ],
 "package":"bioconductor-rnaseqsamplesize",
@@ -157,6 +161,15 @@
 {
 "subdir":"osx-64",
 "total":42
+}
+]
+},
+{
+"date":"2022-03-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":50
 }
 ]
 }

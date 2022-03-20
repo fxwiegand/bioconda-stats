@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-hgbbidblink-357-1.tar.bz2",
-"total":328
+"total":329
 },
 {
 "basename":"ucsc-hgbbidblink-357-0.tar.bz2",
@@ -254,6 +254,10 @@
 {
 "date":"2022-03-16",
 "total":744
+},
+{
+"date":"2022-03-20",
+"total":745
 }
 ],
 "package":"ucsc-hgbbidblink",
@@ -343,6 +347,15 @@
 {
 "basename":"ucsc-hgbbidblink-357-1.tar.bz2",
 "total":328
+}
+]
+},
+{
+"date":"2022-03-20",
+"downloads_per_basename":[
+{
+"basename":"ucsc-hgbbidblink-357-1.tar.bz2",
+"total":329
 }
 ]
 }

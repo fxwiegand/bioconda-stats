@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-maftobigmaf-357-1.tar.bz2",
-"total":199
+"total":200
 },
 {
 "basename":"ucsc-maftobigmaf-357-0.tar.bz2",
@@ -246,6 +246,10 @@
 {
 "date":"2022-03-16",
 "total":760
+},
+{
+"date":"2022-03-20",
+"total":761
 }
 ],
 "package":"ucsc-maftobigmaf",
@@ -326,6 +330,15 @@
 {
 "basename":"ucsc-maftobigmaf-357-0.tar.bz2",
 "total":561
+}
+]
+},
+{
+"date":"2022-03-20",
+"downloads_per_basename":[
+{
+"basename":"ucsc-maftobigmaf-357-1.tar.bz2",
+"total":200
 }
 ]
 }

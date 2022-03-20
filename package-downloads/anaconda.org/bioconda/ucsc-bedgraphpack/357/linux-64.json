@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-bedgraphpack-357-0.tar.bz2",
-"total":430
+"total":431
 },
 {
 "basename":"ucsc-bedgraphpack-357-1.tar.bz2",
@@ -310,6 +310,10 @@
 {
 "date":"2022-03-16",
 "total":901
+},
+{
+"date":"2022-03-20",
+"total":902
 }
 ],
 "package":"ucsc-bedgraphpack",
@@ -422,6 +426,15 @@
 {
 "basename":"ucsc-bedgraphpack-357-1.tar.bz2",
 "total":471
+}
+]
+},
+{
+"date":"2022-03-20",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bedgraphpack-357-0.tar.bz2",
+"total":431
 }
 ]
 }

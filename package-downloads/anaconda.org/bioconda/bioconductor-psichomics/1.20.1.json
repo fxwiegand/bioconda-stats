@@ -40,6 +40,10 @@
 {
 "date":"2022-03-16",
 "total":59
+},
+{
+"date":"2022-03-20",
+"total":67
 }
 ],
 "downloads_per_subdir":[
@@ -49,7 +53,7 @@
 },
 {
 "subdir":"osx-64",
-"total":46
+"total":54
 }
 ],
 "package":"bioconductor-psichomics",
@@ -157,6 +161,15 @@
 {
 "subdir":"osx-64",
 "total":46
+}
+]
+},
+{
+"date":"2022-03-20",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":54
 }
 ]
 }

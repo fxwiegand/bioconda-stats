@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-pslcat-357-0.tar.bz2",
-"total":435
+"total":437
 },
 {
 "basename":"ucsc-pslcat-357-1.tar.bz2",
@@ -358,6 +358,10 @@
 {
 "date":"2022-03-16",
 "total":899
+},
+{
+"date":"2022-03-20",
+"total":901
 }
 ],
 "package":"ucsc-pslcat",
@@ -470,6 +474,15 @@
 {
 "basename":"ucsc-pslcat-357-1.tar.bz2",
 "total":464
+}
+]
+},
+{
+"date":"2022-03-20",
+"downloads_per_basename":[
+{
+"basename":"ucsc-pslcat-357-0.tar.bz2",
+"total":437
 }
 ]
 }

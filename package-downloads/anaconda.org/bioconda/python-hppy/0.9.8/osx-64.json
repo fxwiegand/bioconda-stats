@@ -810,6 +810,10 @@
 {
 "date":"2022-03-16",
 "total":1635
+},
+{
+"date":"2022-03-20",
+"total":1635
 }
 ],
 "package":"python-hppy",
@@ -895,6 +899,15 @@
 "date":"2022-03-16",
 "downloads_per_basename":[
 {
+"basename":"python-hppy-0.9.8-py27h01d97ff_1.tar.bz2",
+"total":26
+}
+]
+},
+{
+"date":"2022-03-20",
+"downloads_per_basename":[
+{
 "basename":"python-hppy-0.9.8-py27hf9ca5db_4.tar.bz2",
 "total":11
 },
@@ -921,10 +934,6 @@
 {
 "basename":"python-hppy-0.9.8-py36ha714b87_4.tar.bz2",
 "total":16
-},
-{
-"basename":"python-hppy-0.9.8-py27h01d97ff_1.tar.bz2",
-"total":26
 },
 {
 "basename":"python-hppy-0.9.8-py37hea0d0e9_3.tar.bz2",

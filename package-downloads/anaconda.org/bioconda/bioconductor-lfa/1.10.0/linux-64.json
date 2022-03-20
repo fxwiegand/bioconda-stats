@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-lfa-1.10.0-r351h470a237_0.tar.bz2",
-"total":242
+"total":243
 },
 {
 "basename":"bioconductor-lfa-1.10.0-r341h470a237_0.tar.bz2",
@@ -226,6 +226,10 @@
 {
 "date":"2022-03-16",
 "total":556
+},
+{
+"date":"2022-03-20",
+"total":557
 }
 ],
 "package":"bioconductor-lfa",
@@ -310,6 +314,15 @@
 {
 "basename":"bioconductor-lfa-1.10.0-r341h470a237_0.tar.bz2",
 "total":314
+}
+]
+},
+{
+"date":"2022-03-20",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-lfa-1.10.0-r351h470a237_0.tar.bz2",
+"total":243
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-script-1.29-pl5321hdfd78af_0.tar.bz2",
-"total":97
+"total":105
 }
 ],
 "downloads_per_date":[
@@ -114,6 +114,10 @@
 {
 "date":"2022-03-16",
 "total":97
+},
+{
+"date":"2022-03-20",
+"total":105
 }
 ],
 "package":"perl-test-script",
@@ -349,6 +353,15 @@
 {
 "basename":"perl-test-script-1.29-pl5321hdfd78af_0.tar.bz2",
 "total":97
+}
+]
+},
+{
+"date":"2022-03-20",
+"downloads_per_basename":[
+{
+"basename":"perl-test-script-1.29-pl5321hdfd78af_0.tar.bz2",
+"total":105
 }
 ]
 }
