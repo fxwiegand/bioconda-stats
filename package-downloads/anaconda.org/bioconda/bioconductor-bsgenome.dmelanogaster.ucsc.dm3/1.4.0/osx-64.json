@@ -31,7 +31,7 @@
 },
 {
 "basename":"bioconductor-bsgenome.dmelanogaster.ucsc.dm3-1.4.0-r351_4.tar.bz2",
-"total":1745
+"total":1746
 }
 ],
 "downloads_per_date":[
@@ -786,6 +786,10 @@
 {
 "date":"2022-03-20",
 "total":2745
+},
+{
+"date":"2022-03-24",
+"total":2746
 }
 ],
 "package":"bioconductor-bsgenome.dmelanogaster.ucsc.dm3",
@@ -873,6 +877,15 @@
 "date":"2022-03-20",
 "downloads_per_basename":[
 {
+"basename":"bioconductor-bsgenome.dmelanogaster.ucsc.dm3-1.4.0-r351_4.tar.bz2",
+"total":1745
+}
+]
+},
+{
+"date":"2022-03-24",
+"downloads_per_basename":[
+{
 "basename":"bioconductor-bsgenome.dmelanogaster.ucsc.dm3-1.4.0-r341_4.tar.bz2",
 "total":35
 },
@@ -882,7 +895,7 @@
 },
 {
 "basename":"bioconductor-bsgenome.dmelanogaster.ucsc.dm3-1.4.0-r351_4.tar.bz2",
-"total":1745
+"total":1746
 }
 ]
 }

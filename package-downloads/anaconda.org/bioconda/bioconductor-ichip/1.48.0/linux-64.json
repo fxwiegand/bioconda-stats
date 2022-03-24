@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-ichip-1.48.0-r41h5c21468_1.tar.bz2",
-"total":11
+"total":13
 },
 {
 "basename":"bioconductor-ichip-1.48.0-r41hd029910_0.tar.bz2",
@@ -142,6 +142,10 @@
 {
 "date":"2022-03-20",
 "total":42
+},
+{
+"date":"2022-03-24",
+"total":44
 }
 ],
 "package":"bioconductor-ichip",
@@ -214,6 +218,15 @@
 {
 "basename":"bioconductor-ichip-1.48.0-r41hd029910_0.tar.bz2",
 "total":31
+}
+]
+},
+{
+"date":"2022-03-24",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ichip-1.48.0-r41h5c21468_1.tar.bz2",
+"total":13
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-panp-1.46.0-r3.4.1_0.tar.bz2",
-"total":487
+"total":488
 },
 {
 "basename":"bioconductor-panp-1.46.0-r3.3.2_0.tar.bz2",
@@ -234,6 +234,10 @@
 {
 "date":"2022-03-20",
 "total":1069
+},
+{
+"date":"2022-03-24",
+"total":1070
 }
 ],
 "package":"bioconductor-panp",
@@ -322,6 +326,15 @@
 {
 "basename":"bioconductor-panp-1.46.0-r3.3.2_0.tar.bz2",
 "total":582
+}
+]
+},
+{
+"date":"2022-03-24",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-panp-1.46.0-r3.4.1_0.tar.bz2",
+"total":488
 }
 ]
 }

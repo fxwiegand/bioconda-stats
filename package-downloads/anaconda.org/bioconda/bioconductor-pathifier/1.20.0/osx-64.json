@@ -694,6 +694,10 @@
 {
 "date":"2022-03-20",
 "total":2029
+},
+{
+"date":"2022-03-24",
+"total":2029
 }
 ],
 "package":"bioconductor-pathifier",
@@ -713,7 +717,12 @@
 {
 "basename":"bioconductor-pathifier-1.20.0-r341_0.tar.bz2",
 "total":284
+}
+]
 },
+{
+"date":"2022-03-24",
+"downloads_per_basename":[
 {
 "basename":"bioconductor-pathifier-1.20.0-r351_0.tar.bz2",
 "total":1745

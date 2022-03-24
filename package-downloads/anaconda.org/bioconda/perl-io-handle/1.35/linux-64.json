@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-io-handle-1.35-pl526_1.tar.bz2",
-"total":209
+"total":210
 },
 {
 "basename":"perl-io-handle-1.35-pl5.22.0_0.tar.bz2",
@@ -186,6 +186,10 @@
 {
 "date":"2022-03-20",
 "total":830
+},
+{
+"date":"2022-03-24",
+"total":831
 }
 ],
 "package":"perl-io-handle",
@@ -248,6 +252,15 @@
 {
 "basename":"perl-io-handle-1.35-pl5.22.0_0.tar.bz2",
 "total":621
+}
+]
+},
+{
+"date":"2022-03-24",
+"downloads_per_basename":[
+{
+"basename":"perl-io-handle-1.35-pl526_1.tar.bz2",
+"total":210
 }
 ]
 }

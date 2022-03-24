@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"openms-2.8.0-hbc2a060_1.tar.bz2",
-"total":16
+"total":23
 },
 {
 "basename":"openms-2.8.0-hbc2a060_0.tar.bz2",
@@ -50,6 +50,10 @@
 {
 "date":"2022-03-20",
 "total":48
+},
+{
+"date":"2022-03-24",
+"total":55
 }
 ],
 "package":"openms",
@@ -145,6 +149,15 @@
 {
 "basename":"openms-2.8.0-hbc2a060_1.tar.bz2",
 "total":16
+}
+]
+},
+{
+"date":"2022-03-24",
+"downloads_per_basename":[
+{
+"basename":"openms-2.8.0-hbc2a060_1.tar.bz2",
+"total":23
 }
 ]
 }

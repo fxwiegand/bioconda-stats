@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-sim-1.52.0-r351h14c3975_1.tar.bz2",
-"total":158
+"total":159
 },
 {
 "basename":"bioconductor-sim-1.52.0-r351h14c3975_0.tar.bz2",
@@ -286,6 +286,10 @@
 {
 "date":"2022-03-20",
 "total":323
+},
+{
+"date":"2022-03-24",
+"total":324
 }
 ],
 "package":"bioconductor-sim",
@@ -371,6 +375,15 @@
 {
 "basename":"bioconductor-sim-1.52.0-r351h14c3975_0.tar.bz2",
 "total":165
+}
+]
+},
+{
+"date":"2022-03-24",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-sim-1.52.0-r351h14c3975_1.tar.bz2",
+"total":159
 }
 ]
 }

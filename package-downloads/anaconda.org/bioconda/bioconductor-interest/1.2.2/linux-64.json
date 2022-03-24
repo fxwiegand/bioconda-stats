@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-interest-1.2.2-1.tar.bz2",
-"total":384
+"total":385
 }
 ],
 "downloads_per_date":[
@@ -286,6 +286,10 @@
 {
 "date":"2022-03-20",
 "total":384
+},
+{
+"date":"2022-03-24",
+"total":385
 }
 ],
 "package":"bioconductor-interest",
@@ -350,6 +354,15 @@
 {
 "basename":"bioconductor-interest-1.2.2-1.tar.bz2",
 "total":384
+}
+]
+},
+{
+"date":"2022-03-24",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-interest-1.2.2-1.tar.bz2",
+"total":385
 }
 ]
 }

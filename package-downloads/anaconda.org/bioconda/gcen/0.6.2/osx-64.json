@@ -7,7 +7,7 @@
 },
 {
 "basename":"gcen-0.6.2-hcd10b59_1.tar.bz2",
-"total":64
+"total":72
 }
 ],
 "downloads_per_date":[
@@ -90,6 +90,10 @@
 {
 "date":"2022-03-20",
 "total":97
+},
+{
+"date":"2022-03-24",
+"total":105
 }
 ],
 "package":"gcen",
@@ -275,6 +279,15 @@
 {
 "basename":"gcen-0.6.2-hcd10b59_1.tar.bz2",
 "total":64
+}
+]
+},
+{
+"date":"2022-03-24",
+"downloads_per_basename":[
+{
+"basename":"gcen-0.6.2-hcd10b59_1.tar.bz2",
+"total":72
 }
 ]
 }

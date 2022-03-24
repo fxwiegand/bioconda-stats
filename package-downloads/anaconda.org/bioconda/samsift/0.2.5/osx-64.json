@@ -718,6 +718,10 @@
 {
 "date":"2022-03-20",
 "total":2199
+},
+{
+"date":"2022-03-24",
+"total":2199
 }
 ],
 "package":"samsift",
@@ -733,6 +737,15 @@
 },
 {
 "date":"2022-03-20",
+"downloads_per_basename":[
+{
+"basename":"samsift-0.2.5-py37_2.tar.bz2",
+"total":1747
+}
+]
+},
+{
+"date":"2022-03-24",
 "downloads_per_basename":[
 {
 "basename":"samsift-0.2.5-py35_1.tar.bz2",
@@ -753,10 +766,6 @@
 {
 "basename":"samsift-0.2.5-py36_0.tar.bz2",
 "total":187
-},
-{
-"basename":"samsift-0.2.5-py37_2.tar.bz2",
-"total":1747
 }
 ]
 }

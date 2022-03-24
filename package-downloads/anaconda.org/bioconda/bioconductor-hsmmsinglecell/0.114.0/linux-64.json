@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-hsmmsinglecell-0.114.0-r341_0.tar.bz2",
-"total":248
+"total":249
 },
 {
 "basename":"bioconductor-hsmmsinglecell-0.114.0-r351_0.tar.bz2",
@@ -258,6 +258,10 @@
 {
 "date":"2022-03-20",
 "total":648
+},
+{
+"date":"2022-03-24",
+"total":649
 }
 ],
 "package":"bioconductor-hsmmsinglecell",
@@ -333,6 +337,15 @@
 {
 "basename":"bioconductor-hsmmsinglecell-0.114.0-r351_0.tar.bz2",
 "total":400
+}
+]
+},
+{
+"date":"2022-03-24",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hsmmsinglecell-0.114.0-r341_0.tar.bz2",
+"total":249
 }
 ]
 }

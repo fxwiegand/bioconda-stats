@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"snakemake-6.15.0-hdfd78af_0.tar.bz2",
-"total":140
+"total":146
 }
 ],
 "downloads_per_date":[
@@ -134,6 +134,10 @@
 {
 "date":"2022-03-20",
 "total":140
+},
+{
+"date":"2022-03-24",
+"total":146
 }
 ],
 "package":"snakemake",
@@ -387,6 +391,15 @@
 {
 "basename":"snakemake-6.15.0-hdfd78af_0.tar.bz2",
 "total":140
+}
+]
+},
+{
+"date":"2022-03-24",
+"downloads_per_basename":[
+{
+"basename":"snakemake-6.15.0-hdfd78af_0.tar.bz2",
+"total":146
 }
 ]
 }

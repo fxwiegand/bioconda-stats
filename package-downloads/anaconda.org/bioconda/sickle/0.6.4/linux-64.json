@@ -7,7 +7,7 @@
 },
 {
 "basename":"sickle-0.6.4-py27_0.tar.bz2",
-"total":619
+"total":620
 },
 {
 "basename":"sickle-0.6.4-py36_0.tar.bz2",
@@ -830,6 +830,10 @@
 {
 "date":"2022-03-20",
 "total":2999
+},
+{
+"date":"2022-03-24",
+"total":3000
 }
 ],
 "package":"sickle",
@@ -941,6 +945,15 @@
 {
 "basename":"sickle-0.6.4-py36_0.tar.bz2",
 "total":2242
+}
+]
+},
+{
+"date":"2022-03-24",
+"downloads_per_basename":[
+{
+"basename":"sickle-0.6.4-py27_0.tar.bz2",
+"total":620
 }
 ]
 }

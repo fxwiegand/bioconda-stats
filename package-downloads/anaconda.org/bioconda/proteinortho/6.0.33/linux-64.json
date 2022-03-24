@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"proteinortho-6.0.33-h3dcaab5_1.tar.bz2",
-"total":47
+"total":64
 },
 {
 "basename":"proteinortho-6.0.33-hb0e25da_0.tar.bz2",
@@ -162,6 +162,10 @@
 {
 "date":"2022-03-20",
 "total":132
+},
+{
+"date":"2022-03-24",
+"total":149
 }
 ],
 "package":"proteinortho",
@@ -472,6 +476,15 @@
 {
 "basename":"proteinortho-6.0.33-hb0e25da_0.tar.bz2",
 "total":85
+}
+]
+},
+{
+"date":"2022-03-24",
+"downloads_per_basename":[
+{
+"basename":"proteinortho-6.0.33-h3dcaab5_1.tar.bz2",
+"total":64
 }
 ]
 }

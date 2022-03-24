@@ -7,7 +7,7 @@
 },
 {
 "basename":"ibdne-04Sep15.e78-1.tar.bz2",
-"total":1972
+"total":1973
 }
 ],
 "downloads_per_date":[
@@ -726,6 +726,10 @@
 {
 "date":"2022-03-20",
 "total":2024
+},
+{
+"date":"2022-03-24",
+"total":2025
 }
 ],
 "package":"ibdne",
@@ -749,11 +753,15 @@
 ]
 },
 {
-"date":"2022-03-20",
+"date":"2022-03-24",
 "downloads_per_basename":[
 {
 "basename":"ibdne-04Sep15.e78-0.tar.bz2",
 "total":52
+},
+{
+"basename":"ibdne-04Sep15.e78-1.tar.bz2",
+"total":1973
 }
 ]
 }

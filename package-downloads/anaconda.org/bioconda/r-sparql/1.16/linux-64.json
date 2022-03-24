@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-sparql-1.16-r3.3.2_0.tar.bz2",
-"total":749
+"total":750
 }
 ],
 "downloads_per_date":[
@@ -214,6 +214,10 @@
 {
 "date":"2022-03-20",
 "total":2060
+},
+{
+"date":"2022-03-24",
+"total":2061
 }
 ],
 "package":"r-sparql",
@@ -281,6 +285,15 @@
 {
 "basename":"r-sparql-1.16-r3.2.2_0.tar.bz2",
 "total":718
+}
+]
+},
+{
+"date":"2022-03-24",
+"downloads_per_basename":[
+{
+"basename":"r-sparql-1.16-r3.3.2_0.tar.bz2",
+"total":750
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ncbi-vdb-3.0.0-pl5321h9722bc1_0.tar.bz2",
-"total":93
+"total":100
 }
 ],
 "downloads_per_date":[
@@ -42,6 +42,10 @@
 {
 "date":"2022-03-20",
 "total":93
+},
+{
+"date":"2022-03-24",
+"total":100
 }
 ],
 "package":"ncbi-vdb",
@@ -124,6 +128,15 @@
 {
 "basename":"ncbi-vdb-3.0.0-pl5321h9722bc1_0.tar.bz2",
 "total":93
+}
+]
+},
+{
+"date":"2022-03-24",
+"downloads_per_basename":[
+{
+"basename":"ncbi-vdb-3.0.0-pl5321h9722bc1_0.tar.bz2",
+"total":100
 }
 ]
 }

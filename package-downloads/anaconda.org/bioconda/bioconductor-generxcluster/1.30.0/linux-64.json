@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-generxcluster-1.30.0-r41h5c21468_1.tar.bz2",
-"total":14
+"total":15
 },
 {
 "basename":"bioconductor-generxcluster-1.30.0-r41hd029910_0.tar.bz2",
@@ -134,6 +134,10 @@
 {
 "date":"2022-03-20",
 "total":42
+},
+{
+"date":"2022-03-24",
+"total":43
 }
 ],
 "package":"bioconductor-generxcluster",
@@ -206,6 +210,15 @@
 {
 "basename":"bioconductor-generxcluster-1.30.0-r41hd029910_0.tar.bz2",
 "total":28
+}
+]
+},
+{
+"date":"2022-03-24",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-generxcluster-1.30.0-r41h5c21468_1.tar.bz2",
+"total":15
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-sort-versions-1.62-pl526_1.tar.bz2",
-"total":213
+"total":214
 },
 {
 "basename":"perl-sort-versions-1.62-pl526_2.tar.bz2",
@@ -342,6 +342,10 @@
 {
 "date":"2022-03-20",
 "total":1563
+},
+{
+"date":"2022-03-24",
+"total":1564
 }
 ],
 "package":"perl-sort-versions",
@@ -470,6 +474,15 @@
 {
 "basename":"perl-sort-versions-1.62-pl526_2.tar.bz2",
 "total":448
+}
+]
+},
+{
+"date":"2022-03-24",
+"downloads_per_basename":[
+{
+"basename":"perl-sort-versions-1.62-pl526_1.tar.bz2",
+"total":214
 }
 ]
 }

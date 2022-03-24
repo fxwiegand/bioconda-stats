@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"gofasta-1.0.0-h9ee0642_0.tar.bz2",
-"total":17275
+"total":17845
 }
 ],
 "downloads_per_date":[
@@ -142,6 +142,10 @@
 {
 "date":"2022-03-20",
 "total":17275
+},
+{
+"date":"2022-03-24",
+"total":17845
 }
 ],
 "package":"gofasta",
@@ -449,6 +453,15 @@
 {
 "basename":"gofasta-1.0.0-h9ee0642_0.tar.bz2",
 "total":17275
+}
+]
+},
+{
+"date":"2022-03-24",
+"downloads_per_basename":[
+{
+"basename":"gofasta-1.0.0-h9ee0642_0.tar.bz2",
+"total":17845
 }
 ]
 }

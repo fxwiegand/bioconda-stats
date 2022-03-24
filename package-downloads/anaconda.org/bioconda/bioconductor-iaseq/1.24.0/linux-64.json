@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-iaseq-1.24.0-r351_0.tar.bz2",
-"total":188
+"total":189
 },
 {
 "basename":"bioconductor-iaseq-1.24.0-r341_0.tar.bz2",
@@ -218,6 +218,10 @@
 {
 "date":"2022-03-20",
 "total":499
+},
+{
+"date":"2022-03-24",
+"total":500
 }
 ],
 "package":"bioconductor-iaseq",
@@ -285,6 +289,15 @@
 {
 "basename":"bioconductor-iaseq-1.24.0-r341_0.tar.bz2",
 "total":311
+}
+]
+},
+{
+"date":"2022-03-24",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-iaseq-1.24.0-r351_0.tar.bz2",
+"total":189
 }
 ]
 }

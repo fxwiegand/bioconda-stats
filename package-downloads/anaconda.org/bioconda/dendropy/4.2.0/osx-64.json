@@ -7,7 +7,7 @@
 },
 {
 "basename":"dendropy-4.2.0-py35_0.tar.bz2",
-"total":312
+"total":313
 },
 {
 "basename":"dendropy-4.2.0-py36_0.tar.bz2",
@@ -762,6 +762,10 @@
 {
 "date":"2022-03-20",
 "total":2536
+},
+{
+"date":"2022-03-24",
+"total":2537
 }
 ],
 "package":"dendropy",
@@ -855,6 +859,15 @@
 {
 "basename":"dendropy-4.2.0-py36_0.tar.bz2",
 "total":2030
+}
+]
+},
+{
+"date":"2022-03-24",
+"downloads_per_basename":[
+{
+"basename":"dendropy-4.2.0-py35_0.tar.bz2",
+"total":313
 }
 ]
 }

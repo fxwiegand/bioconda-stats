@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-snm-1.28.0-r341_0.tar.bz2",
-"total":170
+"total":172
 },
 {
 "basename":"bioconductor-snm-1.28.0-r351_0.tar.bz2",
@@ -242,6 +242,10 @@
 {
 "date":"2022-03-20",
 "total":465
+},
+{
+"date":"2022-03-24",
+"total":467
 }
 ],
 "package":"bioconductor-snm",
@@ -308,6 +312,15 @@
 {
 "basename":"bioconductor-snm-1.28.0-r351_0.tar.bz2",
 "total":295
+}
+]
+},
+{
+"date":"2022-03-24",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-snm-1.28.0-r341_0.tar.bz2",
+"total":172
 }
 ]
 }

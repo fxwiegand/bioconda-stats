@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-splicegear-1.52.0-r341_0.tar.bz2",
-"total":185
+"total":186
 },
 {
 "basename":"bioconductor-splicegear-1.52.0-r351_0.tar.bz2",
@@ -270,6 +270,10 @@
 {
 "date":"2022-03-20",
 "total":501
+},
+{
+"date":"2022-03-24",
+"total":502
 }
 ],
 "package":"bioconductor-splicegear",
@@ -354,6 +358,15 @@
 {
 "basename":"bioconductor-splicegear-1.52.0-r351_0.tar.bz2",
 "total":316
+}
+]
+},
+{
+"date":"2022-03-24",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-splicegear-1.52.0-r341_0.tar.bz2",
+"total":186
 }
 ]
 }
