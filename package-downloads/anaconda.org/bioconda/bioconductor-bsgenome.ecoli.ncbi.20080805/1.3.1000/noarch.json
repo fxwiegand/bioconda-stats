@@ -31,7 +31,7 @@
 },
 {
 "basename":"bioconductor-bsgenome.ecoli.ncbi.20080805-1.3.1000-r41hdfd78af_13.tar.bz2",
-"total":256
+"total":258
 }
 ],
 "downloads_per_date":[
@@ -1042,6 +1042,10 @@
 {
 "date":"2022-03-24",
 "total":975
+},
+{
+"date":"2022-03-25",
+"total":977
 }
 ],
 "package":"bioconductor-bsgenome.ecoli.ncbi.20080805",
@@ -1506,6 +1510,15 @@
 {
 "basename":"bioconductor-bsgenome.ecoli.ncbi.20080805-1.3.1000-r41hdfd78af_13.tar.bz2",
 "total":256
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bsgenome.ecoli.ncbi.20080805-1.3.1000-r41hdfd78af_13.tar.bz2",
+"total":258
 }
 ]
 }

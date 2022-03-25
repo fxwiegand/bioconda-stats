@@ -7,7 +7,7 @@
 },
 {
 "basename":"medaka-1.2.2-py37hfa49649_0.tar.bz2",
-"total":354
+"total":355
 },
 {
 "basename":"medaka-1.2.2-py38h64b100c_0.tar.bz2",
@@ -1138,6 +1138,10 @@
 {
 "date":"2022-03-24",
 "total":1793
+},
+{
+"date":"2022-03-25",
+"total":1794
 }
 ],
 "package":"medaka",
@@ -1561,6 +1565,15 @@
 {
 "basename":"medaka-1.2.2-py38h64b100c_0.tar.bz2",
 "total":1307
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"medaka-1.2.2-py37hfa49649_0.tar.bz2",
+"total":355
 }
 ]
 }

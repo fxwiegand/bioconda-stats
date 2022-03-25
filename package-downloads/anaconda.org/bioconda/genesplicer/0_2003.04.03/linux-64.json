@@ -15,7 +15,7 @@
 },
 {
 "basename":"genesplicer-0_2003.04.03-hc9558a2_2.tar.bz2",
-"total":1177
+"total":1179
 },
 {
 "basename":"genesplicer-0_2003.04.03-h2d50403_1.tar.bz2",
@@ -1146,6 +1146,10 @@
 {
 "date":"2022-03-24",
 "total":3369
+},
+{
+"date":"2022-03-25",
+"total":3371
 }
 ],
 "package":"genesplicer",
@@ -1598,6 +1602,15 @@
 {
 "basename":"genesplicer-0_2003.04.03-h2d50403_1.tar.bz2",
 "total":1224
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"genesplicer-0_2003.04.03-hc9558a2_2.tar.bz2",
+"total":1179
 }
 ]
 }

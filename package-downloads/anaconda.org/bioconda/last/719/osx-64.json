@@ -1150,6 +1150,10 @@
 {
 "date":"2022-03-24",
 "total":3464
+},
+{
+"date":"2022-03-25",
+"total":3464
 }
 ],
 "package":"last",
@@ -1463,6 +1467,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"last-719-py35_2.tar.bz2",
+"total":2414
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"last-719-py34_1.tar.bz2",
 "total":56
 },
@@ -1477,10 +1490,6 @@
 {
 "basename":"last-719-py27_2.tar.bz2",
 "total":305
-},
-{
-"basename":"last-719-py35_2.tar.bz2",
-"total":2414
 }
 ]
 }

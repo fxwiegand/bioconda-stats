@@ -11,7 +11,7 @@
 },
 {
 "basename":"iced-0.4.2-py36h2d50403_0.tar.bz2",
-"total":2129
+"total":2131
 }
 ],
 "downloads_per_date":[
@@ -1138,6 +1138,10 @@
 {
 "date":"2022-03-24",
 "total":2439
+},
+{
+"date":"2022-03-25",
+"total":2441
 }
 ],
 "package":"iced",
@@ -1479,6 +1483,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"iced-0.4.2-py36h2d50403_0.tar.bz2",
+"total":2129
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"iced-0.4.2-py35h2d50403_0.tar.bz2",
 "total":37
 },
@@ -1488,7 +1501,7 @@
 },
 {
 "basename":"iced-0.4.2-py36h2d50403_0.tar.bz2",
-"total":2129
+"total":2131
 }
 ]
 }

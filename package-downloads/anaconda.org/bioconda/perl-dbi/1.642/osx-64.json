@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-dbi-1.642-pl526_0.tar.bz2",
-"total":7945
+"total":7947
 }
 ],
 "downloads_per_date":[
@@ -1134,6 +1134,10 @@
 {
 "date":"2022-03-24",
 "total":8021
+},
+{
+"date":"2022-03-25",
+"total":8023
 }
 ],
 "package":"perl-dbi",
@@ -1549,6 +1553,15 @@
 {
 "basename":"perl-dbi-1.642-pl526_0.tar.bz2",
 "total":7945
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"perl-dbi-1.642-pl526_0.tar.bz2",
+"total":7947
 }
 ]
 }

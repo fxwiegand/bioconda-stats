@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-bh-1.60.0_2-r3.3.1_0.tar.bz2",
-"total":8069
+"total":8070
 },
 {
 "basename":"r-bh-1.60.0_2-r3.3.2_0.tar.bz2",
@@ -1114,6 +1114,10 @@
 {
 "date":"2022-03-24",
 "total":29290
+},
+{
+"date":"2022-03-25",
+"total":29291
 }
 ],
 "package":"r-bh",
@@ -1556,6 +1560,15 @@
 {
 "basename":"r-bh-1.60.0_2-r3.3.2_0.tar.bz2",
 "total":13378
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"r-bh-1.60.0_2-r3.3.1_0.tar.bz2",
+"total":8070
 }
 ]
 }

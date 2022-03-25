@@ -11,7 +11,7 @@
 },
 {
 "basename":"mauve-2.4.0.snapshot_2015_02_13-hdfd78af_4.tar.bz2",
-"total":785
+"total":788
 },
 {
 "basename":"mauve-2.4.0.snapshot_2015_02_13-h2688d6d_2.tar.bz2",
@@ -1138,6 +1138,10 @@
 {
 "date":"2022-03-24",
 "total":3580
+},
+{
+"date":"2022-03-25",
+"total":3583
 }
 ],
 "package":"mauve",
@@ -1679,6 +1683,15 @@
 {
 "basename":"mauve-2.4.0.snapshot_2015_02_13-h2688d6d_1.tar.bz2",
 "total":1104
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"mauve-2.4.0.snapshot_2015_02_13-hdfd78af_4.tar.bz2",
+"total":788
 }
 ]
 }

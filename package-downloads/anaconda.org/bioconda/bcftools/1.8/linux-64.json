@@ -15,7 +15,7 @@
 },
 {
 "basename":"bcftools-1.8-h4da6232_3.tar.bz2",
-"total":27225
+"total":27230
 }
 ],
 "downloads_per_date":[
@@ -1142,6 +1142,10 @@
 {
 "date":"2022-03-24",
 "total":42411
+},
+{
+"date":"2022-03-25",
+"total":42416
 }
 ],
 "package":"bcftools",
@@ -1691,6 +1695,15 @@
 {
 "basename":"bcftools-1.8-h4da6232_3.tar.bz2",
 "total":27225
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"bcftools-1.8-h4da6232_3.tar.bz2",
+"total":27230
 }
 ]
 }

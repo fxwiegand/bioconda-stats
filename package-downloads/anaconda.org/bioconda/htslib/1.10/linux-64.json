@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"htslib-1.10-h244ad75_0.tar.bz2",
-"total":692
+"total":694
 },
 {
 "basename":"htslib-1.10-h78d89cc_1.tar.bz2",
@@ -1082,6 +1082,10 @@
 {
 "date":"2022-03-24",
 "total":6365
+},
+{
+"date":"2022-03-25",
+"total":6367
 }
 ],
 "package":"htslib",
@@ -1583,6 +1587,15 @@
 {
 "basename":"htslib-1.10-h78d89cc_1.tar.bz2",
 "total":5673
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"htslib-1.10-h244ad75_0.tar.bz2",
+"total":694
 }
 ]
 }

@@ -15,7 +15,7 @@
 },
 {
 "basename":"batvi-1.04-hfd59bb5_6.tar.bz2",
-"total":709
+"total":711
 },
 {
 "basename":"batvi-1.04-condha92aebf.tar.bz2",
@@ -1146,6 +1146,10 @@
 {
 "date":"2022-03-24",
 "total":2427
+},
+{
+"date":"2022-03-25",
+"total":2429
 }
 ],
 "package":"batvi",
@@ -1520,6 +1524,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"batvi-1.04-hfd59bb5_6.tar.bz2",
+"total":709
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"batvi-1.04-cond.tar.bz2",
 "total":25
 },
@@ -1529,7 +1542,7 @@
 },
 {
 "basename":"batvi-1.04-hfd59bb5_6.tar.bz2",
-"total":709
+"total":711
 }
 ]
 }

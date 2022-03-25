@@ -1124,6 +1124,10 @@
 {
 "date":"2022-03-24",
 "total":19464
+},
+{
+"date":"2022-03-25",
+"total":19474
 }
 ],
 "downloads_per_subdir":[
@@ -1133,7 +1137,7 @@
 },
 {
 "subdir":"linux-64",
-"total":13373
+"total":13383
 }
 ],
 "package":"perl-graphviz",
@@ -1623,6 +1627,15 @@
 {
 "subdir":"linux-64",
 "total":13373
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":13383
 }
 ]
 }

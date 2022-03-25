@@ -7,7 +7,7 @@
 },
 {
 "basename":"gatk4-4.2.2.0-hdfd78af_1.tar.bz2",
-"total":3009
+"total":3011
 }
 ],
 "downloads_per_date":[
@@ -790,6 +790,10 @@
 {
 "date":"2022-03-24",
 "total":4322
+},
+{
+"date":"2022-03-25",
+"total":4324
 }
 ],
 "package":"gatk4",
@@ -1183,6 +1187,15 @@
 {
 "basename":"gatk4-4.2.2.0-hdfd78af_1.tar.bz2",
 "total":3009
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"gatk4-4.2.2.0-hdfd78af_1.tar.bz2",
+"total":3011
 }
 ]
 }

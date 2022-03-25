@@ -11,7 +11,7 @@
 },
 {
 "basename":"preseq-2.0.3-hc216eb9_5.tar.bz2",
-"total":3632
+"total":3634
 },
 {
 "basename":"preseq-2.0.3-hf53bd2b_3.tar.bz2",
@@ -1126,6 +1126,10 @@
 {
 "date":"2022-03-24",
 "total":22130
+},
+{
+"date":"2022-03-25",
+"total":22132
 }
 ],
 "package":"preseq",
@@ -1721,6 +1725,15 @@
 {
 "basename":"preseq-2.0.3-gsl2.2_1.tar.bz2",
 "total":6922
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"preseq-2.0.3-hc216eb9_5.tar.bz2",
+"total":3634
 }
 ]
 }

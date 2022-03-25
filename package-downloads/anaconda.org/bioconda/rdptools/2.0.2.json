@@ -1124,6 +1124,10 @@
 {
 "date":"2022-03-24",
 "total":8229
+},
+{
+"date":"2022-03-25",
+"total":8231
 }
 ],
 "downloads_per_subdir":[
@@ -1133,7 +1137,7 @@
 },
 {
 "subdir":"noarch",
-"total":2458
+"total":2460
 },
 {
 "subdir":"linux-64",
@@ -1570,6 +1574,15 @@
 {
 "subdir":"linux-64",
 "total":3363
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"noarch",
+"total":2460
 }
 ]
 }

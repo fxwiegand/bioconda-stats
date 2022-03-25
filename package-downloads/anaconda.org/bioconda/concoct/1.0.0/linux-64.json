@@ -67,7 +67,7 @@
 },
 {
 "basename":"concoct-1.0.0-py27h88e4a8a_5.tar.bz2",
-"total":1398
+"total":1405
 },
 {
 "basename":"concoct-1.0.0-py37h88e4a8a_5.tar.bz2",
@@ -1194,6 +1194,10 @@
 {
 "date":"2022-03-24",
 "total":7551
+},
+{
+"date":"2022-03-25",
+"total":7558
 }
 ],
 "package":"concoct",
@@ -2111,6 +2115,15 @@
 {
 "basename":"concoct-1.0.0-py37h88e4a8a_5.tar.bz2",
 "total":1950
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"concoct-1.0.0-py27h88e4a8a_5.tar.bz2",
+"total":1405
 }
 ]
 }

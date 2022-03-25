@@ -67,7 +67,7 @@
 },
 {
 "basename":"cesm-2.1.3-py39pl5321hab58d13_6.tar.bz2",
-"total":120
+"total":122
 },
 {
 "basename":"cesm-2.1.3-py38h435221e_0.tar.bz2",
@@ -1206,6 +1206,10 @@
 {
 "date":"2022-03-24",
 "total":2872
+},
+{
+"date":"2022-03-25",
+"total":2874
 }
 ],
 "package":"cesm",
@@ -2093,6 +2097,15 @@
 {
 "basename":"cesm-2.1.3-py39pl5262hab58d13_5.tar.bz2",
 "total":709
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"cesm-2.1.3-py39pl5321hab58d13_6.tar.bz2",
+"total":122
 }
 ]
 }

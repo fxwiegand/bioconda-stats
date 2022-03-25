@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"salmon-1.4.0-h84f40af_1.tar.bz2",
-"total":2384
+"total":2385
 },
 {
 "basename":"salmon-1.4.0-hf69c8f4_0.tar.bz2",
@@ -1118,6 +1118,10 @@
 {
 "date":"2022-03-24",
 "total":7989
+},
+{
+"date":"2022-03-25",
+"total":7990
 }
 ],
 "package":"salmon",
@@ -1509,6 +1513,15 @@
 {
 "basename":"salmon-1.4.0-hf69c8f4_0.tar.bz2",
 "total":5605
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"salmon-1.4.0-h84f40af_1.tar.bz2",
+"total":2385
 }
 ]
 }

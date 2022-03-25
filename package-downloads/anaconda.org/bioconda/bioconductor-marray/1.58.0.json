@@ -1124,6 +1124,10 @@
 {
 "date":"2022-03-24",
 "total":3333
+},
+{
+"date":"2022-03-25",
+"total":3335
 }
 ],
 "downloads_per_subdir":[
@@ -1133,7 +1137,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2481
+"total":2483
 }
 ],
 "package":"bioconductor-marray",
@@ -1522,6 +1526,15 @@
 {
 "subdir":"osx-64",
 "total":2481
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2483
 }
 ]
 }

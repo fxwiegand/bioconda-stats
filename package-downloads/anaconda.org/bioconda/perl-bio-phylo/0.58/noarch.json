@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-bio-phylo-0.58-pl5262hdfd78af_3.tar.bz2",
-"total":9376
+"total":9400
 },
 {
 "basename":"perl-bio-phylo-0.58-pl526_2.tar.bz2",
@@ -1138,6 +1138,10 @@
 {
 "date":"2022-03-24",
 "total":43213
+},
+{
+"date":"2022-03-25",
+"total":43237
 }
 ],
 "package":"perl-bio-phylo",
@@ -1727,6 +1731,15 @@
 {
 "basename":"perl-bio-phylo-0.58-pl526_2.tar.bz2",
 "total":33664
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"perl-bio-phylo-0.58-pl5262hdfd78af_3.tar.bz2",
+"total":9400
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-qvalue-2.16.0-r351_0.tar.bz2",
-"total":818
+"total":822
 },
 {
 "basename":"bioconductor-qvalue-2.16.0-r36_1.tar.bz2",
@@ -1126,6 +1126,10 @@
 {
 "date":"2022-03-24",
 "total":4524
+},
+{
+"date":"2022-03-25",
+"total":4528
 }
 ],
 "package":"bioconductor-qvalue",
@@ -1611,6 +1615,15 @@
 {
 "basename":"bioconductor-qvalue-2.16.0-r36_1.tar.bz2",
 "total":3706
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-qvalue-2.16.0-r351_0.tar.bz2",
+"total":822
 }
 ]
 }

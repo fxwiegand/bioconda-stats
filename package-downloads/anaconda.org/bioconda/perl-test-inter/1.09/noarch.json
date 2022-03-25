@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-inter-1.09-pl5321hdfd78af_1.tar.bz2",
-"total":128
+"total":129
 }
 ],
 "downloads_per_date":[
@@ -142,6 +142,10 @@
 {
 "date":"2022-03-24",
 "total":128
+},
+{
+"date":"2022-03-25",
+"total":129
 }
 ],
 "package":"perl-test-inter",
@@ -431,6 +435,15 @@
 {
 "basename":"perl-test-inter-1.09-pl5321hdfd78af_1.tar.bz2",
 "total":128
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"perl-test-inter-1.09-pl5321hdfd78af_1.tar.bz2",
+"total":129
 }
 ]
 }

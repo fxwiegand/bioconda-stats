@@ -1112,6 +1112,10 @@
 {
 "date":"2022-03-24",
 "total":14079
+},
+{
+"date":"2022-03-25",
+"total":14081
 }
 ],
 "downloads_per_subdir":[
@@ -1121,7 +1125,7 @@
 },
 {
 "subdir":"linux-64",
-"total":12030
+"total":12032
 }
 ],
 "package":"bioconductor-biocparallel",
@@ -1570,6 +1574,15 @@
 {
 "subdir":"linux-64",
 "total":12030
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":12032
 }
 ]
 }

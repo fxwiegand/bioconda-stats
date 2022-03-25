@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-bioperl-run-1.007002-pl5262hdfd78af_5.tar.bz2",
-"total":8310
+"total":8331
 },
 {
 "basename":"perl-bioperl-run-1.007002-pl526_4.tar.bz2",
@@ -1138,6 +1138,10 @@
 {
 "date":"2022-03-24",
 "total":42382
+},
+{
+"date":"2022-03-25",
+"total":42403
 }
 ],
 "package":"perl-bioperl-run",
@@ -1735,6 +1739,15 @@
 {
 "basename":"perl-bioperl-run-1.007002-pl526_4.tar.bz2",
 "total":33670
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"perl-bioperl-run-1.007002-pl5262hdfd78af_5.tar.bz2",
+"total":8331
 }
 ]
 }

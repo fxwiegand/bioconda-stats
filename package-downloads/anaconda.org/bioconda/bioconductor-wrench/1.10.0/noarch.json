@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-wrench-1.10.0-r41hdfd78af_0.tar.bz2",
-"total":527
+"total":529
 }
 ],
 "downloads_per_date":[
@@ -1034,6 +1034,10 @@
 {
 "date":"2022-03-24",
 "total":527
+},
+{
+"date":"2022-03-25",
+"total":529
 }
 ],
 "package":"bioconductor-wrench",
@@ -1395,6 +1399,15 @@
 {
 "basename":"bioconductor-wrench-1.10.0-r41hdfd78af_0.tar.bz2",
 "total":527
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-wrench-1.10.0-r41hdfd78af_0.tar.bz2",
+"total":529
 }
 ]
 }

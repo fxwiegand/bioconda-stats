@@ -23,7 +23,7 @@
 },
 {
 "basename":"phylophlan-3.0-py_7.tar.bz2",
-"total":522
+"total":524
 },
 {
 "basename":"phylophlan-3.0-py_5.tar.bz2",
@@ -1066,6 +1066,10 @@
 {
 "date":"2022-03-24",
 "total":1581
+},
+{
+"date":"2022-03-25",
+"total":1583
 }
 ],
 "package":"phylophlan",
@@ -1570,6 +1574,15 @@
 {
 "basename":"phylophlan-3.0-py_5.tar.bz2",
 "total":596
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"phylophlan-3.0-py_7.tar.bz2",
+"total":524
 }
 ]
 }

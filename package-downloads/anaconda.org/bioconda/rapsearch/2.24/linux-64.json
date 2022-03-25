@@ -15,7 +15,7 @@
 },
 {
 "basename":"rapsearch-2.24-hee3b9ab_4.tar.bz2",
-"total":1132
+"total":1133
 },
 {
 "basename":"rapsearch-2.24-h2d50403_2.tar.bz2",
@@ -1150,6 +1150,10 @@
 {
 "date":"2022-03-24",
 "total":6847
+},
+{
+"date":"2022-03-25",
+"total":6848
 }
 ],
 "package":"rapsearch",
@@ -1649,6 +1653,15 @@
 {
 "basename":"rapsearch-2.24-h2d50403_2.tar.bz2",
 "total":1826
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"rapsearch-2.24-hee3b9ab_4.tar.bz2",
+"total":1133
 }
 ]
 }

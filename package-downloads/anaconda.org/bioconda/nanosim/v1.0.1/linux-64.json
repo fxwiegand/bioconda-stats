@@ -11,7 +11,7 @@
 },
 {
 "basename":"nanosim-v1.0.1-py27r3.3.2_1.tar.bz2",
-"total":412
+"total":413
 },
 {
 "basename":"nanosim-v1.0.1-py35r3.3.2_1.tar.bz2",
@@ -346,6 +346,10 @@
 {
 "date":"2022-03-24",
 "total":3030
+},
+{
+"date":"2022-03-25",
+"total":3031
 }
 ],
 "package":"nanosim",
@@ -574,6 +578,15 @@
 {
 "basename":"nanosim-v1.0.1-py34r3.3.1_1.tar.bz2",
 "total":538
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"nanosim-v1.0.1-py27r3.3.2_1.tar.bz2",
+"total":413
 }
 ]
 }

@@ -43,7 +43,7 @@
 },
 {
 "basename":"sicer2-1.0.3-py39hb75ba9e_1.tar.bz2",
-"total":701
+"total":703
 }
 ],
 "downloads_per_date":[
@@ -1170,6 +1170,10 @@
 {
 "date":"2022-03-24",
 "total":994
+},
+{
+"date":"2022-03-25",
+"total":996
 }
 ],
 "package":"sicer2",
@@ -1564,6 +1568,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"sicer2-1.0.3-py39hb75ba9e_1.tar.bz2",
+"total":701
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"sicer2-1.0.3-py38hceac98e_1.tar.bz2",
 "total":11
 },
@@ -1585,7 +1598,7 @@
 },
 {
 "basename":"sicer2-1.0.3-py39hb75ba9e_1.tar.bz2",
-"total":701
+"total":703
 }
 ]
 }

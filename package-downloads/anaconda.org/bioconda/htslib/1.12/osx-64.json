@@ -7,7 +7,7 @@
 },
 {
 "basename":"htslib-1.12-hc38c3fb_1.tar.bz2",
-"total":6070
+"total":6073
 }
 ],
 "downloads_per_date":[
@@ -1134,6 +1134,10 @@
 {
 "date":"2022-03-24",
 "total":6370
+},
+{
+"date":"2022-03-25",
+"total":6373
 }
 ],
 "package":"htslib",
@@ -1503,6 +1507,15 @@
 {
 "basename":"htslib-1.12-hc38c3fb_1.tar.bz2",
 "total":6070
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"htslib-1.12-hc38c3fb_1.tar.bz2",
+"total":6073
 }
 ]
 }

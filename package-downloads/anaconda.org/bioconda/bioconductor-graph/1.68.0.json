@@ -1120,6 +1120,10 @@
 {
 "date":"2022-03-24",
 "total":6985
+},
+{
+"date":"2022-03-25",
+"total":6986
 }
 ],
 "downloads_per_subdir":[
@@ -1129,7 +1133,7 @@
 },
 {
 "subdir":"linux-64",
-"total":5512
+"total":5513
 }
 ],
 "package":"bioconductor-graph",
@@ -1607,6 +1611,15 @@
 {
 "subdir":"linux-64",
 "total":5512
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":5513
 }
 ]
 }

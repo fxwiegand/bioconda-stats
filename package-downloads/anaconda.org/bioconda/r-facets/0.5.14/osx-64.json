@@ -1126,6 +1126,10 @@
 {
 "date":"2022-03-24",
 "total":2525
+},
+{
+"date":"2022-03-25",
+"total":2525
 }
 ],
 "package":"r-facets",
@@ -1471,10 +1475,6 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
-"basename":"r-facets-0.5.14-r40h9a939e3_4.tar.bz2",
-"total":25
-},
-{
 "basename":"r-facets-0.5.14-r341h219a75b_0.tar.bz2",
 "total":51
 },
@@ -1485,6 +1485,15 @@
 {
 "basename":"r-facets-0.5.14-r40he991be0_3.tar.bz2",
 "total":1271
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"r-facets-0.5.14-r40h9a939e3_4.tar.bz2",
+"total":25
 }
 ]
 }

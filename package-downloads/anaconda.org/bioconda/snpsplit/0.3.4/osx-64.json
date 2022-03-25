@@ -690,6 +690,10 @@
 {
 "date":"2022-03-24",
 "total":2045
+},
+{
+"date":"2022-03-25",
+"total":2045
 }
 ],
 "package":"snpsplit",
@@ -718,7 +722,12 @@
 {
 "basename":"snpsplit-0.3.4-1.tar.bz2",
 "total":137
+}
+]
 },
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
 {
 "basename":"snpsplit-0.3.4-pl5.22.0_0.tar.bz2",
 "total":1908

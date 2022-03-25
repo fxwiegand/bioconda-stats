@@ -1124,6 +1124,10 @@
 {
 "date":"2022-03-24",
 "total":18190
+},
+{
+"date":"2022-03-25",
+"total":18196
 }
 ],
 "downloads_per_subdir":[
@@ -1133,7 +1137,7 @@
 },
 {
 "subdir":"linux-64",
-"total":14679
+"total":14685
 }
 ],
 "package":"bedtools",
@@ -1607,6 +1611,15 @@
 {
 "subdir":"linux-64",
 "total":14679
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":14685
 }
 ]
 }

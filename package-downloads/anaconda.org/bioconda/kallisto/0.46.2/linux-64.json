@@ -7,7 +7,7 @@
 },
 {
 "basename":"kallisto-0.46.2-h60f4f9f_2.tar.bz2",
-"total":5503
+"total":5505
 },
 {
 "basename":"kallisto-0.46.2-h4f7b962_1.tar.bz2",
@@ -1138,6 +1138,10 @@
 {
 "date":"2022-03-24",
 "total":11980
+},
+{
+"date":"2022-03-25",
+"total":11982
 }
 ],
 "package":"kallisto",
@@ -1610,6 +1614,15 @@
 {
 "basename":"kallisto-0.46.2-h4f7b962_1.tar.bz2",
 "total":6341
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"kallisto-0.46.2-h60f4f9f_2.tar.bz2",
+"total":5505
 }
 ]
 }

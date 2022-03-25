@@ -15,7 +15,7 @@
 },
 {
 "basename":"p7zip-15.09-h2d50403_4.tar.bz2",
-"total":10836
+"total":10843
 }
 ],
 "downloads_per_date":[
@@ -1142,6 +1142,10 @@
 {
 "date":"2022-03-24",
 "total":19480
+},
+{
+"date":"2022-03-25",
+"total":19487
 }
 ],
 "package":"p7zip",
@@ -1585,6 +1589,15 @@
 {
 "basename":"p7zip-15.09-h2d50403_4.tar.bz2",
 "total":10836
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"p7zip-15.09-h2d50403_4.tar.bz2",
+"total":10843
 }
 ]
 }

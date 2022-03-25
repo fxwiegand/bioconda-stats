@@ -39,7 +39,7 @@
 },
 {
 "basename":"piranha-1.2.1-h2c4b914_7.tar.bz2",
-"total":1427
+"total":1428
 },
 {
 "basename":"piranha-1.2.1-gsl1.16_2.tar.bz2",
@@ -1170,6 +1170,10 @@
 {
 "date":"2022-03-24",
 "total":6621
+},
+{
+"date":"2022-03-25",
+"total":6622
 }
 ],
 "package":"piranha",
@@ -1822,6 +1826,15 @@
 {
 "basename":"piranha-1.2.1-h2c4b914_7.tar.bz2",
 "total":1427
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"piranha-1.2.1-h2c4b914_7.tar.bz2",
+"total":1428
 }
 ]
 }

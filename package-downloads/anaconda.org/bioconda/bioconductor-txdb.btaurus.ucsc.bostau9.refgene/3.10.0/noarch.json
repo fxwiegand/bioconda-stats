@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-txdb.btaurus.ucsc.bostau9.refgene-3.10.0-r41hdfd78af_5.tar.bz2",
-"total":256
+"total":258
 }
 ],
 "downloads_per_date":[
@@ -1022,6 +1022,10 @@
 {
 "date":"2022-03-24",
 "total":704
+},
+{
+"date":"2022-03-25",
+"total":706
 }
 ],
 "package":"bioconductor-txdb.btaurus.ucsc.bostau9.refgene",
@@ -1461,6 +1465,15 @@
 {
 "basename":"bioconductor-txdb.btaurus.ucsc.bostau9.refgene-3.10.0-r41hdfd78af_5.tar.bz2",
 "total":256
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-txdb.btaurus.ucsc.bostau9.refgene-3.10.0-r41hdfd78af_5.tar.bz2",
+"total":258
 }
 ]
 }

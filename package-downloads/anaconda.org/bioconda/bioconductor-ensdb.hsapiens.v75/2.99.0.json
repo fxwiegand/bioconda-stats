@@ -1124,6 +1124,10 @@
 {
 "date":"2022-03-24",
 "total":5418
+},
+{
+"date":"2022-03-25",
+"total":5421
 }
 ],
 "downloads_per_subdir":[
@@ -1137,7 +1141,7 @@
 },
 {
 "subdir":"noarch",
-"total":2458
+"total":2461
 }
 ],
 "package":"bioconductor-ensdb.hsapiens.v75",
@@ -1547,6 +1551,15 @@
 {
 "subdir":"noarch",
 "total":2458
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"noarch",
+"total":2461
 }
 ]
 }

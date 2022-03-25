@@ -15,7 +15,7 @@
 },
 {
 "basename":"geodl-1.0b1-py36_0.tar.bz2",
-"total":2061
+"total":2063
 }
 ],
 "downloads_per_date":[
@@ -1138,6 +1138,10 @@
 {
 "date":"2022-03-24",
 "total":2417
+},
+{
+"date":"2022-03-25",
+"total":2419
 }
 ],
 "package":"geodl",
@@ -1487,6 +1491,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"geodl-1.0b1-py36_0.tar.bz2",
+"total":2061
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"geodl-1.0b1-py35_0.tar.bz2",
 "total":116
 },
@@ -1496,7 +1509,7 @@
 },
 {
 "basename":"geodl-1.0b1-py36_0.tar.bz2",
-"total":2061
+"total":2063
 }
 ]
 }

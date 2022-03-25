@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-tspair-1.38.0-r341h470a237_0.tar.bz2",
-"total":304
+"total":305
 },
 {
 "basename":"bioconductor-tspair-1.38.0-r351h470a237_0.tar.bz2",
@@ -1134,6 +1134,10 @@
 {
 "date":"2022-03-24",
 "total":2409
+},
+{
+"date":"2022-03-25",
+"total":2410
 }
 ],
 "package":"bioconductor-tspair",
@@ -1445,6 +1449,15 @@
 {
 "basename":"bioconductor-tspair-1.38.0-r351h470a237_0.tar.bz2",
 "total":2105
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-tspair-1.38.0-r341h470a237_0.tar.bz2",
+"total":305
 }
 ]
 }

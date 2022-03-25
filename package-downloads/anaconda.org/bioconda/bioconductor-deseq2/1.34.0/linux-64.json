@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-deseq2-1.34.0-r41h619a076_1.tar.bz2",
-"total":484
+"total":489
 },
 {
 "basename":"bioconductor-deseq2-1.34.0-r41h399db7b_0.tar.bz2",
@@ -474,6 +474,10 @@
 {
 "date":"2022-03-24",
 "total":2550
+},
+{
+"date":"2022-03-25",
+"total":2555
 }
 ],
 "package":"bioconductor-deseq2",
@@ -871,6 +875,15 @@
 {
 "basename":"bioconductor-deseq2-1.34.0-r41h399db7b_0.tar.bz2",
 "total":2066
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-deseq2-1.34.0-r41h619a076_1.tar.bz2",
+"total":489
 }
 ]
 }

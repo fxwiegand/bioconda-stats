@@ -702,6 +702,10 @@
 {
 "date":"2022-03-24",
 "total":1986
+},
+{
+"date":"2022-03-25",
+"total":1986
 }
 ],
 "package":"irida-sistr-results",
@@ -721,7 +725,12 @@
 {
 "basename":"irida-sistr-results-0.6.0-py35_0.tar.bz2",
 "total":199
+}
+]
 },
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
 {
 "basename":"irida-sistr-results-0.6.0-py36_0.tar.bz2",
 "total":1787

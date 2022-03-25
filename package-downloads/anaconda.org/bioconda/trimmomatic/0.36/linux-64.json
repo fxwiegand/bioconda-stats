@@ -11,7 +11,7 @@
 },
 {
 "basename":"trimmomatic-0.36-3.tar.bz2",
-"total":11670
+"total":11671
 },
 {
 "basename":"trimmomatic-0.36-5.tar.bz2",
@@ -962,6 +962,10 @@
 {
 "date":"2022-03-24",
 "total":31169
+},
+{
+"date":"2022-03-25",
+"total":31170
 }
 ],
 "package":"trimmomatic",
@@ -1351,6 +1355,15 @@
 {
 "basename":"trimmomatic-0.36-5.tar.bz2",
 "total":16414
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"trimmomatic-0.36-3.tar.bz2",
+"total":11671
 }
 ]
 }

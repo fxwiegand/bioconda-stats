@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-pfam.db-3.12.0-r40hdfd78af_1.tar.bz2",
-"total":463
+"total":465
 }
 ],
 "downloads_per_date":[
@@ -1018,6 +1018,10 @@
 {
 "date":"2022-03-24",
 "total":556
+},
+{
+"date":"2022-03-25",
+"total":558
 }
 ],
 "package":"bioconductor-pfam.db",
@@ -1394,6 +1398,15 @@
 {
 "basename":"bioconductor-pfam.db-3.12.0-r40hdfd78af_1.tar.bz2",
 "total":463
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pfam.db-3.12.0-r40hdfd78af_1.tar.bz2",
+"total":465
 }
 ]
 }

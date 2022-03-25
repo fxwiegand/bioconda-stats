@@ -27,7 +27,7 @@
 },
 {
 "basename":"nanovar-1.4.1-py39hbf8eff0_1.tar.bz2",
-"total":77
+"total":79
 },
 {
 "basename":"nanovar-1.4.1-py39h38f01e4_0.tar.bz2",
@@ -610,6 +610,10 @@
 {
 "date":"2022-03-24",
 "total":558
+},
+{
+"date":"2022-03-25",
+"total":560
 }
 ],
 "package":"nanovar",
@@ -1151,6 +1155,15 @@
 {
 "basename":"nanovar-1.4.1-py39h38f01e4_0.tar.bz2",
 "total":316
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"nanovar-1.4.1-py39hbf8eff0_1.tar.bz2",
+"total":79
 }
 ]
 }

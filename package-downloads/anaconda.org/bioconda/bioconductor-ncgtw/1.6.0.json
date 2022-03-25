@@ -1072,6 +1072,10 @@
 {
 "date":"2022-03-24",
 "total":625
+},
+{
+"date":"2022-03-25",
+"total":626
 }
 ],
 "downloads_per_subdir":[
@@ -1081,7 +1085,7 @@
 },
 {
 "subdir":"osx-64",
-"total":568
+"total":569
 }
 ],
 "package":"bioconductor-ncgtw",
@@ -1445,6 +1449,15 @@
 {
 "subdir":"osx-64",
 "total":568
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":569
 }
 ]
 }

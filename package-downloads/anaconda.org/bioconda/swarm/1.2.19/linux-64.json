@@ -23,7 +23,7 @@
 },
 {
 "basename":"swarm-1.2.19-py36_1.tar.bz2",
-"total":2497
+"total":2499
 }
 ],
 "downloads_per_date":[
@@ -1150,6 +1150,10 @@
 {
 "date":"2022-03-24",
 "total":5893
+},
+{
+"date":"2022-03-25",
+"total":5895
 }
 ],
 "package":"swarm",
@@ -1646,6 +1650,15 @@
 {
 "basename":"swarm-1.2.19-py36_1.tar.bz2",
 "total":2497
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"swarm-1.2.19-py36_1.tar.bz2",
+"total":2499
 }
 ]
 }

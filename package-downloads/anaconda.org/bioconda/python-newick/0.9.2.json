@@ -1124,6 +1124,10 @@
 {
 "date":"2022-03-24",
 "total":3336
+},
+{
+"date":"2022-03-25",
+"total":3339
 }
 ],
 "downloads_per_subdir":[
@@ -1133,7 +1137,7 @@
 },
 {
 "subdir":"noarch",
-"total":625
+"total":628
 },
 {
 "subdir":"osx-64",
@@ -1567,6 +1571,15 @@
 {
 "subdir":"osx-64",
 "total":2121
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"noarch",
+"total":628
 }
 ]
 }

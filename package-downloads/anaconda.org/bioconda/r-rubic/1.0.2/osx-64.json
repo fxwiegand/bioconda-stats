@@ -15,7 +15,7 @@
 },
 {
 "basename":"r-rubic-1.0.2-r341_1.tar.bz2",
-"total":2081
+"total":2083
 }
 ],
 "downloads_per_date":[
@@ -1138,6 +1138,10 @@
 {
 "date":"2022-03-24",
 "total":2420
+},
+{
+"date":"2022-03-25",
+"total":2422
 }
 ],
 "package":"r-rubic",
@@ -1488,6 +1492,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"r-rubic-1.0.2-r341_1.tar.bz2",
+"total":2081
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"r-rubic-1.0.2-r3.3.2_0.tar.bz2",
 "total":35
 },
@@ -1501,7 +1514,7 @@
 },
 {
 "basename":"r-rubic-1.0.2-r341_1.tar.bz2",
-"total":2081
+"total":2083
 }
 ]
 }

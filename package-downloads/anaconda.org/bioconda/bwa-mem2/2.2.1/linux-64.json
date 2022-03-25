@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bwa-mem2-2.2.1-hd03093a_2.tar.bz2",
-"total":196
+"total":203
 },
 {
 "basename":"bwa-mem2-2.2.1-he513fc3_0.tar.bz2",
@@ -1138,6 +1138,10 @@
 {
 "date":"2022-03-24",
 "total":3664
+},
+{
+"date":"2022-03-25",
+"total":3671
 }
 ],
 "package":"bwa-mem2",
@@ -1683,6 +1687,15 @@
 {
 "basename":"bwa-mem2-2.2.1-h9a82719_1.tar.bz2",
 "total":2191
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"bwa-mem2-2.2.1-hd03093a_2.tar.bz2",
+"total":203
 }
 ]
 }

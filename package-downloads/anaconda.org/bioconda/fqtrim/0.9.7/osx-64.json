@@ -1146,6 +1146,10 @@
 {
 "date":"2022-03-24",
 "total":2407
+},
+{
+"date":"2022-03-25",
+"total":2407
 }
 ],
 "package":"fqtrim",
@@ -1463,6 +1467,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"fqtrim-0.9.7-hbbe82c9_2.tar.bz2",
+"total":1110
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"fqtrim-0.9.7-h87af4ef_3.tar.bz2",
 "total":22
 },
@@ -1473,10 +1486,6 @@
 {
 "basename":"fqtrim-0.9.7-ha92aebf_1.tar.bz2",
 "total":1002
-},
-{
-"basename":"fqtrim-0.9.7-hbbe82c9_2.tar.bz2",
-"total":1110
 }
 ]
 }

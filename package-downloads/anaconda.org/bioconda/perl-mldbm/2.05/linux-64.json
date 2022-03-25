@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-mldbm-2.05-pl526_1.tar.bz2",
-"total":67680
+"total":67711
 }
 ],
 "downloads_per_date":[
@@ -1134,6 +1134,10 @@
 {
 "date":"2022-03-24",
 "total":82302
+},
+{
+"date":"2022-03-25",
+"total":82333
 }
 ],
 "package":"perl-mldbm",
@@ -1607,6 +1611,15 @@
 {
 "basename":"perl-mldbm-2.05-pl526_1.tar.bz2",
 "total":67680
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"perl-mldbm-2.05-pl526_1.tar.bz2",
+"total":67711
 }
 ]
 }

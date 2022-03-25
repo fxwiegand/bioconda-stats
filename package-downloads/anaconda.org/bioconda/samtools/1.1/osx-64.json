@@ -27,7 +27,7 @@
 },
 {
 "basename":"samtools-1.1-hde3816f_4.tar.bz2",
-"total":1897
+"total":1899
 }
 ],
 "downloads_per_date":[
@@ -1150,6 +1150,10 @@
 {
 "date":"2022-03-24",
 "total":2792
+},
+{
+"date":"2022-03-25",
+"total":2794
 }
 ],
 "package":"samtools",
@@ -1574,6 +1578,15 @@
 {
 "basename":"samtools-1.1-hde3816f_4.tar.bz2",
 "total":1897
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"samtools-1.1-hde3816f_4.tar.bz2",
+"total":1899
 }
 ]
 }

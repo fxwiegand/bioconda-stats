@@ -11,7 +11,7 @@
 },
 {
 "basename":"python-hivclustering-1.2.3-py36_0.tar.bz2",
-"total":2098
+"total":2100
 }
 ],
 "downloads_per_date":[
@@ -1134,6 +1134,10 @@
 {
 "date":"2022-03-24",
 "total":2707
+},
+{
+"date":"2022-03-25",
+"total":2709
 }
 ],
 "package":"python-hivclustering",
@@ -1484,6 +1488,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"python-hivclustering-1.2.3-py36_0.tar.bz2",
+"total":2098
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"python-hivclustering-1.2.3-py34_0.tar.bz2",
 "total":48
 },
@@ -1493,7 +1506,7 @@
 },
 {
 "basename":"python-hivclustering-1.2.3-py36_0.tar.bz2",
-"total":2098
+"total":2100
 }
 ]
 }

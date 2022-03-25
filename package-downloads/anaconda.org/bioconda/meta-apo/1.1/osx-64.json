@@ -822,6 +822,10 @@
 {
 "date":"2022-03-24",
 "total":453
+},
+{
+"date":"2022-03-25",
+"total":453
 }
 ],
 "package":"meta-apo",
@@ -1141,7 +1145,12 @@
 {
 "basename":"meta-apo-1.1-hcd10b59_4.tar.bz2",
 "total":53
+}
+]
 },
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
 {
 "basename":"meta-apo-1.1-hb280591_2.tar.bz2",
 "total":64

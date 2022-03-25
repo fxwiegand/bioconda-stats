@@ -1124,6 +1124,10 @@
 {
 "date":"2022-03-24",
 "total":3051
+},
+{
+"date":"2022-03-25",
+"total":3053
 }
 ],
 "downloads_per_subdir":[
@@ -1133,7 +1137,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2392
+"total":2394
 }
 ],
 "package":"bioconductor-htsfilter",
@@ -1515,6 +1519,15 @@
 {
 "subdir":"osx-64",
 "total":2392
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2394
 }
 ]
 }

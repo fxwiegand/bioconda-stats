@@ -35,7 +35,7 @@
 },
 {
 "basename":"libgab-1.0.5-he7b77f3_7.tar.bz2",
-"total":137
+"total":138
 },
 {
 "basename":"libgab-1.0.5-hda3bf64_5.tar.bz2",
@@ -1166,6 +1166,10 @@
 {
 "date":"2022-03-24",
 "total":1274
+},
+{
+"date":"2022-03-25",
+"total":1275
 }
 ],
 "package":"libgab",
@@ -1761,6 +1765,15 @@
 {
 "basename":"libgab-1.0.5-hda3bf64_5.tar.bz2",
 "total":674
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"libgab-1.0.5-he7b77f3_7.tar.bz2",
+"total":138
 }
 ]
 }

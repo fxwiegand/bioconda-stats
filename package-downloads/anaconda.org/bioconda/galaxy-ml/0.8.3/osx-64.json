@@ -11,7 +11,7 @@
 },
 {
 "basename":"galaxy-ml-0.8.3-py36h7afcbf7_2.tar.bz2",
-"total":669
+"total":671
 }
 ],
 "downloads_per_date":[
@@ -1138,6 +1138,10 @@
 {
 "date":"2022-03-24",
 "total":755
+},
+{
+"date":"2022-03-25",
+"total":757
 }
 ],
 "package":"galaxy-ml",
@@ -1488,6 +1492,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"galaxy-ml-0.8.3-py36h7afcbf7_2.tar.bz2",
+"total":669
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"galaxy-ml-0.8.3-py36h043d725_0.tar.bz2",
 "total":29
 },
@@ -1497,7 +1510,7 @@
 },
 {
 "basename":"galaxy-ml-0.8.3-py36h7afcbf7_2.tar.bz2",
-"total":669
+"total":671
 }
 ]
 }

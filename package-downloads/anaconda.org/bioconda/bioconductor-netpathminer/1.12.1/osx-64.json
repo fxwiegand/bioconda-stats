@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-netpathminer-1.12.1-r3.4.1_0.tar.bz2",
-"total":2144
+"total":2146
 }
 ],
 "downloads_per_date":[
@@ -1138,6 +1138,10 @@
 {
 "date":"2022-03-24",
 "total":2492
+},
+{
+"date":"2022-03-25",
+"total":2494
 }
 ],
 "package":"bioconductor-netpathminer",
@@ -1497,6 +1501,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"bioconductor-netpathminer-1.12.1-r3.4.1_0.tar.bz2",
+"total":2144
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"bioconductor-netpathminer-1.12.1-r3.3.2_0.tar.bz2",
 "total":60
 },
@@ -1506,7 +1519,7 @@
 },
 {
 "basename":"bioconductor-netpathminer-1.12.1-r3.4.1_0.tar.bz2",
-"total":2144
+"total":2146
 }
 ]
 }

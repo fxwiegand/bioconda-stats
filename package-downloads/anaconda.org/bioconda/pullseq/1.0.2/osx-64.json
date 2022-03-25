@@ -1126,6 +1126,10 @@
 {
 "date":"2022-03-24",
 "total":2546
+},
+{
+"date":"2022-03-25",
+"total":2546
 }
 ],
 "package":"pullseq",
@@ -1447,6 +1451,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"pullseq-1.0.2-hfa5225b_6.tar.bz2",
+"total":657
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"pullseq-1.0.2-2.tar.bz2",
 "total":38
 },
@@ -1465,10 +1478,6 @@
 {
 "basename":"pullseq-1.0.2-hbbe82c9_5.tar.bz2",
 "total":528
-},
-{
-"basename":"pullseq-1.0.2-hfa5225b_6.tar.bz2",
-"total":657
 },
 {
 "basename":"pullseq-1.0.2-ha92aebf_3.tar.bz2",

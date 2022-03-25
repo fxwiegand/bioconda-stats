@@ -19,7 +19,7 @@
 },
 {
 "basename":"rust-bio-tools-0.20.3-hca69bca_4.tar.bz2",
-"total":700
+"total":702
 }
 ],
 "downloads_per_date":[
@@ -1146,6 +1146,10 @@
 {
 "date":"2022-03-24",
 "total":818
+},
+{
+"date":"2022-03-25",
+"total":820
 }
 ],
 "package":"rust-bio-tools",
@@ -1516,6 +1520,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"rust-bio-tools-0.20.3-hca69bca_4.tar.bz2",
+"total":700
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"rust-bio-tools-0.20.3-h7de4865_2.tar.bz2",
 "total":27
 },
@@ -1525,7 +1538,7 @@
 },
 {
 "basename":"rust-bio-tools-0.20.3-hca69bca_4.tar.bz2",
-"total":700
+"total":702
 }
 ]
 }

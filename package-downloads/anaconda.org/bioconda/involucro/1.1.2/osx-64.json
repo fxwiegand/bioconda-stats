@@ -7,7 +7,7 @@
 },
 {
 "basename":"involucro-1.1.2-h193322a_3.tar.bz2",
-"total":1915
+"total":1926
 },
 {
 "basename":"involucro-1.1.2-1.tar.bz2",
@@ -1142,6 +1142,10 @@
 {
 "date":"2022-03-24",
 "total":35274
+},
+{
+"date":"2022-03-25",
+"total":35285
 }
 ],
 "package":"involucro",
@@ -1659,6 +1663,15 @@
 {
 "basename":"involucro-1.1.2-1.tar.bz2",
 "total":4580
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"involucro-1.1.2-h193322a_3.tar.bz2",
+"total":1926
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-pcap-3.5.2-pl5321hec16e2b_2.tar.bz2",
-"total":92
+"total":94
 },
 {
 "basename":"perl-pcap-3.5.2-pl526h14c3975_0.tar.bz2",
@@ -1138,6 +1138,10 @@
 {
 "date":"2022-03-24",
 "total":4125
+},
+{
+"date":"2022-03-25",
+"total":4127
 }
 ],
 "package":"perl-pcap",
@@ -1539,6 +1543,15 @@
 {
 "basename":"perl-pcap-3.5.2-pl5321hec16e2b_2.tar.bz2",
 "total":92
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"perl-pcap-3.5.2-pl5321hec16e2b_2.tar.bz2",
+"total":94
 }
 ]
 }

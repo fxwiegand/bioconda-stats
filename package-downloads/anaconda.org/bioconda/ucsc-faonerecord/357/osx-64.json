@@ -11,7 +11,7 @@
 },
 {
 "basename":"ucsc-faonerecord-357-h5eb252a_2.tar.bz2",
-"total":2143
+"total":2145
 }
 ],
 "downloads_per_date":[
@@ -1138,6 +1138,10 @@
 {
 "date":"2022-03-24",
 "total":2467
+},
+{
+"date":"2022-03-25",
+"total":2469
 }
 ],
 "package":"ucsc-faonerecord",
@@ -1497,6 +1501,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"ucsc-faonerecord-357-h5eb252a_2.tar.bz2",
+"total":2143
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"ucsc-faonerecord-357-1.tar.bz2",
 "total":43
 },
@@ -1506,7 +1519,7 @@
 },
 {
 "basename":"ucsc-faonerecord-357-h5eb252a_2.tar.bz2",
-"total":2143
+"total":2145
 }
 ]
 }

@@ -39,7 +39,7 @@
 },
 {
 "basename":"moods-1.9.3-py37hf484d3e_4.tar.bz2",
-"total":451
+"total":452
 },
 {
 "basename":"moods-1.9.3-py27h470a237_2.tar.bz2",
@@ -1054,6 +1054,10 @@
 {
 "date":"2022-03-24",
 "total":4022
+},
+{
+"date":"2022-03-25",
+"total":4023
 }
 ],
 "package":"moods",
@@ -1601,6 +1605,15 @@
 {
 "basename":"moods-1.9.3-py27_0.tar.bz2",
 "total":683
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"moods-1.9.3-py37hf484d3e_4.tar.bz2",
+"total":452
 }
 ]
 }

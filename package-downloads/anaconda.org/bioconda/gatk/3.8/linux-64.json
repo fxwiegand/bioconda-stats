@@ -59,7 +59,7 @@
 },
 {
 "basename":"gatk-3.8-py36_0.tar.bz2",
-"total":18137
+"total":18139
 }
 ],
 "downloads_per_date":[
@@ -1150,6 +1150,10 @@
 {
 "date":"2022-03-24",
 "total":31334
+},
+{
+"date":"2022-03-25",
+"total":31336
 }
 ],
 "package":"gatk",
@@ -1905,6 +1909,15 @@
 {
 "basename":"gatk-3.8-py36_0.tar.bz2",
 "total":18137
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"gatk-3.8-py36_0.tar.bz2",
+"total":18139
 }
 ]
 }

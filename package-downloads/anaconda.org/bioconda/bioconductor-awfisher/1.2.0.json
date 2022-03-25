@@ -1124,6 +1124,10 @@
 {
 "date":"2022-03-24",
 "total":1423
+},
+{
+"date":"2022-03-25",
+"total":1425
 }
 ],
 "downloads_per_subdir":[
@@ -1133,7 +1137,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1332
+"total":1334
 }
 ],
 "package":"bioconductor-awfisher",
@@ -1515,6 +1519,15 @@
 {
 "subdir":"osx-64",
 "total":1332
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1334
 }
 ]
 }

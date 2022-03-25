@@ -468,6 +468,10 @@
 {
 "date":"2022-03-24",
 "total":312
+},
+{
+"date":"2022-03-25",
+"total":313
 }
 ],
 "downloads_per_subdir":[
@@ -477,7 +481,7 @@
 },
 {
 "subdir":"osx-64",
-"total":268
+"total":269
 }
 ],
 "package":"bioconductor-qrqc",
@@ -853,6 +857,15 @@
 {
 "subdir":"osx-64",
 "total":268
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":269
 }
 ]
 }

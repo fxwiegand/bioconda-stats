@@ -1130,6 +1130,10 @@
 {
 "date":"2022-03-24",
 "total":1373
+},
+{
+"date":"2022-03-25",
+"total":1373
 }
 ],
 "package":"bamread",
@@ -1451,6 +1455,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"bamread-0.0.7-py39ha492530_2.tar.bz2",
+"total":617
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"bamread-0.0.7-py37h819e570_2.tar.bz2",
 "total":10
 },
@@ -1473,10 +1486,6 @@
 {
 "basename":"bamread-0.0.7-py38h771b250_1.tar.bz2",
 "total":435
-},
-{
-"basename":"bamread-0.0.7-py39ha492530_2.tar.bz2",
-"total":617
 }
 ]
 }

@@ -1124,6 +1124,10 @@
 {
 "date":"2022-03-24",
 "total":2082
+},
+{
+"date":"2022-03-25",
+"total":2084
 }
 ],
 "downloads_per_subdir":[
@@ -1133,7 +1137,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1776
+"total":1778
 }
 ],
 "package":"bioconductor-seqarray",
@@ -1514,6 +1518,15 @@
 {
 "subdir":"osx-64",
 "total":1776
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1778
 }
 ]
 }

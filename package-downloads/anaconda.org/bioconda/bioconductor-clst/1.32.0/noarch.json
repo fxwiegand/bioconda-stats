@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-clst-1.32.0-r36_1.tar.bz2",
-"total":501
+"total":503
 }
 ],
 "downloads_per_date":[
@@ -1006,6 +1006,10 @@
 {
 "date":"2022-03-24",
 "total":695
+},
+{
+"date":"2022-03-25",
+"total":697
 }
 ],
 "package":"bioconductor-clst",
@@ -1391,6 +1395,15 @@
 {
 "basename":"bioconductor-clst-1.32.0-r36_1.tar.bz2",
 "total":501
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-clst-1.32.0-r36_1.tar.bz2",
+"total":503
 }
 ]
 }

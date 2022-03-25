@@ -1118,6 +1118,10 @@
 {
 "date":"2022-03-24",
 "total":2426
+},
+{
+"date":"2022-03-25",
+"total":2426
 }
 ],
 "package":"r-phylosignal",
@@ -1431,6 +1435,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"r-phylosignal-1.2-r351h9d2a408_1.tar.bz2",
+"total":2022
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"r-phylosignal-1.2-r351h9d2a408_0.tar.bz2",
 "total":31
 },
@@ -1445,10 +1458,6 @@
 {
 "basename":"r-phylosignal-1.2-r341h9d2a408_1.tar.bz2",
 "total":161
-},
-{
-"basename":"r-phylosignal-1.2-r351h9d2a408_1.tar.bz2",
-"total":2022
 }
 ]
 }

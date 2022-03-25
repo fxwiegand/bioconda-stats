@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"illumina-interop-1.1.23-h87f3376_1.tar.bz2",
-"total":90
+"total":92
 },
 {
 "basename":"illumina-interop-1.1.23-h1b792b2_0.tar.bz2",
@@ -1134,6 +1134,10 @@
 {
 "date":"2022-03-24",
 "total":954
+},
+{
+"date":"2022-03-25",
+"total":956
 }
 ],
 "package":"illumina-interop",
@@ -1518,6 +1522,15 @@
 {
 "basename":"illumina-interop-1.1.23-h1b792b2_0.tar.bz2",
 "total":864
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"illumina-interop-1.1.23-h87f3376_1.tar.bz2",
+"total":92
 }
 ]
 }

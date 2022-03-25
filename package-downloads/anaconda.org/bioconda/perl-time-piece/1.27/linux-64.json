@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-time-piece-1.27-pl5.22.0_0.tar.bz2",
-"total":1738
+"total":1739
 },
 {
 "basename":"perl-time-piece-1.27-pl526_1.tar.bz2",
@@ -1042,6 +1042,10 @@
 {
 "date":"2022-03-24",
 "total":6033
+},
+{
+"date":"2022-03-25",
+"total":6034
 }
 ],
 "package":"perl-time-piece",
@@ -1405,6 +1409,15 @@
 {
 "basename":"perl-time-piece-1.27-pl526_1.tar.bz2",
 "total":4295
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"perl-time-piece-1.27-pl5.22.0_0.tar.bz2",
+"total":1739
 }
 ]
 }

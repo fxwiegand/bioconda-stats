@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-hilda-1.4.0-r40h832b226_2.tar.bz2",
-"total":721
+"total":723
 }
 ],
 "downloads_per_date":[
@@ -1138,6 +1138,10 @@
 {
 "date":"2022-03-24",
 "total":1060
+},
+{
+"date":"2022-03-25",
+"total":1062
 }
 ],
 "package":"bioconductor-hilda",
@@ -1497,6 +1501,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"bioconductor-hilda-1.4.0-r40h832b226_2.tar.bz2",
+"total":721
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"bioconductor-hilda-1.4.0-r40h64ad5ed_0.tar.bz2",
 "total":44
 },
@@ -1506,7 +1519,7 @@
 },
 {
 "basename":"bioconductor-hilda-1.4.0-r40h832b226_2.tar.bz2",
-"total":721
+"total":723
 }
 ]
 }

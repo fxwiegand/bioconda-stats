@@ -702,6 +702,10 @@
 {
 "date":"2022-03-24",
 "total":409
+},
+{
+"date":"2022-03-25",
+"total":409
 }
 ],
 "package":"pyhmmer",
@@ -1007,6 +1011,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"pyhmmer-0.4.6-py39ha492530_0.tar.bz2",
+"total":360
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"pyhmmer-0.4.6-py36ha714b87_0.tar.bz2",
 "total":15
 },
@@ -1017,10 +1030,6 @@
 {
 "basename":"pyhmmer-0.4.6-py38h68004ad_0.tar.bz2",
 "total":18
-},
-{
-"basename":"pyhmmer-0.4.6-py39ha492530_0.tar.bz2",
-"total":360
 }
 ]
 }

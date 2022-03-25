@@ -1142,6 +1142,10 @@
 {
 "date":"2022-03-24",
 "total":779
+},
+{
+"date":"2022-03-25",
+"total":779
 }
 ],
 "package":"treesapp",
@@ -1456,6 +1460,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"treesapp-0.10.3-py37h502bf93_0.tar.bz2",
+"total":704
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"treesapp-0.10.3-py37h31803e2_1.tar.bz2",
 "total":24
 },
@@ -1466,10 +1479,6 @@
 {
 "basename":"treesapp-0.10.3-py36h01e6e40_1.tar.bz2",
 "total":26
-},
-{
-"basename":"treesapp-0.10.3-py37h502bf93_0.tar.bz2",
-"total":704
 }
 ]
 }

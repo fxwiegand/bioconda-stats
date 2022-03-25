@@ -1142,6 +1142,10 @@
 {
 "date":"2022-03-24",
 "total":1111
+},
+{
+"date":"2022-03-25",
+"total":1111
 }
 ],
 "package":"pyspoa",
@@ -1503,6 +1507,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"pyspoa-0.0.3-py39he2a1a62_2.tar.bz2",
+"total":653
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"pyspoa-0.0.3-py36h7afcbf7_2.tar.bz2",
 "total":12
 },
@@ -1525,10 +1538,6 @@
 {
 "basename":"pyspoa-0.0.3-py38hfa815b7_1.tar.bz2",
 "total":333
-},
-{
-"basename":"pyspoa-0.0.3-py39he2a1a62_2.tar.bz2",
-"total":653
 }
 ]
 }

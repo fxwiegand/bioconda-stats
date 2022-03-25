@@ -15,7 +15,7 @@
 },
 {
 "basename":"musicc-1.0.1-py36_0.tar.bz2",
-"total":2100
+"total":2102
 }
 ],
 "downloads_per_date":[
@@ -1138,6 +1138,10 @@
 {
 "date":"2022-03-24",
 "total":2480
+},
+{
+"date":"2022-03-25",
+"total":2482
 }
 ],
 "package":"musicc",
@@ -1496,6 +1500,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"musicc-1.0.1-py36_0.tar.bz2",
+"total":2100
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"musicc-1.0.1-py34_0.tar.bz2",
 "total":50
 },
@@ -1505,7 +1518,7 @@
 },
 {
 "basename":"musicc-1.0.1-py36_0.tar.bz2",
-"total":2100
+"total":2102
 }
 ]
 }

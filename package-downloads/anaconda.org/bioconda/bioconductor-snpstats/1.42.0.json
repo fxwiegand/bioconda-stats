@@ -1072,6 +1072,10 @@
 {
 "date":"2022-03-24",
 "total":901
+},
+{
+"date":"2022-03-25",
+"total":903
 }
 ],
 "downloads_per_subdir":[
@@ -1081,7 +1085,7 @@
 },
 {
 "subdir":"osx-64",
-"total":626
+"total":628
 }
 ],
 "package":"bioconductor-snpstats",
@@ -1475,6 +1479,15 @@
 {
 "subdir":"osx-64",
 "total":626
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":628
 }
 ]
 }

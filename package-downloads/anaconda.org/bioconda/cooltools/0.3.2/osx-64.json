@@ -1142,6 +1142,10 @@
 {
 "date":"2022-03-24",
 "total":1027
+},
+{
+"date":"2022-03-25",
+"total":1027
 }
 ],
 "package":"cooltools",
@@ -1495,6 +1499,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"cooltools-0.3.2-py39hb75ba9e_1.tar.bz2",
+"total":624
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"cooltools-0.3.2-py37h335bc2e_1.tar.bz2",
 "total":12
 },
@@ -1513,10 +1526,6 @@
 {
 "basename":"cooltools-0.3.2-py37h1d7ca0a_0.tar.bz2",
 "total":18
-},
-{
-"basename":"cooltools-0.3.2-py39hb75ba9e_1.tar.bz2",
-"total":624
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-role-tiny-2.000001-pl526_2.tar.bz2",
-"total":4479
+"total":4481
 },
 {
 "basename":"perl-role-tiny-2.000001-1.tar.bz2",
@@ -1058,6 +1058,10 @@
 {
 "date":"2022-03-24",
 "total":18882
+},
+{
+"date":"2022-03-25",
+"total":18884
 }
 ],
 "package":"perl-role-tiny",
@@ -1500,6 +1504,15 @@
 {
 "basename":"perl-role-tiny-2.000001-1.tar.bz2",
 "total":13940
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"perl-role-tiny-2.000001-pl526_2.tar.bz2",
+"total":4481
 }
 ]
 }

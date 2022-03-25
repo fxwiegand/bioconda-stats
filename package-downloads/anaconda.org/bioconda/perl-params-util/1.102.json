@@ -68,6 +68,10 @@
 {
 "date":"2022-03-24",
 "total":750
+},
+{
+"date":"2022-03-25",
+"total":761
 }
 ],
 "downloads_per_subdir":[
@@ -77,7 +81,7 @@
 },
 {
 "subdir":"linux-64",
-"total":617
+"total":628
 }
 ],
 "package":"perl-params-util",
@@ -296,6 +300,15 @@
 {
 "subdir":"linux-64",
 "total":617
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":628
 }
 ]
 }

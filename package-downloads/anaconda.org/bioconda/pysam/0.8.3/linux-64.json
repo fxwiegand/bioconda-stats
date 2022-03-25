@@ -95,7 +95,7 @@
 },
 {
 "basename":"pysam-0.8.3-py27_2.tar.bz2",
-"total":4000
+"total":4003
 }
 ],
 "downloads_per_date":[
@@ -1198,6 +1198,10 @@
 {
 "date":"2022-03-24",
 "total":14914
+},
+{
+"date":"2022-03-25",
+"total":14917
 }
 ],
 "package":"pysam",
@@ -2317,6 +2321,15 @@
 {
 "basename":"pysam-0.8.3-py36ha92aebf_5.tar.bz2",
 "total":791
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"pysam-0.8.3-py27_2.tar.bz2",
+"total":4003
 }
 ]
 }

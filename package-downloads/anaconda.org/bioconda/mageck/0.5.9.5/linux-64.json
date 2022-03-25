@@ -31,7 +31,7 @@
 },
 {
 "basename":"mageck-0.5.9.5-py39hc16433a_1.tar.bz2",
-"total":50
+"total":52
 },
 {
 "basename":"mageck-0.5.9.5-py39h7cff6ad_0.tar.bz2",
@@ -374,6 +374,10 @@
 {
 "date":"2022-03-24",
 "total":359
+},
+{
+"date":"2022-03-25",
+"total":361
 }
 ],
 "package":"mageck",
@@ -1005,6 +1009,15 @@
 {
 "basename":"mageck-0.5.9.5-py37h22450f8_0.tar.bz2",
 "total":71
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"mageck-0.5.9.5-py39hc16433a_1.tar.bz2",
+"total":52
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"samtools-1.12-h9aed4be_1.tar.bz2",
-"total":42764
+"total":42932
 }
 ],
 "downloads_per_date":[
@@ -1134,6 +1134,10 @@
 {
 "date":"2022-03-24",
 "total":45445
+},
+{
+"date":"2022-03-25",
+"total":45613
 }
 ],
 "package":"samtools",
@@ -1623,6 +1627,15 @@
 {
 "basename":"samtools-1.12-h9aed4be_1.tar.bz2",
 "total":42764
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"samtools-1.12-h9aed4be_1.tar.bz2",
+"total":42932
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"ncbi-util-legacy-6.1-he80fd80_1.tar.bz2",
-"total":1180
+"total":1182
 },
 {
 "basename":"ncbi-util-legacy-6.1-ha14ba45_0.tar.bz2",
@@ -1142,6 +1142,10 @@
 {
 "date":"2022-03-24",
 "total":2594
+},
+{
+"date":"2022-03-25",
+"total":2596
 }
 ],
 "package":"ncbi-util-legacy",
@@ -1558,6 +1562,15 @@
 {
 "basename":"ncbi-util-legacy-6.1-ha14ba45_0.tar.bz2",
 "total":1310
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"ncbi-util-legacy-6.1-he80fd80_1.tar.bz2",
+"total":1182
 }
 ]
 }

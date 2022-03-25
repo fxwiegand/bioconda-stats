@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-json-xs-4.02-pl5321hb280591_3.tar.bz2",
-"total":120
+"total":122
 },
 {
 "basename":"perl-json-xs-4.02-pl526h04f5b5a_2.tar.bz2",
@@ -1142,6 +1142,10 @@
 {
 "date":"2022-03-24",
 "total":2317
+},
+{
+"date":"2022-03-25",
+"total":2319
 }
 ],
 "package":"perl-json-xs",
@@ -1542,6 +1546,15 @@
 {
 "basename":"perl-json-xs-4.02-pl5321hb280591_3.tar.bz2",
 "total":120
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"perl-json-xs-4.02-pl5321hb280591_3.tar.bz2",
+"total":122
 }
 ]
 }

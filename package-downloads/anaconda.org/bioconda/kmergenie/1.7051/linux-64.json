@@ -59,7 +59,7 @@
 },
 {
 "basename":"kmergenie-1.7051-py39r41h98c8e45_2.tar.bz2",
-"total":126
+"total":128
 },
 {
 "basename":"kmergenie-1.7051-py38r40h197edbe_0.tar.bz2",
@@ -1194,6 +1194,10 @@
 {
 "date":"2022-03-24",
 "total":1988
+},
+{
+"date":"2022-03-25",
+"total":1990
 }
 ],
 "package":"kmergenie",
@@ -2095,6 +2099,15 @@
 {
 "basename":"kmergenie-1.7051-py39r40hd1f1204_1.tar.bz2",
 "total":699
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"kmergenie-1.7051-py39r41h98c8e45_2.tar.bz2",
+"total":128
 }
 ]
 }

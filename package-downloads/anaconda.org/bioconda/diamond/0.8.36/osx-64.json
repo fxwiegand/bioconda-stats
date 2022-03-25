@@ -1126,6 +1126,10 @@
 {
 "date":"2022-03-24",
 "total":3786
+},
+{
+"date":"2022-03-25",
+"total":3786
 }
 ],
 "package":"diamond",
@@ -1475,6 +1479,15 @@
 "total":13
 },
 {
+"basename":"diamond-0.8.36-hfd59bb5_5.tar.bz2",
+"total":739
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"diamond-0.8.36-hd28b015_2.tar.bz2",
 "total":299
 },
@@ -1485,10 +1498,6 @@
 {
 "basename":"diamond-0.8.36-hd9629dc_3.tar.bz2",
 "total":669
-},
-{
-"basename":"diamond-0.8.36-hfd59bb5_5.tar.bz2",
-"total":739
 }
 ]
 }

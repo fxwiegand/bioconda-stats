@@ -15,7 +15,7 @@
 },
 {
 "basename":"pysam-0.15.0.1-py27hdfb72b2_1.tar.bz2",
-"total":3897
+"total":3901
 },
 {
 "basename":"pysam-0.15.0.1-py35hdfb72b2_1.tar.bz2",
@@ -1102,6 +1102,10 @@
 {
 "date":"2022-03-24",
 "total":52773
+},
+{
+"date":"2022-03-25",
+"total":52777
 }
 ],
 "package":"pysam",
@@ -1676,6 +1680,15 @@
 {
 "basename":"pysam-0.15.0.1-py36hdfb72b2_1.tar.bz2",
 "total":31722
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"pysam-0.15.0.1-py27hdfb72b2_1.tar.bz2",
+"total":3901
 }
 ]
 }

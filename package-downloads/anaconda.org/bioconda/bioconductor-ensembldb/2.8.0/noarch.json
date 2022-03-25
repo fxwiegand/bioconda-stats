@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-ensembldb-2.8.0-r36_1.tar.bz2",
-"total":3527
+"total":3529
 }
 ],
 "downloads_per_date":[
@@ -1010,6 +1010,10 @@
 {
 "date":"2022-03-24",
 "total":3527
+},
+{
+"date":"2022-03-25",
+"total":3529
 }
 ],
 "package":"bioconductor-ensembldb",
@@ -1362,6 +1366,15 @@
 {
 "basename":"bioconductor-ensembldb-2.8.0-r36_1.tar.bz2",
 "total":3527
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ensembldb-2.8.0-r36_1.tar.bz2",
+"total":3529
 }
 ]
 }

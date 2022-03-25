@@ -15,7 +15,7 @@
 },
 {
 "basename":"ntlink-1.1.0-py39h33336d3_0.tar.bz2",
-"total":315
+"total":317
 }
 ],
 "downloads_per_date":[
@@ -598,6 +598,10 @@
 {
 "date":"2022-03-24",
 "total":354
+},
+{
+"date":"2022-03-25",
+"total":356
 }
 ],
 "package":"ntlink",
@@ -956,6 +960,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"ntlink-1.1.0-py39h33336d3_0.tar.bz2",
+"total":315
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"ntlink-1.1.0-py36h19cd5ec_0.tar.bz2",
 "total":13
 },
@@ -965,7 +978,7 @@
 },
 {
 "basename":"ntlink-1.1.0-py39h33336d3_0.tar.bz2",
-"total":315
+"total":317
 }
 ]
 }

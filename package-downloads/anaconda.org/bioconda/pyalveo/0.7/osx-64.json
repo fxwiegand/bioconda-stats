@@ -15,7 +15,7 @@
 },
 {
 "basename":"pyalveo-0.7-py36_0.tar.bz2",
-"total":2364
+"total":2366
 }
 ],
 "downloads_per_date":[
@@ -1142,6 +1142,10 @@
 {
 "date":"2022-03-24",
 "total":2463
+},
+{
+"date":"2022-03-25",
+"total":2465
 }
 ],
 "package":"pyalveo",
@@ -1501,6 +1505,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"pyalveo-0.7-py36_0.tar.bz2",
+"total":2364
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"pyalveo-0.7-py27_0.tar.bz2",
 "total":32
 },
@@ -1514,7 +1527,7 @@
 },
 {
 "basename":"pyalveo-0.7-py36_0.tar.bz2",
-"total":2364
+"total":2366
 }
 ]
 }

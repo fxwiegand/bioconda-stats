@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-vcftools-vcf-0.1.15-pl5.22.0_1.tar.bz2",
-"total":424
+"total":425
 },
 {
 "basename":"perl-vcftools-vcf-0.1.15-pl526_2.tar.bz2",
@@ -706,6 +706,10 @@
 {
 "date":"2022-03-24",
 "total":1210
+},
+{
+"date":"2022-03-25",
+"total":1211
 }
 ],
 "package":"perl-vcftools-vcf",
@@ -942,6 +946,15 @@
 {
 "basename":"perl-vcftools-vcf-0.1.15-pl526_2.tar.bz2",
 "total":786
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"perl-vcftools-vcf-0.1.15-pl5.22.0_1.tar.bz2",
+"total":425
 }
 ]
 }

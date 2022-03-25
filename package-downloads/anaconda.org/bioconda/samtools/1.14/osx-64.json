@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"samtools-1.14-hdbfa7a9_0.tar.bz2",
-"total":21981
+"total":21989
 }
 ],
 "downloads_per_date":[
@@ -514,6 +514,10 @@
 {
 "date":"2022-03-24",
 "total":21981
+},
+{
+"date":"2022-03-25",
+"total":21989
 }
 ],
 "package":"samtools",
@@ -875,6 +879,15 @@
 {
 "basename":"samtools-1.14-hdbfa7a9_0.tar.bz2",
 "total":21981
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"samtools-1.14-hdbfa7a9_0.tar.bz2",
+"total":21989
 }
 ]
 }

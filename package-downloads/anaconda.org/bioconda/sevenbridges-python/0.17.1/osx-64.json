@@ -11,7 +11,7 @@
 },
 {
 "basename":"sevenbridges-python-0.17.1-py36_0.tar.bz2",
-"total":2080
+"total":2082
 }
 ],
 "downloads_per_date":[
@@ -1134,6 +1134,10 @@
 {
 "date":"2022-03-24",
 "total":2402
+},
+{
+"date":"2022-03-25",
+"total":2404
 }
 ],
 "package":"sevenbridges-python",
@@ -1484,6 +1488,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"sevenbridges-python-0.17.1-py36_0.tar.bz2",
+"total":2080
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"sevenbridges-python-0.17.1-py35_0.tar.bz2",
 "total":34
 },
@@ -1493,7 +1506,7 @@
 },
 {
 "basename":"sevenbridges-python-0.17.1-py36_0.tar.bz2",
-"total":2080
+"total":2082
 }
 ]
 }

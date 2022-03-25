@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-dnashaper-1.22.0-r41h619a076_1.tar.bz2",
-"total":10
+"total":11
 },
 {
 "basename":"bioconductor-dnashaper-1.22.0-r41h399db7b_0.tar.bz2",
@@ -146,6 +146,10 @@
 {
 "date":"2022-03-24",
 "total":39
+},
+{
+"date":"2022-03-25",
+"total":40
 }
 ],
 "package":"bioconductor-dnashaper",
@@ -218,6 +222,15 @@
 {
 "basename":"bioconductor-dnashaper-1.22.0-r41h399db7b_0.tar.bz2",
 "total":29
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-dnashaper-1.22.0-r41h619a076_1.tar.bz2",
+"total":11
 }
 ]
 }

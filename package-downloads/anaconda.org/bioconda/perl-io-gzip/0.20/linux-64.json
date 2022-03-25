@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-io-gzip-0.20-pl5321h7132678_4.tar.bz2",
-"total":32
+"total":33
 },
 {
 "basename":"perl-io-gzip-0.20-pl5.22.0_0.tar.bz2",
@@ -1030,6 +1030,10 @@
 {
 "date":"2022-03-24",
 "total":10866
+},
+{
+"date":"2022-03-25",
+"total":10867
 }
 ],
 "package":"perl-io-gzip",
@@ -1508,6 +1512,15 @@
 {
 "basename":"perl-io-gzip-0.20-pl5321h7132678_4.tar.bz2",
 "total":32
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"perl-io-gzip-0.20-pl5321h7132678_4.tar.bz2",
+"total":33
 }
 ]
 }

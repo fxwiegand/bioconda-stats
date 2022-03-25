@@ -1116,6 +1116,10 @@
 {
 "date":"2022-03-24",
 "total":13576
+},
+{
+"date":"2022-03-25",
+"total":13579
 }
 ],
 "downloads_per_subdir":[
@@ -1125,7 +1129,7 @@
 },
 {
 "subdir":"linux-64",
-"total":12145
+"total":12148
 }
 ],
 "package":"seqkit",
@@ -1639,6 +1643,15 @@
 {
 "subdir":"linux-64",
 "total":12145
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":12148
 }
 ]
 }

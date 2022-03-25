@@ -104,6 +104,10 @@
 {
 "date":"2022-03-24",
 "total":121
+},
+{
+"date":"2022-03-25",
+"total":123
 }
 ],
 "downloads_per_subdir":[
@@ -113,7 +117,7 @@
 },
 {
 "subdir":"noarch",
-"total":97
+"total":99
 }
 ],
 "package":"perl-bio-viennangs",
@@ -365,6 +369,15 @@
 {
 "subdir":"noarch",
 "total":97
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"noarch",
+"total":99
 }
 ]
 }

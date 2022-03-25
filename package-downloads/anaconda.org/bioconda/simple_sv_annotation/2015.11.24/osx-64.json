@@ -11,7 +11,7 @@
 },
 {
 "basename":"simple_sv_annotation-2015.11.24-py35_0.tar.bz2",
-"total":2407
+"total":2409
 }
 ],
 "downloads_per_date":[
@@ -1138,6 +1138,10 @@
 {
 "date":"2022-03-24",
 "total":2534
+},
+{
+"date":"2022-03-25",
+"total":2536
 }
 ],
 "package":"simple_sv_annotation",
@@ -1497,6 +1501,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"simple_sv_annotation-2015.11.24-py35_0.tar.bz2",
+"total":2407
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"simple_sv_annotation-2015.11.24-py34_0.tar.bz2",
 "total":48
 },
@@ -1506,7 +1519,7 @@
 },
 {
 "basename":"simple_sv_annotation-2015.11.24-py35_0.tar.bz2",
-"total":2407
+"total":2409
 }
 ]
 }

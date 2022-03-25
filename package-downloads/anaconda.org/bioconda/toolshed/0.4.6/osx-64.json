@@ -762,6 +762,10 @@
 {
 "date":"2022-03-24",
 "total":2698
+},
+{
+"date":"2022-03-25",
+"total":2698
 }
 ],
 "package":"toolshed",
@@ -812,7 +816,12 @@
 {
 "basename":"toolshed-0.4.6-py27_0.tar.bz2",
 "total":298
+}
+]
 },
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
 {
 "basename":"toolshed-0.4.6-py36_0.tar.bz2",
 "total":1781

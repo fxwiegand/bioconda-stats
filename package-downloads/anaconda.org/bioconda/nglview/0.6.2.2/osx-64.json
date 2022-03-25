@@ -1138,6 +1138,10 @@
 {
 "date":"2022-03-24",
 "total":2995
+},
+{
+"date":"2022-03-25",
+"total":2995
 }
 ],
 "package":"nglview",
@@ -1443,6 +1447,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"nglview-0.6.2.2-py35_0.tar.bz2",
+"total":2285
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"nglview-0.6.2.2-1.tar.bz2",
 "total":84
 },
@@ -1453,10 +1466,6 @@
 {
 "basename":"nglview-0.6.2.2-py27_0.tar.bz2",
 "total":428
-},
-{
-"basename":"nglview-0.6.2.2-py35_0.tar.bz2",
-"total":2285
 }
 ]
 }

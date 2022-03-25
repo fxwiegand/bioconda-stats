@@ -1124,6 +1124,10 @@
 {
 "date":"2022-03-24",
 "total":4274
+},
+{
+"date":"2022-03-25",
+"total":4276
 }
 ],
 "downloads_per_subdir":[
@@ -1133,7 +1137,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2232
+"total":2234
 }
 ],
 "package":"bioconductor-apeglm",
@@ -1558,6 +1562,15 @@
 {
 "subdir":"osx-64",
 "total":2232
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2234
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-coregnet-1.32.0-r41haba8685_1.tar.bz2",
-"total":73
+"total":75
 },
 {
 "basename":"bioconductor-coregnet-1.32.0-r41h68a2ddb_0.tar.bz2",
@@ -490,6 +490,10 @@
 {
 "date":"2022-03-24",
 "total":305
+},
+{
+"date":"2022-03-25",
+"total":307
 }
 ],
 "package":"bioconductor-coregnet",
@@ -851,6 +855,15 @@
 {
 "basename":"bioconductor-coregnet-1.32.0-r41haba8685_1.tar.bz2",
 "total":73
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-coregnet-1.32.0-r41haba8685_1.tar.bz2",
+"total":75
 }
 ]
 }

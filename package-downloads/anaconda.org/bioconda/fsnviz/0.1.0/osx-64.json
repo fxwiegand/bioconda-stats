@@ -1110,6 +1110,10 @@
 {
 "date":"2022-03-24",
 "total":2370
+},
+{
+"date":"2022-03-25",
+"total":2370
 }
 ],
 "package":"fsnviz",
@@ -1415,6 +1419,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"fsnviz-0.1.0-py36_1.tar.bz2",
+"total":2027
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"fsnviz-0.1.0-py35_0.tar.bz2",
 "total":31
 },
@@ -1425,10 +1438,6 @@
 {
 "basename":"fsnviz-0.1.0-py35_1.tar.bz2",
 "total":272
-},
-{
-"basename":"fsnviz-0.1.0-py36_1.tar.bz2",
-"total":2027
 }
 ]
 }

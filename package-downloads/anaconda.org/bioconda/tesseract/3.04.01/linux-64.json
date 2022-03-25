@@ -7,7 +7,7 @@
 },
 {
 "basename":"tesseract-3.04.01-1.tar.bz2",
-"total":3463
+"total":3465
 }
 ],
 "downloads_per_date":[
@@ -1130,6 +1130,10 @@
 {
 "date":"2022-03-24",
 "total":5749
+},
+{
+"date":"2022-03-25",
+"total":5751
 }
 ],
 "package":"tesseract",
@@ -1510,6 +1514,15 @@
 {
 "basename":"tesseract-3.04.01-1.tar.bz2",
 "total":3463
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"tesseract-3.04.01-1.tar.bz2",
+"total":3465
 }
 ]
 }

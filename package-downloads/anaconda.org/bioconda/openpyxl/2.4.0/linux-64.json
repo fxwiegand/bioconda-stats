@@ -7,7 +7,7 @@
 },
 {
 "basename":"openpyxl-2.4.0-py35_0.tar.bz2",
-"total":5198
+"total":5199
 },
 {
 "basename":"openpyxl-2.4.0-py36_0.tar.bz2",
@@ -998,6 +998,10 @@
 {
 "date":"2022-03-24",
 "total":28771
+},
+{
+"date":"2022-03-25",
+"total":28772
 }
 ],
 "package":"openpyxl",
@@ -1378,6 +1382,15 @@
 {
 "basename":"openpyxl-2.4.0-py27_0.tar.bz2",
 "total":11682
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"openpyxl-2.4.0-py35_0.tar.bz2",
+"total":5199
 }
 ]
 }

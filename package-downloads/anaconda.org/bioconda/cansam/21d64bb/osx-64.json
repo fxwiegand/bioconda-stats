@@ -1118,6 +1118,10 @@
 {
 "date":"2022-03-24",
 "total":2414
+},
+{
+"date":"2022-03-25",
+"total":2414
 }
 ],
 "package":"cansam",
@@ -1435,6 +1439,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"cansam-21d64bb-he70e187_2.tar.bz2",
+"total":2034
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"cansam-21d64bb-h8b3aa4e_4.tar.bz2",
 "total":24
 },
@@ -1449,10 +1462,6 @@
 {
 "basename":"cansam-21d64bb-0.tar.bz2",
 "total":288
-},
-{
-"basename":"cansam-21d64bb-he70e187_2.tar.bz2",
-"total":2034
 }
 ]
 }

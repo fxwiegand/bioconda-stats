@@ -1124,6 +1124,10 @@
 {
 "date":"2022-03-24",
 "total":3029
+},
+{
+"date":"2022-03-25",
+"total":3030
 }
 ],
 "downloads_per_subdir":[
@@ -1133,7 +1137,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2402
+"total":2403
 }
 ],
 "package":"bioconductor-recount",
@@ -1508,6 +1512,15 @@
 {
 "subdir":"osx-64",
 "total":2402
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2403
 }
 ]
 }

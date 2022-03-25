@@ -480,6 +480,10 @@
 {
 "date":"2022-03-24",
 "total":329
+},
+{
+"date":"2022-03-25",
+"total":331
 }
 ],
 "downloads_per_subdir":[
@@ -489,7 +493,7 @@
 },
 {
 "subdir":"osx-64",
-"total":282
+"total":284
 }
 ],
 "package":"bioconductor-diffustats",
@@ -874,6 +878,15 @@
 {
 "subdir":"osx-64",
 "total":282
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":284
 }
 ]
 }

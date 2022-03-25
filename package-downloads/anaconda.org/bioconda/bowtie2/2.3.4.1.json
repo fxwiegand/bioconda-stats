@@ -1124,6 +1124,10 @@
 {
 "date":"2022-03-24",
 "total":23640
+},
+{
+"date":"2022-03-25",
+"total":23642
 }
 ],
 "downloads_per_subdir":[
@@ -1133,7 +1137,7 @@
 },
 {
 "subdir":"linux-64",
-"total":18787
+"total":18789
 }
 ],
 "package":"bowtie2",
@@ -1543,6 +1547,15 @@
 {
 "subdir":"linux-64",
 "total":18787
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":18789
 }
 ]
 }

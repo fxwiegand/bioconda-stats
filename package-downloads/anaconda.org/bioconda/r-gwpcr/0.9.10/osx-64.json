@@ -1122,6 +1122,10 @@
 {
 "date":"2022-03-24",
 "total":2480
+},
+{
+"date":"2022-03-25",
+"total":2480
 }
 ],
 "package":"r-gwpcr",
@@ -1455,10 +1459,6 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
-"basename":"r-gwpcr-0.9.10-r351h1de35cc_2.tar.bz2",
-"total":41
-},
-{
 "basename":"r-gwpcr-0.9.10-r341h470a237_1.tar.bz2",
 "total":49
 },
@@ -1473,6 +1473,15 @@
 {
 "basename":"r-gwpcr-0.9.10-r40h0b31af3_4.tar.bz2",
 "total":1253
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"r-gwpcr-0.9.10-r351h1de35cc_2.tar.bz2",
+"total":41
 }
 ]
 }

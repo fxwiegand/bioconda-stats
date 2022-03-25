@@ -1124,6 +1124,10 @@
 {
 "date":"2022-03-24",
 "total":33365
+},
+{
+"date":"2022-03-25",
+"total":33367
 }
 ],
 "downloads_per_subdir":[
@@ -1133,7 +1137,7 @@
 },
 {
 "subdir":"linux-64",
-"total":29926
+"total":29928
 }
 ],
 "package":"fastp",
@@ -1609,6 +1613,15 @@
 {
 "subdir":"linux-64",
 "total":29926
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":29928
 }
 ]
 }

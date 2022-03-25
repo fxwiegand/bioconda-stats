@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-fgsea-1.20.0-r41h619a076_1.tar.bz2",
-"total":182
+"total":186
 },
 {
 "basename":"bioconductor-fgsea-1.20.0-r41h399db7b_0.tar.bz2",
@@ -458,6 +458,10 @@
 {
 "date":"2022-03-24",
 "total":752
+},
+{
+"date":"2022-03-25",
+"total":756
 }
 ],
 "package":"bioconductor-fgsea",
@@ -837,6 +841,15 @@
 {
 "basename":"bioconductor-fgsea-1.20.0-r41h399db7b_0.tar.bz2",
 "total":570
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-fgsea-1.20.0-r41h619a076_1.tar.bz2",
+"total":186
 }
 ]
 }

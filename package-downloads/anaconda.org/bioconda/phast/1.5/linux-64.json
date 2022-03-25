@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"phast-1.5-hec16e2b_4.tar.bz2",
-"total":21
+"total":22
 },
 {
 "basename":"phast-1.5-h516909a_1.tar.bz2",
@@ -818,6 +818,10 @@
 {
 "date":"2022-03-24",
 "total":1021
+},
+{
+"date":"2022-03-25",
+"total":1022
 }
 ],
 "package":"phast",
@@ -1158,6 +1162,15 @@
 {
 "basename":"phast-1.5-h516909a_2.tar.bz2",
 "total":359
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"phast-1.5-hec16e2b_4.tar.bz2",
+"total":22
 }
 ]
 }

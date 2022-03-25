@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"iqtree-2.2.0_beta-h135ad0d_1.tar.bz2",
-"total":3019
+"total":3120
 },
 {
 "basename":"iqtree-2.2.0_beta-h4de6764_0.tar.bz2",
@@ -290,6 +290,10 @@
 {
 "date":"2022-03-24",
 "total":12125
+},
+{
+"date":"2022-03-25",
+"total":12226
 }
 ],
 "package":"iqtree",
@@ -691,6 +695,15 @@
 {
 "basename":"iqtree-2.2.0_beta-h4de6764_0.tar.bz2",
 "total":9106
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"iqtree-2.2.0_beta-h135ad0d_1.tar.bz2",
+"total":3120
 }
 ]
 }

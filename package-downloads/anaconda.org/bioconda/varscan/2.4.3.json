@@ -1120,6 +1120,10 @@
 {
 "date":"2022-03-24",
 "total":12257
+},
+{
+"date":"2022-03-25",
+"total":12259
 }
 ],
 "downloads_per_subdir":[
@@ -1133,7 +1137,7 @@
 },
 {
 "subdir":"noarch",
-"total":6892
+"total":6894
 }
 ],
 "package":"varscan",
@@ -1558,6 +1562,15 @@
 {
 "subdir":"noarch",
 "total":6892
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"noarch",
+"total":6894
 }
 ]
 }

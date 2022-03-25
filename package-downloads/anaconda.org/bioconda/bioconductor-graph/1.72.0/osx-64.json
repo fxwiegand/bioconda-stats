@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-graph-1.72.0-r41haba8685_1.tar.bz2",
-"total":96
+"total":100
 },
 {
 "basename":"bioconductor-graph-1.72.0-r41h68a2ddb_0.tar.bz2",
@@ -486,6 +486,10 @@
 {
 "date":"2022-03-24",
 "total":651
+},
+{
+"date":"2022-03-25",
+"total":655
 }
 ],
 "package":"bioconductor-graph",
@@ -851,6 +855,15 @@
 {
 "basename":"bioconductor-graph-1.72.0-r41haba8685_1.tar.bz2",
 "total":96
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-graph-1.72.0-r41haba8685_1.tar.bz2",
+"total":100
 }
 ]
 }

@@ -1076,6 +1076,10 @@
 {
 "date":"2022-03-24",
 "total":622
+},
+{
+"date":"2022-03-25",
+"total":623
 }
 ],
 "downloads_per_subdir":[
@@ -1085,7 +1089,7 @@
 },
 {
 "subdir":"osx-64",
-"total":569
+"total":570
 }
 ],
 "package":"bioconductor-cohcap",
@@ -1444,6 +1448,15 @@
 {
 "subdir":"osx-64",
 "total":569
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":570
 }
 ]
 }

@@ -1122,6 +1122,10 @@
 {
 "date":"2022-03-24",
 "total":977
+},
+{
+"date":"2022-03-25",
+"total":977
 }
 ],
 "package":"hail",
@@ -1427,6 +1431,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"hail-0.2.61-py37h502bf93_1.tar.bz2",
+"total":830
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"hail-0.2.61-py36h6bea8ea_0.tar.bz2",
 "total":29
 },
@@ -1437,10 +1450,6 @@
 {
 "basename":"hail-0.2.61-py37h502bf93_0.tar.bz2",
 "total":86
-},
-{
-"basename":"hail-0.2.61-py37h502bf93_1.tar.bz2",
-"total":830
 }
 ]
 }

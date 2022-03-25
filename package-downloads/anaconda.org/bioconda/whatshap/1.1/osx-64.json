@@ -1138,6 +1138,10 @@
 {
 "date":"2022-03-24",
 "total":770
+},
+{
+"date":"2022-03-25",
+"total":770
 }
 ],
 "package":"whatshap",
@@ -1489,6 +1493,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"whatshap-1.1-py39hcf0ab7e_1.tar.bz2",
+"total":541
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"whatshap-1.1-py37h31803e2_0.tar.bz2",
 "total":15
 },
@@ -1499,10 +1512,6 @@
 {
 "basename":"whatshap-1.1-py39hcf0ab7e_0.tar.bz2",
 "total":116
-},
-{
-"basename":"whatshap-1.1-py39hcf0ab7e_1.tar.bz2",
-"total":541
 }
 ]
 }

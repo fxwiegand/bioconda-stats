@@ -15,7 +15,7 @@
 },
 {
 "basename":"peewee-2.8.0-py36_1.tar.bz2",
-"total":2208
+"total":2210
 }
 ],
 "downloads_per_date":[
@@ -1142,6 +1142,10 @@
 {
 "date":"2022-03-24",
 "total":2739
+},
+{
+"date":"2022-03-25",
+"total":2741
 }
 ],
 "package":"peewee",
@@ -1500,6 +1504,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"peewee-2.8.0-py36_1.tar.bz2",
+"total":2208
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"peewee-2.8.0-py27_1.tar.bz2",
 "total":176
 },
@@ -1509,7 +1522,7 @@
 },
 {
 "basename":"peewee-2.8.0-py36_1.tar.bz2",
-"total":2208
+"total":2210
 }
 ]
 }

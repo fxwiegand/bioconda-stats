@@ -1112,6 +1112,10 @@
 {
 "date":"2022-03-24",
 "total":18039
+},
+{
+"date":"2022-03-25",
+"total":18041
 }
 ],
 "downloads_per_subdir":[
@@ -1121,7 +1125,7 @@
 },
 {
 "subdir":"linux-64",
-"total":13800
+"total":13802
 }
 ],
 "package":"perl-scalar-list-utils",
@@ -1508,6 +1512,15 @@
 {
 "subdir":"linux-64",
 "total":13800
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":13802
 }
 ]
 }

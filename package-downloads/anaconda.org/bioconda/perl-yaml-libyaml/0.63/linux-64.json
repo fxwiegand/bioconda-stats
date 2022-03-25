@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-yaml-libyaml-0.63-pl526_2.tar.bz2",
-"total":163
+"total":164
 },
 {
 "basename":"perl-yaml-libyaml-0.63-pl5.22.0_1.tar.bz2",
@@ -250,6 +250,10 @@
 {
 "date":"2022-03-24",
 "total":2048
+},
+{
+"date":"2022-03-25",
+"total":2049
 }
 ],
 "package":"perl-yaml-libyaml",
@@ -386,6 +390,15 @@
 {
 "basename":"perl-yaml-libyaml-0.63-pl526_2.tar.bz2",
 "total":163
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"perl-yaml-libyaml-0.63-pl526_2.tar.bz2",
+"total":164
 }
 ]
 }

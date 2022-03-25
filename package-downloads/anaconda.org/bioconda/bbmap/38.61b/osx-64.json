@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bbmap-38.61b-h01d97ff_0.tar.bz2",
-"total":2013
+"total":2015
 }
 ],
 "downloads_per_date":[
@@ -1126,6 +1126,10 @@
 {
 "date":"2022-03-24",
 "total":2013
+},
+{
+"date":"2022-03-25",
+"total":2015
 }
 ],
 "package":"bbmap",
@@ -1478,6 +1482,15 @@
 {
 "basename":"bbmap-38.61b-h01d97ff_0.tar.bz2",
 "total":2013
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"bbmap-38.61b-h01d97ff_0.tar.bz2",
+"total":2015
 }
 ]
 }

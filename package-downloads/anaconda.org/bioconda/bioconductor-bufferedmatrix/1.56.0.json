@@ -1080,6 +1080,10 @@
 {
 "date":"2022-03-24",
 "total":656
+},
+{
+"date":"2022-03-25",
+"total":658
 }
 ],
 "downloads_per_subdir":[
@@ -1089,7 +1093,7 @@
 },
 {
 "subdir":"osx-64",
-"total":597
+"total":599
 }
 ],
 "package":"bioconductor-bufferedmatrix",
@@ -1466,6 +1470,15 @@
 {
 "subdir":"osx-64",
 "total":597
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":599
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"infernal-1.1.2-h470a237_1.tar.bz2",
-"total":7492
+"total":7494
 },
 {
 "basename":"infernal-1.1.2-h14c3975_2.tar.bz2",
@@ -1130,6 +1130,10 @@
 {
 "date":"2022-03-24",
 "total":39347
+},
+{
+"date":"2022-03-25",
+"total":39349
 }
 ],
 "package":"infernal",
@@ -1703,6 +1707,15 @@
 {
 "basename":"infernal-1.1.2-h14c3975_2.tar.bz2",
 "total":18355
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"infernal-1.1.2-h470a237_1.tar.bz2",
+"total":7494
 }
 ]
 }

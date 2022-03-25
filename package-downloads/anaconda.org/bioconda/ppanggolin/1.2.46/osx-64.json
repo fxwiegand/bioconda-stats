@@ -386,6 +386,10 @@
 {
 "date":"2022-03-24",
 "total":294
+},
+{
+"date":"2022-03-25",
+"total":294
 }
 ],
 "package":"ppanggolin",
@@ -691,6 +695,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"ppanggolin-1.2.46-py38h68004ad_1.tar.bz2",
+"total":214
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"ppanggolin-1.2.46-py36ha714b87_0.tar.bz2",
 "total":9
 },
@@ -709,10 +722,6 @@
 {
 "basename":"ppanggolin-1.2.46-py36ha714b87_1.tar.bz2",
 "total":27
-},
-{
-"basename":"ppanggolin-1.2.46-py38h68004ad_1.tar.bz2",
-"total":214
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"cooler-0.7.7-py36_0.tar.bz2",
-"total":2391
+"total":2393
 }
 ],
 "downloads_per_date":[
@@ -1138,6 +1138,10 @@
 {
 "date":"2022-03-24",
 "total":2481
+},
+{
+"date":"2022-03-25",
+"total":2483
 }
 ],
 "package":"cooler",
@@ -1488,6 +1492,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"cooler-0.7.7-py36_0.tar.bz2",
+"total":2391
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"cooler-0.7.7-py35_0.tar.bz2",
 "total":44
 },
@@ -1497,7 +1510,7 @@
 },
 {
 "basename":"cooler-0.7.7-py36_0.tar.bz2",
-"total":2391
+"total":2393
 }
 ]
 }

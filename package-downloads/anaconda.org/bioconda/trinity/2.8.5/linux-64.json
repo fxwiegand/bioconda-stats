@@ -23,7 +23,7 @@
 },
 {
 "basename":"trinity-2.8.5-h8b12597_5.tar.bz2",
-"total":6223
+"total":6225
 }
 ],
 "downloads_per_date":[
@@ -1150,6 +1150,10 @@
 {
 "date":"2022-03-24",
 "total":12003
+},
+{
+"date":"2022-03-25",
+"total":12005
 }
 ],
 "package":"trinity",
@@ -1834,6 +1838,15 @@
 {
 "basename":"trinity-2.8.5-h8b12597_5.tar.bz2",
 "total":6223
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"trinity-2.8.5-h8b12597_5.tar.bz2",
+"total":6225
 }
 ]
 }

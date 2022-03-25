@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-net-http-6.09-pl526_1.tar.bz2",
-"total":2533
+"total":2534
 },
 {
 "basename":"perl-net-http-6.09-0.tar.bz2",
@@ -1134,6 +1134,10 @@
 {
 "date":"2022-03-24",
 "total":5805
+},
+{
+"date":"2022-03-25",
+"total":5806
 }
 ],
 "package":"perl-net-http",
@@ -1528,6 +1532,15 @@
 {
 "basename":"perl-net-http-6.09-0.tar.bz2",
 "total":3272
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"perl-net-http-6.09-pl526_1.tar.bz2",
+"total":2534
 }
 ]
 }

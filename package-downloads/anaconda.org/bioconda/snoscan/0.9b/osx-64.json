@@ -7,7 +7,7 @@
 },
 {
 "basename":"snoscan-0.9b-pl5.22.0_0.tar.bz2",
-"total":44
+"total":45
 },
 {
 "basename":"snoscan-0.9b-pl5.22.0_1.tar.bz2",
@@ -1114,6 +1114,10 @@
 {
 "date":"2022-03-24",
 "total":2485
+},
+{
+"date":"2022-03-25",
+"total":2486
 }
 ],
 "package":"snoscan",
@@ -1441,6 +1445,15 @@
 {
 "basename":"snoscan-0.9b-pl526ha92aebf_2.tar.bz2",
 "total":2165
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"snoscan-0.9b-pl5.22.0_0.tar.bz2",
+"total":45
 }
 ]
 }

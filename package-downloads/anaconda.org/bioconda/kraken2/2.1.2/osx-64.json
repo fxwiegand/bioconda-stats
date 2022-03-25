@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"kraken2-2.1.2-pl5321hb339e23_2.tar.bz2",
-"total":29
+"total":30
 },
 {
 "basename":"kraken2-2.1.2-pl5321he1e422e_1.tar.bz2",
@@ -1138,6 +1138,10 @@
 {
 "date":"2022-03-24",
 "total":805
+},
+{
+"date":"2022-03-25",
+"total":806
 }
 ],
 "package":"kraken2",
@@ -1544,6 +1548,15 @@
 {
 "basename":"kraken2-2.1.2-pl5321he1e422e_1.tar.bz2",
 "total":151
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"kraken2-2.1.2-pl5321hb339e23_2.tar.bz2",
+"total":30
 }
 ]
 }

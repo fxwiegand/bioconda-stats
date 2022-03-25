@@ -19,7 +19,7 @@
 },
 {
 "basename":"umi_tools-1.0.1-py37h516909a_1.tar.bz2",
-"total":1918
+"total":1919
 },
 {
 "basename":"umi_tools-1.0.1-py37hf01694f_2.tar.bz2",
@@ -1086,6 +1086,10 @@
 {
 "date":"2022-03-24",
 "total":6718
+},
+{
+"date":"2022-03-25",
+"total":6719
 }
 ],
 "package":"umi_tools",
@@ -1678,6 +1682,15 @@
 {
 "basename":"umi_tools-1.0.1-py37hf01694f_2.tar.bz2",
 "total":3240
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"umi_tools-1.0.1-py37h516909a_1.tar.bz2",
+"total":1919
 }
 ]
 }

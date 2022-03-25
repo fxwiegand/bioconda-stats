@@ -1108,6 +1108,10 @@
 {
 "date":"2022-03-24",
 "total":7027
+},
+{
+"date":"2022-03-25",
+"total":7028
 }
 ],
 "downloads_per_subdir":[
@@ -1117,7 +1121,7 @@
 },
 {
 "subdir":"linux-64",
-"total":4339
+"total":4340
 }
 ],
 "package":"bcbio-nextgen",
@@ -1470,6 +1474,15 @@
 {
 "subdir":"linux-64",
 "total":4339
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":4340
 }
 ]
 }

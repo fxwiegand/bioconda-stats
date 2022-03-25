@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"gromacs-2020.4-h3ddc34e_0.tar.bz2",
-"total":16018
+"total":16042
 }
 ],
 "downloads_per_date":[
@@ -1130,6 +1130,10 @@
 {
 "date":"2022-03-24",
 "total":16018
+},
+{
+"date":"2022-03-25",
+"total":16042
 }
 ],
 "package":"gromacs",
@@ -1491,6 +1495,15 @@
 {
 "basename":"gromacs-2020.4-h3ddc34e_0.tar.bz2",
 "total":16018
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"gromacs-2020.4-h3ddc34e_0.tar.bz2",
+"total":16042
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-test-simple-1.302075-pl526_1.tar.bz2",
-"total":2554
+"total":2556
 }
 ],
 "downloads_per_date":[
@@ -1134,6 +1134,10 @@
 {
 "date":"2022-03-24",
 "total":3185
+},
+{
+"date":"2022-03-25",
+"total":3187
 }
 ],
 "package":"perl-test-simple",
@@ -1502,6 +1506,15 @@
 {
 "basename":"perl-test-simple-1.302075-pl526_1.tar.bz2",
 "total":2554
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"perl-test-simple-1.302075-pl526_1.tar.bz2",
+"total":2556
 }
 ]
 }

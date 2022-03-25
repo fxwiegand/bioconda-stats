@@ -1124,6 +1124,10 @@
 {
 "date":"2022-03-24",
 "total":2482
+},
+{
+"date":"2022-03-25",
+"total":2484
 }
 ],
 "downloads_per_subdir":[
@@ -1133,7 +1137,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2303
+"total":2305
 }
 ],
 "package":"bioconductor-iseq",
@@ -1518,6 +1522,15 @@
 {
 "subdir":"osx-64",
 "total":2303
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2305
 }
 ]
 }

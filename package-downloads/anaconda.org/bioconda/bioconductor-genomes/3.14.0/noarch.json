@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-genomes-3.14.0-r36_1.tar.bz2",
-"total":493
+"total":495
 }
 ],
 "downloads_per_date":[
@@ -982,6 +982,10 @@
 {
 "date":"2022-03-24",
 "total":627
+},
+{
+"date":"2022-03-25",
+"total":629
 }
 ],
 "package":"bioconductor-genomes",
@@ -1346,6 +1350,15 @@
 {
 "basename":"bioconductor-genomes-3.14.0-r36_1.tar.bz2",
 "total":493
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-genomes-3.14.0-r36_1.tar.bz2",
+"total":495
 }
 ]
 }

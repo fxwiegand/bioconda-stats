@@ -1072,6 +1072,10 @@
 {
 "date":"2022-03-24",
 "total":980
+},
+{
+"date":"2022-03-25",
+"total":982
 }
 ],
 "downloads_per_subdir":[
@@ -1081,7 +1085,7 @@
 },
 {
 "subdir":"osx-64",
-"total":691
+"total":693
 }
 ],
 "package":"bioconductor-xcms",
@@ -1487,6 +1491,15 @@
 {
 "subdir":"osx-64",
 "total":691
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":693
 }
 ]
 }

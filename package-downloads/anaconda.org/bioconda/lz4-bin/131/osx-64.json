@@ -15,7 +15,7 @@
 },
 {
 "basename":"lz4-bin-131-hb4d813b_4.tar.bz2",
-"total":707
+"total":709
 },
 {
 "basename":"lz4-bin-131-h470a237_2.tar.bz2",
@@ -1142,6 +1142,10 @@
 {
 "date":"2022-03-24",
 "total":2425
+},
+{
+"date":"2022-03-25",
+"total":2427
 }
 ],
 "package":"lz4-bin",
@@ -1534,6 +1538,15 @@
 {
 "basename":"lz4-bin-131-hb4d813b_4.tar.bz2",
 "total":707
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"lz4-bin-131-hb4d813b_4.tar.bz2",
+"total":709
 }
 ]
 }

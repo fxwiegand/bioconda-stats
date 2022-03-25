@@ -27,7 +27,7 @@
 },
 {
 "basename":"cnvkit-0.8.6a0-py36_2.tar.bz2",
-"total":2106
+"total":2108
 }
 ],
 "downloads_per_date":[
@@ -1154,6 +1154,10 @@
 {
 "date":"2022-03-24",
 "total":2602
+},
+{
+"date":"2022-03-25",
+"total":2604
 }
 ],
 "package":"cnvkit",
@@ -1504,6 +1508,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"cnvkit-0.8.6a0-py36_2.tar.bz2",
+"total":2106
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"cnvkit-0.8.6a0-py27_1.tar.bz2",
 "total":37
 },
@@ -1529,7 +1542,7 @@
 },
 {
 "basename":"cnvkit-0.8.6a0-py36_2.tar.bz2",
-"total":2106
+"total":2108
 }
 ]
 }

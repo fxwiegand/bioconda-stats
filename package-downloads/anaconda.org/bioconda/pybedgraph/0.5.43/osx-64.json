@@ -1146,6 +1146,10 @@
 {
 "date":"2022-03-24",
 "total":1515
+},
+{
+"date":"2022-03-25",
+"total":1515
 }
 ],
 "package":"pybedgraph",
@@ -1532,6 +1536,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"pybedgraph-0.5.43-py39he2a1a62_2.tar.bz2",
+"total":653
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"pybedgraph-0.5.43-py36h6de7cb9_0.tar.bz2",
 "total":16
 },
@@ -1542,10 +1555,6 @@
 {
 "basename":"pybedgraph-0.5.43-py38hfa815b7_1.tar.bz2",
 "total":425
-},
-{
-"basename":"pybedgraph-0.5.43-py39he2a1a62_2.tar.bz2",
-"total":653
 }
 ]
 }

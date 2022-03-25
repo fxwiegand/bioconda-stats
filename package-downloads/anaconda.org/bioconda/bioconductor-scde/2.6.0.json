@@ -1124,6 +1124,10 @@
 {
 "date":"2022-03-24",
 "total":3128
+},
+{
+"date":"2022-03-25",
+"total":3130
 }
 ],
 "downloads_per_subdir":[
@@ -1133,7 +1137,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2475
+"total":2477
 }
 ],
 "package":"bioconductor-scde",
@@ -1535,6 +1539,15 @@
 {
 "subdir":"osx-64",
 "total":2475
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2477
 }
 ]
 }

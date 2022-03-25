@@ -1146,6 +1146,10 @@
 {
 "date":"2022-03-24",
 "total":1666
+},
+{
+"date":"2022-03-25",
+"total":1666
 }
 ],
 "package":"galaxy-util",
@@ -1451,6 +1455,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"galaxy-util-19.9.0-py37hc8dfbb8_1.tar.bz2",
+"total":1328
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"galaxy-util-19.9.0-py36h9f0ad1d_1.tar.bz2",
 "total":17
 },
@@ -1465,10 +1478,6 @@
 {
 "basename":"galaxy-util-19.9.0-py37_0.tar.bz2",
 "total":271
-},
-{
-"basename":"galaxy-util-19.9.0-py37hc8dfbb8_1.tar.bz2",
-"total":1328
 }
 ]
 }

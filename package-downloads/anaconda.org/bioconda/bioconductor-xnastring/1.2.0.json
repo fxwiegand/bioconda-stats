@@ -476,6 +476,10 @@
 {
 "date":"2022-03-24",
 "total":292
+},
+{
+"date":"2022-03-25",
+"total":294
 }
 ],
 "downloads_per_subdir":[
@@ -485,7 +489,7 @@
 },
 {
 "subdir":"osx-64",
-"total":264
+"total":266
 }
 ],
 "package":"bioconductor-xnastring",
@@ -849,6 +853,15 @@
 {
 "subdir":"osx-64",
 "total":264
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":266
 }
 ]
 }

@@ -1126,6 +1126,10 @@
 {
 "date":"2022-03-24",
 "total":2441
+},
+{
+"date":"2022-03-25",
+"total":2441
 }
 ],
 "package":"pysnptools",
@@ -1451,6 +1455,15 @@
 "total":9
 },
 {
+"basename":"pysnptools-0.3.13-py27hf160534_4.tar.bz2",
+"total":1104
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"pysnptools-0.3.13-py27h41c5297_5.tar.bz2",
 "total":28
 },
@@ -1461,10 +1474,6 @@
 {
 "basename":"pysnptools-0.3.13-py27h6de7cb9_3.tar.bz2",
 "total":634
-},
-{
-"basename":"pysnptools-0.3.13-py27hf160534_4.tar.bz2",
-"total":1104
 }
 ]
 }

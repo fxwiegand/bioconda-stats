@@ -1124,6 +1124,10 @@
 {
 "date":"2022-03-24",
 "total":20076
+},
+{
+"date":"2022-03-25",
+"total":20078
 }
 ],
 "downloads_per_subdir":[
@@ -1133,7 +1137,7 @@
 },
 {
 "subdir":"linux-64",
-"total":16268
+"total":16270
 }
 ],
 "package":"perl-role-tiny",
@@ -1630,6 +1634,15 @@
 {
 "subdir":"linux-64",
 "total":16268
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":16270
 }
 ]
 }

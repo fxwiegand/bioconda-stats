@@ -15,7 +15,7 @@
 },
 {
 "basename":"ncls-0.0.56-py38h771b250_0.tar.bz2",
-"total":1025
+"total":1027
 }
 ],
 "downloads_per_date":[
@@ -1142,6 +1142,10 @@
 {
 "date":"2022-03-24",
 "total":1106
+},
+{
+"date":"2022-03-25",
+"total":1108
 }
 ],
 "package":"ncls",
@@ -1492,6 +1496,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"ncls-0.0.56-py38h771b250_0.tar.bz2",
+"total":1025
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"ncls-0.0.56-py36he651532_0.tar.bz2",
 "total":19
 },
@@ -1505,7 +1518,7 @@
 },
 {
 "basename":"ncls-0.0.56-py38h771b250_0.tar.bz2",
-"total":1025
+"total":1027
 }
 ]
 }

@@ -1150,6 +1150,10 @@
 {
 "date":"2022-03-24",
 "total":2538
+},
+{
+"date":"2022-03-25",
+"total":2538
 }
 ],
 "package":"manormfast",
@@ -1463,6 +1467,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"manormfast-0.1.2-py36_1.tar.bz2",
+"total":2094
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"manormfast-0.1.2-py27_0.tar.bz2",
 "total":28
 },
@@ -1481,10 +1494,6 @@
 {
 "basename":"manormfast-0.1.2-py34_1.tar.bz2",
 "total":284
-},
-{
-"basename":"manormfast-0.1.2-py36_1.tar.bz2",
-"total":2094
 }
 ]
 }

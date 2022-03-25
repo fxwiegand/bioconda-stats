@@ -1124,6 +1124,10 @@
 {
 "date":"2022-03-24",
 "total":62097
+},
+{
+"date":"2022-03-25",
+"total":62098
 }
 ],
 "downloads_per_subdir":[
@@ -1133,7 +1137,7 @@
 },
 {
 "subdir":"linux-64",
-"total":59406
+"total":59407
 }
 ],
 "package":"pbgzip",
@@ -1614,6 +1618,15 @@
 {
 "subdir":"linux-64",
 "total":59406
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":59407
 }
 ]
 }

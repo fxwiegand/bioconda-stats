@@ -19,7 +19,7 @@
 },
 {
 "basename":"ghm-3.1-hed695b0_3.tar.bz2",
-"total":1211
+"total":1213
 },
 {
 "basename":"ghm-3.1-ha92aebf_2.tar.bz2",
@@ -1146,6 +1146,10 @@
 {
 "date":"2022-03-24",
 "total":3629
+},
+{
+"date":"2022-03-25",
+"total":3631
 }
 ],
 "package":"ghm",
@@ -1683,6 +1687,15 @@
 {
 "basename":"ghm-3.1-ha92aebf_2.tar.bz2",
 "total":1642
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"ghm-3.1-hed695b0_3.tar.bz2",
+"total":1213
 }
 ]
 }

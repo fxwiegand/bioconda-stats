@@ -15,7 +15,7 @@
 },
 {
 "basename":"fastahack-2016.07.2-hc9558a2_2.tar.bz2",
-"total":1184
+"total":1186
 },
 {
 "basename":"fastahack-2016.07.2-h2d50403_1.tar.bz2",
@@ -1146,6 +1146,10 @@
 {
 "date":"2022-03-24",
 "total":3310
+},
+{
+"date":"2022-03-25",
+"total":3312
 }
 ],
 "package":"fastahack",
@@ -1602,6 +1606,15 @@
 {
 "basename":"fastahack-2016.07.2-h2d50403_1.tar.bz2",
 "total":1293
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"fastahack-2016.07.2-hc9558a2_2.tar.bz2",
+"total":1186
 }
 ]
 }

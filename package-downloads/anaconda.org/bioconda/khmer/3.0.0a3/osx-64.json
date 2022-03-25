@@ -11,7 +11,7 @@
 },
 {
 "basename":"khmer-3.0.0a3-py38ha8ac59a_1.tar.bz2",
-"total":1197
+"total":1199
 },
 {
 "basename":"khmer-3.0.0a3-py37h0a44026_0.tar.bz2",
@@ -1142,6 +1142,10 @@
 {
 "date":"2022-03-24",
 "total":2650
+},
+{
+"date":"2022-03-25",
+"total":2652
 }
 ],
 "package":"khmer",
@@ -1554,6 +1558,15 @@
 {
 "basename":"khmer-3.0.0a3-py37h0a44026_0.tar.bz2",
 "total":1256
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"khmer-3.0.0a3-py38ha8ac59a_1.tar.bz2",
+"total":1199
 }
 ]
 }

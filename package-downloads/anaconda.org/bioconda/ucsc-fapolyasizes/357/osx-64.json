@@ -11,7 +11,7 @@
 },
 {
 "basename":"ucsc-fapolyasizes-357-h5eb252a_2.tar.bz2",
-"total":2100
+"total":2102
 }
 ],
 "downloads_per_date":[
@@ -1138,6 +1138,10 @@
 {
 "date":"2022-03-24",
 "total":2409
+},
+{
+"date":"2022-03-25",
+"total":2411
 }
 ],
 "package":"ucsc-fapolyasizes",
@@ -1479,6 +1483,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"ucsc-fapolyasizes-357-h5eb252a_2.tar.bz2",
+"total":2100
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"ucsc-fapolyasizes-357-1.tar.bz2",
 "total":34
 },
@@ -1488,7 +1501,7 @@
 },
 {
 "basename":"ucsc-fapolyasizes-357-h5eb252a_2.tar.bz2",
-"total":2100
+"total":2102
 }
 ]
 }

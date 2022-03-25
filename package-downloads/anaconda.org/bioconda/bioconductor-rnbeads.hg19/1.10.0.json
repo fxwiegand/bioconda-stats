@@ -1124,6 +1124,10 @@
 {
 "date":"2022-03-24",
 "total":2669
+},
+{
+"date":"2022-03-25",
+"total":2670
 }
 ],
 "downloads_per_subdir":[
@@ -1133,7 +1137,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2342
+"total":2343
 }
 ],
 "package":"bioconductor-rnbeads.hg19",
@@ -1484,6 +1488,15 @@
 {
 "subdir":"osx-64",
 "total":2342
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2343
 }
 ]
 }

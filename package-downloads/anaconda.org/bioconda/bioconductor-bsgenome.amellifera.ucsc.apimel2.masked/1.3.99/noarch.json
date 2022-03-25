@@ -31,7 +31,7 @@
 },
 {
 "basename":"bioconductor-bsgenome.amellifera.ucsc.apimel2.masked-1.3.99-r41hdfd78af_8.tar.bz2",
-"total":260
+"total":262
 }
 ],
 "downloads_per_date":[
@@ -1042,6 +1042,10 @@
 {
 "date":"2022-03-24",
 "total":997
+},
+{
+"date":"2022-03-25",
+"total":999
 }
 ],
 "package":"bioconductor-bsgenome.amellifera.ucsc.apimel2.masked",
@@ -1550,6 +1554,15 @@
 {
 "basename":"bioconductor-bsgenome.amellifera.ucsc.apimel2.masked-1.3.99-r41hdfd78af_8.tar.bz2",
 "total":260
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bsgenome.amellifera.ucsc.apimel2.masked-1.3.99-r41hdfd78af_8.tar.bz2",
+"total":262
 }
 ]
 }

@@ -1124,6 +1124,10 @@
 {
 "date":"2022-03-24",
 "total":68184
+},
+{
+"date":"2022-03-25",
+"total":68191
 }
 ],
 "downloads_per_subdir":[
@@ -1133,7 +1137,7 @@
 },
 {
 "subdir":"linux-64",
-"total":55091
+"total":55098
 }
 ],
 "package":"bioconductor-biostrings",
@@ -1651,6 +1655,15 @@
 {
 "subdir":"linux-64",
 "total":55091
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":55098
 }
 ]
 }

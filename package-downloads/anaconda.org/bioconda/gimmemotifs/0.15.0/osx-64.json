@@ -1146,6 +1146,10 @@
 {
 "date":"2022-03-24",
 "total":1156
+},
+{
+"date":"2022-03-25",
+"total":1156
 }
 ],
 "package":"gimmemotifs",
@@ -1451,6 +1455,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"gimmemotifs-0.15.0-py38h771b250_1.tar.bz2",
+"total":1022
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"gimmemotifs-0.15.0-py37hea0d0e9_0.tar.bz2",
 "total":24
 },
@@ -1469,10 +1482,6 @@
 {
 "basename":"gimmemotifs-0.15.0-py38h771b250_0.tar.bz2",
 "total":30
-},
-{
-"basename":"gimmemotifs-0.15.0-py38h771b250_1.tar.bz2",
-"total":1022
 }
 ]
 }

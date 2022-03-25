@@ -1004,6 +1004,10 @@
 {
 "date":"2022-03-24",
 "total":1024
+},
+{
+"date":"2022-03-25",
+"total":1026
 }
 ],
 "downloads_per_subdir":[
@@ -1013,7 +1017,7 @@
 },
 {
 "subdir":"osx-64",
-"total":572
+"total":574
 }
 ],
 "package":"proteinortho",
@@ -1394,6 +1398,15 @@
 {
 "subdir":"osx-64",
 "total":572
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":574
 }
 ]
 }

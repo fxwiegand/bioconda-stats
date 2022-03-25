@@ -564,6 +564,10 @@
 {
 "date":"2022-03-24",
 "total":365
+},
+{
+"date":"2022-03-25",
+"total":367
 }
 ],
 "downloads_per_subdir":[
@@ -573,7 +577,7 @@
 },
 {
 "subdir":"osx-64",
-"total":321
+"total":323
 }
 ],
 "package":"gencore",
@@ -962,6 +966,15 @@
 {
 "subdir":"osx-64",
 "total":321
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":323
 }
 ]
 }

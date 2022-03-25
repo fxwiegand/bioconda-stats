@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-xml-simple-2.22-0.tar.bz2",
-"total":2243
+"total":2244
 },
 {
 "basename":"perl-xml-simple-2.22-pl526_3.tar.bz2",
@@ -1122,6 +1122,10 @@
 {
 "date":"2022-03-24",
 "total":5349
+},
+{
+"date":"2022-03-25",
+"total":5350
 }
 ],
 "package":"perl-xml-simple",
@@ -1523,6 +1527,15 @@
 {
 "basename":"perl-xml-simple-2.22-pl526_3.tar.bz2",
 "total":2583
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"perl-xml-simple-2.22-0.tar.bz2",
+"total":2244
 }
 ]
 }

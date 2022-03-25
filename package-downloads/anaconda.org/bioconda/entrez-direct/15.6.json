@@ -700,6 +700,10 @@
 {
 "date":"2022-03-24",
 "total":63968
+},
+{
+"date":"2022-03-25",
+"total":63974
 }
 ],
 "downloads_per_subdir":[
@@ -709,7 +713,7 @@
 },
 {
 "subdir":"linux-64",
-"total":46154
+"total":46160
 }
 ],
 "package":"entrez-direct",
@@ -1215,6 +1219,15 @@
 {
 "subdir":"linux-64",
 "total":46154
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"linux-64",
+"total":46160
 }
 ]
 }

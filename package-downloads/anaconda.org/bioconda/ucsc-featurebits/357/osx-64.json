@@ -11,7 +11,7 @@
 },
 {
 "basename":"ucsc-featurebits-357-h5eb252a_2.tar.bz2",
-"total":2328
+"total":2330
 }
 ],
 "downloads_per_date":[
@@ -1134,6 +1134,10 @@
 {
 "date":"2022-03-24",
 "total":2423
+},
+{
+"date":"2022-03-25",
+"total":2425
 }
 ],
 "package":"ucsc-featurebits",
@@ -1484,6 +1488,15 @@
 "date":"2022-03-24",
 "downloads_per_basename":[
 {
+"basename":"ucsc-featurebits-357-h5eb252a_2.tar.bz2",
+"total":2328
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
 "basename":"ucsc-featurebits-357-1.tar.bz2",
 "total":47
 },
@@ -1493,7 +1506,7 @@
 },
 {
 "basename":"ucsc-featurebits-357-h5eb252a_2.tar.bz2",
-"total":2328
+"total":2330
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-biobase-2.54.0-r41haba8685_1.tar.bz2",
-"total":3663
+"total":3756
 },
 {
 "basename":"bioconductor-biobase-2.54.0-r41h68a2ddb_0.tar.bz2",
@@ -490,6 +490,10 @@
 {
 "date":"2022-03-24",
 "total":15324
+},
+{
+"date":"2022-03-25",
+"total":15417
 }
 ],
 "package":"bioconductor-biobase",
@@ -859,6 +863,15 @@
 {
 "basename":"bioconductor-biobase-2.54.0-r41haba8685_1.tar.bz2",
 "total":3663
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-biobase-2.54.0-r41haba8685_1.tar.bz2",
+"total":3756
 }
 ]
 }

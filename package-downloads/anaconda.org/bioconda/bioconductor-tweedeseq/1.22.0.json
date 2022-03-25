@@ -1124,6 +1124,10 @@
 {
 "date":"2022-03-24",
 "total":3534
+},
+{
+"date":"2022-03-25",
+"total":3536
 }
 ],
 "downloads_per_subdir":[
@@ -1133,7 +1137,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2455
+"total":2457
 }
 ],
 "package":"bioconductor-tweedeseq",
@@ -1539,6 +1543,15 @@
 {
 "subdir":"osx-64",
 "total":2455
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2457
 }
 ]
 }

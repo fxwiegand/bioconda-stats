@@ -1120,6 +1120,10 @@
 {
 "date":"2022-03-24",
 "total":4690
+},
+{
+"date":"2022-03-25",
+"total":4692
 }
 ],
 "downloads_per_subdir":[
@@ -1129,7 +1133,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2476
+"total":2478
 }
 ],
 "package":"bioconductor-org.dm.eg.db",
@@ -1518,6 +1522,15 @@
 {
 "subdir":"osx-64",
 "total":2476
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2478
 }
 ]
 }

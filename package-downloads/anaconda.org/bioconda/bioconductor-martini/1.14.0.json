@@ -476,6 +476,10 @@
 {
 "date":"2022-03-24",
 "total":320
+},
+{
+"date":"2022-03-25",
+"total":321
 }
 ],
 "downloads_per_subdir":[
@@ -485,7 +489,7 @@
 },
 {
 "subdir":"osx-64",
-"total":267
+"total":268
 }
 ],
 "package":"bioconductor-martini",
@@ -857,6 +861,15 @@
 {
 "subdir":"osx-64",
 "total":267
+}
+]
+},
+{
+"date":"2022-03-25",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":268
 }
 ]
 }
