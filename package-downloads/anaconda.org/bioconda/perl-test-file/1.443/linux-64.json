@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-file-1.443-pl526_0.tar.bz2",
-"total":140
+"total":141
 }
 ],
 "downloads_per_date":[
@@ -186,6 +186,10 @@
 {
 "date":"2022-03-25",
 "total":140
+},
+{
+"date":"2022-03-27",
+"total":141
 }
 ],
 "package":"perl-test-file",
@@ -232,6 +236,15 @@
 {
 "basename":"perl-test-file-1.443-pl526_0.tar.bz2",
 "total":140
+}
+]
+},
+{
+"date":"2022-03-27",
+"downloads_per_basename":[
+{
+"basename":"perl-test-file-1.443-pl526_0.tar.bz2",
+"total":141
 }
 ]
 }

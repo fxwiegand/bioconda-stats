@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-acme-2.44.0-r40h037d062_0.tar.bz2",
-"total":101
+"total":102
 }
 ],
 "downloads_per_date":[
@@ -230,6 +230,10 @@
 {
 "date":"2022-03-25",
 "total":101
+},
+{
+"date":"2022-03-27",
+"total":102
 }
 ],
 "package":"bioconductor-acme",
@@ -276,6 +280,15 @@
 {
 "basename":"bioconductor-acme-2.44.0-r40h037d062_0.tar.bz2",
 "total":101
+}
+]
+},
+{
+"date":"2022-03-27",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-acme-2.44.0-r40h037d062_0.tar.bz2",
+"total":102
 }
 ]
 }

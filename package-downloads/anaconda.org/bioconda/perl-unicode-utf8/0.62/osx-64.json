@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-unicode-utf8-0.62-pl5321hcd10b59_4.tar.bz2",
-"total":54
+"total":60
 },
 {
 "basename":"perl-unicode-utf8-0.62-pl526h2d50403_0.tar.bz2",
@@ -1066,6 +1066,10 @@
 {
 "date":"2022-03-25",
 "total":2368
+},
+{
+"date":"2022-03-27",
+"total":2374
 }
 ],
 "package":"perl-unicode-utf8",
@@ -1275,6 +1279,15 @@
 {
 "basename":"perl-unicode-utf8-0.62-pl5321hcd10b59_4.tar.bz2",
 "total":54
+}
+]
+},
+{
+"date":"2022-03-27",
+"downloads_per_basename":[
+{
+"basename":"perl-unicode-utf8-0.62-pl5321hcd10b59_4.tar.bz2",
+"total":60
 }
 ]
 }

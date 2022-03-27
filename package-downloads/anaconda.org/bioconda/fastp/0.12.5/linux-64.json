@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"fastp-0.12.5-0.tar.bz2",
-"total":1001
+"total":1002
 }
 ],
 "downloads_per_date":[
@@ -302,6 +302,10 @@
 {
 "date":"2022-03-25",
 "total":1001
+},
+{
+"date":"2022-03-27",
+"total":1002
 }
 ],
 "package":"fastp",
@@ -393,6 +397,15 @@
 {
 "basename":"fastp-0.12.5-0.tar.bz2",
 "total":1001
+}
+]
+},
+{
+"date":"2022-03-27",
+"downloads_per_basename":[
+{
+"basename":"fastp-0.12.5-0.tar.bz2",
+"total":1002
 }
 ]
 }
