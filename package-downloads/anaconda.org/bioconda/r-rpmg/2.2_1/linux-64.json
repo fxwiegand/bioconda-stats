@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-rpmg-2.2_1-r3.3.1_0.tar.bz2",
-"total":729
+"total":730
 },
 {
 "basename":"r-rpmg-2.2_1-r3.3.2_0.tar.bz2",
@@ -262,6 +262,10 @@
 {
 "date":"2022-03-27",
 "total":2082
+},
+{
+"date":"2022-04-01",
+"total":2083
 }
 ],
 "package":"r-rpmg",
@@ -402,6 +406,15 @@
 {
 "basename":"r-rpmg-2.2_1-r3.3.2_0.tar.bz2",
 "total":746
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"r-rpmg-2.2_1-r3.3.1_0.tar.bz2",
+"total":730
 }
 ]
 }

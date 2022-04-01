@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-annaffy-1.52.0-r341_0.tar.bz2",
-"total":239
+"total":240
 },
 {
 "basename":"bioconductor-annaffy-1.52.0-r351_0.tar.bz2",
@@ -262,6 +262,10 @@
 {
 "date":"2022-03-27",
 "total":646
+},
+{
+"date":"2022-04-01",
+"total":647
 }
 ],
 "package":"bioconductor-annaffy",
@@ -359,6 +363,15 @@
 {
 "basename":"bioconductor-annaffy-1.52.0-r351_0.tar.bz2",
 "total":407
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-annaffy-1.52.0-r341_0.tar.bz2",
+"total":240
 }
 ]
 }

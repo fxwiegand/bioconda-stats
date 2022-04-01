@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-mzr-2.16.2-r351hf484d3e_0.tar.bz2",
-"total":408
+"total":409
 },
 {
 "basename":"bioconductor-mzr-2.16.2-r351hdbcaa40_1.tar.bz2",
@@ -330,6 +330,10 @@
 {
 "date":"2022-03-27",
 "total":1260
+},
+{
+"date":"2022-04-01",
+"total":1261
 }
 ],
 "package":"bioconductor-mzr",
@@ -445,6 +449,15 @@
 {
 "basename":"bioconductor-mzr-2.16.2-r351hdbcaa40_1.tar.bz2",
 "total":852
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mzr-2.16.2-r351hf484d3e_0.tar.bz2",
+"total":409
 }
 ]
 }

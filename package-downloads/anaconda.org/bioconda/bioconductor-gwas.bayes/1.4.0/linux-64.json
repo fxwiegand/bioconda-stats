@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-gwas.bayes-1.4.0-r41h619a076_1.tar.bz2",
-"total":19
+"total":20
 },
 {
 "basename":"bioconductor-gwas.bayes-1.4.0-r41h399db7b_0.tar.bz2",
@@ -186,6 +186,10 @@
 {
 "date":"2022-03-27",
 "total":56
+},
+{
+"date":"2022-04-01",
+"total":57
 }
 ],
 "package":"bioconductor-gwas.bayes",
@@ -284,6 +288,15 @@
 {
 "basename":"bioconductor-gwas.bayes-1.4.0-r41h399db7b_0.tar.bz2",
 "total":37
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-gwas.bayes-1.4.0-r41h619a076_1.tar.bz2",
+"total":20
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rmmquant-1.12.0-r41h619a076_1.tar.bz2",
-"total":14
+"total":15
 },
 {
 "basename":"bioconductor-rmmquant-1.12.0-r41h399db7b_0.tar.bz2",
@@ -158,6 +158,10 @@
 {
 "date":"2022-03-27",
 "total":43
+},
+{
+"date":"2022-04-01",
+"total":44
 }
 ],
 "package":"bioconductor-rmmquant",
@@ -274,6 +278,15 @@
 {
 "basename":"bioconductor-rmmquant-1.12.0-r41h399db7b_0.tar.bz2",
 "total":29
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rmmquant-1.12.0-r41h619a076_1.tar.bz2",
+"total":15
 }
 ]
 }

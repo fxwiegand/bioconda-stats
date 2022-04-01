@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"planemo-0.48.0-py27_1.tar.bz2",
-"total":300
+"total":301
 },
 {
 "basename":"planemo-0.48.0-py27_0.tar.bz2",
@@ -254,6 +254,10 @@
 {
 "date":"2022-03-27",
 "total":826
+},
+{
+"date":"2022-04-01",
+"total":827
 }
 ],
 "package":"planemo",
@@ -357,6 +361,15 @@
 {
 "basename":"planemo-0.48.0-py27_0.tar.bz2",
 "total":526
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"planemo-0.48.0-py27_1.tar.bz2",
+"total":301
 }
 ]
 }

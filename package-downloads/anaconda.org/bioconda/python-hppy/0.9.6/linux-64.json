@@ -7,7 +7,7 @@
 },
 {
 "basename":"python-hppy-0.9.6-py36_0.tar.bz2",
-"total":467
+"total":468
 },
 {
 "basename":"python-hppy-0.9.6-py35_0.tar.bz2",
@@ -242,6 +242,10 @@
 {
 "date":"2022-03-27",
 "total":2020
+},
+{
+"date":"2022-04-01",
+"total":2021
 }
 ],
 "package":"python-hppy",
@@ -427,6 +431,15 @@
 {
 "basename":"python-hppy-0.9.6-py34_0.tar.bz2",
 "total":659
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"python-hppy-0.9.6-py36_0.tar.bz2",
+"total":468
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"ephemeris-0.8.0-py36_0.tar.bz2",
-"total":1761
+"total":1762
 }
 ],
 "downloads_per_date":[
@@ -762,6 +762,10 @@
 {
 "date":"2022-03-27",
 "total":2121
+},
+{
+"date":"2022-04-01",
+"total":2122
 }
 ],
 "package":"ephemeris",
@@ -834,6 +838,15 @@
 {
 "basename":"ephemeris-0.8.0-py27_0.tar.bz2",
 "total":307
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"ephemeris-0.8.0-py36_0.tar.bz2",
+"total":1762
 }
 ]
 }

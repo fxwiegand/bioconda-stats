@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-mirbaseversions.db-1.1.0-r341_0.tar.bz2",
-"total":180
+"total":182
 },
 {
 "basename":"bioconductor-mirbaseversions.db-1.1.0-r351_0.tar.bz2",
@@ -250,6 +250,10 @@
 {
 "date":"2022-03-27",
 "total":468
+},
+{
+"date":"2022-04-01",
+"total":470
 }
 ],
 "package":"bioconductor-mirbaseversions.db",
@@ -339,6 +343,15 @@
 {
 "basename":"bioconductor-mirbaseversions.db-1.1.0-r351_0.tar.bz2",
 "total":288
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mirbaseversions.db-1.1.0-r341_0.tar.bz2",
+"total":182
 }
 ]
 }

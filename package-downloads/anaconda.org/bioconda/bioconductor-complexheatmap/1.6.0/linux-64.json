@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-complexheatmap-1.6.0-0.tar.bz2",
-"total":554
+"total":555
 },
 {
 "basename":"bioconductor-complexheatmap-1.6.0-r3.3.2_1.tar.bz2",
@@ -706,6 +706,10 @@
 {
 "date":"2022-03-27",
 "total":3708
+},
+{
+"date":"2022-04-01",
+"total":3709
 }
 ],
 "package":"bioconductor-complexheatmap",
@@ -1004,6 +1008,15 @@
 {
 "basename":"bioconductor-complexheatmap-1.6.0-1.tar.bz2",
 "total":1077
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-complexheatmap-1.6.0-0.tar.bz2",
+"total":555
 }
 ]
 }

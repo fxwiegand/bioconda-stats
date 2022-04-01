@@ -11,7 +11,7 @@
 },
 {
 "basename":"machina-1.2-hc90279e_2.tar.bz2",
-"total":66
+"total":67
 },
 {
 "basename":"machina-1.2-h176a8bc_0.tar.bz2",
@@ -398,6 +398,10 @@
 {
 "date":"2022-03-27",
 "total":420
+},
+{
+"date":"2022-04-01",
+"total":421
 }
 ],
 "package":"machina",
@@ -635,6 +639,15 @@
 {
 "basename":"machina-1.2-h176a8bc_1.tar.bz2",
 "total":118
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"machina-1.2-hc90279e_2.tar.bz2",
+"total":67
 }
 ]
 }

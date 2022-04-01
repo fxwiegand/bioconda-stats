@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-uniprot.ws-2.20.4-r341_0.tar.bz2",
-"total":308
+"total":309
 }
 ],
 "downloads_per_date":[
@@ -262,6 +262,10 @@
 {
 "date":"2022-03-27",
 "total":504
+},
+{
+"date":"2022-04-01",
+"total":505
 }
 ],
 "package":"bioconductor-uniprot.ws",
@@ -355,6 +359,15 @@
 {
 "basename":"bioconductor-uniprot.ws-2.20.4-r341_0.tar.bz2",
 "total":308
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-uniprot.ws-2.20.4-r341_0.tar.bz2",
+"total":309
 }
 ]
 }

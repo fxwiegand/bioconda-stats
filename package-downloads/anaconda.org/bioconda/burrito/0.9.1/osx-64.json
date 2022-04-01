@@ -19,7 +19,7 @@
 },
 {
 "basename":"burrito-0.9.1-py27r3.4.1_1.tar.bz2",
-"total":74
+"total":75
 },
 {
 "basename":"burrito-0.9.1-py34_0.tar.bz2",
@@ -886,6 +886,10 @@
 {
 "date":"2022-03-27",
 "total":7456
+},
+{
+"date":"2022-04-01",
+"total":7457
 }
 ],
 "package":"burrito",
@@ -1070,6 +1074,15 @@
 {
 "basename":"burrito-0.9.1-py27_0.tar.bz2",
 "total":3691
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"burrito-0.9.1-py27r3.4.1_1.tar.bz2",
+"total":75
 }
 ]
 }

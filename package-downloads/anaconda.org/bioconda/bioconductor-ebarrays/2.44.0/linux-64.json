@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-ebarrays-2.44.0-r341h470a237_0.tar.bz2",
-"total":247
+"total":248
 },
 {
 "basename":"bioconductor-ebarrays-2.44.0-r351h470a237_0.tar.bz2",
@@ -246,6 +246,10 @@
 {
 "date":"2022-03-27",
 "total":553
+},
+{
+"date":"2022-04-01",
+"total":554
 }
 ],
 "package":"bioconductor-ebarrays",
@@ -348,6 +352,15 @@
 {
 "basename":"bioconductor-ebarrays-2.44.0-r351h470a237_0.tar.bz2",
 "total":306
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ebarrays-2.44.0-r341h470a237_0.tar.bz2",
+"total":248
 }
 ]
 }

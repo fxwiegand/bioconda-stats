@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-waddr-1.8.0-r41h619a076_1.tar.bz2",
-"total":12
+"total":13
 },
 {
 "basename":"bioconductor-waddr-1.8.0-r41h399db7b_0.tar.bz2",
@@ -162,6 +162,10 @@
 {
 "date":"2022-03-27",
 "total":41
+},
+{
+"date":"2022-04-01",
+"total":42
 }
 ],
 "package":"bioconductor-waddr",
@@ -265,6 +269,15 @@
 {
 "basename":"bioconductor-waddr-1.8.0-r41h399db7b_0.tar.bz2",
 "total":29
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-waddr-1.8.0-r41h619a076_1.tar.bz2",
+"total":13
 }
 ]
 }

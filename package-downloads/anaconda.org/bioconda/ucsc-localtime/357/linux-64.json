@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-localtime-357-1.tar.bz2",
-"total":171
+"total":172
 },
 {
 "basename":"ucsc-localtime-357-0.tar.bz2",
@@ -194,6 +194,10 @@
 {
 "date":"2022-03-27",
 "total":697
+},
+{
+"date":"2022-04-01",
+"total":698
 }
 ],
 "package":"ucsc-localtime",
@@ -261,6 +265,15 @@
 {
 "basename":"ucsc-localtime-357-0.tar.bz2",
 "total":526
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"ucsc-localtime-357-1.tar.bz2",
+"total":172
 }
 ]
 }

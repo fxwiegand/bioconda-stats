@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"exonerate-2.2.0-0.tar.bz2",
-"total":946
+"total":947
 },
 {
 "basename":"exonerate-2.2.0-1.tar.bz2",
@@ -698,6 +698,10 @@
 {
 "date":"2022-03-27",
 "total":1984
+},
+{
+"date":"2022-04-01",
+"total":1985
 }
 ],
 "package":"exonerate",
@@ -844,6 +848,15 @@
 {
 "basename":"exonerate-2.2.0-1.tar.bz2",
 "total":1038
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"exonerate-2.2.0-0.tar.bz2",
+"total":947
 }
 ]
 }

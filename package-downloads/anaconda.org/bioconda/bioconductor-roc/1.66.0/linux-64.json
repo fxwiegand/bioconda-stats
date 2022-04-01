@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-roc-1.66.0-r40h399db7b_1.tar.bz2",
-"total":132
+"total":134
 },
 {
 "basename":"bioconductor-roc-1.66.0-r40h5f743cb_0.tar.bz2",
@@ -370,6 +370,10 @@
 {
 "date":"2022-03-27",
 "total":356
+},
+{
+"date":"2022-04-01",
+"total":358
 }
 ],
 "package":"bioconductor-roc",
@@ -471,6 +475,15 @@
 {
 "basename":"bioconductor-roc-1.66.0-r40h5f743cb_0.tar.bz2",
 "total":224
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-roc-1.66.0-r40h399db7b_1.tar.bz2",
+"total":134
 }
 ]
 }

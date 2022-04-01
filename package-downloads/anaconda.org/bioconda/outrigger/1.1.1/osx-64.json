@@ -7,7 +7,7 @@
 },
 {
 "basename":"outrigger-1.1.1-py27_0.tar.bz2",
-"total":200
+"total":201
 },
 {
 "basename":"outrigger-1.1.1-py36_0.tar.bz2",
@@ -730,6 +730,10 @@
 {
 "date":"2022-03-27",
 "total":2036
+},
+{
+"date":"2022-04-01",
+"total":2037
 }
 ],
 "package":"outrigger",
@@ -784,6 +788,15 @@
 {
 "basename":"outrigger-1.1.1-py27_0.tar.bz2",
 "total":200
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"outrigger-1.1.1-py27_0.tar.bz2",
+"total":201
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-faalign-357-1.tar.bz2",
-"total":334
+"total":337
 },
 {
 "basename":"ucsc-faalign-357-0.tar.bz2",
@@ -354,6 +354,10 @@
 {
 "date":"2022-03-27",
 "total":929
+},
+{
+"date":"2022-04-01",
+"total":932
 }
 ],
 "package":"ucsc-faalign",
@@ -473,6 +477,15 @@
 {
 "basename":"ucsc-faalign-357-0.tar.bz2",
 "total":595
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"ucsc-faalign-357-1.tar.bz2",
+"total":337
 }
 ]
 }

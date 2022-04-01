@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-icens-1.52.0-r351_0.tar.bz2",
-"total":194
+"total":195
 },
 {
 "basename":"bioconductor-icens-1.52.0-r341_0.tar.bz2",
@@ -218,6 +218,10 @@
 {
 "date":"2022-03-27",
 "total":493
+},
+{
+"date":"2022-04-01",
+"total":494
 }
 ],
 "package":"bioconductor-icens",
@@ -306,6 +310,15 @@
 {
 "basename":"bioconductor-icens-1.52.0-r341_0.tar.bz2",
 "total":299
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-icens-1.52.0-r351_0.tar.bz2",
+"total":195
 }
 ]
 }

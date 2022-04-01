@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-fmsb-0.6.3-r3.4.1_0.tar.bz2",
-"total":224
+"total":225
 },
 {
 "basename":"r-fmsb-0.6.3-r351h6115d3f_2.tar.bz2",
@@ -258,6 +258,10 @@
 {
 "date":"2022-03-27",
 "total":703
+},
+{
+"date":"2022-04-01",
+"total":704
 }
 ],
 "package":"r-fmsb",
@@ -385,6 +389,15 @@
 {
 "basename":"r-fmsb-0.6.3-r351h6115d3f_2.tar.bz2",
 "total":318
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"r-fmsb-0.6.3-r3.4.1_0.tar.bz2",
+"total":225
 }
 ]
 }

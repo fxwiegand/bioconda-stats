@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-all-1.22.0-r351_0.tar.bz2",
-"total":389
+"total":390
 },
 {
 "basename":"bioconductor-all-1.22.0-r341_0.tar.bz2",
@@ -274,6 +274,10 @@
 {
 "date":"2022-03-27",
 "total":1430
+},
+{
+"date":"2022-04-01",
+"total":1431
 }
 ],
 "package":"bioconductor-all",
@@ -385,6 +389,15 @@
 {
 "basename":"bioconductor-all-1.22.0-r341_0.tar.bz2",
 "total":1041
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-all-1.22.0-r351_0.tar.bz2",
+"total":390
 }
 ]
 }

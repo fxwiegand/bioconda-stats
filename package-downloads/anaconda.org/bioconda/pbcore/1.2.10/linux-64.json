@@ -7,7 +7,7 @@
 },
 {
 "basename":"pbcore-1.2.10-py27_0.tar.bz2",
-"total":505
+"total":506
 },
 {
 "basename":"pbcore-1.2.10-py27_1.tar.bz2",
@@ -350,6 +350,10 @@
 {
 "date":"2022-03-27",
 "total":1739
+},
+{
+"date":"2022-04-01",
+"total":1740
 }
 ],
 "package":"pbcore",
@@ -488,6 +492,15 @@
 {
 "basename":"pbcore-1.2.10-py27_1.tar.bz2",
 "total":917
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"pbcore-1.2.10-py27_0.tar.bz2",
+"total":506
 }
 ]
 }

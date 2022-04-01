@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-htseqtools-1.28.3-r341_0.tar.bz2",
-"total":225
+"total":226
 },
 {
 "basename":"bioconductor-htseqtools-1.28.3-r351_0.tar.bz2",
@@ -330,6 +330,10 @@
 {
 "date":"2022-03-27",
 "total":570
+},
+{
+"date":"2022-04-01",
+"total":571
 }
 ],
 "package":"bioconductor-htseqtools",
@@ -445,6 +449,15 @@
 {
 "basename":"bioconductor-htseqtools-1.28.3-r351_0.tar.bz2",
 "total":345
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-htseqtools-1.28.3-r341_0.tar.bz2",
+"total":226
 }
 ]
 }

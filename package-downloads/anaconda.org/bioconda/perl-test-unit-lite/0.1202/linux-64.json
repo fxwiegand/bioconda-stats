@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-unit-lite-0.1202-pl526_1.tar.bz2",
-"total":164
+"total":165
 },
 {
 "basename":"perl-test-unit-lite-0.1202-pl5.22.0_0.tar.bz2",
@@ -226,6 +226,10 @@
 {
 "date":"2022-03-27",
 "total":749
+},
+{
+"date":"2022-04-01",
+"total":750
 }
 ],
 "package":"perl-test-unit-lite",
@@ -311,6 +315,15 @@
 {
 "basename":"perl-test-unit-lite-0.1202-pl5.22.0_0.tar.bz2",
 "total":585
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"perl-test-unit-lite-0.1202-pl526_1.tar.bz2",
+"total":165
 }
 ]
 }

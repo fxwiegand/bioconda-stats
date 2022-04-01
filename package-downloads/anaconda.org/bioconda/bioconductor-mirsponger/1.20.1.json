@@ -52,6 +52,10 @@
 {
 "date":"2022-03-27",
 "total":75
+},
+{
+"date":"2022-04-01",
+"total":85
 }
 ],
 "downloads_per_subdir":[
@@ -61,7 +65,7 @@
 },
 {
 "subdir":"osx-64",
-"total":59
+"total":69
 }
 ],
 "package":"bioconductor-mirsponger",
@@ -204,6 +208,15 @@
 {
 "subdir":"osx-64",
 "total":59
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":69
 }
 ]
 }

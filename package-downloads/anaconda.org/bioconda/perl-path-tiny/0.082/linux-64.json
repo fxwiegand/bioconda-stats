@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-path-tiny-0.082-pl526_2.tar.bz2",
-"total":224
+"total":225
 },
 {
 "basename":"perl-path-tiny-0.082-pl526_1.tar.bz2",
@@ -234,6 +234,10 @@
 {
 "date":"2022-03-27",
 "total":2021
+},
+{
+"date":"2022-04-01",
+"total":2022
 }
 ],
 "package":"perl-path-tiny",
@@ -352,6 +356,15 @@
 {
 "basename":"perl-path-tiny-0.082-0.tar.bz2",
 "total":1566
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"perl-path-tiny-0.082-pl526_2.tar.bz2",
+"total":225
 }
 ]
 }

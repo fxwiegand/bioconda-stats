@@ -7,7 +7,7 @@
 },
 {
 "basename":"skmer-1.0.0-py36_0.tar.bz2",
-"total":181
+"total":182
 },
 {
 "basename":"skmer-1.0.0-py27_0.tar.bz2",
@@ -246,6 +246,10 @@
 {
 "date":"2022-03-27",
 "total":612
+},
+{
+"date":"2022-04-01",
+"total":613
 }
 ],
 "package":"skmer",
@@ -394,6 +398,15 @@
 {
 "basename":"skmer-1.0.0-py27_0.tar.bz2",
 "total":286
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"skmer-1.0.0-py36_0.tar.bz2",
+"total":182
 }
 ]
 }

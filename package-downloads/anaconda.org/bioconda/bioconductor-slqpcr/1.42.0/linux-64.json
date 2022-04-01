@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-slqpcr-1.42.0-r3.3.2_0.tar.bz2",
-"total":447
+"total":448
 },
 {
 "basename":"bioconductor-slqpcr-1.42.0-r3.4.1_0.tar.bz2",
@@ -238,6 +238,10 @@
 {
 "date":"2022-03-27",
 "total":1045
+},
+{
+"date":"2022-04-01",
+"total":1046
 }
 ],
 "package":"bioconductor-slqpcr",
@@ -317,6 +321,15 @@
 {
 "basename":"bioconductor-slqpcr-1.42.0-r3.4.1_0.tar.bz2",
 "total":598
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-slqpcr-1.42.0-r3.3.2_0.tar.bz2",
+"total":448
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"comet-ms-2021010-h87f3376_1.tar.bz2",
-"total":39
+"total":42
 },
 {
 "basename":"comet-ms-2021010-h1b792b2_0.tar.bz2",
@@ -178,6 +178,10 @@
 {
 "date":"2022-03-27",
 "total":135
+},
+{
+"date":"2022-04-01",
+"total":138
 }
 ],
 "package":"comet-ms",
@@ -343,6 +347,15 @@
 {
 "basename":"comet-ms-2021010-h1b792b2_0.tar.bz2",
 "total":96
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"comet-ms-2021010-h87f3376_1.tar.bz2",
+"total":42
 }
 ]
 }

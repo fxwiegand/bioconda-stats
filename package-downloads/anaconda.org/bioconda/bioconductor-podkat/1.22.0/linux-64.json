@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-podkat-1.22.0-r40h399db7b_1.tar.bz2",
-"total":61
+"total":62
 },
 {
 "basename":"bioconductor-podkat-1.22.0-r40h5f743cb_0.tar.bz2",
@@ -290,6 +290,10 @@
 {
 "date":"2022-03-27",
 "total":139
+},
+{
+"date":"2022-04-01",
+"total":140
 }
 ],
 "package":"bioconductor-podkat",
@@ -391,6 +395,15 @@
 {
 "basename":"bioconductor-podkat-1.22.0-r40h5f743cb_0.tar.bz2",
 "total":78
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-podkat-1.22.0-r40h399db7b_1.tar.bz2",
+"total":62
 }
 ]
 }

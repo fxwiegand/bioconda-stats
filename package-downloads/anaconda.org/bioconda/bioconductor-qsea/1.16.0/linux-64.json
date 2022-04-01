@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-qsea-1.16.0-r40hd029910_1.tar.bz2",
-"total":58
+"total":59
 },
 {
 "basename":"bioconductor-qsea-1.16.0-r40h037d062_0.tar.bz2",
@@ -290,6 +290,10 @@
 {
 "date":"2022-03-27",
 "total":133
+},
+{
+"date":"2022-04-01",
+"total":134
 }
 ],
 "package":"bioconductor-qsea",
@@ -391,6 +395,15 @@
 {
 "basename":"bioconductor-qsea-1.16.0-r40h037d062_0.tar.bz2",
 "total":75
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-qsea-1.16.0-r40hd029910_1.tar.bz2",
+"total":59
 }
 ]
 }

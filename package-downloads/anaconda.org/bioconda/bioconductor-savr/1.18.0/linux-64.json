@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-savr-1.18.0-r341_0.tar.bz2",
-"total":190
+"total":191
 },
 {
 "basename":"bioconductor-savr-1.18.0-r351_0.tar.bz2",
@@ -262,6 +262,10 @@
 {
 "date":"2022-03-27",
 "total":490
+},
+{
+"date":"2022-04-01",
+"total":491
 }
 ],
 "package":"bioconductor-savr",
@@ -364,6 +368,15 @@
 {
 "basename":"bioconductor-savr-1.18.0-r351_0.tar.bz2",
 "total":300
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-savr-1.18.0-r341_0.tar.bz2",
+"total":191
 }
 ]
 }

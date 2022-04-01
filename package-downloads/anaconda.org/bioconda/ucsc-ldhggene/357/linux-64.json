@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-ldhggene-357-1.tar.bz2",
-"total":251
+"total":252
 },
 {
 "basename":"ucsc-ldhggene-357-0.tar.bz2",
@@ -254,6 +254,10 @@
 {
 "date":"2022-03-27",
 "total":812
+},
+{
+"date":"2022-04-01",
+"total":813
 }
 ],
 "package":"ucsc-ldhggene",
@@ -364,6 +368,15 @@
 {
 "basename":"ucsc-ldhggene-357-0.tar.bz2",
 "total":561
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"ucsc-ldhggene-357-1.tar.bz2",
+"total":252
 }
 ]
 }

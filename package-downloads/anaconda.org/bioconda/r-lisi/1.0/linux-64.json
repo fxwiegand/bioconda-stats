@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-lisi-1.0-r41h87f3376_2.tar.bz2",
-"total":9
+"total":10
 },
 {
 "basename":"r-lisi-1.0-r41h1b792b2_1.tar.bz2",
@@ -146,6 +146,10 @@
 {
 "date":"2022-03-27",
 "total":35
+},
+{
+"date":"2022-04-01",
+"total":36
 }
 ],
 "package":"r-lisi",
@@ -227,6 +231,15 @@
 {
 "basename":"r-lisi-1.0-r41h1b792b2_1.tar.bz2",
 "total":26
+}
+]
+},
+{
+"date":"2022-04-01",
+"downloads_per_basename":[
+{
+"basename":"r-lisi-1.0-r41h87f3376_2.tar.bz2",
+"total":10
 }
 ]
 }
