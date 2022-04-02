@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rtrmui-1.18.0-r341_0.tar.bz2",
-"total":256
+"total":257
 },
 {
 "basename":"bioconductor-rtrmui-1.18.0-r351_0.tar.bz2",
@@ -282,6 +282,10 @@
 {
 "date":"2022-04-01",
 "total":529
+},
+{
+"date":"2022-04-02",
+"total":530
 }
 ],
 "package":"bioconductor-rtrmui",
@@ -357,6 +361,15 @@
 {
 "basename":"bioconductor-rtrmui-1.18.0-r351_0.tar.bz2",
 "total":273
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rtrmui-1.18.0-r341_0.tar.bz2",
+"total":257
 }
 ]
 }

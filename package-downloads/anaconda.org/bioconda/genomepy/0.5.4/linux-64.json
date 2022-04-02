@@ -11,7 +11,7 @@
 },
 {
 "basename":"genomepy-0.5.4-py27_0.tar.bz2",
-"total":148
+"total":149
 },
 {
 "basename":"genomepy-0.5.4-py27_1.tar.bz2",
@@ -338,6 +338,10 @@
 {
 "date":"2022-04-01",
 "total":930
+},
+{
+"date":"2022-04-02",
+"total":931
 }
 ],
 "package":"genomepy",
@@ -560,6 +564,15 @@
 {
 "basename":"genomepy-0.5.4-py36_1.tar.bz2",
 "total":192
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"genomepy-0.5.4-py27_0.tar.bz2",
+"total":149
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-nibsize-377-ha8a8165_3.tar.bz2",
-"total":24
+"total":27
 },
 {
 "basename":"ucsc-nibsize-377-h446ed27_1.tar.bz2",
@@ -434,6 +434,10 @@
 {
 "date":"2022-04-01",
 "total":344
+},
+{
+"date":"2022-04-02",
+"total":347
 }
 ],
 "package":"ucsc-nibsize",
@@ -660,6 +664,15 @@
 {
 "basename":"ucsc-nibsize-377-h0b8a92a_2.tar.bz2",
 "total":74
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-nibsize-377-ha8a8165_3.tar.bz2",
+"total":27
 }
 ]
 }

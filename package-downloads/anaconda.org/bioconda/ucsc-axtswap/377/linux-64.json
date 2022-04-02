@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-axtswap-377-h0b8a92a_2.tar.bz2",
-"total":88
+"total":91
 },
 {
 "basename":"ucsc-axtswap-377-h199ee4e_0.tar.bz2",
@@ -462,6 +462,10 @@
 {
 "date":"2022-04-01",
 "total":322
+},
+{
+"date":"2022-04-02",
+"total":325
 }
 ],
 "package":"ucsc-axtswap",
@@ -647,6 +651,15 @@
 {
 "basename":"ucsc-axtswap-377-h199ee4e_0.tar.bz2",
 "total":163
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-axtswap-377-h0b8a92a_2.tar.bz2",
+"total":91
 }
 ]
 }

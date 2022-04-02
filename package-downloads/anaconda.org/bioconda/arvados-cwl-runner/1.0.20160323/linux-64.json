@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"arvados-cwl-runner-1.0.20160323-py27_0.tar.bz2",
-"total":703
+"total":704
 }
 ],
 "downloads_per_date":[
@@ -210,6 +210,10 @@
 {
 "date":"2022-04-01",
 "total":703
+},
+{
+"date":"2022-04-02",
+"total":704
 }
 ],
 "package":"arvados-cwl-runner",
@@ -274,6 +278,15 @@
 {
 "basename":"arvados-cwl-runner-1.0.20160323-py27_0.tar.bz2",
 "total":703
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"arvados-cwl-runner-1.0.20160323-py27_0.tar.bz2",
+"total":704
 }
 ]
 }

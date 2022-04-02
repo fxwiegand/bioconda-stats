@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-ticktodate-377-ha8a8165_3.tar.bz2",
-"total":34
+"total":38
 },
 {
 "basename":"ucsc-ticktodate-377-h446ed27_1.tar.bz2",
@@ -458,6 +458,10 @@
 {
 "date":"2022-04-01",
 "total":333
+},
+{
+"date":"2022-04-02",
+"total":337
 }
 ],
 "package":"ucsc-ticktodate",
@@ -685,6 +689,15 @@
 {
 "basename":"ucsc-ticktodate-377-h199ee4e_0.tar.bz2",
 "total":161
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-ticktodate-377-ha8a8165_3.tar.bz2",
+"total":38
 }
 ]
 }

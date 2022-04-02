@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-xmltosql-377-ha8a8165_3.tar.bz2",
-"total":28
+"total":30
 },
 {
 "basename":"ucsc-xmltosql-377-h446ed27_1.tar.bz2",
@@ -530,6 +530,10 @@
 {
 "date":"2022-04-01",
 "total":366
+},
+{
+"date":"2022-04-02",
+"total":368
 }
 ],
 "package":"ucsc-xmltosql",
@@ -726,6 +730,15 @@
 {
 "basename":"ucsc-xmltosql-377-h446ed27_1.tar.bz2",
 "total":78
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-xmltosql-377-ha8a8165_3.tar.bz2",
+"total":30
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-adam-1.0.0-r36he1b5a44_1.tar.bz2",
-"total":120
+"total":122
 }
 ],
 "downloads_per_date":[
@@ -230,6 +230,10 @@
 {
 "date":"2022-04-01",
 "total":120
+},
+{
+"date":"2022-04-02",
+"total":122
 }
 ],
 "package":"bioconductor-adam",
@@ -285,6 +289,15 @@
 {
 "basename":"bioconductor-adam-1.0.0-r36he1b5a44_1.tar.bz2",
 "total":120
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-adam-1.0.0-r36he1b5a44_1.tar.bz2",
+"total":122
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-bac-1.36.0-r3.4.1_0.tar.bz2",
-"total":687
+"total":689
 }
 ],
 "downloads_per_date":[
@@ -254,6 +254,10 @@
 {
 "date":"2022-04-01",
 "total":687
+},
+{
+"date":"2022-04-02",
+"total":689
 }
 ],
 "package":"bioconductor-bac",
@@ -327,6 +331,15 @@
 {
 "basename":"bioconductor-bac-1.36.0-r3.4.1_0.tar.bz2",
 "total":687
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bac-1.36.0-r3.4.1_0.tar.bz2",
+"total":689
 }
 ]
 }

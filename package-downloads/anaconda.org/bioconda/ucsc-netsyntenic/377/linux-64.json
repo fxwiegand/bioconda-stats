@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-netsyntenic-377-ha8a8165_3.tar.bz2",
-"total":53
+"total":56
 },
 {
 "basename":"ucsc-netsyntenic-377-h199ee4e_0.tar.bz2",
@@ -590,6 +590,10 @@
 {
 "date":"2022-04-01",
 "total":619
+},
+{
+"date":"2022-04-02",
+"total":622
 }
 ],
 "package":"ucsc-netsyntenic",
@@ -821,6 +825,15 @@
 {
 "basename":"ucsc-netsyntenic-377-h199ee4e_0.tar.bz2",
 "total":164
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-netsyntenic-377-ha8a8165_3.tar.bz2",
+"total":56
 }
 ]
 }

@@ -714,6 +714,10 @@
 {
 "date":"2022-04-01",
 "total":784
+},
+{
+"date":"2022-04-02",
+"total":784
 }
 ],
 "package":"fargene",
@@ -733,7 +737,12 @@
 {
 "basename":"fargene-0.1-py27h0116c2d_4.tar.bz2",
 "total":26
+}
+]
 },
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
 {
 "basename":"fargene-0.1-py27h864c0ab_3.tar.bz2",
 "total":758

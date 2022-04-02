@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-pvac-1.24.0-r3.3.2_0.tar.bz2",
-"total":464
+"total":465
 },
 {
 "basename":"bioconductor-pvac-1.24.0-r3.4.1_0.tar.bz2",
@@ -238,6 +238,10 @@
 {
 "date":"2022-04-01",
 "total":1059
+},
+{
+"date":"2022-04-02",
+"total":1060
 }
 ],
 "package":"bioconductor-pvac",
@@ -322,6 +326,15 @@
 {
 "basename":"bioconductor-pvac-1.24.0-r3.4.1_0.tar.bz2",
 "total":595
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pvac-1.24.0-r3.3.2_0.tar.bz2",
+"total":465
 }
 ]
 }

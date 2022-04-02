@@ -7,7 +7,7 @@
 },
 {
 "basename":"ncrf-1.01.02-h779adbc_2.tar.bz2",
-"total":40
+"total":41
 },
 {
 "basename":"ncrf-1.01.02-h516909a_1.tar.bz2",
@@ -386,6 +386,10 @@
 {
 "date":"2022-04-01",
 "total":219
+},
+{
+"date":"2022-04-02",
+"total":220
 }
 ],
 "package":"ncrf",
@@ -560,6 +564,15 @@
 {
 "basename":"ncrf-1.01.02-h516909a_0.tar.bz2",
 "total":119
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"ncrf-1.01.02-h779adbc_2.tar.bz2",
+"total":41
 }
 ]
 }

@@ -36,6 +36,10 @@
 {
 "date":"2022-04-01",
 "total":99
+},
+{
+"date":"2022-04-02",
+"total":101
 }
 ],
 "downloads_per_subdir":[
@@ -45,7 +49,7 @@
 },
 {
 "subdir":"osx-64",
-"total":52
+"total":54
 }
 ],
 "package":"read-it-and-keep",
@@ -160,6 +164,15 @@
 {
 "subdir":"osx-64",
 "total":52
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":54
 }
 ]
 }

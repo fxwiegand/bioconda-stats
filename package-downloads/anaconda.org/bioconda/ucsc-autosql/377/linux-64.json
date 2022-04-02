@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-autosql-377-h0b8a92a_2.tar.bz2",
-"total":86
+"total":90
 },
 {
 "basename":"ucsc-autosql-377-h199ee4e_0.tar.bz2",
@@ -490,6 +490,10 @@
 {
 "date":"2022-04-01",
 "total":347
+},
+{
+"date":"2022-04-02",
+"total":351
 }
 ],
 "package":"ucsc-autosql",
@@ -675,6 +679,15 @@
 {
 "basename":"ucsc-autosql-377-h199ee4e_0.tar.bz2",
 "total":180
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-autosql-377-h0b8a92a_2.tar.bz2",
+"total":90
 }
 ]
 }

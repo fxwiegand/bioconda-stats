@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-ameme-377-h0b8a92a_2.tar.bz2",
-"total":102
+"total":105
 },
 {
 "basename":"ucsc-ameme-377-h199ee4e_0.tar.bz2",
@@ -506,6 +506,10 @@
 {
 "date":"2022-04-01",
 "total":340
+},
+{
+"date":"2022-04-02",
+"total":343
 }
 ],
 "package":"ucsc-ameme",
@@ -682,6 +686,15 @@
 {
 "basename":"ucsc-ameme-377-h0b8a92a_2.tar.bz2",
 "total":102
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-ameme-377-h0b8a92a_2.tar.bz2",
+"total":105
 }
 ]
 }

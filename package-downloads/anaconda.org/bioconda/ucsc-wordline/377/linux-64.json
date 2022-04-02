@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-wordline-377-ha8a8165_3.tar.bz2",
-"total":32
+"total":34
 },
 {
 "basename":"ucsc-wordline-377-h446ed27_1.tar.bz2",
@@ -474,6 +474,10 @@
 {
 "date":"2022-04-01",
 "total":362
+},
+{
+"date":"2022-04-02",
+"total":364
 }
 ],
 "package":"ucsc-wordline",
@@ -677,6 +681,15 @@
 {
 "basename":"ucsc-wordline-377-h0b8a92a_2.tar.bz2",
 "total":82
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-wordline-377-ha8a8165_3.tar.bz2",
+"total":34
 }
 ]
 }

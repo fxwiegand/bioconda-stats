@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"sdm-1.94-hd03093a_1.tar.bz2",
-"total":23
+"total":24
 },
 {
 "basename":"sdm-1.94-h9a82719_0.tar.bz2",
@@ -202,6 +202,10 @@
 {
 "date":"2022-04-01",
 "total":62
+},
+{
+"date":"2022-04-02",
+"total":63
 }
 ],
 "package":"sdm",
@@ -385,6 +389,15 @@
 {
 "basename":"sdm-1.94-hd03093a_1.tar.bz2",
 "total":23
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"sdm-1.94-hd03093a_1.tar.bz2",
+"total":24
 }
 ]
 }

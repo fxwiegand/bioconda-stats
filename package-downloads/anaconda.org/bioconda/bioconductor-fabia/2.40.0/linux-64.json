@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-fabia-2.40.0-r41h5c21468_1.tar.bz2",
-"total":25
+"total":26
 },
 {
 "basename":"bioconductor-fabia-2.40.0-r41hd029910_0.tar.bz2",
@@ -210,6 +210,10 @@
 {
 "date":"2022-04-01",
 "total":67
+},
+{
+"date":"2022-04-02",
+"total":68
 }
 ],
 "package":"bioconductor-fabia",
@@ -353,6 +357,15 @@
 {
 "basename":"bioconductor-fabia-2.40.0-r41hd029910_0.tar.bz2",
 "total":42
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-fabia-2.40.0-r41h5c21468_1.tar.bz2",
+"total":26
 }
 ]
 }

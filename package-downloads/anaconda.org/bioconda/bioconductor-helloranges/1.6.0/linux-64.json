@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-helloranges-1.6.0-r341_0.tar.bz2",
-"total":197
+"total":198
 },
 {
 "basename":"bioconductor-helloranges-1.6.0-r351_0.tar.bz2",
@@ -302,6 +302,10 @@
 {
 "date":"2022-04-01",
 "total":535
+},
+{
+"date":"2022-04-02",
+"total":536
 }
 ],
 "package":"bioconductor-helloranges",
@@ -429,6 +433,15 @@
 {
 "basename":"bioconductor-helloranges-1.6.0-r351_0.tar.bz2",
 "total":338
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-helloranges-1.6.0-r341_0.tar.bz2",
+"total":198
 }
 ]
 }

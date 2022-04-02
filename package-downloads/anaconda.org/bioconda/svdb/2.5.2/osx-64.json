@@ -39,7 +39,7 @@
 },
 {
 "basename":"svdb-2.5.2-py39h7d21e43_1.tar.bz2",
-"total":41
+"total":43
 }
 ],
 "downloads_per_date":[
@@ -74,6 +74,10 @@
 {
 "date":"2022-04-01",
 "total":111
+},
+{
+"date":"2022-04-02",
+"total":113
 }
 ],
 "package":"svdb",
@@ -247,6 +251,15 @@
 {
 "basename":"svdb-2.5.2-py39h7d21e43_1.tar.bz2",
 "total":41
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"svdb-2.5.2-py39h7d21e43_1.tar.bz2",
+"total":43
 }
 ]
 }

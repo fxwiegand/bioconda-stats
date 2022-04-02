@@ -52,6 +52,10 @@
 {
 "date":"2022-04-01",
 "total":102
+},
+{
+"date":"2022-04-02",
+"total":104
 }
 ],
 "downloads_per_subdir":[
@@ -61,7 +65,7 @@
 },
 {
 "subdir":"osx-64",
-"total":76
+"total":78
 }
 ],
 "package":"rustyread",
@@ -212,6 +216,15 @@
 {
 "subdir":"osx-64",
 "total":76
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":78
 }
 ]
 }

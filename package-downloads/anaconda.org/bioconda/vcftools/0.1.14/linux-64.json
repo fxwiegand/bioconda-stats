@@ -11,7 +11,7 @@
 },
 {
 "basename":"vcftools-0.1.14-pl5.22.0_1.tar.bz2",
-"total":824
+"total":825
 },
 {
 "basename":"vcftools-0.1.14-3.tar.bz2",
@@ -466,6 +466,10 @@
 {
 "date":"2022-04-01",
 "total":22040
+},
+{
+"date":"2022-04-02",
+"total":22041
 }
 ],
 "package":"vcftools",
@@ -802,6 +806,15 @@
 {
 "basename":"vcftools-0.1.14-4.tar.bz2",
 "total":10228
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"vcftools-0.1.14-pl5.22.0_1.tar.bz2",
+"total":825
 }
 ]
 }

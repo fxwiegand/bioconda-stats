@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-grohmm-1.24.0-r40h037d062_0.tar.bz2",
-"total":93
+"total":94
 }
 ],
 "downloads_per_date":[
@@ -330,6 +330,10 @@
 {
 "date":"2022-04-01",
 "total":167
+},
+{
+"date":"2022-04-02",
+"total":168
 }
 ],
 "package":"bioconductor-grohmm",
@@ -458,6 +462,15 @@
 {
 "basename":"bioconductor-grohmm-1.24.0-r40hd029910_1.tar.bz2",
 "total":74
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-grohmm-1.24.0-r40h037d062_0.tar.bz2",
+"total":94
 }
 ]
 }

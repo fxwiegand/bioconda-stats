@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"pbipa-1.8.0-hbd632db_1.tar.bz2",
-"total":19
+"total":22
 },
 {
 "basename":"pbipa-1.8.0-hbd632db_0.tar.bz2",
@@ -42,6 +42,10 @@
 {
 "date":"2022-04-01",
 "total":83
+},
+{
+"date":"2022-04-02",
+"total":86
 }
 ],
 "package":"pbipa",
@@ -119,6 +123,15 @@
 {
 "basename":"pbipa-1.8.0-hbd632db_0.tar.bz2",
 "total":64
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"pbipa-1.8.0-hbd632db_1.tar.bz2",
+"total":22
 }
 ]
 }

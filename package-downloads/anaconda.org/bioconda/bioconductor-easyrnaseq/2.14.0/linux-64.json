@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-easyrnaseq-2.14.0-r3.4.1_0.tar.bz2",
-"total":404
+"total":405
 }
 ],
 "downloads_per_date":[
@@ -262,6 +262,10 @@
 {
 "date":"2022-04-01",
 "total":404
+},
+{
+"date":"2022-04-02",
+"total":405
 }
 ],
 "package":"bioconductor-easyrnaseq",
@@ -326,6 +330,15 @@
 {
 "basename":"bioconductor-easyrnaseq-2.14.0-r3.4.1_0.tar.bz2",
 "total":404
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-easyrnaseq-2.14.0-r3.4.1_0.tar.bz2",
+"total":405
 }
 ]
 }

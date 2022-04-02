@@ -7,7 +7,7 @@
 },
 {
 "basename":"sabre-1.000-h5bf99c6_2.tar.bz2",
-"total":101
+"total":102
 },
 {
 "basename":"sabre-1.000-hed695b0_1.tar.bz2",
@@ -594,6 +594,10 @@
 {
 "date":"2022-04-01",
 "total":412
+},
+{
+"date":"2022-04-02",
+"total":413
 }
 ],
 "package":"sabre",
@@ -873,6 +877,15 @@
 {
 "basename":"sabre-1.000-hed695b0_1.tar.bz2",
 "total":114
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"sabre-1.000-h5bf99c6_2.tar.bz2",
+"total":102
 }
 ]
 }

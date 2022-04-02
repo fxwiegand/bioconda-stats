@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-graph-readwrite-2.09-0.tar.bz2",
-"total":759
+"total":760
 },
 {
 "basename":"perl-graph-readwrite-2.09-pl526_2.tar.bz2",
@@ -1082,6 +1082,10 @@
 {
 "date":"2022-04-01",
 "total":3737
+},
+{
+"date":"2022-04-02",
+"total":3738
 }
 ],
 "package":"perl-graph-readwrite",
@@ -1328,6 +1332,15 @@
 {
 "basename":"perl-graph-readwrite-2.09-pl526_2.tar.bz2",
 "total":2978
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"perl-graph-readwrite-2.09-0.tar.bz2",
+"total":760
 }
 ]
 }

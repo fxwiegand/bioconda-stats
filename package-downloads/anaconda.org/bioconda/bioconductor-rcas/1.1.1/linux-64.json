@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-rcas-1.1.1-r3.3.1_0.tar.bz2",
-"total":551
+"total":552
 },
 {
 "basename":"bioconductor-rcas-1.1.1-r3.3.2_0.tar.bz2",
@@ -318,6 +318,10 @@
 {
 "date":"2022-04-01",
 "total":1806
+},
+{
+"date":"2022-04-02",
+"total":1807
 }
 ],
 "package":"bioconductor-rcas",
@@ -465,6 +469,15 @@
 {
 "basename":"bioconductor-rcas-1.1.1-r3.3.2_0.tar.bz2",
 "total":738
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rcas-1.1.1-r3.3.1_0.tar.bz2",
+"total":552
 }
 ]
 }

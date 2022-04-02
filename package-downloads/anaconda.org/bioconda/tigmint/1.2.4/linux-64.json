@@ -15,7 +15,7 @@
 },
 {
 "basename":"tigmint-1.2.4-py38h69e0bdc_1.tar.bz2",
-"total":46
+"total":47
 },
 {
 "basename":"tigmint-1.2.4-py37hccf3b7b_0.tar.bz2",
@@ -594,6 +594,10 @@
 {
 "date":"2022-04-01",
 "total":397
+},
+{
+"date":"2022-04-02",
+"total":398
 }
 ],
 "package":"tigmint",
@@ -973,6 +977,15 @@
 {
 "basename":"tigmint-1.2.4-py39h39abbe0_0.tar.bz2",
 "total":78
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"tigmint-1.2.4-py38h69e0bdc_1.tar.bz2",
+"total":47
 }
 ]
 }

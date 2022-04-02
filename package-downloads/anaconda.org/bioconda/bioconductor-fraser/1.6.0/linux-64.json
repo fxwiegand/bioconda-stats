@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-fraser-1.6.0-r41h399db7b_0.tar.bz2",
-"total":71
+"total":72
 }
 ],
 "downloads_per_date":[
@@ -302,6 +302,10 @@
 {
 "date":"2022-04-01",
 "total":109
+},
+{
+"date":"2022-04-02",
+"total":110
 }
 ],
 "package":"bioconductor-fraser",
@@ -490,6 +494,15 @@
 {
 "basename":"bioconductor-fraser-1.6.0-r41h619a076_1.tar.bz2",
 "total":38
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-fraser-1.6.0-r41h399db7b_0.tar.bz2",
+"total":72
 }
 ]
 }

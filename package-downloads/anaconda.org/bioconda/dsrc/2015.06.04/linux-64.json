@@ -19,7 +19,7 @@
 },
 {
 "basename":"dsrc-2015.06.04-h7ff8a90_4.tar.bz2",
-"total":7600
+"total":7601
 }
 ],
 "downloads_per_date":[
@@ -926,6 +926,10 @@
 {
 "date":"2022-04-01",
 "total":10075
+},
+{
+"date":"2022-04-02",
+"total":10076
 }
 ],
 "package":"dsrc",
@@ -1296,6 +1300,15 @@
 {
 "basename":"dsrc-2015.06.04-h7ff8a90_4.tar.bz2",
 "total":7600
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"dsrc-2015.06.04-h7ff8a90_4.tar.bz2",
+"total":7601
 }
 ]
 }

@@ -84,6 +84,10 @@
 {
 "date":"2022-04-01",
 "total":155
+},
+{
+"date":"2022-04-02",
+"total":157
 }
 ],
 "downloads_per_subdir":[
@@ -93,7 +97,7 @@
 },
 {
 "subdir":"osx-64",
-"total":114
+"total":116
 }
 ],
 "package":"perl-test-leaktrace",
@@ -320,6 +324,15 @@
 {
 "subdir":"osx-64",
 "total":114
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":116
 }
 ]
 }

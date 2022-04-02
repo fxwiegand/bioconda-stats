@@ -140,6 +140,10 @@
 {
 "date":"2022-04-01",
 "total":162
+},
+{
+"date":"2022-04-02",
+"total":164
 }
 ],
 "downloads_per_subdir":[
@@ -149,7 +153,7 @@
 },
 {
 "subdir":"osx-64",
-"total":138
+"total":140
 }
 ],
 "package":"perl-crypt-openssl-rsa",
@@ -480,6 +484,15 @@
 {
 "subdir":"osx-64",
 "total":138
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":140
 }
 ]
 }

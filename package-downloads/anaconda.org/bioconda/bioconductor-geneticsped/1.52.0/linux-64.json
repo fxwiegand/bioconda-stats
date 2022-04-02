@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-geneticsped-1.52.0-r40hba52eb8_1.tar.bz2",
-"total":51
+"total":52
 },
 {
 "basename":"bioconductor-geneticsped-1.52.0-r40hc6cf775_0.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2022-04-01",
 "total":124
+},
+{
+"date":"2022-04-02",
+"total":125
 }
 ],
 "package":"bioconductor-geneticsped",
@@ -372,6 +376,15 @@
 {
 "basename":"bioconductor-geneticsped-1.52.0-r40hc6cf775_0.tar.bz2",
 "total":73
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-geneticsped-1.52.0-r40hba52eb8_1.tar.bz2",
+"total":52
 }
 ]
 }

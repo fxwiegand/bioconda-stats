@@ -56,6 +56,10 @@
 {
 "date":"2022-04-01",
 "total":89
+},
+{
+"date":"2022-04-02",
+"total":91
 }
 ],
 "downloads_per_subdir":[
@@ -65,7 +69,7 @@
 },
 {
 "subdir":"osx-64",
-"total":73
+"total":75
 }
 ],
 "package":"bioconductor-transite",
@@ -221,6 +225,15 @@
 {
 "subdir":"osx-64",
 "total":73
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":75
 }
 ]
 }

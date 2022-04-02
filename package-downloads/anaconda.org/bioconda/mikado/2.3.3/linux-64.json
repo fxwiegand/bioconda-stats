@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"mikado-2.3.3-py37hfcd875c_1.tar.bz2",
-"total":13
+"total":14
 },
 {
 "basename":"mikado-2.3.3-py38h7a2e8c7_1.tar.bz2",
@@ -286,6 +286,10 @@
 {
 "date":"2022-04-01",
 "total":189
+},
+{
+"date":"2022-04-02",
+"total":190
 }
 ],
 "package":"mikado",
@@ -582,6 +586,15 @@
 {
 "basename":"mikado-2.3.3-py38h803c66d_0.tar.bz2",
 "total":54
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"mikado-2.3.3-py37hfcd875c_1.tar.bz2",
+"total":14
 }
 ]
 }

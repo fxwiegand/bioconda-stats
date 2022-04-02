@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-axttopsl-377-h0b8a92a_2.tar.bz2",
-"total":108
+"total":110
 },
 {
 "basename":"ucsc-axttopsl-377-h199ee4e_0.tar.bz2",
@@ -474,6 +474,10 @@
 {
 "date":"2022-04-01",
 "total":349
+},
+{
+"date":"2022-04-02",
+"total":351
 }
 ],
 "package":"ucsc-axttopsl",
@@ -658,6 +662,15 @@
 {
 "basename":"ucsc-axttopsl-377-h199ee4e_0.tar.bz2",
 "total":167
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-axttopsl-377-h0b8a92a_2.tar.bz2",
+"total":110
 }
 ]
 }

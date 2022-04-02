@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-autoxml-377-h0b8a92a_2.tar.bz2",
-"total":93
+"total":98
 },
 {
 "basename":"ucsc-autoxml-377-h199ee4e_0.tar.bz2",
@@ -434,6 +434,10 @@
 {
 "date":"2022-04-01",
 "total":326
+},
+{
+"date":"2022-04-02",
+"total":331
 }
 ],
 "package":"ucsc-autoxml",
@@ -574,6 +578,15 @@
 {
 "basename":"ucsc-autoxml-377-h0b8a92a_2.tar.bz2",
 "total":93
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"ucsc-autoxml-377-h0b8a92a_2.tar.bz2",
+"total":98
 }
 ]
 }

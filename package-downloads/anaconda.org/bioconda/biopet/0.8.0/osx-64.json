@@ -810,6 +810,10 @@
 {
 "date":"2022-04-01",
 "total":2686
+},
+{
+"date":"2022-04-02",
+"total":2686
 }
 ],
 "package":"biopet",
@@ -973,7 +977,12 @@
 {
 "basename":"biopet-0.8.0-py27r3.4.1_0.tar.bz2",
 "total":53
+}
+]
 },
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
 {
 "basename":"biopet-0.8.0-py27_0.tar.bz2",
 "total":56

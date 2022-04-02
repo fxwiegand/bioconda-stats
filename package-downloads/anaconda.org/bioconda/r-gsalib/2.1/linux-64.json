@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-gsalib-2.1-r3.3.2_0.tar.bz2",
-"total":1952
+"total":1953
 },
 {
 "basename":"r-gsalib-2.1-r3.4.1_0.tar.bz2",
@@ -1054,6 +1054,10 @@
 {
 "date":"2022-04-01",
 "total":11123
+},
+{
+"date":"2022-04-02",
+"total":11124
 }
 ],
 "package":"r-gsalib",
@@ -1420,6 +1424,15 @@
 {
 "basename":"r-gsalib-2.1-r3.2.2_0.tar.bz2",
 "total":5037
+}
+]
+},
+{
+"date":"2022-04-02",
+"downloads_per_basename":[
+{
+"basename":"r-gsalib-2.1-r3.3.2_0.tar.bz2",
+"total":1953
 }
 ]
 }
