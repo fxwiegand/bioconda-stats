@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-dnashaper-1.4.0-r3.3.2_0.tar.bz2",
-"total":502
+"total":504
 },
 {
 "basename":"bioconductor-dnashaper-1.4.0-r3.4.1_0.tar.bz2",
@@ -366,6 +366,10 @@
 {
 "date":"2022-04-02",
 "total":1672
+},
+{
+"date":"2022-04-08",
+"total":1674
 }
 ],
 "package":"bioconductor-dnashaper",
@@ -544,6 +548,15 @@
 {
 "basename":"bioconductor-dnashaper-1.4.0-r3.4.1_0.tar.bz2",
 "total":674
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-dnashaper-1.4.0-r3.3.2_0.tar.bz2",
+"total":504
 }
 ]
 }

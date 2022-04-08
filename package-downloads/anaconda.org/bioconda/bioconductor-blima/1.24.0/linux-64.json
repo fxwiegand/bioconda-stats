@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-blima-1.24.0-r40h399db7b_1.tar.bz2",
-"total":56
+"total":57
 },
 {
 "basename":"bioconductor-blima-1.24.0-r40h5f743cb_0.tar.bz2",
@@ -270,6 +270,10 @@
 {
 "date":"2022-04-02",
 "total":124
+},
+{
+"date":"2022-04-08",
+"total":125
 }
 ],
 "package":"bioconductor-blima",
@@ -388,6 +392,15 @@
 {
 "basename":"bioconductor-blima-1.24.0-r40h5f743cb_0.tar.bz2",
 "total":68
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-blima-1.24.0-r40h399db7b_1.tar.bz2",
+"total":57
 }
 ]
 }

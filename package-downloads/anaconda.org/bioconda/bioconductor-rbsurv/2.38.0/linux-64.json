@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rbsurv-2.38.0-r351_0.tar.bz2",
-"total":183
+"total":184
 },
 {
 "basename":"bioconductor-rbsurv-2.38.0-r341_0.tar.bz2",
@@ -246,6 +246,10 @@
 {
 "date":"2022-04-02",
 "total":486
+},
+{
+"date":"2022-04-08",
+"total":487
 }
 ],
 "package":"bioconductor-rbsurv",
@@ -387,6 +391,15 @@
 {
 "basename":"bioconductor-rbsurv-2.38.0-r341_0.tar.bz2",
 "total":303
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rbsurv-2.38.0-r351_0.tar.bz2",
+"total":184
 }
 ]
 }

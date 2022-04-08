@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-dama-1.52.0-r341_0.tar.bz2",
-"total":225
+"total":226
 },
 {
 "basename":"bioconductor-dama-1.52.0-r351_0.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2022-04-02",
 "total":574
+},
+{
+"date":"2022-04-08",
+"total":575
 }
 ],
 "package":"bioconductor-dama",
@@ -376,6 +380,15 @@
 {
 "basename":"bioconductor-dama-1.52.0-r351_0.tar.bz2",
 "total":349
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-dama-1.52.0-r341_0.tar.bz2",
+"total":226
 }
 ]
 }

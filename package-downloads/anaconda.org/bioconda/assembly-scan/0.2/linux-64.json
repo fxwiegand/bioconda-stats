@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"assembly-scan-0.2-py35_0.tar.bz2",
-"total":210
+"total":212
 },
 {
 "basename":"assembly-scan-0.2-py36_0.tar.bz2",
@@ -294,6 +294,10 @@
 {
 "date":"2022-04-02",
 "total":561
+},
+{
+"date":"2022-04-08",
+"total":563
 }
 ],
 "package":"assembly-scan",
@@ -409,6 +413,15 @@
 {
 "basename":"assembly-scan-0.2-py36_0.tar.bz2",
 "total":351
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"assembly-scan-0.2-py35_0.tar.bz2",
+"total":212
 }
 ]
 }

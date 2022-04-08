@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ncbi-vdb-py-3.0.0-hdfd78af_0.tar.bz2",
-"total":64
+"total":77
 }
 ],
 "downloads_per_date":[
@@ -62,6 +62,10 @@
 {
 "date":"2022-04-02",
 "total":64
+},
+{
+"date":"2022-04-08",
+"total":77
 }
 ],
 "package":"ncbi-vdb-py",
@@ -180,6 +184,15 @@
 {
 "basename":"ncbi-vdb-py-3.0.0-hdfd78af_0.tar.bz2",
 "total":64
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"ncbi-vdb-py-3.0.0-hdfd78af_0.tar.bz2",
+"total":77
 }
 ]
 }

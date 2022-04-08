@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-ihwpaper-1.18.0-r40h399db7b_1.tar.bz2",
-"total":44
+"total":45
 },
 {
 "basename":"bioconductor-ihwpaper-1.18.0-r40h5f743cb_0.tar.bz2",
@@ -258,6 +258,10 @@
 {
 "date":"2022-04-02",
 "total":104
+},
+{
+"date":"2022-04-08",
+"total":105
 }
 ],
 "package":"bioconductor-ihwpaper",
@@ -390,6 +394,15 @@
 {
 "basename":"bioconductor-ihwpaper-1.18.0-r40h5f743cb_0.tar.bz2",
 "total":60
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ihwpaper-1.18.0-r40h399db7b_1.tar.bz2",
+"total":45
 }
 ]
 }

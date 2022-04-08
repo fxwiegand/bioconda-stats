@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-flowcore-1.42.0-r3.3.2_0.tar.bz2",
-"total":726
+"total":727
 },
 {
 "basename":"bioconductor-flowcore-1.42.0-r3.4.1_0.tar.bz2",
@@ -298,6 +298,10 @@
 {
 "date":"2022-04-02",
 "total":1698
+},
+{
+"date":"2022-04-08",
+"total":1699
 }
 ],
 "package":"bioconductor-flowcore",
@@ -430,6 +434,15 @@
 {
 "basename":"bioconductor-flowcore-1.42.0-r3.4.1_0.tar.bz2",
 "total":972
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-flowcore-1.42.0-r3.3.2_0.tar.bz2",
+"total":727
 }
 ]
 }

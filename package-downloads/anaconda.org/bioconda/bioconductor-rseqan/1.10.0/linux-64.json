@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rseqan-1.10.0-r40h399db7b_1.tar.bz2",
-"total":66
+"total":67
 },
 {
 "basename":"bioconductor-rseqan-1.10.0-r40h5f743cb_0.tar.bz2",
@@ -306,6 +306,10 @@
 {
 "date":"2022-04-02",
 "total":156
+},
+{
+"date":"2022-04-08",
+"total":157
 }
 ],
 "package":"bioconductor-rseqan",
@@ -421,6 +425,15 @@
 {
 "basename":"bioconductor-rseqan-1.10.0-r40h5f743cb_0.tar.bz2",
 "total":90
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rseqan-1.10.0-r40h399db7b_1.tar.bz2",
+"total":67
 }
 ]
 }

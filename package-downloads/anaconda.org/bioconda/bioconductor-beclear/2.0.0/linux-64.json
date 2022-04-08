@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-beclear-2.0.0-r36he1b5a44_1.tar.bz2",
-"total":127
+"total":128
 },
 {
 "basename":"bioconductor-beclear-2.0.0-r351hf484d3e_0.tar.bz2",
@@ -302,6 +302,10 @@
 {
 "date":"2022-04-02",
 "total":288
+},
+{
+"date":"2022-04-08",
+"total":289
 }
 ],
 "package":"bioconductor-beclear",
@@ -421,6 +425,15 @@
 {
 "basename":"bioconductor-beclear-2.0.0-r351hf484d3e_0.tar.bz2",
 "total":161
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-beclear-2.0.0-r36he1b5a44_1.tar.bz2",
+"total":128
 }
 ]
 }

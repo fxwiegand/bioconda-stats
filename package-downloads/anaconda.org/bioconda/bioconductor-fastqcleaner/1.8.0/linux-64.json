@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-fastqcleaner-1.8.0-r40h399db7b_1.tar.bz2",
-"total":69
+"total":70
 },
 {
 "basename":"bioconductor-fastqcleaner-1.8.0-r40h5f743cb_0.tar.bz2",
@@ -306,6 +306,10 @@
 {
 "date":"2022-04-02",
 "total":150
+},
+{
+"date":"2022-04-08",
+"total":151
 }
 ],
 "package":"bioconductor-fastqcleaner",
@@ -429,6 +433,15 @@
 {
 "basename":"bioconductor-fastqcleaner-1.8.0-r40h5f743cb_0.tar.bz2",
 "total":81
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-fastqcleaner-1.8.0-r40h399db7b_1.tar.bz2",
+"total":70
 }
 ]
 }

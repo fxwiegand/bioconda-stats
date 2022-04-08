@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-bigwigsummary-332-0.tar.bz2",
-"total":3296
+"total":3298
 }
 ],
 "downloads_per_date":[
@@ -178,6 +178,10 @@
 {
 "date":"2022-04-02",
 "total":3296
+},
+{
+"date":"2022-04-08",
+"total":3298
 }
 ],
 "package":"ucsc-bigwigsummary",
@@ -233,6 +237,15 @@
 {
 "basename":"ucsc-bigwigsummary-332-0.tar.bz2",
 "total":3296
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bigwigsummary-332-0.tar.bz2",
+"total":3298
 }
 ]
 }

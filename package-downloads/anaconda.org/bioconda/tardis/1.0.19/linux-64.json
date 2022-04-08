@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"tardis-1.0.19-py27h53fee03_1.tar.bz2",
-"total":57
+"total":59
 },
 {
 "basename":"tardis-1.0.19-py27ha92aebf_0.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2022-04-02",
 "total":318
+},
+{
+"date":"2022-04-08",
+"total":320
 }
 ],
 "package":"tardis",
@@ -386,6 +390,15 @@
 {
 "basename":"tardis-1.0.19-py27ha92aebf_0.tar.bz2",
 "total":261
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"tardis-1.0.19-py27h53fee03_1.tar.bz2",
+"total":59
 }
 ]
 }

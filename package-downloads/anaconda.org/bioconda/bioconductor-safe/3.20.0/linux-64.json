@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-safe-3.20.0-r341_0.tar.bz2",
-"total":248
+"total":249
 },
 {
 "basename":"bioconductor-safe-3.20.0-r351_0.tar.bz2",
@@ -250,6 +250,10 @@
 {
 "date":"2022-04-02",
 "total":620
+},
+{
+"date":"2022-04-08",
+"total":621
 }
 ],
 "package":"bioconductor-safe",
@@ -373,6 +377,15 @@
 {
 "basename":"bioconductor-safe-3.20.0-r351_0.tar.bz2",
 "total":372
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-safe-3.20.0-r341_0.tar.bz2",
+"total":249
 }
 ]
 }

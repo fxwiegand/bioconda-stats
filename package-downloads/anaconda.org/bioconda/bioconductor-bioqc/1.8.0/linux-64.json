@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-bioqc-1.8.0-r341hfc679d8_0.tar.bz2",
-"total":224
+"total":225
 },
 {
 "basename":"bioconductor-bioqc-1.8.0-r351hfc679d8_0.tar.bz2",
@@ -286,6 +286,10 @@
 {
 "date":"2022-04-02",
 "total":581
+},
+{
+"date":"2022-04-08",
+"total":582
 }
 ],
 "package":"bioconductor-bioqc",
@@ -387,6 +391,15 @@
 {
 "basename":"bioconductor-bioqc-1.8.0-r351hfc679d8_0.tar.bz2",
 "total":357
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bioqc-1.8.0-r341hfc679d8_0.tar.bz2",
+"total":225
 }
 ]
 }

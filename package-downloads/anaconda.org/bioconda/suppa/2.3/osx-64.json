@@ -7,7 +7,7 @@
 },
 {
 "basename":"suppa-2.3-py35_0.tar.bz2",
-"total":56
+"total":57
 },
 {
 "basename":"suppa-2.3-py35_1.tar.bz2",
@@ -766,6 +766,10 @@
 {
 "date":"2022-04-02",
 "total":2165
+},
+{
+"date":"2022-04-08",
+"total":2166
 }
 ],
 "package":"suppa",
@@ -866,6 +870,15 @@
 {
 "basename":"suppa-2.3-py36_0.tar.bz2",
 "total":55
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"suppa-2.3-py35_0.tar.bz2",
+"total":57
 }
 ]
 }

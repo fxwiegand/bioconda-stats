@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-readqpcr-1.22.0-r3.3.2_0.tar.bz2",
-"total":458
+"total":459
 },
 {
 "basename":"bioconductor-readqpcr-1.22.0-r3.4.1_0.tar.bz2",
@@ -242,6 +242,10 @@
 {
 "date":"2022-04-02",
 "total":1044
+},
+{
+"date":"2022-04-08",
+"total":1045
 }
 ],
 "package":"bioconductor-readqpcr",
@@ -357,6 +361,15 @@
 {
 "basename":"bioconductor-readqpcr-1.22.0-r3.4.1_0.tar.bz2",
 "total":586
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-readqpcr-1.22.0-r3.3.2_0.tar.bz2",
+"total":459
 }
 ]
 }

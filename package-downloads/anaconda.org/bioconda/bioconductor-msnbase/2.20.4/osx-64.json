@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-msnbase-2.20.4-r41h7cba510_0.tar.bz2",
-"total":93
+"total":113
 }
 ],
 "downloads_per_date":[
@@ -70,6 +70,10 @@
 {
 "date":"2022-04-02",
 "total":93
+},
+{
+"date":"2022-04-08",
+"total":113
 }
 ],
 "package":"bioconductor-msnbase",
@@ -215,6 +219,15 @@
 {
 "basename":"bioconductor-msnbase-2.20.4-r41h7cba510_0.tar.bz2",
 "total":93
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-msnbase-2.20.4-r41h7cba510_0.tar.bz2",
+"total":113
 }
 ]
 }

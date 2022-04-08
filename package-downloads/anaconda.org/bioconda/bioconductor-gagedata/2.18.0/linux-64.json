@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-gagedata-2.18.0-r351_0.tar.bz2",
-"total":200
+"total":201
 },
 {
 "basename":"bioconductor-gagedata-2.18.0-r341_0.tar.bz2",
@@ -226,6 +226,10 @@
 {
 "date":"2022-04-02",
 "total":620
+},
+{
+"date":"2022-04-08",
+"total":621
 }
 ],
 "package":"bioconductor-gagedata",
@@ -345,6 +349,15 @@
 {
 "basename":"bioconductor-gagedata-2.18.0-r341_0.tar.bz2",
 "total":420
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-gagedata-2.18.0-r351_0.tar.bz2",
+"total":201
 }
 ]
 }

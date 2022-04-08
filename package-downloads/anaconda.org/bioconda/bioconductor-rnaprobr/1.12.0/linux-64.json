@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-rnaprobr-1.12.0-r351_0.tar.bz2",
-"total":249
+"total":250
 }
 ],
 "downloads_per_date":[
@@ -254,6 +254,10 @@
 {
 "date":"2022-04-02",
 "total":480
+},
+{
+"date":"2022-04-08",
+"total":481
 }
 ],
 "package":"bioconductor-rnaprobr",
@@ -385,6 +389,15 @@
 {
 "basename":"bioconductor-rnaprobr-1.12.0-r351_0.tar.bz2",
 "total":249
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rnaprobr-1.12.0-r351_0.tar.bz2",
+"total":250
 }
 ]
 }

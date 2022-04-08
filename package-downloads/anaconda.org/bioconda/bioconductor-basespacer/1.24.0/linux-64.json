@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-basespacer-1.24.0-r351_0.tar.bz2",
-"total":223
+"total":225
 },
 {
 "basename":"bioconductor-basespacer-1.24.0-r341_0.tar.bz2",
@@ -270,6 +270,10 @@
 {
 "date":"2022-04-02",
 "total":567
+},
+{
+"date":"2022-04-08",
+"total":569
 }
 ],
 "package":"bioconductor-basespacer",
@@ -384,6 +388,15 @@
 {
 "basename":"bioconductor-basespacer-1.24.0-r341_0.tar.bz2",
 "total":344
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-basespacer-1.24.0-r351_0.tar.bz2",
+"total":225
 }
 ]
 }

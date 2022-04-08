@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-bedpileups-324-0.tar.bz2",
-"total":578
+"total":579
 }
 ],
 "downloads_per_date":[
@@ -190,6 +190,10 @@
 {
 "date":"2022-04-02",
 "total":578
+},
+{
+"date":"2022-04-08",
+"total":579
 }
 ],
 "package":"ucsc-bedpileups",
@@ -245,6 +249,15 @@
 {
 "basename":"ucsc-bedpileups-324-0.tar.bz2",
 "total":578
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bedpileups-324-0.tar.bz2",
+"total":579
 }
 ]
 }

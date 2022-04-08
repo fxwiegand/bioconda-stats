@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"python-omero-5.4.8-py27_1.tar.bz2",
-"total":360
+"total":362
 }
 ],
 "downloads_per_date":[
@@ -258,6 +258,10 @@
 {
 "date":"2022-04-02",
 "total":360
+},
+{
+"date":"2022-04-08",
+"total":362
 }
 ],
 "package":"python-omero",
@@ -340,6 +344,15 @@
 {
 "basename":"python-omero-5.4.8-py27_1.tar.bz2",
 "total":360
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"python-omero-5.4.8-py27_1.tar.bz2",
+"total":362
 }
 ]
 }

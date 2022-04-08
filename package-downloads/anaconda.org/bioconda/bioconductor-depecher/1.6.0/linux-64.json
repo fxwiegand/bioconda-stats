@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-depecher-1.6.0-r40h399db7b_1.tar.bz2",
-"total":66
+"total":67
 },
 {
 "basename":"bioconductor-depecher-1.6.0-r40h5f743cb_0.tar.bz2",
@@ -290,6 +290,10 @@
 {
 "date":"2022-04-02",
 "total":151
+},
+{
+"date":"2022-04-08",
+"total":152
 }
 ],
 "package":"bioconductor-depecher",
@@ -418,6 +422,15 @@
 {
 "basename":"bioconductor-depecher-1.6.0-r40h5f743cb_0.tar.bz2",
 "total":85
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-depecher-1.6.0-r40h399db7b_1.tar.bz2",
+"total":67
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-without-module-0.20-pl526_0.tar.bz2",
-"total":301
+"total":302
 }
 ],
 "downloads_per_date":[
@@ -158,6 +158,10 @@
 {
 "date":"2022-04-02",
 "total":301
+},
+{
+"date":"2022-04-08",
+"total":302
 }
 ],
 "package":"perl-test-without-module",
@@ -213,6 +217,15 @@
 {
 "basename":"perl-test-without-module-0.20-pl526_0.tar.bz2",
 "total":301
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"perl-test-without-module-0.20-pl526_0.tar.bz2",
+"total":302
 }
 ]
 }

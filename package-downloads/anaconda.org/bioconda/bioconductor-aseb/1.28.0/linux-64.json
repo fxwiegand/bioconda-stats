@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-aseb-1.28.0-r36he1b5a44_1.tar.bz2",
-"total":114
+"total":115
 },
 {
 "basename":"bioconductor-aseb-1.28.0-r351hf484d3e_0.tar.bz2",
@@ -290,6 +290,10 @@
 {
 "date":"2022-04-02",
 "total":275
+},
+{
+"date":"2022-04-08",
+"total":276
 }
 ],
 "package":"bioconductor-aseb",
@@ -422,6 +426,15 @@
 {
 "basename":"bioconductor-aseb-1.28.0-r351hf484d3e_0.tar.bz2",
 "total":161
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-aseb-1.28.0-r36he1b5a44_1.tar.bz2",
+"total":115
 }
 ]
 }

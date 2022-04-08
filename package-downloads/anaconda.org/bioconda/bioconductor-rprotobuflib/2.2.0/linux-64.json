@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rprotobuflib-2.2.0-r40h399db7b_1.tar.bz2",
-"total":249
+"total":255
 },
 {
 "basename":"bioconductor-rprotobuflib-2.2.0-r40h5f743cb_0.tar.bz2",
@@ -610,6 +610,10 @@
 {
 "date":"2022-04-02",
 "total":520
+},
+{
+"date":"2022-04-08",
+"total":526
 }
 ],
 "package":"bioconductor-rprotobuflib",
@@ -800,6 +804,15 @@
 {
 "basename":"bioconductor-rprotobuflib-2.2.0-r40h5f743cb_0.tar.bz2",
 "total":271
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rprotobuflib-2.2.0-r40h399db7b_1.tar.bz2",
+"total":255
 }
 ]
 }

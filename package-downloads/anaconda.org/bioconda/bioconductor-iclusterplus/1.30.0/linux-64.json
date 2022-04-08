@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-iclusterplus-1.30.0-r41h77f299f_1.tar.bz2",
-"total":20
+"total":21
 },
 {
 "basename":"bioconductor-iclusterplus-1.30.0-r41hacda110_0.tar.bz2",
@@ -182,6 +182,10 @@
 {
 "date":"2022-04-02",
 "total":62
+},
+{
+"date":"2022-04-08",
+"total":63
 }
 ],
 "package":"bioconductor-iclusterplus",
@@ -306,6 +310,15 @@
 {
 "basename":"bioconductor-iclusterplus-1.30.0-r41hacda110_0.tar.bz2",
 "total":42
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-iclusterplus-1.30.0-r41h77f299f_1.tar.bz2",
+"total":21
 }
 ]
 }

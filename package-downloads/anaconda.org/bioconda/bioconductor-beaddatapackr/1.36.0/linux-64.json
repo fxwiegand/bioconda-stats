@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-beaddatapackr-1.36.0-r36h516909a_1.tar.bz2",
-"total":144
+"total":145
 },
 {
 "basename":"bioconductor-beaddatapackr-1.36.0-r351h14c3975_0.tar.bz2",
@@ -290,6 +290,10 @@
 {
 "date":"2022-04-02",
 "total":299
+},
+{
+"date":"2022-04-08",
+"total":300
 }
 ],
 "package":"bioconductor-beaddatapackr",
@@ -418,6 +422,15 @@
 {
 "basename":"bioconductor-beaddatapackr-1.36.0-r351h14c3975_0.tar.bz2",
 "total":155
+}
+]
+},
+{
+"date":"2022-04-08",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-beaddatapackr-1.36.0-r36h516909a_1.tar.bz2",
+"total":145
 }
 ]
 }
