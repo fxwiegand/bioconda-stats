@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-subcolumn-324-0.tar.bz2",
-"total":600
+"total":601
 }
 ],
 "downloads_per_date":[
@@ -190,6 +190,10 @@
 {
 "date":"2022-04-08",
 "total":600
+},
+{
+"date":"2022-04-10",
+"total":601
 }
 ],
 "package":"ucsc-subcolumn",
@@ -272,6 +276,15 @@
 {
 "basename":"ucsc-subcolumn-324-0.tar.bz2",
 "total":600
+}
+]
+},
+{
+"date":"2022-04-10",
+"downloads_per_basename":[
+{
+"basename":"ucsc-subcolumn-324-0.tar.bz2",
+"total":601
 }
 ]
 }

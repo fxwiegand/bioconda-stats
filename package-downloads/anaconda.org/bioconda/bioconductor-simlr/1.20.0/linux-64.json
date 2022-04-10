@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-simlr-1.20.0-r41h619a076_1.tar.bz2",
-"total":22
+"total":23
 },
 {
 "basename":"bioconductor-simlr-1.20.0-r41h399db7b_0.tar.bz2",
@@ -226,6 +226,10 @@
 {
 "date":"2022-04-08",
 "total":73
+},
+{
+"date":"2022-04-10",
+"total":74
 }
 ],
 "package":"bioconductor-simlr",
@@ -377,6 +381,15 @@
 {
 "basename":"bioconductor-simlr-1.20.0-r41h399db7b_0.tar.bz2",
 "total":51
+}
+]
+},
+{
+"date":"2022-04-10",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-simlr-1.20.0-r41h619a076_1.tar.bz2",
+"total":23
 }
 ]
 }

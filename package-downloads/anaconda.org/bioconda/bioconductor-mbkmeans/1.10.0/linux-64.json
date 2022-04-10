@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-mbkmeans-1.10.0-r41h619a076_1.tar.bz2",
-"total":20
+"total":21
 },
 {
 "basename":"bioconductor-mbkmeans-1.10.0-r41h399db7b_0.tar.bz2",
@@ -214,6 +214,10 @@
 {
 "date":"2022-04-08",
 "total":65
+},
+{
+"date":"2022-04-10",
+"total":66
 }
 ],
 "package":"bioconductor-mbkmeans",
@@ -365,6 +369,15 @@
 {
 "basename":"bioconductor-mbkmeans-1.10.0-r41h399db7b_0.tar.bz2",
 "total":45
+}
+]
+},
+{
+"date":"2022-04-10",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mbkmeans-1.10.0-r41h619a076_1.tar.bz2",
+"total":21
 }
 ]
 }

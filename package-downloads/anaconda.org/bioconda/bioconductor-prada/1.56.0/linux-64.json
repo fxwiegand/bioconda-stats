@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-prada-1.56.0-r341h470a237_0.tar.bz2",
-"total":197
+"total":198
 },
 {
 "basename":"bioconductor-prada-1.56.0-r351h470a237_0.tar.bz2",
@@ -310,6 +310,10 @@
 {
 "date":"2022-04-08",
 "total":548
+},
+{
+"date":"2022-04-10",
+"total":549
 }
 ],
 "package":"bioconductor-prada",
@@ -442,6 +446,15 @@
 {
 "basename":"bioconductor-prada-1.56.0-r351h470a237_0.tar.bz2",
 "total":351
+}
+]
+},
+{
+"date":"2022-04-10",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-prada-1.56.0-r341h470a237_0.tar.bz2",
+"total":198
 }
 ]
 }

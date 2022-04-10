@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-bacon-1.12.0-r351h14c3975_0.tar.bz2",
-"total":185
+"total":186
 }
 ],
 "downloads_per_date":[
@@ -354,6 +354,10 @@
 {
 "date":"2022-04-08",
 "total":325
+},
+{
+"date":"2022-04-10",
+"total":326
 }
 ],
 "package":"bioconductor-bacon",
@@ -491,6 +495,15 @@
 {
 "basename":"bioconductor-bacon-1.12.0-r36h516909a_1.tar.bz2",
 "total":140
+}
+]
+},
+{
+"date":"2022-04-10",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bacon-1.12.0-r351h14c3975_0.tar.bz2",
+"total":186
 }
 ]
 }
