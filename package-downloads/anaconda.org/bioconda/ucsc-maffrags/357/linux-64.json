@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-maffrags-357-1.tar.bz2",
-"total":365
+"total":366
 },
 {
 "basename":"ucsc-maffrags-357-0.tar.bz2",
@@ -386,6 +386,10 @@
 {
 "date":"2022-04-10",
 "total":912
+},
+{
+"date":"2022-04-12",
+"total":913
 }
 ],
 "package":"ucsc-maffrags",
@@ -540,6 +544,15 @@
 {
 "basename":"ucsc-maffrags-357-0.tar.bz2",
 "total":547
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"ucsc-maffrags-357-1.tar.bz2",
+"total":366
 }
 ]
 }

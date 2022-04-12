@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-mzr-2.10.0-boost1.64_0.tar.bz2",
-"total":844
+"total":845
 }
 ],
 "downloads_per_date":[
@@ -326,6 +326,10 @@
 {
 "date":"2022-04-10",
 "total":844
+},
+{
+"date":"2022-04-12",
+"total":845
 }
 ],
 "package":"bioconductor-mzr",
@@ -444,6 +448,15 @@
 {
 "basename":"bioconductor-mzr-2.10.0-boost1.64_0.tar.bz2",
 "total":844
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mzr-2.10.0-boost1.64_0.tar.bz2",
+"total":845
 }
 ]
 }

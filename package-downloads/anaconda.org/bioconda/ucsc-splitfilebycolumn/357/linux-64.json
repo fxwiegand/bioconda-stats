@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-splitfilebycolumn-357-1.tar.bz2",
-"total":465
+"total":466
 }
 ],
 "downloads_per_date":[
@@ -350,6 +350,10 @@
 {
 "date":"2022-04-10",
 "total":923
+},
+{
+"date":"2022-04-12",
+"total":924
 }
 ],
 "package":"ucsc-splitfilebycolumn",
@@ -491,6 +495,15 @@
 {
 "basename":"ucsc-splitfilebycolumn-357-1.tar.bz2",
 "total":465
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"ucsc-splitfilebycolumn-357-1.tar.bz2",
+"total":466
 }
 ]
 }

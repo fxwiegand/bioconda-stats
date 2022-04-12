@@ -19,7 +19,7 @@
 },
 {
 "basename":"megahit-1.1.2-py36_1.tar.bz2",
-"total":1566
+"total":1567
 },
 {
 "basename":"megahit-1.1.2-py27_0.tar.bz2",
@@ -806,6 +806,10 @@
 {
 "date":"2022-04-10",
 "total":5910
+},
+{
+"date":"2022-04-12",
+"total":5911
 }
 ],
 "package":"megahit",
@@ -1134,6 +1138,15 @@
 {
 "basename":"megahit-1.1.2-py27_0.tar.bz2",
 "total":1627
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"megahit-1.1.2-py36_1.tar.bz2",
+"total":1567
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"svmlight-6.02-h779adbc_3.tar.bz2",
-"total":117
+"total":119
 },
 {
 "basename":"svmlight-6.02-h470a237_1.tar.bz2",
@@ -378,6 +378,10 @@
 {
 "date":"2022-04-10",
 "total":1297
+},
+{
+"date":"2022-04-12",
+"total":1299
 }
 ],
 "package":"svmlight",
@@ -620,6 +624,15 @@
 {
 "basename":"svmlight-6.02-h516909a_2.tar.bz2",
 "total":833
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"svmlight-6.02-h779adbc_3.tar.bz2",
+"total":119
 }
 ]
 }

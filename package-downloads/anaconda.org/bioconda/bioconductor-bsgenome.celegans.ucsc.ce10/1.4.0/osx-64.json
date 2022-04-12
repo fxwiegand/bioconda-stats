@@ -770,6 +770,10 @@
 {
 "date":"2022-04-10",
 "total":2338
+},
+{
+"date":"2022-04-12",
+"total":2338
 }
 ],
 "package":"bioconductor-bsgenome.celegans.ucsc.ce10",
@@ -867,7 +871,12 @@
 {
 "basename":"bioconductor-bsgenome.celegans.ucsc.ce10-1.4.0-r341_4.tar.bz2",
 "total":200
+}
+]
 },
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
 {
 "basename":"bioconductor-bsgenome.celegans.ucsc.ce10-1.4.0-r351_4.tar.bz2",
 "total":1739

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-pslhisto-357-1.tar.bz2",
-"total":378
+"total":379
 },
 {
 "basename":"ucsc-pslhisto-357-0.tar.bz2",
@@ -346,6 +346,10 @@
 {
 "date":"2022-04-10",
 "total":938
+},
+{
+"date":"2022-04-12",
+"total":939
 }
 ],
 "package":"ucsc-pslhisto",
@@ -475,6 +479,15 @@
 {
 "basename":"ucsc-pslhisto-357-0.tar.bz2",
 "total":560
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"ucsc-pslhisto-357-1.tar.bz2",
+"total":379
 }
 ]
 }

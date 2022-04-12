@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-maftosnpbed-357-1.tar.bz2",
-"total":371
+"total":372
 },
 {
 "basename":"ucsc-maftosnpbed-357-0.tar.bz2",
@@ -358,6 +358,10 @@
 {
 "date":"2022-04-10",
 "total":928
+},
+{
+"date":"2022-04-12",
+"total":929
 }
 ],
 "package":"ucsc-maftosnpbed",
@@ -495,6 +499,15 @@
 {
 "basename":"ucsc-maftosnpbed-357-1.tar.bz2",
 "total":371
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"ucsc-maftosnpbed-357-1.tar.bz2",
+"total":372
 }
 ]
 }

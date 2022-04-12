@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-hem-1.50.0-r3.4.1_0.tar.bz2",
-"total":404
+"total":405
 }
 ],
 "downloads_per_date":[
@@ -266,6 +266,10 @@
 {
 "date":"2022-04-10",
 "total":404
+},
+{
+"date":"2022-04-12",
+"total":405
 }
 ],
 "package":"bioconductor-hem",
@@ -366,6 +370,15 @@
 {
 "basename":"bioconductor-hem-1.50.0-r3.4.1_0.tar.bz2",
 "total":404
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-hem-1.50.0-r3.4.1_0.tar.bz2",
+"total":405
 }
 ]
 }

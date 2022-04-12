@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-consensusseeker-1.8.0-r341_0.tar.bz2",
-"total":229
+"total":230
 },
 {
 "basename":"bioconductor-consensusseeker-1.8.0-r351_0.tar.bz2",
@@ -294,6 +294,10 @@
 {
 "date":"2022-04-10",
 "total":570
+},
+{
+"date":"2022-04-12",
+"total":571
 }
 ],
 "package":"bioconductor-consensusseeker",
@@ -443,6 +447,15 @@
 {
 "basename":"bioconductor-consensusseeker-1.8.0-r351_0.tar.bz2",
 "total":341
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-consensusseeker-1.8.0-r341_0.tar.bz2",
+"total":230
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-farms-1.32.0-r351_0.tar.bz2",
-"total":319
+"total":320
 }
 ],
 "downloads_per_date":[
@@ -238,6 +238,10 @@
 {
 "date":"2022-04-10",
 "total":319
+},
+{
+"date":"2022-04-12",
+"total":320
 }
 ],
 "package":"bioconductor-farms",
@@ -302,6 +306,15 @@
 {
 "basename":"bioconductor-farms-1.32.0-r351_0.tar.bz2",
 "total":319
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-farms-1.32.0-r351_0.tar.bz2",
+"total":320
 }
 ]
 }

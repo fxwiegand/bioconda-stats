@@ -31,7 +31,7 @@
 },
 {
 "basename":"msgf_plus-2016.10.26-py35_2.tar.bz2",
-"total":659
+"total":660
 },
 {
 "basename":"msgf_plus-2016.10.26-py27_2.tar.bz2",
@@ -562,6 +562,10 @@
 {
 "date":"2022-04-10",
 "total":5940
+},
+{
+"date":"2022-04-12",
+"total":5941
 }
 ],
 "package":"msgf_plus",
@@ -1092,6 +1096,15 @@
 {
 "basename":"msgf_plus-2016.10.26-py36_2.tar.bz2",
 "total":1080
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"msgf_plus-2016.10.26-py35_2.tar.bz2",
+"total":660
 }
 ]
 }

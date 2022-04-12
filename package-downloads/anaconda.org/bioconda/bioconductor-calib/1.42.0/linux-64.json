@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-calib-1.42.0-r3.4.1_0.tar.bz2",
-"total":523
+"total":524
 },
 {
 "basename":"bioconductor-calib-1.42.0-r3.3.2_0.tar.bz2",
@@ -306,6 +306,10 @@
 {
 "date":"2022-04-10",
 "total":1216
+},
+{
+"date":"2022-04-12",
+"total":1217
 }
 ],
 "package":"bioconductor-calib",
@@ -479,6 +483,15 @@
 {
 "basename":"bioconductor-calib-1.42.0-r3.3.2_0.tar.bz2",
 "total":693
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-calib-1.42.0-r3.4.1_0.tar.bz2",
+"total":524
 }
 ]
 }

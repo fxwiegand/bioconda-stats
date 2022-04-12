@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-bigwigmerge-357-1.tar.bz2",
-"total":1179
+"total":1180
 }
 ],
 "downloads_per_date":[
@@ -706,6 +706,10 @@
 {
 "date":"2022-04-10",
 "total":1781
+},
+{
+"date":"2022-04-12",
+"total":1782
 }
 ],
 "package":"ucsc-bigwigmerge",
@@ -923,6 +927,15 @@
 {
 "basename":"ucsc-bigwigmerge-357-1.tar.bz2",
 "total":1179
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bigwigmerge-357-1.tar.bz2",
+"total":1180
 }
 ]
 }

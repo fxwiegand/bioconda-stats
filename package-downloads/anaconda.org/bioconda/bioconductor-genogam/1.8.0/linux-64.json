@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-genogam-1.8.0-r341_0.tar.bz2",
-"total":220
+"total":221
 },
 {
 "basename":"bioconductor-genogam-1.8.0-r351_0.tar.bz2",
@@ -290,6 +290,10 @@
 {
 "date":"2022-04-10",
 "total":564
+},
+{
+"date":"2022-04-12",
+"total":565
 }
 ],
 "package":"bioconductor-genogam",
@@ -426,6 +430,15 @@
 {
 "basename":"bioconductor-genogam-1.8.0-r351_0.tar.bz2",
 "total":344
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-genogam-1.8.0-r341_0.tar.bz2",
+"total":221
 }
 ]
 }

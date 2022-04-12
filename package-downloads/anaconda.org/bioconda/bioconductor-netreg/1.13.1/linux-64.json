@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-netreg-1.13.1-r40h399db7b_1.tar.bz2",
-"total":59
+"total":60
 },
 {
 "basename":"bioconductor-netreg-1.13.1-r40h5f743cb_0.tar.bz2",
@@ -322,6 +322,10 @@
 {
 "date":"2022-04-10",
 "total":127
+},
+{
+"date":"2022-04-12",
+"total":128
 }
 ],
 "package":"bioconductor-netreg",
@@ -450,6 +454,15 @@
 {
 "basename":"bioconductor-netreg-1.13.1-r40h5f743cb_0.tar.bz2",
 "total":68
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-netreg-1.13.1-r40h399db7b_1.tar.bz2",
+"total":60
 }
 ]
 }

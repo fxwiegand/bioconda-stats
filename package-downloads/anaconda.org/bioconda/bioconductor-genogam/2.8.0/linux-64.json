@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-genogam-2.8.0-r40h399db7b_1.tar.bz2",
-"total":69
+"total":70
 },
 {
 "basename":"bioconductor-genogam-2.8.0-r40h5f743cb_0.tar.bz2",
@@ -310,6 +310,10 @@
 {
 "date":"2022-04-10",
 "total":163
+},
+{
+"date":"2022-04-12",
+"total":164
 }
 ],
 "package":"bioconductor-genogam",
@@ -463,6 +467,15 @@
 {
 "basename":"bioconductor-genogam-2.8.0-r40h5f743cb_0.tar.bz2",
 "total":94
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-genogam-2.8.0-r40h399db7b_1.tar.bz2",
+"total":70
 }
 ]
 }

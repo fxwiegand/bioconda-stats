@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-netclass-357-1.tar.bz2",
-"total":340
+"total":341
 },
 {
 "basename":"ucsc-netclass-357-0.tar.bz2",
@@ -406,6 +406,10 @@
 {
 "date":"2022-04-10",
 "total":940
+},
+{
+"date":"2022-04-12",
+"total":941
 }
 ],
 "package":"ucsc-netclass",
@@ -595,6 +599,15 @@
 {
 "basename":"ucsc-netclass-357-0.tar.bz2",
 "total":600
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"ucsc-netclass-357-1.tar.bz2",
+"total":341
 }
 ]
 }

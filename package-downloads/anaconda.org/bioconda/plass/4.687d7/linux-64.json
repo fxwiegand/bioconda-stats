@@ -11,7 +11,7 @@
 },
 {
 "basename":"plass-4.687d7-h95f258a_2.tar.bz2",
-"total":152
+"total":153
 },
 {
 "basename":"plass-4.687d7-h2d02072_0.tar.bz2",
@@ -794,6 +794,10 @@
 {
 "date":"2022-04-10",
 "total":500
+},
+{
+"date":"2022-04-12",
+"total":501
 }
 ],
 "package":"plass",
@@ -1088,6 +1092,15 @@
 {
 "basename":"plass-4.687d7-h2d02072_0.tar.bz2",
 "total":246
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"plass-4.687d7-h95f258a_2.tar.bz2",
+"total":153
 }
 ]
 }

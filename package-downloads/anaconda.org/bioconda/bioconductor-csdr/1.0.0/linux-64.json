@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-csdr-1.0.0-r41h619a076_1.tar.bz2",
-"total":19
+"total":20
 },
 {
 "basename":"bioconductor-csdr-1.0.0-r41h399db7b_0.tar.bz2",
@@ -166,6 +166,10 @@
 {
 "date":"2022-04-10",
 "total":55
+},
+{
+"date":"2022-04-12",
+"total":56
 }
 ],
 "package":"bioconductor-csdr",
@@ -320,6 +324,15 @@
 {
 "basename":"bioconductor-csdr-1.0.0-r41h399db7b_0.tar.bz2",
 "total":36
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-csdr-1.0.0-r41h619a076_1.tar.bz2",
+"total":20
 }
 ]
 }

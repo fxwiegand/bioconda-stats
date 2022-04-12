@@ -7,7 +7,7 @@
 },
 {
 "basename":"mash-2.0-gsl2.2_2.tar.bz2",
-"total":972
+"total":974
 },
 {
 "basename":"mash-2.0-gsl1.16_0.tar.bz2",
@@ -806,6 +806,10 @@
 {
 "date":"2022-04-10",
 "total":4015
+},
+{
+"date":"2022-04-12",
+"total":4017
 }
 ],
 "package":"mash",
@@ -1059,6 +1063,15 @@
 {
 "basename":"mash-2.0-gsl1.16_1.tar.bz2",
 "total":1241
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"mash-2.0-gsl2.2_2.tar.bz2",
+"total":974
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-text-parsewords-3.29-pl5.22.0_2.tar.bz2",
-"total":1022
+"total":1023
 },
 {
 "basename":"perl-text-parsewords-3.29-pl526_3.tar.bz2",
@@ -278,6 +278,10 @@
 {
 "date":"2022-04-10",
 "total":5785
+},
+{
+"date":"2022-04-12",
+"total":5786
 }
 ],
 "package":"perl-text-parsewords",
@@ -456,6 +460,15 @@
 {
 "basename":"perl-text-parsewords-3.29-pl526_3.tar.bz2",
 "total":3861
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"perl-text-parsewords-3.29-pl5.22.0_2.tar.bz2",
+"total":1023
 }
 ]
 }

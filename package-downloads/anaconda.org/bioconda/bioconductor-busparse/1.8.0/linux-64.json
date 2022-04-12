@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-busparse-1.8.0-r41h619a076_1.tar.bz2",
-"total":28
+"total":29
 },
 {
 "basename":"bioconductor-busparse-1.8.0-r41h399db7b_0.tar.bz2",
@@ -246,6 +246,10 @@
 {
 "date":"2022-04-10",
 "total":79
+},
+{
+"date":"2022-04-12",
+"total":80
 }
 ],
 "package":"bioconductor-busparse",
@@ -433,6 +437,15 @@
 {
 "basename":"bioconductor-busparse-1.8.0-r41h399db7b_0.tar.bz2",
 "total":51
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-busparse-1.8.0-r41h619a076_1.tar.bz2",
+"total":29
 }
 ]
 }

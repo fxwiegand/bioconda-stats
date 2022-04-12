@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-twobitmask-357-1.tar.bz2",
-"total":351
+"total":352
 },
 {
 "basename":"ucsc-twobitmask-357-0.tar.bz2",
@@ -382,6 +382,10 @@
 {
 "date":"2022-04-10",
 "total":918
+},
+{
+"date":"2022-04-12",
+"total":919
 }
 ],
 "package":"ucsc-twobitmask",
@@ -514,6 +518,15 @@
 {
 "basename":"ucsc-twobitmask-357-1.tar.bz2",
 "total":351
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"ucsc-twobitmask-357-1.tar.bz2",
+"total":352
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-chaintopsl-357-1.tar.bz2",
-"total":460
+"total":461
 },
 {
 "basename":"ucsc-chaintopsl-357-0.tar.bz2",
@@ -354,6 +354,10 @@
 {
 "date":"2022-04-10",
 "total":923
+},
+{
+"date":"2022-04-12",
+"total":924
 }
 ],
 "package":"ucsc-chaintopsl",
@@ -495,6 +499,15 @@
 {
 "basename":"ucsc-chaintopsl-357-0.tar.bz2",
 "total":463
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"ucsc-chaintopsl-357-1.tar.bz2",
+"total":461
 }
 ]
 }

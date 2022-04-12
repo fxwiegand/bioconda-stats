@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-lbe-1.48.0-r341_0.tar.bz2",
-"total":331
+"total":332
 }
 ],
 "downloads_per_date":[
@@ -294,6 +294,10 @@
 {
 "date":"2022-04-10",
 "total":527
+},
+{
+"date":"2022-04-12",
+"total":528
 }
 ],
 "package":"bioconductor-lbe",
@@ -435,6 +439,15 @@
 {
 "basename":"bioconductor-lbe-1.48.0-r341_0.tar.bz2",
 "total":331
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-lbe-1.48.0-r341_0.tar.bz2",
+"total":332
 }
 ]
 }

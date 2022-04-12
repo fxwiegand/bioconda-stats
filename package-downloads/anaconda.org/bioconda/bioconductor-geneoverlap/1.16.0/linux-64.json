@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-geneoverlap-1.16.0-r351_0.tar.bz2",
-"total":198
+"total":199
 },
 {
 "basename":"bioconductor-geneoverlap-1.16.0-r341_0.tar.bz2",
@@ -254,6 +254,10 @@
 {
 "date":"2022-04-10",
 "total":531
+},
+{
+"date":"2022-04-12",
+"total":532
 }
 ],
 "package":"bioconductor-geneoverlap",
@@ -399,6 +403,15 @@
 {
 "basename":"bioconductor-geneoverlap-1.16.0-r341_0.tar.bz2",
 "total":333
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-geneoverlap-1.16.0-r351_0.tar.bz2",
+"total":199
 }
 ]
 }

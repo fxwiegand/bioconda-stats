@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-inter-1.09-pl526_0.tar.bz2",
-"total":244
+"total":246
 }
 ],
 "downloads_per_date":[
@@ -322,6 +322,10 @@
 {
 "date":"2022-04-10",
 "total":244
+},
+{
+"date":"2022-04-12",
+"total":246
 }
 ],
 "package":"perl-test-inter",
@@ -449,6 +453,15 @@
 {
 "basename":"perl-test-inter-1.09-pl526_0.tar.bz2",
 "total":244
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"perl-test-inter-1.09-pl526_0.tar.bz2",
+"total":246
 }
 ]
 }

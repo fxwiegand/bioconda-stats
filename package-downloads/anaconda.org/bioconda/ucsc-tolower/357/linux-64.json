@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-tolower-357-1.tar.bz2",
-"total":458
+"total":459
 },
 {
 "basename":"ucsc-tolower-357-0.tar.bz2",
@@ -342,6 +342,10 @@
 {
 "date":"2022-04-10",
 "total":930
+},
+{
+"date":"2022-04-12",
+"total":931
 }
 ],
 "package":"ucsc-tolower",
@@ -492,6 +496,15 @@
 {
 "basename":"ucsc-tolower-357-0.tar.bz2",
 "total":472
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"ucsc-tolower-357-1.tar.bz2",
+"total":459
 }
 ]
 }

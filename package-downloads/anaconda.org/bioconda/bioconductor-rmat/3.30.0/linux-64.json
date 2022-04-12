@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rmat-3.30.0-r351h0edd121_0.tar.bz2",
-"total":187
+"total":188
 },
 {
 "basename":"bioconductor-rmat-3.30.0-r341h0edd121_0.tar.bz2",
@@ -270,6 +270,10 @@
 {
 "date":"2022-04-10",
 "total":498
+},
+{
+"date":"2022-04-12",
+"total":499
 }
 ],
 "package":"bioconductor-rmat",
@@ -411,6 +415,15 @@
 {
 "basename":"bioconductor-rmat-3.30.0-r341h0edd121_0.tar.bz2",
 "total":311
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rmat-3.30.0-r351h0edd121_0.tar.bz2",
+"total":188
 }
 ]
 }

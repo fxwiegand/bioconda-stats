@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-copa-1.58.0-r40hd029910_1.tar.bz2",
-"total":45
+"total":46
 },
 {
 "basename":"bioconductor-copa-1.58.0-r40h037d062_0.tar.bz2",
@@ -246,6 +246,10 @@
 {
 "date":"2022-04-10",
 "total":108
+},
+{
+"date":"2022-04-12",
+"total":109
 }
 ],
 "package":"bioconductor-copa",
@@ -382,6 +386,15 @@
 {
 "basename":"bioconductor-copa-1.58.0-r40h037d062_0.tar.bz2",
 "total":63
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-copa-1.58.0-r40hd029910_1.tar.bz2",
+"total":46
 }
 ]
 }

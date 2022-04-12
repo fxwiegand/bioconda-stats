@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-trfbig-357-1.tar.bz2",
-"total":349
+"total":350
 },
 {
 "basename":"ucsc-trfbig-357-0.tar.bz2",
@@ -338,6 +338,10 @@
 {
 "date":"2022-04-10",
 "total":921
+},
+{
+"date":"2022-04-12",
+"total":922
 }
 ],
 "package":"ucsc-trfbig",
@@ -480,6 +484,15 @@
 {
 "basename":"ucsc-trfbig-357-1.tar.bz2",
 "total":349
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"ucsc-trfbig-357-1.tar.bz2",
+"total":350
 }
 ]
 }

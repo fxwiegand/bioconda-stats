@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-sangerseqr-1.16.0-r341_0.tar.bz2",
-"total":200
+"total":201
 },
 {
 "basename":"bioconductor-sangerseqr-1.16.0-r351_0.tar.bz2",
@@ -270,6 +270,10 @@
 {
 "date":"2022-04-10",
 "total":521
+},
+{
+"date":"2022-04-12",
+"total":522
 }
 ],
 "package":"bioconductor-sangerseqr",
@@ -393,6 +397,15 @@
 {
 "basename":"bioconductor-sangerseqr-1.16.0-r351_0.tar.bz2",
 "total":321
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-sangerseqr-1.16.0-r341_0.tar.bz2",
+"total":201
 }
 ]
 }

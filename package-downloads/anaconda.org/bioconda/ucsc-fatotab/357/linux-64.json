@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-fatotab-357-1.tar.bz2",
-"total":353
+"total":354
 },
 {
 "basename":"ucsc-fatotab-357-0.tar.bz2",
@@ -362,6 +362,10 @@
 {
 "date":"2022-04-10",
 "total":910
+},
+{
+"date":"2022-04-12",
+"total":911
 }
 ],
 "package":"ucsc-fatotab",
@@ -481,6 +485,15 @@
 {
 "basename":"ucsc-fatotab-357-0.tar.bz2",
 "total":557
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"ucsc-fatotab-357-1.tar.bz2",
+"total":354
 }
 ]
 }

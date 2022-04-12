@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"kallisto-0.43.1-hdf51.8.17_1.tar.bz2",
-"total":2606
+"total":2607
 },
 {
 "basename":"kallisto-0.43.1-hdf51.8.17_0.tar.bz2",
@@ -366,6 +366,10 @@
 {
 "date":"2022-04-10",
 "total":5818
+},
+{
+"date":"2022-04-12",
+"total":5819
 }
 ],
 "package":"kallisto",
@@ -521,6 +525,15 @@
 {
 "basename":"kallisto-0.43.1-hdf51.8.17_0.tar.bz2",
 "total":3212
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"kallisto-0.43.1-hdf51.8.17_1.tar.bz2",
+"total":2607
 }
 ]
 }

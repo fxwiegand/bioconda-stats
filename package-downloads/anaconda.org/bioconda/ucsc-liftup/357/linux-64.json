@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-liftup-357-1.tar.bz2",
-"total":547
+"total":548
 }
 ],
 "downloads_per_date":[
@@ -434,6 +434,10 @@
 {
 "date":"2022-04-10",
 "total":998
+},
+{
+"date":"2022-04-12",
+"total":999
 }
 ],
 "package":"ucsc-liftup",
@@ -570,6 +574,15 @@
 {
 "basename":"ucsc-liftup-357-1.tar.bz2",
 "total":547
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"ucsc-liftup-357-1.tar.bz2",
+"total":548
 }
 ]
 }

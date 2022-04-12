@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-chainnet-357-1.tar.bz2",
-"total":444
+"total":445
 },
 {
 "basename":"ucsc-chainnet-357-0.tar.bz2",
@@ -434,6 +434,10 @@
 {
 "date":"2022-04-10",
 "total":1017
+},
+{
+"date":"2022-04-12",
+"total":1018
 }
 ],
 "package":"ucsc-chainnet",
@@ -575,6 +579,15 @@
 {
 "basename":"ucsc-chainnet-357-0.tar.bz2",
 "total":573
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"ucsc-chainnet-357-1.tar.bz2",
+"total":445
 }
 ]
 }

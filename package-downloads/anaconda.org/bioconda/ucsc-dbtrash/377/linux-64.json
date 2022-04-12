@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-dbtrash-377-ha8a8165_3.tar.bz2",
-"total":48
+"total":53
 },
 {
 "basename":"ucsc-dbtrash-377-h446ed27_1.tar.bz2",
@@ -542,6 +542,10 @@
 {
 "date":"2022-04-10",
 "total":393
+},
+{
+"date":"2022-04-12",
+"total":398
 }
 ],
 "package":"ucsc-dbtrash",
@@ -797,6 +801,15 @@
 {
 "basename":"ucsc-dbtrash-377-h199ee4e_0.tar.bz2",
 "total":169
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"ucsc-dbtrash-377-ha8a8165_3.tar.bz2",
+"total":53
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-pslmrnacover-357-1.tar.bz2",
-"total":485
+"total":486
 }
 ],
 "downloads_per_date":[
@@ -334,6 +334,10 @@
 {
 "date":"2022-04-10",
 "total":950
+},
+{
+"date":"2022-04-12",
+"total":951
 }
 ],
 "package":"ucsc-pslmrnacover",
@@ -457,6 +461,15 @@
 {
 "basename":"ucsc-pslmrnacover-357-1.tar.bz2",
 "total":485
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"ucsc-pslmrnacover-357-1.tar.bz2",
+"total":486
 }
 ]
 }

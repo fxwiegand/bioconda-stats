@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-gsreg-1.24.0-r40h399db7b_1.tar.bz2",
-"total":54
+"total":55
 },
 {
 "basename":"bioconductor-gsreg-1.24.0-r40h5f743cb_0.tar.bz2",
@@ -298,6 +298,10 @@
 {
 "date":"2022-04-10",
 "total":130
+},
+{
+"date":"2022-04-12",
+"total":131
 }
 ],
 "package":"bioconductor-gsreg",
@@ -448,6 +452,15 @@
 {
 "basename":"bioconductor-gsreg-1.24.0-r40h5f743cb_0.tar.bz2",
 "total":76
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-gsreg-1.24.0-r40h399db7b_1.tar.bz2",
+"total":55
 }
 ]
 }

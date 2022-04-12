@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-params-validate-1.26-pl526_1.tar.bz2",
-"total":1608
+"total":1620
 },
 {
 "basename":"perl-params-validate-1.26-pl5.22.0_0.tar.bz2",
@@ -326,6 +326,10 @@
 {
 "date":"2022-04-10",
 "total":4105
+},
+{
+"date":"2022-04-12",
+"total":4117
 }
 ],
 "package":"perl-params-validate",
@@ -498,6 +502,15 @@
 {
 "basename":"perl-params-validate-1.26-pl5.22.0_0.tar.bz2",
 "total":2497
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"perl-params-validate-1.26-pl526_1.tar.bz2",
+"total":1620
 }
 ]
 }

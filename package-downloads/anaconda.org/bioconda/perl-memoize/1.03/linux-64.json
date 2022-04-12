@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-memoize-1.03-1.tar.bz2",
-"total":1365
+"total":1366
 },
 {
 "basename":"perl-memoize-1.03-pl526_2.tar.bz2",
@@ -422,6 +422,10 @@
 {
 "date":"2022-04-10",
 "total":3364
+},
+{
+"date":"2022-04-12",
+"total":3365
 }
 ],
 "package":"perl-memoize",
@@ -564,6 +568,15 @@
 {
 "basename":"perl-memoize-1.03-pl526_2.tar.bz2",
 "total":1999
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"perl-memoize-1.03-1.tar.bz2",
+"total":1366
 }
 ]
 }

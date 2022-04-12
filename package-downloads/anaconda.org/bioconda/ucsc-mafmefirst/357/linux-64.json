@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-mafmefirst-357-1.tar.bz2",
-"total":420
+"total":421
 },
 {
 "basename":"ucsc-mafmefirst-357-0.tar.bz2",
@@ -362,6 +362,10 @@
 {
 "date":"2022-04-10",
 "total":880
+},
+{
+"date":"2022-04-12",
+"total":881
 }
 ],
 "package":"ucsc-mafmefirst",
@@ -521,6 +525,15 @@
 {
 "basename":"ucsc-mafmefirst-357-0.tar.bz2",
 "total":460
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"ucsc-mafmefirst-357-1.tar.bz2",
+"total":421
 }
 ]
 }

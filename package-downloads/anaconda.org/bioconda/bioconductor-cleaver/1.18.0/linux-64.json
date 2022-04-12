@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-cleaver-1.18.0-r341_0.tar.bz2",
-"total":211
+"total":212
 },
 {
 "basename":"bioconductor-cleaver-1.18.0-r351_0.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2022-04-10",
 "total":547
+},
+{
+"date":"2022-04-12",
+"total":548
 }
 ],
 "package":"bioconductor-cleaver",
@@ -415,6 +419,15 @@
 {
 "basename":"bioconductor-cleaver-1.18.0-r351_0.tar.bz2",
 "total":336
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cleaver-1.18.0-r341_0.tar.bz2",
+"total":212
 }
 ]
 }

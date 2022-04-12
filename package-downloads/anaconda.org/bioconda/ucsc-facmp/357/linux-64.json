@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-facmp-357-1.tar.bz2",
-"total":322
+"total":323
 },
 {
 "basename":"ucsc-facmp-357-0.tar.bz2",
@@ -354,6 +354,10 @@
 {
 "date":"2022-04-10",
 "total":901
+},
+{
+"date":"2022-04-12",
+"total":902
 }
 ],
 "package":"ucsc-facmp",
@@ -509,6 +513,15 @@
 {
 "basename":"ucsc-facmp-357-0.tar.bz2",
 "total":579
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"ucsc-facmp-357-1.tar.bz2",
+"total":323
 }
 ]
 }

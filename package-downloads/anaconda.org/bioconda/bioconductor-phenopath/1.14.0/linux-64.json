@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-phenopath-1.14.0-r40h399db7b_1.tar.bz2",
-"total":51
+"total":52
 },
 {
 "basename":"bioconductor-phenopath-1.14.0-r40h5f743cb_0.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2022-04-10",
 "total":128
+},
+{
+"date":"2022-04-12",
+"total":129
 }
 ],
 "package":"bioconductor-phenopath",
@@ -389,6 +393,15 @@
 {
 "basename":"bioconductor-phenopath-1.14.0-r40h5f743cb_0.tar.bz2",
 "total":77
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-phenopath-1.14.0-r40h399db7b_1.tar.bz2",
+"total":52
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-genomation-1.12.0-r351hfc679d8_0.tar.bz2",
-"total":296
+"total":297
 },
 {
 "basename":"bioconductor-genomation-1.12.0-r341hfc679d8_0.tar.bz2",
@@ -294,6 +294,10 @@
 {
 "date":"2022-04-10",
 "total":647
+},
+{
+"date":"2022-04-12",
+"total":648
 }
 ],
 "package":"bioconductor-genomation",
@@ -456,6 +460,15 @@
 {
 "basename":"bioconductor-genomation-1.12.0-r341hfc679d8_0.tar.bz2",
 "total":351
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-genomation-1.12.0-r351hfc679d8_0.tar.bz2",
+"total":297
 }
 ]
 }

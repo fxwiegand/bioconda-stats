@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-gaptolift-377-ha8a8165_3.tar.bz2",
-"total":39
+"total":46
 },
 {
 "basename":"ucsc-gaptolift-377-h446ed27_1.tar.bz2",
@@ -494,6 +494,10 @@
 {
 "date":"2022-04-10",
 "total":376
+},
+{
+"date":"2022-04-12",
+"total":383
 }
 ],
 "package":"ucsc-gaptolift",
@@ -722,6 +726,15 @@
 {
 "basename":"ucsc-gaptolift-377-h199ee4e_0.tar.bz2",
 "total":180
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"ucsc-gaptolift-377-ha8a8165_3.tar.bz2",
+"total":46
 }
 ]
 }

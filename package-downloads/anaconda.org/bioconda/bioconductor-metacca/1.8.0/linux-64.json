@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-metacca-1.8.0-r351_0.tar.bz2",
-"total":199
+"total":200
 },
 {
 "basename":"bioconductor-metacca-1.8.0-r341_0.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2022-04-10",
 "total":527
+},
+{
+"date":"2022-04-12",
+"total":528
 }
 ],
 "package":"bioconductor-metacca",
@@ -402,6 +406,15 @@
 {
 "basename":"bioconductor-metacca-1.8.0-r341_0.tar.bz2",
 "total":328
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-metacca-1.8.0-r351_0.tar.bz2",
+"total":200
 }
 ]
 }

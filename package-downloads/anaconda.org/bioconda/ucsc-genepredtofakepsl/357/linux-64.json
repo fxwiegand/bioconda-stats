@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-genepredtofakepsl-357-1.tar.bz2",
-"total":545
+"total":546
 }
 ],
 "downloads_per_date":[
@@ -386,6 +386,10 @@
 {
 "date":"2022-04-10",
 "total":1000
+},
+{
+"date":"2022-04-12",
+"total":1001
 }
 ],
 "package":"ucsc-genepredtofakepsl",
@@ -532,6 +536,15 @@
 {
 "basename":"ucsc-genepredtofakepsl-357-0.tar.bz2",
 "total":455
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"ucsc-genepredtofakepsl-357-1.tar.bz2",
+"total":546
 }
 ]
 }

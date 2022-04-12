@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-mafspecieslist-357-1.tar.bz2",
-"total":308
+"total":309
 },
 {
 "basename":"ucsc-mafspecieslist-357-0.tar.bz2",
@@ -350,6 +350,10 @@
 {
 "date":"2022-04-10",
 "total":891
+},
+{
+"date":"2022-04-12",
+"total":892
 }
 ],
 "package":"ucsc-mafspecieslist",
@@ -500,6 +504,15 @@
 {
 "basename":"ucsc-mafspecieslist-357-0.tar.bz2",
 "total":583
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"ucsc-mafspecieslist-357-1.tar.bz2",
+"total":309
 }
 ]
 }

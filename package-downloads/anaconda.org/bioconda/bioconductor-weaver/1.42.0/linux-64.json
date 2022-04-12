@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-weaver-1.42.0-r3.4.1_0.tar.bz2",
-"total":452
+"total":453
 },
 {
 "basename":"bioconductor-weaver-1.42.0-r3.3.2_0.tar.bz2",
@@ -282,6 +282,10 @@
 {
 "date":"2022-04-10",
 "total":1049
+},
+{
+"date":"2022-04-12",
+"total":1050
 }
 ],
 "package":"bioconductor-weaver",
@@ -428,6 +432,15 @@
 {
 "basename":"bioconductor-weaver-1.42.0-r3.3.2_0.tar.bz2",
 "total":597
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-weaver-1.42.0-r3.4.1_0.tar.bz2",
+"total":453
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-toupper-357-1.tar.bz2",
-"total":454
+"total":455
 },
 {
 "basename":"ucsc-toupper-357-0.tar.bz2",
@@ -370,6 +370,10 @@
 {
 "date":"2022-04-10",
 "total":912
+},
+{
+"date":"2022-04-12",
+"total":913
 }
 ],
 "package":"ucsc-toupper",
@@ -511,6 +515,15 @@
 {
 "basename":"ucsc-toupper-357-0.tar.bz2",
 "total":458
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"ucsc-toupper-357-1.tar.bz2",
+"total":455
 }
 ]
 }

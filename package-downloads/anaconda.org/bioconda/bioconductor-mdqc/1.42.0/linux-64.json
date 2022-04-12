@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-mdqc-1.42.0-r351_0.tar.bz2",
-"total":196
+"total":197
 },
 {
 "basename":"bioconductor-mdqc-1.42.0-r341_0.tar.bz2",
@@ -266,6 +266,10 @@
 {
 "date":"2022-04-10",
 "total":512
+},
+{
+"date":"2022-04-12",
+"total":513
 }
 ],
 "package":"bioconductor-mdqc",
@@ -415,6 +419,15 @@
 {
 "basename":"bioconductor-mdqc-1.42.0-r341_0.tar.bz2",
 "total":316
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-mdqc-1.42.0-r351_0.tar.bz2",
+"total":197
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-axttopsl-357-1.tar.bz2",
-"total":327
+"total":328
 },
 {
 "basename":"ucsc-axttopsl-357-0.tar.bz2",
@@ -370,6 +370,10 @@
 {
 "date":"2022-04-10",
 "total":929
+},
+{
+"date":"2022-04-12",
+"total":930
 }
 ],
 "package":"ucsc-axttopsl",
@@ -503,6 +507,15 @@
 {
 "basename":"ucsc-axttopsl-357-1.tar.bz2",
 "total":327
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"ucsc-axttopsl-357-1.tar.bz2",
+"total":328
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-gviz-1.16.5-r3.3.1_2.tar.bz2",
-"total":916
+"total":917
 },
 {
 "basename":"bioconductor-gviz-1.16.5-r3.3.2_2.tar.bz2",
@@ -386,6 +386,10 @@
 {
 "date":"2022-04-10",
 "total":2911
+},
+{
+"date":"2022-04-12",
+"total":2912
 }
 ],
 "package":"bioconductor-gviz",
@@ -585,6 +589,15 @@
 {
 "basename":"bioconductor-gviz-1.16.5-r3.3.2_2.tar.bz2",
 "total":1197
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-gviz-1.16.5-r3.3.1_2.tar.bz2",
+"total":917
 }
 ]
 }

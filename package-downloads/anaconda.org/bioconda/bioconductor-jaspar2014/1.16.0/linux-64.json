@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-jaspar2014-1.16.0-r341_0.tar.bz2",
-"total":168
+"total":169
 },
 {
 "basename":"bioconductor-jaspar2014-1.16.0-r351_0.tar.bz2",
@@ -222,6 +222,10 @@
 {
 "date":"2022-04-10",
 "total":449
+},
+{
+"date":"2022-04-12",
+"total":450
 }
 ],
 "package":"bioconductor-jaspar2014",
@@ -368,6 +372,15 @@
 {
 "basename":"bioconductor-jaspar2014-1.16.0-r351_0.tar.bz2",
 "total":281
+}
+]
+},
+{
+"date":"2022-04-12",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-jaspar2014-1.16.0-r341_0.tar.bz2",
+"total":169
 }
 ]
 }
