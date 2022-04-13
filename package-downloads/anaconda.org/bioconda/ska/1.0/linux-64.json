@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ska-1.0-hd03093a_3.tar.bz2",
-"total":87
+"total":101
 },
 {
 "basename":"ska-1.0-h9a82719_2.tar.bz2",
@@ -538,6 +538,10 @@
 {
 "date":"2022-04-12",
 "total":2956
+},
+{
+"date":"2022-04-13",
+"total":2970
 }
 ],
 "package":"ska",
@@ -858,6 +862,15 @@
 {
 "basename":"ska-1.0-h9a82719_2.tar.bz2",
 "total":107
+}
+]
+},
+{
+"date":"2022-04-13",
+"downloads_per_basename":[
+{
+"basename":"ska-1.0-hd03093a_3.tar.bz2",
+"total":101
 }
 ]
 }

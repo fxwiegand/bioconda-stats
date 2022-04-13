@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-cimpl-1.1-r41h9ee0642_4.tar.bz2",
-"total":64
+"total":65
 },
 {
 "basename":"r-cimpl-1.1-r40h9ee0642_3.tar.bz2",
@@ -446,6 +446,10 @@
 {
 "date":"2022-04-12",
 "total":1764
+},
+{
+"date":"2022-04-13",
+"total":1765
 }
 ],
 "package":"r-cimpl",
@@ -748,6 +752,15 @@
 {
 "basename":"r-cimpl-1.1-r3.4.1_0.tar.bz2",
 "total":610
+}
+]
+},
+{
+"date":"2022-04-13",
+"downloads_per_basename":[
+{
+"basename":"r-cimpl-1.1-r41h9ee0642_4.tar.bz2",
+"total":65
 }
 ]
 }

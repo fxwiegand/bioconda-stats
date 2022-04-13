@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-hpc-runner-command-3.2.13-pl526_1.tar.bz2",
-"total":152
+"total":153
 },
 {
 "basename":"perl-hpc-runner-command-3.2.13-pl5.22.0_0.tar.bz2",
@@ -290,6 +290,10 @@
 {
 "date":"2022-04-12",
 "total":546
+},
+{
+"date":"2022-04-13",
+"total":547
 }
 ],
 "package":"perl-hpc-runner-command",
@@ -413,6 +417,15 @@
 {
 "basename":"perl-hpc-runner-command-3.2.13-pl5.22.0_0.tar.bz2",
 "total":394
+}
+]
+},
+{
+"date":"2022-04-13",
+"downloads_per_basename":[
+{
+"basename":"perl-hpc-runner-command-3.2.13-pl526_1.tar.bz2",
+"total":153
 }
 ]
 }

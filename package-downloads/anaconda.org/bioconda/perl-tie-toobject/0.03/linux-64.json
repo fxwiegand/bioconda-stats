@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-tie-toobject-0.03-0.tar.bz2",
-"total":248
+"total":249
 },
 {
 "basename":"perl-tie-toobject-0.03-pl526_2.tar.bz2",
@@ -358,6 +358,10 @@
 {
 "date":"2022-04-12",
 "total":774
+},
+{
+"date":"2022-04-13",
+"total":775
 }
 ],
 "package":"perl-tie-toobject",
@@ -539,6 +543,15 @@
 {
 "basename":"perl-tie-toobject-0.03-pl526_2.tar.bz2",
 "total":352
+}
+]
+},
+{
+"date":"2022-04-13",
+"downloads_per_basename":[
+{
+"basename":"perl-tie-toobject-0.03-0.tar.bz2",
+"total":249
 }
 ]
 }

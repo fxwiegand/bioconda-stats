@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-fasize-357-1.tar.bz2",
-"total":541
+"total":544
 },
 {
 "basename":"ucsc-fasize-357-0.tar.bz2",
@@ -518,6 +518,10 @@
 {
 "date":"2022-04-12",
 "total":1123
+},
+{
+"date":"2022-04-13",
+"total":1126
 }
 ],
 "package":"ucsc-fasize",
@@ -686,6 +690,15 @@
 {
 "basename":"ucsc-fasize-357-1.tar.bz2",
 "total":541
+}
+]
+},
+{
+"date":"2022-04-13",
+"downloads_per_basename":[
+{
+"basename":"ucsc-fasize-357-1.tar.bz2",
+"total":544
 }
 ]
 }

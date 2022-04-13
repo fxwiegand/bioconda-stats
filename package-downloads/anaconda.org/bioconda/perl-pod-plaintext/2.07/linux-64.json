@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-pod-plaintext-2.07-pl5.22.0_0.tar.bz2",
-"total":461
+"total":462
 }
 ],
 "downloads_per_date":[
@@ -222,6 +222,10 @@
 {
 "date":"2022-04-12",
 "total":742
+},
+{
+"date":"2022-04-13",
+"total":743
 }
 ],
 "package":"perl-pod-plaintext",
@@ -350,6 +354,15 @@
 {
 "basename":"perl-pod-plaintext-2.07-pl526_1.tar.bz2",
 "total":281
+}
+]
+},
+{
+"date":"2022-04-13",
+"downloads_per_basename":[
+{
+"basename":"perl-pod-plaintext-2.07-pl5.22.0_0.tar.bz2",
+"total":462
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"gromacs-4.6.5-0.tar.bz2",
-"total":5350
+"total":5358
 }
 ],
 "downloads_per_date":[
@@ -1150,6 +1150,10 @@
 {
 "date":"2022-04-12",
 "total":5350
+},
+{
+"date":"2022-04-13",
+"total":5358
 }
 ],
 "package":"gromacs",
@@ -1376,6 +1380,15 @@
 {
 "basename":"gromacs-4.6.5-0.tar.bz2",
 "total":5350
+}
+]
+},
+{
+"date":"2022-04-13",
+"downloads_per_basename":[
+{
+"basename":"gromacs-4.6.5-0.tar.bz2",
+"total":5358
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"panoct-3.23-pl526_1.tar.bz2",
-"total":220
+"total":221
 },
 {
 "basename":"panoct-3.23-pl5.22.0_0.tar.bz2",
@@ -322,6 +322,10 @@
 {
 "date":"2022-04-12",
 "total":805
+},
+{
+"date":"2022-04-13",
+"total":806
 }
 ],
 "package":"panoct",
@@ -468,6 +472,15 @@
 {
 "basename":"panoct-3.23-pl5.22.0_0.tar.bz2",
 "total":585
+}
+]
+},
+{
+"date":"2022-04-13",
+"downloads_per_basename":[
+{
+"basename":"panoct-3.23-pl526_1.tar.bz2",
+"total":221
 }
 ]
 }

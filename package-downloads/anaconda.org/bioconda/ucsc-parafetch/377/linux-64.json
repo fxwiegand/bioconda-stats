@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-parafetch-377-ha8a8165_3.tar.bz2",
-"total":49
+"total":52
 },
 {
 "basename":"ucsc-parafetch-377-h446ed27_1.tar.bz2",
@@ -494,6 +494,10 @@
 {
 "date":"2022-04-12",
 "total":383
+},
+{
+"date":"2022-04-13",
+"total":386
 }
 ],
 "package":"ucsc-parafetch",
@@ -735,6 +739,15 @@
 {
 "basename":"ucsc-parafetch-377-ha8a8165_3.tar.bz2",
 "total":49
+}
+]
+},
+{
+"date":"2022-04-13",
+"downloads_per_basename":[
+{
+"basename":"ucsc-parafetch-377-ha8a8165_3.tar.bz2",
+"total":52
 }
 ]
 }

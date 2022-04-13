@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-liftup-377-ha8a8165_3.tar.bz2",
-"total":70
+"total":75
 },
 {
 "basename":"ucsc-liftup-377-h446ed27_1.tar.bz2",
@@ -654,6 +654,10 @@
 {
 "date":"2022-04-12",
 "total":730
+},
+{
+"date":"2022-04-13",
+"total":735
 }
 ],
 "package":"ucsc-liftup",
@@ -926,6 +930,15 @@
 {
 "basename":"ucsc-liftup-377-ha8a8165_3.tar.bz2",
 "total":70
+}
+]
+},
+{
+"date":"2022-04-13",
+"downloads_per_basename":[
+{
+"basename":"ucsc-liftup-377-ha8a8165_3.tar.bz2",
+"total":75
 }
 ]
 }

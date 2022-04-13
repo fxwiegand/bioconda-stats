@@ -11,7 +11,7 @@
 },
 {
 "basename":"sparseassembler-20160205-hc9558a2_5.tar.bz2",
-"total":105
+"total":106
 },
 {
 "basename":"sparseassembler-20160205-hd28b015_3.tar.bz2",
@@ -550,6 +550,10 @@
 {
 "date":"2022-04-12",
 "total":1978
+},
+{
+"date":"2022-04-13",
+"total":1979
 }
 ],
 "package":"sparseassembler",
@@ -977,6 +981,15 @@
 {
 "basename":"sparseassembler-20160205-1.tar.bz2",
 "total":490
+}
+]
+},
+{
+"date":"2022-04-13",
+"downloads_per_basename":[
+{
+"basename":"sparseassembler-20160205-hc9558a2_5.tar.bz2",
+"total":106
 }
 ]
 }

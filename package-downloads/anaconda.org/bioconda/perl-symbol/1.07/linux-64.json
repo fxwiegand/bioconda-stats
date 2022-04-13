@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-symbol-1.07-pl526_1.tar.bz2",
-"total":181
+"total":182
 },
 {
 "basename":"perl-symbol-1.07-pl5.22.0_0.tar.bz2",
@@ -294,6 +294,10 @@
 {
 "date":"2022-04-12",
 "total":828
+},
+{
+"date":"2022-04-13",
+"total":829
 }
 ],
 "package":"perl-symbol",
@@ -413,6 +417,15 @@
 {
 "basename":"perl-symbol-1.07-pl5.22.0_0.tar.bz2",
 "total":647
+}
+]
+},
+{
+"date":"2022-04-13",
+"downloads_per_basename":[
+{
+"basename":"perl-symbol-1.07-pl526_1.tar.bz2",
+"total":182
 }
 ]
 }

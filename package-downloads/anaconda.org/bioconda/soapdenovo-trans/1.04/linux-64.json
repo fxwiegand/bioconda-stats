@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"soapdenovo-trans-1.04-h7132678_5.tar.bz2",
-"total":19
+"total":20
 },
 {
 "basename":"soapdenovo-trans-1.04-h5bf99c6_4.tar.bz2",
@@ -758,6 +758,10 @@
 {
 "date":"2022-04-12",
 "total":2879
+},
+{
+"date":"2022-04-13",
+"total":2880
 }
 ],
 "package":"soapdenovo-trans",
@@ -1137,6 +1141,15 @@
 {
 "basename":"soapdenovo-trans-1.04-0.tar.bz2",
 "total":910
+}
+]
+},
+{
+"date":"2022-04-13",
+"downloads_per_basename":[
+{
+"basename":"soapdenovo-trans-1.04-h7132678_5.tar.bz2",
+"total":20
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-needs-0.002005-pl526_0.tar.bz2",
-"total":342
+"total":343
 }
 ],
 "downloads_per_date":[
@@ -146,6 +146,10 @@
 {
 "date":"2022-04-12",
 "total":342
+},
+{
+"date":"2022-04-13",
+"total":343
 }
 ],
 "package":"perl-test-needs",
@@ -210,6 +214,15 @@
 {
 "basename":"perl-test-needs-0.002005-pl526_0.tar.bz2",
 "total":342
+}
+]
+},
+{
+"date":"2022-04-13",
+"downloads_per_basename":[
+{
+"basename":"perl-test-needs-0.002005-pl526_0.tar.bz2",
+"total":343
 }
 ]
 }

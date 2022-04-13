@@ -76,6 +76,10 @@
 {
 "date":"2022-04-12",
 "total":102
+},
+{
+"date":"2022-04-13",
+"total":106
 }
 ],
 "downloads_per_subdir":[
@@ -85,7 +89,7 @@
 },
 {
 "subdir":"osx-64",
-"total":82
+"total":86
 }
 ],
 "package":"bioconductor-descan2",
@@ -293,6 +297,15 @@
 {
 "subdir":"osx-64",
 "total":82
+}
+]
+},
+{
+"date":"2022-04-13",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":86
 }
 ]
 }

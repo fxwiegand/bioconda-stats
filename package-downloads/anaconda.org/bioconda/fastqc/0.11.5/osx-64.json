@@ -7,7 +7,7 @@
 },
 {
 "basename":"fastqc-0.11.5-1.tar.bz2",
-"total":2283
+"total":2285
 },
 {
 "basename":"fastqc-0.11.5-pl5.22.0_3.tar.bz2",
@@ -938,6 +938,10 @@
 {
 "date":"2022-04-12",
 "total":5344
+},
+{
+"date":"2022-04-13",
+"total":5346
 }
 ],
 "package":"fastqc",
@@ -1132,11 +1136,15 @@
 ]
 },
 {
-"date":"2022-04-12",
+"date":"2022-04-13",
 "downloads_per_basename":[
 {
 "basename":"fastqc-0.11.5-pl5.22.0_2.tar.bz2",
 "total":725
+},
+{
+"basename":"fastqc-0.11.5-1.tar.bz2",
+"total":2285
 },
 {
 "basename":"fastqc-0.11.5-pl5.22.0_3.tar.bz2",
