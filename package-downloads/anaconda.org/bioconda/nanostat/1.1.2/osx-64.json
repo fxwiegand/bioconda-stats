@@ -7,7 +7,7 @@
 },
 {
 "basename":"nanostat-1.1.2-py36_1.tar.bz2",
-"total":1765
+"total":1766
 }
 ],
 "downloads_per_date":[
@@ -702,6 +702,10 @@
 {
 "date":"2022-04-13",
 "total":2049
+},
+{
+"date":"2022-04-29",
+"total":2050
 }
 ],
 "package":"nanostat",
@@ -725,11 +729,15 @@
 ]
 },
 {
-"date":"2022-04-13",
+"date":"2022-04-29",
 "downloads_per_basename":[
 {
 "basename":"nanostat-1.1.2-py35_1.tar.bz2",
 "total":284
+},
+{
+"basename":"nanostat-1.1.2-py36_1.tar.bz2",
+"total":1766
 }
 ]
 }

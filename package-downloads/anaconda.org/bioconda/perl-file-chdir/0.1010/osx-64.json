@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-file-chdir-0.1010-0.tar.bz2",
-"total":60
+"total":66
 },
 {
 "basename":"perl-file-chdir-0.1010-pl526_1.tar.bz2",
@@ -998,6 +998,10 @@
 {
 "date":"2022-04-13",
 "total":2333
+},
+{
+"date":"2022-04-29",
+"total":2339
 }
 ],
 "package":"perl-file-chdir",
@@ -1096,6 +1100,15 @@
 {
 "basename":"perl-file-chdir-0.1010-0.tar.bz2",
 "total":60
+}
+]
+},
+{
+"date":"2022-04-29",
+"downloads_per_basename":[
+{
+"basename":"perl-file-chdir-0.1010-0.tar.bz2",
+"total":66
 }
 ]
 }

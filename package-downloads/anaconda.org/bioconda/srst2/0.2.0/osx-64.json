@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"srst2-0.2.0-py27_2.tar.bz2",
-"total":47
+"total":48
 },
 {
 "basename":"srst2-0.2.0-py27_0.tar.bz2",
@@ -15,7 +15,7 @@
 },
 {
 "basename":"srst2-0.2.0-py27_3.tar.bz2",
-"total":1978
+"total":1979
 }
 ],
 "downloads_per_date":[
@@ -742,6 +742,10 @@
 {
 "date":"2022-04-13",
 "total":2187
+},
+{
+"date":"2022-04-29",
+"total":2189
 }
 ],
 "package":"srst2",
@@ -770,6 +774,15 @@
 {
 "basename":"srst2-0.2.0-py27_2.tar.bz2",
 "total":47
+}
+]
+},
+{
+"date":"2022-04-29",
+"downloads_per_basename":[
+{
+"basename":"srst2-0.2.0-py27_2.tar.bz2",
+"total":48
 },
 {
 "basename":"srst2-0.2.0-py27_0.tar.bz2",
@@ -778,6 +791,10 @@
 {
 "basename":"srst2-0.2.0-py27_1.tar.bz2",
 "total":107
+},
+{
+"basename":"srst2-0.2.0-py27_3.tar.bz2",
+"total":1979
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ribocode-1.2.10-py27_1.tar.bz2",
-"total":43
+"total":44
 },
 {
 "basename":"ribocode-1.2.10-py35_0.tar.bz2",
@@ -750,6 +750,10 @@
 {
 "date":"2022-04-13",
 "total":2195
+},
+{
+"date":"2022-04-29",
+"total":2196
 }
 ],
 "package":"ribocode",
@@ -809,6 +813,15 @@
 {
 "basename":"ribocode-1.2.10-py36_1.tar.bz2",
 "total":1879
+}
+]
+},
+{
+"date":"2022-04-29",
+"downloads_per_basename":[
+{
+"basename":"ribocode-1.2.10-py27_1.tar.bz2",
+"total":44
 }
 ]
 }
