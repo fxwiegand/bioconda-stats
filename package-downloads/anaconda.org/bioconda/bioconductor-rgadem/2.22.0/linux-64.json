@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-rgadem-2.22.0-r3.3.1_0.tar.bz2",
-"total":539
+"total":540
 },
 {
 "basename":"bioconductor-rgadem-2.22.0-r3.3.2_0.tar.bz2",
@@ -326,6 +326,10 @@
 {
 "date":"2022-04-29",
 "total":1690
+},
+{
+"date":"2022-04-30",
+"total":1691
 }
 ],
 "package":"bioconductor-rgadem",
@@ -520,6 +524,15 @@
 {
 "basename":"bioconductor-rgadem-2.22.0-r3.3.2_0.tar.bz2",
 "total":666
+}
+]
+},
+{
+"date":"2022-04-30",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rgadem-2.22.0-r3.3.1_0.tar.bz2",
+"total":540
 }
 ]
 }

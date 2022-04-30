@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"mimeo-1.1.1-py35_1.tar.bz2",
-"total":54
+"total":55
 },
 {
 "basename":"mimeo-1.1.1-py36_0.tar.bz2",
@@ -730,6 +730,10 @@
 {
 "date":"2022-04-29",
 "total":2138
+},
+{
+"date":"2022-04-30",
+"total":2139
 }
 ],
 "package":"mimeo",
@@ -753,8 +757,12 @@
 ]
 },
 {
-"date":"2022-04-29",
+"date":"2022-04-30",
 "downloads_per_basename":[
+{
+"basename":"mimeo-1.1.1-py35_1.tar.bz2",
+"total":55
+},
 {
 "basename":"mimeo-1.1.1-py36_0.tar.bz2",
 "total":135

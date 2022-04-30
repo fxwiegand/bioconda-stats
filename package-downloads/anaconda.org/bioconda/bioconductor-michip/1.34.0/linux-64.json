@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-michip-1.34.0-r341_0.tar.bz2",
-"total":211
+"total":212
 },
 {
 "basename":"bioconductor-michip-1.34.0-r351_0.tar.bz2",
@@ -346,6 +346,10 @@
 {
 "date":"2022-04-29",
 "total":558
+},
+{
+"date":"2022-04-30",
+"total":559
 }
 ],
 "package":"bioconductor-michip",
@@ -508,6 +512,15 @@
 {
 "basename":"bioconductor-michip-1.34.0-r351_0.tar.bz2",
 "total":347
+}
+]
+},
+{
+"date":"2022-04-30",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-michip-1.34.0-r341_0.tar.bz2",
+"total":212
 }
 ]
 }
