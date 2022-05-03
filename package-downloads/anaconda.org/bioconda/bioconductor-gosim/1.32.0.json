@@ -508,6 +508,10 @@
 {
 "date":"2022-04-30",
 "total":420
+},
+{
+"date":"2022-05-03",
+"total":426
 }
 ],
 "downloads_per_subdir":[
@@ -517,7 +521,7 @@
 },
 {
 "subdir":"osx-64",
-"total":366
+"total":372
 }
 ],
 "package":"bioconductor-gosim",
@@ -752,6 +756,15 @@
 {
 "subdir":"osx-64",
 "total":366
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":372
 }
 ]
 }

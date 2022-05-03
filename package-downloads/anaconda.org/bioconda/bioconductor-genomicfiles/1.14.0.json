@@ -1148,6 +1148,10 @@
 {
 "date":"2022-04-30",
 "total":3194
+},
+{
+"date":"2022-05-03",
+"total":3200
 }
 ],
 "downloads_per_subdir":[
@@ -1157,7 +1161,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2370
+"total":2376
 }
 ],
 "package":"bioconductor-genomicfiles",
@@ -1387,6 +1391,15 @@
 {
 "subdir":"osx-64",
 "total":2370
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2376
 }
 ]
 }

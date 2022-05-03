@@ -1164,6 +1164,10 @@
 {
 "date":"2022-04-30",
 "total":2606
+},
+{
+"date":"2022-05-03",
+"total":2612
 }
 ],
 "downloads_per_subdir":[
@@ -1173,7 +1177,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2406
+"total":2412
 }
 ],
 "package":"bioconductor-bcrank",
@@ -1404,6 +1408,15 @@
 {
 "subdir":"osx-64",
 "total":2406
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2412
 }
 ]
 }

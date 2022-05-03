@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-gkmsvm-0.81.0-r41h1b792b2_2.tar.bz2",
-"total":65
+"total":66
 },
 {
 "basename":"r-gkmsvm-0.81.0-r40he1b5a44_0.tar.bz2",
@@ -510,6 +510,10 @@
 {
 "date":"2022-04-30",
 "total":221
+},
+{
+"date":"2022-05-03",
+"total":222
 }
 ],
 "package":"r-gkmsvm",
@@ -740,6 +744,15 @@
 {
 "basename":"r-gkmsvm-0.81.0-r40he1b5a44_0.tar.bz2",
 "total":68
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
+"basename":"r-gkmsvm-0.81.0-r41h1b792b2_2.tar.bz2",
+"total":66
 }
 ]
 }

@@ -23,7 +23,7 @@
 },
 {
 "basename":"artic-porechop-0.3.2pre-py37h502bf93_1.tar.bz2",
-"total":20
+"total":21
 },
 {
 "basename":"artic-porechop-0.3.2pre-py36h21fc76c_3.tar.bz2",
@@ -51,7 +51,7 @@
 },
 {
 "basename":"artic-porechop-0.3.2pre-py39hcf0ab7e_2.tar.bz2",
-"total":801
+"total":807
 }
 ],
 "downloads_per_date":[
@@ -1218,6 +1218,10 @@
 {
 "date":"2022-04-30",
 "total":1984
+},
+{
+"date":"2022-05-03",
+"total":1991
 }
 ],
 "package":"artic-porechop",
@@ -1530,6 +1534,19 @@
 "date":"2022-04-30",
 "downloads_per_basename":[
 {
+"basename":"artic-porechop-0.3.2pre-py37h502bf93_1.tar.bz2",
+"total":20
+},
+{
+"basename":"artic-porechop-0.3.2pre-py39hcf0ab7e_2.tar.bz2",
+"total":801
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
 "basename":"artic-porechop-0.3.2pre-py38ha7c6429_2.tar.bz2",
 "total":15
 },
@@ -1539,7 +1556,7 @@
 },
 {
 "basename":"artic-porechop-0.3.2pre-py37h502bf93_1.tar.bz2",
-"total":20
+"total":21
 },
 {
 "basename":"artic-porechop-0.3.2pre-py36h6bea8ea_1.tar.bz2",
@@ -1547,7 +1564,7 @@
 },
 {
 "basename":"artic-porechop-0.3.2pre-py39hcf0ab7e_2.tar.bz2",
-"total":801
+"total":807
 }
 ]
 }

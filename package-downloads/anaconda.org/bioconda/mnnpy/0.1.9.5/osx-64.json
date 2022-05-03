@@ -47,7 +47,7 @@
 },
 {
 "basename":"mnnpy-0.1.9.5-py39ha492530_2.tar.bz2",
-"total":786
+"total":790
 }
 ],
 "downloads_per_date":[
@@ -1214,6 +1214,10 @@
 {
 "date":"2022-04-30",
 "total":1422
+},
+{
+"date":"2022-05-03",
+"total":1426
 }
 ],
 "package":"mnnpy",
@@ -1490,6 +1494,15 @@
 "date":"2022-04-30",
 "downloads_per_basename":[
 {
+"basename":"mnnpy-0.1.9.5-py39ha492530_2.tar.bz2",
+"total":786
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
 "basename":"mnnpy-0.1.9.5-py36he651532_1.tar.bz2",
 "total":20
 },
@@ -1507,7 +1520,7 @@
 },
 {
 "basename":"mnnpy-0.1.9.5-py39ha492530_2.tar.bz2",
-"total":786
+"total":790
 }
 ]
 }

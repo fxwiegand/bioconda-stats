@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-simd-1.12.0-r41haba8685_1.tar.bz2",
-"total":122
+"total":128
 },
 {
 "basename":"bioconductor-simd-1.12.0-r41h68a2ddb_0.tar.bz2",
@@ -506,6 +506,10 @@
 {
 "date":"2022-04-30",
 "total":306
+},
+{
+"date":"2022-05-03",
+"total":312
 }
 ],
 "package":"bioconductor-simd",
@@ -695,6 +699,15 @@
 {
 "basename":"bioconductor-simd-1.12.0-r41haba8685_1.tar.bz2",
 "total":122
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-simd-1.12.0-r41haba8685_1.tar.bz2",
+"total":128
 }
 ]
 }

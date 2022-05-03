@@ -11,7 +11,7 @@
 },
 {
 "basename":"migrate-n-3.6.11-hde308d1_4.tar.bz2",
-"total":157
+"total":162
 },
 {
 "basename":"migrate-n-3.6.11-0.tar.bz2",
@@ -1182,6 +1182,10 @@
 {
 "date":"2022-04-30",
 "total":3148
+},
+{
+"date":"2022-05-03",
+"total":3153
 }
 ],
 "package":"migrate-n",
@@ -1528,6 +1532,15 @@
 {
 "basename":"migrate-n-3.6.11-hde308d1_4.tar.bz2",
 "total":157
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
+"basename":"migrate-n-3.6.11-hde308d1_4.tar.bz2",
+"total":162
 }
 ]
 }

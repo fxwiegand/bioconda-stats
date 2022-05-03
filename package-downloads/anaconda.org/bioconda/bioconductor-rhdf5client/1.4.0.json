@@ -1160,6 +1160,10 @@
 {
 "date":"2022-04-30",
 "total":2534
+},
+{
+"date":"2022-05-03",
+"total":2538
 }
 ],
 "downloads_per_subdir":[
@@ -1169,7 +1173,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2353
+"total":2357
 }
 ],
 "package":"bioconductor-rhdf5client",
@@ -1387,6 +1391,15 @@
 {
 "subdir":"osx-64",
 "total":2353
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2357
 }
 ]
 }

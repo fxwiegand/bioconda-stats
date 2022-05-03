@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-affypdnn-1.50.0-r3.4.1_0.tar.bz2",
-"total":2429
+"total":2435
 }
 ],
 "downloads_per_date":[
@@ -1178,6 +1178,10 @@
 {
 "date":"2022-04-30",
 "total":2560
+},
+{
+"date":"2022-05-03",
+"total":2566
 }
 ],
 "package":"bioconductor-affypdnn",
@@ -1366,6 +1370,15 @@
 "date":"2022-04-30",
 "downloads_per_basename":[
 {
+"basename":"bioconductor-affypdnn-1.50.0-r3.4.1_0.tar.bz2",
+"total":2429
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
 "basename":"bioconductor-affypdnn-1.50.0-0.tar.bz2",
 "total":63
 },
@@ -1375,7 +1388,7 @@
 },
 {
 "basename":"bioconductor-affypdnn-1.50.0-r3.4.1_0.tar.bz2",
-"total":2429
+"total":2435
 }
 ]
 }

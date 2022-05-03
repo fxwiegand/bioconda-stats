@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-test-fatal-0.014-1.tar.bz2",
-"total":640
+"total":642
 },
 {
 "basename":"perl-test-fatal-0.014-pl526_3.tar.bz2",
@@ -1034,6 +1034,10 @@
 {
 "date":"2022-04-30",
 "total":3299
+},
+{
+"date":"2022-05-03",
+"total":3301
 }
 ],
 "package":"perl-test-fatal",
@@ -1106,6 +1110,15 @@
 {
 "basename":"perl-test-fatal-0.014-pl526_2.tar.bz2",
 "total":381
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
+"basename":"perl-test-fatal-0.014-1.tar.bz2",
+"total":642
 }
 ]
 }

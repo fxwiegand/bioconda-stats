@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-csaw-1.28.0-r41h619a076_1.tar.bz2",
-"total":29
+"total":30
 },
 {
 "basename":"bioconductor-csaw-1.28.0-r41h399db7b_0.tar.bz2",
@@ -306,6 +306,10 @@
 {
 "date":"2022-04-30",
 "total":106
+},
+{
+"date":"2022-05-03",
+"total":107
 }
 ],
 "package":"bioconductor-csaw",
@@ -469,6 +473,15 @@
 {
 "basename":"bioconductor-csaw-1.28.0-r41h399db7b_0.tar.bz2",
 "total":77
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-csaw-1.28.0-r41h619a076_1.tar.bz2",
+"total":30
 }
 ]
 }

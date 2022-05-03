@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-gd-2.70-pl526he860b03_1.tar.bz2",
-"total":2997
+"total":2998
 },
 {
 "basename":"perl-gd-2.70-pl526he941832_0.tar.bz2",
@@ -886,6 +886,10 @@
 {
 "date":"2022-04-30",
 "total":13985
+},
+{
+"date":"2022-05-03",
+"total":13986
 }
 ],
 "package":"perl-gd",
@@ -1094,6 +1098,15 @@
 {
 "basename":"perl-gd-2.70-pl526he941832_0.tar.bz2",
 "total":10988
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
+"basename":"perl-gd-2.70-pl526he860b03_1.tar.bz2",
+"total":2998
 }
 ]
 }

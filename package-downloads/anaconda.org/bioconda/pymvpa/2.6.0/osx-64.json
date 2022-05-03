@@ -39,7 +39,7 @@
 },
 {
 "basename":"pymvpa-2.6.0-py36h355e19c_2.tar.bz2",
-"total":2113
+"total":2119
 }
 ],
 "downloads_per_date":[
@@ -1174,6 +1174,10 @@
 {
 "date":"2022-04-30",
 "total":2895
+},
+{
+"date":"2022-05-03",
+"total":2901
 }
 ],
 "package":"pymvpa",
@@ -1409,6 +1413,15 @@
 "date":"2022-04-30",
 "downloads_per_basename":[
 {
+"basename":"pymvpa-2.6.0-py36h355e19c_2.tar.bz2",
+"total":2113
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
 "basename":"pymvpa-2.6.0-py34_0.tar.bz2",
 "total":49
 },
@@ -1418,7 +1431,7 @@
 },
 {
 "basename":"pymvpa-2.6.0-py36h355e19c_2.tar.bz2",
-"total":2113
+"total":2119
 }
 ]
 }

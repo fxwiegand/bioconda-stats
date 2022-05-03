@@ -11,7 +11,7 @@
 },
 {
 "basename":"ucsc-mafsplitpos-357-h5eb252a_2.tar.bz2",
-"total":2229
+"total":2235
 }
 ],
 "downloads_per_date":[
@@ -1178,6 +1178,10 @@
 {
 "date":"2022-04-30",
 "total":2552
+},
+{
+"date":"2022-05-03",
+"total":2558
 }
 ],
 "package":"ucsc-mafsplitpos",
@@ -1366,6 +1370,15 @@
 "date":"2022-04-30",
 "downloads_per_basename":[
 {
+"basename":"ucsc-mafsplitpos-357-h5eb252a_2.tar.bz2",
+"total":2229
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
 "basename":"ucsc-mafsplitpos-357-1.tar.bz2",
 "total":120
 },
@@ -1375,7 +1388,7 @@
 },
 {
 "basename":"ucsc-mafsplitpos-357-h5eb252a_2.tar.bz2",
-"total":2229
+"total":2235
 }
 ]
 }

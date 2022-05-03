@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-netsplit-357-1.tar.bz2",
-"total":314
+"total":315
 },
 {
 "basename":"ucsc-netsplit-357-0.tar.bz2",
@@ -270,6 +270,10 @@
 {
 "date":"2022-04-30",
 "total":745
+},
+{
+"date":"2022-05-03",
+"total":746
 }
 ],
 "package":"ucsc-netsplit",
@@ -389,6 +393,15 @@
 {
 "basename":"ucsc-netsplit-357-0.tar.bz2",
 "total":431
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
+"basename":"ucsc-netsplit-357-1.tar.bz2",
+"total":315
 }
 ]
 }

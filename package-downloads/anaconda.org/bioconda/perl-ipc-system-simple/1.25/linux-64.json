@@ -19,7 +19,7 @@
 },
 {
 "basename":"perl-ipc-system-simple-1.25-3.tar.bz2",
-"total":7477
+"total":7479
 },
 {
 "basename":"perl-ipc-system-simple-1.25-pl526_5.tar.bz2",
@@ -934,6 +934,10 @@
 {
 "date":"2022-04-30",
 "total":29426
+},
+{
+"date":"2022-05-03",
+"total":29428
 }
 ],
 "package":"perl-ipc-system-simple",
@@ -1297,6 +1301,15 @@
 {
 "basename":"perl-ipc-system-simple-1.25-pl526_5.tar.bz2",
 "total":17346
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
+"basename":"perl-ipc-system-simple-1.25-3.tar.bz2",
+"total":7479
 }
 ]
 }

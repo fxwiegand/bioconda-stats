@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-hpc-runner-slurm-2.58-2.tar.bz2",
-"total":4817
+"total":4827
 }
 ],
 "downloads_per_date":[
@@ -1178,6 +1178,10 @@
 {
 "date":"2022-04-30",
 "total":6622
+},
+{
+"date":"2022-05-03",
+"total":6632
 }
 ],
 "package":"perl-hpc-runner-slurm",
@@ -1448,6 +1452,15 @@
 {
 "basename":"perl-hpc-runner-slurm-2.58-2.tar.bz2",
 "total":4817
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
+"basename":"perl-hpc-runner-slurm-2.58-2.tar.bz2",
+"total":4827
 }
 ]
 }

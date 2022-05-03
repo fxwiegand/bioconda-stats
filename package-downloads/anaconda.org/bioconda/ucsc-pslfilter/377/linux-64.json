@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-pslfilter-377-ha8a8165_3.tar.bz2",
-"total":75
+"total":76
 },
 {
 "basename":"ucsc-pslfilter-377-h0b8a92a_2.tar.bz2",
@@ -510,6 +510,10 @@
 {
 "date":"2022-04-30",
 "total":403
+},
+{
+"date":"2022-05-03",
+"total":404
 }
 ],
 "package":"ucsc-pslfilter",
@@ -729,6 +733,15 @@
 {
 "basename":"ucsc-pslfilter-377-h199ee4e_0.tar.bz2",
 "total":170
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
+"basename":"ucsc-pslfilter-377-ha8a8165_3.tar.bz2",
+"total":76
 }
 ]
 }

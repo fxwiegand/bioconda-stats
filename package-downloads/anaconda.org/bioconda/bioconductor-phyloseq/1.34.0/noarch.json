@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-phyloseq-1.34.0-r40hdfd78af_1.tar.bz2",
-"total":1559
+"total":1567
 }
 ],
 "downloads_per_date":[
@@ -1174,6 +1174,10 @@
 {
 "date":"2022-04-30",
 "total":2015
+},
+{
+"date":"2022-05-03",
+"total":2023
 }
 ],
 "package":"bioconductor-phyloseq",
@@ -1396,6 +1400,15 @@
 {
 "basename":"bioconductor-phyloseq-1.34.0-r40hdfd78af_1.tar.bz2",
 "total":1559
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-phyloseq-1.34.0-r40hdfd78af_1.tar.bz2",
+"total":1567
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-acme-damn-0.08-pl5321hcd10b59_5.tar.bz2",
-"total":138
+"total":144
 },
 {
 "basename":"perl-acme-damn-0.08-pl5.22.0_0.tar.bz2",
@@ -1186,6 +1186,10 @@
 {
 "date":"2022-04-30",
 "total":2772
+},
+{
+"date":"2022-05-03",
+"total":2778
 }
 ],
 "package":"perl-acme-damn",
@@ -1420,6 +1424,15 @@
 {
 "basename":"perl-acme-damn-0.08-pl5.22.0_0.tar.bz2",
 "total":284
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
+"basename":"perl-acme-damn-0.08-pl5321hcd10b59_5.tar.bz2",
+"total":144
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-aroma.affymetrix-3.1.1-r36h6115d3f_2.tar.bz2",
-"total":2015
+"total":2021
 }
 ],
 "downloads_per_date":[
@@ -1178,6 +1178,10 @@
 {
 "date":"2022-04-30",
 "total":2461
+},
+{
+"date":"2022-05-03",
+"total":2467
 }
 ],
 "package":"r-aroma.affymetrix",
@@ -1366,6 +1370,15 @@
 "date":"2022-04-30",
 "downloads_per_basename":[
 {
+"basename":"r-aroma.affymetrix-3.1.1-r36h6115d3f_2.tar.bz2",
+"total":2015
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
 "basename":"r-aroma.affymetrix-3.1.1-r351h6115d3f_0.tar.bz2",
 "total":213
 },
@@ -1375,7 +1388,7 @@
 },
 {
 "basename":"r-aroma.affymetrix-3.1.1-r36h6115d3f_2.tar.bz2",
-"total":2015
+"total":2021
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-genesis-2.22.1-r41h68a2ddb_0.tar.bz2",
-"total":662
+"total":668
 }
 ],
 "downloads_per_date":[
@@ -1102,6 +1102,10 @@
 {
 "date":"2022-04-30",
 "total":662
+},
+{
+"date":"2022-05-03",
+"total":668
 }
 ],
 "package":"bioconductor-genesis",
@@ -1292,6 +1296,15 @@
 {
 "basename":"bioconductor-genesis-2.22.1-r41h68a2ddb_0.tar.bz2",
 "total":662
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-genesis-2.22.1-r41h68a2ddb_0.tar.bz2",
+"total":668
 }
 ]
 }

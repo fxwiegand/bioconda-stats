@@ -31,7 +31,7 @@
 },
 {
 "basename":"bioconductor-bsgenome.mmusculus.ucsc.mm8.masked-1.3.99-r41hdfd78af_8.tar.bz2",
-"total":304
+"total":310
 }
 ],
 "downloads_per_date":[
@@ -1074,6 +1074,10 @@
 {
 "date":"2022-04-30",
 "total":1016
+},
+{
+"date":"2022-05-03",
+"total":1022
 }
 ],
 "package":"bioconductor-bsgenome.mmusculus.ucsc.mm8.masked",
@@ -1443,6 +1447,15 @@
 {
 "basename":"bioconductor-bsgenome.mmusculus.ucsc.mm8.masked-1.3.99-r41hdfd78af_8.tar.bz2",
 "total":304
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bsgenome.mmusculus.ucsc.mm8.masked-1.3.99-r41hdfd78af_8.tar.bz2",
+"total":310
 }
 ]
 }

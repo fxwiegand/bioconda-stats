@@ -27,7 +27,7 @@
 },
 {
 "basename":"tabixpp-1.1.0-hd7fc3fd_8.tar.bz2",
-"total":267
+"total":279
 },
 {
 "basename":"tabixpp-1.1.0-h7d069c0_5.tar.bz2",
@@ -35,7 +35,7 @@
 },
 {
 "basename":"tabixpp-1.1.0-h9cabb03_6.tar.bz2",
-"total":1174
+"total":1176
 }
 ],
 "downloads_per_date":[
@@ -1202,6 +1202,10 @@
 {
 "date":"2022-04-30",
 "total":2000
+},
+{
+"date":"2022-05-03",
+"total":2014
 }
 ],
 "package":"tabixpp",
@@ -1518,6 +1522,15 @@
 "date":"2022-04-30",
 "downloads_per_basename":[
 {
+"basename":"tabixpp-1.1.0-hd7fc3fd_8.tar.bz2",
+"total":267
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
 "basename":"tabixpp-1.1.0-h7d069c0_2.tar.bz2",
 "total":21
 },
@@ -1531,7 +1544,11 @@
 },
 {
 "basename":"tabixpp-1.1.0-hd7fc3fd_8.tar.bz2",
-"total":267
+"total":279
+},
+{
+"basename":"tabixpp-1.1.0-h9cabb03_6.tar.bz2",
+"total":1176
 }
 ]
 }

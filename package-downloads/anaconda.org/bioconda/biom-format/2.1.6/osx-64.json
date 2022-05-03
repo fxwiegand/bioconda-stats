@@ -11,7 +11,7 @@
 },
 {
 "basename":"biom-format-2.1.6-py27_1.tar.bz2",
-"total":587
+"total":588
 },
 {
 "basename":"biom-format-2.1.6-py35_0.tar.bz2",
@@ -23,7 +23,7 @@
 },
 {
 "basename":"biom-format-2.1.6-py36_1.tar.bz2",
-"total":2779
+"total":2786
 }
 ],
 "downloads_per_date":[
@@ -1186,6 +1186,10 @@
 {
 "date":"2022-04-30",
 "total":6535
+},
+{
+"date":"2022-05-03",
+"total":6543
 }
 ],
 "package":"biom-format",
@@ -1398,6 +1402,19 @@
 "total":587
 },
 {
+"basename":"biom-format-2.1.6-py36_1.tar.bz2",
+"total":2779
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
+"basename":"biom-format-2.1.6-py27_1.tar.bz2",
+"total":588
+},
+{
 "basename":"biom-format-2.1.6-py35_0.tar.bz2",
 "total":747
 },
@@ -1407,7 +1424,7 @@
 },
 {
 "basename":"biom-format-2.1.6-py36_1.tar.bz2",
-"total":2779
+"total":2786
 }
 ]
 }

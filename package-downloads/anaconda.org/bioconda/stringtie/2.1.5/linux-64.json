@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"stringtie-2.1.5-h7e0af3c_0.tar.bz2",
-"total":672
+"total":674
 },
 {
 "basename":"stringtie-2.1.5-h978d192_1.tar.bz2",
@@ -1026,6 +1026,10 @@
 {
 "date":"2022-04-30",
 "total":1456
+},
+{
+"date":"2022-05-03",
+"total":1458
 }
 ],
 "package":"stringtie",
@@ -1216,6 +1220,15 @@
 {
 "basename":"stringtie-2.1.5-h978d192_1.tar.bz2",
 "total":784
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
+"basename":"stringtie-2.1.5-h7e0af3c_0.tar.bz2",
+"total":674
 }
 ]
 }

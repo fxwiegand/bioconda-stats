@@ -1164,6 +1164,10 @@
 {
 "date":"2022-04-30",
 "total":1990
+},
+{
+"date":"2022-05-03",
+"total":1996
 }
 ],
 "downloads_per_subdir":[
@@ -1173,7 +1177,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1820
+"total":1826
 }
 ],
 "package":"ncbi-amrfinderplus",
@@ -1408,6 +1412,15 @@
 {
 "subdir":"osx-64",
 "total":1820
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1826
 }
 ]
 }

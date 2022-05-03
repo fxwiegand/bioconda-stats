@@ -11,7 +11,7 @@
 },
 {
 "basename":"galaxy-lib-17.9.9-py36_0.tar.bz2",
-"total":2604
+"total":2610
 }
 ],
 "downloads_per_date":[
@@ -1146,6 +1146,10 @@
 {
 "date":"2022-04-30",
 "total":3002
+},
+{
+"date":"2022-05-03",
+"total":3008
 }
 ],
 "package":"galaxy-lib",
@@ -1343,6 +1347,15 @@
 {
 "basename":"galaxy-lib-17.9.9-py36_0.tar.bz2",
 "total":2604
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
+"basename":"galaxy-lib-17.9.9-py36_0.tar.bz2",
+"total":2610
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-sanger-cgp-vcf-2.2.1-pl5321hec16e2b_8.tar.bz2",
-"total":100
+"total":101
 },
 {
 "basename":"perl-sanger-cgp-vcf-2.2.1-pl526h14c3975_2.tar.bz2",
@@ -934,6 +934,10 @@
 {
 "date":"2022-04-30",
 "total":4012
+},
+{
+"date":"2022-05-03",
+"total":4013
 }
 ],
 "package":"perl-sanger-cgp-vcf",
@@ -1376,6 +1380,15 @@
 {
 "basename":"perl-sanger-cgp-vcf-2.2.1-pl526h470a237_0.tar.bz2",
 "total":1490
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
+"basename":"perl-sanger-cgp-vcf-2.2.1-pl5321hec16e2b_8.tar.bz2",
+"total":101
 }
 ]
 }

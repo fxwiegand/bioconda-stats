@@ -516,6 +516,10 @@
 {
 "date":"2022-04-30",
 "total":399
+},
+{
+"date":"2022-05-03",
+"total":403
 }
 ],
 "downloads_per_subdir":[
@@ -525,7 +529,7 @@
 },
 {
 "subdir":"osx-64",
-"total":342
+"total":346
 }
 ],
 "package":"bioconductor-msnid",
@@ -760,6 +764,15 @@
 {
 "subdir":"osx-64",
 "total":342
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":346
 }
 ]
 }

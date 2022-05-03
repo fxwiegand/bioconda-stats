@@ -500,6 +500,10 @@
 {
 "date":"2022-04-30",
 "total":394
+},
+{
+"date":"2022-05-03",
+"total":398
 }
 ],
 "downloads_per_subdir":[
@@ -509,7 +513,7 @@
 },
 {
 "subdir":"osx-64",
-"total":340
+"total":344
 }
 ],
 "package":"bioconductor-flames",
@@ -744,6 +748,15 @@
 {
 "subdir":"osx-64",
 "total":340
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":344
 }
 ]
 }

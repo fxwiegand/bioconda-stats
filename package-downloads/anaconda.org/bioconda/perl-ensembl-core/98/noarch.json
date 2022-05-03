@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-ensembl-core-98-pl5321hdfd78af_2.tar.bz2",
-"total":205
+"total":209
 },
 {
 "basename":"perl-ensembl-core-98-0.tar.bz2",
@@ -1102,6 +1102,10 @@
 {
 "date":"2022-04-30",
 "total":945
+},
+{
+"date":"2022-05-03",
+"total":949
 }
 ],
 "package":"perl-ensembl-core",
@@ -1387,6 +1391,15 @@
 {
 "basename":"perl-ensembl-core-98-hdfd78af_1.tar.bz2",
 "total":474
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
+"basename":"perl-ensembl-core-98-pl5321hdfd78af_2.tar.bz2",
+"total":209
 }
 ]
 }

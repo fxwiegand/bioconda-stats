@@ -31,7 +31,7 @@
 },
 {
 "basename":"strawc-0.0.2.1-py39h81c5f39_0.tar.bz2",
-"total":656
+"total":661
 }
 ],
 "downloads_per_date":[
@@ -1146,6 +1146,10 @@
 {
 "date":"2022-04-30",
 "total":720
+},
+{
+"date":"2022-05-03",
+"total":725
 }
 ],
 "package":"strawc",
@@ -1350,6 +1354,15 @@
 "date":"2022-04-30",
 "downloads_per_basename":[
 {
+"basename":"strawc-0.0.2.1-py39h81c5f39_0.tar.bz2",
+"total":656
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
 "basename":"strawc-0.0.2.1-py37h56c4656_0.tar.bz2",
 "total":11
 },
@@ -1363,7 +1376,7 @@
 },
 {
 "basename":"strawc-0.0.2.1-py39h81c5f39_0.tar.bz2",
-"total":656
+"total":661
 }
 ]
 }

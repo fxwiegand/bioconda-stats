@@ -492,6 +492,10 @@
 {
 "date":"2022-04-30",
 "total":346
+},
+{
+"date":"2022-05-03",
+"total":352
 }
 ],
 "downloads_per_subdir":[
@@ -501,7 +505,7 @@
 },
 {
 "subdir":"osx-64",
-"total":304
+"total":310
 }
 ],
 "package":"bioconductor-birewire",
@@ -727,6 +731,15 @@
 {
 "subdir":"osx-64",
 "total":304
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":310
 }
 ]
 }

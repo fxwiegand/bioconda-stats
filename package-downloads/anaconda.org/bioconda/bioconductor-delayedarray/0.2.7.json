@@ -1140,6 +1140,10 @@
 {
 "date":"2022-04-30",
 "total":3781
+},
+{
+"date":"2022-05-03",
+"total":3787
 }
 ],
 "downloads_per_subdir":[
@@ -1149,7 +1153,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2453
+"total":2459
 }
 ],
 "package":"bioconductor-delayedarray",
@@ -1375,6 +1379,15 @@
 {
 "subdir":"osx-64",
 "total":2453
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2459
 }
 ]
 }

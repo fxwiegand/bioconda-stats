@@ -1108,6 +1108,10 @@
 {
 "date":"2022-04-30",
 "total":701
+},
+{
+"date":"2022-05-03",
+"total":705
 }
 ],
 "downloads_per_subdir":[
@@ -1117,7 +1121,7 @@
 },
 {
 "subdir":"osx-64",
-"total":637
+"total":641
 }
 ],
 "package":"bioconductor-dpeak",
@@ -1339,6 +1343,15 @@
 {
 "subdir":"osx-64",
 "total":637
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":641
 }
 ]
 }

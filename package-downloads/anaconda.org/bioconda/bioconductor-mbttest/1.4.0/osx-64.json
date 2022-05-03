@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-mbttest-1.4.0-r3.4.1_0.tar.bz2",
-"total":2201
+"total":2207
 }
 ],
 "downloads_per_date":[
@@ -1150,6 +1150,10 @@
 {
 "date":"2022-04-30",
 "total":2486
+},
+{
+"date":"2022-05-03",
+"total":2492
 }
 ],
 "package":"bioconductor-mbttest",
@@ -1329,6 +1333,15 @@
 "date":"2022-04-30",
 "downloads_per_basename":[
 {
+"basename":"bioconductor-mbttest-1.4.0-r3.4.1_0.tar.bz2",
+"total":2201
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
 "basename":"bioconductor-mbttest-1.4.0-0.tar.bz2",
 "total":58
 },
@@ -1338,7 +1351,7 @@
 },
 {
 "basename":"bioconductor-mbttest-1.4.0-r3.4.1_0.tar.bz2",
-"total":2201
+"total":2207
 }
 ]
 }

@@ -1104,6 +1104,10 @@
 {
 "date":"2022-04-30",
 "total":1015
+},
+{
+"date":"2022-05-03",
+"total":1021
 }
 ],
 "downloads_per_subdir":[
@@ -1113,7 +1117,7 @@
 },
 {
 "subdir":"osx-64",
-"total":668
+"total":674
 }
 ],
 "package":"bioconductor-bsseq",
@@ -1347,6 +1351,15 @@
 {
 "subdir":"osx-64",
 "total":668
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":674
 }
 ]
 }

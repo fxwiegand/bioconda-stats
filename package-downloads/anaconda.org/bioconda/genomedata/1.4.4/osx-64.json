@@ -59,7 +59,7 @@
 },
 {
 "basename":"genomedata-1.4.4-py38h54c3f6d_6.tar.bz2",
-"total":1108
+"total":1114
 }
 ],
 "downloads_per_date":[
@@ -1198,6 +1198,10 @@
 {
 "date":"2022-04-30",
 "total":2808
+},
+{
+"date":"2022-05-03",
+"total":2814
 }
 ],
 "package":"genomedata",
@@ -1434,6 +1438,15 @@
 "date":"2022-04-30",
 "downloads_per_basename":[
 {
+"basename":"genomedata-1.4.4-py38h54c3f6d_6.tar.bz2",
+"total":1108
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
 "basename":"genomedata-1.4.4-py27h9bb3371_6.tar.bz2",
 "total":19
 },
@@ -1467,7 +1480,7 @@
 },
 {
 "basename":"genomedata-1.4.4-py38h54c3f6d_6.tar.bz2",
-"total":1108
+"total":1114
 }
 ]
 }

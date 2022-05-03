@@ -1140,6 +1140,10 @@
 {
 "date":"2022-04-30",
 "total":2916
+},
+{
+"date":"2022-05-03",
+"total":2922
 }
 ],
 "downloads_per_subdir":[
@@ -1149,7 +1153,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2389
+"total":2395
 }
 ],
 "package":"bioconductor-gotools",
@@ -1387,6 +1391,15 @@
 {
 "subdir":"osx-64",
 "total":2389
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2395
 }
 ]
 }

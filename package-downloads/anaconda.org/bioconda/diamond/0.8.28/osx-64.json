@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"diamond-0.8.28-hb8176d5_5.tar.bz2",
-"total":6
+"total":7
 },
 {
 "basename":"diamond-0.8.28-hd174df1_3.tar.bz2",
@@ -19,7 +19,7 @@
 },
 {
 "basename":"diamond-0.8.28-hfd59bb5_4.tar.bz2",
-"total":724
+"total":730
 },
 {
 "basename":"diamond-0.8.28-hd28b015_2.tar.bz2",
@@ -1170,6 +1170,10 @@
 {
 "date":"2022-04-30",
 "total":2500
+},
+{
+"date":"2022-05-03",
+"total":2507
 }
 ],
 "package":"diamond",
@@ -1373,6 +1377,19 @@
 "date":"2022-04-30",
 "downloads_per_basename":[
 {
+"basename":"diamond-0.8.28-hfd59bb5_4.tar.bz2",
+"total":724
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
+"basename":"diamond-0.8.28-hb8176d5_5.tar.bz2",
+"total":7
+},
+{
 "basename":"diamond-0.8.28-1.tar.bz2",
 "total":50
 },
@@ -1382,7 +1399,7 @@
 },
 {
 "basename":"diamond-0.8.28-hfd59bb5_4.tar.bz2",
-"total":724
+"total":730
 }
 ]
 }

@@ -23,7 +23,7 @@
 },
 {
 "basename":"bioconductor-pcamethods-1.64.0-r3.4.1_2.tar.bz2",
-"total":2209
+"total":2213
 }
 ],
 "downloads_per_date":[
@@ -1190,6 +1190,10 @@
 {
 "date":"2022-04-30",
 "total":2775
+},
+{
+"date":"2022-05-03",
+"total":2779
 }
 ],
 "package":"bioconductor-pcamethods",
@@ -1390,6 +1394,15 @@
 "date":"2022-04-30",
 "downloads_per_basename":[
 {
+"basename":"bioconductor-pcamethods-1.64.0-r3.4.1_2.tar.bz2",
+"total":2209
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
 "basename":"bioconductor-pcamethods-1.64.0-r3.3.2_2.tar.bz2",
 "total":56
 },
@@ -1403,7 +1416,7 @@
 },
 {
 "basename":"bioconductor-pcamethods-1.64.0-r3.4.1_2.tar.bz2",
-"total":2209
+"total":2213
 }
 ]
 }

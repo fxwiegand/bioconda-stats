@@ -43,7 +43,7 @@
 },
 {
 "basename":"phylodm-1.3.1-py39hb75ba9e_1.tar.bz2",
-"total":730
+"total":736
 }
 ],
 "downloads_per_date":[
@@ -1178,6 +1178,10 @@
 {
 "date":"2022-04-30",
 "total":1230
+},
+{
+"date":"2022-05-03",
+"total":1236
 }
 ],
 "package":"phylodm",
@@ -1413,6 +1417,15 @@
 "date":"2022-04-30",
 "downloads_per_basename":[
 {
+"basename":"phylodm-1.3.1-py39hb75ba9e_1.tar.bz2",
+"total":730
+}
+]
+},
+{
+"date":"2022-05-03",
+"downloads_per_basename":[
+{
 "basename":"phylodm-1.3.1-py37h335bc2e_1.tar.bz2",
 "total":16
 },
@@ -1426,7 +1439,7 @@
 },
 {
 "basename":"phylodm-1.3.1-py39hb75ba9e_1.tar.bz2",
-"total":730
+"total":736
 }
 ]
 }
