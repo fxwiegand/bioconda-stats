@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-test-notabs-2.02-pl526_0.tar.bz2",
-"total":250
+"total":251
 }
 ],
 "downloads_per_date":[
@@ -166,6 +166,10 @@
 {
 "date":"2022-05-10",
 "total":250
+},
+{
+"date":"2022-05-13",
+"total":251
 }
 ],
 "package":"perl-test-notabs",
@@ -230,6 +234,15 @@
 {
 "basename":"perl-test-notabs-2.02-pl526_0.tar.bz2",
 "total":250
+}
+]
+},
+{
+"date":"2022-05-13",
+"downloads_per_basename":[
+{
+"basename":"perl-test-notabs-2.02-pl526_0.tar.bz2",
+"total":251
 }
 ]
 }

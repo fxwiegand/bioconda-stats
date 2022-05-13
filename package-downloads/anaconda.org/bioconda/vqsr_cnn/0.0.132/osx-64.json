@@ -7,7 +7,7 @@
 },
 {
 "basename":"vqsr_cnn-0.0.132-py35_0.tar.bz2",
-"total":41
+"total":42
 },
 {
 "basename":"vqsr_cnn-0.0.132-py36_0.tar.bz2",
@@ -718,6 +718,10 @@
 {
 "date":"2022-05-10",
 "total":2030
+},
+{
+"date":"2022-05-13",
+"total":2031
 }
 ],
 "package":"vqsr_cnn",
@@ -759,6 +763,15 @@
 {
 "basename":"vqsr_cnn-0.0.132-py35_0.tar.bz2",
 "total":41
+}
+]
+},
+{
+"date":"2022-05-13",
+"downloads_per_basename":[
+{
+"basename":"vqsr_cnn-0.0.132-py35_0.tar.bz2",
+"total":42
 }
 ]
 }

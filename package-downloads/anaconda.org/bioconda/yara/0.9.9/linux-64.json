@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"yara-0.9.9-0.tar.bz2",
-"total":588
+"total":589
 }
 ],
 "downloads_per_date":[
@@ -258,6 +258,10 @@
 {
 "date":"2022-05-10",
 "total":588
+},
+{
+"date":"2022-05-13",
+"total":589
 }
 ],
 "package":"yara",
@@ -331,6 +335,15 @@
 {
 "basename":"yara-0.9.9-0.tar.bz2",
 "total":588
+}
+]
+},
+{
+"date":"2022-05-13",
+"downloads_per_basename":[
+{
+"basename":"yara-0.9.9-0.tar.bz2",
+"total":589
 }
 ]
 }

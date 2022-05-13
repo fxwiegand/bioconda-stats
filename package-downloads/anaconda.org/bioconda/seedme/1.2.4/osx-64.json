@@ -694,6 +694,10 @@
 {
 "date":"2022-05-10",
 "total":1993
+},
+{
+"date":"2022-05-13",
+"total":1993
 }
 ],
 "package":"seedme",
@@ -713,7 +717,12 @@
 {
 "basename":"seedme-1.2.4-py27_0.tar.bz2",
 "total":279
+}
+]
 },
+{
+"date":"2022-05-13",
+"downloads_per_basename":[
 {
 "basename":"seedme-1.2.4-py27_1.tar.bz2",
 "total":1714

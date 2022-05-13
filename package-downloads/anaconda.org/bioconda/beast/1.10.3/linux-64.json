@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"beast-1.10.3-0.tar.bz2",
-"total":401
+"total":402
 }
 ],
 "downloads_per_date":[
@@ -322,6 +322,10 @@
 {
 "date":"2022-05-10",
 "total":401
+},
+{
+"date":"2022-05-13",
+"total":402
 }
 ],
 "package":"beast",
@@ -413,6 +417,15 @@
 {
 "basename":"beast-1.10.3-0.tar.bz2",
 "total":401
+}
+]
+},
+{
+"date":"2022-05-13",
+"downloads_per_basename":[
+{
+"basename":"beast-1.10.3-0.tar.bz2",
+"total":402
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-hgsqldump-366-h5eb252a_0.tar.bz2",
-"total":301
+"total":303
 }
 ],
 "downloads_per_date":[
@@ -214,6 +214,10 @@
 {
 "date":"2022-05-10",
 "total":301
+},
+{
+"date":"2022-05-13",
+"total":303
 }
 ],
 "package":"ucsc-hgsqldump",
@@ -269,6 +273,15 @@
 {
 "basename":"ucsc-hgsqldump-366-h5eb252a_0.tar.bz2",
 "total":301
+}
+]
+},
+{
+"date":"2022-05-13",
+"downloads_per_basename":[
+{
+"basename":"ucsc-hgsqldump-366-h5eb252a_0.tar.bz2",
+"total":303
 }
 ]
 }

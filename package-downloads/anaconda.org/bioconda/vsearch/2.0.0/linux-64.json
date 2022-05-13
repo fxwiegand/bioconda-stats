@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"vsearch-2.0.0-0.tar.bz2",
-"total":1005
+"total":1006
 }
 ],
 "downloads_per_date":[
@@ -242,6 +242,10 @@
 {
 "date":"2022-05-10",
 "total":1005
+},
+{
+"date":"2022-05-13",
+"total":1006
 }
 ],
 "package":"vsearch",
@@ -306,6 +310,15 @@
 {
 "basename":"vsearch-2.0.0-0.tar.bz2",
 "total":1005
+}
+]
+},
+{
+"date":"2022-05-13",
+"downloads_per_basename":[
+{
+"basename":"vsearch-2.0.0-0.tar.bz2",
+"total":1006
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-findbin-1.51-pl5.22.0_0.tar.bz2",
-"total":250
+"total":251
 },
 {
 "basename":"perl-findbin-1.51-pl526_1.tar.bz2",
@@ -862,6 +862,10 @@
 {
 "date":"2022-05-10",
 "total":2483
+},
+{
+"date":"2022-05-13",
+"total":2484
 }
 ],
 "package":"perl-findbin",
@@ -929,6 +933,15 @@
 {
 "basename":"perl-findbin-1.51-pl526_1.tar.bz2",
 "total":2233
+}
+]
+},
+{
+"date":"2022-05-13",
+"downloads_per_basename":[
+{
+"basename":"perl-findbin-1.51-pl5.22.0_0.tar.bz2",
+"total":251
 }
 ]
 }
