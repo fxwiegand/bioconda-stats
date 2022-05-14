@@ -1172,6 +1172,10 @@
 {
 "date":"2022-05-13",
 "total":3035
+},
+{
+"date":"2022-05-14",
+"total":3037
 }
 ],
 "downloads_per_subdir":[
@@ -1181,7 +1185,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2413
+"total":2415
 }
 ],
 "package":"bioconductor-npgsea",
@@ -1385,6 +1389,15 @@
 {
 "subdir":"osx-64",
 "total":2413
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2415
 }
 ]
 }

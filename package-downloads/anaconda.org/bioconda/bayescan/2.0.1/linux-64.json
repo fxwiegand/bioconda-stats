@@ -15,7 +15,7 @@
 },
 {
 "basename":"bayescan-2.0.1-hc9558a2_2.tar.bz2",
-"total":1389
+"total":1391
 },
 {
 "basename":"bayescan-2.0.1-h2d50403_1.tar.bz2",
@@ -1194,6 +1194,10 @@
 {
 "date":"2022-05-13",
 "total":4280
+},
+{
+"date":"2022-05-14",
+"total":4282
 }
 ],
 "package":"bayescan",
@@ -1521,6 +1525,15 @@
 {
 "basename":"bayescan-2.0.1-h2d50403_1.tar.bz2",
 "total":1519
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"bayescan-2.0.1-hc9558a2_2.tar.bz2",
+"total":1391
 }
 ]
 }

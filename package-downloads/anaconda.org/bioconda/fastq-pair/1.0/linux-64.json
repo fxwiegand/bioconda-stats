@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"fastq-pair-1.0-h87f3376_3.tar.bz2",
-"total":61
+"total":69
 },
 {
 "basename":"fastq-pair-1.0-h1b792b2_2.tar.bz2",
@@ -798,6 +798,10 @@
 {
 "date":"2022-05-13",
 "total":760
+},
+{
+"date":"2022-05-14",
+"total":768
 }
 ],
 "package":"fastq-pair",
@@ -1080,6 +1084,15 @@
 {
 "basename":"fastq-pair-1.0-hf484d3e_0.tar.bz2",
 "total":317
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"fastq-pair-1.0-h87f3376_3.tar.bz2",
+"total":69
 }
 ]
 }

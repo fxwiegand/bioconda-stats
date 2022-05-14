@@ -528,6 +528,10 @@
 {
 "date":"2022-05-13",
 "total":429
+},
+{
+"date":"2022-05-14",
+"total":431
 }
 ],
 "downloads_per_subdir":[
@@ -537,7 +541,7 @@
 },
 {
 "subdir":"osx-64",
-"total":368
+"total":370
 }
 ],
 "package":"bioconductor-turbonorm",
@@ -745,6 +749,15 @@
 {
 "subdir":"osx-64",
 "total":368
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":370
 }
 ]
 }

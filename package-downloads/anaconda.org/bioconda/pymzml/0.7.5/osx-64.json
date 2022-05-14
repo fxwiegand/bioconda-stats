@@ -762,6 +762,10 @@
 {
 "date":"2022-05-13",
 "total":2152
+},
+{
+"date":"2022-05-14",
+"total":2152
 }
 ],
 "package":"pymzml",
@@ -807,7 +811,12 @@
 {
 "basename":"pymzml-0.7.5-py34_0.tar.bz2",
 "total":299
+}
+]
 },
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
 {
 "basename":"pymzml-0.7.5-py36_0.tar.bz2",
 "total":1738

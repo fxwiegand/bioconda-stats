@@ -1164,6 +1164,10 @@
 {
 "date":"2022-05-13",
 "total":1930
+},
+{
+"date":"2022-05-14",
+"total":1932
 }
 ],
 "downloads_per_subdir":[
@@ -1173,7 +1177,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1801
+"total":1803
 }
 ],
 "package":"bioconductor-scmerge",
@@ -1368,6 +1372,15 @@
 {
 "subdir":"osx-64",
 "total":1801
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1803
 }
 ]
 }

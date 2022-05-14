@@ -15,7 +15,7 @@
 },
 {
 "basename":"openpyxl-1.8.6-py36_0.tar.bz2",
-"total":2223
+"total":2225
 }
 ],
 "downloads_per_date":[
@@ -1194,6 +1194,10 @@
 {
 "date":"2022-05-13",
 "total":2648
+},
+{
+"date":"2022-05-14",
+"total":2650
 }
 ],
 "package":"openpyxl",
@@ -1355,6 +1359,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"openpyxl-1.8.6-py36_0.tar.bz2",
+"total":2223
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"openpyxl-1.8.6-py27_0.tar.bz2",
 "total":69
 },
@@ -1368,7 +1381,7 @@
 },
 {
 "basename":"openpyxl-1.8.6-py36_0.tar.bz2",
-"total":2223
+"total":2225
 }
 ]
 }

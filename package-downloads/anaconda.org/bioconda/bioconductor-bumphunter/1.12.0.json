@@ -1156,6 +1156,10 @@
 {
 "date":"2022-05-13",
 "total":4653
+},
+{
+"date":"2022-05-14",
+"total":4655
 }
 ],
 "downloads_per_subdir":[
@@ -1165,7 +1169,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2633
+"total":2635
 }
 ],
 "package":"bioconductor-bumphunter",
@@ -1372,6 +1376,15 @@
 {
 "subdir":"osx-64",
 "total":2633
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2635
 }
 ]
 }

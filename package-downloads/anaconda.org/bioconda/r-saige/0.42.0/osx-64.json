@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-saige-0.42.0-r40hcd39c73_1.tar.bz2",
-"total":1039
+"total":1041
 }
 ],
 "downloads_per_date":[
@@ -1186,6 +1186,10 @@
 {
 "date":"2022-05-13",
 "total":1079
+},
+{
+"date":"2022-05-14",
+"total":1081
 }
 ],
 "package":"r-saige",
@@ -1338,6 +1342,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"r-saige-0.42.0-r40hcd39c73_1.tar.bz2",
+"total":1039
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"r-saige-0.42.0-r36h71b7beb_1.tar.bz2",
 "total":19
 },
@@ -1347,7 +1360,7 @@
 },
 {
 "basename":"r-saige-0.42.0-r40hcd39c73_1.tar.bz2",
-"total":1039
+"total":1041
 }
 ]
 }

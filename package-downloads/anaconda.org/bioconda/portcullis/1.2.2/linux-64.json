@@ -27,7 +27,7 @@
 },
 {
 "basename":"portcullis-1.2.2-py39haf6c89f_2.tar.bz2",
-"total":988
+"total":990
 },
 {
 "basename":"portcullis-1.2.2-py38h8097dd8_1.tar.bz2",
@@ -1214,6 +1214,10 @@
 {
 "date":"2022-05-13",
 "total":6273
+},
+{
+"date":"2022-05-14",
+"total":6275
 }
 ],
 "package":"portcullis",
@@ -1653,6 +1657,15 @@
 {
 "basename":"portcullis-1.2.2-py37h56fc30b_0.tar.bz2",
 "total":1929
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"portcullis-1.2.2-py39haf6c89f_2.tar.bz2",
+"total":990
 }
 ]
 }

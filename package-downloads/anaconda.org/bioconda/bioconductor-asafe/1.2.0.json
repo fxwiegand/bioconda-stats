@@ -1176,6 +1176,10 @@
 {
 "date":"2022-05-13",
 "total":3859
+},
+{
+"date":"2022-05-14",
+"total":3861
 }
 ],
 "downloads_per_subdir":[
@@ -1185,7 +1189,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2612
+"total":2614
 }
 ],
 "package":"bioconductor-asafe",
@@ -1401,6 +1405,15 @@
 {
 "subdir":"osx-64",
 "total":2612
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2614
 }
 ]
 }

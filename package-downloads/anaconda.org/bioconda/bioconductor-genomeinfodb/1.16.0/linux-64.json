@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-genomeinfodb-1.16.0-r351_0.tar.bz2",
-"total":8750
+"total":8751
 },
 {
 "basename":"bioconductor-genomeinfodb-1.16.0-r341_0.tar.bz2",
@@ -1062,6 +1062,10 @@
 {
 "date":"2022-05-13",
 "total":23270
+},
+{
+"date":"2022-05-14",
+"total":23271
 }
 ],
 "package":"bioconductor-genomeinfodb",
@@ -1280,6 +1284,15 @@
 {
 "basename":"bioconductor-genomeinfodb-1.16.0-r341_0.tar.bz2",
 "total":14520
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-genomeinfodb-1.16.0-r351_0.tar.bz2",
+"total":8751
 }
 ]
 }

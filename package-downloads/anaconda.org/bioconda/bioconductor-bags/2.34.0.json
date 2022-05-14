@@ -532,6 +532,10 @@
 {
 "date":"2022-05-13",
 "total":415
+},
+{
+"date":"2022-05-14",
+"total":417
 }
 ],
 "downloads_per_subdir":[
@@ -541,7 +545,7 @@
 },
 {
 "subdir":"osx-64",
-"total":365
+"total":367
 }
 ],
 "package":"bioconductor-bags",
@@ -749,6 +753,15 @@
 {
 "subdir":"osx-64",
 "total":365
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":367
 }
 ]
 }

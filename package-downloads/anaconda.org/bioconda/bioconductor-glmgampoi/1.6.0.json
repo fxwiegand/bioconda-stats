@@ -520,6 +520,10 @@
 {
 "date":"2022-05-13",
 "total":654
+},
+{
+"date":"2022-05-14",
+"total":656
 }
 ],
 "downloads_per_subdir":[
@@ -529,7 +533,7 @@
 },
 {
 "subdir":"osx-64",
-"total":377
+"total":379
 }
 ],
 "package":"bioconductor-glmgampoi",
@@ -752,6 +756,15 @@
 {
 "subdir":"osx-64",
 "total":377
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":379
 }
 ]
 }

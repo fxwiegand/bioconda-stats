@@ -1176,6 +1176,10 @@
 {
 "date":"2022-05-13",
 "total":2144
+},
+{
+"date":"2022-05-14",
+"total":2146
 }
 ],
 "downloads_per_subdir":[
@@ -1185,7 +1189,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1897
+"total":1899
 }
 ],
 "package":"bioconductor-chromvar",
@@ -1393,6 +1397,15 @@
 {
 "subdir":"osx-64",
 "total":1897
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1899
 }
 ]
 }

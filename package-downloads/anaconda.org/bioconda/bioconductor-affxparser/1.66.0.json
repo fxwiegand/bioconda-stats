@@ -532,6 +532,10 @@
 {
 "date":"2022-05-13",
 "total":932
+},
+{
+"date":"2022-05-14",
+"total":934
 }
 ],
 "downloads_per_subdir":[
@@ -541,7 +545,7 @@
 },
 {
 "subdir":"osx-64",
-"total":471
+"total":473
 }
 ],
 "package":"bioconductor-affxparser",
@@ -761,6 +765,15 @@
 {
 "subdir":"osx-64",
 "total":471
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":473
 }
 ]
 }

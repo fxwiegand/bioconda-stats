@@ -7,7 +7,7 @@
 },
 {
 "basename":"mysql-connector-c-6.1.6-2.tar.bz2",
-"total":111489
+"total":111499
 }
 ],
 "downloads_per_date":[
@@ -1186,6 +1186,10 @@
 {
 "date":"2022-05-13",
 "total":117451
+},
+{
+"date":"2022-05-14",
+"total":117461
 }
 ],
 "package":"mysql-connector-c",
@@ -1393,6 +1397,15 @@
 {
 "basename":"mysql-connector-c-6.1.6-2.tar.bz2",
 "total":111489
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"mysql-connector-c-6.1.6-2.tar.bz2",
+"total":111499
 }
 ]
 }

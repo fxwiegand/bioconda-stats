@@ -19,7 +19,7 @@
 },
 {
 "basename":"dudes-0.07-py36_1.tar.bz2",
-"total":2296
+"total":2298
 }
 ],
 "downloads_per_date":[
@@ -1198,6 +1198,10 @@
 {
 "date":"2022-05-13",
 "total":2585
+},
+{
+"date":"2022-05-14",
+"total":2587
 }
 ],
 "package":"dudes",
@@ -1359,6 +1363,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"dudes-0.07-py36_1.tar.bz2",
+"total":2296
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"dudes-0.07-py35_0.tar.bz2",
 "total":31
 },
@@ -1376,7 +1389,7 @@
 },
 {
 "basename":"dudes-0.07-py36_1.tar.bz2",
-"total":2296
+"total":2298
 }
 ]
 }

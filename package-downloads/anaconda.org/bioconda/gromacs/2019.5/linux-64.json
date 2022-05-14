@@ -7,7 +7,7 @@
 },
 {
 "basename":"gromacs-2019.5-hc9558a2_0.tar.bz2",
-"total":2415
+"total":2418
 }
 ],
 "downloads_per_date":[
@@ -1186,6 +1186,10 @@
 {
 "date":"2022-05-13",
 "total":2522
+},
+{
+"date":"2022-05-14",
+"total":2525
 }
 ],
 "package":"gromacs",
@@ -1381,6 +1385,15 @@
 {
 "basename":"gromacs-2019.5-hc9558a2_0.tar.bz2",
 "total":2415
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"gromacs-2019.5-hc9558a2_0.tar.bz2",
+"total":2418
 }
 ]
 }

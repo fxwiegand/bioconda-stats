@@ -19,7 +19,7 @@
 },
 {
 "basename":"galaxy-util-19.9.0-py37hc8dfbb8_1.tar.bz2",
-"total":1425
+"total":1427
 }
 ],
 "downloads_per_date":[
@@ -1198,6 +1198,10 @@
 {
 "date":"2022-05-13",
 "total":1763
+},
+{
+"date":"2022-05-14",
+"total":1765
 }
 ],
 "package":"galaxy-util",
@@ -1350,6 +1354,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"galaxy-util-19.9.0-py37hc8dfbb8_1.tar.bz2",
+"total":1425
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"galaxy-util-19.9.0-py36h9f0ad1d_1.tar.bz2",
 "total":17
 },
@@ -1367,7 +1380,7 @@
 },
 {
 "basename":"galaxy-util-19.9.0-py37hc8dfbb8_1.tar.bz2",
-"total":1425
+"total":1427
 }
 ]
 }

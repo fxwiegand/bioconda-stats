@@ -7,7 +7,7 @@
 },
 {
 "basename":"pyensembl-1.7.3-py_1.tar.bz2",
-"total":677
+"total":679
 }
 ],
 "downloads_per_date":[
@@ -1026,6 +1026,10 @@
 {
 "date":"2022-05-13",
 "total":1021
+},
+{
+"date":"2022-05-14",
+"total":1023
 }
 ],
 "package":"pyensembl",
@@ -1213,6 +1217,15 @@
 {
 "basename":"pyensembl-1.7.3-py_1.tar.bz2",
 "total":677
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"pyensembl-1.7.3-py_1.tar.bz2",
+"total":679
 }
 ]
 }

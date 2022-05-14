@@ -83,7 +83,7 @@
 },
 {
 "basename":"idba_subasm-1.1.3a2-py39pl5321h8f06ca0_4.tar.bz2",
-"total":233
+"total":235
 },
 {
 "basename":"idba_subasm-1.1.3a2-py38pl526h6ed170a_2.tar.bz2",
@@ -1258,6 +1258,10 @@
 {
 "date":"2022-05-13",
 "total":3768
+},
+{
+"date":"2022-05-14",
+"total":3770
 }
 ],
 "package":"idba_subasm",
@@ -2396,6 +2400,15 @@
 {
 "basename":"idba_subasm-1.1.3a2-py37pl526hf484d3e_0.tar.bz2",
 "total":1064
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"idba_subasm-1.1.3a2-py39pl5321h8f06ca0_4.tar.bz2",
+"total":235
 }
 ]
 }

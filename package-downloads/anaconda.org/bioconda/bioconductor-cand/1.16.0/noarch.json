@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-cand-1.16.0-r36_1.tar.bz2",
-"total":580
+"total":582
 }
 ],
 "downloads_per_date":[
@@ -1026,6 +1026,10 @@
 {
 "date":"2022-05-13",
 "total":744
+},
+{
+"date":"2022-05-14",
+"total":746
 }
 ],
 "package":"bioconductor-cand",
@@ -1225,6 +1229,15 @@
 {
 "basename":"bioconductor-cand-1.16.0-r36_1.tar.bz2",
 "total":580
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cand-1.16.0-r36_1.tar.bz2",
+"total":582
 }
 ]
 }

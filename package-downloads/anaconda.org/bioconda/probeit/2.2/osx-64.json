@@ -31,7 +31,7 @@
 },
 {
 "basename":"probeit-2.2-py39he2a1a62_0.tar.bz2",
-"total":213
+"total":215
 }
 ],
 "downloads_per_date":[
@@ -250,6 +250,10 @@
 {
 "date":"2022-05-13",
 "total":262
+},
+{
+"date":"2022-05-14",
+"total":264
 }
 ],
 "package":"probeit",
@@ -410,6 +414,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"probeit-2.2-py39he2a1a62_0.tar.bz2",
+"total":213
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"probeit-2.2-py36h759e0c2_1.tar.bz2",
 "total":5
 },
@@ -435,7 +448,7 @@
 },
 {
 "basename":"probeit-2.2-py39he2a1a62_0.tar.bz2",
-"total":213
+"total":215
 }
 ]
 }

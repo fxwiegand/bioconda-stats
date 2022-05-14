@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-extutils-makemaker-7.24-pl526_3.tar.bz2",
-"total":2388
+"total":2390
 },
 {
 "basename":"perl-extutils-makemaker-7.24-pl5.22.0_0.tar.bz2",
@@ -1190,6 +1190,10 @@
 {
 "date":"2022-05-13",
 "total":22399
+},
+{
+"date":"2022-05-14",
+"total":22401
 }
 ],
 "package":"perl-extutils-makemaker",
@@ -1457,6 +1461,15 @@
 {
 "basename":"perl-extutils-makemaker-7.24-pl5.22.0_1.tar.bz2",
 "total":14954
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"perl-extutils-makemaker-7.24-pl526_3.tar.bz2",
+"total":2390
 }
 ]
 }

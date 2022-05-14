@@ -15,7 +15,7 @@
 },
 {
 "basename":"metacluster-5.1-hc9558a2_2.tar.bz2",
-"total":1297
+"total":1299
 },
 {
 "basename":"metacluster-5.1-h470a237_1.tar.bz2",
@@ -1198,6 +1198,10 @@
 {
 "date":"2022-05-13",
 "total":3473
+},
+{
+"date":"2022-05-14",
+"total":3475
 }
 ],
 "package":"metacluster",
@@ -1521,6 +1525,15 @@
 {
 "basename":"metacluster-5.1-h470a237_1.tar.bz2",
 "total":1562
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"metacluster-5.1-hc9558a2_2.tar.bz2",
+"total":1299
 }
 ]
 }

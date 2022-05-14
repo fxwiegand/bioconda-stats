@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-xml-sax-base-1.08-pl526_1.tar.bz2",
-"total":2310
+"total":2312
 },
 {
 "basename":"perl-xml-sax-base-1.08-0.tar.bz2",
@@ -1182,6 +1182,10 @@
 {
 "date":"2022-05-13",
 "total":5063
+},
+{
+"date":"2022-05-14",
+"total":5065
 }
 ],
 "package":"perl-xml-sax-base",
@@ -1401,6 +1405,15 @@
 {
 "basename":"perl-xml-sax-base-1.08-0.tar.bz2",
 "total":2753
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"perl-xml-sax-base-1.08-pl526_1.tar.bz2",
+"total":2312
 }
 ]
 }

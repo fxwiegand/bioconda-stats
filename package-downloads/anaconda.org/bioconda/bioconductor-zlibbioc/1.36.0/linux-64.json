@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-zlibbioc-1.36.0-r40hd029910_1.tar.bz2",
-"total":47641
+"total":47678
 }
 ],
 "downloads_per_date":[
@@ -1186,6 +1186,10 @@
 {
 "date":"2022-05-13",
 "total":63256
+},
+{
+"date":"2022-05-14",
+"total":63293
 }
 ],
 "package":"bioconductor-zlibbioc",
@@ -1417,6 +1421,15 @@
 {
 "basename":"bioconductor-zlibbioc-1.36.0-r40hd029910_1.tar.bz2",
 "total":47641
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-zlibbioc-1.36.0-r40hd029910_1.tar.bz2",
+"total":47678
 }
 ]
 }

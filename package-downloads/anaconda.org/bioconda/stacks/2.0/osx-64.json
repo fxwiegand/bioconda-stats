@@ -19,7 +19,7 @@
 },
 {
 "basename":"stacks-2.0-pl5.22.0_0.tar.bz2",
-"total":2462
+"total":2464
 }
 ],
 "downloads_per_date":[
@@ -1194,6 +1194,10 @@
 {
 "date":"2022-05-13",
 "total":2589
+},
+{
+"date":"2022-05-14",
+"total":2591
 }
 ],
 "package":"stacks",
@@ -1371,6 +1375,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"stacks-2.0-pl5.22.0_0.tar.bz2",
+"total":2462
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"stacks-2.0-h6151dfb_4.tar.bz2",
 "total":10
 },
@@ -1380,7 +1393,7 @@
 },
 {
 "basename":"stacks-2.0-pl5.22.0_0.tar.bz2",
-"total":2462
+"total":2464
 }
 ]
 }

@@ -488,6 +488,10 @@
 {
 "date":"2022-05-13",
 "total":387
+},
+{
+"date":"2022-05-14",
+"total":389
 }
 ],
 "downloads_per_subdir":[
@@ -497,7 +501,7 @@
 },
 {
 "subdir":"osx-64",
-"total":322
+"total":324
 }
 ],
 "package":"bioconductor-ptairms",
@@ -700,6 +704,15 @@
 {
 "subdir":"osx-64",
 "total":322
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":324
 }
 ]
 }

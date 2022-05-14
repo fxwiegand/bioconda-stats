@@ -67,7 +67,7 @@
 },
 {
 "basename":"cyushuffle-1.1.2-py39ha492530_2.tar.bz2",
-"total":785
+"total":787
 }
 ],
 "downloads_per_date":[
@@ -1246,6 +1246,10 @@
 {
 "date":"2022-05-13",
 "total":1471
+},
+{
+"date":"2022-05-14",
+"total":1473
 }
 ],
 "package":"cyushuffle",
@@ -1407,6 +1411,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"cyushuffle-1.1.2-py39ha492530_2.tar.bz2",
+"total":785
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"cyushuffle-1.1.2-py38h431a6f7_3.tar.bz2",
 "total":6
 },
@@ -1472,7 +1485,7 @@
 },
 {
 "basename":"cyushuffle-1.1.2-py39ha492530_2.tar.bz2",
-"total":785
+"total":787
 }
 ]
 }

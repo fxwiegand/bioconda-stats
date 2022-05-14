@@ -11,7 +11,7 @@
 },
 {
 "basename":"ucsc-pslmrnacover-357-h5eb252a_2.tar.bz2",
-"total":2418
+"total":2420
 }
 ],
 "downloads_per_date":[
@@ -1186,6 +1186,10 @@
 {
 "date":"2022-05-13",
 "total":2506
+},
+{
+"date":"2022-05-14",
+"total":2508
 }
 ],
 "package":"ucsc-pslmrnacover",
@@ -1338,6 +1342,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"ucsc-pslmrnacover-357-h5eb252a_2.tar.bz2",
+"total":2418
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"ucsc-pslmrnacover-357-1.tar.bz2",
 "total":42
 },
@@ -1347,7 +1360,7 @@
 },
 {
 "basename":"ucsc-pslmrnacover-357-h5eb252a_2.tar.bz2",
-"total":2418
+"total":2420
 }
 ]
 }

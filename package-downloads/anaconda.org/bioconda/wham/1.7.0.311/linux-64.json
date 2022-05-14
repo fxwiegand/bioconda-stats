@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"wham-1.7.0.311-1.tar.bz2",
-"total":2380
+"total":2382
 },
 {
 "basename":"wham-1.7.0.311-0.tar.bz2",
@@ -1182,6 +1182,10 @@
 {
 "date":"2022-05-13",
 "total":5402
+},
+{
+"date":"2022-05-14",
+"total":5404
 }
 ],
 "package":"wham",
@@ -1377,6 +1381,15 @@
 {
 "basename":"wham-1.7.0.311-0.tar.bz2",
 "total":3022
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"wham-1.7.0.311-1.tar.bz2",
+"total":2382
 }
 ]
 }

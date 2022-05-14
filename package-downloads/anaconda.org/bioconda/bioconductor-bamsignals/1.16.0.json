@@ -1176,6 +1176,10 @@
 {
 "date":"2022-05-13",
 "total":2235
+},
+{
+"date":"2022-05-14",
+"total":2237
 }
 ],
 "downloads_per_subdir":[
@@ -1185,7 +1189,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2029
+"total":2031
 }
 ],
 "package":"bioconductor-bamsignals",
@@ -1380,6 +1384,15 @@
 {
 "subdir":"osx-64",
 "total":2029
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2031
 }
 ]
 }

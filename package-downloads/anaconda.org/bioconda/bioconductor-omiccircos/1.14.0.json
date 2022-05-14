@@ -1172,6 +1172,10 @@
 {
 "date":"2022-05-13",
 "total":3641
+},
+{
+"date":"2022-05-14",
+"total":3643
 }
 ],
 "downloads_per_subdir":[
@@ -1181,7 +1185,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2503
+"total":2505
 }
 ],
 "package":"bioconductor-omiccircos",
@@ -1393,6 +1397,15 @@
 {
 "subdir":"osx-64",
 "total":2503
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2505
 }
 ]
 }

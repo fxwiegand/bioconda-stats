@@ -31,7 +31,7 @@
 },
 {
 "basename":"bioconductor-biocsklearn-1.16.0-py39r41ha918546_1.tar.bz2",
-"total":181
+"total":183
 },
 {
 "basename":"bioconductor-biocsklearn-1.16.0-py310r41h832b226_0.tar.bz2",
@@ -558,6 +558,10 @@
 {
 "date":"2022-05-13",
 "total":437
+},
+{
+"date":"2022-05-14",
+"total":439
 }
 ],
 "package":"bioconductor-biocsklearn",
@@ -785,6 +789,15 @@
 {
 "basename":"bioconductor-biocsklearn-1.16.0-py39r41ha918546_1.tar.bz2",
 "total":181
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-biocsklearn-1.16.0-py39r41ha918546_1.tar.bz2",
+"total":183
 }
 ]
 }

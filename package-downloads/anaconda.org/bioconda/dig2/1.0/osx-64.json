@@ -15,7 +15,7 @@
 },
 {
 "basename":"dig2-1.0-hb4d813b_3.tar.bz2",
-"total":787
+"total":789
 },
 {
 "basename":"dig2-1.0-h470a237_1.tar.bz2",
@@ -1198,6 +1198,10 @@
 {
 "date":"2022-05-13",
 "total":2500
+},
+{
+"date":"2022-05-14",
+"total":2502
 }
 ],
 "package":"dig2",
@@ -1366,6 +1370,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"dig2-1.0-hb4d813b_3.tar.bz2",
+"total":787
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"dig2-1.0-ha5712d3_4.tar.bz2",
 "total":8
 },
@@ -1375,7 +1388,7 @@
 },
 {
 "basename":"dig2-1.0-hb4d813b_3.tar.bz2",
-"total":787
+"total":789
 }
 ]
 }

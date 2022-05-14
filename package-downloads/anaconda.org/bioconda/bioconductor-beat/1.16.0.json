@@ -1160,6 +1160,10 @@
 {
 "date":"2022-05-13",
 "total":3144
+},
+{
+"date":"2022-05-14",
+"total":3146
 }
 ],
 "downloads_per_subdir":[
@@ -1169,7 +1173,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2408
+"total":2410
 }
 ],
 "package":"bioconductor-beat",
@@ -1364,6 +1368,15 @@
 {
 "subdir":"osx-64",
 "total":2408
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2410
 }
 ]
 }

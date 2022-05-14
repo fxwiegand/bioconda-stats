@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-abarray-1.52.0-r36_1.tar.bz2",
-"total":603
+"total":605
 }
 ],
 "downloads_per_date":[
@@ -1030,6 +1030,10 @@
 {
 "date":"2022-05-13",
 "total":603
+},
+{
+"date":"2022-05-14",
+"total":605
 }
 ],
 "package":"bioconductor-abarray",
@@ -1193,6 +1197,15 @@
 {
 "basename":"bioconductor-abarray-1.52.0-r36_1.tar.bz2",
 "total":603
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-abarray-1.52.0-r36_1.tar.bz2",
+"total":605
 }
 ]
 }

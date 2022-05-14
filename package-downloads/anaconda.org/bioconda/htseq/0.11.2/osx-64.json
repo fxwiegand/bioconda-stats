@@ -23,7 +23,7 @@
 },
 {
 "basename":"htseq-0.11.2-py37h1702cab_1.tar.bz2",
-"total":2628
+"total":2630
 }
 ],
 "downloads_per_date":[
@@ -1190,6 +1190,10 @@
 {
 "date":"2022-05-13",
 "total":3818
+},
+{
+"date":"2022-05-14",
+"total":3820
 }
 ],
 "package":"htseq",
@@ -1374,6 +1378,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"htseq-0.11.2-py37h1702cab_1.tar.bz2",
+"total":2628
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"htseq-0.11.2-py27h7eb728f_0.tar.bz2",
 "total":112
 },
@@ -1383,7 +1396,7 @@
 },
 {
 "basename":"htseq-0.11.2-py37h1702cab_1.tar.bz2",
-"total":2628
+"total":2630
 }
 ]
 }

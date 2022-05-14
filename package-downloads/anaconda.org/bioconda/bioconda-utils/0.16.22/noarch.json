@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconda-utils-0.16.22-py_1.tar.bz2",
-"total":560
+"total":562
 }
 ],
 "downloads_per_date":[
@@ -1018,6 +1018,10 @@
 {
 "date":"2022-05-13",
 "total":625
+},
+{
+"date":"2022-05-14",
+"total":627
 }
 ],
 "package":"bioconda-utils",
@@ -1213,6 +1217,15 @@
 {
 "basename":"bioconda-utils-0.16.22-py_1.tar.bz2",
 "total":560
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"bioconda-utils-0.16.22-py_1.tar.bz2",
+"total":562
 }
 ]
 }

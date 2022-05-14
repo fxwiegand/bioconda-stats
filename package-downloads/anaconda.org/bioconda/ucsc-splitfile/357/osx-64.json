@@ -11,7 +11,7 @@
 },
 {
 "basename":"ucsc-splitfile-357-h5eb252a_2.tar.bz2",
-"total":2224
+"total":2226
 }
 ],
 "downloads_per_date":[
@@ -1190,6 +1190,10 @@
 {
 "date":"2022-05-13",
 "total":2542
+},
+{
+"date":"2022-05-14",
+"total":2544
 }
 ],
 "package":"ucsc-splitfile",
@@ -1351,6 +1355,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"ucsc-splitfile-357-h5eb252a_2.tar.bz2",
+"total":2224
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"ucsc-splitfile-357-1.tar.bz2",
 "total":39
 },
@@ -1360,7 +1373,7 @@
 },
 {
 "basename":"ucsc-splitfile-357-h5eb252a_2.tar.bz2",
-"total":2224
+"total":2226
 }
 ]
 }

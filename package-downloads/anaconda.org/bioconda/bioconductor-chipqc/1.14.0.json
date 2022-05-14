@@ -1156,6 +1156,10 @@
 {
 "date":"2022-05-13",
 "total":4461
+},
+{
+"date":"2022-05-14",
+"total":4463
 }
 ],
 "downloads_per_subdir":[
@@ -1165,7 +1169,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2481
+"total":2483
 }
 ],
 "package":"bioconductor-chipqc",
@@ -1368,6 +1372,15 @@
 {
 "subdir":"osx-64",
 "total":2481
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2483
 }
 ]
 }

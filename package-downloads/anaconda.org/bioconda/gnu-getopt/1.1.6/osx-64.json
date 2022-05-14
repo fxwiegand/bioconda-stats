@@ -15,7 +15,7 @@
 },
 {
 "basename":"gnu-getopt-1.1.6-4.tar.bz2",
-"total":3624
+"total":3626
 }
 ],
 "downloads_per_date":[
@@ -1194,6 +1194,10 @@
 {
 "date":"2022-05-13",
 "total":4321
+},
+{
+"date":"2022-05-14",
+"total":4323
 }
 ],
 "package":"gnu-getopt",
@@ -1346,6 +1350,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"gnu-getopt-1.1.6-4.tar.bz2",
+"total":3624
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"gnu-getopt-1.1.6-3.tar.bz2",
 "total":128
 },
@@ -1359,7 +1372,7 @@
 },
 {
 "basename":"gnu-getopt-1.1.6-4.tar.bz2",
-"total":3624
+"total":3626
 }
 ]
 }

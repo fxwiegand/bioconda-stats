@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-cocitestats-1.54.0-r351_0.tar.bz2",
-"total":603
+"total":605
 }
 ],
 "downloads_per_date":[
@@ -1022,6 +1022,10 @@
 {
 "date":"2022-05-13",
 "total":603
+},
+{
+"date":"2022-05-14",
+"total":605
 }
 ],
 "package":"bioconductor-cocitestats",
@@ -1176,6 +1180,15 @@
 {
 "basename":"bioconductor-cocitestats-1.54.0-r351_0.tar.bz2",
 "total":603
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cocitestats-1.54.0-r351_0.tar.bz2",
+"total":605
 }
 ]
 }

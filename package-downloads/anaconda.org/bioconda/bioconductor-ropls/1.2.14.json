@@ -1176,6 +1176,10 @@
 {
 "date":"2022-05-13",
 "total":5494
+},
+{
+"date":"2022-05-14",
+"total":5496
 }
 ],
 "downloads_per_subdir":[
@@ -1185,7 +1189,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2891
+"total":2893
 }
 ],
 "package":"bioconductor-ropls",
@@ -1405,6 +1409,15 @@
 {
 "subdir":"osx-64",
 "total":2891
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2893
 }
 ]
 }

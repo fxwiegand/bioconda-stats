@@ -896,6 +896,10 @@
 {
 "date":"2022-05-13",
 "total":604
+},
+{
+"date":"2022-05-14",
+"total":606
 }
 ],
 "downloads_per_subdir":[
@@ -905,7 +909,7 @@
 },
 {
 "subdir":"osx-64",
-"total":559
+"total":561
 }
 ],
 "package":"perl-atlas-modules",
@@ -1105,6 +1109,15 @@
 {
 "subdir":"osx-64",
 "total":559
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":561
 }
 ]
 }

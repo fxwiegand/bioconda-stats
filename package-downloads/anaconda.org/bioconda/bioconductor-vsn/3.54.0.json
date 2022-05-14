@@ -1176,6 +1176,10 @@
 {
 "date":"2022-05-13",
 "total":3770
+},
+{
+"date":"2022-05-14",
+"total":3772
 }
 ],
 "downloads_per_subdir":[
@@ -1185,7 +1189,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1937
+"total":1939
 }
 ],
 "package":"bioconductor-vsn",
@@ -1400,6 +1404,15 @@
 {
 "subdir":"osx-64",
 "total":1937
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1939
 }
 ]
 }

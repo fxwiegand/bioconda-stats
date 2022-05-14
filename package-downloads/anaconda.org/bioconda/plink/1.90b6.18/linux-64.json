@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"plink-1.90b6.18-h779adbc_1.tar.bz2",
-"total":782
+"total":783
 },
 {
 "basename":"plink-1.90b6.18-h516909a_0.tar.bz2",
@@ -994,6 +994,10 @@
 {
 "date":"2022-05-13",
 "total":5083
+},
+{
+"date":"2022-05-14",
+"total":5084
 }
 ],
 "package":"plink",
@@ -1170,6 +1174,15 @@
 {
 "basename":"plink-1.90b6.18-h516909a_0.tar.bz2",
 "total":4301
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"plink-1.90b6.18-h779adbc_1.tar.bz2",
+"total":783
 }
 ]
 }

@@ -47,7 +47,7 @@
 },
 {
 "basename":"hera-1.1-py36_1.tar.bz2",
-"total":2239
+"total":2241
 }
 ],
 "downloads_per_date":[
@@ -1226,6 +1226,10 @@
 {
 "date":"2022-05-13",
 "total":2876
+},
+{
+"date":"2022-05-14",
+"total":2878
 }
 ],
 "package":"hera",
@@ -1447,6 +1451,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"hera-1.1-py36_1.tar.bz2",
+"total":2239
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"hera-1.1-h9a6a550_7.tar.bz2",
 "total":5
 },
@@ -1464,7 +1477,7 @@
 },
 {
 "basename":"hera-1.1-py36_1.tar.bz2",
-"total":2239
+"total":2241
 }
 ]
 }

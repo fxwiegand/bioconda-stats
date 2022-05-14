@@ -23,7 +23,7 @@
 },
 {
 "basename":"crispresso2-2.2.6-py39hcd883a5_1.tar.bz2",
-"total":242
+"total":244
 }
 ],
 "downloads_per_date":[
@@ -598,6 +598,10 @@
 {
 "date":"2022-05-13",
 "total":513
+},
+{
+"date":"2022-05-14",
+"total":515
 }
 ],
 "package":"crispresso2",
@@ -759,6 +763,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"crispresso2-2.2.6-py39hcd883a5_1.tar.bz2",
+"total":242
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"crispresso2-2.2.6-py38hf97acc9_1.tar.bz2",
 "total":8
 },
@@ -780,7 +793,7 @@
 },
 {
 "basename":"crispresso2-2.2.6-py39hcd883a5_1.tar.bz2",
-"total":242
+"total":244
 }
 ]
 }

@@ -1172,6 +1172,10 @@
 {
 "date":"2022-05-13",
 "total":2526
+},
+{
+"date":"2022-05-14",
+"total":2528
 }
 ],
 "downloads_per_subdir":[
@@ -1181,7 +1185,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2351
+"total":2353
 }
 ],
 "package":"bioconductor-ibbig",
@@ -1385,6 +1389,15 @@
 {
 "subdir":"osx-64",
 "total":2351
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2353
 }
 ]
 }

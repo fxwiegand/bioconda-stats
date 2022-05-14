@@ -1176,6 +1176,10 @@
 {
 "date":"2022-05-13",
 "total":4201
+},
+{
+"date":"2022-05-14",
+"total":4203
 }
 ],
 "downloads_per_subdir":[
@@ -1185,7 +1189,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2550
+"total":2552
 }
 ],
 "package":"bioconductor-m3drop",
@@ -1397,6 +1401,15 @@
 {
 "subdir":"osx-64",
 "total":2550
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2552
 }
 ]
 }

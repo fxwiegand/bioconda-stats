@@ -100,6 +100,10 @@
 {
 "date":"2022-05-13",
 "total":184
+},
+{
+"date":"2022-05-14",
+"total":186
 }
 ],
 "downloads_per_subdir":[
@@ -109,7 +113,7 @@
 },
 {
 "subdir":"osx-64",
-"total":161
+"total":163
 }
 ],
 "package":"bioconductor-genenetworkbuilder",
@@ -313,6 +317,15 @@
 {
 "subdir":"osx-64",
 "total":161
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":163
 }
 ]
 }

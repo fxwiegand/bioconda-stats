@@ -1144,6 +1144,10 @@
 {
 "date":"2022-05-13",
 "total":2879
+},
+{
+"date":"2022-05-14",
+"total":2881
 }
 ],
 "downloads_per_subdir":[
@@ -1153,7 +1157,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2423
+"total":2425
 }
 ],
 "package":"bioconductor-annotationhubdata",
@@ -1348,6 +1352,15 @@
 {
 "subdir":"osx-64",
 "total":2423
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2425
 }
 ]
 }

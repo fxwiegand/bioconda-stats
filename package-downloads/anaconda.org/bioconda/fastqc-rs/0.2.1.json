@@ -1176,6 +1176,10 @@
 {
 "date":"2022-05-13",
 "total":1095
+},
+{
+"date":"2022-05-14",
+"total":1097
 }
 ],
 "downloads_per_subdir":[
@@ -1185,7 +1189,7 @@
 },
 {
 "subdir":"osx-64",
-"total":883
+"total":885
 }
 ],
 "package":"fastqc-rs",
@@ -1397,6 +1401,15 @@
 {
 "subdir":"osx-64",
 "total":883
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":885
 }
 ]
 }

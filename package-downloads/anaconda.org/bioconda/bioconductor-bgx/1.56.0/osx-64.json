@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-bgx-1.56.0-r40h832b226_2.tar.bz2",
-"total":733
+"total":735
 }
 ],
 "downloads_per_date":[
@@ -1166,6 +1166,10 @@
 {
 "date":"2022-05-13",
 "total":1047
+},
+{
+"date":"2022-05-14",
+"total":1049
 }
 ],
 "package":"bioconductor-bgx",
@@ -1318,6 +1322,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"bioconductor-bgx-1.56.0-r40h832b226_2.tar.bz2",
+"total":733
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"bioconductor-bgx-1.56.0-r40h64ad5ed_0.tar.bz2",
 "total":42
 },
@@ -1327,7 +1340,7 @@
 },
 {
 "basename":"bioconductor-bgx-1.56.0-r40h832b226_2.tar.bz2",
-"total":733
+"total":735
 }
 ]
 }

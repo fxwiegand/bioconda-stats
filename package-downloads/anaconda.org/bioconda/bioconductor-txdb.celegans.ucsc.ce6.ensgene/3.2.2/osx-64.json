@@ -750,6 +750,10 @@
 {
 "date":"2022-05-13",
 "total":2174
+},
+{
+"date":"2022-05-14",
+"total":2174
 }
 ],
 "package":"bioconductor-txdb.celegans.ucsc.ce6.ensgene",
@@ -767,6 +771,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"bioconductor-txdb.celegans.ucsc.ce6.ensgene-3.2.2-r351_3.tar.bz2",
+"total":1827
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"bioconductor-txdb.celegans.ucsc.ce6.ensgene-3.2.2-r3.3.2_0.tar.bz2",
 "total":46
 },
@@ -781,10 +794,6 @@
 {
 "basename":"bioconductor-txdb.celegans.ucsc.ce6.ensgene-3.2.2-r3.4.1_0.tar.bz2",
 "total":200
-},
-{
-"basename":"bioconductor-txdb.celegans.ucsc.ce6.ensgene-3.2.2-r351_3.tar.bz2",
-"total":1827
 }
 ]
 }

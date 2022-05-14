@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-pathnetdata-1.25.0-r40_0.tar.bz2",
-"total":512
+"total":515
 }
 ],
 "downloads_per_date":[
@@ -1010,6 +1010,10 @@
 {
 "date":"2022-05-13",
 "total":512
+},
+{
+"date":"2022-05-14",
+"total":515
 }
 ],
 "package":"bioconductor-pathnetdata",
@@ -1164,6 +1168,15 @@
 {
 "basename":"bioconductor-pathnetdata-1.25.0-r40_0.tar.bz2",
 "total":512
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pathnetdata-1.25.0-r40_0.tar.bz2",
+"total":515
 }
 ]
 }

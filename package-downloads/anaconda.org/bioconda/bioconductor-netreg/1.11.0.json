@@ -1172,6 +1172,10 @@
 {
 "date":"2022-05-13",
 "total":1510
+},
+{
+"date":"2022-05-14",
+"total":1512
 }
 ],
 "downloads_per_subdir":[
@@ -1181,7 +1185,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1406
+"total":1408
 }
 ],
 "package":"bioconductor-netreg",
@@ -1376,6 +1380,15 @@
 {
 "subdir":"osx-64",
 "total":1406
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1408
 }
 ]
 }

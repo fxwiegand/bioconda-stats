@@ -7,7 +7,7 @@
 },
 {
 "basename":"bwa-0.7.13-1.tar.bz2",
-"total":2200
+"total":2201
 }
 ],
 "downloads_per_date":[
@@ -458,6 +458,10 @@
 {
 "date":"2022-05-13",
 "total":3600
+},
+{
+"date":"2022-05-14",
+"total":3601
 }
 ],
 "package":"bwa",
@@ -630,6 +634,15 @@
 {
 "basename":"bwa-0.7.13-1.tar.bz2",
 "total":2200
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"bwa-0.7.13-1.tar.bz2",
+"total":2201
 }
 ]
 }

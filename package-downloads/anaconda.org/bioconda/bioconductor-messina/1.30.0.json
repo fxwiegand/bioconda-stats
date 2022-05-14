@@ -520,6 +520,10 @@
 {
 "date":"2022-05-13",
 "total":400
+},
+{
+"date":"2022-05-14",
+"total":402
 }
 ],
 "downloads_per_subdir":[
@@ -529,7 +533,7 @@
 },
 {
 "subdir":"osx-64",
-"total":335
+"total":337
 }
 ],
 "package":"bioconductor-messina",
@@ -736,6 +740,15 @@
 {
 "subdir":"osx-64",
 "total":335
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":337
 }
 ]
 }

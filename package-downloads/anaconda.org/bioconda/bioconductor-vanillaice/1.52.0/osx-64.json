@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-vanillaice-1.52.0-r40h8909d69_1.tar.bz2",
-"total":1004
+"total":1006
 }
 ],
 "downloads_per_date":[
@@ -1166,6 +1166,10 @@
 {
 "date":"2022-05-13",
 "total":1076
+},
+{
+"date":"2022-05-14",
+"total":1078
 }
 ],
 "package":"bioconductor-vanillaice",
@@ -1318,6 +1322,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"bioconductor-vanillaice-1.52.0-r40h8909d69_1.tar.bz2",
+"total":1004
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"bioconductor-vanillaice-1.52.0-r40h68a2ddb_2.tar.bz2",
 "total":26
 },
@@ -1327,7 +1340,7 @@
 },
 {
 "basename":"bioconductor-vanillaice-1.52.0-r40h8909d69_1.tar.bz2",
-"total":1004
+"total":1006
 }
 ]
 }

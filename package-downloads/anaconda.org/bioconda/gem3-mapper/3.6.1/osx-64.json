@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"gem3-mapper-3.6.1-h516f2a5_10.tar.bz2",
-"total":15
+"total":16
 },
 {
 "basename":"gem3-mapper-3.6.1-he4cf2ce_5.tar.bz2",
@@ -43,7 +43,7 @@
 },
 {
 "basename":"gem3-mapper-3.6.1-hfabea4d_7.tar.bz2",
-"total":2237
+"total":2239
 }
 ],
 "downloads_per_date":[
@@ -1222,6 +1222,10 @@
 {
 "date":"2022-05-13",
 "total":2869
+},
+{
+"date":"2022-05-14",
+"total":2872
 }
 ],
 "package":"gem3-mapper",
@@ -1439,6 +1443,19 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"gem3-mapper-3.6.1-hfabea4d_7.tar.bz2",
+"total":2237
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"gem3-mapper-3.6.1-h516f2a5_10.tar.bz2",
+"total":16
+},
+{
 "basename":"gem3-mapper-3.6.1-he4cf2ce_5.tar.bz2",
 "total":34
 },
@@ -1460,7 +1477,7 @@
 },
 {
 "basename":"gem3-mapper-3.6.1-hfabea4d_7.tar.bz2",
-"total":2237
+"total":2239
 }
 ]
 }

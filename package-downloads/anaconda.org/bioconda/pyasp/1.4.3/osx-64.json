@@ -23,7 +23,7 @@
 },
 {
 "basename":"pyasp-1.4.3-py36_1.tar.bz2",
-"total":2459
+"total":2461
 }
 ],
 "downloads_per_date":[
@@ -1198,6 +1198,10 @@
 {
 "date":"2022-05-13",
 "total":2713
+},
+{
+"date":"2022-05-14",
+"total":2715
 }
 ],
 "package":"pyasp",
@@ -1354,6 +1358,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"pyasp-1.4.3-py36_1.tar.bz2",
+"total":2459
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"pyasp-1.4.3-py27_1.tar.bz2",
 "total":40
 },
@@ -1371,7 +1384,7 @@
 },
 {
 "basename":"pyasp-1.4.3-py36_1.tar.bz2",
-"total":2459
+"total":2461
 }
 ]
 }

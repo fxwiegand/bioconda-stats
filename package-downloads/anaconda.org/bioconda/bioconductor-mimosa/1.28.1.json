@@ -1172,6 +1172,10 @@
 {
 "date":"2022-05-13",
 "total":859
+},
+{
+"date":"2022-05-14",
+"total":861
 }
 ],
 "downloads_per_subdir":[
@@ -1181,7 +1185,7 @@
 },
 {
 "subdir":"osx-64",
-"total":797
+"total":799
 }
 ],
 "package":"bioconductor-mimosa",
@@ -1381,6 +1385,15 @@
 {
 "subdir":"osx-64",
 "total":797
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":799
 }
 ]
 }

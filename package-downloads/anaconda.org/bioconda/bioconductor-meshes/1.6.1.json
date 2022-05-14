@@ -1176,6 +1176,10 @@
 {
 "date":"2022-05-13",
 "total":3046
+},
+{
+"date":"2022-05-14",
+"total":3048
 }
 ],
 "downloads_per_subdir":[
@@ -1185,7 +1189,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2508
+"total":2510
 }
 ],
 "package":"bioconductor-meshes",
@@ -1393,6 +1397,15 @@
 {
 "subdir":"osx-64",
 "total":2508
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2510
 }
 ]
 }

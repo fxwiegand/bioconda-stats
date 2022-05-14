@@ -27,7 +27,7 @@
 },
 {
 "basename":"ms2pip-3.6.3-py39hbf8eff0_1.tar.bz2",
-"total":158
+"total":160
 },
 {
 "basename":"ms2pip-3.6.3-py39h38f01e4_0.tar.bz2",
@@ -1194,6 +1194,10 @@
 {
 "date":"2022-05-13",
 "total":1181
+},
+{
+"date":"2022-05-14",
+"total":1183
 }
 ],
 "package":"ms2pip",
@@ -1612,6 +1616,15 @@
 {
 "basename":"ms2pip-3.6.3-py39h38f01e4_0.tar.bz2",
 "total":711
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"ms2pip-3.6.3-py39hbf8eff0_1.tar.bz2",
+"total":160
 }
 ]
 }

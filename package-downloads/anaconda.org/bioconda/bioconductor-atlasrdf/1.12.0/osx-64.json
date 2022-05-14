@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-atlasrdf-1.12.0-r3.4.1_0.tar.bz2",
-"total":2187
+"total":2189
 }
 ],
 "downloads_per_date":[
@@ -1178,6 +1178,10 @@
 {
 "date":"2022-05-13",
 "total":2544
+},
+{
+"date":"2022-05-14",
+"total":2546
 }
 ],
 "package":"bioconductor-atlasrdf",
@@ -1330,6 +1334,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"bioconductor-atlasrdf-1.12.0-r3.4.1_0.tar.bz2",
+"total":2187
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"bioconductor-atlasrdf-1.12.0-0.tar.bz2",
 "total":64
 },
@@ -1339,7 +1352,7 @@
 },
 {
 "basename":"bioconductor-atlasrdf-1.12.0-r3.4.1_0.tar.bz2",
-"total":2187
+"total":2189
 }
 ]
 }

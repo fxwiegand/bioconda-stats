@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"srnapipe-1.1-pl526r35_3.tar.bz2",
-"total":512
+"total":514
 }
 ],
 "downloads_per_date":[
@@ -1002,6 +1002,10 @@
 {
 "date":"2022-05-13",
 "total":512
+},
+{
+"date":"2022-05-14",
+"total":514
 }
 ],
 "package":"srnapipe",
@@ -1156,6 +1160,15 @@
 {
 "basename":"srnapipe-1.1-pl526r35_3.tar.bz2",
 "total":512
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"srnapipe-1.1-pl526r35_3.tar.bz2",
+"total":514
 }
 ]
 }

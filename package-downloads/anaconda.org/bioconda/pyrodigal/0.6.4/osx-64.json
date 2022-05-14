@@ -31,7 +31,7 @@
 },
 {
 "basename":"pyrodigal-0.6.4-py39ha492530_0.tar.bz2",
-"total":253
+"total":255
 }
 ],
 "downloads_per_date":[
@@ -342,6 +342,10 @@
 {
 "date":"2022-05-13",
 "total":305
+},
+{
+"date":"2022-05-14",
+"total":307
 }
 ],
 "package":"pyrodigal",
@@ -502,6 +506,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"pyrodigal-0.6.4-py39ha492530_0.tar.bz2",
+"total":253
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"pyrodigal-0.6.4-py36ha714b87_0.tar.bz2",
 "total":6
 },
@@ -527,7 +540,7 @@
 },
 {
 "basename":"pyrodigal-0.6.4-py39ha492530_0.tar.bz2",
-"total":253
+"total":255
 }
 ]
 }

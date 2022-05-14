@@ -1176,6 +1176,10 @@
 {
 "date":"2022-05-13",
 "total":1706
+},
+{
+"date":"2022-05-14",
+"total":1708
 }
 ],
 "downloads_per_subdir":[
@@ -1185,7 +1189,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1448
+"total":1450
 }
 ],
 "package":"bioconductor-monocle",
@@ -1397,6 +1401,15 @@
 {
 "subdir":"osx-64",
 "total":1448
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1450
 }
 ]
 }

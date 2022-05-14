@@ -1176,6 +1176,10 @@
 {
 "date":"2022-05-13",
 "total":2621
+},
+{
+"date":"2022-05-14",
+"total":2623
 }
 ],
 "downloads_per_subdir":[
@@ -1185,7 +1189,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2261
+"total":2263
 }
 ],
 "package":"bioconductor-rprotobuflib",
@@ -1393,6 +1397,15 @@
 {
 "subdir":"osx-64",
 "total":2261
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2263
 }
 ]
 }

@@ -1156,6 +1156,10 @@
 {
 "date":"2022-05-13",
 "total":3533
+},
+{
+"date":"2022-05-14",
+"total":3535
 }
 ],
 "downloads_per_subdir":[
@@ -1165,7 +1169,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2482
+"total":2484
 }
 ],
 "package":"bioconductor-flowcore",
@@ -1360,6 +1364,15 @@
 {
 "subdir":"osx-64",
 "total":2482
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2484
 }
 ]
 }

@@ -31,7 +31,7 @@
 },
 {
 "basename":"bioconductor-agprobe-2.18.0-r41hdfd78af_8.tar.bz2",
-"total":382
+"total":384
 }
 ],
 "downloads_per_date":[
@@ -1090,6 +1090,10 @@
 {
 "date":"2022-05-13",
 "total":1110
+},
+{
+"date":"2022-05-14",
+"total":1112
 }
 ],
 "package":"bioconductor-agprobe",
@@ -1449,6 +1453,15 @@
 {
 "basename":"bioconductor-agprobe-2.18.0-r41hdfd78af_8.tar.bz2",
 "total":382
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-agprobe-2.18.0-r41hdfd78af_8.tar.bz2",
+"total":384
 }
 ]
 }

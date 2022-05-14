@@ -15,7 +15,7 @@
 },
 {
 "basename":"picard-1.126-5.tar.bz2",
-"total":2466
+"total":2468
 }
 ],
 "downloads_per_date":[
@@ -1194,6 +1194,10 @@
 {
 "date":"2022-05-13",
 "total":3016
+},
+{
+"date":"2022-05-14",
+"total":3018
 }
 ],
 "package":"picard",
@@ -1363,6 +1367,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"picard-1.126-5.tar.bz2",
+"total":2466
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"picard-1.126-4.tar.bz2",
 "total":182
 },
@@ -1372,7 +1385,7 @@
 },
 {
 "basename":"picard-1.126-5.tar.bz2",
-"total":2466
+"total":2468
 }
 ]
 }

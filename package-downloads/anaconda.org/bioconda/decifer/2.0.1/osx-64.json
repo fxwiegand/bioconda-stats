@@ -11,7 +11,7 @@
 },
 {
 "basename":"decifer-2.0.1-py39hb01790b_0.tar.bz2",
-"total":400
+"total":402
 }
 ],
 "downloads_per_date":[
@@ -566,6 +566,10 @@
 {
 "date":"2022-05-13",
 "total":422
+},
+{
+"date":"2022-05-14",
+"total":424
 }
 ],
 "package":"decifer",
@@ -727,6 +731,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"decifer-2.0.1-py39hb01790b_0.tar.bz2",
+"total":400
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"decifer-2.0.1-py38h56ee2c9_0.tar.bz2",
 "total":10
 },
@@ -736,7 +749,7 @@
 },
 {
 "basename":"decifer-2.0.1-py39hb01790b_0.tar.bz2",
-"total":400
+"total":402
 }
 ]
 }

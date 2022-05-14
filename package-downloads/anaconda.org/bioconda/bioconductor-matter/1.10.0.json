@@ -1176,6 +1176,10 @@
 {
 "date":"2022-05-13",
 "total":2224
+},
+{
+"date":"2022-05-14",
+"total":2226
 }
 ],
 "downloads_per_subdir":[
@@ -1185,7 +1189,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2057
+"total":2059
 }
 ],
 "package":"bioconductor-matter",
@@ -1397,6 +1401,15 @@
 {
 "subdir":"osx-64",
 "total":2057
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2059
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"firecloud-0.16.28-py37hbeab489_0.tar.bz2",
-"total":1288
+"total":1290
 }
 ],
 "downloads_per_date":[
@@ -1190,6 +1190,10 @@
 {
 "date":"2022-05-13",
 "total":1360
+},
+{
+"date":"2022-05-14",
+"total":1362
 }
 ],
 "package":"firecloud",
@@ -1351,6 +1355,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"firecloud-0.16.28-py37hbeab489_0.tar.bz2",
+"total":1288
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"firecloud-0.16.28-py36h043d725_0.tar.bz2",
 "total":35
 },
@@ -1360,7 +1373,7 @@
 },
 {
 "basename":"firecloud-0.16.28-py37hbeab489_0.tar.bz2",
-"total":1288
+"total":1290
 }
 ]
 }

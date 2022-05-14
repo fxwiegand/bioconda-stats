@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-gmapr-1.36.0-r41h5c21468_1.tar.bz2",
-"total":23
+"total":24
 },
 {
 "basename":"bioconductor-gmapr-1.36.0-r41hd029910_0.tar.bz2",
@@ -202,6 +202,10 @@
 {
 "date":"2022-05-13",
 "total":74
+},
+{
+"date":"2022-05-14",
+"total":75
 }
 ],
 "package":"bioconductor-gmapr",
@@ -346,6 +350,15 @@
 {
 "basename":"bioconductor-gmapr-1.36.0-r41hd029910_0.tar.bz2",
 "total":51
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-gmapr-1.36.0-r41h5c21468_1.tar.bz2",
+"total":24
 }
 ]
 }

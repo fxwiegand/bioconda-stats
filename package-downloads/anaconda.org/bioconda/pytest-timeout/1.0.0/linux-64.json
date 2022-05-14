@@ -11,7 +11,7 @@
 },
 {
 "basename":"pytest-timeout-1.0.0-py36_0.tar.bz2",
-"total":5677
+"total":5679
 },
 {
 "basename":"pytest-timeout-1.0.0-py35_0.tar.bz2",
@@ -1190,6 +1190,10 @@
 {
 "date":"2022-05-13",
 "total":20122
+},
+{
+"date":"2022-05-14",
+"total":20124
 }
 ],
 "package":"pytest-timeout",
@@ -1437,6 +1441,15 @@
 {
 "basename":"pytest-timeout-1.0.0-py35_0.tar.bz2",
 "total":13180
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"pytest-timeout-1.0.0-py36_0.tar.bz2",
+"total":5679
 }
 ]
 }

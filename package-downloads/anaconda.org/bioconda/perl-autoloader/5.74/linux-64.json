@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-autoloader-5.74-pl526_2.tar.bz2",
-"total":72247
+"total":72361
 }
 ],
 "downloads_per_date":[
@@ -1190,6 +1190,10 @@
 {
 "date":"2022-05-13",
 "total":85810
+},
+{
+"date":"2022-05-14",
+"total":85924
 }
 ],
 "package":"perl-autoloader",
@@ -1449,6 +1453,15 @@
 {
 "basename":"perl-autoloader-5.74-pl526_2.tar.bz2",
 "total":72247
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"perl-autoloader-5.74-pl526_2.tar.bz2",
+"total":72361
 }
 ]
 }

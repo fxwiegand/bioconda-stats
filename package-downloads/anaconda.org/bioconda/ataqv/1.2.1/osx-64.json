@@ -47,7 +47,7 @@
 },
 {
 "basename":"ataqv-1.2.1-py39hb432549_2.tar.bz2",
-"total":784
+"total":786
 }
 ],
 "downloads_per_date":[
@@ -1226,6 +1226,10 @@
 {
 "date":"2022-05-13",
 "total":1529
+},
+{
+"date":"2022-05-14",
+"total":1531
 }
 ],
 "package":"ataqv",
@@ -1407,6 +1411,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"ataqv-1.2.1-py39hb432549_2.tar.bz2",
+"total":784
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"ataqv-1.2.1-py27h03aeb08_2.tar.bz2",
 "total":18
 },
@@ -1444,7 +1457,7 @@
 },
 {
 "basename":"ataqv-1.2.1-py39hb432549_2.tar.bz2",
-"total":784
+"total":786
 }
 ]
 }

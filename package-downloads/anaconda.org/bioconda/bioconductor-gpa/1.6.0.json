@@ -532,6 +532,10 @@
 {
 "date":"2022-05-13",
 "total":448
+},
+{
+"date":"2022-05-14",
+"total":450
 }
 ],
 "downloads_per_subdir":[
@@ -541,7 +545,7 @@
 },
 {
 "subdir":"osx-64",
-"total":388
+"total":390
 }
 ],
 "package":"bioconductor-gpa",
@@ -749,6 +753,15 @@
 {
 "subdir":"osx-64",
 "total":388
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":390
 }
 ]
 }

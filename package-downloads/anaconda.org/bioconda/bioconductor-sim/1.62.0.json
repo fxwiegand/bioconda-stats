@@ -1128,6 +1128,10 @@
 {
 "date":"2022-05-13",
 "total":728
+},
+{
+"date":"2022-05-14",
+"total":730
 }
 ],
 "downloads_per_subdir":[
@@ -1137,7 +1141,7 @@
 },
 {
 "subdir":"osx-64",
-"total":666
+"total":668
 }
 ],
 "package":"bioconductor-sim",
@@ -1337,6 +1341,15 @@
 {
 "subdir":"osx-64",
 "total":666
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":668
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"samtools-1.15-hb35f05f_0.tar.bz2",
-"total":1156
+"total":1158
 },
 {
 "basename":"samtools-1.15-h9f30945_1.tar.bz2",
@@ -110,6 +110,10 @@
 {
 "date":"2022-05-13",
 "total":7141
+},
+{
+"date":"2022-05-14",
+"total":7143
 }
 ],
 "package":"samtools",
@@ -325,6 +329,15 @@
 {
 "basename":"samtools-1.15-hb35f05f_0.tar.bz2",
 "total":1156
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"samtools-1.15-hb35f05f_0.tar.bz2",
+"total":1158
 }
 ]
 }

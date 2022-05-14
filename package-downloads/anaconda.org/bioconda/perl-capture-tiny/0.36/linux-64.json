@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-capture-tiny-0.36-0.tar.bz2",
-"total":7683
+"total":7684
 },
 {
 "basename":"perl-capture-tiny-0.36-pl526_2.tar.bz2",
@@ -766,6 +766,10 @@
 {
 "date":"2022-05-13",
 "total":18258
+},
+{
+"date":"2022-05-14",
+"total":18259
 }
 ],
 "package":"perl-capture-tiny",
@@ -962,6 +966,15 @@
 {
 "basename":"perl-capture-tiny-0.36-pl526_2.tar.bz2",
 "total":10256
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"perl-capture-tiny-0.36-0.tar.bz2",
+"total":7684
 }
 ]
 }

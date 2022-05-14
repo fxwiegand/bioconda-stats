@@ -11,7 +11,7 @@
 },
 {
 "basename":"r-rblast-0.99.1-r41h9ee0642_5.tar.bz2",
-"total":255
+"total":256
 },
 {
 "basename":"r-rblast-0.99.1-r3.3.1_0.tar.bz2",
@@ -834,6 +834,10 @@
 {
 "date":"2022-05-13",
 "total":2443
+},
+{
+"date":"2022-05-14",
+"total":2444
 }
 ],
 "package":"r-rblast",
@@ -1179,6 +1183,15 @@
 {
 "basename":"r-rblast-0.99.1-r3.3.2_0.tar.bz2",
 "total":579
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"r-rblast-0.99.1-r41h9ee0642_5.tar.bz2",
+"total":256
 }
 ]
 }

@@ -1172,6 +1172,10 @@
 {
 "date":"2022-05-13",
 "total":5123
+},
+{
+"date":"2022-05-14",
+"total":5125
 }
 ],
 "downloads_per_subdir":[
@@ -1181,7 +1185,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2874
+"total":2876
 }
 ],
 "package":"perl-perlio-utf8_strict",
@@ -1401,6 +1405,15 @@
 {
 "subdir":"osx-64",
 "total":2874
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2876
 }
 ]
 }

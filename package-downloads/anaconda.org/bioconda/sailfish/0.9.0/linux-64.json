@@ -7,7 +7,7 @@
 },
 {
 "basename":"sailfish-0.9.0-boost1.60_1.tar.bz2",
-"total":2706
+"total":2708
 },
 {
 "basename":"sailfish-0.9.0-1.tar.bz2",
@@ -1190,6 +1190,10 @@
 {
 "date":"2022-05-13",
 "total":6650
+},
+{
+"date":"2022-05-14",
+"total":6652
 }
 ],
 "package":"sailfish",
@@ -1424,6 +1428,15 @@
 {
 "basename":"sailfish-0.9.0-1.tar.bz2",
 "total":2902
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"sailfish-0.9.0-boost1.60_1.tar.bz2",
+"total":2708
 }
 ]
 }

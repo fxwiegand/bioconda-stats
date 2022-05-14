@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-cgen-3.20.0-r36hd44dcd8_1.tar.bz2",
-"total":2064
+"total":2066
 }
 ],
 "downloads_per_date":[
@@ -1190,6 +1190,10 @@
 {
 "date":"2022-05-13",
 "total":2266
+},
+{
+"date":"2022-05-14",
+"total":2268
 }
 ],
 "package":"bioconductor-cgen",
@@ -1351,6 +1355,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"bioconductor-cgen-3.20.0-r36hd44dcd8_1.tar.bz2",
+"total":2064
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"bioconductor-cgen-3.20.0-r36h4bb4525_1.tar.bz2",
 "total":27
 },
@@ -1360,7 +1373,7 @@
 },
 {
 "basename":"bioconductor-cgen-3.20.0-r36hd44dcd8_1.tar.bz2",
-"total":2064
+"total":2066
 }
 ]
 }

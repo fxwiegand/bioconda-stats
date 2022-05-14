@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-posix-1.38_03-pl526_1.tar.bz2",
-"total":3201
+"total":3204
 }
 ],
 "downloads_per_date":[
@@ -1090,6 +1090,10 @@
 {
 "date":"2022-05-13",
 "total":4650
+},
+{
+"date":"2022-05-14",
+"total":4653
 }
 ],
 "package":"perl-posix",
@@ -1280,6 +1284,15 @@
 {
 "basename":"perl-posix-1.38_03-pl526_1.tar.bz2",
 "total":3201
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"perl-posix-1.38_03-pl526_1.tar.bz2",
+"total":3204
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"java-jdk-8.0.112-1.tar.bz2",
-"total":17549
+"total":17566
 }
 ],
 "downloads_per_date":[
@@ -1162,6 +1162,10 @@
 {
 "date":"2022-05-13",
 "total":23809
+},
+{
+"date":"2022-05-14",
+"total":23826
 }
 ],
 "package":"java-jdk",
@@ -1369,6 +1373,15 @@
 {
 "basename":"java-jdk-8.0.112-1.tar.bz2",
 "total":17549
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"java-jdk-8.0.112-1.tar.bz2",
+"total":17566
 }
 ]
 }

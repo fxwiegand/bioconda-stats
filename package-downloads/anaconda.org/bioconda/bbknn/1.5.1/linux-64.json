@@ -11,7 +11,7 @@
 },
 {
 "basename":"bbknn-1.5.1-py37h8902056_2.tar.bz2",
-"total":74
+"total":76
 },
 {
 "basename":"bbknn-1.5.1-py36hc5360cc_1.tar.bz2",
@@ -994,6 +994,10 @@
 {
 "date":"2022-05-13",
 "total":1048
+},
+{
+"date":"2022-05-14",
+"total":1050
 }
 ],
 "package":"bbknn",
@@ -1533,6 +1537,15 @@
 {
 "basename":"bbknn-1.5.1-py37h73a75cf_1.tar.bz2",
 "total":218
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"bbknn-1.5.1-py37h8902056_2.tar.bz2",
+"total":76
 }
 ]
 }

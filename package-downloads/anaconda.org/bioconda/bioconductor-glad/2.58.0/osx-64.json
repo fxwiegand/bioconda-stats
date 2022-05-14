@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-glad-2.58.0-r41hfef76df_1.tar.bz2",
-"total":218
+"total":220
 }
 ],
 "downloads_per_date":[
@@ -534,6 +534,10 @@
 {
 "date":"2022-05-13",
 "total":377
+},
+{
+"date":"2022-05-14",
+"total":379
 }
 ],
 "package":"bioconductor-glad",
@@ -686,6 +690,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"bioconductor-glad-2.58.0-r41hfef76df_1.tar.bz2",
+"total":218
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"bioconductor-glad-2.58.0-r41h1b458a1_2.tar.bz2",
 "total":10
 },
@@ -695,7 +708,7 @@
 },
 {
 "basename":"bioconductor-glad-2.58.0-r41hfef76df_1.tar.bz2",
-"total":218
+"total":220
 }
 ]
 }

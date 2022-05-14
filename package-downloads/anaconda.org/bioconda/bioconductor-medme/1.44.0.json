@@ -1144,6 +1144,10 @@
 {
 "date":"2022-05-13",
 "total":2070
+},
+{
+"date":"2022-05-14",
+"total":2072
 }
 ],
 "downloads_per_subdir":[
@@ -1153,7 +1157,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1947
+"total":1949
 }
 ],
 "package":"bioconductor-medme",
@@ -1352,6 +1356,15 @@
 {
 "subdir":"osx-64",
 "total":1947
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1949
 }
 ]
 }

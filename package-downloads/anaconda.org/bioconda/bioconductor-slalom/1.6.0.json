@@ -1156,6 +1156,10 @@
 {
 "date":"2022-05-13",
 "total":2111
+},
+{
+"date":"2022-05-14",
+"total":2113
 }
 ],
 "downloads_per_subdir":[
@@ -1165,7 +1169,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1957
+"total":1959
 }
 ],
 "package":"bioconductor-slalom",
@@ -1356,6 +1360,15 @@
 {
 "subdir":"osx-64",
 "total":1957
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1959
 }
 ]
 }

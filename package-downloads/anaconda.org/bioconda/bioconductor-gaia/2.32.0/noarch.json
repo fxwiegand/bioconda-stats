@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-gaia-2.32.0-r40_0.tar.bz2",
-"total":552
+"total":555
 }
 ],
 "downloads_per_date":[
@@ -1034,6 +1034,10 @@
 {
 "date":"2022-05-13",
 "total":552
+},
+{
+"date":"2022-05-14",
+"total":555
 }
 ],
 "package":"bioconductor-gaia",
@@ -1188,6 +1192,15 @@
 {
 "basename":"bioconductor-gaia-2.32.0-r40_0.tar.bz2",
 "total":552
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-gaia-2.32.0-r40_0.tar.bz2",
+"total":555
 }
 ]
 }

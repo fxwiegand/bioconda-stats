@@ -100,6 +100,10 @@
 {
 "date":"2022-05-13",
 "total":167
+},
+{
+"date":"2022-05-14",
+"total":169
 }
 ],
 "downloads_per_subdir":[
@@ -109,7 +113,7 @@
 },
 {
 "subdir":"osx-64",
-"total":147
+"total":149
 }
 ],
 "package":"bioconductor-targetsearch",
@@ -313,6 +317,15 @@
 {
 "subdir":"osx-64",
 "total":147
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":149
 }
 ]
 }

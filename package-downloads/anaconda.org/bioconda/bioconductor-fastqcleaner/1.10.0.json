@@ -1124,6 +1124,10 @@
 {
 "date":"2022-05-13",
 "total":742
+},
+{
+"date":"2022-05-14",
+"total":744
 }
 ],
 "downloads_per_subdir":[
@@ -1133,7 +1137,7 @@
 },
 {
 "subdir":"osx-64",
-"total":666
+"total":668
 }
 ],
 "package":"bioconductor-fastqcleaner",
@@ -1337,6 +1341,15 @@
 {
 "subdir":"osx-64",
 "total":666
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":668
 }
 ]
 }

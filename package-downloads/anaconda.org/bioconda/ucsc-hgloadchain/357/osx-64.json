@@ -11,7 +11,7 @@
 },
 {
 "basename":"ucsc-hgloadchain-357-h5eb252a_2.tar.bz2",
-"total":2265
+"total":2267
 }
 ],
 "downloads_per_date":[
@@ -1186,6 +1186,10 @@
 {
 "date":"2022-05-13",
 "total":2511
+},
+{
+"date":"2022-05-14",
+"total":2513
 }
 ],
 "package":"ucsc-hgloadchain",
@@ -1338,6 +1342,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"ucsc-hgloadchain-357-h5eb252a_2.tar.bz2",
+"total":2265
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"ucsc-hgloadchain-357-0.tar.bz2",
 "total":43
 },
@@ -1347,7 +1360,7 @@
 },
 {
 "basename":"ucsc-hgloadchain-357-h5eb252a_2.tar.bz2",
-"total":2265
+"total":2267
 }
 ]
 }

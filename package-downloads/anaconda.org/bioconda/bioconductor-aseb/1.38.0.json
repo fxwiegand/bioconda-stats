@@ -532,6 +532,10 @@
 {
 "date":"2022-05-13",
 "total":459
+},
+{
+"date":"2022-05-14",
+"total":461
 }
 ],
 "downloads_per_subdir":[
@@ -541,7 +545,7 @@
 },
 {
 "subdir":"osx-64",
-"total":400
+"total":402
 }
 ],
 "package":"bioconductor-aseb",
@@ -753,6 +757,15 @@
 {
 "subdir":"osx-64",
 "total":400
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":402
 }
 ]
 }

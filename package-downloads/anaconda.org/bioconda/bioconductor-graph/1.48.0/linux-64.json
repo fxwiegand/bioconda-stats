@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-graph-1.48.0-1.tar.bz2",
-"total":4348
+"total":4349
 }
 ],
 "downloads_per_date":[
@@ -774,6 +774,10 @@
 {
 "date":"2022-05-13",
 "total":5701
+},
+{
+"date":"2022-05-14",
+"total":5702
 }
 ],
 "package":"bioconductor-graph",
@@ -986,6 +990,15 @@
 {
 "basename":"bioconductor-graph-1.48.0-1.tar.bz2",
 "total":4348
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-graph-1.48.0-1.tar.bz2",
+"total":4349
 }
 ]
 }

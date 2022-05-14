@@ -532,6 +532,10 @@
 {
 "date":"2022-05-13",
 "total":409
+},
+{
+"date":"2022-05-14",
+"total":411
 }
 ],
 "downloads_per_subdir":[
@@ -541,7 +545,7 @@
 },
 {
 "subdir":"osx-64",
-"total":358
+"total":360
 }
 ],
 "package":"bioconductor-plier",
@@ -753,6 +757,15 @@
 {
 "subdir":"osx-64",
 "total":358
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":360
 }
 ]
 }

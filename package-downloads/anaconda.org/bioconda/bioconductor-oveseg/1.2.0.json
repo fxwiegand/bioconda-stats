@@ -1176,6 +1176,10 @@
 {
 "date":"2022-05-13",
 "total":1948
+},
+{
+"date":"2022-05-14",
+"total":1950
 }
 ],
 "downloads_per_subdir":[
@@ -1185,7 +1189,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1831
+"total":1833
 }
 ],
 "package":"bioconductor-oveseg",
@@ -1397,6 +1401,15 @@
 {
 "subdir":"osx-64",
 "total":1831
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1833
 }
 ]
 }

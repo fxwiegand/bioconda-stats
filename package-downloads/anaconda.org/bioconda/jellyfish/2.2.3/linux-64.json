@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"jellyfish-2.2.3-h6bb024c_3.tar.bz2",
-"total":551
+"total":560
 },
 {
 "basename":"jellyfish-2.2.3-h2d50403_2.tar.bz2",
@@ -730,6 +730,10 @@
 {
 "date":"2022-05-13",
 "total":3825
+},
+{
+"date":"2022-05-14",
+"total":3834
 }
 ],
 "package":"jellyfish",
@@ -1020,6 +1024,15 @@
 {
 "basename":"jellyfish-2.2.3-1.tar.bz2",
 "total":1663
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"jellyfish-2.2.3-h6bb024c_3.tar.bz2",
+"total":560
 }
 ]
 }

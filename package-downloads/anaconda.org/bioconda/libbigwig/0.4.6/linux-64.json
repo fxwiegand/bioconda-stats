@@ -7,7 +7,7 @@
 },
 {
 "basename":"libbigwig-0.4.6-h80b0bb3_0.tar.bz2",
-"total":368
+"total":370
 },
 {
 "basename":"libbigwig-0.4.6-h1b8c3c0_1.tar.bz2",
@@ -1078,6 +1078,10 @@
 {
 "date":"2022-05-13",
 "total":1143
+},
+{
+"date":"2022-05-14",
+"total":1145
 }
 ],
 "package":"libbigwig",
@@ -1336,6 +1340,15 @@
 {
 "basename":"libbigwig-0.4.6-h1b8c3c0_1.tar.bz2",
 "total":565
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"libbigwig-0.4.6-h80b0bb3_0.tar.bz2",
+"total":370
 }
 ]
 }

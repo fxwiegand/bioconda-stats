@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rbowtie2-2.0.0-r41h258f9e0_1.tar.bz2",
-"total":42
+"total":43
 },
 {
 "basename":"bioconductor-rbowtie2-2.0.0-r41h56e01b2_0.tar.bz2",
@@ -250,6 +250,10 @@
 {
 "date":"2022-05-13",
 "total":105
+},
+{
+"date":"2022-05-14",
+"total":106
 }
 ],
 "package":"bioconductor-rbowtie2",
@@ -416,6 +420,15 @@
 {
 "basename":"bioconductor-rbowtie2-2.0.0-r41h56e01b2_0.tar.bz2",
 "total":63
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rbowtie2-2.0.0-r41h258f9e0_1.tar.bz2",
+"total":43
 }
 ]
 }

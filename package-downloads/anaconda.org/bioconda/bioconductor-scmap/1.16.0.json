@@ -524,6 +524,10 @@
 {
 "date":"2022-05-13",
 "total":519
+},
+{
+"date":"2022-05-14",
+"total":521
 }
 ],
 "downloads_per_subdir":[
@@ -533,7 +537,7 @@
 },
 {
 "subdir":"osx-64",
-"total":409
+"total":411
 }
 ],
 "package":"bioconductor-scmap",
@@ -749,6 +753,15 @@
 {
 "subdir":"osx-64",
 "total":409
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":411
 }
 ]
 }

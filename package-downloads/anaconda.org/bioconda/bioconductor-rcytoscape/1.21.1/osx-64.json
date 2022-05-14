@@ -15,7 +15,7 @@
 },
 {
 "basename":"bioconductor-rcytoscape-1.21.1-r3.4.1_0.tar.bz2",
-"total":2125
+"total":2127
 }
 ],
 "downloads_per_date":[
@@ -1162,6 +1162,10 @@
 {
 "date":"2022-05-13",
 "total":2715
+},
+{
+"date":"2022-05-14",
+"total":2717
 }
 ],
 "package":"bioconductor-rcytoscape",
@@ -1314,6 +1318,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"bioconductor-rcytoscape-1.21.1-r3.4.1_0.tar.bz2",
+"total":2125
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"bioconductor-rcytoscape-1.21.1-r3.3.2_0.tar.bz2",
 "total":49
 },
@@ -1327,7 +1340,7 @@
 },
 {
 "basename":"bioconductor-rcytoscape-1.21.1-r3.4.1_0.tar.bz2",
-"total":2125
+"total":2127
 }
 ]
 }

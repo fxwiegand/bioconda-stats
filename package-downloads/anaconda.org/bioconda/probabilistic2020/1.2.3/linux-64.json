@@ -63,7 +63,7 @@
 },
 {
 "basename":"probabilistic2020-1.2.3-py37hfcd875c_5.tar.bz2",
-"total":159
+"total":161
 },
 {
 "basename":"probabilistic2020-1.2.3-py37hb3f55d8_0.tar.bz2",
@@ -1242,6 +1242,10 @@
 {
 "date":"2022-05-13",
 "total":2402
+},
+{
+"date":"2022-05-14",
+"total":2404
 }
 ],
 "package":"probabilistic2020",
@@ -1929,6 +1933,15 @@
 {
 "basename":"probabilistic2020-1.2.3-py37hb3f55d8_0.tar.bz2",
 "total":1430
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"probabilistic2020-1.2.3-py37hfcd875c_5.tar.bz2",
+"total":161
 }
 ]
 }

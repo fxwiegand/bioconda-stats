@@ -1124,6 +1124,10 @@
 {
 "date":"2022-05-13",
 "total":1209
+},
+{
+"date":"2022-05-14",
+"total":1211
 }
 ],
 "downloads_per_subdir":[
@@ -1133,7 +1137,7 @@
 },
 {
 "subdir":"osx-64",
-"total":731
+"total":733
 }
 ],
 "package":"bioconductor-cner",
@@ -1329,6 +1333,15 @@
 {
 "subdir":"osx-64",
 "total":731
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":733
 }
 ]
 }

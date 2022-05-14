@@ -11,7 +11,7 @@
 },
 {
 "basename":"msaboot-0.1.1-py36_1.tar.bz2",
-"total":2240
+"total":2242
 }
 ],
 "downloads_per_date":[
@@ -1190,6 +1190,10 @@
 {
 "date":"2022-05-13",
 "total":2539
+},
+{
+"date":"2022-05-14",
+"total":2541
 }
 ],
 "package":"msaboot",
@@ -1351,6 +1355,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"msaboot-0.1.1-py36_1.tar.bz2",
+"total":2240
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"msaboot-0.1.1-py27_1.tar.bz2",
 "total":109
 },
@@ -1360,7 +1373,7 @@
 },
 {
 "basename":"msaboot-0.1.1-py36_1.tar.bz2",
-"total":2240
+"total":2242
 }
 ]
 }

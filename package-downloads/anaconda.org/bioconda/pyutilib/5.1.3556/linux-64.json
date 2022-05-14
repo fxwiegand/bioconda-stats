@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"pyutilib-5.1.3556-py34_0.tar.bz2",
-"total":3023
+"total":3025
 },
 {
 "basename":"pyutilib-5.1.3556-py27_0.tar.bz2",
@@ -1186,6 +1186,10 @@
 {
 "date":"2022-05-13",
 "total":10101
+},
+{
+"date":"2022-05-14",
+"total":10103
 }
 ],
 "package":"pyutilib",
@@ -1401,6 +1405,15 @@
 {
 "basename":"pyutilib-5.1.3556-py27_0.tar.bz2",
 "total":7078
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"pyutilib-5.1.3556-py34_0.tar.bz2",
+"total":3025
 }
 ]
 }

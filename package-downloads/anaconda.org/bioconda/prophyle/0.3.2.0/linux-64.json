@@ -11,7 +11,7 @@
 },
 {
 "basename":"prophyle-0.3.2.0-py37h09c1ff4_1.tar.bz2",
-"total":38
+"total":44
 },
 {
 "basename":"prophyle-0.3.2.0-py38h8e3bb3f_0.tar.bz2",
@@ -414,6 +414,10 @@
 {
 "date":"2022-05-13",
 "total":347
+},
+{
+"date":"2022-05-14",
+"total":353
 }
 ],
 "package":"prophyle",
@@ -802,6 +806,15 @@
 {
 "basename":"prophyle-0.3.2.0-py39h98c8e45_0.tar.bz2",
 "total":59
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"prophyle-0.3.2.0-py37h09c1ff4_1.tar.bz2",
+"total":44
 }
 ]
 }

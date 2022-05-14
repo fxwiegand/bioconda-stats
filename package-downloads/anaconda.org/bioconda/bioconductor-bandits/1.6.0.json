@@ -1176,6 +1176,10 @@
 {
 "date":"2022-05-13",
 "total":1262
+},
+{
+"date":"2022-05-14",
+"total":1264
 }
 ],
 "downloads_per_subdir":[
@@ -1185,7 +1189,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1111
+"total":1113
 }
 ],
 "package":"bioconductor-bandits",
@@ -1393,6 +1397,15 @@
 {
 "subdir":"osx-64",
 "total":1111
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1113
 }
 ]
 }

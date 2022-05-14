@@ -15,7 +15,7 @@
 },
 {
 "basename":"jcvi-1.1.12-py39hb75ba9e_0.tar.bz2",
-"total":757
+"total":759
 }
 ],
 "downloads_per_date":[
@@ -1194,6 +1194,10 @@
 {
 "date":"2022-05-13",
 "total":843
+},
+{
+"date":"2022-05-14",
+"total":845
 }
 ],
 "package":"jcvi",
@@ -1355,6 +1359,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"jcvi-1.1.12-py39hb75ba9e_0.tar.bz2",
+"total":757
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"jcvi-1.1.12-py38hceac98e_0.tar.bz2",
 "total":28
 },
@@ -1368,7 +1381,7 @@
 },
 {
 "basename":"jcvi-1.1.12-py39hb75ba9e_0.tar.bz2",
-"total":757
+"total":759
 }
 ]
 }

@@ -1176,6 +1176,10 @@
 {
 "date":"2022-05-13",
 "total":2543
+},
+{
+"date":"2022-05-14",
+"total":2545
 }
 ],
 "downloads_per_subdir":[
@@ -1185,7 +1189,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2226
+"total":2228
 }
 ],
 "package":"bioconductor-coregnet",
@@ -1397,6 +1401,15 @@
 {
 "subdir":"osx-64",
 "total":2226
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2228
 }
 ]
 }

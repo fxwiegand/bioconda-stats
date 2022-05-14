@@ -63,7 +63,7 @@
 },
 {
 "basename":"gat-1.3.6-py39h66c2135_4.tar.bz2",
-"total":151
+"total":153
 },
 {
 "basename":"gat-1.3.6-py38h5e8ddb4_2.tar.bz2",
@@ -1234,6 +1234,10 @@
 {
 "date":"2022-05-13",
 "total":2439
+},
+{
+"date":"2022-05-14",
+"total":2441
 }
 ],
 "package":"gat",
@@ -1466,6 +1470,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"gat-1.3.6-py39h66c2135_4.tar.bz2",
+"total":151
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"gat-1.3.6-py27h6ca02f4_4.tar.bz2",
 "total":9
 },
@@ -1495,7 +1508,7 @@
 },
 {
 "basename":"gat-1.3.6-py39h66c2135_4.tar.bz2",
-"total":151
+"total":153
 },
 {
 "basename":"gat-1.3.6-py38h5e8ddb4_2.tar.bz2",

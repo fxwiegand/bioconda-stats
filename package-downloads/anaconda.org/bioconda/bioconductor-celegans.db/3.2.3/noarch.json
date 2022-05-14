@@ -27,7 +27,7 @@
 },
 {
 "basename":"bioconductor-celegans.db-3.2.3-r41hdfd78af_7.tar.bz2",
-"total":543
+"total":545
 }
 ],
 "downloads_per_date":[
@@ -1082,6 +1082,10 @@
 {
 "date":"2022-05-13",
 "total":1100
+},
+{
+"date":"2022-05-14",
+"total":1102
 }
 ],
 "package":"bioconductor-celegans.db",
@@ -1417,6 +1421,15 @@
 {
 "basename":"bioconductor-celegans.db-3.2.3-r41hdfd78af_7.tar.bz2",
 "total":543
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-celegans.db-3.2.3-r41hdfd78af_7.tar.bz2",
+"total":545
 }
 ]
 }

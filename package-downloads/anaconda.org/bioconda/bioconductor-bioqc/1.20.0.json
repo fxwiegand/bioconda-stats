@@ -1124,6 +1124,10 @@
 {
 "date":"2022-05-13",
 "total":777
+},
+{
+"date":"2022-05-14",
+"total":779
 }
 ],
 "downloads_per_subdir":[
@@ -1133,7 +1137,7 @@
 },
 {
 "subdir":"osx-64",
-"total":680
+"total":682
 }
 ],
 "package":"bioconductor-bioqc",
@@ -1341,6 +1345,15 @@
 {
 "subdir":"osx-64",
 "total":680
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":682
 }
 ]
 }

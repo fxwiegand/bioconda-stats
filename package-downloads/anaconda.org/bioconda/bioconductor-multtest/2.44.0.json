@@ -1176,6 +1176,10 @@
 {
 "date":"2022-05-13",
 "total":2330
+},
+{
+"date":"2022-05-14",
+"total":2332
 }
 ],
 "downloads_per_subdir":[
@@ -1185,7 +1189,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1482
+"total":1484
 }
 ],
 "package":"bioconductor-multtest",
@@ -1405,6 +1409,15 @@
 {
 "subdir":"osx-64",
 "total":1482
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1484
 }
 ]
 }

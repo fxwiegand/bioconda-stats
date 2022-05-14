@@ -15,7 +15,7 @@
 },
 {
 "basename":"rsa-3.1.4-py36_0.tar.bz2",
-"total":4499
+"total":4501
 }
 ],
 "downloads_per_date":[
@@ -1194,6 +1194,10 @@
 {
 "date":"2022-05-13",
 "total":6315
+},
+{
+"date":"2022-05-14",
+"total":6317
 }
 ],
 "package":"rsa",
@@ -1363,6 +1367,15 @@
 "date":"2022-05-13",
 "downloads_per_basename":[
 {
+"basename":"rsa-3.1.4-py36_0.tar.bz2",
+"total":4499
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
 "basename":"rsa-3.1.4-py34_0.tar.bz2",
 "total":229
 },
@@ -1372,7 +1385,7 @@
 },
 {
 "basename":"rsa-3.1.4-py36_0.tar.bz2",
-"total":4499
+"total":4501
 }
 ]
 }

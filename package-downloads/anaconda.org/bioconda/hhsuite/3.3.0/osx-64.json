@@ -83,7 +83,7 @@
 },
 {
 "basename":"hhsuite-3.3.0-py39pl5321hd02194f_4.tar.bz2",
-"total":178
+"total":180
 },
 {
 "basename":"hhsuite-3.3.0-py38pl526hfa815b7_0.tar.bz2",
@@ -1270,6 +1270,10 @@
 {
 "date":"2022-05-13",
 "total":2202
+},
+{
+"date":"2022-05-14",
+"total":2204
 }
 ],
 "package":"hhsuite",
@@ -1805,6 +1809,15 @@
 {
 "basename":"hhsuite-3.3.0-py39pl5321hd02194f_4.tar.bz2",
 "total":178
+}
+]
+},
+{
+"date":"2022-05-14",
+"downloads_per_basename":[
+{
+"basename":"hhsuite-3.3.0-py39pl5321hd02194f_4.tar.bz2",
+"total":180
 }
 ]
 }
