@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-fastica-1.2_0-r3.3.1_0.tar.bz2",
-"total":510
+"total":511
 },
 {
 "basename":"r-fastica-1.2_0-r3.3.2_0.tar.bz2",
@@ -294,6 +294,10 @@
 {
 "date":"2022-05-14",
 "total":1274
+},
+{
+"date":"2022-05-17",
+"total":1275
 }
 ],
 "package":"r-fastica",
@@ -409,6 +413,15 @@
 {
 "basename":"r-fastica-1.2_0-r3.3.2_0.tar.bz2",
 "total":764
+}
+]
+},
+{
+"date":"2022-05-17",
+"downloads_per_basename":[
+{
+"basename":"r-fastica-1.2_0-r3.3.1_0.tar.bz2",
+"total":511
 }
 ]
 }

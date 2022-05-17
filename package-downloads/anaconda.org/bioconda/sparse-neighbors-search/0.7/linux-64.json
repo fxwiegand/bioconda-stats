@@ -23,7 +23,7 @@
 },
 {
 "basename":"sparse-neighbors-search-0.7-py36hf0b53f7_1.tar.bz2",
-"total":64
+"total":65
 },
 {
 "basename":"sparse-neighbors-search-0.7-py38h6ed170a_1.tar.bz2",
@@ -410,6 +410,10 @@
 {
 "date":"2022-05-14",
 "total":401
+},
+{
+"date":"2022-05-17",
+"total":402
 }
 ],
 "package":"sparse-neighbors-search",
@@ -652,6 +656,15 @@
 {
 "basename":"sparse-neighbors-search-0.7-py38h6ed170a_1.tar.bz2",
 "total":68
+}
+]
+},
+{
+"date":"2022-05-17",
+"downloads_per_basename":[
+{
+"basename":"sparse-neighbors-search-0.7-py36hf0b53f7_1.tar.bz2",
+"total":65
 }
 ]
 }

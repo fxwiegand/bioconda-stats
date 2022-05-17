@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-bigwigcluster-357-1.tar.bz2",
-"total":524
+"total":525
 }
 ],
 "downloads_per_date":[
@@ -422,6 +422,10 @@
 {
 "date":"2022-05-14",
 "total":961
+},
+{
+"date":"2022-05-17",
+"total":962
 }
 ],
 "package":"ucsc-bigwigcluster",
@@ -550,6 +554,15 @@
 {
 "basename":"ucsc-bigwigcluster-357-1.tar.bz2",
 "total":524
+}
+]
+},
+{
+"date":"2022-05-17",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bigwigcluster-357-1.tar.bz2",
+"total":525
 }
 ]
 }

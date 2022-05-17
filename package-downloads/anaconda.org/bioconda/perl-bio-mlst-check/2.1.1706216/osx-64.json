@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-bio-mlst-check-2.1.1706216-pl526_1.tar.bz2",
-"total":2001
+"total":2002
 }
 ],
 "downloads_per_date":[
@@ -714,6 +714,10 @@
 {
 "date":"2022-05-14",
 "total":2048
+},
+{
+"date":"2022-05-17",
+"total":2049
 }
 ],
 "package":"perl-bio-mlst-check",
@@ -737,11 +741,15 @@
 ]
 },
 {
-"date":"2022-05-14",
+"date":"2022-05-17",
 "downloads_per_basename":[
 {
 "basename":"perl-bio-mlst-check-2.1.1706216-pl5.22.0_0.tar.bz2",
 "total":47
+},
+{
+"basename":"perl-bio-mlst-check-2.1.1706216-pl526_1.tar.bz2",
+"total":2002
 }
 ]
 }
