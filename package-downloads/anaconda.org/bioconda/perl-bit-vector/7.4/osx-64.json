@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-bit-vector-7.4-pl526_2.tar.bz2",
-"total":2115
+"total":2116
 }
 ],
 "downloads_per_date":[
@@ -1038,6 +1038,10 @@
 {
 "date":"2022-05-17",
 "total":2598
+},
+{
+"date":"2022-06-01",
+"total":2599
 }
 ],
 "package":"perl-bit-vector",
@@ -1096,6 +1100,15 @@
 {
 "basename":"perl-bit-vector-7.4-0.tar.bz2",
 "total":483
+}
+]
+},
+{
+"date":"2022-06-01",
+"downloads_per_basename":[
+{
+"basename":"perl-bit-vector-7.4-pl526_2.tar.bz2",
+"total":2116
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bcftools-1.15.1-hd1821b6_0.tar.bz2",
-"total":370
+"total":491
 }
 ],
 "downloads_per_date":[
@@ -50,6 +50,10 @@
 {
 "date":"2022-05-17",
 "total":370
+},
+{
+"date":"2022-06-01",
+"total":491
 }
 ],
 "package":"bcftools",
@@ -150,6 +154,15 @@
 {
 "basename":"bcftools-1.15.1-hd1821b6_0.tar.bz2",
 "total":370
+}
+]
+},
+{
+"date":"2022-06-01",
+"downloads_per_basename":[
+{
+"basename":"bcftools-1.15.1-hd1821b6_0.tar.bz2",
+"total":491
 }
 ]
 }
