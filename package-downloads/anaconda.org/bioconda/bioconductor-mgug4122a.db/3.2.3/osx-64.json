@@ -738,6 +738,10 @@
 {
 "date":"2022-06-01",
 "total":2238
+},
+{
+"date":"2022-06-05",
+"total":2238
 }
 ],
 "package":"bioconductor-mgug4122a.db",
@@ -755,6 +759,15 @@
 "date":"2022-06-01",
 "downloads_per_basename":[
 {
+"basename":"bioconductor-mgug4122a.db-3.2.3-r3.3.1_0.tar.bz2",
+"total":73
+}
+]
+},
+{
+"date":"2022-06-05",
+"downloads_per_basename":[
+{
 "basename":"bioconductor-mgug4122a.db-3.2.3-r341_4.tar.bz2",
 "total":30
 },
@@ -769,10 +782,6 @@
 {
 "basename":"bioconductor-mgug4122a.db-3.2.3-r3.3.2_0.tar.bz2",
 "total":55
-},
-{
-"basename":"bioconductor-mgug4122a.db-3.2.3-r3.3.1_0.tar.bz2",
-"total":73
 },
 {
 "basename":"bioconductor-mgug4122a.db-3.2.3-r3.4.1_1.tar.bz2",

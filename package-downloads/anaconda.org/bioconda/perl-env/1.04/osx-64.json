@@ -990,6 +990,10 @@
 {
 "date":"2022-06-01",
 "total":2246
+},
+{
+"date":"2022-06-05",
+"total":2246
 }
 ],
 "package":"perl-env",
@@ -1009,7 +1013,12 @@
 {
 "basename":"perl-env-1.04-pl526_0.tar.bz2",
 "total":302
+}
+]
 },
+{
+"date":"2022-06-05",
+"downloads_per_basename":[
 {
 "basename":"perl-env-1.04-pl526_1.tar.bz2",
 "total":1944

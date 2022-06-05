@@ -722,6 +722,10 @@
 {
 "date":"2022-06-01",
 "total":1458
+},
+{
+"date":"2022-06-05",
+"total":1458
 }
 ],
 "package":"chorus2",
@@ -741,7 +745,12 @@
 {
 "basename":"chorus2-2.0-py36h01d97ff_5.tar.bz2",
 "total":36
+}
+]
 },
+{
+"date":"2022-06-05",
+"downloads_per_basename":[
 {
 "basename":"chorus2-2.0-py37h01d97ff_5.tar.bz2",
 "total":1422

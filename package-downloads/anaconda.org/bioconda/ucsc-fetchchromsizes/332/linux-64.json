@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-fetchchromsizes-332-0.tar.bz2",
-"total":1800
+"total":1801
 }
 ],
 "downloads_per_date":[
@@ -206,6 +206,10 @@
 {
 "date":"2022-06-01",
 "total":1800
+},
+{
+"date":"2022-06-05",
+"total":1801
 }
 ],
 "package":"ucsc-fetchchromsizes",
@@ -252,6 +256,15 @@
 {
 "basename":"ucsc-fetchchromsizes-332-0.tar.bz2",
 "total":1800
+}
+]
+},
+{
+"date":"2022-06-05",
+"downloads_per_basename":[
+{
+"basename":"ucsc-fetchchromsizes-332-0.tar.bz2",
+"total":1801
 }
 ]
 }

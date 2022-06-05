@@ -1002,6 +1002,10 @@
 {
 "date":"2022-06-01",
 "total":2765
+},
+{
+"date":"2022-06-05",
+"total":2765
 }
 ],
 "package":"perl-spiffy",
@@ -1019,6 +1023,15 @@
 "date":"2022-06-01",
 "downloads_per_basename":[
 {
+"basename":"perl-spiffy-0.46-pl526_3.tar.bz2",
+"total":2103
+}
+]
+},
+{
+"date":"2022-06-05",
+"downloads_per_basename":[
+{
 "basename":"perl-spiffy-0.46-pl526_2.tar.bz2",
 "total":66
 },
@@ -1029,10 +1042,6 @@
 {
 "basename":"perl-spiffy-0.46-0.tar.bz2",
 "total":476
-},
-{
-"basename":"perl-spiffy-0.46-pl526_3.tar.bz2",
-"total":2103
 }
 ]
 }
