@@ -15,7 +15,7 @@
 },
 {
 "basename":"netcdf-metadata-info-1.1.6-hb4d813b_3.tar.bz2",
-"total":813
+"total":823
 },
 {
 "basename":"netcdf-metadata-info-1.1.6-1.tar.bz2",
@@ -1186,6 +1186,10 @@
 {
 "date":"2022-06-18",
 "total":2498
+},
+{
+"date":"2022-06-23",
+"total":2508
 }
 ],
 "package":"netcdf-metadata-info",
@@ -1309,6 +1313,15 @@
 {
 "basename":"netcdf-metadata-info-1.1.6-1.tar.bz2",
 "total":1092
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"netcdf-metadata-info-1.1.6-hb4d813b_3.tar.bz2",
+"total":823
 }
 ]
 }

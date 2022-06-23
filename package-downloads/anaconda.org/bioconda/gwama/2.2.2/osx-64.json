@@ -7,7 +7,7 @@
 },
 {
 "basename":"gwama-2.2.2-h87af4ef_1.tar.bz2",
-"total":871
+"total":881
 },
 {
 "basename":"gwama-2.2.2-h2dec4b4_0.tar.bz2",
@@ -1210,6 +1210,10 @@
 {
 "date":"2022-06-18",
 "total":2012
+},
+{
+"date":"2022-06-23",
+"total":2022
 }
 ],
 "package":"gwama",
@@ -1321,6 +1325,15 @@
 {
 "basename":"gwama-2.2.2-h2dec4b4_0.tar.bz2",
 "total":1130
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"gwama-2.2.2-h87af4ef_1.tar.bz2",
+"total":881
 }
 ]
 }

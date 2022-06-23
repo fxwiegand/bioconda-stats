@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-bedgraphtobigwig-332-0.tar.bz2",
-"total":15121
+"total":15123
 }
 ],
 "downloads_per_date":[
@@ -402,6 +402,10 @@
 {
 "date":"2022-06-18",
 "total":15121
+},
+{
+"date":"2022-06-23",
+"total":15123
 }
 ],
 "package":"ucsc-bedgraphtobigwig",
@@ -475,6 +479,15 @@
 {
 "basename":"ucsc-bedgraphtobigwig-332-0.tar.bz2",
 "total":15121
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bedgraphtobigwig-332-0.tar.bz2",
+"total":15123
 }
 ]
 }

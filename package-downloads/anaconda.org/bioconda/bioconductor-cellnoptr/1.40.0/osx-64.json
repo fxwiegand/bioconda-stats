@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-cellnoptr-1.40.0-r41haba8685_1.tar.bz2",
-"total":210
+"total":220
 },
 {
 "basename":"bioconductor-cellnoptr-1.40.0-r41h68a2ddb_0.tar.bz2",
@@ -542,6 +542,10 @@
 {
 "date":"2022-06-18",
 "total":434
+},
+{
+"date":"2022-06-23",
+"total":444
 }
 ],
 "package":"bioconductor-cellnoptr",
@@ -641,6 +645,15 @@
 {
 "basename":"bioconductor-cellnoptr-1.40.0-r41h68a2ddb_0.tar.bz2",
 "total":224
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cellnoptr-1.40.0-r41haba8685_1.tar.bz2",
+"total":220
 }
 ]
 }

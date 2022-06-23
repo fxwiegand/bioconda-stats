@@ -19,7 +19,7 @@
 },
 {
 "basename":"r-dpeak-2.0.1-r41hcd10b59_6.tar.bz2",
-"total":226
+"total":236
 },
 {
 "basename":"r-dpeak-2.0.1-r3.3.1_1.tar.bz2",
@@ -1234,6 +1234,10 @@
 {
 "date":"2022-06-18",
 "total":2850
+},
+{
+"date":"2022-06-23",
+"total":2860
 }
 ],
 "package":"r-dpeak",
@@ -1389,6 +1393,15 @@
 {
 "basename":"r-dpeak-2.0.1-r3.4.1_1.tar.bz2",
 "total":799
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"r-dpeak-2.0.1-r41hcd10b59_6.tar.bz2",
+"total":236
 }
 ]
 }

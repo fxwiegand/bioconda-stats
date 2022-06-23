@@ -19,7 +19,7 @@
 },
 {
 "basename":"mlrho-2.9-hfb95a32_4.tar.bz2",
-"total":317
+"total":327
 },
 {
 "basename":"mlrho-2.9-hd1ccf6d_1.tar.bz2",
@@ -1222,6 +1222,10 @@
 {
 "date":"2022-06-18",
 "total":2644
+},
+{
+"date":"2022-06-23",
+"total":2654
 }
 ],
 "package":"mlrho",
@@ -1353,6 +1357,15 @@
 {
 "basename":"mlrho-2.9-hd1ccf6d_1.tar.bz2",
 "total":2008
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"mlrho-2.9-hfb95a32_4.tar.bz2",
+"total":327
 }
 ]
 }

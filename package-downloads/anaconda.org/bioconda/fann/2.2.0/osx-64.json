@@ -11,7 +11,7 @@
 },
 {
 "basename":"fann-2.2.0-h9722bc1_4.tar.bz2",
-"total":235
+"total":245
 },
 {
 "basename":"fann-2.2.0-h589c0e0_3.tar.bz2",
@@ -1218,6 +1218,10 @@
 {
 "date":"2022-06-18",
 "total":2607
+},
+{
+"date":"2022-06-23",
+"total":2617
 }
 ],
 "package":"fann",
@@ -1345,6 +1349,15 @@
 {
 "basename":"fann-2.2.0-h470a237_1.tar.bz2",
 "total":1556
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"fann-2.2.0-h9722bc1_4.tar.bz2",
+"total":245
 }
 ]
 }

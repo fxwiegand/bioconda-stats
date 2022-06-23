@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-dose-3.14.0-r40_0.tar.bz2",
-"total":1221
+"total":1234
 }
 ],
 "downloads_per_date":[
@@ -1062,6 +1062,10 @@
 {
 "date":"2022-06-18",
 "total":1221
+},
+{
+"date":"2022-06-23",
+"total":1234
 }
 ],
 "package":"bioconductor-dose",
@@ -1153,6 +1157,15 @@
 {
 "basename":"bioconductor-dose-3.14.0-r40_0.tar.bz2",
 "total":1221
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-dose-3.14.0-r40_0.tar.bz2",
+"total":1234
 }
 ]
 }

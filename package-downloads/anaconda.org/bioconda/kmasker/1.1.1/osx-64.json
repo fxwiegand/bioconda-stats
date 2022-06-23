@@ -55,7 +55,7 @@
 },
 {
 "basename":"kmasker-1.1.1-py39pl5321r41hcf0ab7e_3.tar.bz2",
-"total":315
+"total":325
 },
 {
 "basename":"kmasker-1.1.1-py38pl526r40hb8ab313_1.tar.bz2",
@@ -1266,6 +1266,10 @@
 {
 "date":"2022-06-18",
 "total":2167
+},
+{
+"date":"2022-06-23",
+"total":2177
 }
 ],
 "package":"kmasker",
@@ -1485,6 +1489,15 @@
 {
 "basename":"kmasker-1.1.1-py37pl526r36h770b8ee_0.tar.bz2",
 "total":628
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"kmasker-1.1.1-py39pl5321r41hcf0ab7e_3.tar.bz2",
+"total":325
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-http-server-simple-0.52-pl5.22.0_0.tar.bz2",
-"total":145
+"total":146
 },
 {
 "basename":"perl-http-server-simple-0.52-pl526_1.tar.bz2",
@@ -1050,6 +1050,10 @@
 {
 "date":"2022-06-18",
 "total":2408
+},
+{
+"date":"2022-06-23",
+"total":2409
 }
 ],
 "package":"perl-http-server-simple",
@@ -1104,6 +1108,15 @@
 {
 "basename":"perl-http-server-simple-0.52-pl526_2.tar.bz2",
 "total":2036
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"perl-http-server-simple-0.52-pl5.22.0_0.tar.bz2",
+"total":146
 }
 ]
 }

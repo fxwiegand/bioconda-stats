@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"cat-5.1.2-0.tar.bz2",
-"total":808
+"total":819
 }
 ],
 "downloads_per_date":[
@@ -1082,6 +1082,10 @@
 {
 "date":"2022-06-18",
 "total":808
+},
+{
+"date":"2022-06-23",
+"total":819
 }
 ],
 "package":"cat",
@@ -1173,6 +1177,15 @@
 {
 "basename":"cat-5.1.2-0.tar.bz2",
 "total":808
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"cat-5.1.2-0.tar.bz2",
+"total":819
 }
 ]
 }

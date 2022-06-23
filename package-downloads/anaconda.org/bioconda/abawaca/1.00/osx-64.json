@@ -11,7 +11,7 @@
 },
 {
 "basename":"abawaca-1.00-hcd10b59_4.tar.bz2",
-"total":216
+"total":226
 },
 {
 "basename":"abawaca-1.00-ha1b3eb9_2.tar.bz2",
@@ -1222,6 +1222,10 @@
 {
 "date":"2022-06-18",
 "total":2755
+},
+{
+"date":"2022-06-23",
+"total":2765
 }
 ],
 "package":"abawaca",
@@ -1353,6 +1357,15 @@
 {
 "basename":"abawaca-1.00-h470a237_1.tar.bz2",
 "total":1284
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"abawaca-1.00-hcd10b59_4.tar.bz2",
+"total":226
 }
 ]
 }

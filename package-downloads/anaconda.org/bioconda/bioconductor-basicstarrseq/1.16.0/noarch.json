@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-basicstarrseq-1.16.0-r40_0.tar.bz2",
-"total":602
+"total":613
 }
 ],
 "downloads_per_date":[
@@ -1050,6 +1050,10 @@
 {
 "date":"2022-06-18",
 "total":602
+},
+{
+"date":"2022-06-23",
+"total":613
 }
 ],
 "package":"bioconductor-basicstarrseq",
@@ -1141,6 +1145,15 @@
 {
 "basename":"bioconductor-basicstarrseq-1.16.0-r40_0.tar.bz2",
 "total":602
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-basicstarrseq-1.16.0-r40_0.tar.bz2",
+"total":613
 }
 ]
 }

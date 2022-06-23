@@ -7,7 +7,7 @@
 },
 {
 "basename":"strike-1.2-hb280591_2.tar.bz2",
-"total":825
+"total":835
 },
 {
 "basename":"strike-1.2-h2d50403_0.tar.bz2",
@@ -1178,6 +1178,10 @@
 {
 "date":"2022-06-18",
 "total":2477
+},
+{
+"date":"2022-06-23",
+"total":2487
 }
 ],
 "package":"strike",
@@ -1280,6 +1284,15 @@
 {
 "basename":"strike-1.2-h2d50403_0.tar.bz2",
 "total":1232
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"strike-1.2-hb280591_2.tar.bz2",
+"total":835
 }
 ]
 }

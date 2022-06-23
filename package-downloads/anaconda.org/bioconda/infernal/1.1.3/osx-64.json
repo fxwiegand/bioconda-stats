@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"infernal-1.1.3-hb4d813b_1.tar.bz2",
-"total":1245
+"total":1255
 },
 {
 "basename":"infernal-1.1.3-h0b31af3_0.tar.bz2",
@@ -1206,6 +1206,10 @@
 {
 "date":"2022-06-18",
 "total":3165
+},
+{
+"date":"2022-06-23",
+"total":3175
 }
 ],
 "package":"infernal",
@@ -1309,6 +1313,15 @@
 {
 "basename":"infernal-1.1.3-h0b31af3_0.tar.bz2",
 "total":1920
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"infernal-1.1.3-hb4d813b_1.tar.bz2",
+"total":1255
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"virulign-1.1.1-hcd10b59_2.tar.bz2",
-"total":237
+"total":247
 },
 {
 "basename":"virulign-1.1.1-hb280591_1.tar.bz2",
@@ -1210,6 +1210,10 @@
 {
 "date":"2022-06-18",
 "total":915
+},
+{
+"date":"2022-06-23",
+"total":925
 }
 ],
 "package":"virulign",
@@ -1317,6 +1321,15 @@
 {
 "basename":"virulign-1.1.1-hb280591_1.tar.bz2",
 "total":652
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"virulign-1.1.1-hcd10b59_2.tar.bz2",
+"total":247
 }
 ]
 }

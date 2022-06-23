@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-fastqtofa-332-0.tar.bz2",
-"total":5050
+"total":5071
 }
 ],
 "downloads_per_date":[
@@ -1202,6 +1202,10 @@
 {
 "date":"2022-06-18",
 "total":5050
+},
+{
+"date":"2022-06-23",
+"total":5071
 }
 ],
 "package":"ucsc-fastqtofa",
@@ -1293,6 +1297,15 @@
 {
 "basename":"ucsc-fastqtofa-332-0.tar.bz2",
 "total":5050
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"ucsc-fastqtofa-332-0.tar.bz2",
+"total":5071
 }
 ]
 }

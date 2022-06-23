@@ -23,7 +23,7 @@
 },
 {
 "basename":"dnaio-0.5.0-py39ha492530_1.tar.bz2",
-"total":860
+"total":870
 },
 {
 "basename":"dnaio-0.5.0-py38h68004ad_1.tar.bz2",
@@ -1206,6 +1206,10 @@
 {
 "date":"2022-06-18",
 "total":3152
+},
+{
+"date":"2022-06-23",
+"total":3162
 }
 ],
 "package":"dnaio",
@@ -1397,6 +1401,15 @@
 {
 "basename":"dnaio-0.5.0-py38h68004ad_1.tar.bz2",
 "total":885
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"dnaio-0.5.0-py39ha492530_1.tar.bz2",
+"total":870
 }
 ]
 }

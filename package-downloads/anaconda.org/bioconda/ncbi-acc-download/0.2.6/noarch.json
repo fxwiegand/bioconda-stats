@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ncbi-acc-download-0.2.6-py_0.tar.bz2",
-"total":721
+"total":732
 }
 ],
 "downloads_per_date":[
@@ -1042,6 +1042,10 @@
 {
 "date":"2022-06-18",
 "total":721
+},
+{
+"date":"2022-06-23",
+"total":732
 }
 ],
 "package":"ncbi-acc-download",
@@ -1133,6 +1137,15 @@
 {
 "basename":"ncbi-acc-download-0.2.6-py_0.tar.bz2",
 "total":721
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"ncbi-acc-download-0.2.6-py_0.tar.bz2",
+"total":732
 }
 ]
 }

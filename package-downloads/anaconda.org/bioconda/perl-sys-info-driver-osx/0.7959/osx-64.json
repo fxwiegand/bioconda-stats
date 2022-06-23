@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-sys-info-driver-osx-0.7959-pl5321h527b516_1.tar.bz2",
-"total":240
+"total":250
 },
 {
 "basename":"perl-sys-info-driver-osx-0.7959-pl526_0.tar.bz2",
@@ -1174,6 +1174,10 @@
 {
 "date":"2022-06-18",
 "total":2472
+},
+{
+"date":"2022-06-23",
+"total":2482
 }
 ],
 "package":"perl-sys-info-driver-osx",
@@ -1277,6 +1281,15 @@
 {
 "basename":"perl-sys-info-driver-osx-0.7959-pl526_0.tar.bz2",
 "total":2232
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"perl-sys-info-driver-osx-0.7959-pl5321h527b516_1.tar.bz2",
+"total":250
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"swarm-3.1.0-hcd10b59_2.tar.bz2",
-"total":222
+"total":232
 },
 {
 "basename":"swarm-3.1.0-hb280591_1.tar.bz2",
@@ -1210,6 +1210,10 @@
 {
 "date":"2022-06-18",
 "total":950
+},
+{
+"date":"2022-06-23",
+"total":960
 }
 ],
 "package":"swarm",
@@ -1321,6 +1325,15 @@
 {
 "basename":"swarm-3.1.0-hb280591_1.tar.bz2",
 "total":662
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"swarm-3.1.0-hcd10b59_2.tar.bz2",
+"total":232
 }
 ]
 }

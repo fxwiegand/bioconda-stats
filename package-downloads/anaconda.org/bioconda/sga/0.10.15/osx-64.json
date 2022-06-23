@@ -31,7 +31,7 @@
 },
 {
 "basename":"sga-0.10.15-hf65ff9b_5.tar.bz2",
-"total":1980
+"total":1990
 }
 ],
 "downloads_per_date":[
@@ -1230,6 +1230,10 @@
 {
 "date":"2022-06-18",
 "total":3001
+},
+{
+"date":"2022-06-23",
+"total":3011
 }
 ],
 "package":"sga",
@@ -1417,6 +1421,15 @@
 {
 "basename":"sga-0.10.15-hf65ff9b_5.tar.bz2",
 "total":1980
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"sga-0.10.15-hf65ff9b_5.tar.bz2",
+"total":1990
 }
 ]
 }

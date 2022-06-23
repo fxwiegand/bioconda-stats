@@ -15,7 +15,7 @@
 },
 {
 "basename":"revbayes-1.0.13-hdf473f4_5.tar.bz2",
-"total":214
+"total":224
 },
 {
 "basename":"revbayes-1.0.13-h6de7cb9_1.tar.bz2",
@@ -1218,6 +1218,10 @@
 {
 "date":"2022-06-18",
 "total":2077
+},
+{
+"date":"2022-06-23",
+"total":2087
 }
 ],
 "package":"revbayes",
@@ -1353,6 +1357,15 @@
 {
 "basename":"revbayes-1.0.13-h9f51e7f_2.tar.bz2",
 "total":1053
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"revbayes-1.0.13-hdf473f4_5.tar.bz2",
+"total":224
 }
 ]
 }

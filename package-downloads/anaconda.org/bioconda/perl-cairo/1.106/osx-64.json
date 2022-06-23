@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-cairo-1.106-pl5321h9891f83_2.tar.bz2",
-"total":298
+"total":308
 },
 {
 "basename":"perl-cairo-1.106-pl526haf251e0_1.tar.bz2",
@@ -1206,6 +1206,10 @@
 {
 "date":"2022-06-18",
 "total":2547
+},
+{
+"date":"2022-06-23",
+"total":2557
 }
 ],
 "package":"perl-cairo",
@@ -1313,6 +1317,15 @@
 {
 "basename":"perl-cairo-1.106-pl526haf251e0_1.tar.bz2",
 "total":1975
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"perl-cairo-1.106-pl5321h9891f83_2.tar.bz2",
+"total":308
 }
 ]
 }

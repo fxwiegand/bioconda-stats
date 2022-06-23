@@ -71,7 +71,7 @@
 },
 {
 "basename":"pheniqs-2.1.0-py39hfec1533_2.tar.bz2",
-"total":311
+"total":321
 },
 {
 "basename":"pheniqs-2.1.0-py39hfa78795_1.tar.bz2",
@@ -1274,6 +1274,10 @@
 {
 "date":"2022-06-18",
 "total":1299
+},
+{
+"date":"2022-06-23",
+"total":1309
 }
 ],
 "package":"pheniqs",
@@ -1509,6 +1513,15 @@
 {
 "basename":"pheniqs-2.1.0-py39hfa78795_1.tar.bz2",
 "total":573
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"pheniqs-2.1.0-py39hfec1533_2.tar.bz2",
+"total":321
 }
 ]
 }

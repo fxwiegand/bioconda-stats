@@ -15,7 +15,7 @@
 },
 {
 "basename":"python-wget-3.2-py36_0.tar.bz2",
-"total":2500
+"total":2510
 }
 ],
 "downloads_per_date":[
@@ -1214,6 +1214,10 @@
 {
 "date":"2022-06-18",
 "total":3360
+},
+{
+"date":"2022-06-23",
+"total":3370
 }
 ],
 "package":"python-wget",
@@ -1341,6 +1345,15 @@
 {
 "basename":"python-wget-3.2-py36_0.tar.bz2",
 "total":2500
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"python-wget-3.2-py36_0.tar.bz2",
+"total":2510
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-gcrma-2.56.0-r36h01d97ff_1.tar.bz2",
-"total":2070
+"total":2080
 }
 ],
 "downloads_per_date":[
@@ -1198,6 +1198,10 @@
 {
 "date":"2022-06-18",
 "total":2070
+},
+{
+"date":"2022-06-23",
+"total":2080
 }
 ],
 "package":"bioconductor-gcrma",
@@ -1289,6 +1293,15 @@
 {
 "basename":"bioconductor-gcrma-2.56.0-r36h01d97ff_1.tar.bz2",
 "total":2070
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-gcrma-2.56.0-r36h01d97ff_1.tar.bz2",
+"total":2080
 }
 ]
 }

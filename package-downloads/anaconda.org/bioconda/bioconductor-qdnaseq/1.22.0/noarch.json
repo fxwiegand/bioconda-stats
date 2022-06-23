@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-qdnaseq-1.22.0-r36_0.tar.bz2",
-"total":1061
+"total":1075
 }
 ],
 "downloads_per_date":[
@@ -1102,6 +1102,10 @@
 {
 "date":"2022-06-18",
 "total":1061
+},
+{
+"date":"2022-06-23",
+"total":1075
 }
 ],
 "package":"bioconductor-qdnaseq",
@@ -1193,6 +1197,15 @@
 {
 "basename":"bioconductor-qdnaseq-1.22.0-r36_0.tar.bz2",
 "total":1061
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-qdnaseq-1.22.0-r36_0.tar.bz2",
+"total":1075
 }
 ]
 }

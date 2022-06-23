@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-compress-raw-bzip2-2.069-pl526_2.tar.bz2",
-"total":2210
+"total":2220
 }
 ],
 "downloads_per_date":[
@@ -1190,6 +1190,10 @@
 {
 "date":"2022-06-18",
 "total":3584
+},
+{
+"date":"2022-06-23",
+"total":3594
 }
 ],
 "package":"perl-compress-raw-bzip2",
@@ -1301,6 +1305,15 @@
 {
 "basename":"perl-compress-raw-bzip2-2.069-pl526_2.tar.bz2",
 "total":2210
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"perl-compress-raw-bzip2-2.069-pl526_2.tar.bz2",
+"total":2220
 }
 ]
 }

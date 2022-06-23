@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rhdf5-2.22.0-r3.4.1_0.tar.bz2",
-"total":7989
+"total":8001
 }
 ],
 "downloads_per_date":[
@@ -1202,6 +1202,10 @@
 {
 "date":"2022-06-18",
 "total":7989
+},
+{
+"date":"2022-06-23",
+"total":8001
 }
 ],
 "package":"bioconductor-rhdf5",
@@ -1293,6 +1297,15 @@
 {
 "basename":"bioconductor-rhdf5-2.22.0-r3.4.1_0.tar.bz2",
 "total":7989
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rhdf5-2.22.0-r3.4.1_0.tar.bz2",
+"total":8001
 }
 ]
 }

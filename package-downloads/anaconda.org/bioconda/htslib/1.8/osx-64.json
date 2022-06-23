@@ -11,7 +11,7 @@
 },
 {
 "basename":"htslib-1.8-h57f8fdf_2.tar.bz2",
-"total":3848
+"total":3864
 }
 ],
 "downloads_per_date":[
@@ -1210,6 +1210,10 @@
 {
 "date":"2022-06-18",
 "total":4662
+},
+{
+"date":"2022-06-23",
+"total":4678
 }
 ],
 "package":"htslib",
@@ -1312,6 +1316,15 @@
 {
 "basename":"htslib-1.8-h57f8fdf_2.tar.bz2",
 "total":3848
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"htslib-1.8-h57f8fdf_2.tar.bz2",
+"total":3864
 }
 ]
 }

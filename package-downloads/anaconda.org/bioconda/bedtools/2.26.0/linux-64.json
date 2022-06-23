@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bedtools-2.26.0-0.tar.bz2",
-"total":159752
+"total":160551
 }
 ],
 "downloads_per_date":[
@@ -1202,6 +1202,10 @@
 {
 "date":"2022-06-18",
 "total":159752
+},
+{
+"date":"2022-06-23",
+"total":160551
 }
 ],
 "package":"bedtools",
@@ -1293,6 +1297,15 @@
 {
 "basename":"bedtools-2.26.0-0.tar.bz2",
 "total":159752
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"bedtools-2.26.0-0.tar.bz2",
+"total":160551
 }
 ]
 }

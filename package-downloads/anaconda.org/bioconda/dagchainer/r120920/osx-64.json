@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"dagchainer-r120920-hcd10b59_2.tar.bz2",
-"total":232
+"total":242
 },
 {
 "basename":"dagchainer-r120920-ha1b3eb9_0.tar.bz2",
@@ -1210,6 +1210,10 @@
 {
 "date":"2022-06-18",
 "total":1167
+},
+{
+"date":"2022-06-23",
+"total":1177
 }
 ],
 "package":"dagchainer",
@@ -1317,6 +1321,15 @@
 {
 "basename":"dagchainer-r120920-hb280591_1.tar.bz2",
 "total":672
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"dagchainer-r120920-hcd10b59_2.tar.bz2",
+"total":242
 }
 ]
 }

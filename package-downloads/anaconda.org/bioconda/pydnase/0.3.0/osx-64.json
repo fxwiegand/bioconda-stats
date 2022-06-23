@@ -55,7 +55,7 @@
 },
 {
 "basename":"pydnase-0.3.0-py39ha492530_3.tar.bz2",
-"total":784
+"total":794
 },
 {
 "basename":"pydnase-0.3.0-py36_1.tar.bz2",
@@ -1226,6 +1226,10 @@
 {
 "date":"2022-06-18",
 "total":2695
+},
+{
+"date":"2022-06-23",
+"total":2705
 }
 ],
 "package":"pydnase",
@@ -1429,6 +1433,15 @@
 {
 "basename":"pydnase-0.3.0-py36_1.tar.bz2",
 "total":1188
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"pydnase-0.3.0-py39ha492530_3.tar.bz2",
+"total":794
 }
 ]
 }

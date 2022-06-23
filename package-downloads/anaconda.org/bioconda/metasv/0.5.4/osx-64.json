@@ -15,7 +15,7 @@
 },
 {
 "basename":"metasv-0.5.4-py27hf9ca5db_3.tar.bz2",
-"total":859
+"total":869
 },
 {
 "basename":"metasv-0.5.4-py27_1.tar.bz2",
@@ -1218,6 +1218,10 @@
 {
 "date":"2022-06-18",
 "total":2617
+},
+{
+"date":"2022-06-23",
+"total":2627
 }
 ],
 "package":"metasv",
@@ -1341,6 +1345,15 @@
 {
 "basename":"metasv-0.5.4-py27_1.tar.bz2",
 "total":1224
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"metasv-0.5.4-py27hf9ca5db_3.tar.bz2",
+"total":869
 }
 ]
 }

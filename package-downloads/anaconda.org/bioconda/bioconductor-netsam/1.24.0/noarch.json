@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-netsam-1.24.0-r36_1.tar.bz2",
-"total":611
+"total":622
 }
 ],
 "downloads_per_date":[
@@ -1022,6 +1022,10 @@
 {
 "date":"2022-06-18",
 "total":611
+},
+{
+"date":"2022-06-23",
+"total":622
 }
 ],
 "package":"bioconductor-netsam",
@@ -1113,6 +1117,15 @@
 {
 "basename":"bioconductor-netsam-1.24.0-r36_1.tar.bz2",
 "total":611
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-netsam-1.24.0-r36_1.tar.bz2",
+"total":622
 }
 ]
 }

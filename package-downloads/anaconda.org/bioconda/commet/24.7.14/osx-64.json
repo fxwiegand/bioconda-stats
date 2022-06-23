@@ -23,7 +23,7 @@
 },
 {
 "basename":"commet-24.7.14-r41h51eacb5_6.tar.bz2",
-"total":313
+"total":323
 },
 {
 "basename":"commet-24.7.14-py27r3.4.1_1.tar.bz2",
@@ -1234,6 +1234,10 @@
 {
 "date":"2022-06-18",
 "total":2776
+},
+{
+"date":"2022-06-23",
+"total":2786
 }
 ],
 "package":"commet",
@@ -1397,6 +1401,15 @@
 {
 "basename":"commet-24.7.14-r36hd44dcd8_2.tar.bz2",
 "total":1111
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"commet-24.7.14-r41h51eacb5_6.tar.bz2",
+"total":323
 }
 ]
 }

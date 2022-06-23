@@ -11,7 +11,7 @@
 },
 {
 "basename":"gangstr-2.5.0-he3e1cee_2.tar.bz2",
-"total":314
+"total":325
 },
 {
 "basename":"gangstr-2.5.0-hacb7080_1.tar.bz2",
@@ -1214,6 +1214,10 @@
 {
 "date":"2022-06-18",
 "total":918
+},
+{
+"date":"2022-06-23",
+"total":929
 }
 ],
 "package":"gangstr",
@@ -1329,6 +1333,15 @@
 {
 "basename":"gangstr-2.5.0-hacb7080_1.tar.bz2",
 "total":570
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"gangstr-2.5.0-he3e1cee_2.tar.bz2",
+"total":325
 }
 ]
 }

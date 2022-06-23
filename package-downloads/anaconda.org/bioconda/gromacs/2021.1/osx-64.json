@@ -11,7 +11,7 @@
 },
 {
 "basename":"gromacs-2021.1-nompi_h2eb4de6_102.tar.bz2",
-"total":913
+"total":927
 },
 {
 "basename":"gromacs-2021.1-hd895feb_0.tar.bz2",
@@ -1218,6 +1218,10 @@
 {
 "date":"2022-06-18",
 "total":6991
+},
+{
+"date":"2022-06-23",
+"total":7005
 }
 ],
 "package":"gromacs",
@@ -1345,6 +1349,15 @@
 {
 "basename":"gromacs-2021.1-nompi_h2eb4de6_101.tar.bz2",
 "total":4864
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"gromacs-2021.1-nompi_h2eb4de6_102.tar.bz2",
+"total":927
 }
 ]
 }

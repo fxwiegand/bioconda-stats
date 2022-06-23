@@ -7,7 +7,7 @@
 },
 {
 "basename":"mreps-2.6.01-hb4d813b_1.tar.bz2",
-"total":863
+"total":873
 },
 {
 "basename":"mreps-2.6.01-h01d97ff_0.tar.bz2",
@@ -1206,6 +1206,10 @@
 {
 "date":"2022-06-18",
 "total":1929
+},
+{
+"date":"2022-06-23",
+"total":1939
 }
 ],
 "package":"mreps",
@@ -1321,6 +1325,15 @@
 {
 "basename":"mreps-2.6.01-h01d97ff_0.tar.bz2",
 "total":1054
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"mreps-2.6.01-hb4d813b_1.tar.bz2",
+"total":873
 }
 ]
 }

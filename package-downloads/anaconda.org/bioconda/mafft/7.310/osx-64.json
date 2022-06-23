@@ -11,7 +11,7 @@
 },
 {
 "basename":"mafft-7.310-h6de7cb9_3.tar.bz2",
-"total":4521
+"total":4534
 },
 {
 "basename":"mafft-7.310-0.tar.bz2",
@@ -1214,6 +1214,10 @@
 {
 "date":"2022-06-18",
 "total":17361
+},
+{
+"date":"2022-06-23",
+"total":17374
 }
 ],
 "package":"mafft",
@@ -1361,6 +1365,15 @@
 {
 "basename":"mafft-7.310-1.tar.bz2",
 "total":5179
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"mafft-7.310-h6de7cb9_3.tar.bz2",
+"total":4534
 }
 ]
 }

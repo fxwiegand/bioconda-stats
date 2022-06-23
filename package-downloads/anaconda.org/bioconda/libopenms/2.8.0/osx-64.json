@@ -7,7 +7,7 @@
 },
 {
 "basename":"libopenms-2.8.0-hbc2a060_2.tar.bz2",
-"total":80
+"total":92
 },
 {
 "basename":"libopenms-2.8.0-hbc2a060_1.tar.bz2",
@@ -130,6 +130,10 @@
 {
 "date":"2022-06-18",
 "total":256
+},
+{
+"date":"2022-06-23",
+"total":268
 }
 ],
 "package":"libopenms",
@@ -237,6 +241,15 @@
 {
 "basename":"libopenms-2.8.0-hbc2a060_1.tar.bz2",
 "total":141
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"libopenms-2.8.0-hbc2a060_2.tar.bz2",
+"total":92
 }
 ]
 }

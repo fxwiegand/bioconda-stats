@@ -11,7 +11,7 @@
 },
 {
 "basename":"moabs-1.3.9.6-pl5321r41he9f37b7_3.tar.bz2",
-"total":217
+"total":227
 },
 {
 "basename":"moabs-1.3.9.6-pl526r40hd18110b_2.tar.bz2",
@@ -1210,6 +1210,10 @@
 {
 "date":"2022-06-18",
 "total":1510
+},
+{
+"date":"2022-06-23",
+"total":1520
 }
 ],
 "package":"moabs",
@@ -1329,6 +1333,15 @@
 {
 "basename":"moabs-1.3.9.6-pl526r40hd18110b_2.tar.bz2",
 "total":1133
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"moabs-1.3.9.6-pl5321r41he9f37b7_3.tar.bz2",
+"total":227
 }
 ]
 }

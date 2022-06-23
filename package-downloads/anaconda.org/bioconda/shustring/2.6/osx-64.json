@@ -19,7 +19,7 @@
 },
 {
 "basename":"shustring-2.6-hb4d813b_4.tar.bz2",
-"total":849
+"total":859
 },
 {
 "basename":"shustring-2.6-h470a237_1.tar.bz2",
@@ -1222,6 +1222,10 @@
 {
 "date":"2022-06-18",
 "total":2761
+},
+{
+"date":"2022-06-23",
+"total":2771
 }
 ],
 "package":"shustring",
@@ -1357,6 +1361,15 @@
 {
 "basename":"shustring-2.6-h470a237_1.tar.bz2",
 "total":1606
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"shustring-2.6-hb4d813b_4.tar.bz2",
+"total":859
 }
 ]
 }

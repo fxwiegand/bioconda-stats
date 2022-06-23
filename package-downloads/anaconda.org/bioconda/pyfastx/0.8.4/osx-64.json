@@ -27,7 +27,7 @@
 },
 {
 "basename":"pyfastx-0.8.4-py39h66c2135_1.tar.bz2",
-"total":232
+"total":242
 },
 {
 "basename":"pyfastx-0.8.4-py39h0bb3d0f_0.tar.bz2",
@@ -1066,6 +1066,10 @@
 {
 "date":"2022-06-18",
 "total":875
+},
+{
+"date":"2022-06-23",
+"total":885
 }
 ],
 "package":"pyfastx",
@@ -1237,6 +1241,15 @@
 {
 "basename":"pyfastx-0.8.4-py39h0bb3d0f_0.tar.bz2",
 "total":511
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"pyfastx-0.8.4-py39h66c2135_1.tar.bz2",
+"total":242
 }
 ]
 }

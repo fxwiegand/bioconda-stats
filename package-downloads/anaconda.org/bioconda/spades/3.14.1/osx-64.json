@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"spades-3.14.1-he641558_1.tar.bz2",
-"total":1188
+"total":1199
 },
 {
 "basename":"spades-3.14.1-he641558_0.tar.bz2",
@@ -1206,6 +1206,10 @@
 {
 "date":"2022-06-18",
 "total":2506
+},
+{
+"date":"2022-06-23",
+"total":2517
 }
 ],
 "package":"spades",
@@ -1313,6 +1317,15 @@
 {
 "basename":"spades-3.14.1-he641558_0.tar.bz2",
 "total":1318
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"spades-3.14.1-he641558_1.tar.bz2",
+"total":1199
 }
 ]
 }

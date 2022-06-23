@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"auspice-2.29.1-h9722bc1_1.tar.bz2",
-"total":432
+"total":442
 },
 {
 "basename":"auspice-2.29.1-h589c0e0_0.tar.bz2",
@@ -890,6 +890,10 @@
 {
 "date":"2022-06-18",
 "total":1059
+},
+{
+"date":"2022-06-23",
+"total":1069
 }
 ],
 "package":"auspice",
@@ -993,6 +997,15 @@
 {
 "basename":"auspice-2.29.1-h589c0e0_0.tar.bz2",
 "total":627
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"auspice-2.29.1-h9722bc1_1.tar.bz2",
+"total":442
 }
 ]
 }

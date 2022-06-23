@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-methylumi-2.24.1-r3.4.1_0.tar.bz2",
-"total":799
+"total":801
 }
 ],
 "downloads_per_date":[
@@ -318,6 +318,10 @@
 {
 "date":"2022-06-18",
 "total":799
+},
+{
+"date":"2022-06-23",
+"total":801
 }
 ],
 "package":"bioconductor-methylumi",
@@ -373,6 +377,15 @@
 {
 "basename":"bioconductor-methylumi-2.24.1-r3.4.1_0.tar.bz2",
 "total":799
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-methylumi-2.24.1-r3.4.1_0.tar.bz2",
+"total":801
 }
 ]
 }

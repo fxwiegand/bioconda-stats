@@ -47,7 +47,7 @@
 },
 {
 "basename":"python-hyphy-python-0.1.10-py39haccb4a3_2.tar.bz2",
-"total":240
+"total":250
 },
 {
 "basename":"python-hyphy-python-0.1.10-py38h9537dbd_0.tar.bz2",
@@ -1254,6 +1254,10 @@
 {
 "date":"2022-06-18",
 "total":1388
+},
+{
+"date":"2022-06-23",
+"total":1398
 }
 ],
 "package":"python-hyphy-python",
@@ -1453,6 +1457,15 @@
 {
 "basename":"python-hyphy-python-0.1.10-py39h5649aa1_1.tar.bz2",
 "total":690
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"python-hyphy-python-0.1.10-py39haccb4a3_2.tar.bz2",
+"total":250
 }
 ]
 }

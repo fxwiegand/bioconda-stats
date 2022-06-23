@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-genomicranges-1.22.4-0.tar.bz2",
-"total":13325
+"total":13365
 }
 ],
 "downloads_per_date":[
@@ -1178,6 +1178,10 @@
 {
 "date":"2022-06-18",
 "total":13325
+},
+{
+"date":"2022-06-23",
+"total":13365
 }
 ],
 "package":"bioconductor-genomicranges",
@@ -1269,6 +1273,15 @@
 {
 "basename":"bioconductor-genomicranges-1.22.4-0.tar.bz2",
 "total":13325
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-genomicranges-1.22.4-0.tar.bz2",
+"total":13365
 }
 ]
 }

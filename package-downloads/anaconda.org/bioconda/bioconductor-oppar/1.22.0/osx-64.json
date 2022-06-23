@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-oppar-1.22.0-r41haba8685_1.tar.bz2",
-"total":209
+"total":219
 },
 {
 "basename":"bioconductor-oppar-1.22.0-r41h68a2ddb_0.tar.bz2",
@@ -546,6 +546,10 @@
 {
 "date":"2022-06-18",
 "total":435
+},
+{
+"date":"2022-06-23",
+"total":445
 }
 ],
 "package":"bioconductor-oppar",
@@ -645,6 +649,15 @@
 {
 "basename":"bioconductor-oppar-1.22.0-r41h68a2ddb_0.tar.bz2",
 "total":226
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-oppar-1.22.0-r41haba8685_1.tar.bz2",
+"total":219
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"fastq-multx-1.4.2-hcd10b59_2.tar.bz2",
-"total":221
+"total":231
 },
 {
 "basename":"fastq-multx-1.4.2-ha1b3eb9_0.tar.bz2",
@@ -1206,6 +1206,10 @@
 {
 "date":"2022-06-18",
 "total":1169
+},
+{
+"date":"2022-06-23",
+"total":1179
 }
 ],
 "package":"fastq-multx",
@@ -1317,6 +1321,15 @@
 {
 "basename":"fastq-multx-1.4.2-hb280591_1.tar.bz2",
 "total":697
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"fastq-multx-1.4.2-hcd10b59_2.tar.bz2",
+"total":231
 }
 ]
 }

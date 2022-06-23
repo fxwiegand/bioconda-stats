@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-sort-key-1.33-pl5321hb4d813b_2.tar.bz2",
-"total":284
+"total":294
 },
 {
 "basename":"perl-sort-key-1.33-pl526h0b31af3_0.tar.bz2",
@@ -1186,6 +1186,10 @@
 {
 "date":"2022-06-18",
 "total":1135
+},
+{
+"date":"2022-06-23",
+"total":1145
 }
 ],
 "package":"perl-sort-key",
@@ -1301,6 +1305,15 @@
 {
 "basename":"perl-sort-key-1.33-pl526h0b31af3_0.tar.bz2",
 "total":813
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"perl-sort-key-1.33-pl5321hb4d813b_2.tar.bz2",
+"total":294
 }
 ]
 }

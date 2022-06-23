@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-math-random-mt-auto-6.23-pl5321hb4d813b_3.tar.bz2",
-"total":237
+"total":247
 },
 {
 "basename":"perl-math-random-mt-auto-6.23-pl526h470a237_0.tar.bz2",
@@ -1146,6 +1146,10 @@
 {
 "date":"2022-06-18",
 "total":2568
+},
+{
+"date":"2022-06-23",
+"total":2578
 }
 ],
 "package":"perl-math-random-mt-auto",
@@ -1261,6 +1265,15 @@
 {
 "basename":"perl-math-random-mt-auto-6.23-pl526h470a237_0.tar.bz2",
 "total":2253
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"perl-math-random-mt-auto-6.23-pl5321hb4d813b_3.tar.bz2",
+"total":247
 }
 ]
 }

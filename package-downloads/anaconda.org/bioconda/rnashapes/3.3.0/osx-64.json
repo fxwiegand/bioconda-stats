@@ -11,7 +11,7 @@
 },
 {
 "basename":"rnashapes-3.3.0-pl5321hcd10b59_7.tar.bz2",
-"total":215
+"total":225
 },
 {
 "basename":"rnashapes-3.3.0-pl526ha1b3eb9_4.tar.bz2",
@@ -1182,6 +1182,10 @@
 {
 "date":"2022-06-18",
 "total":1082
+},
+{
+"date":"2022-06-23",
+"total":1092
 }
 ],
 "package":"rnashapes",
@@ -1292,6 +1296,15 @@
 {
 "basename":"rnashapes-3.3.0-pl526ha1b3eb9_4.tar.bz2",
 "total":755
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"rnashapes-3.3.0-pl5321hcd10b59_7.tar.bz2",
+"total":225
 }
 ]
 }

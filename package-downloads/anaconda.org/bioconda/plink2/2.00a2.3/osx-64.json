@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"plink2-2.00a2.3-hcd10b59_2.tar.bz2",
-"total":286
+"total":296
 },
 {
 "basename":"plink2-2.00a2.3-ha1b3eb9_0.tar.bz2",
@@ -1210,6 +1210,10 @@
 {
 "date":"2022-06-18",
 "total":1643
+},
+{
+"date":"2022-06-23",
+"total":1653
 }
 ],
 "package":"plink2",
@@ -1357,6 +1361,15 @@
 {
 "basename":"plink2-2.00a2.3-hb280591_1.tar.bz2",
 "total":780
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"plink2-2.00a2.3-hcd10b59_2.tar.bz2",
+"total":296
 }
 ]
 }

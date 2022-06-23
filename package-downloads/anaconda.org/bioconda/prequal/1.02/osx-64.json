@@ -7,7 +7,7 @@
 },
 {
 "basename":"prequal-1.02-h9d1909e_3.tar.bz2",
-"total":20
+"total":32
 },
 {
 "basename":"prequal-1.02-h9d1909e_2.tar.bz2",
@@ -1122,6 +1122,10 @@
 {
 "date":"2022-06-18",
 "total":737
+},
+{
+"date":"2022-06-23",
+"total":749
 }
 ],
 "package":"prequal",
@@ -1233,6 +1237,15 @@
 {
 "basename":"prequal-1.02-h4de6764_1.tar.bz2",
 "total":493
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"prequal-1.02-h9d1909e_3.tar.bz2",
+"total":32
 }
 ]
 }

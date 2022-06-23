@@ -11,7 +11,7 @@
 },
 {
 "basename":"typing-3.5.2.2-py36_0.tar.bz2",
-"total":5231
+"total":5241
 },
 {
 "basename":"typing-3.5.2.2-py35_0.tar.bz2",
@@ -1190,6 +1190,10 @@
 {
 "date":"2022-06-18",
 "total":14522
+},
+{
+"date":"2022-06-23",
+"total":14532
 }
 ],
 "package":"typing",
@@ -1309,6 +1313,15 @@
 {
 "basename":"typing-3.5.2.2-py35_0.tar.bz2",
 "total":7306
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"typing-3.5.2.2-py36_0.tar.bz2",
+"total":5241
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-pslstats-332-0.tar.bz2",
-"total":5009
+"total":5029
 }
 ],
 "downloads_per_date":[
@@ -1198,6 +1198,10 @@
 {
 "date":"2022-06-18",
 "total":5009
+},
+{
+"date":"2022-06-23",
+"total":5029
 }
 ],
 "package":"ucsc-pslstats",
@@ -1289,6 +1293,15 @@
 {
 "basename":"ucsc-pslstats-332-0.tar.bz2",
 "total":5009
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"ucsc-pslstats-332-0.tar.bz2",
+"total":5029
 }
 ]
 }

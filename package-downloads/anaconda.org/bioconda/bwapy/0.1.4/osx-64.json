@@ -43,7 +43,7 @@
 },
 {
 "basename":"bwapy-0.1.4-py39h66c2135_4.tar.bz2",
-"total":224
+"total":234
 },
 {
 "basename":"bwapy-0.1.4-py35ha92aebf_1.tar.bz2",
@@ -1258,6 +1258,10 @@
 {
 "date":"2022-06-18",
 "total":2818
+},
+{
+"date":"2022-06-23",
+"total":2828
 }
 ],
 "package":"bwapy",
@@ -1461,6 +1465,15 @@
 {
 "basename":"bwapy-0.1.4-py36ha92aebf_1.tar.bz2",
 "total":1022
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"bwapy-0.1.4-py39h66c2135_4.tar.bz2",
+"total":234
 }
 ]
 }

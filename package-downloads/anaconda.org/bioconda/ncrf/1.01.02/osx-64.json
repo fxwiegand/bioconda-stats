@@ -11,7 +11,7 @@
 },
 {
 "basename":"ncrf-1.01.02-hb4d813b_2.tar.bz2",
-"total":900
+"total":910
 },
 {
 "basename":"ncrf-1.01.02-h01d97ff_0.tar.bz2",
@@ -1214,6 +1214,10 @@
 {
 "date":"2022-06-18",
 "total":2105
+},
+{
+"date":"2022-06-23",
+"total":2115
 }
 ],
 "package":"ncrf",
@@ -1329,6 +1333,15 @@
 {
 "basename":"ncrf-1.01.02-h01d97ff_0.tar.bz2",
 "total":976
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"ncrf-1.01.02-hb4d813b_2.tar.bz2",
+"total":910
 }
 ]
 }

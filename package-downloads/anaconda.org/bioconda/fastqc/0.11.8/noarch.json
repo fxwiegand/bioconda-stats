@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"fastqc-0.11.8-2.tar.bz2",
-"total":55936
+"total":55986
 }
 ],
 "downloads_per_date":[
@@ -1202,6 +1202,10 @@
 {
 "date":"2022-06-18",
 "total":55936
+},
+{
+"date":"2022-06-23",
+"total":55986
 }
 ],
 "package":"fastqc",
@@ -1293,6 +1297,15 @@
 {
 "basename":"fastqc-0.11.8-2.tar.bz2",
 "total":55936
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"fastqc-0.11.8-2.tar.bz2",
+"total":55986
 }
 ]
 }

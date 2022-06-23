@@ -7,7 +7,7 @@
 },
 {
 "basename":"mutscan-1.14.0-hfd59bb5_1.tar.bz2",
-"total":830
+"total":840
 },
 {
 "basename":"mutscan-1.14.0-hfbae3c0_0.tar.bz2",
@@ -1182,6 +1182,10 @@
 {
 "date":"2022-06-18",
 "total":1743
+},
+{
+"date":"2022-06-23",
+"total":1753
 }
 ],
 "package":"mutscan",
@@ -1284,6 +1288,15 @@
 {
 "basename":"mutscan-1.14.0-hfbae3c0_0.tar.bz2",
 "total":901
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"mutscan-1.14.0-hfd59bb5_1.tar.bz2",
+"total":840
 }
 ]
 }

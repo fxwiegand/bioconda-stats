@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-santa-2.30.0-r41haba8685_1.tar.bz2",
-"total":216
+"total":226
 }
 ],
 "downloads_per_date":[
@@ -534,6 +534,10 @@
 {
 "date":"2022-06-18",
 "total":405
+},
+{
+"date":"2022-06-23",
+"total":415
 }
 ],
 "package":"bioconductor-santa",
@@ -624,6 +628,15 @@
 {
 "basename":"bioconductor-santa-2.30.0-r41haba8685_1.tar.bz2",
 "total":216
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-santa-2.30.0-r41haba8685_1.tar.bz2",
+"total":226
 }
 ]
 }

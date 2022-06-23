@@ -7,7 +7,7 @@
 },
 {
 "basename":"ffindex-0.98-hcd10b59_2.tar.bz2",
-"total":216
+"total":226
 },
 {
 "basename":"ffindex-0.98-hb280591_1.tar.bz2",
@@ -1178,6 +1178,10 @@
 {
 "date":"2022-06-18",
 "total":892
+},
+{
+"date":"2022-06-23",
+"total":902
 }
 ],
 "package":"ffindex",
@@ -1285,6 +1289,15 @@
 {
 "basename":"ffindex-0.98-hb280591_1.tar.bz2",
 "total":610
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"ffindex-0.98-hcd10b59_2.tar.bz2",
+"total":226
 }
 ]
 }

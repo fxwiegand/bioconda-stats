@@ -23,7 +23,7 @@
 },
 {
 "basename":"muse-1.0.rc-hfd59bb5_5.tar.bz2",
-"total":910
+"total":920
 },
 {
 "basename":"muse-1.0.rc-hd9629dc_3.tar.bz2",
@@ -1226,6 +1226,10 @@
 {
 "date":"2022-06-18",
 "total":2762
+},
+{
+"date":"2022-06-23",
+"total":2772
 }
 ],
 "package":"muse",
@@ -1389,6 +1393,15 @@
 {
 "basename":"muse-1.0.rc-hd9629dc_3.tar.bz2",
 "total":1552
+}
+]
+},
+{
+"date":"2022-06-23",
+"downloads_per_basename":[
+{
+"basename":"muse-1.0.rc-hfd59bb5_5.tar.bz2",
+"total":920
 }
 ]
 }
