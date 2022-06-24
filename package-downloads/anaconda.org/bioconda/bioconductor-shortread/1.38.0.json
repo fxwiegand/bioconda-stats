@@ -1188,6 +1188,10 @@
 {
 "date":"2022-06-23",
 "total":4685
+},
+{
+"date":"2022-06-24",
+"total":4687
 }
 ],
 "downloads_per_subdir":[
@@ -1197,7 +1201,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2646
+"total":2648
 }
 ],
 "package":"bioconductor-shortread",
@@ -1330,6 +1334,15 @@
 {
 "subdir":"osx-64",
 "total":2646
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2648
 }
 ]
 }

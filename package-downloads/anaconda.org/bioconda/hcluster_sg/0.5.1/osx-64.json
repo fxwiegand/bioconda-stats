@@ -11,7 +11,7 @@
 },
 {
 "basename":"hcluster_sg-0.5.1-hcd10b59_5.tar.bz2",
-"total":227
+"total":230
 },
 {
 "basename":"hcluster_sg-0.5.1-ha1b3eb9_3.tar.bz2",
@@ -1194,6 +1194,10 @@
 {
 "date":"2022-06-23",
 "total":2656
+},
+{
+"date":"2022-06-24",
+"total":2659
 }
 ],
 "package":"hcluster_sg",
@@ -1342,6 +1346,15 @@
 {
 "basename":"hcluster_sg-0.5.1-hb280591_4.tar.bz2",
 "total":621
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"hcluster_sg-0.5.1-hcd10b59_5.tar.bz2",
+"total":230
 }
 ]
 }

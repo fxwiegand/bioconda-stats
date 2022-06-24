@@ -1192,6 +1192,10 @@
 {
 "date":"2022-06-23",
 "total":3216
+},
+{
+"date":"2022-06-24",
+"total":3218
 }
 ],
 "downloads_per_subdir":[
@@ -1201,7 +1205,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2508
+"total":2510
 }
 ],
 "package":"bioconductor-rcytoscape",
@@ -1330,6 +1334,15 @@
 {
 "subdir":"osx-64",
 "total":2508
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2510
 }
 ]
 }

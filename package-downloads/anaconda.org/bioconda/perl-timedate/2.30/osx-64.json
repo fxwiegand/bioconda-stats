@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-timedate-2.30-pl526_1.tar.bz2",
-"total":7010
+"total":7015
 }
 ],
 "downloads_per_date":[
@@ -1210,6 +1210,10 @@
 {
 "date":"2022-06-23",
 "total":8793
+},
+{
+"date":"2022-06-24",
+"total":8798
 }
 ],
 "package":"perl-timedate",
@@ -1338,6 +1342,15 @@
 {
 "basename":"perl-timedate-2.30-pl526_1.tar.bz2",
 "total":7010
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"perl-timedate-2.30-pl526_1.tar.bz2",
+"total":7015
 }
 ]
 }

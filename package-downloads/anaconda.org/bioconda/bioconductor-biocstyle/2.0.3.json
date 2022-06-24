@@ -1184,6 +1184,10 @@
 {
 "date":"2022-06-23",
 "total":5102
+},
+{
+"date":"2022-06-24",
+"total":5104
 }
 ],
 "downloads_per_subdir":[
@@ -1193,7 +1197,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2652
+"total":2654
 }
 ],
 "package":"bioconductor-biocstyle",
@@ -1322,6 +1326,15 @@
 {
 "subdir":"osx-64",
 "total":2652
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2654
 }
 ]
 }

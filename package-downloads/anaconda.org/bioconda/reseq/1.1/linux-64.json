@@ -43,7 +43,7 @@
 },
 {
 "basename":"reseq-1.1-py39hdced79b_1.tar.bz2",
-"total":966
+"total":968
 }
 ],
 "downloads_per_date":[
@@ -1246,6 +1246,10 @@
 {
 "date":"2022-06-23",
 "total":1937
+},
+{
+"date":"2022-06-24",
+"total":1939
 }
 ],
 "package":"reseq",
@@ -1602,6 +1606,15 @@
 {
 "basename":"reseq-1.1-py39hdced79b_1.tar.bz2",
 "total":966
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"reseq-1.1-py39hdced79b_1.tar.bz2",
+"total":968
 }
 ]
 }

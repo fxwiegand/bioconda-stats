@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"sambamba-0.7.0-h89e63da_0.tar.bz2",
-"total":3257
+"total":3260
 },
 {
 "basename":"sambamba-0.7.0-h89e63da_1.tar.bz2",
@@ -1086,6 +1086,10 @@
 {
 "date":"2022-06-23",
 "total":20262
+},
+{
+"date":"2022-06-24",
+"total":20265
 }
 ],
 "package":"sambamba",
@@ -1226,6 +1230,15 @@
 {
 "basename":"sambamba-0.7.0-h89e63da_1.tar.bz2",
 "total":17005
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"sambamba-0.7.0-h89e63da_0.tar.bz2",
+"total":3260
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"mafft-7.490-hec16e2b_1.tar.bz2",
-"total":30931
+"total":30941
 },
 {
 "basename":"mafft-7.490-h779adbc_0.tar.bz2",
@@ -566,6 +566,10 @@
 {
 "date":"2022-06-23",
 "total":76094
+},
+{
+"date":"2022-06-24",
+"total":76104
 }
 ],
 "package":"mafft",
@@ -706,6 +710,15 @@
 {
 "basename":"mafft-7.490-h779adbc_0.tar.bz2",
 "total":45163
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"mafft-7.490-hec16e2b_1.tar.bz2",
+"total":30941
 }
 ]
 }

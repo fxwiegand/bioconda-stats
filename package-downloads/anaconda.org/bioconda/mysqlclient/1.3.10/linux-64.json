@@ -11,7 +11,7 @@
 },
 {
 "basename":"mysqlclient-1.3.10-py36_0.tar.bz2",
-"total":9919
+"total":9921
 }
 ],
 "downloads_per_date":[
@@ -1050,6 +1050,10 @@
 {
 "date":"2022-06-23",
 "total":24171
+},
+{
+"date":"2022-06-24",
+"total":24173
 }
 ],
 "package":"mysqlclient",
@@ -1209,6 +1213,15 @@
 {
 "basename":"mysqlclient-1.3.10-py36_0.tar.bz2",
 "total":9919
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"mysqlclient-1.3.10-py36_0.tar.bz2",
+"total":9921
 }
 ]
 }

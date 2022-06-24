@@ -1132,6 +1132,10 @@
 {
 "date":"2022-06-23",
 "total":780
+},
+{
+"date":"2022-06-24",
+"total":782
 }
 ],
 "downloads_per_subdir":[
@@ -1141,7 +1145,7 @@
 },
 {
 "subdir":"osx-64",
-"total":697
+"total":699
 }
 ],
 "package":"bioconductor-biodb",
@@ -1270,6 +1274,15 @@
 {
 "subdir":"osx-64",
 "total":697
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":699
 }
 ]
 }

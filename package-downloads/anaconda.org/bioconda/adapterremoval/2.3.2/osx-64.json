@@ -7,7 +7,7 @@
 },
 {
 "basename":"adapterremoval-2.3.2-pl5321h10beee3_2.tar.bz2",
-"total":251
+"total":253
 },
 {
 "basename":"adapterremoval-2.3.2-hf20b948_1.tar.bz2",
@@ -1214,6 +1214,10 @@
 {
 "date":"2022-06-23",
 "total":1057
+},
+{
+"date":"2022-06-24",
+"total":1059
 }
 ],
 "package":"adapterremoval",
@@ -1346,6 +1350,15 @@
 {
 "basename":"adapterremoval-2.3.2-pl5321h10beee3_2.tar.bz2",
 "total":251
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"adapterremoval-2.3.2-pl5321h10beee3_2.tar.bz2",
+"total":253
 }
 ]
 }

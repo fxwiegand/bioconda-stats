@@ -11,7 +11,7 @@
 },
 {
 "basename":"braker-1.9-pl5321hdfd78af_6.tar.bz2",
-"total":373
+"total":376
 },
 {
 "basename":"braker-1.9-pl526_4.tar.bz2",
@@ -1150,6 +1150,10 @@
 {
 "date":"2022-06-23",
 "total":1260
+},
+{
+"date":"2022-06-24",
+"total":1263
 }
 ],
 "package":"braker",
@@ -1346,6 +1350,15 @@
 {
 "basename":"braker-1.9-pl526_4.tar.bz2",
 "total":531
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"braker-1.9-pl5321hdfd78af_6.tar.bz2",
+"total":376
 }
 ]
 }

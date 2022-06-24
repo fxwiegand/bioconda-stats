@@ -87,7 +87,7 @@
 },
 {
 "basename":"pysam-0.8.3-py36hd4e7385_8.tar.bz2",
-"total":889
+"total":891
 },
 {
 "basename":"pysam-0.8.3-py36ha92aebf_5.tar.bz2",
@@ -1286,6 +1286,10 @@
 {
 "date":"2022-06-23",
 "total":4195
+},
+{
+"date":"2022-06-24",
+"total":4197
 }
 ],
 "package":"pysam",
@@ -1618,6 +1622,15 @@
 {
 "basename":"pysam-0.8.3-py36hd4e7385_8.tar.bz2",
 "total":889
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"pysam-0.8.3-py36hd4e7385_8.tar.bz2",
+"total":891
 }
 ]
 }

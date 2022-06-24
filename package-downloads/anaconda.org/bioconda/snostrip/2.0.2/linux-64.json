@@ -15,7 +15,7 @@
 },
 {
 "basename":"snostrip-2.0.2-pl5321h87f3376_4.tar.bz2",
-"total":255
+"total":257
 },
 {
 "basename":"snostrip-2.0.2-pl526hf484d3e_0.tar.bz2",
@@ -1218,6 +1218,10 @@
 {
 "date":"2022-06-23",
 "total":2623
+},
+{
+"date":"2022-06-24",
+"total":2625
 }
 ],
 "package":"snostrip",
@@ -1418,6 +1422,15 @@
 {
 "basename":"snostrip-2.0.2-pl526hf484d3e_0.tar.bz2",
 "total":2070
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"snostrip-2.0.2-pl5321h87f3376_4.tar.bz2",
+"total":257
 }
 ]
 }

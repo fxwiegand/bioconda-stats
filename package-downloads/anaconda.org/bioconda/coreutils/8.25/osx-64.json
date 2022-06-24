@@ -7,7 +7,7 @@
 },
 {
 "basename":"coreutils-8.25-1.tar.bz2",
-"total":8104
+"total":8108
 }
 ],
 "downloads_per_date":[
@@ -1210,6 +1210,10 @@
 {
 "date":"2022-06-23",
 "total":9049
+},
+{
+"date":"2022-06-24",
+"total":9053
 }
 ],
 "package":"coreutils",
@@ -1322,6 +1326,15 @@
 {
 "basename":"coreutils-8.25-1.tar.bz2",
 "total":8104
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"coreutils-8.25-1.tar.bz2",
+"total":8108
 }
 ]
 }

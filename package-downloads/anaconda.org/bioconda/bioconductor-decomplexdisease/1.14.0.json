@@ -528,6 +528,10 @@
 {
 "date":"2022-06-23",
 "total":486
+},
+{
+"date":"2022-06-24",
+"total":488
 }
 ],
 "downloads_per_subdir":[
@@ -537,7 +541,7 @@
 },
 {
 "subdir":"osx-64",
-"total":401
+"total":403
 }
 ],
 "package":"bioconductor-decomplexdisease",
@@ -670,6 +674,15 @@
 {
 "subdir":"osx-64",
 "total":401
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":403
 }
 ]
 }

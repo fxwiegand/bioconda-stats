@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-pslcdnafilter-357-0.tar.bz2",
-"total":843
+"total":848
 },
 {
 "basename":"ucsc-pslcdnafilter-357-1.tar.bz2",
@@ -1170,6 +1170,10 @@
 {
 "date":"2022-06-23",
 "total":4938
+},
+{
+"date":"2022-06-24",
+"total":4943
 }
 ],
 "package":"ucsc-pslcdnafilter",
@@ -1310,6 +1314,15 @@
 {
 "basename":"ucsc-pslcdnafilter-357-1.tar.bz2",
 "total":4095
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"ucsc-pslcdnafilter-357-0.tar.bz2",
+"total":848
 }
 ]
 }

@@ -556,6 +556,10 @@
 {
 "date":"2022-06-23",
 "total":578
+},
+{
+"date":"2022-06-24",
+"total":580
 }
 ],
 "downloads_per_subdir":[
@@ -565,7 +569,7 @@
 },
 {
 "subdir":"osx-64",
-"total":486
+"total":488
 }
 ],
 "package":"bioconductor-bridge",
@@ -698,6 +702,15 @@
 {
 "subdir":"osx-64",
 "total":486
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":488
 }
 ]
 }

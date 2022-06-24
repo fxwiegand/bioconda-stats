@@ -7,7 +7,7 @@
 },
 {
 "basename":"a5-miseq-20160825-hdfd78af_2.tar.bz2",
-"total":966
+"total":969
 }
 ],
 "downloads_per_date":[
@@ -1190,6 +1190,10 @@
 {
 "date":"2022-06-23",
 "total":1500
+},
+{
+"date":"2022-06-24",
+"total":1503
 }
 ],
 "package":"a5-miseq",
@@ -1314,6 +1318,15 @@
 {
 "basename":"a5-miseq-20160825-hdfd78af_2.tar.bz2",
 "total":966
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"a5-miseq-20160825-hdfd78af_2.tar.bz2",
+"total":969
 }
 ]
 }

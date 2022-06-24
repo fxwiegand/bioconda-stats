@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"galaxy-containers-21.1.0-py_0.tar.bz2",
-"total":1062
+"total":1064
 }
 ],
 "downloads_per_date":[
@@ -1178,6 +1178,10 @@
 {
 "date":"2022-06-23",
 "total":1062
+},
+{
+"date":"2022-06-24",
+"total":1064
 }
 ],
 "package":"galaxy-containers",
@@ -1278,6 +1282,15 @@
 {
 "basename":"galaxy-containers-21.1.0-py_0.tar.bz2",
 "total":1062
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"galaxy-containers-21.1.0-py_0.tar.bz2",
+"total":1064
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-par-packer-1.036-pl5321hec16e2b_4.tar.bz2",
-"total":267
+"total":269
 },
 {
 "basename":"perl-par-packer-1.036-pl5.22.0_0.tar.bz2",
@@ -1222,6 +1222,10 @@
 {
 "date":"2022-06-23",
 "total":4026
+},
+{
+"date":"2022-06-24",
+"total":4028
 }
 ],
 "package":"perl-par-packer",
@@ -1438,6 +1442,15 @@
 {
 "basename":"perl-par-packer-1.036-pl526_2.tar.bz2",
 "total":2252
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"perl-par-packer-1.036-pl5321hec16e2b_4.tar.bz2",
+"total":269
 }
 ]
 }

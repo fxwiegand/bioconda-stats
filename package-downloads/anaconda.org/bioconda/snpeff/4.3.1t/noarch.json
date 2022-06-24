@@ -7,7 +7,7 @@
 },
 {
 "basename":"snpeff-4.3.1t-hdfd78af_5.tar.bz2",
-"total":2705
+"total":2708
 },
 {
 "basename":"snpeff-4.3.1t-3.tar.bz2",
@@ -1222,6 +1222,10 @@
 {
 "date":"2022-06-23",
 "total":40499
+},
+{
+"date":"2022-06-24",
+"total":40502
 }
 ],
 "package":"snpeff",
@@ -1446,6 +1450,15 @@
 {
 "basename":"snpeff-4.3.1t-2.tar.bz2",
 "total":14594
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"snpeff-4.3.1t-hdfd78af_5.tar.bz2",
+"total":2708
 }
 ]
 }

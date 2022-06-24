@@ -27,7 +27,7 @@
 },
 {
 "basename":"bioconductor-txdb.celegans.ucsc.ce11.refgene-3.4.6-r41hdfd78af_7.tar.bz2",
-"total":465
+"total":467
 }
 ],
 "downloads_per_date":[
@@ -1122,6 +1122,10 @@
 {
 "date":"2022-06-23",
 "total":1123
+},
+{
+"date":"2022-06-24",
+"total":1125
 }
 ],
 "package":"bioconductor-txdb.celegans.ucsc.ce11.refgene",
@@ -1362,6 +1366,15 @@
 {
 "basename":"bioconductor-txdb.celegans.ucsc.ce11.refgene-3.4.6-r41hdfd78af_7.tar.bz2",
 "total":465
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-txdb.celegans.ucsc.ce11.refgene-3.4.6-r41hdfd78af_7.tar.bz2",
+"total":467
 }
 ]
 }

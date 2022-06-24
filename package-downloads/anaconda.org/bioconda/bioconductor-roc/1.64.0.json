@@ -1188,6 +1188,10 @@
 {
 "date":"2022-06-23",
 "total":1555
+},
+{
+"date":"2022-06-24",
+"total":1557
 }
 ],
 "downloads_per_subdir":[
@@ -1197,7 +1201,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1438
+"total":1440
 }
 ],
 "package":"bioconductor-roc",
@@ -1326,6 +1330,15 @@
 {
 "subdir":"osx-64",
 "total":1438
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1440
 }
 ]
 }

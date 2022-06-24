@@ -1144,6 +1144,10 @@
 {
 "date":"2022-06-23",
 "total":834
+},
+{
+"date":"2022-06-24",
+"total":836
 }
 ],
 "downloads_per_subdir":[
@@ -1153,7 +1157,7 @@
 },
 {
 "subdir":"osx-64",
-"total":748
+"total":750
 }
 ],
 "package":"bioconductor-genextender",
@@ -1282,6 +1286,15 @@
 {
 "subdir":"osx-64",
 "total":748
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":750
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"krona-2.8-pl526_1.tar.bz2",
-"total":759
+"total":761
 },
 {
 "basename":"krona-2.8-pl5262hdfd78af_2.tar.bz2",
@@ -1210,6 +1210,10 @@
 {
 "date":"2022-06-23",
 "total":2164
+},
+{
+"date":"2022-06-24",
+"total":2166
 }
 ],
 "package":"krona",
@@ -1378,6 +1382,15 @@
 {
 "basename":"krona-2.8-pl5262hdfd78af_2.tar.bz2",
 "total":1266
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"krona-2.8-pl526_1.tar.bz2",
+"total":761
 }
 ]
 }

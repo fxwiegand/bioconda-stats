@@ -552,6 +552,10 @@
 {
 "date":"2022-06-23",
 "total":523
+},
+{
+"date":"2022-06-24",
+"total":525
 }
 ],
 "downloads_per_subdir":[
@@ -561,7 +565,7 @@
 },
 {
 "subdir":"osx-64",
-"total":448
+"total":450
 }
 ],
 "package":"bioconductor-dmrcaller",
@@ -694,6 +698,15 @@
 {
 "subdir":"osx-64",
 "total":448
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":450
 }
 ]
 }

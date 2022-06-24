@@ -716,6 +716,10 @@
 {
 "date":"2022-06-23",
 "total":600
+},
+{
+"date":"2022-06-24",
+"total":602
 }
 ],
 "downloads_per_subdir":[
@@ -725,7 +729,7 @@
 },
 {
 "subdir":"osx-64",
-"total":524
+"total":526
 }
 ],
 "package":"poseidon-trident",
@@ -854,6 +858,15 @@
 {
 "subdir":"osx-64",
 "total":524
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":526
 }
 ]
 }

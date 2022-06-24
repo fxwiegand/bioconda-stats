@@ -15,7 +15,7 @@
 },
 {
 "basename":"avro-python3-1.8.2-py36_1.tar.bz2",
-"total":40403
+"total":40404
 }
 ],
 "downloads_per_date":[
@@ -442,6 +442,10 @@
 {
 "date":"2022-06-23",
 "total":42095
+},
+{
+"date":"2022-06-24",
+"total":42096
 }
 ],
 "package":"avro-python3",
@@ -591,6 +595,15 @@
 {
 "basename":"avro-python3-1.8.2-py36_1.tar.bz2",
 "total":40403
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"avro-python3-1.8.2-py36_1.tar.bz2",
+"total":40404
 }
 ]
 }

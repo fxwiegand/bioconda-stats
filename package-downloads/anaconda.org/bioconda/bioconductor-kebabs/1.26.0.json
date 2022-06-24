@@ -1128,6 +1128,10 @@
 {
 "date":"2022-06-23",
 "total":830
+},
+{
+"date":"2022-06-24",
+"total":832
 }
 ],
 "downloads_per_subdir":[
@@ -1137,7 +1141,7 @@
 },
 {
 "subdir":"osx-64",
-"total":730
+"total":732
 }
 ],
 "package":"bioconductor-kebabs",
@@ -1266,6 +1270,15 @@
 {
 "subdir":"osx-64",
 "total":730
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":732
 }
 ]
 }

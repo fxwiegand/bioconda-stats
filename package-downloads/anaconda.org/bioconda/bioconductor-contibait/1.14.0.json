@@ -1176,6 +1176,10 @@
 {
 "date":"2022-06-23",
 "total":2027
+},
+{
+"date":"2022-06-24",
+"total":2029
 }
 ],
 "downloads_per_subdir":[
@@ -1185,7 +1189,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1871
+"total":1873
 }
 ],
 "package":"bioconductor-contibait",
@@ -1318,6 +1322,15 @@
 {
 "subdir":"osx-64",
 "total":1871
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1873
 }
 ]
 }

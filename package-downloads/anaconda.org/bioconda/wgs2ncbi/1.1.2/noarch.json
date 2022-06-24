@@ -7,7 +7,7 @@
 },
 {
 "basename":"wgs2ncbi-1.1.2-pl5321hdfd78af_2.tar.bz2",
-"total":315
+"total":317
 },
 {
 "basename":"wgs2ncbi-1.1.2-pl526_0.tar.bz2",
@@ -1070,6 +1070,10 @@
 {
 "date":"2022-06-23",
 "total":727
+},
+{
+"date":"2022-06-24",
+"total":729
 }
 ],
 "package":"wgs2ncbi",
@@ -1218,6 +1222,15 @@
 {
 "basename":"wgs2ncbi-1.1.2-pl526_0.tar.bz2",
 "total":340
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"wgs2ncbi-1.1.2-pl5321hdfd78af_2.tar.bz2",
+"total":317
 }
 ]
 }

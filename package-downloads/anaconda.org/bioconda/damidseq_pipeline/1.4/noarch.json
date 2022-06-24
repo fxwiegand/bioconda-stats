@@ -7,7 +7,7 @@
 },
 {
 "basename":"damidseq_pipeline-1.4-pl5321hdfd78af_5.tar.bz2",
-"total":327
+"total":329
 },
 {
 "basename":"damidseq_pipeline-1.4-pl526_3.tar.bz2",
@@ -1058,6 +1058,10 @@
 {
 "date":"2022-06-23",
 "total":744
+},
+{
+"date":"2022-06-24",
+"total":746
 }
 ],
 "package":"damidseq_pipeline",
@@ -1206,6 +1210,15 @@
 {
 "basename":"damidseq_pipeline-1.4-pl526_3.tar.bz2",
 "total":352
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"damidseq_pipeline-1.4-pl5321hdfd78af_5.tar.bz2",
+"total":329
 }
 ]
 }

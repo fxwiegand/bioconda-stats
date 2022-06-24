@@ -7,7 +7,7 @@
 },
 {
 "basename":"mash-2.3-hf785b45_2.tar.bz2",
-"total":836
+"total":840
 },
 {
 "basename":"mash-2.3-h8503a2b_1.tar.bz2",
@@ -1214,6 +1214,10 @@
 {
 "date":"2022-06-23",
 "total":2684
+},
+{
+"date":"2022-06-24",
+"total":2688
 }
 ],
 "package":"mash",
@@ -1362,6 +1366,15 @@
 {
 "basename":"mash-2.3-h8503a2b_1.tar.bz2",
 "total":1623
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"mash-2.3-hf785b45_2.tar.bz2",
+"total":840
 }
 ]
 }

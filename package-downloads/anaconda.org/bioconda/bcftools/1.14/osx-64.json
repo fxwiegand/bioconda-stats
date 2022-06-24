@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bcftools-1.14-hc2ba8ff_1.tar.bz2",
-"total":522
+"total":524
 },
 {
 "basename":"bcftools-1.14-h5232ea4_0.tar.bz2",
@@ -594,6 +594,10 @@
 {
 "date":"2022-06-23",
 "total":1153
+},
+{
+"date":"2022-06-24",
+"total":1155
 }
 ],
 "package":"bcftools",
@@ -730,6 +734,15 @@
 {
 "basename":"bcftools-1.14-h5232ea4_0.tar.bz2",
 "total":631
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"bcftools-1.14-hc2ba8ff_1.tar.bz2",
+"total":524
 }
 ]
 }

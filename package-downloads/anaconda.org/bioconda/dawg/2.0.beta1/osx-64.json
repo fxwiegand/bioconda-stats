@@ -19,7 +19,7 @@
 },
 {
 "basename":"dawg-2.0.beta1-hb452576_5.tar.bz2",
-"total":236
+"total":238
 },
 {
 "basename":"dawg-2.0.beta1-gsl2.2_boost1.64_0.tar.bz2",
@@ -1226,6 +1226,10 @@
 {
 "date":"2022-06-23",
 "total":2731
+},
+{
+"date":"2022-06-24",
+"total":2733
 }
 ],
 "package":"dawg",
@@ -1414,6 +1418,15 @@
 {
 "basename":"dawg-2.0.beta1-hb452576_5.tar.bz2",
 "total":236
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"dawg-2.0.beta1-hb452576_5.tar.bz2",
+"total":238
 }
 ]
 }

@@ -19,7 +19,7 @@
 },
 {
 "basename":"cpat-2.0.0-py37h97743b1_4.tar.bz2",
-"total":90
+"total":91
 },
 {
 "basename":"cpat-2.0.0-py37hc1659b7_2.tar.bz2",
@@ -510,6 +510,10 @@
 {
 "date":"2022-06-23",
 "total":856
+},
+{
+"date":"2022-06-24",
+"total":857
 }
 ],
 "package":"cpat",
@@ -799,6 +803,15 @@
 {
 "basename":"cpat-2.0.0-py38hd504320_4.tar.bz2",
 "total":124
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"cpat-2.0.0-py37h97743b1_4.tar.bz2",
+"total":91
 }
 ]
 }

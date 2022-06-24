@@ -556,6 +556,10 @@
 {
 "date":"2022-06-23",
 "total":597
+},
+{
+"date":"2022-06-24",
+"total":599
 }
 ],
 "downloads_per_subdir":[
@@ -565,7 +569,7 @@
 },
 {
 "subdir":"osx-64",
-"total":470
+"total":472
 }
 ],
 "package":"bioconductor-ibmq",
@@ -698,6 +702,15 @@
 {
 "subdir":"osx-64",
 "total":470
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":472
 }
 ]
 }

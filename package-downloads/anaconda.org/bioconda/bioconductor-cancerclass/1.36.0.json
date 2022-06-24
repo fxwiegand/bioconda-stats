@@ -1152,6 +1152,10 @@
 {
 "date":"2022-06-23",
 "total":860
+},
+{
+"date":"2022-06-24",
+"total":862
 }
 ],
 "downloads_per_subdir":[
@@ -1161,7 +1165,7 @@
 },
 {
 "subdir":"osx-64",
-"total":782
+"total":784
 }
 ],
 "package":"bioconductor-cancerclass",
@@ -1290,6 +1294,15 @@
 {
 "subdir":"osx-64",
 "total":782
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":784
 }
 ]
 }

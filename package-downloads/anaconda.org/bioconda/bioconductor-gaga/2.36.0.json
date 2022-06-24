@@ -1184,6 +1184,10 @@
 {
 "date":"2022-06-23",
 "total":1295
+},
+{
+"date":"2022-06-24",
+"total":1297
 }
 ],
 "downloads_per_subdir":[
@@ -1193,7 +1197,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1129
+"total":1131
 }
 ],
 "package":"bioconductor-gaga",
@@ -1313,6 +1317,15 @@
 {
 "subdir":"osx-64",
 "total":1129
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1131
 }
 ]
 }

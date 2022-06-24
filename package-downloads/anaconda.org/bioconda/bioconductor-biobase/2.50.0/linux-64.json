@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-biobase-2.50.0-r40hd029910_1.tar.bz2",
-"total":59713
+"total":59743
 }
 ],
 "downloads_per_date":[
@@ -1210,6 +1210,10 @@
 {
 "date":"2022-06-23",
 "total":82380
+},
+{
+"date":"2022-06-24",
+"total":82410
 }
 ],
 "package":"bioconductor-biobase",
@@ -1350,6 +1354,15 @@
 {
 "basename":"bioconductor-biobase-2.50.0-r40hd029910_1.tar.bz2",
 "total":59713
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-biobase-2.50.0-r40hd029910_1.tar.bz2",
+"total":59743
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"srax-1.5-pl5321ha8f3691_2.tar.bz2",
-"total":304
+"total":306
 },
 {
 "basename":"srax-1.5-pl526h1341992_0.tar.bz2",
@@ -1118,6 +1118,10 @@
 {
 "date":"2022-06-23",
 "total":931
+},
+{
+"date":"2022-06-24",
+"total":933
 }
 ],
 "package":"srax",
@@ -1266,6 +1270,15 @@
 {
 "basename":"srax-1.5-pl526h1341992_0.tar.bz2",
 "total":475
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"srax-1.5-pl5321ha8f3691_2.tar.bz2",
+"total":306
 }
 ]
 }

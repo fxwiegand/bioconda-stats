@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"sambamba-0.8.1-hadffe2f_1.tar.bz2",
-"total":581
+"total":583
 },
 {
 "basename":"sambamba-0.8.1-h41abebc_0.tar.bz2",
@@ -826,6 +826,10 @@
 {
 "date":"2022-06-23",
 "total":2025
+},
+{
+"date":"2022-06-24",
+"total":2027
 }
 ],
 "package":"sambamba",
@@ -966,6 +970,15 @@
 {
 "basename":"sambamba-0.8.1-h41abebc_0.tar.bz2",
 "total":1444
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"sambamba-0.8.1-hadffe2f_1.tar.bz2",
+"total":583
 }
 ]
 }

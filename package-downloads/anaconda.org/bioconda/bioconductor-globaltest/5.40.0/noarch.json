@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-globaltest-5.40.0-r36_0.tar.bz2",
-"total":807
+"total":809
 }
 ],
 "downloads_per_date":[
@@ -1074,6 +1074,10 @@
 {
 "date":"2022-06-23",
 "total":807
+},
+{
+"date":"2022-06-24",
+"total":809
 }
 ],
 "package":"bioconductor-globaltest",
@@ -1174,6 +1178,15 @@
 {
 "basename":"bioconductor-globaltest-5.40.0-r36_0.tar.bz2",
 "total":807
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-globaltest-5.40.0-r36_0.tar.bz2",
+"total":809
 }
 ]
 }

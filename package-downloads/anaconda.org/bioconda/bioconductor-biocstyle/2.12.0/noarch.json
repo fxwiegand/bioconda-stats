@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-biocstyle-2.12.0-r36_1.tar.bz2",
-"total":849
+"total":851
 },
 {
 "basename":"bioconductor-biocstyle-2.12.0-r351_0.tar.bz2",
@@ -1130,6 +1130,10 @@
 {
 "date":"2022-06-23",
 "total":2596
+},
+{
+"date":"2022-06-24",
+"total":2598
 }
 ],
 "package":"bioconductor-biocstyle",
@@ -1254,6 +1258,15 @@
 {
 "basename":"bioconductor-biocstyle-2.12.0-r351_0.tar.bz2",
 "total":1747
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-biocstyle-2.12.0-r36_1.tar.bz2",
+"total":851
 }
 ]
 }

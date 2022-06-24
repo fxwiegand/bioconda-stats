@@ -1156,6 +1156,10 @@
 {
 "date":"2022-06-23",
 "total":1063
+},
+{
+"date":"2022-06-24",
+"total":1065
 }
 ],
 "downloads_per_subdir":[
@@ -1165,7 +1169,7 @@
 },
 {
 "subdir":"osx-64",
-"total":808
+"total":810
 }
 ],
 "package":"bioconductor-chemminer",
@@ -1294,6 +1298,15 @@
 {
 "subdir":"osx-64",
 "total":808
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":810
 }
 ]
 }

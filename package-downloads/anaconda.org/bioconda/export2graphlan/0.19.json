@@ -1200,6 +1200,10 @@
 {
 "date":"2022-06-23",
 "total":5000
+},
+{
+"date":"2022-06-24",
+"total":5002
 }
 ],
 "downloads_per_subdir":[
@@ -1209,7 +1213,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2840
+"total":2842
 }
 ],
 "package":"export2graphlan",
@@ -1342,6 +1346,15 @@
 {
 "subdir":"osx-64",
 "total":2840
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2842
 }
 ]
 }

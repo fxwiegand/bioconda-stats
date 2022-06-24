@@ -536,6 +536,10 @@
 {
 "date":"2022-06-23",
 "total":491
+},
+{
+"date":"2022-06-24",
+"total":493
 }
 ],
 "downloads_per_subdir":[
@@ -545,7 +549,7 @@
 },
 {
 "subdir":"osx-64",
-"total":408
+"total":410
 }
 ],
 "package":"bioconductor-gosummaries",
@@ -678,6 +682,15 @@
 {
 "subdir":"osx-64",
 "total":408
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":410
 }
 ]
 }

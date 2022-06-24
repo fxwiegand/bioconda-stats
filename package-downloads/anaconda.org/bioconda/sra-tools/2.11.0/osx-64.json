@@ -11,7 +11,7 @@
 },
 {
 "basename":"sra-tools-2.11.0-pl5321hf91ccc4_3.tar.bz2",
-"total":724
+"total":729
 },
 {
 "basename":"sra-tools-2.11.0-pl5262h37d2149_0.tar.bz2",
@@ -1218,6 +1218,10 @@
 {
 "date":"2022-06-23",
 "total":3050
+},
+{
+"date":"2022-06-24",
+"total":3055
 }
 ],
 "package":"sra-tools",
@@ -1402,6 +1406,15 @@
 {
 "basename":"sra-tools-2.11.0-pl5262h37d2149_0.tar.bz2",
 "total":1765
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"sra-tools-2.11.0-pl5321hf91ccc4_3.tar.bz2",
+"total":729
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"ucsc-bedclip-377-h0b8a92a_2.tar.bz2",
-"total":525
+"total":532
 },
 {
 "basename":"ucsc-bedclip-377-h199ee4e_0.tar.bz2",
@@ -1014,6 +1014,10 @@
 {
 "date":"2022-06-23",
 "total":1562
+},
+{
+"date":"2022-06-24",
+"total":1569
 }
 ],
 "package":"ucsc-bedclip",
@@ -1174,6 +1178,15 @@
 {
 "basename":"ucsc-bedclip-377-h199ee4e_0.tar.bz2",
 "total":766
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bedclip-377-h0b8a92a_2.tar.bz2",
+"total":532
 }
 ]
 }

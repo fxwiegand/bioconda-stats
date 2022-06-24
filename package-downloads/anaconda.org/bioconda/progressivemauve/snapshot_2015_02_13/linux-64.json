@@ -11,7 +11,7 @@
 },
 {
 "basename":"progressivemauve-snapshot_2015_02_13-h9ee0642_3.tar.bz2",
-"total":2360
+"total":2362
 },
 {
 "basename":"progressivemauve-snapshot_2015_02_13-2.tar.bz2",
@@ -1218,6 +1218,10 @@
 {
 "date":"2022-06-23",
 "total":6311
+},
+{
+"date":"2022-06-24",
+"total":6313
 }
 ],
 "package":"progressivemauve",
@@ -1402,6 +1406,15 @@
 {
 "basename":"progressivemauve-snapshot_2015_02_13-2.tar.bz2",
 "total":2392
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"progressivemauve-snapshot_2015_02_13-h9ee0642_3.tar.bz2",
+"total":2362
 }
 ]
 }

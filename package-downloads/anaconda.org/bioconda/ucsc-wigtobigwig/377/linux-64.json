@@ -11,7 +11,7 @@
 },
 {
 "basename":"ucsc-wigtobigwig-377-ha8a8165_3.tar.bz2",
-"total":1839
+"total":1846
 },
 {
 "basename":"ucsc-wigtobigwig-377-h446ed27_1.tar.bz2",
@@ -1206,6 +1206,10 @@
 {
 "date":"2022-06-23",
 "total":7582
+},
+{
+"date":"2022-06-24",
+"total":7589
 }
 ],
 "package":"ucsc-wigtobigwig",
@@ -1414,6 +1418,15 @@
 {
 "basename":"ucsc-wigtobigwig-377-h446ed27_1.tar.bz2",
 "total":2183
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"ucsc-wigtobigwig-377-ha8a8165_3.tar.bz2",
+"total":1846
 }
 ]
 }

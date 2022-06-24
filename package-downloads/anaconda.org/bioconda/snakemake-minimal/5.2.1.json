@@ -1172,6 +1172,10 @@
 {
 "date":"2022-06-23",
 "total":4040
+},
+{
+"date":"2022-06-24",
+"total":4042
 }
 ],
 "downloads_per_subdir":[
@@ -1181,7 +1185,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2580
+"total":2582
 }
 ],
 "package":"snakemake-minimal",
@@ -1314,6 +1318,15 @@
 {
 "subdir":"osx-64",
 "total":2580
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2582
 }
 ]
 }

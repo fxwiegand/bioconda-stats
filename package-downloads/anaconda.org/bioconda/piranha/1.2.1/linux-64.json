@@ -11,7 +11,7 @@
 },
 {
 "basename":"piranha-1.2.1-ha5748cb_11.tar.bz2",
-"total":258
+"total":261
 },
 {
 "basename":"piranha-1.2.1-gsl1.16_bamtools2.4.1_3.tar.bz2",
@@ -1246,6 +1246,10 @@
 {
 "date":"2022-06-23",
 "total":7029
+},
+{
+"date":"2022-06-24",
+"total":7032
 }
 ],
 "package":"piranha",
@@ -1658,6 +1662,15 @@
 {
 "basename":"piranha-1.2.1-gsl1.16_2.tar.bz2",
 "total":1512
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"piranha-1.2.1-ha5748cb_11.tar.bz2",
+"total":261
 }
 ]
 }

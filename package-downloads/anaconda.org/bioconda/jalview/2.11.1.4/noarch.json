@@ -7,7 +7,7 @@
 },
 {
 "basename":"jalview-2.11.1.4-hdfd78af_2.tar.bz2",
-"total":990
+"total":992
 },
 {
 "basename":"jalview-2.11.1.4-hdfd78af_1.tar.bz2",
@@ -1210,6 +1210,10 @@
 {
 "date":"2022-06-23",
 "total":2220
+},
+{
+"date":"2022-06-24",
+"total":2222
 }
 ],
 "package":"jalview",
@@ -1358,6 +1362,15 @@
 {
 "basename":"jalview-2.11.1.4-hdfd78af_1.tar.bz2",
 "total":1006
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"jalview-2.11.1.4-hdfd78af_2.tar.bz2",
+"total":992
 }
 ]
 }

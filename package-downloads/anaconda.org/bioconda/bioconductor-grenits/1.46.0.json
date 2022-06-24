@@ -556,6 +556,10 @@
 {
 "date":"2022-06-23",
 "total":570
+},
+{
+"date":"2022-06-24",
+"total":572
 }
 ],
 "downloads_per_subdir":[
@@ -565,7 +569,7 @@
 },
 {
 "subdir":"osx-64",
-"total":482
+"total":484
 }
 ],
 "package":"bioconductor-grenits",
@@ -698,6 +702,15 @@
 {
 "subdir":"osx-64",
 "total":482
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":484
 }
 ]
 }

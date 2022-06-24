@@ -1148,6 +1148,10 @@
 {
 "date":"2022-06-23",
 "total":820
+},
+{
+"date":"2022-06-24",
+"total":822
 }
 ],
 "downloads_per_subdir":[
@@ -1157,7 +1161,7 @@
 },
 {
 "subdir":"osx-64",
-"total":745
+"total":747
 }
 ],
 "package":"bioconductor-rqc",
@@ -1286,6 +1290,15 @@
 {
 "subdir":"osx-64",
 "total":745
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":747
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ncbi-ngs-sdk-2.11.2-pl5321h5e40220_1.tar.bz2",
-"total":684
+"total":689
 },
 {
 "basename":"ncbi-ngs-sdk-2.11.2-h247ad82_0.tar.bz2",
@@ -654,6 +654,10 @@
 {
 "date":"2022-06-23",
 "total":1449
+},
+{
+"date":"2022-06-24",
+"total":1454
 }
 ],
 "package":"ncbi-ngs-sdk",
@@ -790,6 +794,15 @@
 {
 "basename":"ncbi-ngs-sdk-2.11.2-h247ad82_0.tar.bz2",
 "total":765
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"ncbi-ngs-sdk-2.11.2-pl5321h5e40220_1.tar.bz2",
+"total":689
 }
 ]
 }

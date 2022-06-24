@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"snakemake-minimal-5.31.1-py_1.tar.bz2",
-"total":1248
+"total":1251
 },
 {
 "basename":"snakemake-minimal-5.31.1-py_0.tar.bz2",
@@ -1146,6 +1146,10 @@
 {
 "date":"2022-06-23",
 "total":3370
+},
+{
+"date":"2022-06-24",
+"total":3373
 }
 ],
 "package":"snakemake-minimal",
@@ -1274,6 +1278,15 @@
 {
 "basename":"snakemake-minimal-5.31.1-py_0.tar.bz2",
 "total":2122
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"snakemake-minimal-5.31.1-py_1.tar.bz2",
+"total":1251
 }
 ]
 }

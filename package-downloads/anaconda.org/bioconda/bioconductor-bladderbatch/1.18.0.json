@@ -1200,6 +1200,10 @@
 {
 "date":"2022-06-23",
 "total":3179
+},
+{
+"date":"2022-06-24",
+"total":3180
 }
 ],
 "downloads_per_subdir":[
@@ -1209,7 +1213,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2627
+"total":2628
 }
 ],
 "package":"bioconductor-bladderbatch",
@@ -1338,6 +1342,15 @@
 {
 "subdir":"osx-64",
 "total":2627
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2628
 }
 ]
 }

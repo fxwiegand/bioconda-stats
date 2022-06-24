@@ -11,7 +11,7 @@
 },
 {
 "basename":"perl-gdgraph-histogram-1.1-0.tar.bz2",
-"total":1810
+"total":1811
 },
 {
 "basename":"perl-gdgraph-histogram-1.1-pl5.22.0_1.tar.bz2",
@@ -1078,6 +1078,10 @@
 {
 "date":"2022-06-23",
 "total":20700
+},
+{
+"date":"2022-06-24",
+"total":20701
 }
 ],
 "package":"perl-gdgraph-histogram",
@@ -1286,6 +1290,15 @@
 {
 "basename":"perl-gdgraph-histogram-1.1-pl526_3.tar.bz2",
 "total":13140
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"perl-gdgraph-histogram-1.1-0.tar.bz2",
+"total":1811
 }
 ]
 }

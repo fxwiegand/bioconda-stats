@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"gatk4-4.1.1.0-0.tar.bz2",
-"total":4036
+"total":4038
 }
 ],
 "downloads_per_date":[
@@ -1118,6 +1118,10 @@
 {
 "date":"2022-06-23",
 "total":4036
+},
+{
+"date":"2022-06-24",
+"total":4038
 }
 ],
 "package":"gatk4",
@@ -1218,6 +1222,15 @@
 {
 "basename":"gatk4-4.1.1.0-0.tar.bz2",
 "total":4036
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"gatk4-4.1.1.0-0.tar.bz2",
+"total":4038
 }
 ]
 }

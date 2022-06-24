@@ -23,7 +23,7 @@
 },
 {
 "basename":"zagros-1.0.0-hc32960e_6.tar.bz2",
-"total":325
+"total":327
 },
 {
 "basename":"zagros-1.0.0-gsl1.16_0.tar.bz2",
@@ -1202,6 +1202,10 @@
 {
 "date":"2022-06-23",
 "total":3848
+},
+{
+"date":"2022-06-24",
+"total":3850
 }
 ],
 "package":"zagros",
@@ -1486,6 +1490,15 @@
 {
 "basename":"zagros-1.0.0-h869255c_2.tar.bz2",
 "total":2442
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"zagros-1.0.0-hc32960e_6.tar.bz2",
+"total":327
 }
 ]
 }

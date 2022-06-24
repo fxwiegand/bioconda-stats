@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"seqan-2.4.0-hdfd78af_2.tar.bz2",
-"total":766
+"total":770
 },
 {
 "basename":"seqan-2.4.0-1.tar.bz2",
@@ -1102,6 +1102,10 @@
 {
 "date":"2022-06-23",
 "total":14654
+},
+{
+"date":"2022-06-24",
+"total":14658
 }
 ],
 "package":"seqan",
@@ -1226,6 +1230,15 @@
 {
 "basename":"seqan-2.4.0-1.tar.bz2",
 "total":13888
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"seqan-2.4.0-hdfd78af_2.tar.bz2",
+"total":770
 }
 ]
 }

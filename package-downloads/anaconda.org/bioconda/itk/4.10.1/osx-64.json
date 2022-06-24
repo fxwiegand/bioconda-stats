@@ -27,7 +27,7 @@
 },
 {
 "basename":"itk-4.10.1-py36_2.tar.bz2",
-"total":2226
+"total":2228
 }
 ],
 "downloads_per_date":[
@@ -1202,6 +1202,10 @@
 {
 "date":"2022-06-23",
 "total":2780
+},
+{
+"date":"2022-06-24",
+"total":2782
 }
 ],
 "package":"itk",
@@ -1361,6 +1365,15 @@
 {
 "basename":"itk-4.10.1-py36_2.tar.bz2",
 "total":2226
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"itk-4.10.1-py36_2.tar.bz2",
+"total":2228
 }
 ]
 }

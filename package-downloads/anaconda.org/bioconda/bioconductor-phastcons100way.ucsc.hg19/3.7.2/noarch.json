@@ -35,7 +35,7 @@
 },
 {
 "basename":"bioconductor-phastcons100way.ucsc.hg19-3.7.2-r41hdfd78af_9.tar.bz2",
-"total":635
+"total":637
 }
 ],
 "downloads_per_date":[
@@ -1138,6 +1138,10 @@
 {
 "date":"2022-06-23",
 "total":1481
+},
+{
+"date":"2022-06-24",
+"total":1483
 }
 ],
 "package":"bioconductor-phastcons100way.ucsc.hg19",
@@ -1434,6 +1438,15 @@
 {
 "basename":"bioconductor-phastcons100way.ucsc.hg19-3.7.2-r41hdfd78af_9.tar.bz2",
 "total":635
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-phastcons100way.ucsc.hg19-3.7.2-r41hdfd78af_9.tar.bz2",
+"total":637
 }
 ]
 }

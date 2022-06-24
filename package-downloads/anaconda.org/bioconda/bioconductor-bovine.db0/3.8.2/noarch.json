@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-bovine.db0-3.8.2-r36_1.tar.bz2",
-"total":611
+"total":613
 }
 ],
 "downloads_per_date":[
@@ -1022,6 +1022,10 @@
 {
 "date":"2022-06-23",
 "total":611
+},
+{
+"date":"2022-06-24",
+"total":613
 }
 ],
 "package":"bioconductor-bovine.db0",
@@ -1122,6 +1126,15 @@
 {
 "basename":"bioconductor-bovine.db0-3.8.2-r36_1.tar.bz2",
 "total":611
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bovine.db0-3.8.2-r36_1.tar.bz2",
+"total":613
 }
 ]
 }

@@ -552,6 +552,10 @@
 {
 "date":"2022-06-23",
 "total":737
+},
+{
+"date":"2022-06-24",
+"total":739
 }
 ],
 "downloads_per_subdir":[
@@ -561,7 +565,7 @@
 },
 {
 "subdir":"osx-64",
-"total":512
+"total":514
 }
 ],
 "package":"bioconductor-decipher",
@@ -702,6 +706,15 @@
 {
 "subdir":"osx-64",
 "total":512
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":514
 }
 ]
 }

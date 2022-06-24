@@ -1176,6 +1176,10 @@
 {
 "date":"2022-06-23",
 "total":2018
+},
+{
+"date":"2022-06-24",
+"total":2020
 }
 ],
 "downloads_per_subdir":[
@@ -1185,7 +1189,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1881
+"total":1883
 }
 ],
 "package":"bioconductor-amountain",
@@ -1314,6 +1318,15 @@
 {
 "subdir":"osx-64",
 "total":1881
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1883
 }
 ]
 }

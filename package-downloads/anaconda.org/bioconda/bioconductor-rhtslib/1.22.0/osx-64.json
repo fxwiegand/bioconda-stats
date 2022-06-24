@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-rhtslib-1.22.0-r40h8909d69_0.tar.bz2",
-"total":2767
+"total":2769
 },
 {
 "basename":"bioconductor-rhtslib-1.22.0-r40h68a2ddb_1.tar.bz2",
@@ -1210,6 +1210,10 @@
 {
 "date":"2022-06-23",
 "total":27407
+},
+{
+"date":"2022-06-24",
+"total":27409
 }
 ],
 "package":"bioconductor-rhtslib",
@@ -1350,6 +1354,15 @@
 {
 "basename":"bioconductor-rhtslib-1.22.0-r40h68a2ddb_1.tar.bz2",
 "total":24640
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-rhtslib-1.22.0-r40h8909d69_0.tar.bz2",
+"total":2769
 }
 ]
 }

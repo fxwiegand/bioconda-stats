@@ -1200,6 +1200,10 @@
 {
 "date":"2022-06-23",
 "total":8282
+},
+{
+"date":"2022-06-24",
+"total":8284
 }
 ],
 "downloads_per_subdir":[
@@ -1213,7 +1217,7 @@
 },
 {
 "subdir":"noarch",
-"total":5440
+"total":5442
 }
 ],
 "package":"vcf2genome",
@@ -1346,6 +1350,15 @@
 {
 "subdir":"noarch",
 "total":5440
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"noarch",
+"total":5442
 }
 ]
 }

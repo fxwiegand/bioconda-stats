@@ -7,7 +7,7 @@
 },
 {
 "basename":"canu-2.1.1-he1b5a44_1.tar.bz2",
-"total":1457
+"total":1459
 },
 {
 "basename":"canu-2.1.1-h1b792b2_2.tar.bz2",
@@ -1214,6 +1214,10 @@
 {
 "date":"2022-06-23",
 "total":4351
+},
+{
+"date":"2022-06-24",
+"total":4353
 }
 ],
 "package":"canu",
@@ -1378,6 +1382,15 @@
 {
 "basename":"canu-2.1.1-h1b792b2_2.tar.bz2",
 "total":1908
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"canu-2.1.1-he1b5a44_1.tar.bz2",
+"total":1459
 }
 ]
 }

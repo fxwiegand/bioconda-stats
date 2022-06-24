@@ -19,7 +19,7 @@
 },
 {
 "basename":"centrosome-1.2.0-py38h7a2e8c7_3.tar.bz2",
-"total":63
+"total":64
 },
 {
 "basename":"centrosome-1.2.0-py37h9c5868f_2.tar.bz2",
@@ -702,6 +702,10 @@
 {
 "date":"2022-06-23",
 "total":905
+},
+{
+"date":"2022-06-24",
+"total":906
 }
 ],
 "package":"centrosome",
@@ -1123,6 +1127,15 @@
 {
 "basename":"centrosome-1.2.0-py38h803c66d_2.tar.bz2",
 "total":123
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"centrosome-1.2.0-py38h7a2e8c7_3.tar.bz2",
+"total":64
 }
 ]
 }

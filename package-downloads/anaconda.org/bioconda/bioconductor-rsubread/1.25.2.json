@@ -1200,6 +1200,10 @@
 {
 "date":"2022-06-23",
 "total":5089
+},
+{
+"date":"2022-06-24",
+"total":5091
 }
 ],
 "downloads_per_subdir":[
@@ -1209,7 +1213,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2744
+"total":2746
 }
 ],
 "package":"bioconductor-rsubread",
@@ -1342,6 +1346,15 @@
 {
 "subdir":"osx-64",
 "total":2744
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2746
 }
 ]
 }

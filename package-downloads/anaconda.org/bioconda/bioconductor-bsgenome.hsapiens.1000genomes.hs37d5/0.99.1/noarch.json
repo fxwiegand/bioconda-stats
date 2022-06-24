@@ -31,7 +31,7 @@
 },
 {
 "basename":"bioconductor-bsgenome.hsapiens.1000genomes.hs37d5-0.99.1-r41hdfd78af_8.tar.bz2",
-"total":499
+"total":501
 }
 ],
 "downloads_per_date":[
@@ -1122,6 +1122,10 @@
 {
 "date":"2022-06-23",
 "total":1510
+},
+{
+"date":"2022-06-24",
+"total":1512
 }
 ],
 "package":"bioconductor-bsgenome.hsapiens.1000genomes.hs37d5",
@@ -1386,6 +1390,15 @@
 {
 "basename":"bioconductor-bsgenome.hsapiens.1000genomes.hs37d5-0.99.1-r41hdfd78af_8.tar.bz2",
 "total":499
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bsgenome.hsapiens.1000genomes.hs37d5-0.99.1-r41hdfd78af_8.tar.bz2",
+"total":501
 }
 ]
 }

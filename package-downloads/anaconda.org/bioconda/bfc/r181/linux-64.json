@@ -11,7 +11,7 @@
 },
 {
 "basename":"bfc-r181-h5bf99c6_6.tar.bz2",
-"total":210
+"total":212
 },
 {
 "basename":"bfc-r181-h84994c4_4.tar.bz2",
@@ -614,6 +614,10 @@
 {
 "date":"2022-06-23",
 "total":3128
+},
+{
+"date":"2022-06-24",
+"total":3130
 }
 ],
 "package":"bfc",
@@ -904,6 +908,15 @@
 {
 "basename":"bfc-r181-1.tar.bz2",
 "total":788
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"bfc-r181-h5bf99c6_6.tar.bz2",
+"total":212
 }
 ]
 }

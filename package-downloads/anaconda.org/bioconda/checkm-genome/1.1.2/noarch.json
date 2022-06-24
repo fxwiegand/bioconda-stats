@@ -7,7 +7,7 @@
 },
 {
 "basename":"checkm-genome-1.1.2-py_2.tar.bz2",
-"total":944
+"total":946
 },
 {
 "basename":"checkm-genome-1.1.2-py_1.tar.bz2",
@@ -1098,6 +1098,10 @@
 {
 "date":"2022-06-23",
 "total":2141
+},
+{
+"date":"2022-06-24",
+"total":2143
 }
 ],
 "package":"checkm-genome",
@@ -1254,6 +1258,15 @@
 {
 "basename":"checkm-genome-1.1.2-py_1.tar.bz2",
 "total":992
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"checkm-genome-1.1.2-py_2.tar.bz2",
+"total":946
 }
 ]
 }

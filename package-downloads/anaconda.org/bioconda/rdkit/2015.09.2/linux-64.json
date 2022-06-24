@@ -11,7 +11,7 @@
 },
 {
 "basename":"rdkit-2015.09.2-py27_boost1.57_1.tar.bz2",
-"total":5216
+"total":5220
 }
 ],
 "downloads_per_date":[
@@ -1186,6 +1186,10 @@
 {
 "date":"2022-06-23",
 "total":6999
+},
+{
+"date":"2022-06-24",
+"total":7003
 }
 ],
 "package":"rdkit",
@@ -1334,6 +1338,15 @@
 {
 "basename":"rdkit-2015.09.2-py27_boost1.57_1.tar.bz2",
 "total":5216
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"rdkit-2015.09.2-py27_boost1.57_1.tar.bz2",
+"total":5220
 }
 ]
 }

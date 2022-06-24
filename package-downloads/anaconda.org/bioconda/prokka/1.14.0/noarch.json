@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"prokka-1.14.0-pl526_1.tar.bz2",
-"total":1300
+"total":1302
 },
 {
 "basename":"prokka-1.14.0-pl526_0.tar.bz2",
@@ -1090,6 +1090,10 @@
 {
 "date":"2022-06-23",
 "total":3279
+},
+{
+"date":"2022-06-24",
+"total":3281
 }
 ],
 "package":"prokka",
@@ -1222,6 +1226,15 @@
 {
 "basename":"prokka-1.14.0-pl526_0.tar.bz2",
 "total":1979
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"prokka-1.14.0-pl526_1.tar.bz2",
+"total":1302
 }
 ]
 }

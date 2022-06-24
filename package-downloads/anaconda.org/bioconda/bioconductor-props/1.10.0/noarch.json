@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-props-1.10.0-r40_0.tar.bz2",
-"total":624
+"total":626
 }
 ],
 "downloads_per_date":[
@@ -1026,6 +1026,10 @@
 {
 "date":"2022-06-23",
 "total":624
+},
+{
+"date":"2022-06-24",
+"total":626
 }
 ],
 "package":"bioconductor-props",
@@ -1126,6 +1130,15 @@
 {
 "basename":"bioconductor-props-1.10.0-r40_0.tar.bz2",
 "total":624
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-props-1.10.0-r40_0.tar.bz2",
+"total":626
 }
 ]
 }

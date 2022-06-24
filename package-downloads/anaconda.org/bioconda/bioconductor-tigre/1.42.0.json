@@ -1196,6 +1196,10 @@
 {
 "date":"2022-06-23",
 "total":1595
+},
+{
+"date":"2022-06-24",
+"total":1597
 }
 ],
 "downloads_per_subdir":[
@@ -1205,7 +1209,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1500
+"total":1502
 }
 ],
 "package":"bioconductor-tigre",
@@ -1330,6 +1334,15 @@
 {
 "subdir":"osx-64",
 "total":1500
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1502
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"tophat-2.1.1-py27_3.tar.bz2",
-"total":7349
+"total":7351
 },
 {
 "basename":"tophat-2.1.1-py27_0.tar.bz2",
@@ -1202,6 +1202,10 @@
 {
 "date":"2022-06-23",
 "total":31356
+},
+{
+"date":"2022-06-24",
+"total":31358
 }
 ],
 "package":"tophat",
@@ -1402,6 +1406,15 @@
 {
 "basename":"tophat-2.1.1-py27_0.tar.bz2",
 "total":17176
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"tophat-2.1.1-py27_3.tar.bz2",
+"total":7351
 }
 ]
 }

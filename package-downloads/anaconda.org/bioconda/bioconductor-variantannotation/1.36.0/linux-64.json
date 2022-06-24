@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-variantannotation-1.36.0-r40hd029910_1.tar.bz2",
-"total":2681
+"total":2687
 },
 {
 "basename":"bioconductor-variantannotation-1.36.0-r40h037d062_0.tar.bz2",
@@ -1198,6 +1198,10 @@
 {
 "date":"2022-06-23",
 "total":6362
+},
+{
+"date":"2022-06-24",
+"total":6368
 }
 ],
 "package":"bioconductor-variantannotation",
@@ -1330,6 +1334,15 @@
 {
 "basename":"bioconductor-variantannotation-1.36.0-r40h037d062_0.tar.bz2",
 "total":3681
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-variantannotation-1.36.0-r40hd029910_1.tar.bz2",
+"total":2687
 }
 ]
 }

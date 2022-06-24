@@ -1200,6 +1200,10 @@
 {
 "date":"2022-06-23",
 "total":2570
+},
+{
+"date":"2022-06-24",
+"total":2572
 }
 ],
 "downloads_per_subdir":[
@@ -1209,7 +1213,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2286
+"total":2288
 }
 ],
 "package":"bioconductor-vega",
@@ -1338,6 +1342,15 @@
 {
 "subdir":"osx-64",
 "total":2286
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2288
 }
 ]
 }

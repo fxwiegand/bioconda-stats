@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-ms-0.206003-pl5321hdfd78af_2.tar.bz2",
-"total":294
+"total":296
 },
 {
 "basename":"perl-ms-0.206003-pl526_0.tar.bz2",
@@ -1050,6 +1050,10 @@
 {
 "date":"2022-06-23",
 "total":707
+},
+{
+"date":"2022-06-24",
+"total":709
 }
 ],
 "package":"perl-ms",
@@ -1202,6 +1206,15 @@
 {
 "basename":"perl-ms-0.206003-pl526_0.tar.bz2",
 "total":323
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"perl-ms-0.206003-pl5321hdfd78af_2.tar.bz2",
+"total":296
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-aroma.light-3.14.0-r36_1.tar.bz2",
-"total":918
+"total":920
 },
 {
 "basename":"bioconductor-aroma.light-3.14.0-r351_0.tar.bz2",
@@ -1162,6 +1162,10 @@
 {
 "date":"2022-06-23",
 "total":2882
+},
+{
+"date":"2022-06-24",
+"total":2884
 }
 ],
 "package":"bioconductor-aroma.light",
@@ -1286,6 +1290,15 @@
 {
 "basename":"bioconductor-aroma.light-3.14.0-r351_0.tar.bz2",
 "total":1964
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-aroma.light-3.14.0-r36_1.tar.bz2",
+"total":920
 }
 ]
 }

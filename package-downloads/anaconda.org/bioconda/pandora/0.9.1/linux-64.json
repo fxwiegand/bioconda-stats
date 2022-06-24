@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"pandora-0.9.1-h9f5acd7_1.tar.bz2",
-"total":259
+"total":261
 },
 {
 "basename":"pandora-0.9.1-h7d875b9_0.tar.bz2",
@@ -1174,6 +1174,10 @@
 {
 "date":"2022-06-23",
 "total":881
+},
+{
+"date":"2022-06-24",
+"total":883
 }
 ],
 "package":"pandora",
@@ -1302,6 +1306,15 @@
 {
 "basename":"pandora-0.9.1-h7d875b9_0.tar.bz2",
 "total":622
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"pandora-0.9.1-h9f5acd7_1.tar.bz2",
+"total":261
 }
 ]
 }

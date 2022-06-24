@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-data-lock-1.03-pl5321hdfd78af_1.tar.bz2",
-"total":343
+"total":345
 },
 {
 "basename":"perl-data-lock-1.03-pl526_0.tar.bz2",
@@ -1078,6 +1078,10 @@
 {
 "date":"2022-06-23",
 "total":728
+},
+{
+"date":"2022-06-24",
+"total":730
 }
 ],
 "package":"perl-data-lock",
@@ -1198,6 +1202,15 @@
 {
 "basename":"perl-data-lock-1.03-pl526_0.tar.bz2",
 "total":385
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"perl-data-lock-1.03-pl5321hdfd78af_1.tar.bz2",
+"total":345
 }
 ]
 }

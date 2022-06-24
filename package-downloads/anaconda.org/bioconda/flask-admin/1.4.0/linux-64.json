@@ -11,7 +11,7 @@
 },
 {
 "basename":"flask-admin-1.4.0-py27_0.tar.bz2",
-"total":941
+"total":942
 },
 {
 "basename":"flask-admin-1.4.0-py35_0.tar.bz2",
@@ -374,6 +374,10 @@
 {
 "date":"2022-06-23",
 "total":3188
+},
+{
+"date":"2022-06-24",
+"total":3189
 }
 ],
 "package":"flask-admin",
@@ -523,6 +527,15 @@
 {
 "basename":"flask-admin-1.4.0-py35_0.tar.bz2",
 "total":1256
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"flask-admin-1.4.0-py27_0.tar.bz2",
+"total":942
 }
 ]
 }

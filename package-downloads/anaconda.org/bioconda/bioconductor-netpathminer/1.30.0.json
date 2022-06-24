@@ -536,6 +536,10 @@
 {
 "date":"2022-06-23",
 "total":499
+},
+{
+"date":"2022-06-24",
+"total":501
 }
 ],
 "downloads_per_subdir":[
@@ -545,7 +549,7 @@
 },
 {
 "subdir":"osx-64",
-"total":409
+"total":411
 }
 ],
 "package":"bioconductor-netpathminer",
@@ -678,6 +682,15 @@
 {
 "subdir":"osx-64",
 "total":409
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":411
 }
 ]
 }

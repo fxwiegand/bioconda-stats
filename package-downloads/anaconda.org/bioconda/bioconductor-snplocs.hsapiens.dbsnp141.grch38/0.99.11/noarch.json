@@ -31,7 +31,7 @@
 },
 {
 "basename":"bioconductor-snplocs.hsapiens.dbsnp141.grch38-0.99.11-r41hdfd78af_8.tar.bz2",
-"total":401
+"total":403
 }
 ],
 "downloads_per_date":[
@@ -1090,6 +1090,10 @@
 {
 "date":"2022-06-23",
 "total":1199
+},
+{
+"date":"2022-06-24",
+"total":1201
 }
 ],
 "package":"bioconductor-snplocs.hsapiens.dbsnp141.grch38",
@@ -1354,6 +1358,15 @@
 {
 "basename":"bioconductor-snplocs.hsapiens.dbsnp141.grch38-0.99.11-r41hdfd78af_8.tar.bz2",
 "total":401
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-snplocs.hsapiens.dbsnp141.grch38-0.99.11-r41hdfd78af_8.tar.bz2",
+"total":403
 }
 ]
 }

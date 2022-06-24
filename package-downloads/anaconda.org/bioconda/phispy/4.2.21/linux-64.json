@@ -19,7 +19,7 @@
 },
 {
 "basename":"phispy-4.2.21-py37h96cfd12_1.tar.bz2",
-"total":69
+"total":71
 },
 {
 "basename":"phispy-4.2.21-py39hc16433a_1.tar.bz2",
@@ -190,6 +190,10 @@
 {
 "date":"2022-06-23",
 "total":317
+},
+{
+"date":"2022-06-24",
+"total":319
 }
 ],
 "package":"phispy",
@@ -445,6 +449,15 @@
 {
 "basename":"phispy-4.2.21-py39hc16433a_1.tar.bz2",
 "total":86
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"phispy-4.2.21-py37h96cfd12_1.tar.bz2",
+"total":71
 }
 ]
 }

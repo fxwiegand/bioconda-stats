@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-io-zlib-1.10-pl526_2.tar.bz2",
-"total":38272
+"total":38310
 }
 ],
 "downloads_per_date":[
@@ -1210,6 +1210,10 @@
 {
 "date":"2022-06-23",
 "total":39647
+},
+{
+"date":"2022-06-24",
+"total":39685
 }
 ],
 "package":"perl-io-zlib",
@@ -1330,6 +1334,15 @@
 {
 "basename":"perl-io-zlib-1.10-pl526_2.tar.bz2",
 "total":38272
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"perl-io-zlib-1.10-pl526_2.tar.bz2",
+"total":38310
 }
 ]
 }

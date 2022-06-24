@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-stager-1.12.0-r40hdfd78af_1.tar.bz2",
-"total":800
+"total":802
 },
 {
 "basename":"bioconductor-stager-1.12.0-r40_0.tar.bz2",
@@ -1170,6 +1170,10 @@
 {
 "date":"2022-06-23",
 "total":1608
+},
+{
+"date":"2022-06-24",
+"total":1610
 }
 ],
 "package":"bioconductor-stager",
@@ -1294,6 +1298,15 @@
 {
 "basename":"bioconductor-stager-1.12.0-r40_0.tar.bz2",
 "total":808
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-stager-1.12.0-r40hdfd78af_1.tar.bz2",
+"total":802
 }
 ]
 }

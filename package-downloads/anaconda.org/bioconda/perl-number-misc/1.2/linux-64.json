@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-number-misc-1.2-pl526_1.tar.bz2",
-"total":445
+"total":446
 },
 {
 "basename":"perl-number-misc-1.2-pl5.22.0_0.tar.bz2",
@@ -490,6 +490,10 @@
 {
 "date":"2022-06-23",
 "total":1161
+},
+{
+"date":"2022-06-24",
+"total":1162
 }
 ],
 "package":"perl-number-misc",
@@ -591,6 +595,15 @@
 {
 "basename":"perl-number-misc-1.2-pl5.22.0_0.tar.bz2",
 "total":716
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"perl-number-misc-1.2-pl526_1.tar.bz2",
+"total":446
 }
 ]
 }

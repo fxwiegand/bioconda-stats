@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-bsgenome-1.58.0-r40hdfd78af_1.tar.bz2",
-"total":5050
+"total":5059
 },
 {
 "basename":"bioconductor-bsgenome-1.58.0-r40_0.tar.bz2",
@@ -1210,6 +1210,10 @@
 {
 "date":"2022-06-23",
 "total":10725
+},
+{
+"date":"2022-06-24",
+"total":10734
 }
 ],
 "package":"bioconductor-bsgenome",
@@ -1342,6 +1346,15 @@
 {
 "basename":"bioconductor-bsgenome-1.58.0-r40_0.tar.bz2",
 "total":5675
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bsgenome-1.58.0-r40hdfd78af_1.tar.bz2",
+"total":5059
 }
 ]
 }

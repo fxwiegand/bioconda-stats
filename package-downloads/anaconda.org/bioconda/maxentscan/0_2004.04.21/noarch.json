@@ -7,7 +7,7 @@
 },
 {
 "basename":"maxentscan-0_2004.04.21-pl5321hdfd78af_4.tar.bz2",
-"total":356
+"total":358
 },
 {
 "basename":"maxentscan-0_2004.04.21-pl526_2.tar.bz2",
@@ -1150,6 +1150,10 @@
 {
 "date":"2022-06-23",
 "total":1499
+},
+{
+"date":"2022-06-24",
+"total":1501
 }
 ],
 "package":"maxentscan",
@@ -1298,6 +1302,15 @@
 {
 "basename":"maxentscan-0_2004.04.21-pl526_2.tar.bz2",
 "total":980
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"maxentscan-0_2004.04.21-pl5321hdfd78af_4.tar.bz2",
+"total":358
 }
 ]
 }

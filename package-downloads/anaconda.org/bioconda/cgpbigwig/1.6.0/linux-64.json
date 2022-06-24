@@ -11,7 +11,7 @@
 },
 {
 "basename":"cgpbigwig-1.6.0-hfefd324_3.tar.bz2",
-"total":254
+"total":256
 },
 {
 "basename":"cgpbigwig-1.6.0-h93d22ca_0.tar.bz2",
@@ -1198,6 +1198,10 @@
 {
 "date":"2022-06-23",
 "total":1031
+},
+{
+"date":"2022-06-24",
+"total":1033
 }
 ],
 "package":"cgpbigwig",
@@ -1394,6 +1398,15 @@
 {
 "basename":"cgpbigwig-1.6.0-h93d22ca_0.tar.bz2",
 "total":607
+}
+]
+},
+{
+"date":"2022-06-24",
+"downloads_per_basename":[
+{
+"basename":"cgpbigwig-1.6.0-hfefd324_3.tar.bz2",
+"total":256
 }
 ]
 }
