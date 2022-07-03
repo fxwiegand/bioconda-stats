@@ -11,7 +11,7 @@
 },
 {
 "basename":"ncbi-genome-download-0.2.8-py36_1.tar.bz2",
-"total":1732
+"total":1733
 }
 ],
 "downloads_per_date":[
@@ -754,6 +754,10 @@
 {
 "date":"2022-06-24",
 "total":2070
+},
+{
+"date":"2022-07-03",
+"total":2071
 }
 ],
 "package":"ncbi-genome-download",
@@ -803,6 +807,15 @@
 {
 "basename":"ncbi-genome-download-0.2.8-py36_1.tar.bz2",
 "total":1732
+}
+]
+},
+{
+"date":"2022-07-03",
+"downloads_per_basename":[
+{
+"basename":"ncbi-genome-download-0.2.8-py36_1.tar.bz2",
+"total":1733
 }
 ]
 }
