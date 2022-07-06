@@ -31,7 +31,7 @@
 },
 {
 "basename":"perl-uri-1.69-3.tar.bz2",
-"total":580
+"total":581
 }
 ],
 "downloads_per_date":[
@@ -386,6 +386,10 @@
 {
 "date":"2022-07-03",
 "total":2817
+},
+{
+"date":"2022-07-06",
+"total":2818
 }
 ],
 "package":"perl-uri",
@@ -667,6 +671,15 @@
 {
 "basename":"perl-uri-1.69-pl5.22.0_0.tar.bz2",
 "total":455
+}
+]
+},
+{
+"date":"2022-07-06",
+"downloads_per_basename":[
+{
+"basename":"perl-uri-1.69-3.tar.bz2",
+"total":581
 }
 ]
 }

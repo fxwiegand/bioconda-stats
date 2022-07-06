@@ -11,7 +11,7 @@
 },
 {
 "basename":"sure-1.2.24-py27_0.tar.bz2",
-"total":536
+"total":537
 },
 {
 "basename":"sure-1.2.24-py34_0.tar.bz2",
@@ -310,6 +310,10 @@
 {
 "date":"2022-07-03",
 "total":2096
+},
+{
+"date":"2022-07-06",
+"total":2097
 }
 ],
 "package":"sure",
@@ -438,6 +442,15 @@
 {
 "basename":"sure-1.2.24-py34_0.tar.bz2",
 "total":636
+}
+]
+},
+{
+"date":"2022-07-06",
+"downloads_per_basename":[
+{
+"basename":"sure-1.2.24-py27_0.tar.bz2",
+"total":537
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"r-geiger-2.0.6.1-r36h0357c0b_1.tar.bz2",
-"total":123
+"total":124
 },
 {
 "basename":"r-geiger-2.0.6.1-r351h29659fb_0.tar.bz2",
@@ -350,6 +350,10 @@
 {
 "date":"2022-07-03",
 "total":323
+},
+{
+"date":"2022-07-06",
+"total":324
 }
 ],
 "package":"r-geiger",
@@ -451,6 +455,15 @@
 {
 "basename":"r-geiger-2.0.6.1-r351h29659fb_0.tar.bz2",
 "total":200
+}
+]
+},
+{
+"date":"2022-07-06",
+"downloads_per_basename":[
+{
+"basename":"r-geiger-2.0.6.1-r36h0357c0b_1.tar.bz2",
+"total":124
 }
 ]
 }

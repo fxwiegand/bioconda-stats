@@ -16,6 +16,10 @@
 {
 "date":"2022-07-03",
 "total":90
+},
+{
+"date":"2022-07-06",
+"total":96
 }
 ],
 "downloads_per_subdir":[
@@ -25,7 +29,7 @@
 },
 {
 "subdir":"osx-64",
-"total":64
+"total":70
 }
 ],
 "package":"rustynuc",
@@ -71,6 +75,15 @@
 {
 "subdir":"osx-64",
 "total":64
+}
+]
+},
+{
+"date":"2022-07-06",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":70
 }
 ]
 }

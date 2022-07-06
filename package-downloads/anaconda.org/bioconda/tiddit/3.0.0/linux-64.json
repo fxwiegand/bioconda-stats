@@ -19,7 +19,7 @@
 },
 {
 "basename":"tiddit-3.0.0-py39h59fae87_1.tar.bz2",
-"total":122
+"total":128
 },
 {
 "basename":"tiddit-3.0.0-py38h6eac312_1.tar.bz2",
@@ -50,6 +50,10 @@
 {
 "date":"2022-07-03",
 "total":405
+},
+{
+"date":"2022-07-06",
+"total":411
 }
 ],
 "package":"tiddit",
@@ -197,6 +201,15 @@
 {
 "basename":"tiddit-3.0.0-py38h6eac312_1.tar.bz2",
 "total":164
+}
+]
+},
+{
+"date":"2022-07-06",
+"downloads_per_basename":[
+{
+"basename":"tiddit-3.0.0-py39h59fae87_1.tar.bz2",
+"total":128
 }
 ]
 }

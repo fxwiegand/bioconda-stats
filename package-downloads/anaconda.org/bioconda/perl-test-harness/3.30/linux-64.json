@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-test-harness-3.30-1.tar.bz2",
-"total":471
+"total":473
 },
 {
 "basename":"perl-test-harness-3.30-pl5.22.0_2.tar.bz2",
@@ -350,6 +350,10 @@
 {
 "date":"2022-07-03",
 "total":1322
+},
+{
+"date":"2022-07-06",
+"total":1324
 }
 ],
 "package":"perl-test-harness",
@@ -470,6 +474,15 @@
 {
 "basename":"perl-test-harness-3.30-pl5.22.0_2.tar.bz2",
 "total":666
+}
+]
+},
+{
+"date":"2022-07-06",
+"downloads_per_basename":[
+{
+"basename":"perl-test-harness-3.30-1.tar.bz2",
+"total":473
 }
 ]
 }

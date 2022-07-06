@@ -11,7 +11,7 @@
 },
 {
 "basename":"trinotate-3.1.1-pl526_5.tar.bz2",
-"total":272
+"total":273
 },
 {
 "basename":"trinotate-3.1.1-pl526_6.tar.bz2",
@@ -758,6 +758,10 @@
 {
 "date":"2022-07-03",
 "total":2211
+},
+{
+"date":"2022-07-06",
+"total":2212
 }
 ],
 "package":"trinotate",
@@ -822,6 +826,15 @@
 {
 "basename":"trinotate-3.1.1-pl526_6.tar.bz2",
 "total":1753
+}
+]
+},
+{
+"date":"2022-07-06",
+"downloads_per_basename":[
+{
+"basename":"trinotate-3.1.1-pl526_5.tar.bz2",
+"total":273
 }
 ]
 }

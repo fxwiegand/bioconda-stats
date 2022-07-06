@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"gromacs-2018.3-h470a237_0.tar.bz2",
-"total":328
+"total":329
 }
 ],
 "downloads_per_date":[
@@ -334,6 +334,10 @@
 {
 "date":"2022-07-03",
 "total":328
+},
+{
+"date":"2022-07-06",
+"total":329
 }
 ],
 "package":"gromacs",
@@ -398,6 +402,15 @@
 {
 "basename":"gromacs-2018.3-h470a237_0.tar.bz2",
 "total":328
+}
+]
+},
+{
+"date":"2022-07-06",
+"downloads_per_basename":[
+{
+"basename":"gromacs-2018.3-h470a237_0.tar.bz2",
+"total":329
 }
 ]
 }

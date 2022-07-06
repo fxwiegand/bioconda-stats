@@ -7,7 +7,7 @@
 },
 {
 "basename":"raxml-8.2.10-h470a237_1.tar.bz2",
-"total":9676
+"total":9677
 }
 ],
 "downloads_per_date":[
@@ -478,6 +478,10 @@
 {
 "date":"2022-07-03",
 "total":15348
+},
+{
+"date":"2022-07-06",
+"total":15349
 }
 ],
 "package":"raxml",
@@ -566,6 +570,15 @@
 {
 "basename":"raxml-8.2.10-0.tar.bz2",
 "total":5672
+}
+]
+},
+{
+"date":"2022-07-06",
+"downloads_per_basename":[
+{
+"basename":"raxml-8.2.10-h470a237_1.tar.bz2",
+"total":9677
 }
 ]
 }
