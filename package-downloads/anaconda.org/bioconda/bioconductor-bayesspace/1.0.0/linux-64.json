@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-bayesspace-1.0.0-r40h399db7b_1.tar.bz2",
-"total":98
+"total":99
 },
 {
 "basename":"bioconductor-bayesspace-1.0.0-r40h5f743cb_0.tar.bz2",
@@ -402,6 +402,10 @@
 {
 "date":"2022-07-06",
 "total":198
+},
+{
+"date":"2022-07-11",
+"total":199
 }
 ],
 "package":"bioconductor-bayesspace",
@@ -512,6 +516,15 @@
 {
 "basename":"bioconductor-bayesspace-1.0.0-r40h5f743cb_0.tar.bz2",
 "total":100
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-bayesspace-1.0.0-r40h399db7b_1.tar.bz2",
+"total":99
 }
 ]
 }

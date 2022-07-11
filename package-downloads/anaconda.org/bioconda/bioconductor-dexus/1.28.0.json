@@ -1192,6 +1192,10 @@
 {
 "date":"2022-07-06",
 "total":1615
+},
+{
+"date":"2022-07-11",
+"total":1623
 }
 ],
 "downloads_per_subdir":[
@@ -1201,7 +1205,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1482
+"total":1490
 }
 ],
 "package":"bioconductor-dexus",
@@ -1334,6 +1338,15 @@
 {
 "subdir":"osx-64",
 "total":1482
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1490
 }
 ]
 }

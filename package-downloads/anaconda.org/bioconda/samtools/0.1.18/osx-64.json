@@ -7,7 +7,7 @@
 },
 {
 "basename":"samtools-0.1.18-hb42cafa_12.tar.bz2",
-"total":265
+"total":275
 },
 {
 "basename":"samtools-0.1.18-h96d0757_10.tar.bz2",
@@ -1218,6 +1218,10 @@
 {
 "date":"2022-07-06",
 "total":3148
+},
+{
+"date":"2022-07-11",
+"total":3158
 }
 ],
 "package":"samtools",
@@ -1370,6 +1374,15 @@
 {
 "basename":"samtools-0.1.18-0.tar.bz2",
 "total":1882
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"samtools-0.1.18-hb42cafa_12.tar.bz2",
+"total":275
 }
 ]
 }

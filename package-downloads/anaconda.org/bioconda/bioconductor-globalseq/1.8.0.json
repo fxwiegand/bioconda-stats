@@ -1196,6 +1196,10 @@
 {
 "date":"2022-07-06",
 "total":3045
+},
+{
+"date":"2022-07-11",
+"total":3053
 }
 ],
 "downloads_per_subdir":[
@@ -1205,7 +1209,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2502
+"total":2510
 }
 ],
 "package":"bioconductor-globalseq",
@@ -1338,6 +1342,15 @@
 {
 "subdir":"osx-64",
 "total":2502
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2510
 }
 ]
 }

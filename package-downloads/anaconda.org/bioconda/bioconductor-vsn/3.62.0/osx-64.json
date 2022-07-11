@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-vsn-3.62.0-r41haba8685_1.tar.bz2",
-"total":329
+"total":340
 }
 ],
 "downloads_per_date":[
@@ -574,6 +574,10 @@
 {
 "date":"2022-07-06",
 "total":656
+},
+{
+"date":"2022-07-11",
+"total":667
 }
 ],
 "package":"bioconductor-vsn",
@@ -682,6 +686,15 @@
 {
 "basename":"bioconductor-vsn-3.62.0-r41haba8685_1.tar.bz2",
 "total":329
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-vsn-3.62.0-r41haba8685_1.tar.bz2",
+"total":340
 }
 ]
 }

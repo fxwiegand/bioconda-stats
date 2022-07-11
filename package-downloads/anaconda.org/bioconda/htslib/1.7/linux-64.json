@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"htslib-1.7-0.tar.bz2",
-"total":97747
+"total":97792
 }
 ],
 "downloads_per_date":[
@@ -1214,6 +1214,10 @@
 {
 "date":"2022-07-06",
 "total":97747
+},
+{
+"date":"2022-07-11",
+"total":97792
 }
 ],
 "package":"htslib",
@@ -1314,6 +1318,15 @@
 {
 "basename":"htslib-1.7-0.tar.bz2",
 "total":97747
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"htslib-1.7-0.tar.bz2",
+"total":97792
 }
 ]
 }

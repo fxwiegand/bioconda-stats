@@ -7,7 +7,7 @@
 },
 {
 "basename":"beagle-lib-3.1.2-hcd10b59_4.tar.bz2",
-"total":341
+"total":354
 },
 {
 "basename":"beagle-lib-3.1.2-ha1b3eb9_2.tar.bz2",
@@ -1234,6 +1234,10 @@
 {
 "date":"2022-07-06",
 "total":3349
+},
+{
+"date":"2022-07-11",
+"total":3362
 }
 ],
 "package":"beagle-lib",
@@ -1402,6 +1406,15 @@
 {
 "basename":"beagle-lib-3.1.2-hcd10b59_4.tar.bz2",
 "total":341
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"beagle-lib-3.1.2-hcd10b59_4.tar.bz2",
+"total":354
 }
 ]
 }

@@ -564,6 +564,10 @@
 {
 "date":"2022-07-06",
 "total":573
+},
+{
+"date":"2022-07-11",
+"total":583
 }
 ],
 "downloads_per_subdir":[
@@ -573,7 +577,7 @@
 },
 {
 "subdir":"osx-64",
-"total":478
+"total":488
 }
 ],
 "package":"bioconductor-bnbc",
@@ -706,6 +710,15 @@
 {
 "subdir":"osx-64",
 "total":478
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":488
 }
 ]
 }

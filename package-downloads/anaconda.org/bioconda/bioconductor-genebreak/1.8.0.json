@@ -1212,6 +1212,10 @@
 {
 "date":"2022-07-06",
 "total":3221
+},
+{
+"date":"2022-07-11",
+"total":3231
 }
 ],
 "downloads_per_subdir":[
@@ -1221,7 +1225,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2545
+"total":2555
 }
 ],
 "package":"bioconductor-genebreak",
@@ -1354,6 +1358,15 @@
 {
 "subdir":"osx-64",
 "total":2545
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2555
 }
 ]
 }

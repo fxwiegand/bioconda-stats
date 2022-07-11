@@ -556,6 +556,10 @@
 {
 "date":"2022-07-06",
 "total":553
+},
+{
+"date":"2022-07-11",
+"total":563
 }
 ],
 "downloads_per_subdir":[
@@ -565,7 +569,7 @@
 },
 {
 "subdir":"osx-64",
-"total":464
+"total":474
 }
 ],
 "package":"bioconductor-adacgh2",
@@ -698,6 +702,15 @@
 {
 "subdir":"osx-64",
 "total":464
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":474
 }
 ]
 }

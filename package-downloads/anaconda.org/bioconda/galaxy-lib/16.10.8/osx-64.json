@@ -7,7 +7,7 @@
 },
 {
 "basename":"galaxy-lib-16.10.8-py27_1.tar.bz2",
-"total":2590
+"total":2600
 }
 ],
 "downloads_per_date":[
@@ -1222,6 +1222,10 @@
 {
 "date":"2022-07-06",
 "total":2630
+},
+{
+"date":"2022-07-11",
+"total":2640
 }
 ],
 "package":"galaxy-lib",
@@ -1330,6 +1334,15 @@
 {
 "basename":"galaxy-lib-16.10.8-py27_1.tar.bz2",
 "total":2590
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"galaxy-lib-16.10.8-py27_1.tar.bz2",
+"total":2600
 }
 ]
 }

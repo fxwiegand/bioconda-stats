@@ -1160,6 +1160,10 @@
 {
 "date":"2022-07-06",
 "total":901
+},
+{
+"date":"2022-07-11",
+"total":911
 }
 ],
 "downloads_per_subdir":[
@@ -1169,7 +1173,7 @@
 },
 {
 "subdir":"osx-64",
-"total":808
+"total":818
 }
 ],
 "package":"bioconductor-cellid",
@@ -1302,6 +1306,15 @@
 {
 "subdir":"osx-64",
 "total":808
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":818
 }
 ]
 }

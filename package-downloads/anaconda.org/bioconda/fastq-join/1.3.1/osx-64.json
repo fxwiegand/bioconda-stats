@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"fastq-join-1.3.1-hcd10b59_5.tar.bz2",
-"total":281
+"total":291
 },
 {
 "basename":"fastq-join-1.3.1-ha1b3eb9_3.tar.bz2",
@@ -1234,6 +1234,10 @@
 {
 "date":"2022-07-06",
 "total":3226
+},
+{
+"date":"2022-07-11",
+"total":3236
 }
 ],
 "package":"fastq-join",
@@ -1398,6 +1402,15 @@
 {
 "basename":"fastq-join-1.3.1-1.tar.bz2",
 "total":610
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"fastq-join-1.3.1-hcd10b59_5.tar.bz2",
+"total":291
 }
 ]
 }

@@ -11,7 +11,7 @@
 },
 {
 "basename":"albatradis-1.0.4-py36h91eb985_3.tar.bz2",
-"total":40
+"total":41
 },
 {
 "basename":"albatradis-1.0.4-py39hbf8eff0_3.tar.bz2",
@@ -534,6 +534,10 @@
 {
 "date":"2022-07-06",
 "total":972
+},
+{
+"date":"2022-07-11",
+"total":973
 }
 ],
 "package":"albatradis",
@@ -1004,6 +1008,15 @@
 {
 "basename":"albatradis-1.0.4-py37h516909a_0.tar.bz2",
 "total":112
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"albatradis-1.0.4-py36h91eb985_3.tar.bz2",
+"total":41
 }
 ]
 }

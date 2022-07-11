@@ -11,7 +11,7 @@
 },
 {
 "basename":"bowtie2-2.3.2-py36pl5.22.0_1.tar.bz2",
-"total":2706
+"total":2714
 }
 ],
 "downloads_per_date":[
@@ -1210,6 +1210,10 @@
 {
 "date":"2022-07-06",
 "total":3572
+},
+{
+"date":"2022-07-11",
+"total":3580
 }
 ],
 "package":"bowtie2",
@@ -1342,6 +1346,15 @@
 {
 "basename":"bowtie2-2.3.2-py36pl5.22.0_1.tar.bz2",
 "total":2706
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bowtie2-2.3.2-py36pl5.22.0_1.tar.bz2",
+"total":2714
 }
 ]
 }

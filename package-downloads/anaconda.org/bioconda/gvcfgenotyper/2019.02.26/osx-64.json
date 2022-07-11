@@ -7,7 +7,7 @@
 },
 {
 "basename":"gvcfgenotyper-2019.02.26-haa7f73a_1.tar.bz2",
-"total":937
+"total":947
 },
 {
 "basename":"gvcfgenotyper-2019.02.26-h37cfd92_0.tar.bz2",
@@ -1226,6 +1226,10 @@
 {
 "date":"2022-07-06",
 "total":2093
+},
+{
+"date":"2022-07-11",
+"total":2103
 }
 ],
 "package":"gvcfgenotyper",
@@ -1342,6 +1346,15 @@
 {
 "basename":"gvcfgenotyper-2019.02.26-haa7f73a_1.tar.bz2",
 "total":937
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"gvcfgenotyper-2019.02.26-haa7f73a_1.tar.bz2",
+"total":947
 }
 ]
 }

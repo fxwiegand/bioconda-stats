@@ -556,6 +556,10 @@
 {
 "date":"2022-07-06",
 "total":559
+},
+{
+"date":"2022-07-11",
+"total":569
 }
 ],
 "downloads_per_subdir":[
@@ -565,7 +569,7 @@
 },
 {
 "subdir":"osx-64",
-"total":474
+"total":484
 }
 ],
 "package":"bioconductor-harshlight",
@@ -702,6 +706,15 @@
 {
 "subdir":"osx-64",
 "total":474
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":484
 }
 ]
 }

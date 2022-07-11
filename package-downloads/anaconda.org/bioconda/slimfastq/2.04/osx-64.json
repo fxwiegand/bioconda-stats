@@ -7,7 +7,7 @@
 },
 {
 "basename":"slimfastq-2.04-h9722bc1_2.tar.bz2",
-"total":274
+"total":284
 },
 {
 "basename":"slimfastq-2.04-h589c0e0_1.tar.bz2",
@@ -1226,6 +1226,10 @@
 {
 "date":"2022-07-06",
 "total":1213
+},
+{
+"date":"2022-07-11",
+"total":1223
 }
 ],
 "package":"slimfastq",
@@ -1342,6 +1346,15 @@
 {
 "basename":"slimfastq-2.04-h9722bc1_2.tar.bz2",
 "total":274
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"slimfastq-2.04-h9722bc1_2.tar.bz2",
+"total":284
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"perl-env-1.04-pl526_0.tar.bz2",
-"total":305
+"total":306
 },
 {
 "basename":"perl-env-1.04-pl526_1.tar.bz2",
@@ -1010,6 +1010,10 @@
 {
 "date":"2022-07-06",
 "total":2253
+},
+{
+"date":"2022-07-11",
+"total":2254
 }
 ],
 "package":"perl-env",
@@ -1073,6 +1077,15 @@
 {
 "basename":"perl-env-1.04-pl526_0.tar.bz2",
 "total":305
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"perl-env-1.04-pl526_0.tar.bz2",
+"total":306
 }
 ]
 }

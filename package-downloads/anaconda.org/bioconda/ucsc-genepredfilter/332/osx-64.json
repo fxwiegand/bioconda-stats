@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-genepredfilter-332-0.tar.bz2",
-"total":5130
+"total":5150
 }
 ],
 "downloads_per_date":[
@@ -1218,6 +1218,10 @@
 {
 "date":"2022-07-06",
 "total":5130
+},
+{
+"date":"2022-07-11",
+"total":5150
 }
 ],
 "package":"ucsc-genepredfilter",
@@ -1318,6 +1322,15 @@
 {
 "basename":"ucsc-genepredfilter-332-0.tar.bz2",
 "total":5130
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-genepredfilter-332-0.tar.bz2",
+"total":5150
 }
 ]
 }

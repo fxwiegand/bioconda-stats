@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-fly.db0-3.11.2-r40_0.tar.bz2",
-"total":639
+"total":650
 }
 ],
 "downloads_per_date":[
@@ -1058,6 +1058,10 @@
 {
 "date":"2022-07-06",
 "total":639
+},
+{
+"date":"2022-07-11",
+"total":650
 }
 ],
 "package":"bioconductor-fly.db0",
@@ -1158,6 +1162,15 @@
 {
 "basename":"bioconductor-fly.db0-3.11.2-r40_0.tar.bz2",
 "total":639
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-fly.db0-3.11.2-r40_0.tar.bz2",
+"total":650
 }
 ]
 }

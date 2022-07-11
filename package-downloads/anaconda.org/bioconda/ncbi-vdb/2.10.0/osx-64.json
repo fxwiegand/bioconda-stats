@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ncbi-vdb-2.10.0-h6de7cb9_0.tar.bz2",
-"total":2100
+"total":2110
 }
 ],
 "downloads_per_date":[
@@ -1218,6 +1218,10 @@
 {
 "date":"2022-07-06",
 "total":2100
+},
+{
+"date":"2022-07-11",
+"total":2110
 }
 ],
 "package":"ncbi-vdb",
@@ -1318,6 +1322,15 @@
 {
 "basename":"ncbi-vdb-2.10.0-h6de7cb9_0.tar.bz2",
 "total":2100
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"ncbi-vdb-2.10.0-h6de7cb9_0.tar.bz2",
+"total":2110
 }
 ]
 }

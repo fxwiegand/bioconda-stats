@@ -7,7 +7,7 @@
 },
 {
 "basename":"arvados-python-client-0.1.20171211211613-py27_1.tar.bz2",
-"total":2338
+"total":2349
 }
 ],
 "downloads_per_date":[
@@ -1218,6 +1218,10 @@
 {
 "date":"2022-07-06",
 "total":2688
+},
+{
+"date":"2022-07-11",
+"total":2699
 }
 ],
 "package":"arvados-python-client",
@@ -1330,6 +1334,15 @@
 {
 "basename":"arvados-python-client-0.1.20171211211613-py27_1.tar.bz2",
 "total":2338
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"arvados-python-client-0.1.20171211211613-py27_1.tar.bz2",
+"total":2349
 }
 ]
 }

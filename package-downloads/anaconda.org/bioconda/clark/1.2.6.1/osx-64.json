@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"clark-1.2.6.1-hcd10b59_2.tar.bz2",
-"total":253
+"total":261
 },
 {
 "basename":"clark-1.2.6.1-hb280591_1.tar.bz2",
@@ -1194,6 +1194,10 @@
 {
 "date":"2022-07-06",
 "total":1764
+},
+{
+"date":"2022-07-11",
+"total":1772
 }
 ],
 "package":"clark",
@@ -1310,6 +1314,15 @@
 {
 "basename":"clark-1.2.6.1-hcd10b59_2.tar.bz2",
 "total":253
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"clark-1.2.6.1-hcd10b59_2.tar.bz2",
+"total":261
 }
 ]
 }

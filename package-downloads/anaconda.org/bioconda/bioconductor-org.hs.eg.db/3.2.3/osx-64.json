@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-org.hs.eg.db-3.2.3-0.tar.bz2",
-"total":2965
+"total":2975
 }
 ],
 "downloads_per_date":[
@@ -1214,6 +1214,10 @@
 {
 "date":"2022-07-06",
 "total":2965
+},
+{
+"date":"2022-07-11",
+"total":2975
 }
 ],
 "package":"bioconductor-org.hs.eg.db",
@@ -1314,6 +1318,15 @@
 {
 "basename":"bioconductor-org.hs.eg.db-3.2.3-0.tar.bz2",
 "total":2965
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-org.hs.eg.db-3.2.3-0.tar.bz2",
+"total":2975
 }
 ]
 }

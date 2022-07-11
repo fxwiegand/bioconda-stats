@@ -43,7 +43,7 @@
 },
 {
 "basename":"desman-2.1-py39hc65ccfe_6.tar.bz2",
-"total":153
+"total":163
 },
 {
 "basename":"desman-2.1-py35h673de17_1.tar.bz2",
@@ -1270,6 +1270,10 @@
 {
 "date":"2022-07-06",
 "total":2979
+},
+{
+"date":"2022-07-11",
+"total":2989
 }
 ],
 "package":"desman",
@@ -1482,6 +1486,15 @@
 {
 "basename":"desman-2.1-py39hc65ccfe_6.tar.bz2",
 "total":153
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"desman-2.1-py39hc65ccfe_6.tar.bz2",
+"total":163
 }
 ]
 }

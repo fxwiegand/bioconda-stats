@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bpp-seq-2.4.1-hcd10b59_3.tar.bz2",
-"total":262
+"total":272
 },
 {
 "basename":"bpp-seq-2.4.1-ha1b3eb9_1.tar.bz2",
@@ -1230,6 +1230,10 @@
 {
 "date":"2022-07-06",
 "total":2677
+},
+{
+"date":"2022-07-11",
+"total":2687
 }
 ],
 "package":"bpp-seq",
@@ -1354,6 +1358,15 @@
 {
 "basename":"bpp-seq-2.4.1-hcd10b59_3.tar.bz2",
 "total":262
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bpp-seq-2.4.1-hcd10b59_3.tar.bz2",
+"total":272
 }
 ]
 }

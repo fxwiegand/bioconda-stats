@@ -532,6 +532,10 @@
 {
 "date":"2022-07-06",
 "total":515
+},
+{
+"date":"2022-07-11",
+"total":523
 }
 ],
 "downloads_per_subdir":[
@@ -541,7 +545,7 @@
 },
 {
 "subdir":"osx-64",
-"total":430
+"total":438
 }
 ],
 "package":"bioconductor-normr",
@@ -674,6 +678,15 @@
 {
 "subdir":"osx-64",
 "total":430
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":438
 }
 ]
 }

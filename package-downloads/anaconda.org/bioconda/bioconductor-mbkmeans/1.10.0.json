@@ -564,6 +564,10 @@
 {
 "date":"2022-07-06",
 "total":582
+},
+{
+"date":"2022-07-11",
+"total":592
 }
 ],
 "downloads_per_subdir":[
@@ -573,7 +577,7 @@
 },
 {
 "subdir":"osx-64",
-"total":470
+"total":480
 }
 ],
 "package":"bioconductor-mbkmeans",
@@ -710,6 +714,15 @@
 {
 "subdir":"osx-64",
 "total":470
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":480
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"gff3toembl-1.1.4-py27_0.tar.bz2",
-"total":299
+"total":300
 },
 {
 "basename":"gff3toembl-1.1.4-py36_0.tar.bz2",
@@ -810,6 +810,10 @@
 {
 "date":"2022-07-06",
 "total":2121
+},
+{
+"date":"2022-07-11",
+"total":2122
 }
 ],
 "package":"gff3toembl",
@@ -858,6 +862,15 @@
 {
 "basename":"gff3toembl-1.1.4-py36_0.tar.bz2",
 "total":1769
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"gff3toembl-1.1.4-py27_0.tar.bz2",
+"total":300
 }
 ]
 }

@@ -1188,6 +1188,10 @@
 {
 "date":"2022-07-06",
 "total":1561
+},
+{
+"date":"2022-07-11",
+"total":1569
 }
 ],
 "downloads_per_subdir":[
@@ -1197,7 +1201,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1461
+"total":1469
 }
 ],
 "package":"bioconductor-cosmiq",
@@ -1326,6 +1330,15 @@
 {
 "subdir":"osx-64",
 "total":1461
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1469
 }
 ]
 }

@@ -31,7 +31,7 @@
 },
 {
 "basename":"py_fasta_validator-0.5-py39hcf0ab7e_1.tar.bz2",
-"total":322
+"total":332
 },
 {
 "basename":"py_fasta_validator-0.5-py39hb280591_0.tar.bz2",
@@ -1122,6 +1122,10 @@
 {
 "date":"2022-07-06",
 "total":797
+},
+{
+"date":"2022-07-11",
+"total":807
 }
 ],
 "package":"py_fasta_validator",
@@ -1294,6 +1298,15 @@
 {
 "basename":"py_fasta_validator-0.5-py39hcf0ab7e_1.tar.bz2",
 "total":322
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"py_fasta_validator-0.5-py39hcf0ab7e_1.tar.bz2",
+"total":332
 }
 ]
 }

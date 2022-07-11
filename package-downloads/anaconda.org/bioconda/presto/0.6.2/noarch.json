@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"presto-0.6.2-py_0.tar.bz2",
-"total":3008
+"total":3020
 }
 ],
 "downloads_per_date":[
@@ -1166,6 +1166,10 @@
 {
 "date":"2022-07-06",
 "total":3008
+},
+{
+"date":"2022-07-11",
+"total":3020
 }
 ],
 "package":"presto",
@@ -1266,6 +1270,15 @@
 {
 "basename":"presto-0.6.2-py_0.tar.bz2",
 "total":3008
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"presto-0.6.2-py_0.tar.bz2",
+"total":3020
 }
 ]
 }

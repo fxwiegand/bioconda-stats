@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-biomart-2.44.0-r40_0.tar.bz2",
-"total":8051
+"total":8065
 }
 ],
 "downloads_per_date":[
@@ -1178,6 +1178,10 @@
 {
 "date":"2022-07-06",
 "total":8051
+},
+{
+"date":"2022-07-11",
+"total":8065
 }
 ],
 "package":"bioconductor-biomart",
@@ -1278,6 +1282,15 @@
 {
 "basename":"bioconductor-biomart-2.44.0-r40_0.tar.bz2",
 "total":8051
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-biomart-2.44.0-r40_0.tar.bz2",
+"total":8065
 }
 ]
 }

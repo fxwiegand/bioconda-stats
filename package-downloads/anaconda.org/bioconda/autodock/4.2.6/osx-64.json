@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"autodock-4.2.6-hb339e23_1.tar.bz2",
-"total":272
+"total":282
 },
 {
 "basename":"autodock-4.2.6-hb280591_0.tar.bz2",
@@ -1222,6 +1222,10 @@
 {
 "date":"2022-07-06",
 "total":875
+},
+{
+"date":"2022-07-11",
+"total":885
 }
 ],
 "package":"autodock",
@@ -1334,6 +1338,15 @@
 {
 "basename":"autodock-4.2.6-hb339e23_1.tar.bz2",
 "total":272
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"autodock-4.2.6-hb339e23_1.tar.bz2",
+"total":282
 }
 ]
 }

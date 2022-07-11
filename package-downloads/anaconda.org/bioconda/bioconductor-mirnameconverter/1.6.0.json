@@ -1200,6 +1200,10 @@
 {
 "date":"2022-07-06",
 "total":2901
+},
+{
+"date":"2022-07-11",
+"total":2911
 }
 ],
 "downloads_per_subdir":[
@@ -1209,7 +1213,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2510
+"total":2520
 }
 ],
 "package":"bioconductor-mirnameconverter",
@@ -1342,6 +1346,15 @@
 {
 "subdir":"osx-64",
 "total":2510
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2520
 }
 ]
 }

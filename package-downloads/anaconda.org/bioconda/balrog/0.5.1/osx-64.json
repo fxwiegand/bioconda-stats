@@ -7,7 +7,7 @@
 },
 {
 "basename":"balrog-0.5.1-ha276ee6_2.tar.bz2",
-"total":278
+"total":288
 },
 {
 "basename":"balrog-0.5.1-h87af4ef_1.tar.bz2",
@@ -1222,6 +1222,10 @@
 {
 "date":"2022-07-06",
 "total":1014
+},
+{
+"date":"2022-07-11",
+"total":1024
 }
 ],
 "package":"balrog",
@@ -1338,6 +1342,15 @@
 {
 "basename":"balrog-0.5.1-ha276ee6_2.tar.bz2",
 "total":278
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"balrog-0.5.1-ha276ee6_2.tar.bz2",
+"total":288
 }
 ]
 }

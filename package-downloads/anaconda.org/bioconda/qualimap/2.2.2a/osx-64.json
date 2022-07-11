@@ -7,7 +7,7 @@
 },
 {
 "basename":"qualimap-2.2.2a-1.tar.bz2",
-"total":828
+"total":831
 },
 {
 "basename":"qualimap-2.2.2a-2.tar.bz2",
@@ -1022,6 +1022,10 @@
 {
 "date":"2022-07-06",
 "total":2801
+},
+{
+"date":"2022-07-11",
+"total":2804
 }
 ],
 "package":"qualimap",
@@ -1127,6 +1131,15 @@
 {
 "basename":"qualimap-2.2.2a-2.tar.bz2",
 "total":1868
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"qualimap-2.2.2a-1.tar.bz2",
+"total":831
 }
 ]
 }

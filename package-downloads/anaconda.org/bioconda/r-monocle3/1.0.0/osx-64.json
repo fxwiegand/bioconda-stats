@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-monocle3-1.0.0-r41hcd10b59_2.tar.bz2",
-"total":278
+"total":287
 },
 {
 "basename":"r-monocle3-1.0.0-r41hb280591_1.tar.bz2",
@@ -1194,6 +1194,10 @@
 {
 "date":"2022-07-06",
 "total":1003
+},
+{
+"date":"2022-07-11",
+"total":1012
 }
 ],
 "package":"r-monocle3",
@@ -1330,6 +1334,15 @@
 {
 "basename":"r-monocle3-1.0.0-r41hcd10b59_2.tar.bz2",
 "total":278
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"r-monocle3-1.0.0-r41hcd10b59_2.tar.bz2",
+"total":287
 }
 ]
 }

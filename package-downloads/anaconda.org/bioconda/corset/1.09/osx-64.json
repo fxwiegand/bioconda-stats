@@ -11,7 +11,7 @@
 },
 {
 "basename":"corset-1.09-h87af4ef_2.tar.bz2",
-"total":851
+"total":860
 },
 {
 "basename":"corset-1.09-h2dec4b4_1.tar.bz2",
@@ -1206,6 +1206,10 @@
 {
 "date":"2022-07-06",
 "total":2113
+},
+{
+"date":"2022-07-11",
+"total":2122
 }
 ],
 "package":"corset",
@@ -1338,6 +1342,15 @@
 {
 "basename":"corset-1.09-h87af4ef_2.tar.bz2",
 "total":851
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"corset-1.09-h87af4ef_2.tar.bz2",
+"total":860
 }
 ]
 }

@@ -136,6 +136,10 @@
 {
 "date":"2022-07-06",
 "total":289
+},
+{
+"date":"2022-07-11",
+"total":299
 }
 ],
 "downloads_per_subdir":[
@@ -145,7 +149,7 @@
 },
 {
 "subdir":"osx-64",
-"total":252
+"total":262
 }
 ],
 "package":"bioconductor-biodbhmdb",
@@ -278,6 +282,15 @@
 {
 "subdir":"osx-64",
 "total":252
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":262
 }
 ]
 }

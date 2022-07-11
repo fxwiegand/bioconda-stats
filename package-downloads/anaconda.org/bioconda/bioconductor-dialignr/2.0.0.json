@@ -1156,6 +1156,10 @@
 {
 "date":"2022-07-06",
 "total":859
+},
+{
+"date":"2022-07-11",
+"total":869
 }
 ],
 "downloads_per_subdir":[
@@ -1165,7 +1169,7 @@
 },
 {
 "subdir":"osx-64",
-"total":776
+"total":786
 }
 ],
 "package":"bioconductor-dialignr",
@@ -1298,6 +1302,15 @@
 {
 "subdir":"osx-64",
 "total":776
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":786
 }
 ]
 }

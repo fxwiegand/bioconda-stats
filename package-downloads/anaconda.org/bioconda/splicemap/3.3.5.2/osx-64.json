@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"splicemap-3.3.5.2-hcd10b59_4.tar.bz2",
-"total":255
+"total":265
 },
 {
 "basename":"splicemap-3.3.5.2-0.tar.bz2",
@@ -1230,6 +1230,10 @@
 {
 "date":"2022-07-06",
 "total":2592
+},
+{
+"date":"2022-07-11",
+"total":2602
 }
 ],
 "package":"splicemap",
@@ -1362,6 +1366,15 @@
 {
 "basename":"splicemap-3.3.5.2-hcd10b59_4.tar.bz2",
 "total":255
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"splicemap-3.3.5.2-hcd10b59_4.tar.bz2",
+"total":265
 }
 ]
 }

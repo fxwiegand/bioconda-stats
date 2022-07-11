@@ -19,7 +19,7 @@
 },
 {
 "basename":"r-ncbit-2013.03.29-r40h6115d3f_3.tar.bz2",
-"total":1512
+"total":1523
 }
 ],
 "downloads_per_date":[
@@ -1230,6 +1230,10 @@
 {
 "date":"2022-07-06",
 "total":2715
+},
+{
+"date":"2022-07-11",
+"total":2726
 }
 ],
 "package":"r-ncbit",
@@ -1362,6 +1366,15 @@
 {
 "basename":"r-ncbit-2013.03.29-r40h6115d3f_3.tar.bz2",
 "total":1512
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"r-ncbit-2013.03.29-r40h6115d3f_3.tar.bz2",
+"total":1523
 }
 ]
 }

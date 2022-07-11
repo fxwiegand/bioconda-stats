@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"meryl-1.3-h61da179_1.tar.bz2",
-"total":273
+"total":283
 },
 {
 "basename":"meryl-1.3-h589c0e0_0.tar.bz2",
@@ -1218,6 +1218,10 @@
 {
 "date":"2022-07-06",
 "total":932
+},
+{
+"date":"2022-07-11",
+"total":942
 }
 ],
 "package":"meryl",
@@ -1334,6 +1338,15 @@
 {
 "basename":"meryl-1.3-h589c0e0_0.tar.bz2",
 "total":659
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"meryl-1.3-h61da179_1.tar.bz2",
+"total":283
 }
 ]
 }

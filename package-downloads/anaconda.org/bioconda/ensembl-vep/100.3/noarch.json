@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ensembl-vep-100.3-pl526hecda079_0.tar.bz2",
-"total":1013
+"total":1024
 }
 ],
 "downloads_per_date":[
@@ -1110,6 +1110,10 @@
 {
 "date":"2022-07-06",
 "total":1013
+},
+{
+"date":"2022-07-11",
+"total":1024
 }
 ],
 "package":"ensembl-vep",
@@ -1210,6 +1214,15 @@
 {
 "basename":"ensembl-vep-100.3-pl526hecda079_0.tar.bz2",
 "total":1013
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"ensembl-vep-100.3-pl526hecda079_0.tar.bz2",
+"total":1024
 }
 ]
 }

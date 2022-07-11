@@ -19,7 +19,7 @@
 },
 {
 "basename":"meta-apo-1.1-hcd10b59_4.tar.bz2",
-"total":251
+"total":259
 }
 ],
 "downloads_per_date":[
@@ -910,6 +910,10 @@
 {
 "date":"2022-07-06",
 "total":655
+},
+{
+"date":"2022-07-11",
+"total":663
 }
 ],
 "package":"meta-apo",
@@ -1042,6 +1046,15 @@
 {
 "basename":"meta-apo-1.1-hcd10b59_4.tar.bz2",
 "total":251
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"meta-apo-1.1-hcd10b59_4.tar.bz2",
+"total":259
 }
 ]
 }

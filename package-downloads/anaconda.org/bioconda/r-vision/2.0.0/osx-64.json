@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-vision-2.0.0-r41hcd10b59_4.tar.bz2",
-"total":269
+"total":279
 },
 {
 "basename":"r-vision-2.0.0-r36h770b8ee_0.tar.bz2",
@@ -1230,6 +1230,10 @@
 {
 "date":"2022-07-06",
 "total":2015
+},
+{
+"date":"2022-07-11",
+"total":2025
 }
 ],
 "package":"r-vision",
@@ -1366,6 +1370,15 @@
 {
 "basename":"r-vision-2.0.0-r41hcd10b59_4.tar.bz2",
 "total":269
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"r-vision-2.0.0-r41hcd10b59_4.tar.bz2",
+"total":279
 }
 ]
 }

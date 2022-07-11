@@ -7,7 +7,7 @@
 },
 {
 "basename":"probconsrna-1.10-hcd10b59_2.tar.bz2",
-"total":256
+"total":266
 },
 {
 "basename":"probconsrna-1.10-hb280591_1.tar.bz2",
@@ -1226,6 +1226,10 @@
 {
 "date":"2022-07-06",
 "total":1055
+},
+{
+"date":"2022-07-11",
+"total":1065
 }
 ],
 "package":"probconsrna",
@@ -1342,6 +1346,15 @@
 {
 "basename":"probconsrna-1.10-hcd10b59_2.tar.bz2",
 "total":256
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"probconsrna-1.10-hcd10b59_2.tar.bz2",
+"total":266
 }
 ]
 }

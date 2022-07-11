@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-pig.db0-3.8.2-r36_1.tar.bz2",
-"total":634
+"total":643
 }
 ],
 "downloads_per_date":[
@@ -1022,6 +1022,10 @@
 {
 "date":"2022-07-06",
 "total":634
+},
+{
+"date":"2022-07-11",
+"total":643
 }
 ],
 "package":"bioconductor-pig.db0",
@@ -1122,6 +1126,15 @@
 {
 "basename":"bioconductor-pig.db0-3.8.2-r36_1.tar.bz2",
 "total":634
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pig.db0-3.8.2-r36_1.tar.bz2",
+"total":643
 }
 ]
 }

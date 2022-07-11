@@ -1180,6 +1180,10 @@
 {
 "date":"2022-07-06",
 "total":2593
+},
+{
+"date":"2022-07-11",
+"total":2601
 }
 ],
 "downloads_per_subdir":[
@@ -1189,7 +1193,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2394
+"total":2402
 }
 ],
 "package":"bioconductor-ebcoexpress",
@@ -1322,6 +1326,15 @@
 {
 "subdir":"osx-64",
 "total":2394
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2402
 }
 ]
 }

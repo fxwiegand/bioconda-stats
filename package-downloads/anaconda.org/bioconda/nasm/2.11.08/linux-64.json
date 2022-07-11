@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"nasm-2.11.08-0.tar.bz2",
-"total":3284
+"total":3296
 }
 ],
 "downloads_per_date":[
@@ -1218,6 +1218,10 @@
 {
 "date":"2022-07-06",
 "total":3284
+},
+{
+"date":"2022-07-11",
+"total":3296
 }
 ],
 "package":"nasm",
@@ -1318,6 +1322,15 @@
 {
 "basename":"nasm-2.11.08-0.tar.bz2",
 "total":3284
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"nasm-2.11.08-0.tar.bz2",
+"total":3296
 }
 ]
 }

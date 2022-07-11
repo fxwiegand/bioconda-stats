@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-affyio-1.64.0-r41haba8685_1.tar.bz2",
-"total":341
+"total":352
 },
 {
 "basename":"bioconductor-affyio-1.64.0-r41h68a2ddb_0.tar.bz2",
@@ -578,6 +578,10 @@
 {
 "date":"2022-07-06",
 "total":775
+},
+{
+"date":"2022-07-11",
+"total":786
 }
 ],
 "package":"bioconductor-affyio",
@@ -690,6 +694,15 @@
 {
 "basename":"bioconductor-affyio-1.64.0-r41haba8685_1.tar.bz2",
 "total":341
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-affyio-1.64.0-r41haba8685_1.tar.bz2",
+"total":352
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-oligo-1.58.0-r41haba8685_1.tar.bz2",
-"total":254
+"total":264
 },
 {
 "basename":"bioconductor-oligo-1.58.0-r41h68a2ddb_0.tar.bz2",
@@ -562,6 +562,10 @@
 {
 "date":"2022-07-06",
 "total":623
+},
+{
+"date":"2022-07-11",
+"total":633
 }
 ],
 "package":"bioconductor-oligo",
@@ -670,6 +674,15 @@
 {
 "basename":"bioconductor-oligo-1.58.0-r41haba8685_1.tar.bz2",
 "total":254
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-oligo-1.58.0-r41haba8685_1.tar.bz2",
+"total":264
 }
 ]
 }

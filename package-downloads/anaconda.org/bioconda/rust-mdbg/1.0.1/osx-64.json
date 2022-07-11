@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"rust-mdbg-1.0.1-hcd10b59_1.tar.bz2",
-"total":252
+"total":262
 },
 {
 "basename":"rust-mdbg-1.0.1-hb280591_0.tar.bz2",
@@ -678,6 +678,10 @@
 {
 "date":"2022-07-06",
 "total":534
+},
+{
+"date":"2022-07-11",
+"total":544
 }
 ],
 "package":"rust-mdbg",
@@ -786,6 +790,15 @@
 {
 "basename":"rust-mdbg-1.0.1-hcd10b59_1.tar.bz2",
 "total":252
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"rust-mdbg-1.0.1-hcd10b59_1.tar.bz2",
+"total":262
 }
 ]
 }

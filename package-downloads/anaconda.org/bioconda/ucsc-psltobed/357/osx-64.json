@@ -11,7 +11,7 @@
 },
 {
 "basename":"ucsc-psltobed-357-h5eb252a_2.tar.bz2",
-"total":2302
+"total":2312
 }
 ],
 "downloads_per_date":[
@@ -1226,6 +1226,10 @@
 {
 "date":"2022-07-06",
 "total":2618
+},
+{
+"date":"2022-07-11",
+"total":2628
 }
 ],
 "package":"ucsc-psltobed",
@@ -1342,6 +1346,15 @@
 {
 "basename":"ucsc-psltobed-357-h5eb252a_2.tar.bz2",
 "total":2302
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-psltobed-357-h5eb252a_2.tar.bz2",
+"total":2312
 }
 ]
 }

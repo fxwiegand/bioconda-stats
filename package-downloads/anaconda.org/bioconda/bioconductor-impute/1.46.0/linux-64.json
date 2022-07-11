@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-impute-1.46.0-r3.3.1_1.tar.bz2",
-"total":1036
+"total":1037
 },
 {
 "basename":"bioconductor-impute-1.46.0-r3.3.1_0.tar.bz2",
@@ -490,6 +490,10 @@
 {
 "date":"2022-07-06",
 "total":4320
+},
+{
+"date":"2022-07-11",
+"total":4321
 }
 ],
 "package":"bioconductor-impute",
@@ -673,6 +677,15 @@
 {
 "basename":"bioconductor-impute-1.46.0-r3.3.2_1.tar.bz2",
 "total":1344
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-impute-1.46.0-r3.3.1_1.tar.bz2",
+"total":1037
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-pi-1.12.0-r36_1.tar.bz2",
-"total":708
+"total":719
 }
 ],
 "downloads_per_date":[
@@ -1074,6 +1074,10 @@
 {
 "date":"2022-07-06",
 "total":708
+},
+{
+"date":"2022-07-11",
+"total":719
 }
 ],
 "package":"bioconductor-pi",
@@ -1174,6 +1178,15 @@
 {
 "basename":"bioconductor-pi-1.12.0-r36_1.tar.bz2",
 "total":708
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-pi-1.12.0-r36_1.tar.bz2",
+"total":719
 }
 ]
 }

@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"ucsc-farc-332-0.tar.bz2",
-"total":1001
+"total":1002
 }
 ],
 "downloads_per_date":[
@@ -210,6 +210,10 @@
 {
 "date":"2022-07-06",
 "total":1001
+},
+{
+"date":"2022-07-11",
+"total":1002
 }
 ],
 "package":"ucsc-farc",
@@ -265,6 +269,15 @@
 {
 "basename":"ucsc-farc-332-0.tar.bz2",
 "total":1001
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-farc-332-0.tar.bz2",
+"total":1002
 }
 ]
 }

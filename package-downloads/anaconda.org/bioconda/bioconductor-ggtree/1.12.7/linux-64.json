@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-ggtree-1.12.7-r341_0.tar.bz2",
-"total":348
+"total":349
 },
 {
 "basename":"bioconductor-ggtree-1.12.7-r351_0.tar.bz2",
@@ -494,6 +494,10 @@
 {
 "date":"2022-07-06",
 "total":1016
+},
+{
+"date":"2022-07-11",
+"total":1017
 }
 ],
 "package":"bioconductor-ggtree",
@@ -608,6 +612,15 @@
 {
 "basename":"bioconductor-ggtree-1.12.7-r351_0.tar.bz2",
 "total":668
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ggtree-1.12.7-r341_0.tar.bz2",
+"total":349
 }
 ]
 }

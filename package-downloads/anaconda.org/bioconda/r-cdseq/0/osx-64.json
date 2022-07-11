@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-cdseq-0-r41hcd10b59_1.tar.bz2",
-"total":240
+"total":250
 }
 ],
 "downloads_per_date":[
@@ -514,6 +514,10 @@
 {
 "date":"2022-07-06",
 "total":437
+},
+{
+"date":"2022-07-11",
+"total":447
 }
 ],
 "package":"r-cdseq",
@@ -622,6 +626,15 @@
 {
 "basename":"r-cdseq-0-r41hcd10b59_1.tar.bz2",
 "total":240
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"r-cdseq-0-r41hcd10b59_1.tar.bz2",
+"total":250
 }
 ]
 }

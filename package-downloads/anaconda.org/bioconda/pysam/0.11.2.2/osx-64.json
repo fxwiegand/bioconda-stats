@@ -27,7 +27,7 @@
 },
 {
 "basename":"pysam-0.11.2.2-py36_1.tar.bz2",
-"total":3855
+"total":3865
 }
 ],
 "downloads_per_date":[
@@ -1238,6 +1238,10 @@
 {
 "date":"2022-07-06",
 "total":7109
+},
+{
+"date":"2022-07-11",
+"total":7119
 }
 ],
 "package":"pysam",
@@ -1398,6 +1402,15 @@
 {
 "basename":"pysam-0.11.2.2-py36_1.tar.bz2",
 "total":3855
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"pysam-0.11.2.2-py36_1.tar.bz2",
+"total":3865
 }
 ]
 }

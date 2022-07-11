@@ -1192,6 +1192,10 @@
 {
 "date":"2022-07-06",
 "total":4093
+},
+{
+"date":"2022-07-11",
+"total":4101
 }
 ],
 "downloads_per_subdir":[
@@ -1201,7 +1205,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2747
+"total":2755
 }
 ],
 "package":"bioconductor-illuminaio",
@@ -1338,6 +1342,15 @@
 {
 "subdir":"osx-64",
 "total":2747
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2755
 }
 ]
 }

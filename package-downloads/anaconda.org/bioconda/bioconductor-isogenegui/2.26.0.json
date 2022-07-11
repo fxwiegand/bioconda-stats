@@ -1208,6 +1208,10 @@
 {
 "date":"2022-07-06",
 "total":1387
+},
+{
+"date":"2022-07-11",
+"total":1397
 }
 ],
 "downloads_per_subdir":[
@@ -1217,7 +1221,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1209
+"total":1219
 }
 ],
 "package":"bioconductor-isogenegui",
@@ -1350,6 +1354,15 @@
 {
 "subdir":"osx-64",
 "total":1209
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1219
 }
 ]
 }

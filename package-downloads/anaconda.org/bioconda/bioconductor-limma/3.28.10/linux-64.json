@@ -19,7 +19,7 @@
 },
 {
 "basename":"bioconductor-limma-3.28.10-0.tar.bz2",
-"total":6260
+"total":6276
 }
 ],
 "downloads_per_date":[
@@ -1130,6 +1130,10 @@
 {
 "date":"2022-07-06",
 "total":8002
+},
+{
+"date":"2022-07-11",
+"total":8018
 }
 ],
 "package":"bioconductor-limma",
@@ -1354,6 +1358,15 @@
 {
 "basename":"bioconductor-limma-3.28.10-0.tar.bz2",
 "total":6260
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-limma-3.28.10-0.tar.bz2",
+"total":6276
 }
 ]
 }

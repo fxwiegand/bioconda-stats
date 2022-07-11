@@ -55,7 +55,7 @@
 },
 {
 "basename":"cyvcf2-0.30.11-py39hdf7032d_0.tar.bz2",
-"total":610
+"total":618
 },
 {
 "basename":"cyvcf2-0.30.11-py39h967de6e_2.tar.bz2",
@@ -1014,6 +1014,10 @@
 {
 "date":"2022-07-06",
 "total":1737
+},
+{
+"date":"2022-07-11",
+"total":1745
 }
 ],
 "package":"cyvcf2",
@@ -1262,6 +1266,15 @@
 {
 "basename":"cyvcf2-0.30.11-py39h967de6e_2.tar.bz2",
 "total":665
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"cyvcf2-0.30.11-py39hdf7032d_0.tar.bz2",
+"total":618
 }
 ]
 }

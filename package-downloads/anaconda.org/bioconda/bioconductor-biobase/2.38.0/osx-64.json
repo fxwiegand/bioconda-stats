@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-biobase-2.38.0-r351h219a75b_1.tar.bz2",
-"total":2373
+"total":2383
 },
 {
 "basename":"bioconductor-biobase-2.38.0-r341h219a75b_1.tar.bz2",
@@ -1226,6 +1226,10 @@
 {
 "date":"2022-07-06",
 "total":13356
+},
+{
+"date":"2022-07-11",
+"total":13366
 }
 ],
 "package":"bioconductor-biobase",
@@ -1354,6 +1358,15 @@
 {
 "basename":"bioconductor-biobase-2.38.0-r351h219a75b_1.tar.bz2",
 "total":2373
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-biobase-2.38.0-r351h219a75b_1.tar.bz2",
+"total":2383
 }
 ]
 }

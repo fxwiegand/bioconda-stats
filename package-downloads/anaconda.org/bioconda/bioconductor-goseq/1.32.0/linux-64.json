@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-goseq-1.32.0-r351_0.tar.bz2",
-"total":332
+"total":335
 },
 {
 "basename":"bioconductor-goseq-1.32.0-r341_0.tar.bz2",
@@ -394,6 +394,10 @@
 {
 "date":"2022-07-06",
 "total":723
+},
+{
+"date":"2022-07-11",
+"total":726
 }
 ],
 "package":"bioconductor-goseq",
@@ -512,6 +516,15 @@
 {
 "basename":"bioconductor-goseq-1.32.0-r341_0.tar.bz2",
 "total":391
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-goseq-1.32.0-r351_0.tar.bz2",
+"total":335
 }
 ]
 }

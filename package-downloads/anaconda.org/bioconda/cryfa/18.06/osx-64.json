@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"cryfa-18.06-hcd10b59_2.tar.bz2",
-"total":254
+"total":264
 },
 {
 "basename":"cryfa-18.06-hb280591_1.tar.bz2",
@@ -1198,6 +1198,10 @@
 {
 "date":"2022-07-06",
 "total":1964
+},
+{
+"date":"2022-07-11",
+"total":1974
 }
 ],
 "package":"cryfa",
@@ -1314,6 +1318,15 @@
 {
 "basename":"cryfa-18.06-hcd10b59_2.tar.bz2",
 "total":254
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"cryfa-18.06-hcd10b59_2.tar.bz2",
+"total":264
 }
 ]
 }

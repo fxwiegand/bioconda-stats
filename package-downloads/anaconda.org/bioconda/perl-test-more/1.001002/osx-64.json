@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-test-more-1.001002-pl526_1.tar.bz2",
-"total":5207
+"total":5211
 }
 ],
 "downloads_per_date":[
@@ -1194,6 +1194,10 @@
 {
 "date":"2022-07-06",
 "total":7699
+},
+{
+"date":"2022-07-11",
+"total":7703
 }
 ],
 "package":"perl-test-more",
@@ -1317,6 +1321,15 @@
 {
 "basename":"perl-test-more-1.001002-pl526_1.tar.bz2",
 "total":5207
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"perl-test-more-1.001002-pl526_1.tar.bz2",
+"total":5211
 }
 ]
 }

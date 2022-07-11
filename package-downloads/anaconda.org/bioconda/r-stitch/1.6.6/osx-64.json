@@ -7,7 +7,7 @@
 },
 {
 "basename":"r-stitch-1.6.6-r41h435733d_2.tar.bz2",
-"total":264
+"total":275
 },
 {
 "basename":"r-stitch-1.6.6-r41h2dee541_1.tar.bz2",
@@ -1226,6 +1226,10 @@
 {
 "date":"2022-07-06",
 "total":944
+},
+{
+"date":"2022-07-11",
+"total":955
 }
 ],
 "package":"r-stitch",
@@ -1346,6 +1350,15 @@
 {
 "basename":"r-stitch-1.6.6-r41h435733d_2.tar.bz2",
 "total":264
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"r-stitch-1.6.6-r41h435733d_2.tar.bz2",
+"total":275
 }
 ]
 }

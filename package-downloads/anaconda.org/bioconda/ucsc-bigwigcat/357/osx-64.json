@@ -11,7 +11,7 @@
 },
 {
 "basename":"ucsc-bigwigcat-357-h5eb252a_2.tar.bz2",
-"total":2302
+"total":2312
 }
 ],
 "downloads_per_date":[
@@ -1222,6 +1222,10 @@
 {
 "date":"2022-07-06",
 "total":2657
+},
+{
+"date":"2022-07-11",
+"total":2667
 }
 ],
 "package":"ucsc-bigwigcat",
@@ -1350,6 +1354,15 @@
 {
 "basename":"ucsc-bigwigcat-357-h5eb252a_2.tar.bz2",
 "total":2302
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"ucsc-bigwigcat-357-h5eb252a_2.tar.bz2",
+"total":2312
 }
 ]
 }

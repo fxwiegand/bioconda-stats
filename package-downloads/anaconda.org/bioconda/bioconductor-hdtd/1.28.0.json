@@ -568,6 +568,10 @@
 {
 "date":"2022-07-06",
 "total":589
+},
+{
+"date":"2022-07-11",
+"total":599
 }
 ],
 "downloads_per_subdir":[
@@ -577,7 +581,7 @@
 },
 {
 "subdir":"osx-64",
-"total":504
+"total":514
 }
 ],
 "package":"bioconductor-hdtd",
@@ -710,6 +714,15 @@
 {
 "subdir":"osx-64",
 "total":504
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":514
 }
 ]
 }

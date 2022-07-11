@@ -1204,6 +1204,10 @@
 {
 "date":"2022-07-06",
 "total":1592
+},
+{
+"date":"2022-07-11",
+"total":1602
 }
 ],
 "downloads_per_subdir":[
@@ -1213,7 +1217,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1487
+"total":1497
 }
 ],
 "package":"bioconductor-genegeneinter",
@@ -1346,6 +1350,15 @@
 {
 "subdir":"osx-64",
 "total":1487
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1497
 }
 ]
 }

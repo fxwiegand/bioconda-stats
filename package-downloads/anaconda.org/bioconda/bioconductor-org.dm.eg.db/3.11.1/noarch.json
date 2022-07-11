@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-org.dm.eg.db-3.11.1-r40_0.tar.bz2",
-"total":631
+"total":640
 }
 ],
 "downloads_per_date":[
@@ -1030,6 +1030,10 @@
 {
 "date":"2022-07-06",
 "total":631
+},
+{
+"date":"2022-07-11",
+"total":640
 }
 ],
 "package":"bioconductor-org.dm.eg.db",
@@ -1130,6 +1134,15 @@
 {
 "basename":"bioconductor-org.dm.eg.db-3.11.1-r40_0.tar.bz2",
 "total":631
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-org.dm.eg.db-3.11.1-r40_0.tar.bz2",
+"total":640
 }
 ]
 }

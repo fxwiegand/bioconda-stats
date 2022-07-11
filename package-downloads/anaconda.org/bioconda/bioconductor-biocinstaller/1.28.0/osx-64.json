@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-biocinstaller-1.28.0-r351_1.tar.bz2",
-"total":2387
+"total":2395
 }
 ],
 "downloads_per_date":[
@@ -1198,6 +1198,10 @@
 {
 "date":"2022-07-06",
 "total":3354
+},
+{
+"date":"2022-07-11",
+"total":3362
 }
 ],
 "package":"bioconductor-biocinstaller",
@@ -1338,6 +1342,15 @@
 {
 "basename":"bioconductor-biocinstaller-1.28.0-r351_1.tar.bz2",
 "total":2387
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-biocinstaller-1.28.0-r351_1.tar.bz2",
+"total":2395
 }
 ]
 }

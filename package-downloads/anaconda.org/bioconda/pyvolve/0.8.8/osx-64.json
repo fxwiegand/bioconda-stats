@@ -11,7 +11,7 @@
 },
 {
 "basename":"pyvolve-0.8.8-py36_0.tar.bz2",
-"total":1818
+"total":1819
 }
 ],
 "downloads_per_date":[
@@ -706,6 +706,10 @@
 {
 "date":"2022-07-06",
 "total":2022
+},
+{
+"date":"2022-07-11",
+"total":2023
 }
 ],
 "package":"pyvolve",
@@ -750,6 +754,15 @@
 {
 "basename":"pyvolve-0.8.8-py35_0.tar.bz2",
 "total":39
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"pyvolve-0.8.8-py36_0.tar.bz2",
+"total":1819
 }
 ]
 }

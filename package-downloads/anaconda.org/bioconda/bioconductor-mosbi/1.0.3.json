@@ -136,6 +136,10 @@
 {
 "date":"2022-07-06",
 "total":284
+},
+{
+"date":"2022-07-11",
+"total":294
 }
 ],
 "downloads_per_subdir":[
@@ -145,7 +149,7 @@
 },
 {
 "subdir":"osx-64",
-"total":248
+"total":258
 }
 ],
 "package":"bioconductor-mosbi",
@@ -278,6 +282,15 @@
 {
 "subdir":"osx-64",
 "total":248
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":258
 }
 ]
 }

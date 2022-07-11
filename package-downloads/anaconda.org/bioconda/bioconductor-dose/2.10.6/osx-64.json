@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-dose-2.10.6-0.tar.bz2",
-"total":5028
+"total":5044
 }
 ],
 "downloads_per_date":[
@@ -1198,6 +1198,10 @@
 {
 "date":"2022-07-06",
 "total":5028
+},
+{
+"date":"2022-07-11",
+"total":5044
 }
 ],
 "package":"bioconductor-dose",
@@ -1298,6 +1302,15 @@
 {
 "basename":"bioconductor-dose-2.10.6-0.tar.bz2",
 "total":5028
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-dose-2.10.6-0.tar.bz2",
+"total":5044
 }
 ]
 }

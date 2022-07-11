@@ -7,7 +7,7 @@
 },
 {
 "basename":"edena-3.131028-hcd10b59_4.tar.bz2",
-"total":278
+"total":288
 },
 {
 "basename":"edena-3.131028-ha1b3eb9_2.tar.bz2",
@@ -1234,6 +1234,10 @@
 {
 "date":"2022-07-06",
 "total":2739
+},
+{
+"date":"2022-07-11",
+"total":2749
 }
 ],
 "package":"edena",
@@ -1390,6 +1394,15 @@
 {
 "basename":"edena-3.131028-hcd10b59_4.tar.bz2",
 "total":278
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"edena-3.131028-hcd10b59_4.tar.bz2",
+"total":288
 }
 ]
 }

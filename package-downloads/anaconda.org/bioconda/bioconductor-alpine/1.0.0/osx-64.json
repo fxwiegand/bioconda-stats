@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-alpine-1.0.0-r3.4.1_0.tar.bz2",
-"total":2248
+"total":2256
 }
 ],
 "downloads_per_date":[
@@ -1194,6 +1194,10 @@
 {
 "date":"2022-07-06",
 "total":2624
+},
+{
+"date":"2022-07-11",
+"total":2632
 }
 ],
 "package":"bioconductor-alpine",
@@ -1314,6 +1318,15 @@
 {
 "basename":"bioconductor-alpine-1.0.0-r3.4.1_0.tar.bz2",
 "total":2248
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-alpine-1.0.0-r3.4.1_0.tar.bz2",
+"total":2256
 }
 ]
 }

@@ -1192,6 +1192,10 @@
 {
 "date":"2022-07-06",
 "total":2904
+},
+{
+"date":"2022-07-11",
+"total":2912
 }
 ],
 "downloads_per_subdir":[
@@ -1201,7 +1205,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2494
+"total":2502
 }
 ],
 "package":"bioconductor-dyebias",
@@ -1334,6 +1338,15 @@
 {
 "subdir":"osx-64",
 "total":2494
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2502
 }
 ]
 }

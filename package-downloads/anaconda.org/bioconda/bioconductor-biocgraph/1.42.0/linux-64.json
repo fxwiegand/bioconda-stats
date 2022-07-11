@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-biocgraph-1.42.0-r351_0.tar.bz2",
-"total":2850
+"total":2860
 }
 ],
 "downloads_per_date":[
@@ -1222,6 +1222,10 @@
 {
 "date":"2022-07-06",
 "total":3084
+},
+{
+"date":"2022-07-11",
+"total":3094
 }
 ],
 "package":"bioconductor-biocgraph",
@@ -1354,6 +1358,15 @@
 {
 "basename":"bioconductor-biocgraph-1.42.0-r351_0.tar.bz2",
 "total":2850
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-biocgraph-1.42.0-r351_0.tar.bz2",
+"total":2860
 }
 ]
 }

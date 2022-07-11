@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-champ-2.20.1-r40_0.tar.bz2",
-"total":723
+"total":734
 }
 ],
 "downloads_per_date":[
@@ -1110,6 +1110,10 @@
 {
 "date":"2022-07-06",
 "total":723
+},
+{
+"date":"2022-07-11",
+"total":734
 }
 ],
 "package":"bioconductor-champ",
@@ -1210,6 +1214,15 @@
 {
 "basename":"bioconductor-champ-2.20.1-r40_0.tar.bz2",
 "total":723
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-champ-2.20.1-r40_0.tar.bz2",
+"total":734
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-funchip-1.16.0-r40h832b226_1.tar.bz2",
-"total":848
+"total":856
 }
 ],
 "downloads_per_date":[
@@ -1190,6 +1190,10 @@
 {
 "date":"2022-07-06",
 "total":1154
+},
+{
+"date":"2022-07-11",
+"total":1162
 }
 ],
 "package":"bioconductor-funchip",
@@ -1298,6 +1302,15 @@
 {
 "basename":"bioconductor-funchip-1.16.0-r40h832b226_1.tar.bz2",
 "total":848
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-funchip-1.16.0-r40h832b226_1.tar.bz2",
+"total":856
 }
 ]
 }

@@ -7,7 +7,7 @@
 },
 {
 "basename":"famsa-1.6.2-hcd10b59_2.tar.bz2",
-"total":283
+"total":293
 },
 {
 "basename":"famsa-1.6.2-hb280591_1.tar.bz2",
@@ -1226,6 +1226,10 @@
 {
 "date":"2022-07-06",
 "total":1112
+},
+{
+"date":"2022-07-11",
+"total":1122
 }
 ],
 "package":"famsa",
@@ -1358,6 +1362,15 @@
 {
 "basename":"famsa-1.6.2-hcd10b59_2.tar.bz2",
 "total":283
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"famsa-1.6.2-hcd10b59_2.tar.bz2",
+"total":293
 }
 ]
 }

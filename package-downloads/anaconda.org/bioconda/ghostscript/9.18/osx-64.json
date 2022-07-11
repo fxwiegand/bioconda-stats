@@ -7,7 +7,7 @@
 },
 {
 "basename":"ghostscript-9.18-1.tar.bz2",
-"total":8816
+"total":8835
 }
 ],
 "downloads_per_date":[
@@ -1222,6 +1222,10 @@
 {
 "date":"2022-07-06",
 "total":9208
+},
+{
+"date":"2022-07-11",
+"total":9227
 }
 ],
 "package":"ghostscript",
@@ -1330,6 +1334,15 @@
 {
 "basename":"ghostscript-9.18-1.tar.bz2",
 "total":8816
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"ghostscript-9.18-1.tar.bz2",
+"total":8835
 }
 ]
 }

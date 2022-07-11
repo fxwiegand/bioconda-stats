@@ -568,6 +568,10 @@
 {
 "date":"2022-07-06",
 "total":588
+},
+{
+"date":"2022-07-11",
+"total":598
 }
 ],
 "downloads_per_subdir":[
@@ -577,7 +581,7 @@
 },
 {
 "subdir":"osx-64",
-"total":507
+"total":517
 }
 ],
 "package":"bioconductor-fmcsr",
@@ -714,6 +718,15 @@
 {
 "subdir":"osx-64",
 "total":507
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":517
 }
 ]
 }

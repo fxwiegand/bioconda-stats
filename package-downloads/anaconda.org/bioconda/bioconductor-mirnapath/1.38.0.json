@@ -1212,6 +1212,10 @@
 {
 "date":"2022-07-06",
 "total":3262
+},
+{
+"date":"2022-07-11",
+"total":3272
 }
 ],
 "downloads_per_subdir":[
@@ -1221,7 +1225,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2592
+"total":2602
 }
 ],
 "package":"bioconductor-mirnapath",
@@ -1354,6 +1358,15 @@
 {
 "subdir":"osx-64",
 "total":2592
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2602
 }
 ]
 }

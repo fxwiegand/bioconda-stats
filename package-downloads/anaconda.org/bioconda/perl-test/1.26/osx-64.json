@@ -7,7 +7,7 @@
 },
 {
 "basename":"perl-test-1.26-pl526_1.tar.bz2",
-"total":6700
+"total":6720
 }
 ],
 "downloads_per_date":[
@@ -1222,6 +1222,10 @@
 {
 "date":"2022-07-06",
 "total":7060
+},
+{
+"date":"2022-07-11",
+"total":7080
 }
 ],
 "package":"perl-test",
@@ -1334,6 +1338,15 @@
 {
 "basename":"perl-test-1.26-pl526_1.tar.bz2",
 "total":6700
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"perl-test-1.26-pl526_1.tar.bz2",
+"total":6720
 }
 ]
 }

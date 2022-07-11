@@ -11,7 +11,7 @@
 },
 {
 "basename":"pbsim-1.0.3-hcd10b59_5.tar.bz2",
-"total":260
+"total":270
 },
 {
 "basename":"pbsim-1.0.3-ha1b3eb9_3.tar.bz2",
@@ -1238,6 +1238,10 @@
 {
 "date":"2022-07-06",
 "total":2770
+},
+{
+"date":"2022-07-11",
+"total":2780
 }
 ],
 "package":"pbsim",
@@ -1406,6 +1410,15 @@
 {
 "basename":"pbsim-1.0.3-hcd10b59_5.tar.bz2",
 "total":260
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"pbsim-1.0.3-hcd10b59_5.tar.bz2",
+"total":270
 }
 ]
 }

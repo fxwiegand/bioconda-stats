@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-martini-1.10.0-r40h832b226_1.tar.bz2",
-"total":893
+"total":903
 }
 ],
 "downloads_per_date":[
@@ -1218,6 +1218,10 @@
 {
 "date":"2022-07-06",
 "total":1198
+},
+{
+"date":"2022-07-11",
+"total":1208
 }
 ],
 "package":"bioconductor-martini",
@@ -1326,6 +1330,15 @@
 {
 "basename":"bioconductor-martini-1.10.0-r40h832b226_1.tar.bz2",
 "total":893
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-martini-1.10.0-r40h832b226_1.tar.bz2",
+"total":903
 }
 ]
 }

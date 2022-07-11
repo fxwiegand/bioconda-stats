@@ -7,7 +7,7 @@
 },
 {
 "basename":"bioconductor-cghcall-2.34.1-r3.3.1_0.tar.bz2",
-"total":632
+"total":633
 },
 {
 "basename":"bioconductor-cghcall-2.34.1-r3.3.2_0.tar.bz2",
@@ -414,6 +414,10 @@
 {
 "date":"2022-07-06",
 "total":1905
+},
+{
+"date":"2022-07-11",
+"total":1906
 }
 ],
 "package":"bioconductor-cghcall",
@@ -551,6 +555,15 @@
 {
 "basename":"bioconductor-cghcall-2.34.1-r3.3.2_0.tar.bz2",
 "total":726
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cghcall-2.34.1-r3.3.1_0.tar.bz2",
+"total":633
 }
 ]
 }

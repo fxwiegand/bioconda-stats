@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-ibh-1.36.0-r40_0.tar.bz2",
-"total":616
+"total":625
 }
 ],
 "downloads_per_date":[
@@ -1042,6 +1042,10 @@
 {
 "date":"2022-07-06",
 "total":616
+},
+{
+"date":"2022-07-11",
+"total":625
 }
 ],
 "package":"bioconductor-ibh",
@@ -1142,6 +1146,15 @@
 {
 "basename":"bioconductor-ibh-1.36.0-r40_0.tar.bz2",
 "total":616
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-ibh-1.36.0-r40_0.tar.bz2",
+"total":625
 }
 ]
 }

@@ -1212,6 +1212,10 @@
 {
 "date":"2022-07-06",
 "total":2148
+},
+{
+"date":"2022-07-11",
+"total":2158
 }
 ],
 "downloads_per_subdir":[
@@ -1221,7 +1225,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1941
+"total":1951
 }
 ],
 "package":"bioconductor-fastseg",
@@ -1362,6 +1366,15 @@
 {
 "subdir":"osx-64",
 "total":1941
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1951
 }
 ]
 }

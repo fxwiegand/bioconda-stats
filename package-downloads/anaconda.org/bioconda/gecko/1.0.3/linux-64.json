@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"gecko-1.0.3-h516909a_0.tar.bz2",
-"total":1125
+"total":1136
 }
 ],
 "downloads_per_date":[
@@ -1198,6 +1198,10 @@
 {
 "date":"2022-07-06",
 "total":1125
+},
+{
+"date":"2022-07-11",
+"total":1136
 }
 ],
 "package":"gecko",
@@ -1298,6 +1302,15 @@
 {
 "basename":"gecko-1.0.3-h516909a_0.tar.bz2",
 "total":1125
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"gecko-1.0.3-h516909a_0.tar.bz2",
+"total":1136
 }
 ]
 }

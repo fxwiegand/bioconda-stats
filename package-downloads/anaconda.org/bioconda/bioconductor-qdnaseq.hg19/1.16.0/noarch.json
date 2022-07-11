@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-qdnaseq.hg19-1.16.0-r36_0.tar.bz2",
-"total":968
+"total":980
 }
 ],
 "downloads_per_date":[
@@ -1106,6 +1106,10 @@
 {
 "date":"2022-07-06",
 "total":968
+},
+{
+"date":"2022-07-11",
+"total":980
 }
 ],
 "package":"bioconductor-qdnaseq.hg19",
@@ -1206,6 +1210,15 @@
 {
 "basename":"bioconductor-qdnaseq.hg19-1.16.0-r36_0.tar.bz2",
 "total":968
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-qdnaseq.hg19-1.16.0-r36_0.tar.bz2",
+"total":980
 }
 ]
 }

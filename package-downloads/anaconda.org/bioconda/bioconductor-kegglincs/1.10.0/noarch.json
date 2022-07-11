@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-kegglincs-1.10.0-r36_1.tar.bz2",
-"total":754
+"total":765
 }
 ],
 "downloads_per_date":[
@@ -1086,6 +1086,10 @@
 {
 "date":"2022-07-06",
 "total":754
+},
+{
+"date":"2022-07-11",
+"total":765
 }
 ],
 "package":"bioconductor-kegglincs",
@@ -1186,6 +1190,15 @@
 {
 "basename":"bioconductor-kegglincs-1.10.0-r36_1.tar.bz2",
 "total":754
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-kegglincs-1.10.0-r36_1.tar.bz2",
+"total":765
 }
 ]
 }

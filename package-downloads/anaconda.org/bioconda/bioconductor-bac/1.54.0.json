@@ -548,6 +548,10 @@
 {
 "date":"2022-07-06",
 "total":538
+},
+{
+"date":"2022-07-11",
+"total":546
 }
 ],
 "downloads_per_subdir":[
@@ -557,7 +561,7 @@
 },
 {
 "subdir":"osx-64",
-"total":447
+"total":455
 }
 ],
 "package":"bioconductor-bac",
@@ -690,6 +694,15 @@
 {
 "subdir":"osx-64",
 "total":447
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":455
 }
 ]
 }

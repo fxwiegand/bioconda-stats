@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-deds-1.54.0-r351h470a237_0.tar.bz2",
-"total":250
+"total":251
 },
 {
 "basename":"bioconductor-deds-1.54.0-r341h470a237_0.tar.bz2",
@@ -358,6 +358,10 @@
 {
 "date":"2022-07-06",
 "total":634
+},
+{
+"date":"2022-07-11",
+"total":635
 }
 ],
 "package":"bioconductor-deds",
@@ -463,6 +467,15 @@
 {
 "basename":"bioconductor-deds-1.54.0-r341h470a237_0.tar.bz2",
 "total":384
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-deds-1.54.0-r351h470a237_0.tar.bz2",
+"total":251
 }
 ]
 }

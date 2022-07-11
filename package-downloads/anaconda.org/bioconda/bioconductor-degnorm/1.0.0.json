@@ -1188,6 +1188,10 @@
 {
 "date":"2022-07-06",
 "total":1326
+},
+{
+"date":"2022-07-11",
+"total":1334
 }
 ],
 "downloads_per_subdir":[
@@ -1197,7 +1201,7 @@
 },
 {
 "subdir":"osx-64",
-"total":1146
+"total":1154
 }
 ],
 "package":"bioconductor-degnorm",
@@ -1330,6 +1334,15 @@
 {
 "subdir":"osx-64",
 "total":1146
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":1154
 }
 ]
 }

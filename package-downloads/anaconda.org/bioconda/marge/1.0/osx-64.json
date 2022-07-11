@@ -11,7 +11,7 @@
 },
 {
 "basename":"marge-1.0-py35h24bf2e0_1.tar.bz2",
-"total":276
+"total":277
 },
 {
 "basename":"marge-1.0-py36h24bf2e0_1.tar.bz2",
@@ -782,6 +782,10 @@
 {
 "date":"2022-07-06",
 "total":2115
+},
+{
+"date":"2022-07-11",
+"total":2116
 }
 ],
 "package":"marge",
@@ -838,6 +842,15 @@
 {
 "basename":"marge-1.0-py36h24bf2e0_1.tar.bz2",
 "total":1751
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"marge-1.0-py35h24bf2e0_1.tar.bz2",
+"total":277
 }
 ]
 }

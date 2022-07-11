@@ -11,7 +11,7 @@
 },
 {
 "basename":"dedup-0.12.3-py36_0.tar.bz2",
-"total":1729
+"total":1730
 }
 ],
 "downloads_per_date":[
@@ -762,6 +762,10 @@
 {
 "date":"2022-07-06",
 "total":2082
+},
+{
+"date":"2022-07-11",
+"total":2083
 }
 ],
 "package":"dedup",
@@ -815,6 +819,15 @@
 {
 "basename":"dedup-0.12.3-py35_0.tar.bz2",
 "total":64
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"dedup-0.12.3-py36_0.tar.bz2",
+"total":1730
 }
 ]
 }

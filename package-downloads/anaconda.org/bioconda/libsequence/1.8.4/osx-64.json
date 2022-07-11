@@ -31,7 +31,7 @@
 },
 {
 "basename":"libsequence-1.8.4-htslib1.7_0.tar.bz2",
-"total":2293
+"total":2303
 }
 ],
 "downloads_per_date":[
@@ -1242,6 +1242,10 @@
 {
 "date":"2022-07-06",
 "total":2754
+},
+{
+"date":"2022-07-11",
+"total":2764
 }
 ],
 "package":"libsequence",
@@ -1398,6 +1402,15 @@
 {
 "basename":"libsequence-1.8.4-htslib1.7_0.tar.bz2",
 "total":2293
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"libsequence-1.8.4-htslib1.7_0.tar.bz2",
+"total":2303
 }
 ]
 }

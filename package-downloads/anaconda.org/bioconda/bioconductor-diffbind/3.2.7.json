@@ -668,6 +668,10 @@
 {
 "date":"2022-07-06",
 "total":660
+},
+{
+"date":"2022-07-11",
+"total":670
 }
 ],
 "downloads_per_subdir":[
@@ -677,7 +681,7 @@
 },
 {
 "subdir":"osx-64",
-"total":542
+"total":552
 }
 ],
 "package":"bioconductor-diffbind",
@@ -810,6 +814,15 @@
 {
 "subdir":"osx-64",
 "total":542
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":552
 }
 ]
 }

@@ -1160,6 +1160,10 @@
 {
 "date":"2022-07-06",
 "total":872
+},
+{
+"date":"2022-07-11",
+"total":882
 }
 ],
 "downloads_per_subdir":[
@@ -1169,7 +1173,7 @@
 },
 {
 "subdir":"osx-64",
-"total":800
+"total":810
 }
 ],
 "package":"bioconductor-biomvrcns",
@@ -1302,6 +1306,15 @@
 {
 "subdir":"osx-64",
 "total":800
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":810
 }
 ]
 }

@@ -1212,6 +1212,10 @@
 {
 "date":"2022-07-06",
 "total":5245
+},
+{
+"date":"2022-07-11",
+"total":5255
 }
 ],
 "downloads_per_subdir":[
@@ -1221,7 +1225,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2845
+"total":2855
 }
 ],
 "package":"bioconductor-category",
@@ -1354,6 +1358,15 @@
 {
 "subdir":"osx-64",
 "total":2845
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2855
 }
 ]
 }

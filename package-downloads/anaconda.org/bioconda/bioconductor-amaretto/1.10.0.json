@@ -532,6 +532,10 @@
 {
 "date":"2022-07-06",
 "total":520
+},
+{
+"date":"2022-07-11",
+"total":529
 }
 ],
 "downloads_per_subdir":[
@@ -541,7 +545,7 @@
 },
 {
 "subdir":"osx-64",
-"total":428
+"total":437
 }
 ],
 "package":"bioconductor-amaretto",
@@ -674,6 +678,15 @@
 {
 "subdir":"osx-64",
 "total":428
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":437
 }
 ]
 }

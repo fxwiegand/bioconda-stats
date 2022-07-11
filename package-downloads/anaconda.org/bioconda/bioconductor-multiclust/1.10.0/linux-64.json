@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-multiclust-1.10.0-r341_0.tar.bz2",
-"total":242
+"total":243
 },
 {
 "basename":"bioconductor-multiclust-1.10.0-r351_0.tar.bz2",
@@ -386,6 +386,10 @@
 {
 "date":"2022-07-06",
 "total":605
+},
+{
+"date":"2022-07-11",
+"total":606
 }
 ],
 "package":"bioconductor-multiclust",
@@ -491,6 +495,15 @@
 {
 "basename":"bioconductor-multiclust-1.10.0-r351_0.tar.bz2",
 "total":363
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-multiclust-1.10.0-r341_0.tar.bz2",
+"total":243
 }
 ]
 }

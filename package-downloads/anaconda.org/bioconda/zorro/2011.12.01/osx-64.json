@@ -7,7 +7,7 @@
 },
 {
 "basename":"zorro-2011.12.01-pl5320hb4d813b_2.tar.bz2",
-"total":911
+"total":921
 },
 {
 "basename":"zorro-2011.12.01-pl526h1de35cc_0.tar.bz2",
@@ -1222,6 +1222,10 @@
 {
 "date":"2022-07-06",
 "total":2425
+},
+{
+"date":"2022-07-11",
+"total":2435
 }
 ],
 "package":"zorro",
@@ -1346,6 +1350,15 @@
 {
 "basename":"zorro-2011.12.01-pl5320hb4d813b_2.tar.bz2",
 "total":911
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"zorro-2011.12.01-pl5320hb4d813b_2.tar.bz2",
+"total":921
 }
 ]
 }

@@ -1192,6 +1192,10 @@
 {
 "date":"2022-07-06",
 "total":5186
+},
+{
+"date":"2022-07-11",
+"total":5194
 }
 ],
 "downloads_per_subdir":[
@@ -1201,7 +1205,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2609
+"total":2617
 }
 ],
 "package":"bioconductor-hilbertvis",
@@ -1334,6 +1338,15 @@
 {
 "subdir":"osx-64",
 "total":2609
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2617
 }
 ]
 }

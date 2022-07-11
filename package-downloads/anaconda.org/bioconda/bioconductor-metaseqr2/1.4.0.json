@@ -1156,6 +1156,10 @@
 {
 "date":"2022-07-06",
 "total":861
+},
+{
+"date":"2022-07-11",
+"total":871
 }
 ],
 "downloads_per_subdir":[
@@ -1165,7 +1169,7 @@
 },
 {
 "subdir":"osx-64",
-"total":783
+"total":793
 }
 ],
 "package":"bioconductor-metaseqr2",
@@ -1298,6 +1302,15 @@
 {
 "subdir":"osx-64",
 "total":783
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":793
 }
 ]
 }

@@ -43,7 +43,7 @@
 },
 {
 "basename":"hisat2-2.2.0-py37hbeab489_4.tar.bz2",
-"total":1452
+"total":1462
 }
 ],
 "downloads_per_date":[
@@ -1258,6 +1258,10 @@
 {
 "date":"2022-07-06",
 "total":2966
+},
+{
+"date":"2022-07-11",
+"total":2976
 }
 ],
 "package":"hisat2",
@@ -1482,6 +1486,15 @@
 {
 "basename":"hisat2-2.2.0-py37hbeab489_4.tar.bz2",
 "total":1452
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"hisat2-2.2.0-py37hbeab489_4.tar.bz2",
+"total":1462
 }
 ]
 }

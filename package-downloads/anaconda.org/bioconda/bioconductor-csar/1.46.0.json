@@ -556,6 +556,10 @@
 {
 "date":"2022-07-06",
 "total":543
+},
+{
+"date":"2022-07-11",
+"total":553
 }
 ],
 "downloads_per_subdir":[
@@ -565,7 +569,7 @@
 },
 {
 "subdir":"osx-64",
-"total":461
+"total":471
 }
 ],
 "package":"bioconductor-csar",
@@ -698,6 +702,15 @@
 {
 "subdir":"osx-64",
 "total":461
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":471
 }
 ]
 }

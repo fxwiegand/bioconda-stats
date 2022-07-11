@@ -1188,6 +1188,10 @@
 {
 "date":"2022-07-06",
 "total":2670
+},
+{
+"date":"2022-07-11",
+"total":2678
 }
 ],
 "downloads_per_subdir":[
@@ -1197,7 +1201,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2434
+"total":2442
 }
 ],
 "package":"bioconductor-crlmm",
@@ -1330,6 +1334,15 @@
 {
 "subdir":"osx-64",
 "total":2434
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2442
 }
 ]
 }

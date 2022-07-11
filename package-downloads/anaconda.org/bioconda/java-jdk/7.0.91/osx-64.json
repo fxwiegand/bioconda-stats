@@ -7,7 +7,7 @@
 },
 {
 "basename":"java-jdk-7.0.91-1.tar.bz2",
-"total":4734
+"total":4760
 }
 ],
 "downloads_per_date":[
@@ -1222,6 +1222,10 @@
 {
 "date":"2022-07-06",
 "total":5069
+},
+{
+"date":"2022-07-11",
+"total":5095
 }
 ],
 "package":"java-jdk",
@@ -1334,6 +1338,15 @@
 {
 "basename":"java-jdk-7.0.91-1.tar.bz2",
 "total":4734
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"java-jdk-7.0.91-1.tar.bz2",
+"total":4760
 }
 ]
 }

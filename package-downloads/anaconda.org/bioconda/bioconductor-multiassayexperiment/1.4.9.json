@@ -1196,6 +1196,10 @@
 {
 "date":"2022-07-06",
 "total":2981
+},
+{
+"date":"2022-07-11",
+"total":2989
 }
 ],
 "downloads_per_subdir":[
@@ -1205,7 +1209,7 @@
 },
 {
 "subdir":"osx-64",
-"total":2516
+"total":2524
 }
 ],
 "package":"bioconductor-multiassayexperiment",
@@ -1338,6 +1342,15 @@
 {
 "subdir":"osx-64",
 "total":2516
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_subdir":[
+{
+"subdir":"osx-64",
+"total":2524
 }
 ]
 }

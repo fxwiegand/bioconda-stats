@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"bioconductor-sim-1.62.0-r41h68a2ddb_0.tar.bz2",
-"total":770
+"total":780
 }
 ],
 "downloads_per_date":[
@@ -1170,6 +1170,10 @@
 {
 "date":"2022-07-06",
 "total":770
+},
+{
+"date":"2022-07-11",
+"total":780
 }
 ],
 "package":"bioconductor-sim",
@@ -1270,6 +1274,15 @@
 {
 "basename":"bioconductor-sim-1.62.0-r41h68a2ddb_0.tar.bz2",
 "total":770
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-sim-1.62.0-r41h68a2ddb_0.tar.bz2",
+"total":780
 }
 ]
 }

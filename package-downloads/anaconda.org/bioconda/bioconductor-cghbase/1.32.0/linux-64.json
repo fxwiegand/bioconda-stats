@@ -11,7 +11,7 @@
 },
 {
 "basename":"bioconductor-cghbase-1.32.0-r3.3.1_1.tar.bz2",
-"total":651
+"total":652
 },
 {
 "basename":"bioconductor-cghbase-1.32.0-r3.3.1_0.tar.bz2",
@@ -446,6 +446,10 @@
 {
 "date":"2022-07-06",
 "total":3481
+},
+{
+"date":"2022-07-11",
+"total":3482
 }
 ],
 "package":"bioconductor-cghbase",
@@ -643,6 +647,15 @@
 {
 "basename":"bioconductor-cghbase-1.32.0-0.tar.bz2",
 "total":972
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"bioconductor-cghbase-1.32.0-r3.3.1_1.tar.bz2",
+"total":652
 }
 ]
 }

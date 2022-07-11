@@ -3,7 +3,7 @@
 "downloads_per_basename":[
 {
 "basename":"sra-tools-2.8.0-0.tar.bz2",
-"total":7005
+"total":7026
 }
 ],
 "downloads_per_date":[
@@ -1214,6 +1214,10 @@
 {
 "date":"2022-07-06",
 "total":7005
+},
+{
+"date":"2022-07-11",
+"total":7026
 }
 ],
 "package":"sra-tools",
@@ -1314,6 +1318,15 @@
 {
 "basename":"sra-tools-2.8.0-0.tar.bz2",
 "total":7005
+}
+]
+},
+{
+"date":"2022-07-11",
+"downloads_per_basename":[
+{
+"basename":"sra-tools-2.8.0-0.tar.bz2",
+"total":7026
 }
 ]
 }
